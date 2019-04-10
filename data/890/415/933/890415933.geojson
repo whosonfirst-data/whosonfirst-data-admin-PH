@@ -1,0 +1,68 @@
+{
+  "id": 890415933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5134,13.9034,121.5134,13.9034",
+    "geom:latitude":13.9034,
+    "geom:longitude":121.5134,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5174,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Janagdong"
+    ],
+    "qs:name":"Janagdong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710311,
+        "qs:id":135242
+    },
+    "wof:country":"PH",
+    "wof:created":1469051112,
+    "wof:geomhash":"d7ff784793c1b1fd06e1a606f96bd195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699451,
+            "locality_id":890415933,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890415933,
+    "wof:lastmodified":1505343429,
+    "wof:name":"Janagdong",
+    "wof:parent_id":1108699451,
+    "wof:placetype":"locality",
+    "wof:population":5174,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5134,
+    13.9034,
+    121.5134,
+    13.9034
+],
+  "geometry": {"coordinates":[121.5134,13.9034],"type":"Point"}
+}

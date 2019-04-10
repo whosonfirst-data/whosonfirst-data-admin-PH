@@ -1,0 +1,73 @@
+{
+  "id": 1226771357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1015,11.699,122.1015,11.699",
+    "geom:latitude":11.699,
+    "geom:longitude":122.1015,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60611000.0",
+    "gn:asciiname":"Botbot",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723850,
+    "gn:latitude":11.699,
+    "gn:longitude":122.1015,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Botbot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Botbot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108698775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723850,
+        "wk:page":"Botbot"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"db2d4037eba240714645fd614dc8073d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698775,
+            "locality_id":1226771357,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1226771357,
+    "wof:lastmodified":1537678500,
+    "wof:name":"Botbot",
+    "wof:parent_id":1108698775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1015,
+    11.699,
+    122.1015,
+    11.699
+],
+  "geometry": {"coordinates":[122.1015,11.699],"type":"Point"}
+}

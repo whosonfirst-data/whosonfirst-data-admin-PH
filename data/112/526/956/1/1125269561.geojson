@@ -1,0 +1,81 @@
+{
+  "id": 1125269561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5487,15.75832,120.5487,15.75832",
+    "geom:latitude":15.75832,
+    "geom:longitude":120.5487,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":56263,
+    "gn:population":56263,
+    "iso:country":"PH",
+    "lbl:latitude":15.75832,
+    "lbl:longitude":120.5487,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Moncada"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1699346,
+    "qs_pg:gn_pop":56263,
+    "qs_pg:name":"Moncada",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":903640,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699346,
+        "qs_pg:id":903640
+    },
+    "wof:country":"PH",
+    "wof:created":1497042066,
+    "wof:geomhash":"d4920e6d88bf684864560e2048c9417b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696965,
+            "localadmin_id":1125269561,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1125269561,
+    "wof:lastmodified":1509386983,
+    "wof:name":"Moncada",
+    "wof:parent_id":1108696965,
+    "wof:placetype":"localadmin",
+    "wof:population":56263,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5487,
+    15.75832,
+    120.5487,
+    15.75832
+],
+  "geometry": {"coordinates":[120.5487,15.75832],"type":"Point"}
+}

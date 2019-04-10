@@ -1,0 +1,72 @@
+{
+  "id": 1260067251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37333,5.73528,125.37333,5.73528",
+    "geom:latitude":5.73528,
+    "geom:longitude":125.37333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"M9",
+    "gn:admin3_code":"128002000.0",
+    "gn:asciiname":"Kaliwa",
+    "gn:country_code":"PH",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709603,
+    "gn:latitude":5.73528,
+    "gn:longitude":125.37333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kaliwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kaliwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108697655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709603
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9399ed01b15314d7617f40b633da1012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697655,
+            "locality_id":1260067251,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":1260067251,
+    "wof:lastmodified":1537678089,
+    "wof:name":"Kaliwa",
+    "wof:parent_id":1108697655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37333,
+    5.73528,
+    125.37333,
+    5.73528
+],
+  "geometry": {"coordinates":[125.37333,5.73528],"type":"Point"}
+}

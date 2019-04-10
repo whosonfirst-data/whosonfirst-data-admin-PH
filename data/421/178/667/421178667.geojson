@@ -1,0 +1,82 @@
+{
+  "id": 421178667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48556,9.52806,125.48556,9.52806",
+    "geom:latitude":9.52806,
+    "geom:longitude":125.48556,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "San Francisco"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1690017,
+    "qs:gn_pop":2279,
+    "qs:name":"San Francisco",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Caraga",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":134351,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1190633,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676239,
+        1108698275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690017,
+        "gp:id":1190633,
+        "qs:id":134351
+    },
+    "wof:country":"PH",
+    "wof:created":1459009189,
+    "wof:geomhash":"07ec18f273545e85c6df859a59900bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698275,
+            "locality_id":421178667,
+            "region_id":85676239
+        }
+    ],
+    "wof:id":421178667,
+    "wof:lastmodified":1505340638,
+    "wof:name":"San Francisco",
+    "wof:parent_id":1108698275,
+    "wof:placetype":"locality",
+    "wof:population":2279,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48556,
+    9.52806,
+    125.48556,
+    9.52806
+],
+  "geometry": {"coordinates":[125.48556000000001,9.52806],"type":"Point"}
+}

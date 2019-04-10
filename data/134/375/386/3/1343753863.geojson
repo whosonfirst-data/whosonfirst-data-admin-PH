@@ -1,0 +1,75 @@
+{
+  "id": 1343753863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6412,11.0248,122.6412,11.0248",
+    "geom:latitude":11.0248,
+    "geom:longitude":122.6412,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63016000.0",
+    "gn:asciiname":"Lincod",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706222,
+    "gn:latitude":11.0248,
+    "gn:longitude":122.6412,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lincod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lincod"
+    ],
+    "name:und_x_variant":[
+        "Lincud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706222
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2635df747916228ae51b8bc12c6e49cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697501,
+            "locality_id":1343753863,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1343753863,
+    "wof:lastmodified":1537677992,
+    "wof:name":"Lincod",
+    "wof:parent_id":1108697501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6412,
+    11.0248,
+    122.6412,
+    11.0248
+],
+  "geometry": {"coordinates":[122.6412,11.0248],"type":"Point"}
+}

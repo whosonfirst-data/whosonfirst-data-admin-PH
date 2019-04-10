@@ -1,0 +1,79 @@
+{
+  "id": 421195253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81139,8.32667,124.81139,8.32667",
+    "geom:latitude":8.32667,
+    "geom:longitude":124.81139,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Camp Phillips"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1719555,
+    "qs:gn_pop":0,
+    "qs:name":"Camp Phillips",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Northern Mindanao",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":135487,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1168152,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108698361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719555,
+        "gp:id":1168152,
+        "qs:id":135487
+    },
+    "wof:country":"PH",
+    "wof:created":1459009837,
+    "wof:geomhash":"1eec5b56f9c6844204a40b0b17389c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698361,
+            "locality_id":421195253,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":421195253,
+    "wof:lastmodified":1501221883,
+    "wof:name":"Camp Phillips",
+    "wof:parent_id":1108698361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81139,
+    8.32667,
+    124.81139,
+    8.32667
+],
+  "geometry": {"coordinates":[124.81139,8.32667],"type":"Point"}
+}

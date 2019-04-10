@@ -1,0 +1,72 @@
+{
+  "id": 890434037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4445,10.52166,123.4445,10.52166",
+    "geom:latitude":10.52166,
+    "geom:longitude":123.4445,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2289,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Refugio"
+    ],
+    "name:unk_x_variant":[
+        "Refugio"
+    ],
+    "qs:name":"Hacienda Refugio",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691779,
+        "gp:id":1193921,
+        "qs:id":134472
+    },
+    "wof:country":"PH",
+    "wof:created":1469052007,
+    "wof:geomhash":"cfda8df3bece770898eb23c7788ca74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697215,
+            "locality_id":890434037,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890434037,
+    "wof:lastmodified":1505343539,
+    "wof:name":"Hacienda Refugio",
+    "wof:parent_id":1108697215,
+    "wof:placetype":"locality",
+    "wof:population":2289,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4445,
+    10.52166,
+    123.4445,
+    10.52166
+],
+  "geometry": {"coordinates":[123.44450000000001,10.52166],"type":"Point"}
+}

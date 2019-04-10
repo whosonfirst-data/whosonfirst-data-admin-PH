@@ -1,0 +1,68 @@
+{
+  "id": 890430459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37972,7.13306,125.37972,7.13306",
+    "geom:latitude":7.13306,
+    "geom:longitude":125.37972,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5717,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tomayong"
+    ],
+    "qs:name":"Tamayong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681543,
+        "qs:id":133994
+    },
+    "wof:country":"PH",
+    "wof:created":1469051854,
+    "wof:geomhash":"07d3b59e14d2eac2900c94b7c8e46e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":890430459,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":890430459,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Tamayong",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:population":5717,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37972,
+    7.13306,
+    125.37972,
+    7.13306
+],
+  "geometry": {"coordinates":[125.37972000000001,7.13306],"type":"Point"}
+}

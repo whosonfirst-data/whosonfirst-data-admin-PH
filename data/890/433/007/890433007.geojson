@@ -1,0 +1,69 @@
+{
+  "id": 890433007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.08861,14.11361,121.08861,14.11361",
+    "geom:latitude":14.11361,
+    "geom:longitude":121.08861,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":11342,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bilog-Bilog"
+    ],
+    "qs:name":"Bilog-Bilog",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725245,
+        "gp:id":1167526,
+        "qs:id":88286
+    },
+    "wof:country":"PH",
+    "wof:created":1469051963,
+    "wof:geomhash":"303cbecef31796c1121c133c97fe1079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699665,
+            "locality_id":890433007,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890433007,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Bilog-Bilog",
+    "wof:parent_id":1108699665,
+    "wof:placetype":"locality",
+    "wof:population":11342,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.08861,
+    14.11361,
+    121.08861,
+    14.11361
+],
+  "geometry": {"coordinates":[121.08861,14.11361],"type":"Point"}
+}

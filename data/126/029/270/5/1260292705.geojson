@@ -1,0 +1,74 @@
+{
+  "id": 1260292705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2,17.01667,122.2,17.01667",
+    "geom:latitude":17.01667,
+    "geom:longitude":122.2,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23131000.0",
+    "gn:asciiname":"Tapayo",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682962,
+    "gn:latitude":17.01667,
+    "gn:longitude":122.2,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tapayo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapay",
+        "Tapayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108698735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682962
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c7e0de4e969656f6d4677eb463cf8209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698735,
+            "locality_id":1260292705,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1260292705,
+    "wof:lastmodified":1537677329,
+    "wof:name":"Tapayo",
+    "wof:parent_id":1108698735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2,
+    17.01667,
+    122.2,
+    17.01667
+],
+  "geometry": {"coordinates":[122.2,17.01667],"type":"Point"}
+}

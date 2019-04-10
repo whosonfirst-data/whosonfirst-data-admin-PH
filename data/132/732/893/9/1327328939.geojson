@@ -1,0 +1,73 @@
+{
+  "id": 1327328939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91611,11.18556,124.91611,11.18556",
+    "geom:latitude":11.18556,
+    "geom:longitude":124.91611,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83744000.0",
+    "gn:asciiname":"Santa Fe",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1688169,
+    "gn:latitude":11.18556,
+    "gn:longitude":124.91611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Fe",
+    "gn:population":3010,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108699361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688169,
+        "wk:page":"Santa_Fe%2C_Leyte"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"de094defab2f264b6a4415ef0f675cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699361,
+            "locality_id":1327328939,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1327328939,
+    "wof:lastmodified":1537570366,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":1108699361,
+    "wof:placetype":"locality",
+    "wof:population":3010,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91611,
+    11.18556,
+    124.91611,
+    11.18556
+],
+  "geometry": {"coordinates":[124.91611,11.18556],"type":"Point"}
+}

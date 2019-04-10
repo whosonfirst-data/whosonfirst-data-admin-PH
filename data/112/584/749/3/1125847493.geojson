@@ -1,0 +1,84 @@
+{
+  "id": 1125847493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48127,15.97723,120.48127,15.97723",
+    "geom:latitude":15.97723,
+    "geom:longitude":120.48127,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6111,
+    "gn:population":6111,
+    "iso:country":"PH",
+    "lbl:latitude":15.97723,
+    "lbl:longitude":120.48127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Minien East"
+    ],
+    "name:unk_x_variant":[
+        "Minien"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1699570,
+    "qs_pg:gn_pop":6111,
+    "qs_pg:name":"Minien East",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":87215,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699570,
+        "qs_pg:id":87215
+    },
+    "wof:country":"PH",
+    "wof:created":1497293235,
+    "wof:geomhash":"10002bb22a529501c3ac13d8c212cbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699827,
+            "locality_id":1125847493,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1125847493,
+    "wof:lastmodified":1509395724,
+    "wof:name":"Minien East",
+    "wof:parent_id":1108699827,
+    "wof:placetype":"locality",
+    "wof:population":6111,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48127,
+    15.97723,
+    120.48127,
+    15.97723
+],
+  "geometry": {"coordinates":[120.48126999999999,15.97723],"type":"Point"}
+}

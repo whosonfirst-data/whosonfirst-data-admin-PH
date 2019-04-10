@@ -1,0 +1,68 @@
+{
+  "id": 1276202687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.25389,7.1675,124.25389,7.1675",
+    "geom:latitude":7.1675,
+    "geom:longitude":124.25389,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"B8",
+    "gn:asciiname":"Ampoya",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1978619,
+    "gn:latitude":7.1675,
+    "gn:longitude":124.25389,
+    "gn:modification_date":"2014-03-01",
+    "gn:name":"Ampoya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676305,
+        1108698663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978619
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5a5140c83a805ae93c838ca0a5f1e87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698663,
+            "locality_id":1276202687,
+            "region_id":85676305
+        }
+    ],
+    "wof:id":1276202687,
+    "wof:lastmodified":1536954214,
+    "wof:name":"Ampoya",
+    "wof:parent_id":1108698663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.25388999999998,
+    7.1675,
+    124.25388999999998,
+    7.1675
+],
+  "geometry": {"coordinates":[124.25388999999998,7.1675],"type":"Point"}
+}

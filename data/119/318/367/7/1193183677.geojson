@@ -1,0 +1,78 @@
+{
+  "id": 1193183677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6337,14.265,120.6337,14.265",
+    "geom:latitude":14.265,
+    "geom:longitude":120.6337,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42121000.0",
+    "gn:asciiname":"Caynipa",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717543,
+    "gn:latitude":14.265,
+    "gn:longitude":120.6337,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caynipa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Caynipa Grande"
+    ],
+    "name:fil_x_preferred":[
+        "Caynipa"
+    ],
+    "name:und_x_variant":[
+        "Caynipa Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108699721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717543
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"33ce08ea76b2bb08e74d5b3c117299ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699721,
+            "locality_id":1193183677,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1193183677,
+    "wof:lastmodified":1537678305,
+    "wof:name":"Caynipa",
+    "wof:parent_id":1108699721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6337,
+    14.265,
+    120.6337,
+    14.265
+],
+  "geometry": {"coordinates":[120.6337,14.265],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890435685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,10.31667,123.95,10.31667",
+    "geom:latitude":10.31667,
+    "geom:longitude":123.95,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":241456,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Dakbayan sa Lapu-Lapu"
+    ],
+    "name:fil_x_preferred":[
+        "Lungsod ng Lapu-Lapu"
+    ],
+    "name:unk_x_variant":[
+        "Opon"
+    ],
+    "qs:name":"Lapu-Lapu City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":1022,
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707266,
+        "qs:id":87566,
+        "wd:id":"Q574903",
+        "wk:page":"Lapu-Lapu, Philippines"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052077,
+    "wof:geomhash":"73aa052dd9fe390cfc7309222f503328",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "county_id":890435685
+        }
+    ],
+    "wof:id":890435685,
+    "wof:lastmodified":1527793050,
+    "wof:name":"Lapu-Lapu City",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":241456,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    10.31667,
+    123.95,
+    10.31667
+],
+  "geometry": {"coordinates":[123.95,10.31667],"type":"Point"}
+}

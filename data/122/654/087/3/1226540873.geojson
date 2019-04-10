@@ -1,0 +1,72 @@
+{
+  "id": 1226540873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59427,15.68687,120.59427,15.68687",
+    "geom:latitude":15.68687,
+    "geom:longitude":120.59427,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36910000.0",
+    "gn:asciiname":"San Gregorio",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689863,
+    "gn:latitude":15.68687,
+    "gn:longitude":120.59427,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Gregorio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Gregorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108698791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689863
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"23a2f4c5a277698f6ffd76c095d72b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698791,
+            "locality_id":1226540873,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1226540873,
+    "wof:lastmodified":1537677530,
+    "wof:name":"San Gregorio",
+    "wof:parent_id":1108698791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59427,
+    15.68687,
+    120.59427,
+    15.68687
+],
+  "geometry": {"coordinates":[120.59426999999999,15.68687],"type":"Point"}
+}

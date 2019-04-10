@@ -1,0 +1,63 @@
+{
+  "id": 1209526811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50163,14.82429,120.50163,14.82429",
+    "geom:latitude":14.82429,
+    "geom:longitude":120.50163,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"07",
+    "gn:admin3_code":"30805000.0",
+    "gn:asciiname":"Cataning",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432934,
+    "gn:latitude":14.82429,
+    "gn:longitude":120.50163,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cataning",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432934
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8d5b268c1cbdde2bacafe15c601c1475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209526811
+        }
+    ],
+    "wof:id":1209526811,
+    "wof:lastmodified":1536284409,
+    "wof:name":"Cataning",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50163,
+    14.82429,
+    120.50163,
+    14.82429
+],
+  "geometry": {"coordinates":[120.50163000000001,14.82429],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209415909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.96307,15.32581,120.96307,15.32581",
+    "geom:latitude":15.32581,
+    "geom:longitude":120.96307,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34908000.0",
+    "gn:asciiname":"Pambuan",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695896,
+    "gn:latitude":15.32581,
+    "gn:longitude":120.96307,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pambuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pambuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695896
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6d02fd8aa1dcaa360e0a7f1256710f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209415909
+        }
+    ],
+    "wof:id":1209415909,
+    "wof:lastmodified":1537677697,
+    "wof:name":"Pambuan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.96307,
+    15.32581,
+    120.96307,
+    15.32581
+],
+  "geometry": {"coordinates":[120.96307,15.32581],"type":"Point"}
+}

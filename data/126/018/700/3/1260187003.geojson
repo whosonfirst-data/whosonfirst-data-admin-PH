@@ -1,0 +1,75 @@
+{
+  "id": 1260187003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7064,13.0583,123.7064,13.0583",
+    "geom:latitude":13.0583,
+    "geom:longitude":123.7064,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50503000.0",
+    "gn:asciiname":"Magon",
+    "gn:country_code":"PH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699970,
+    "gn:latitude":13.0583,
+    "gn:longitude":123.7064,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Magon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Magon"
+    ],
+    "name:und_x_variant":[
+        "Mayon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108697449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699970
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c17e5fb72c2325eb6b0df9e4d95fb53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697449,
+            "locality_id":1260187003,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1260187003,
+    "wof:lastmodified":1537677815,
+    "wof:name":"Magon",
+    "wof:parent_id":1108697449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7064,
+    13.0583,
+    123.7064,
+    13.0583
+],
+  "geometry": {"coordinates":[123.7064,13.0583],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890432799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.53333,12.46667,122.53333,12.46667",
+    "geom:latitude":12.46667,
+    "geom:longitude":122.53333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":14056,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Magdiwang"
+    ],
+    "qs:name":"Magdiwang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676007,
+        1108698243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703897,
+        "qs:id":87392,
+        "wk:page":"Magdiwang"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051955,
+    "wof:geomhash":"be144bdea9ff7f7158955b4a9a456a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698243,
+            "localadmin_id":890432799,
+            "region_id":85676007
+        }
+    ],
+    "wof:id":890432799,
+    "wof:lastmodified":1527793031,
+    "wof:name":"Magdiwang",
+    "wof:parent_id":1108698243,
+    "wof:placetype":"localadmin",
+    "wof:population":14056,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.53333,
+    12.46667,
+    122.53333,
+    12.46667
+],
+  "geometry": {"coordinates":[122.53333000000001,12.46667],"type":"Point"}
+}

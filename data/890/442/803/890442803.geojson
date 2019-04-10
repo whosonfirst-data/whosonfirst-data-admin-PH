@@ -1,0 +1,72 @@
+{
+  "id": 890442803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45833,17.74222,120.45833,17.74222",
+    "geom:latitude":17.74222,
+    "geom:longitude":120.45833,
+    "gn:country":"PH",
+    "gn:fcode":"PPLA3",
+    "gn:pop":3148,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lapog"
+    ],
+    "qs:name":"San Juan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":700,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689236,
+        "gp:id":1191131,
+        "qs:id":906800,
+        "wd:id":"Q1320747",
+        "wk:page":"San Juan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052379,
+    "wof:geomhash":"d6c192c9a4229f375803199d495d5ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699225,
+            "locality_id":890442803,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":890442803,
+    "wof:lastmodified":1527792854,
+    "wof:name":"San Juan",
+    "wof:parent_id":1108699225,
+    "wof:placetype":"locality",
+    "wof:population":3148,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45833,
+    17.74222,
+    120.45833,
+    17.74222
+],
+  "geometry": {"coordinates":[120.45833,17.74222],"type":"Point"}
+}

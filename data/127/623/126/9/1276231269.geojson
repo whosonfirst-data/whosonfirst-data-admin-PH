@@ -1,0 +1,76 @@
+{
+  "id": 1276231269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41121,17.58733,120.41121,17.58733",
+    "geom:latitude":17.58733,
+    "geom:longitude":120.41121,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12903000.0",
+    "gn:asciiname":"Bulag West",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723041,
+    "gn:latitude":17.58733,
+    "gn:longitude":120.41121,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bulag West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bulag West"
+    ],
+    "name:und_x_variant":[
+        "Bulag Sur",
+        "Bulag Oeste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108696893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723041
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c57f3d58b7c46a240da8288de83fb527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696893,
+            "locality_id":1276231269,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1276231269,
+    "wof:lastmodified":1537678475,
+    "wof:name":"Bulag West",
+    "wof:parent_id":1108696893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41121,
+    17.58733,
+    120.41121,
+    17.58733
+],
+  "geometry": {"coordinates":[120.41121,17.58733],"type":"Point"}
+}

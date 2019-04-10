@@ -1,0 +1,72 @@
+{
+  "id": 1193121903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.83972,11.9225,124.83972,11.9225",
+    "geom:latitude":11.9225,
+    "geom:longitude":124.83972,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86025000.0",
+    "gn:asciiname":"Quizon",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691962,
+    "gn:latitude":11.9225,
+    "gn:longitude":124.83972,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Quizon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Quizon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108699197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691962
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e34f86a40abbfddd8f02d20aa98bee22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699197,
+            "locality_id":1193121903,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1193121903,
+    "wof:lastmodified":1537677587,
+    "wof:name":"Quizon",
+    "wof:parent_id":1108699197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.83972,
+    11.9225,
+    124.83972,
+    11.9225
+],
+  "geometry": {"coordinates":[124.83972,11.9225],"type":"Point"}
+}

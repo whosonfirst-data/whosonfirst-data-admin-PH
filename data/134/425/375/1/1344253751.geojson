@@ -1,0 +1,72 @@
+{
+  "id": 1344253751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1641,9.8385,124.1641,9.8385",
+    "geom:latitude":9.8385,
+    "geom:longitude":124.1641,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71212000.0",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"PH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688309,
+    "gn:latitude":9.8385,
+    "gn:longitude":124.1641,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688309
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"58d91865fef98b4c0bea2481d2273e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697293,
+            "locality_id":1344253751,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1344253751,
+    "wof:lastmodified":1537677477,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":1108697293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1641,
+    9.8385,
+    124.1641,
+    9.8385
+],
+  "geometry": {"coordinates":[124.1641,9.8385],"type":"Point"}
+}

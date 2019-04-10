@@ -1,0 +1,74 @@
+{
+  "id": 1326820317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.93333,10.91667,124.93333,10.91667",
+    "geom:latitude":10.91667,
+    "geom:longitude":124.93333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83728000.0",
+    "gn:asciiname":"San Victoray",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687364,
+    "gn:latitude":10.91667,
+    "gn:longitude":124.93333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Victoray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Victor",
+        "San Victoray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108698007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687364
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dccd2961e7fd30c94b05bd9dc4890ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698007,
+            "locality_id":1326820317,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1326820317,
+    "wof:lastmodified":1537677445,
+    "wof:name":"San Victoray",
+    "wof:parent_id":1108698007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.93333,
+    10.91667,
+    124.93333,
+    10.91667
+],
+  "geometry": {"coordinates":[124.93333,10.91667],"type":"Point"}
+}

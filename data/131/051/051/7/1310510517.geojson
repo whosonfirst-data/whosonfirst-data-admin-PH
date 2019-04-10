@@ -1,0 +1,78 @@
+{
+  "id": 1310510517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41504,16.04407,120.41504,16.04407",
+    "geom:latitude":16.04407,
+    "geom:longitude":120.41504,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15526000.0",
+    "gn:asciiname":"Amansabina",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731173,
+    "gn:latitude":16.04407,
+    "gn:longitude":120.41504,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Amansabina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Amansabina"
+    ],
+    "name:fil_x_variant":[
+        "Amansabino"
+    ],
+    "name:und_x_variant":[
+        "Amansabino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731173
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b63354c2ec9fe195941c1ff41363f9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698351,
+            "locality_id":1310510517,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1310510517,
+    "wof:lastmodified":1537678716,
+    "wof:name":"Amansabina",
+    "wof:parent_id":1108698351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41504,
+    16.04407,
+    120.41504,
+    16.04407
+],
+  "geometry": {"coordinates":[120.41504,16.04407],"type":"Point"}
+}

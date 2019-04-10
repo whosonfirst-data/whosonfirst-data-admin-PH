@@ -1,0 +1,66 @@
+{
+  "id": 1108699437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000745,
+    "geom:area_square_m":8861639.279926,
+    "geom:bbox":"120.552865184,15.8416756403,120.590360645,15.8744666532",
+    "geom:latitude":15.85875,
+    "geom:longitude":120.571939,
+    "iso:country":"PH",
+    "lbl:latitude":15.856011,
+    "lbl:longitude":120.571585,
+    "meso:admin_1":"PANGASINAN",
+    "meso:admin_1r":"ILOCOS REGION",
+    "meso:diss_me":"SANTO TOMASPANGASINAN",
+    "meso:gadm_admn2":"Alcala",
+    "meso:gadm_hasc_":"PH.PN.AC",
+    "meso:gaul_adm2_":"Sto. Tomas",
+    "meso:mps_x":120.571585,
+    "meso:mps_y":15.856011,
+    "meso:name_local":"Santo Tomas",
+    "meso:source":"AOTM",
+    "mps:latitude":15.856011,
+    "mps:longitude":120.571585,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PH",
+    "wof:created":1474497090,
+    "wof:geomhash":"a547cd8f00a60ec4c7fe421b130eb664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699437,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1108699437,
+    "wof:lastmodified":1512516867,
+    "wof:name":"Santo Tomas",
+    "wof:parent_id":85676123,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55286518360913,
+    15.8416756403333,
+    120.59036064506031,
+    15.87446665317725
+],
+  "geometry": {"coordinates":[[[120.58579156704226,15.87446665317725],[120.59036064506031,15.86602601878515],[120.58203180078111,15.85577509160398],[120.58203198299816,15.85565455259681],[120.58508566617341,15.84920282567485],[120.58362529558079,15.84381516538448],[120.58202445409803,15.8416756403333],[120.56544807017667,15.84523891304129],[120.56543437945233,15.8467968666835],[120.55524636592469,15.85697505659973],[120.55605171569189,15.86112772711092],[120.55286518360913,15.87054748738394],[120.56607537986564,15.87198842234515],[120.568374478271,15.87009952209793],[120.57168392052202,15.86583189857564],[120.58579156704226,15.87446665317725]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293498955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25,15.26667,120.25,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":120.25,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37101000.0",
+    "gn:asciiname":"Tila",
+    "gn:country_code":"PH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682112,
+    "gn:latitude":15.26667,
+    "gn:longitude":120.25,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682112
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"25ad952986a7a2bd949ed3a300177bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697065,
+            "locality_id":1293498955,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1293498955,
+    "wof:lastmodified":1537677310,
+    "wof:name":"Tila",
+    "wof:parent_id":1108697065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25,
+    15.26667,
+    120.25,
+    15.26667
+],
+  "geometry": {"coordinates":[120.25,15.26667],"type":"Point"}
+}

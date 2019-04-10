@@ -1,0 +1,75 @@
+{
+  "id": 1242676267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9701,12.5665,123.9701,12.5665",
+    "geom:latitude":12.5665,
+    "geom:longitude":123.9701,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56203000.0",
+    "gn:asciiname":"Badiong",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729392,
+    "gn:latitude":12.5665,
+    "gn:longitude":123.9701,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Badiong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Badiong"
+    ],
+    "name:und_x_variant":[
+        "Badiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729392
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"329fa7669cda5311c5f4a3008bd2e3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697107,
+            "locality_id":1242676267,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1242676267,
+    "wof:lastmodified":1537678665,
+    "wof:name":"Badiong",
+    "wof:parent_id":1108697107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9701,
+    12.5665,
+    123.9701,
+    12.5665
+],
+  "geometry": {"coordinates":[123.9701,12.5665],"type":"Point"}
+}

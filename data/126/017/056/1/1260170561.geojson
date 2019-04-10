@@ -1,0 +1,73 @@
+{
+  "id": 1260170561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7869,8.1117,122.7869,8.1117",
+    "geom:latitude":8.1117,
+    "geom:longitude":122.7869,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97213000.0",
+    "gn:asciiname":"Karakol",
+    "gn:country_code":"PH",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709195,
+    "gn:latitude":8.1117,
+    "gn:longitude":122.7869,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Karakol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caracol",
+        "Karakol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108699091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709195
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"46c9ad6c1b49ecc063e3450b71b8a312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699091,
+            "locality_id":1260170561,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1260170561,
+    "wof:lastmodified":1537678076,
+    "wof:name":"Karakol",
+    "wof:parent_id":1108699091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7869,
+    8.1117,
+    122.7869,
+    8.1117
+],
+  "geometry": {"coordinates":[122.7869,8.1117],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242992621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23333,10.25,125.23333,10.25",
+    "geom:latitude":10.25,
+    "geom:longitude":125.23333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:asciiname":"Kogon",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708564,
+    "gn:latitude":10.25,
+    "gn:longitude":125.23333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kogon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708564
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8543365844c411810353bac4f2b7992f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242992621,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242992621,
+    "wof:lastmodified":1537678057,
+    "wof:name":"Kogon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23333,
+    10.25,
+    125.23333,
+    10.25
+],
+  "geometry": {"coordinates":[125.23333,10.25],"type":"Point"}
+}

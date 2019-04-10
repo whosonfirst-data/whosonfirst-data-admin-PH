@@ -1,0 +1,76 @@
+{
+  "id": 1225932411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7369,7.9538,123.7369,7.9538",
+    "geom:latitude":7.9538,
+    "geom:longitude":123.7369,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103509000.0",
+    "gn:asciiname":"Daromawang",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715445,
+    "gn:latitude":7.9538,
+    "gn:longitude":123.7369,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Daromawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Daromawang"
+    ],
+    "name:und_x_variant":[
+        "Lower Daromawang",
+        "Dacomaoang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715445
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"26720ad7c5791d39d27887220f4c7af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697983,
+            "locality_id":1225932411,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1225932411,
+    "wof:lastmodified":1537678247,
+    "wof:name":"Daromawang",
+    "wof:parent_id":1108697983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7369,
+    7.9538,
+    123.7369,
+    7.9538
+],
+  "geometry": {"coordinates":[123.73690000000001,7.9538],"type":"Point"}
+}

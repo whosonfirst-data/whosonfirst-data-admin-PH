@@ -1,0 +1,79 @@
+{
+  "id": 1243371457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6044,16.643,121.6044,16.643",
+    "geom:latitude":16.643,
+    "geom:longitude":121.6044,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23112000.0",
+    "gn:asciiname":"Arabiat",
+    "gn:country_code":"PH",
+    "gn:dem":96,
+    "gn:elevation":"85.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730277,
+    "gn:latitude":16.643,
+    "gn:longitude":121.6044,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Arabiat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Arabiat"
+    ],
+    "name:fil_x_variant":[
+        "Arbiat"
+    ],
+    "name:und_x_variant":[
+        "Arbiat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676349,
+        1108699415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730277
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d349b865754181f17781a597fc91f91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699415,
+            "locality_id":1243371457,
+            "region_id":85676349
+        }
+    ],
+    "wof:id":1243371457,
+    "wof:lastmodified":1537678690,
+    "wof:name":"Arabiat",
+    "wof:parent_id":1108699415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6044,
+    16.643,
+    121.6044,
+    16.643
+],
+  "geometry": {"coordinates":[121.6044,16.643],"type":"Point"}
+}

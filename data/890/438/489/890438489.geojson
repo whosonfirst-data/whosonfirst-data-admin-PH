@@ -1,0 +1,68 @@
+{
+  "id": 890438489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83867,14.34242,120.83867,14.34242",
+    "geom:latitude":14.34242,
+    "geom:longitude":120.83867,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":129111,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tanza"
+    ],
+    "qs:name":"Tanza",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108699687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683019,
+        "qs:id":1030967
+    },
+    "wof:country":"PH",
+    "wof:created":1469052196,
+    "wof:geomhash":"d53bdd0adeec1234a932278efaf0a995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699687,
+            "localadmin_id":890438489,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":890438489,
+    "wof:lastmodified":1505343565,
+    "wof:name":"Tanza",
+    "wof:parent_id":1108699687,
+    "wof:placetype":"localadmin",
+    "wof:population":129111,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83867,
+    14.34242,
+    120.83867,
+    14.34242
+],
+  "geometry": {"coordinates":[120.83866999999999,14.34242],"type":"Point"}
+}

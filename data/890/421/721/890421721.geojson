@@ -1,0 +1,69 @@
+{
+  "id": 890421721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,9.93333,123.95,9.93333",
+    "geom:latitude":9.93333,
+    "geom:longitude":123.95,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4498,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pinayagan"
+    ],
+    "qs:name":"Pinayagan Norte",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693510,
+        "gp:id":1173759,
+        "qs:id":276956
+    },
+    "wof:country":"PH",
+    "wof:created":1469051405,
+    "wof:geomhash":"d99cbd42de78f58ee52018080da7a16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699777,
+            "locality_id":890421721,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890421721,
+    "wof:lastmodified":1505343465,
+    "wof:name":"Pinayagan Norte",
+    "wof:parent_id":1108699777,
+    "wof:placetype":"locality",
+    "wof:population":4498,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    9.93333,
+    123.95,
+    9.93333
+],
+  "geometry": {"coordinates":[123.95,9.93333],"type":"Point"}
+}

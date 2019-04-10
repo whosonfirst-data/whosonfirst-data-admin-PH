@@ -1,0 +1,71 @@
+{
+  "id": 890450963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41887,13.95533,121.41887,13.95533",
+    "geom:latitude":13.95533,
+    "geom:longitude":121.41887,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":10667,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Masalukot"
+    ],
+    "name:fil_x_variant":[
+        "Masalukot I"
+    ],
+    "qs:name":"Masalukot Uno",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108697245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700768,
+        "qs:id":87263
+    },
+    "wof:country":"PH",
+    "wof:created":1469052760,
+    "wof:geomhash":"199c6ec1b56cea84862ea0b4942c38d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697245,
+            "locality_id":890450963,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890450963,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Masalukot Uno",
+    "wof:parent_id":1108697245,
+    "wof:placetype":"locality",
+    "wof:population":10667,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41887,
+    13.95533,
+    121.41887,
+    13.95533
+],
+  "geometry": {"coordinates":[121.41887,13.95533],"type":"Point"}
+}

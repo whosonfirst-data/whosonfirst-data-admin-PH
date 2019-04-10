@@ -1,0 +1,75 @@
+{
+  "id": 1260376619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.59795,9.20798,123.59795,9.20798",
+    "geom:latitude":9.20798,
+    "geom:longitude":123.59795,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76102000.0",
+    "gn:asciiname":"Candigum",
+    "gn:country_code":"PH",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719268,
+    "gn:latitude":9.20798,
+    "gn:longitude":123.59795,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Candigum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Candigum"
+    ],
+    "name:und_x_variant":[
+        "Kandigon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719268
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"aaad245ef5c6af15ec207b3b550a285e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698015,
+            "locality_id":1260376619,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1260376619,
+    "wof:lastmodified":1537678358,
+    "wof:name":"Candigum",
+    "wof:parent_id":1108698015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.59795,
+    9.20798,
+    123.59795,
+    9.20798
+],
+  "geometry": {"coordinates":[123.59795,9.20798],"type":"Point"}
+}

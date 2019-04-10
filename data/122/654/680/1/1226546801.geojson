@@ -1,0 +1,69 @@
+{
+  "id": 1226546801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5707,15.28025,120.5707,15.28025",
+    "geom:latitude":15.28025,
+    "geom:longitude":120.5707,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36902000.0",
+    "gn:asciiname":"Dela Cruz",
+    "gn:country_code":"PH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8441836,
+    "gn:latitude":15.28025,
+    "gn:longitude":120.5707,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dela Cruz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108696863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441836
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e8f08f53cec974b3737b56b1b44314fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696863,
+            "locality_id":1226546801,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1226546801,
+    "wof:lastmodified":1536995660,
+    "wof:name":"Dela Cruz",
+    "wof:parent_id":1108696863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5707,
+    15.28025,
+    120.5707,
+    15.28025
+],
+  "geometry": {"coordinates":[120.5707,15.28025],"type":"Point"}
+}

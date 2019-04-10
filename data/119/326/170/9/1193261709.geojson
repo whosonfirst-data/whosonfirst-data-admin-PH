@@ -1,0 +1,72 @@
+{
+  "id": 1193261709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4008,5.9525,121.4008,5.9525",
+    "geom:latitude":5.9525,
+    "geom:longitude":121.4008,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156619000.0",
+    "gn:asciiname":"Tigbas",
+    "gn:country_code":"PH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1957778,
+    "gn:latitude":5.9525,
+    "gn:longitude":121.4008,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tigbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tigbas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108697885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957778
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"99acb73d0a32ec13fdec7991b4dc4b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697885,
+            "locality_id":1193261709,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1193261709,
+    "wof:lastmodified":1537678772,
+    "wof:name":"Tigbas",
+    "wof:parent_id":1108697885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4008,
+    5.9525,
+    121.4008,
+    5.9525
+],
+  "geometry": {"coordinates":[121.4008,5.9525],"type":"Point"}
+}

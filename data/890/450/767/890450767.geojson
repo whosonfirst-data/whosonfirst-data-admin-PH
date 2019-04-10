@@ -1,0 +1,71 @@
+{
+  "id": 890450767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.31215,5.88823,121.31215,5.88823",
+    "geom:latitude":5.88823,
+    "geom:longitude":121.31215,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3493,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pitogo"
+    ],
+    "name:unk_x_variant":[
+        "Pitugu"
+    ],
+    "qs:name":"Pitogo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693280,
+        "qs:id":86961,
+        "wk:page":"Pitogo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052752,
+    "wof:geomhash":"e19afd42960ae8d1adb3dda6f60e7ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890450767,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890450767,
+    "wof:lastmodified":1527792963,
+    "wof:name":"Pitogo",
+    "wof:parent_id":85675975,
+    "wof:placetype":"locality",
+    "wof:population":3493,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.31215,
+    5.88823,
+    121.31215,
+    5.88823
+],
+  "geometry": {"coordinates":[121.31215,5.88823],"type":"Point"}
+}

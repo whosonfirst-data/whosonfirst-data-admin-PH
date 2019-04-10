@@ -1,0 +1,78 @@
+{
+  "id": 1209986183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1522,17.3,121.1522,17.3",
+    "geom:latitude":17.3,
+    "geom:longitude":121.1522,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143215000.0",
+    "gn:asciiname":"Mallango",
+    "gn:country_code":"PH",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702595,
+    "gn:latitude":17.3,
+    "gn:longitude":121.1522,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mallango",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mallango"
+    ],
+    "name:fil_x_variant":[
+        "Mallonga"
+    ],
+    "name:und_x_variant":[
+        "Mallonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108699733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702595
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"30ae7e00acf6dc19c8409ac1cb00d8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699733,
+            "locality_id":1209986183,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1209986183,
+    "wof:lastmodified":1537677888,
+    "wof:name":"Mallango",
+    "wof:parent_id":1108699733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1522,
+    17.3,
+    121.1522,
+    17.3
+],
+  "geometry": {"coordinates":[121.15219999999999,17.3],"type":"Point"}
+}

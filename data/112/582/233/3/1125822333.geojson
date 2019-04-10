@@ -1,0 +1,81 @@
+{
+  "id": 1125822333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8155,7.9076,123.8155,7.9076",
+    "geom:latitude":7.9076,
+    "geom:longitude":123.8155,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4413,
+    "gn:population":4413,
+    "iso:country":"PH",
+    "lbl:latitude":7.9076,
+    "lbl:longitude":123.8155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Rebe"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1958545,
+    "qs_pg:gn_pop":4413,
+    "qs_pg:name":"Rebe",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":137334,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958545,
+        "qs_pg:id":137334
+    },
+    "wof:country":"PH",
+    "wof:created":1497292126,
+    "wof:geomhash":"d261623cc8d36108d334ae10a360d7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697983,
+            "locality_id":1125822333,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1125822333,
+    "wof:lastmodified":1509394164,
+    "wof:name":"Rebe",
+    "wof:parent_id":1108697983,
+    "wof:placetype":"locality",
+    "wof:population":4413,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8155,
+    7.9076,
+    123.8155,
+    7.9076
+],
+  "geometry": {"coordinates":[123.8155,7.9076],"type":"Point"}
+}

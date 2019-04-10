@@ -1,0 +1,82 @@
+{
+  "id": 421203631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.02194,11.77028,125.02194,11.77028",
+    "geom:latitude":11.77028,
+    "geom:longitude":125.02194,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Wright"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1679558,
+    "qs:gn_pop":4703,
+    "qs:name":"Wright",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Eastern Visayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":79007,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":56121272,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108698817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679558,
+        "gp:id":56121272,
+        "qs:id":79007
+    },
+    "wof:country":"PH",
+    "wof:created":1459010158,
+    "wof:geomhash":"ab34eb45e4d50646f5e8da7650abf22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698817,
+            "locality_id":421203631,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":421203631,
+    "wof:lastmodified":1505340785,
+    "wof:name":"Wright",
+    "wof:parent_id":1108698817,
+    "wof:placetype":"locality",
+    "wof:population":4703,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.02194,
+    11.77028,
+    125.02194,
+    11.77028
+],
+  "geometry": {"coordinates":[125.02194,11.77028],"type":"Point"}
+}

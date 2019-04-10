@@ -1,0 +1,89 @@
+{
+  "id": 1344253753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.94222,10.24394,123.94222,10.24394",
+    "geom:latitude":10.24394,
+    "geom:longitude":123.94222,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72220000.0",
+    "gn:asciiname":"Cordova",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1716858,
+    "gn:latitude":10.24394,
+    "gn:longitude":123.94222,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Cordova",
+    "gn:population":29289,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:lat_x_preferred":[
+        "Corduba"
+    ],
+    "name:por_x_preferred":[
+        "C\u00f3rdova"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u043e\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "C\u00f3rdova"
+    ],
+    "name:und_x_variant":[
+        "Cordoba",
+        "Cordova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716858,
+        "wk:page":"Cordova%2C_Cebu"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1138b52006782675f17dbd1b877432bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698607,
+            "locality_id":1344253753,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1344253753,
+    "wof:lastmodified":1537678288,
+    "wof:name":"Cordova",
+    "wof:parent_id":1108698607,
+    "wof:placetype":"locality",
+    "wof:population":29289,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.94222,
+    10.24394,
+    123.94222,
+    10.24394
+],
+  "geometry": {"coordinates":[123.94222000000001,10.24394],"type":"Point"}
+}

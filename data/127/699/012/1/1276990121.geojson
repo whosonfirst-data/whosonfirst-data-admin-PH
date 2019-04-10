@@ -1,0 +1,75 @@
+{
+  "id": 1276990121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5386,18.1101,120.5386,18.1101",
+    "geom:latitude":18.1101,
+    "geom:longitude":120.5386,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12816000.0",
+    "gn:asciiname":"Sungaden",
+    "gn:country_code":"PH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685276,
+    "gn:latitude":18.1101,
+    "gn:longitude":120.5386,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sungaden",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sungaden"
+    ],
+    "name:fil_x_variant":[
+        "Sungadan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685276
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fe91580312768495525912afcbe2aebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698807,
+            "locality_id":1276990121,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1276990121,
+    "wof:lastmodified":1537677395,
+    "wof:name":"Sungaden",
+    "wof:parent_id":1108698807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5386,
+    18.1101,
+    120.5386,
+    18.1101
+],
+  "geometry": {"coordinates":[120.5386,18.1101],"type":"Point"}
+}

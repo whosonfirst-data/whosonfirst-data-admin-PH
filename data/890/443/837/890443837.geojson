@@ -1,0 +1,74 @@
+{
+  "id": 890443837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7623,8.3931,123.7623,8.3931",
+    "geom:latitude":8.3931,
+    "geom:longitude":123.7623,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":25204,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municipality of Aloran"
+    ],
+    "name:unk_x_variant":[
+        "Aloran"
+    ],
+    "qs:name":"Municipality of Aloran",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":1680,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        890436295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731289,
+        "qs:id":1031397,
+        "wd:id":"Q13857",
+        "wk:page":"Misamis Occidental"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052440,
+    "wof:geomhash":"6e0cfab80881fdf9818cb3dce0714fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890436295,
+            "localadmin_id":890443837,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":890443837,
+    "wof:lastmodified":1527787069,
+    "wof:name":"Municipality of Aloran",
+    "wof:parent_id":890436295,
+    "wof:placetype":"localadmin",
+    "wof:population":25204,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7623,
+    8.3931,
+    123.7623,
+    8.3931
+],
+  "geometry": {"coordinates":[123.7623,8.3931],"type":"Point"}
+}

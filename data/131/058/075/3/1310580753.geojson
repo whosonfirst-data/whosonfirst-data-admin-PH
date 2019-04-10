@@ -1,0 +1,75 @@
+{
+  "id": 1310580753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3025,5.65833,125.3025,5.65833",
+    "geom:latitude":5.65833,
+    "geom:longitude":125.3025,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"M9",
+    "gn:admin3_code":"128002000.0",
+    "gn:asciiname":"Margus Pequeno",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701001,
+    "gn:latitude":5.65833,
+    "gn:longitude":125.3025,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Margus Peque\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Margus Peque\u00f1o"
+    ],
+    "name:und_x_variant":[
+        "Margus Pegue\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108697655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701001
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f23995e6f4328309dd335e8c8bb4879a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697655,
+            "locality_id":1310580753,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":1310580753,
+    "wof:lastmodified":1537677843,
+    "wof:name":"Margus Pequeno",
+    "wof:parent_id":1108697655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3025,
+    5.65833,
+    125.3025,
+    5.65833
+],
+  "geometry": {"coordinates":[125.30249999999999,5.65833],"type":"Point"}
+}

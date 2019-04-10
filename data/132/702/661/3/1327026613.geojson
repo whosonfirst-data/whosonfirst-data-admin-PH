@@ -1,0 +1,72 @@
+{
+  "id": 1327026613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.595,10.2806,123.595,10.2806",
+    "geom:latitude":10.2806,
+    "geom:longitude":123.595,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72237000.0",
+    "gn:asciiname":"Pandacan",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695587,
+    "gn:latitude":10.2806,
+    "gn:longitude":123.595,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pandacan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pandacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695587
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d075c173d3e9ae5c7db822c148541c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698897,
+            "locality_id":1327026613,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1327026613,
+    "wof:lastmodified":1537677690,
+    "wof:name":"Pandacan",
+    "wof:parent_id":1108698897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.595,
+    10.2806,
+    123.595,
+    10.2806
+],
+  "geometry": {"coordinates":[123.595,10.2806],"type":"Point"}
+}

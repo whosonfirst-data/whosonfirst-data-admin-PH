@@ -1,0 +1,72 @@
+{
+  "id": 1210024365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9481,16.1961,120.9481,16.1961",
+    "geom:latitude":16.1961,
+    "geom:longitude":120.9481,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"48",
+    "gn:admin3_code":"25012000.0",
+    "gn:asciiname":"Ingeron",
+    "gn:country_code":"PH",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7639106,
+    "gn:latitude":16.1961,
+    "gn:longitude":120.9481,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ingeron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ingeron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108699363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7639106
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c352f718818e68b4b6b3eb50ac6f4058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699363,
+            "locality_id":1210024365,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":1210024365,
+    "wof:lastmodified":1537679036,
+    "wof:name":"Ingeron",
+    "wof:parent_id":1108699363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9481,
+    16.1961,
+    120.9481,
+    16.1961
+],
+  "geometry": {"coordinates":[120.9481,16.1961],"type":"Point"}
+}

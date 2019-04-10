@@ -1,0 +1,75 @@
+{
+  "id": 1243260309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5433,10.0138,123.5433,10.0138",
+    "geom:latitude":10.0138,
+    "geom:longitude":123.5433,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72246000.0",
+    "gn:asciiname":"Duguan",
+    "gn:country_code":"PH",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714288,
+    "gn:latitude":10.0138,
+    "gn:longitude":123.5433,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Duguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Duguan"
+    ],
+    "name:und_x_variant":[
+        "Dugo-an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714288
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b79f8decc199ded017d54bfe3f2e30b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699475,
+            "locality_id":1243260309,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1243260309,
+    "wof:lastmodified":1537678219,
+    "wof:name":"Duguan",
+    "wof:parent_id":1108699475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5433,
+    10.0138,
+    123.5433,
+    10.0138
+],
+  "geometry": {"coordinates":[123.5433,10.0138],"type":"Point"}
+}

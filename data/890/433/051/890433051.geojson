@@ -1,0 +1,69 @@
+{
+  "id": 890433051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35167,6.72111,125.35167,6.72111",
+    "geom:latitude":6.72111,
+    "geom:longitude":125.35167,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2817,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Balutakai"
+    ],
+    "qs:name":"Balutakay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108697475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727711,
+        "gp:id":1173985,
+        "qs:id":88388
+    },
+    "wof:country":"PH",
+    "wof:created":1469051965,
+    "wof:geomhash":"53dc93eddd270e9f482c58b6f28d41aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697475,
+            "locality_id":890433051,
+            "region_id":85676253
+        }
+    ],
+    "wof:id":890433051,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Balutakay",
+    "wof:parent_id":1108697475,
+    "wof:placetype":"locality",
+    "wof:population":2817,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35167,
+    6.72111,
+    125.35167,
+    6.72111
+],
+  "geometry": {"coordinates":[125.35167,6.72111],"type":"Point"}
+}

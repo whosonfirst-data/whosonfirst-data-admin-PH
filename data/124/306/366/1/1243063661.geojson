@@ -1,0 +1,69 @@
+{
+  "id": 1243063661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91611,7.03389,121.91611,7.03389",
+    "geom:latitude":7.03389,
+    "geom:longitude":121.91611,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97332000.0",
+    "gn:asciiname":"Tarling",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682807,
+    "gn:latitude":7.03389,
+    "gn:longitude":121.91611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tarling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682807
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"55d0a4502e4492cf80893e1ac0ae35a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "locality_id":1243063661,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1243063661,
+    "wof:lastmodified":1536859031,
+    "wof:name":"Tarling",
+    "wof:parent_id":1108699889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91611,
+    7.03389,
+    121.91611,
+    7.03389
+],
+  "geometry": {"coordinates":[121.91611,7.03389],"type":"Point"}
+}

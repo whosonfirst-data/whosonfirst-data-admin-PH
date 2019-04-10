@@ -1,0 +1,72 @@
+{
+  "id": 1360299139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3715,16.01805,120.3715,16.01805",
+    "geom:latitude":16.01805,
+    "geom:longitude":120.3715,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15517000.0",
+    "gn:asciiname":"Bued",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723499,
+    "gn:latitude":16.01805,
+    "gn:longitude":120.3715,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bued",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bued"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723499
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"640fd85d9c36bb523a02616b99133b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697209,
+            "locality_id":1360299139,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1360299139,
+    "wof:lastmodified":1537678490,
+    "wof:name":"Bued",
+    "wof:parent_id":1108697209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3715,
+    16.01805,
+    120.3715,
+    16.01805
+],
+  "geometry": {"coordinates":[120.3715,16.01805],"type":"Point"}
+}

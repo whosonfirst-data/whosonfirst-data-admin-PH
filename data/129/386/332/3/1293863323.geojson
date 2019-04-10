@@ -1,0 +1,72 @@
+{
+  "id": 1293863323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.60286,7.61266,124.60286,7.61266",
+    "geom:latitude":7.61266,
+    "geom:longitude":124.60286,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:asciiname":"Magampao",
+    "gn:country_code":"PH",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699745,
+    "gn:latitude":7.61266,
+    "gn:longitude":124.60286,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Magampao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Migampao",
+        "Magampao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108696587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699745
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8ad4111fa2969f7ac9092d954fd23e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696587,
+            "locality_id":1293863323,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":1293863323,
+    "wof:lastmodified":1537677810,
+    "wof:name":"Magampao",
+    "wof:parent_id":1108696587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.60286,
+    7.61266,
+    124.60286,
+    7.61266
+],
+  "geometry": {"coordinates":[124.60286000000001,7.61266],"type":"Point"}
+}

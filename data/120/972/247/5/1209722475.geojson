@@ -1,0 +1,72 @@
+{
+  "id": 1209722475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0728,15.1991,120.0728,15.1991",
+    "geom:latitude":15.1991,
+    "geom:longitude":120.0728,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37102000.0",
+    "gn:asciiname":"Cadmang",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1961103,
+    "gn:latitude":15.1991,
+    "gn:longitude":120.0728,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cadmang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cadmang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1961103
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"15b42ef4fcff6d002cda48b13a353109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697155,
+            "locality_id":1209722475,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1209722475,
+    "wof:lastmodified":1537678795,
+    "wof:name":"Cadmang",
+    "wof:parent_id":1108697155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0728,
+    15.1991,
+    120.0728,
+    15.1991
+],
+  "geometry": {"coordinates":[120.0728,15.1991],"type":"Point"}
+}

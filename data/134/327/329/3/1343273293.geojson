@@ -1,0 +1,69 @@
+{
+  "id": 1343273293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72445,15.02682,120.72445,15.02682",
+    "geom:latitude":15.02682,
+    "geom:longitude":120.72445,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35416000.0",
+    "gn:asciiname":"Pandaras",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438256,
+    "gn:latitude":15.02682,
+    "gn:longitude":120.72445,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pandaras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438256
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a15a4d83d47454e2d557f07b281f112e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699315,
+            "locality_id":1343273293,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1343273293,
+    "wof:lastmodified":1537015624,
+    "wof:name":"Pandaras",
+    "wof:parent_id":1108699315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72445,
+    15.02682,
+    120.72445,
+    15.02682
+],
+  "geometry": {"coordinates":[120.72445,15.02682],"type":"Point"}
+}

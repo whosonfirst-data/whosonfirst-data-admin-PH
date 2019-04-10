@@ -1,0 +1,65 @@
+{
+  "id": 1259661049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7,6.9,125.7,6.9",
+    "geom:latitude":6.9,
+    "geom:longitude":125.7,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I7",
+    "gn:asciiname":"Malinang",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702747,
+    "gn:latitude":6.9,
+    "gn:longitude":125.7,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Malinang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malinang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702747
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1008464d61f5f1ea3f1570ad4e37fb96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259661049,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259661049,
+    "wof:lastmodified":1537677893,
+    "wof:name":"Malinang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7,
+    6.9,
+    125.7,
+    6.9
+],
+  "geometry": {"coordinates":[125.7,6.9],"type":"Point"}
+}

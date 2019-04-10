@@ -1,0 +1,66 @@
+{
+  "id": 1209127681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.43944,11.54583,122.43944,11.54583",
+    "geom:latitude":11.54583,
+    "geom:longitude":122.43944,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60401000.0",
+    "gn:asciiname":"Bayang",
+    "gn:country_code":"PH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725840,
+    "gn:latitude":11.54583,
+    "gn:longitude":122.43944,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bayang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bayang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725840
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d7a667b4e6b9bac7c376354fcde4334f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209127681
+        }
+    ],
+    "wof:id":1209127681,
+    "wof:lastmodified":1537678558,
+    "wof:name":"Bayang",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.43944,
+    11.54583,
+    122.43944,
+    11.54583
+],
+  "geometry": {"coordinates":[122.43944,11.54583],"type":"Point"}
+}

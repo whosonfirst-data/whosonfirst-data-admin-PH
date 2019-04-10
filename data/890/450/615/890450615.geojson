@@ -1,0 +1,68 @@
+{
+  "id": 890450615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.01944,9.10472,123.01944,9.10472",
+    "geom:latitude":9.10472,
+    "geom:longitude":123.01944,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3641,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sandulot"
+    ],
+    "qs:name":"Sandolot",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690140,
+        "qs:id":86794
+    },
+    "wof:country":"PH",
+    "wof:created":1469052746,
+    "wof:geomhash":"1121c8ad11efe1a3575ec644a58de9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699465,
+            "locality_id":890450615,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890450615,
+    "wof:lastmodified":1505343635,
+    "wof:name":"Sandolot",
+    "wof:parent_id":1108699465,
+    "wof:placetype":"locality",
+    "wof:population":3641,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.01944,
+    9.10472,
+    123.01944,
+    9.10472
+],
+  "geometry": {"coordinates":[123.01944,9.10472],"type":"Point"}
+}

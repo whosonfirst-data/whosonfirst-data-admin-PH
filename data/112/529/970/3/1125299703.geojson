@@ -1,0 +1,80 @@
+{
+  "id": 1125299703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.25833,8.02778,124.25833,8.02778",
+    "geom:latitude":8.02778,
+    "geom:longitude":124.25833,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PH",
+    "lbl:latitude":8.02778,
+    "lbl:longitude":124.25833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Municipality of Saguiaran"
+    ],
+    "name:unk_x_variant":[
+        "Saguiaran"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6569474,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Municipality of Saguiaran",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1153489,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676169,
+        1108699077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6569474,
+        "qs_pg:id":1153489
+    },
+    "wof:country":"PH",
+    "wof:created":1497043355,
+    "wof:geomhash":"3b7422502d9136a8fe966bce5b8b7e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699077,
+            "localadmin_id":1125299703,
+            "region_id":85676169
+        }
+    ],
+    "wof:id":1125299703,
+    "wof:lastmodified":1509387686,
+    "wof:name":"Municipality of Saguiaran",
+    "wof:parent_id":1108699077,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.25833,
+    8.02778,
+    124.25833,
+    8.02778
+],
+  "geometry": {"coordinates":[124.25833,8.02778],"type":"Point"}
+}

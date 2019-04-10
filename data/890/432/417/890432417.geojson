@@ -1,0 +1,70 @@
+{
+  "id": 890432417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7002,10.5869,122.7002,10.5869",
+    "geom:latitude":10.5869,
+    "geom:longitude":122.7002,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5812,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Cabano"
+    ],
+    "qs:name":"Cabano",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":352,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675999,
+        1108697837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721842,
+        "qs:id":135518,
+        "wk:page":"Cabano"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051940,
+    "wof:geomhash":"1f0b1f5e4d42479d234611c1bfa6a931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697837,
+            "locality_id":890432417,
+            "region_id":85675999
+        }
+    ],
+    "wof:id":890432417,
+    "wof:lastmodified":1527793040,
+    "wof:name":"Cabano",
+    "wof:parent_id":1108697837,
+    "wof:placetype":"locality",
+    "wof:population":5812,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7002,
+    10.5869,
+    122.7002,
+    10.5869
+],
+  "geometry": {"coordinates":[122.7002,10.5869],"type":"Point"}
+}

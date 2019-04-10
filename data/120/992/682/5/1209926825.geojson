@@ -1,0 +1,75 @@
+{
+  "id": 1209926825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7468,17.7085,121.7468,17.7085",
+    "geom:latitude":17.7085,
+    "geom:longitude":121.7468,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21515000.0",
+    "gn:asciiname":"Santa Teresa",
+    "gn:country_code":"PH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425193,
+    "gn:latitude":17.7085,
+    "gn:longitude":121.7468,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Teresa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Teresa"
+    ],
+    "name:und_x_variant":[
+        "Gammad Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425193
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"76d682dbc152f5e6827ac230fb9ac71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697745,
+            "locality_id":1209926825,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1209926825,
+    "wof:lastmodified":1537678892,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":1108697745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7468,
+    17.7085,
+    121.7468,
+    17.7085
+],
+  "geometry": {"coordinates":[121.74679999999999,17.7085],"type":"Point"}
+}

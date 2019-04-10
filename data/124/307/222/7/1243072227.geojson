@@ -1,0 +1,75 @@
+{
+  "id": 1243072227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6794,13.402,123.6794,13.402",
+    "geom:latitude":13.402,
+    "geom:longitude":123.6794,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50510000.0",
+    "gn:asciiname":"Tanawan",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683329,
+    "gn:latitude":13.402,
+    "gn:longitude":123.6794,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tanawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tanawan"
+    ],
+    "name:und_x_variant":[
+        "Tanauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683329
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f7f3bbbf694b221f0c9ef7018de0d23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698313,
+            "locality_id":1243072227,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1243072227,
+    "wof:lastmodified":1537677341,
+    "wof:name":"Tanawan",
+    "wof:parent_id":1108698313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6794,
+    13.402,
+    123.6794,
+    13.402
+],
+  "geometry": {"coordinates":[123.6794,13.402],"type":"Point"}
+}

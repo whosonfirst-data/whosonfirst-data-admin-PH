@@ -1,0 +1,66 @@
+{
+  "id": 1209653513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.53333,13.45,122.53333,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":122.53333,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45628000.0",
+    "gn:asciiname":"Saglitan",
+    "gn:country_code":"PH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691128,
+    "gn:latitude":13.45,
+    "gn:longitude":122.53333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Saglitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Saglitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691128
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c7c7c9d688b31809d7339563de12672c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209653513
+        }
+    ],
+    "wof:id":1209653513,
+    "wof:lastmodified":1537677567,
+    "wof:name":"Saglitan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.53333,
+    13.45,
+    122.53333,
+    13.45
+],
+  "geometry": {"coordinates":[122.53333000000001,13.45],"type":"Point"}
+}

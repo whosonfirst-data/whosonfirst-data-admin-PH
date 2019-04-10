@@ -1,0 +1,75 @@
+{
+  "id": 1192969499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3698,13.9918,122.3698,13.9918",
+    "geom:latitude":13.9918,
+    "geom:longitude":122.3698,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45618000.0",
+    "gn:asciiname":"Aloneros",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731296,
+    "gn:latitude":13.9918,
+    "gn:longitude":122.3698,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Aloneros",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aloneros"
+    ],
+    "name:und_x_variant":[
+        "Alunero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731296
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3e8f2f73d9f08700541cebf7c9588b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698653,
+            "locality_id":1192969499,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1192969499,
+    "wof:lastmodified":1537678720,
+    "wof:name":"Aloneros",
+    "wof:parent_id":1108698653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3698,
+    13.9918,
+    122.3698,
+    13.9918
+],
+  "geometry": {"coordinates":[122.3698,13.9918],"type":"Point"}
+}

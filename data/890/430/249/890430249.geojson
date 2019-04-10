@@ -1,0 +1,71 @@
+{
+  "id": 890430249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3851,11.6576,122.3851,11.6576",
+    "geom:latitude":11.6576,
+    "geom:longitude":122.3851,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2503,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Guinoaliuan"
+    ],
+    "name:unk_x_variant":[
+        "Guinbaliuan"
+    ],
+    "qs:name":"Guinoaliuan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712407,
+        "qs:id":87777
+    },
+    "wof:country":"PH",
+    "wof:created":1469051845,
+    "wof:geomhash":"89880b3ad291de43e4b43ad65425de28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698577,
+            "locality_id":890430249,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":890430249,
+    "wof:lastmodified":1505343517,
+    "wof:name":"Guinoaliuan",
+    "wof:parent_id":1108698577,
+    "wof:placetype":"locality",
+    "wof:population":2503,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3851,
+    11.6576,
+    122.3851,
+    11.6576
+],
+  "geometry": {"coordinates":[122.38509999999999,11.6576],"type":"Point"}
+}

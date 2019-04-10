@@ -1,0 +1,65 @@
+{
+  "id": 1209213257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.15,13.45,123.15,13.45",
+    "geom:latitude":13.45,
+    "geom:longitude":123.15,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Bagulaizo",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728923,
+    "gn:latitude":13.45,
+    "gn:longitude":123.15,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bagulaizo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bagulaizo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728923
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"25cc81edd7b3037023206363760fb053",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209213257
+        }
+    ],
+    "wof:id":1209213257,
+    "wof:lastmodified":1537678651,
+    "wof:name":"Bagulaizo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.15,
+    13.45,
+    123.15,
+    13.45
+],
+  "geometry": {"coordinates":[123.15000000000001,13.45],"type":"Point"}
+}

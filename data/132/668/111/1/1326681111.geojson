@@ -1,0 +1,75 @@
+{
+  "id": 1326681111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87679,14.21275,120.87679,14.21275",
+    "geom:latitude":14.21275,
+    "geom:longitude":120.87679,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42110000.0",
+    "gn:asciiname":"Bancod",
+    "gn:country_code":"PH",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727434,
+    "gn:latitude":14.21275,
+    "gn:longitude":120.87679,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bancod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bancod"
+    ],
+    "name:und_x_variant":[
+        "Bancao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727434
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"26a226f8c542a60b7abc0ac1cf8ba6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697765,
+            "locality_id":1326681111,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1326681111,
+    "wof:lastmodified":1537678606,
+    "wof:name":"Bancod",
+    "wof:parent_id":1108697765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87679,
+    14.21275,
+    120.87679,
+    14.21275
+],
+  "geometry": {"coordinates":[120.87679,14.21275],"type":"Point"}
+}

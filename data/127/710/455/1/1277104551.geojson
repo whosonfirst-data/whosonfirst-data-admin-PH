@@ -1,0 +1,72 @@
+{
+  "id": 1277104551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1395,10.85204,123.1395,10.85204",
+    "geom:latitude":10.85204,
+    "geom:longitude":123.1395,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64531000.0",
+    "gn:asciiname":"Basuhan",
+    "gn:country_code":"PH",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722256,
+    "gn:latitude":10.85204,
+    "gn:longitude":123.1395,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Basuhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Busuhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108698341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722256
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8eb5967b7e8b6ff1b6c45aa249da6cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698341,
+            "locality_id":1277104551,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1277104551,
+    "wof:lastmodified":1537678452,
+    "wof:name":"Basuhan",
+    "wof:parent_id":1108698341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1395,
+    10.85204,
+    123.1395,
+    10.85204
+],
+  "geometry": {"coordinates":[123.1395,10.85204],"type":"Point"}
+}

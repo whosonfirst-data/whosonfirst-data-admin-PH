@@ -1,0 +1,66 @@
+{
+  "id": 1209417227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.80791,17.39405,121.80791,17.39405",
+    "geom:latitude":17.39405,
+    "geom:longitude":121.80791,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23106000.0",
+    "gn:asciiname":"Cansan",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7420037,
+    "gn:latitude":17.39405,
+    "gn:longitude":121.80791,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cansan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cansan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7420037
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6e110bee91cde309158b402467707adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209417227
+        }
+    ],
+    "wof:id":1209417227,
+    "wof:lastmodified":1537678882,
+    "wof:name":"Cansan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.80791,
+    17.39405,
+    121.80791,
+    17.39405
+],
+  "geometry": {"coordinates":[121.80791000000001,17.39405],"type":"Point"}
+}

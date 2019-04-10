@@ -1,0 +1,72 @@
+{
+  "id": 1243583675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2467,9.2696,123.2467,9.2696",
+    "geom:latitude":9.2696,
+    "geom:longitude":123.2467,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74623000.0",
+    "gn:asciiname":"Jawa",
+    "gn:country_code":"PH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710242,
+    "gn:latitude":9.2696,
+    "gn:longitude":123.2467,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Jawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Jawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710242
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2e558896ca4d5171152d280a4b64c63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699835,
+            "locality_id":1243583675,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1243583675,
+    "wof:lastmodified":1537678107,
+    "wof:name":"Jawa",
+    "wof:parent_id":1108699835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2467,
+    9.2696,
+    123.2467,
+    9.2696
+],
+  "geometry": {"coordinates":[123.2467,9.2696],"type":"Point"}
+}

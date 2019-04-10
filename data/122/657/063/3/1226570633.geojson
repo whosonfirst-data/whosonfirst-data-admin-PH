@@ -1,0 +1,74 @@
+{
+  "id": 1226570633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.05,10.86667,121.05,10.86667",
+    "geom:latitude":10.86667,
+    "geom:longitude":121.05,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175314000.0",
+    "gn:asciiname":"Baoaran",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726896,
+    "gn:latitude":10.86667,
+    "gn:longitude":121.05,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baoaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bacaran",
+        "Baoaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108698647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726896
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"edd97247838d2e71a67d2d8762d22f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698647,
+            "locality_id":1226570633,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1226570633,
+    "wof:lastmodified":1537678588,
+    "wof:name":"Baoaran",
+    "wof:parent_id":1108698647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.05,
+    10.86667,
+    121.05,
+    10.86667
+],
+  "geometry": {"coordinates":[121.05,10.86667],"type":"Point"}
+}

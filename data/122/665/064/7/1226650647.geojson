@@ -1,0 +1,72 @@
+{
+  "id": 1226650647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6992,13.4027,123.6992,13.4027",
+    "geom:latitude":13.4027,
+    "geom:longitude":123.6992,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50510000.0",
+    "gn:asciiname":"Balza",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727696,
+    "gn:latitude":13.4027,
+    "gn:longitude":123.6992,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727696
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"452380de9fa6fcfbe4a763dc6a3bcb94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698313,
+            "locality_id":1226650647,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1226650647,
+    "wof:lastmodified":1537678615,
+    "wof:name":"Balza",
+    "wof:parent_id":1108698313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6992,
+    13.4027,
+    123.6992,
+    13.4027
+],
+  "geometry": {"coordinates":[123.6992,13.4027],"type":"Point"}
+}

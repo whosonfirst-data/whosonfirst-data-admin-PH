@@ -1,0 +1,81 @@
+{
+  "id": 1125378425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,10.36667,123.95,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":123.95,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":69313,
+    "gn:population":69313,
+    "iso:country":"PH",
+    "lbl:latitude":10.36667,
+    "lbl:longitude":123.95,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Consolacion"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1716928,
+    "qs_pg:gn_pop":69313,
+    "qs_pg:name":"Consolacion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":350923,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676287,
+        1108697383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716928,
+        "qs_pg:id":350923
+    },
+    "wof:country":"PH",
+    "wof:created":1497047896,
+    "wof:geomhash":"70d2c2c48302aa8a805e4720eae12020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697383,
+            "localadmin_id":1125378425,
+            "region_id":85676287
+        }
+    ],
+    "wof:id":1125378425,
+    "wof:lastmodified":1509389514,
+    "wof:name":"Consolacion",
+    "wof:parent_id":1108697383,
+    "wof:placetype":"localadmin",
+    "wof:population":69313,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    10.36667,
+    123.95,
+    10.36667
+],
+  "geometry": {"coordinates":[123.95,10.36667],"type":"Point"}
+}

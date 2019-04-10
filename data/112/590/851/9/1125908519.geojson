@@ -1,0 +1,84 @@
+{
+  "id": 1125908519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.16864,16.00212,120.16864,16.00212",
+    "geom:latitude":16.00212,
+    "geom:longitude":120.16864,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2572,
+    "gn:population":2572,
+    "iso:country":"PH",
+    "lbl:latitude":16.00212,
+    "lbl:longitude":120.16864,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Dulig"
+    ],
+    "name:unk_x_variant":[
+        "Dulit"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1714237,
+    "qs_pg:gn_pop":2572,
+    "qs_pg:name":"Dulig",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1032822,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714237,
+        "qs_pg:id":1032822
+    },
+    "wof:country":"PH",
+    "wof:created":1497296063,
+    "wof:geomhash":"ca20380f7264cc9f3ac1cdff49f0d33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697963,
+            "locality_id":1125908519,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1125908519,
+    "wof:lastmodified":1509399937,
+    "wof:name":"Dulig",
+    "wof:parent_id":1108697963,
+    "wof:placetype":"locality",
+    "wof:population":2572,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.16864,
+    16.00212,
+    120.16864,
+    16.00212
+],
+  "geometry": {"coordinates":[120.16864,16.00212],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209553667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0345,14.6741,121.0345,14.6741",
+    "geom:latitude":14.6741,
+    "geom:longitude":121.0345,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"F2",
+    "gn:asciiname":"Bahay Toro",
+    "gn:country_code":"PH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728826,
+    "gn:latitude":14.6741,
+    "gn:longitude":121.0345,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bahay Toro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bahay Toro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728826
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"33d7b69da86cfe9625b4affe8880d5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209553667
+        }
+    ],
+    "wof:id":1209553667,
+    "wof:lastmodified":1537678649,
+    "wof:name":"Bahay Toro",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0345,
+    14.6741,
+    121.0345,
+    14.6741
+],
+  "geometry": {"coordinates":[121.03449999999999,14.6741],"type":"Point"}
+}

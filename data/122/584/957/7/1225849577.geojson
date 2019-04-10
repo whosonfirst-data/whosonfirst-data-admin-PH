@@ -1,0 +1,74 @@
+{
+  "id": 1225849577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.67556,13.47694,123.67556,13.47694",
+    "geom:latitude":13.47694,
+    "geom:longitude":123.67556,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50518000.0",
+    "gn:asciiname":"Potsan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692808,
+    "gn:latitude":13.47694,
+    "gn:longitude":123.67556,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Potsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Putchan",
+        "Potsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108699741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692808
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a2bb94f63f3a298bb935a928c6541edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699741,
+            "locality_id":1225849577,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1225849577,
+    "wof:lastmodified":1537677610,
+    "wof:name":"Potsan",
+    "wof:parent_id":1108699741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.67556,
+    13.47694,
+    123.67556,
+    13.47694
+],
+  "geometry": {"coordinates":[123.67556,13.47694],"type":"Point"}
+}

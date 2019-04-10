@@ -1,0 +1,77 @@
+{
+  "id": 1293021003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7931,11.152,123.7931,11.152",
+    "geom:latitude":11.152,
+    "geom:longitude":123.7931,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72244000.0",
+    "gn:asciiname":"Pooc",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692951,
+    "gn:latitude":11.152,
+    "gn:longitude":123.7931,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pooc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pooc"
+    ],
+    "name:und_x_variant":[
+        "Poac",
+        "Pook"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692951,
+        "wk:page":"Pooc,_Talisay,_Cebu"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5961d3dc7a063495ca05642b65127a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696891,
+            "locality_id":1293021003,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1293021003,
+    "wof:lastmodified":1537677614,
+    "wof:name":"Pooc",
+    "wof:parent_id":1108696891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7931,
+    11.152,
+    123.7931,
+    11.152
+],
+  "geometry": {"coordinates":[123.7931,11.152],"type":"Point"}
+}

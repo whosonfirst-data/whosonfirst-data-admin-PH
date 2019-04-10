@@ -1,0 +1,75 @@
+{
+  "id": 1326828571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.335,13.7869,123.335,13.7869",
+    "geom:latitude":13.7869,
+    "geom:longitude":123.335,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51737000.0",
+    "gn:asciiname":"Manono",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702127,
+    "gn:latitude":13.7869,
+    "gn:longitude":123.335,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manono",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Manono"
+    ],
+    "name:und_x_variant":[
+        "Mananao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702127
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"28477aab2ce0df76f08dfc48fc0757d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698601,
+            "locality_id":1326828571,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1326828571,
+    "wof:lastmodified":1537677874,
+    "wof:name":"Manono",
+    "wof:parent_id":1108698601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.335,
+    13.7869,
+    123.335,
+    13.7869
+],
+  "geometry": {"coordinates":[123.33499999999999,13.7869],"type":"Point"}
+}

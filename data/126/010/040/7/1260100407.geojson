@@ -1,0 +1,73 @@
+{
+  "id": 1260100407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7157,10.22478,123.7157,10.22478",
+    "geom:latitude":10.22478,
+    "geom:longitude":123.7157,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72234000.0",
+    "gn:asciiname":"Jaguimit",
+    "gn:country_code":"PH",
+    "gn:dem":208,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710367,
+    "gn:latitude":10.22478,
+    "gn:longitude":123.7157,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Jaguimit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Jaguimit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710367
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8e2aae4ae8de342e9739f4ebf7e1fc8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698537,
+            "locality_id":1260100407,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1260100407,
+    "wof:lastmodified":1537678110,
+    "wof:name":"Jaguimit",
+    "wof:parent_id":1108698537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7157,
+    10.22478,
+    123.7157,
+    10.22478
+],
+  "geometry": {"coordinates":[123.7157,10.22478],"type":"Point"}
+}

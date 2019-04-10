@@ -1,0 +1,65 @@
+{
+  "id": 890451059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.98333,10.58333,124.98333,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":124.98333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":28104,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mahaplag",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108698261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703609,
+        "qs:id":87382
+    },
+    "wof:country":"PH",
+    "wof:created":1469052763,
+    "wof:geomhash":"f7f3983cf3cecf50de2381067fddeefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698261,
+            "localadmin_id":890451059,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":890451059,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Mahaplag",
+    "wof:parent_id":1108698261,
+    "wof:placetype":"localadmin",
+    "wof:population":28104,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.98333,
+    10.58333,
+    124.98333,
+    10.58333
+],
+  "geometry": {"coordinates":[124.98333,10.58333],"type":"Point"}
+}

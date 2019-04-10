@@ -1,0 +1,72 @@
+{
+  "id": 890434285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.64639,6.33278,125.64639,6.33278",
+    "geom:latitude":6.33278,
+    "geom:longitude":125.64639,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2298,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lais"
+    ],
+    "name:unk_x_variant":[
+        "Lias"
+    ],
+    "qs:name":"Lais",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108698315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707981,
+        "gp:id":91420396,
+        "qs:id":135137
+    },
+    "wof:country":"PH",
+    "wof:created":1469052018,
+    "wof:geomhash":"89a8c36fa579b35a1148205e89c7d306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698315,
+            "locality_id":890434285,
+            "region_id":85676253
+        }
+    ],
+    "wof:id":890434285,
+    "wof:lastmodified":1505343540,
+    "wof:name":"Lais",
+    "wof:parent_id":1108698315,
+    "wof:placetype":"locality",
+    "wof:population":2298,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.64639,
+    6.33278,
+    125.64639,
+    6.33278
+],
+  "geometry": {"coordinates":[125.64639,6.33278],"type":"Point"}
+}

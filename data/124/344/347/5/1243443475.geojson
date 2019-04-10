@@ -1,0 +1,72 @@
+{
+  "id": 1243443475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.357,7.7915,123.357,7.7915",
+    "geom:latitude":7.7915,
+    "geom:longitude":123.357,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97307000.0",
+    "gn:asciiname":"Sibucao",
+    "gn:country_code":"PH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686768,
+    "gn:latitude":7.7915,
+    "gn:longitude":123.357,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sibucao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sibucao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108697537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686768
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"10a6173be5f8547139022903072e170c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697537,
+            "locality_id":1243443475,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1243443475,
+    "wof:lastmodified":1537677431,
+    "wof:name":"Sibucao",
+    "wof:parent_id":1108697537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.357,
+    7.7915,
+    123.357,
+    7.7915
+],
+  "geometry": {"coordinates":[123.357,7.7915],"type":"Point"}
+}

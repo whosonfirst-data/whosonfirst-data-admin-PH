@@ -1,0 +1,73 @@
+{
+  "id": 1225835075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.96989,10.05218,124.96989,10.05218",
+    "geom:latitude":10.05218,
+    "geom:longitude":124.96989,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86408000.0",
+    "gn:asciiname":"Buscayan",
+    "gn:country_code":"PH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722309,
+    "gn:latitude":10.05218,
+    "gn:longitude":124.96989,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buscayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biscayan",
+        "Buscayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108698213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722309
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"34cdc9a39e50d802507dd650b606c00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698213,
+            "locality_id":1225835075,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1225835075,
+    "wof:lastmodified":1537678453,
+    "wof:name":"Buscayan",
+    "wof:parent_id":1108698213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.96989,
+    10.05218,
+    124.96989,
+    10.05218
+],
+  "geometry": {"coordinates":[124.96989000000001,10.05218],"type":"Point"}
+}

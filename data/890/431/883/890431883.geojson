@@ -1,0 +1,69 @@
+{
+  "id": 890431883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.84028,8.4475,125.84028,8.4475",
+    "geom:latitude":8.4475,
+    "geom:longitude":125.84028,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2225,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kauswagan"
+    ],
+    "qs:name":"Causwagan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676217,
+        1108699625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717665,
+        "gp:id":91427388,
+        "qs:id":277261
+    },
+    "wof:country":"PH",
+    "wof:created":1469051919,
+    "wof:geomhash":"8eb6caf6b9e6e344412103ee5dd7623f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699625,
+            "locality_id":890431883,
+            "region_id":85676217
+        }
+    ],
+    "wof:id":890431883,
+    "wof:lastmodified":1505343526,
+    "wof:name":"Causwagan",
+    "wof:parent_id":1108699625,
+    "wof:placetype":"locality",
+    "wof:population":2225,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.84028,
+    8.4475,
+    125.84028,
+    8.4475
+],
+  "geometry": {"coordinates":[125.84028000000001,8.4475],"type":"Point"}
+}

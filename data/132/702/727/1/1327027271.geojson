@@ -1,0 +1,72 @@
+{
+  "id": 1327027271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.02306,11.22778,123.02306,11.22778",
+    "geom:latitude":11.22778,
+    "geom:longitude":123.02306,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63044000.0",
+    "gn:asciiname":"Zerrudo",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679376,
+    "gn:latitude":11.22778,
+    "gn:longitude":123.02306,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Zerrudo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Zerrudo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679376
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7102ba3815780bd82016e5bef5f02f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699449,
+            "locality_id":1327027271,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1327027271,
+    "wof:lastmodified":1537677231,
+    "wof:name":"Zerrudo",
+    "wof:parent_id":1108699449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.02306000000002,
+    11.22778,
+    123.02306000000002,
+    11.22778
+],
+  "geometry": {"coordinates":[123.02306000000002,11.22778],"type":"Point"}
+}

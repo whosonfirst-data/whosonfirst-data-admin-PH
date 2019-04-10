@@ -1,0 +1,80 @@
+{
+  "id": 1209817635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.80814,16.84006,121.80814,16.84006",
+    "geom:latitude":16.84006,
+    "geom:longitude":121.80814,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23108000.0",
+    "gn:asciiname":"Amobocan",
+    "gn:country_code":"PH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698369,
+    "gn:latitude":16.84006,
+    "gn:longitude":121.80814,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Amobocan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ammabocan"
+    ],
+    "name:fil_x_variant":[
+        "Namobocan"
+    ],
+    "name:und_x_variant":[
+        "Ammoboocan",
+        "Ammobocan",
+        "Amobocan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698369
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a4a6f64486a3a46f9eedf0bffe04b001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697341,
+            "locality_id":1209817635,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1209817635,
+    "wof:lastmodified":1537677770,
+    "wof:name":"Amobocan",
+    "wof:parent_id":1108697341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.80814,
+    16.84006,
+    121.80814,
+    16.84006
+],
+  "geometry": {"coordinates":[121.80813999999999,16.84006],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890451447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.22811,12.22906,121.22811,12.22906",
+    "geom:latitude":12.22906,
+    "geom:longitude":121.22811,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2576,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alibug"
+    ],
+    "name:unk_x_variant":[
+        "Alibog"
+    ],
+    "qs:name":"Alibug",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108698253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731502,
+        "gp:id":1163747,
+        "qs:id":88557
+    },
+    "wof:country":"PH",
+    "wof:created":1469052780,
+    "wof:geomhash":"65ccc2e4ad10428a98d33cb9cc561617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698253,
+            "locality_id":890451447,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":890451447,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Alibug",
+    "wof:parent_id":1108698253,
+    "wof:placetype":"locality",
+    "wof:population":2576,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.22811,
+    12.22906,
+    121.22811,
+    12.22906
+],
+  "geometry": {"coordinates":[121.22811,12.22906],"type":"Point"}
+}

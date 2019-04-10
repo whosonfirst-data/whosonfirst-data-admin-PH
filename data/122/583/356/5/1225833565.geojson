@@ -1,0 +1,72 @@
+{
+  "id": 1225833565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8308,8.0062,123.8308,8.0062",
+    "geom:latitude":8.0062,
+    "geom:longitude":123.8308,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103522000.0",
+    "gn:asciiname":"Litapan",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6676027,
+    "gn:latitude":8.0062,
+    "gn:longitude":123.8308,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Litapan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Litapan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108696919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6676027
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"61c0dc8eec4d79ffb6265426d2d71ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696919,
+            "locality_id":1225833565,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1225833565,
+    "wof:lastmodified":1537678826,
+    "wof:name":"Litapan",
+    "wof:parent_id":1108696919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8308,
+    8.0062,
+    123.8308,
+    8.0062
+],
+  "geometry": {"coordinates":[123.8308,8.0062],"type":"Point"}
+}

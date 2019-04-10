@@ -1,0 +1,81 @@
+{
+  "id": 1125867351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.94,7.07389,124.94,7.07389",
+    "geom:latitude":7.07389,
+    "geom:longitude":124.94,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3098,
+    "gn:population":3098,
+    "iso:country":"PH",
+    "lbl:latitude":7.07389,
+    "lbl:longitude":124.94,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Malamote"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1703134,
+    "qs_pg:gn_pop":3098,
+    "qs_pg:name":"Malamote",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":134971,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108698427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703134,
+        "qs_pg:id":134971
+    },
+    "wof:country":"PH",
+    "wof:created":1497294107,
+    "wof:geomhash":"6ccb3a6f287ba129251f7b83990368b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698427,
+            "locality_id":1125867351,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":1125867351,
+    "wof:lastmodified":1509397069,
+    "wof:name":"Malamote",
+    "wof:parent_id":1108698427,
+    "wof:placetype":"locality",
+    "wof:population":3098,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.94,
+    7.07389,
+    124.94,
+    7.07389
+],
+  "geometry": {"coordinates":[124.94,7.07389],"type":"Point"}
+}

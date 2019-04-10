@@ -1,0 +1,72 @@
+{
+  "id": 1210015051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7526,12.4492,123.7526,12.4492",
+    "geom:latitude":12.4492,
+    "geom:longitude":123.7526,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54118000.0",
+    "gn:asciiname":"Mabical",
+    "gn:country_code":"PH",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704630,
+    "gn:latitude":12.4492,
+    "gn:longitude":123.7526,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabical",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabical"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704630
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"861a85c2a7d52d616c6293bada506fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699153,
+            "locality_id":1210015051,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1210015051,
+    "wof:lastmodified":1537677944,
+    "wof:name":"Mabical",
+    "wof:parent_id":1108699153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7526,
+    12.4492,
+    123.7526,
+    12.4492
+],
+  "geometry": {"coordinates":[123.7526,12.4492],"type":"Point"}
+}

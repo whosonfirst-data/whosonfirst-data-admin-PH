@@ -1,0 +1,65 @@
+{
+  "id": 890441507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.59389,8.39583,124.59389,8.39583",
+    "geom:latitude":8.39583,
+    "geom:longitude":124.59389,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7863,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lumbia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676323,
+        1108697181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705166,
+        "qs:id":87458
+    },
+    "wof:country":"PH",
+    "wof:created":1469052326,
+    "wof:geomhash":"62c7da03a19334d1e802b750132d6310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697181,
+            "locality_id":890441507,
+            "region_id":85676323
+        }
+    ],
+    "wof:id":890441507,
+    "wof:lastmodified":1505343582,
+    "wof:name":"Lumbia",
+    "wof:parent_id":1108697181,
+    "wof:placetype":"locality",
+    "wof:population":7863,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.59389,
+    8.39583,
+    124.59389,
+    8.39583
+],
+  "geometry": {"coordinates":[124.59389,8.39583],"type":"Point"}
+}

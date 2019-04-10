@@ -1,0 +1,71 @@
+{
+  "id": 890434455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6421,13.3115,123.6421,13.3115",
+    "geom:latitude":13.3115,
+    "geom:longitude":123.6421,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2402,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Buang"
+    ],
+    "qs:name":"Buang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":82,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108699581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723707,
+        "gp:id":1164834,
+        "qs:id":135610,
+        "wk:page":"Buang"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052025,
+    "wof:geomhash":"5a617064b1d34725b8e4ca21a638b497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699581,
+            "locality_id":890434455,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":890434455,
+    "wof:lastmodified":1527792944,
+    "wof:name":"Buang",
+    "wof:parent_id":1108699581,
+    "wof:placetype":"locality",
+    "wof:population":2402,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6421,
+    13.3115,
+    123.6421,
+    13.3115
+],
+  "geometry": {"coordinates":[123.6421,13.3115],"type":"Point"}
+}

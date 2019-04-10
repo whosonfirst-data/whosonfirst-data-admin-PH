@@ -1,0 +1,72 @@
+{
+  "id": 1327445161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5655,17.9609,120.5655,17.9609",
+    "geom:latitude":17.9609,
+    "geom:longitude":120.5655,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12819000.0",
+    "gn:asciiname":"Cabaroan",
+    "gn:country_code":"PH",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721782,
+    "gn:latitude":17.9609,
+    "gn:longitude":120.5655,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabaroan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabaroan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721782
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d2289f3f533a0b946f16b8178c9c90aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698901,
+            "locality_id":1327445161,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1327445161,
+    "wof:lastmodified":1537678437,
+    "wof:name":"Cabaroan",
+    "wof:parent_id":1108698901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5655,
+    17.9609,
+    120.5655,
+    17.9609
+],
+  "geometry": {"coordinates":[120.5655,17.9609],"type":"Point"}
+}

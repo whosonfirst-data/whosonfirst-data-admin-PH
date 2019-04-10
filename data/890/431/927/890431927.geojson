@@ -1,0 +1,68 @@
+{
+  "id": 890431927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9713,15.5598,120.9713,15.5598",
+    "geom:latitude":15.5598,
+    "geom:longitude":120.9713,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2753,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buliran"
+    ],
+    "qs:name":"Buliran",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722862,
+        "qs:id":277340
+    },
+    "wof:country":"PH",
+    "wof:created":1469051921,
+    "wof:geomhash":"f37b0eaa077d58a90640edd78562f9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697629,
+            "locality_id":890431927,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890431927,
+    "wof:lastmodified":1505343526,
+    "wof:name":"Buliran",
+    "wof:parent_id":1108697629,
+    "wof:placetype":"locality",
+    "wof:population":2753,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9713,
+    15.5598,
+    120.9713,
+    15.5598
+],
+  "geometry": {"coordinates":[120.9713,15.5598],"type":"Point"}
+}

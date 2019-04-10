@@ -1,0 +1,72 @@
+{
+  "id": 890431779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.933,15.3993,119.933,15.3993",
+    "geom:latitude":15.3993,
+    "geom:longitude":119.933,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3245,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Liozon"
+    ],
+    "name:unk_x_variant":[
+        "Lioson"
+    ],
+    "qs:name":"Liozon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108698743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706093,
+        "gp:id":1178746,
+        "qs:id":277097
+    },
+    "wof:country":"PH",
+    "wof:created":1469051914,
+    "wof:geomhash":"cef9e2401800bb35291cca4be252d6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698743,
+            "locality_id":890431779,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":890431779,
+    "wof:lastmodified":1505343526,
+    "wof:name":"Liozon",
+    "wof:parent_id":1108698743,
+    "wof:placetype":"locality",
+    "wof:population":3245,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.933,
+    15.3993,
+    119.933,
+    15.3993
+],
+  "geometry": {"coordinates":[119.93300000000001,15.3993],"type":"Point"}
+}

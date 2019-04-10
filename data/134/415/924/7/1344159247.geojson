@@ -1,0 +1,73 @@
+{
+  "id": 1344159247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3466,17.8486,121.3466,17.8486",
+    "geom:latitude":17.8486,
+    "geom:longitude":121.3466,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21521000.0",
+    "gn:asciiname":"Rizal",
+    "gn:country_code":"PH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1691592,
+    "gn:latitude":17.8486,
+    "gn:longitude":121.3466,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Rizal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Rizal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108699017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691592,
+        "wk:page":"Rizal%2C_Cagayan"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"631a165f33df4c935025716288131d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699017,
+            "locality_id":1344159247,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1344159247,
+    "wof:lastmodified":1537677578,
+    "wof:name":"Rizal",
+    "wof:parent_id":1108699017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3466,
+    17.8486,
+    121.3466,
+    17.8486
+],
+  "geometry": {"coordinates":[121.3466,17.8486],"type":"Point"}
+}

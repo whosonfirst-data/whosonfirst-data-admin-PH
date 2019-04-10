@@ -1,0 +1,63 @@
+{
+  "id": 890432183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.43191,12.20345,123.43191,12.20345",
+    "geom:latitude":12.20345,
+    "geom:longitude":123.43191,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2529,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Potot"
+    ],
+    "qs:name":"Potot",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692820,
+        "gp:id":1188474,
+        "qs:id":134523
+    },
+    "wof:country":"PH",
+    "wof:created":1469051931,
+    "wof:geomhash":"14bcb77291f180c0f87f5280f66b5349",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":890432183
+        }
+    ],
+    "wof:id":890432183,
+    "wof:lastmodified":1505343528,
+    "wof:name":"Potot",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2529,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.43191,
+    12.20345,
+    123.43191,
+    12.20345
+],
+  "geometry": {"coordinates":[123.43191,12.20345],"type":"Point"}
+}

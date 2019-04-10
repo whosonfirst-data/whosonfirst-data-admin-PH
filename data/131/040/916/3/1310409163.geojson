@@ -1,0 +1,75 @@
+{
+  "id": 1310409163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.352,17.60796,120.352,17.60796",
+    "geom:latitude":17.60796,
+    "geom:longitude":120.352,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12921000.0",
+    "gn:asciiname":"Nagtupacan",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698628,
+    "gn:latitude":17.60796,
+    "gn:longitude":120.352,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nagtupacan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nagtapacan"
+    ],
+    "name:fil_x_variant":[
+        "Nagtupacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108696893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698628
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ae42788f4fff1c1932f44d5155b396e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696893,
+            "locality_id":1310409163,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1310409163,
+    "wof:lastmodified":1537677778,
+    "wof:name":"Nagtupacan",
+    "wof:parent_id":1108696893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.352,
+    17.60796000000001,
+    120.352,
+    17.60796000000001
+],
+  "geometry": {"coordinates":[120.352,17.60796000000001],"type":"Point"}
+}

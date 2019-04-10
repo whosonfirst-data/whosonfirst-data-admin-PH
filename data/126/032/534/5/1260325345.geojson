@@ -1,0 +1,71 @@
+{
+  "id": 1260325345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72494,15.42208,120.72494,15.42208",
+    "geom:latitude":15.42208,
+    "geom:longitude":120.72494,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Balanoy",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728469,
+    "gn:latitude":15.42208,
+    "gn:longitude":120.72494,
+    "gn:modification_date":"2015-04-22",
+    "gn:name":"Balanoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balanoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728469
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"103e06e76ff5d4ba0121bc5d911a5290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697953,
+            "locality_id":1260325345,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1260325345,
+    "wof:lastmodified":1537678639,
+    "wof:name":"Balanoy",
+    "wof:parent_id":1108697953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72494,
+    15.42208,
+    120.72494,
+    15.42208
+],
+  "geometry": {"coordinates":[120.72494,15.42208],"type":"Point"}
+}

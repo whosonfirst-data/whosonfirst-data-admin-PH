@@ -1,0 +1,79 @@
+{
+  "id": 1343300255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6493,14.1229,120.6493,14.1229",
+    "geom:latitude":14.1229,
+    "geom:longitude":120.6493,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41019000.0",
+    "gn:asciiname":"Utod",
+    "gn:country_code":"PH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680146,
+    "gn:latitude":14.1229,
+    "gn:longitude":120.6493,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Utod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Utod"
+    ],
+    "name:fil_x_variant":[
+        "Utud"
+    ],
+    "name:und_x_variant":[
+        "Utud",
+        "Utod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108698559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680146
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d96905bcbbc233d8001e73b463caa1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698559,
+            "locality_id":1343300255,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1343300255,
+    "wof:lastmodified":1537677253,
+    "wof:name":"Utod",
+    "wof:parent_id":1108698559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6493,
+    14.1229,
+    120.6493,
+    14.1229
+],
+  "geometry": {"coordinates":[120.6493,14.1229],"type":"Point"}
+}

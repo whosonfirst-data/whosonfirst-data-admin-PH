@@ -1,0 +1,69 @@
+{
+  "id": 890437623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.01667,13.86667,121.01667,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":121.01667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2631,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mulawin"
+    ],
+    "qs:name":"Mulauin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108696639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699124,
+        "gp:id":91425768,
+        "qs:id":87194
+    },
+    "wof:country":"PH",
+    "wof:created":1469052158,
+    "wof:geomhash":"099975da362ba19618c0e65f96f09376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696639,
+            "locality_id":890437623,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890437623,
+    "wof:lastmodified":1505343560,
+    "wof:name":"Mulauin",
+    "wof:parent_id":1108696639,
+    "wof:placetype":"locality",
+    "wof:population":2631,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.01667,
+    13.86667,
+    121.01667,
+    13.86667
+],
+  "geometry": {"coordinates":[121.01667,13.86667],"type":"Point"}
+}

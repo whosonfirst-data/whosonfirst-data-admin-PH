@@ -1,0 +1,84 @@
+{
+  "id": 1125849169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3217,13.5469,123.3217,13.5469",
+    "geom:latitude":13.5469,
+    "geom:longitude":123.3217,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2613,
+    "gn:population":2613,
+    "iso:country":"PH",
+    "lbl:latitude":13.5469,
+    "lbl:longitude":123.3217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Ayugan"
+    ],
+    "name:unk_x_variant":[
+        "Ayogan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1729850,
+    "qs_pg:gn_pop":2613,
+    "qs_pg:name":"Ayugan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88486,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729850,
+        "qs_pg:id":88486
+    },
+    "wof:country":"PH",
+    "wof:created":1497293309,
+    "wof:geomhash":"3719c5fe63a1714722f1bccce6afb45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698889,
+            "locality_id":1125849169,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1125849169,
+    "wof:lastmodified":1509395820,
+    "wof:name":"Ayugan",
+    "wof:parent_id":1108698889,
+    "wof:placetype":"locality",
+    "wof:population":2613,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3217,
+    13.5469,
+    123.3217,
+    13.5469
+],
+  "geometry": {"coordinates":[123.32170000000001,13.5469],"type":"Point"}
+}

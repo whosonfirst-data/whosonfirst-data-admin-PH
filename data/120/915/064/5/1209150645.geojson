@@ -1,0 +1,69 @@
+{
+  "id": 1209150645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.246,13.6179,121.246,13.6179",
+    "geom:latitude":13.6179,
+    "geom:longitude":121.246,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41015000.0",
+    "gn:asciiname":"Soloc",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685848,
+    "gn:latitude":13.6179,
+    "gn:longitude":121.246,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Soloc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Soloc"
+    ],
+    "name:und_x_variant":[
+        "Solec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685848
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5d3cb5bef6ed12467181efc73df37855",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209150645
+        }
+    ],
+    "wof:id":1209150645,
+    "wof:lastmodified":1537677409,
+    "wof:name":"Soloc",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.246,
+    13.6179,
+    121.246,
+    13.6179
+],
+  "geometry": {"coordinates":[121.246,13.6179],"type":"Point"}
+}

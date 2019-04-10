@@ -1,0 +1,74 @@
+{
+  "id": 1226326433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7825,7.47694,122.7825,7.47694",
+    "geom:latitude":7.47694,
+    "geom:longitude":122.7825,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"ZSI",
+    "gn:admin3_code":"98311000.0",
+    "gn:asciiname":"Tamban",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683313,
+    "gn:latitude":7.47694,
+    "gn:longitude":122.7825,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tamban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanban",
+        "Tamban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108698847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683313
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d173c405bcc37b1053dedde0eefb0c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698847,
+            "locality_id":1226326433,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":1226326433,
+    "wof:lastmodified":1537677340,
+    "wof:name":"Tamban",
+    "wof:parent_id":1108698847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7825,
+    7.47694,
+    122.7825,
+    7.47694
+],
+  "geometry": {"coordinates":[122.7825,7.47694],"type":"Point"}
+}

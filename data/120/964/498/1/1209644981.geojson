@@ -1,0 +1,63 @@
+{
+  "id": 1209644981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0254,14.5701,121.0254,14.5701",
+    "geom:latitude":14.5701,
+    "geom:longitude":121.0254,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137600000",
+    "gn:admin3_code":"137602000.0",
+    "gn:asciiname":"Valenzuela",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091184,
+    "gn:latitude":14.5701,
+    "gn:longitude":121.0254,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Valenzuela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091184
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"34577f5579f3682680d2b55b8a1be73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209644981
+        }
+    ],
+    "wof:id":1209644981,
+    "wof:lastmodified":1536280764,
+    "wof:name":"Valenzuela",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0254,
+    14.5701,
+    121.0254,
+    14.5701
+],
+  "geometry": {"coordinates":[121.0254,14.5701],"type":"Point"}
+}

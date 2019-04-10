@@ -1,0 +1,74 @@
+{
+  "id": 1276981079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56139,14.69361,120.56139,14.69361",
+    "geom:latitude":14.69361,
+    "geom:longitude":120.56139,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"07",
+    "gn:admin3_code":"30803000.0",
+    "gn:asciiname":"Puerto Rivas",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692680,
+    "gn:latitude":14.69361,
+    "gn:longitude":120.56139,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Puerto Rivas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerta Rivas",
+        "Puerto Rivas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676093,
+        1108696807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692680
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9c750dde6c2289775b30292d61bcb391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696807,
+            "locality_id":1276981079,
+            "region_id":85676093
+        }
+    ],
+    "wof:id":1276981079,
+    "wof:lastmodified":1537677607,
+    "wof:name":"Puerto Rivas",
+    "wof:parent_id":1108696807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56139,
+    14.69361,
+    120.56139,
+    14.69361
+],
+  "geometry": {"coordinates":[120.56139,14.69361],"type":"Point"}
+}

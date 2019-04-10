@@ -1,0 +1,76 @@
+{
+  "id": 1293660363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.72556,8.29917,125.72556,8.29917",
+    "geom:latitude":8.29917,
+    "geom:longitude":125.72556,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"03",
+    "gn:admin3_code":"160304000.0",
+    "gn:asciiname":"Camota",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717062,
+    "gn:latitude":8.29917,
+    "gn:longitude":125.72556,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Camota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Camota"
+    ],
+    "name:und_x_variant":[
+        "Comata",
+        "Comota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676217,
+        1108697951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717062
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8b58c3ca2a4737b88d6fd25a038c9696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697951,
+            "locality_id":1293660363,
+            "region_id":85676217
+        }
+    ],
+    "wof:id":1293660363,
+    "wof:lastmodified":1537678294,
+    "wof:name":"Camota",
+    "wof:parent_id":1108697951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.72556000000002,
+    8.29917,
+    125.72556000000002,
+    8.29917
+],
+  "geometry": {"coordinates":[125.72556000000002,8.29917],"type":"Point"}
+}

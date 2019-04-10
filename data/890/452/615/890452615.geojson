@@ -1,0 +1,75 @@
+{
+  "id": 890452615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.18764,16.57588,121.18764,16.57588",
+    "geom:latitude":16.57588,
+    "geom:longitude":121.18764,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4971,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bintawan"
+    ],
+    "name:fil_x_variant":[
+        "Bintauan"
+    ],
+    "name:unk_x_variant":[
+        "Bintauan"
+    ],
+    "qs:name":"Bintawan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108699873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724896,
+        "gp:id":1198364,
+        "qs:id":135683
+    },
+    "wof:country":"PH",
+    "wof:created":1469052823,
+    "wof:geomhash":"59dda16f8500541049199d3780ac5a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699873,
+            "locality_id":890452615,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":890452615,
+    "wof:lastmodified":1505343646,
+    "wof:name":"Bintawan",
+    "wof:parent_id":1108699873,
+    "wof:placetype":"locality",
+    "wof:population":4971,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.18764,
+    16.57588,
+    121.18764,
+    16.57588
+],
+  "geometry": {"coordinates":[121.18764,16.57588],"type":"Point"}
+}

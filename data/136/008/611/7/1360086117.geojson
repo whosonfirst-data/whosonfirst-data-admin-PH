@@ -1,0 +1,78 @@
+{
+  "id": 1360086117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65191,15.0491,120.65191,15.0491",
+    "geom:latitude":15.0491,
+    "geom:longitude":120.65191,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35416000.0",
+    "gn:asciiname":"San Isidro de Bacolor",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689662,
+    "gn:latitude":15.0491,
+    "gn:longitude":120.65191,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Isidro de Bacolor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Isidro de Bacolor"
+    ],
+    "name:fil_x_variant":[
+        "San Isidro"
+    ],
+    "name:und_x_variant":[
+        "San Isidro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689662
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b434d0f3445b1143fe1eac661a74a5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699393,
+            "locality_id":1360086117,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1360086117,
+    "wof:lastmodified":1537677523,
+    "wof:name":"San Isidro de Bacolor",
+    "wof:parent_id":1108699393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65191000000002,
+    15.0491,
+    120.65191000000002,
+    15.0491
+],
+  "geometry": {"coordinates":[120.65191000000002,15.0491],"type":"Point"}
+}

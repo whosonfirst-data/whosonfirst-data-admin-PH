@@ -1,0 +1,72 @@
+{
+  "id": 1226234319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0219,11.4817,123.0219,11.4817",
+    "geom:latitude":11.4817,
+    "geom:longitude":123.0219,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61911000.0",
+    "gn:asciiname":"Adlauan",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732233,
+    "gn:latitude":11.4817,
+    "gn:longitude":123.0219,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Adlauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Adlauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108698881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732233
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7adf8aaeda4a2941326df718e63aea4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698881,
+            "locality_id":1226234319,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1226234319,
+    "wof:lastmodified":1537678747,
+    "wof:name":"Adlauan",
+    "wof:parent_id":1108698881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0219,
+    11.4817,
+    123.0219,
+    11.4817
+],
+  "geometry": {"coordinates":[123.0219,11.4817],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260154123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98472,5.97722,120.98472,5.97722",
+    "geom:latitude":5.97722,
+    "geom:longitude":120.98472,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156601000.0",
+    "gn:asciiname":"Licup",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706425,
+    "gn:latitude":5.97722,
+    "gn:longitude":120.98472,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Licup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Indanan",
+        "Likup",
+        "Licup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108697763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706425,
+        "wk:page":"Indanan%2C_Sulu"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7cdfe127e8d8fc42d6b1ea4730cd7047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697763,
+            "locality_id":1260154123,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1260154123,
+    "wof:lastmodified":1537677997,
+    "wof:name":"Licup",
+    "wof:parent_id":1108697763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98472,
+    5.97722,
+    120.98472,
+    5.97722
+],
+  "geometry": {"coordinates":[120.98472,5.97722],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309935535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0,14.65,121.0,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":121.0,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137400000",
+    "gn:admin3_code":"137404000.0",
+    "gn:asciiname":"Balintawak",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728059,
+    "gn:latitude":14.65,
+    "gn:longitude":121.0,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balintawak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balintawac",
+        "Balintanac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728059
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2fb54399443cd08f0670ca1b12587f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1309935535,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1309935535,
+    "wof:lastmodified":1537678627,
+    "wof:name":"Balintawak",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0,
+    14.65,
+    121.0,
+    14.65
+],
+  "geometry": {"coordinates":[121.0,14.65],"type":"Point"}
+}

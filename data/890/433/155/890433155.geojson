@@ -1,0 +1,72 @@
+{
+  "id": 890433155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.9053,9.2207,122.9053,9.2207",
+    "geom:latitude":9.2207,
+    "geom:longitude":122.9053,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2127,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Apoya"
+    ],
+    "name:unk_x_variant":[
+        "Apoloy"
+    ],
+    "qs:name":"Apoya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730321,
+        "gp:id":1190637,
+        "qs:id":136012
+    },
+    "wof:country":"PH",
+    "wof:created":1469051969,
+    "wof:geomhash":"a89a822867b49cfae6d095143e0d9af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699343,
+            "locality_id":890433155,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890433155,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Apoya",
+    "wof:parent_id":1108699343,
+    "wof:placetype":"locality",
+    "wof:population":2127,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.9053,
+    9.2207,
+    122.9053,
+    9.2207
+],
+  "geometry": {"coordinates":[122.9053,9.2207],"type":"Point"}
+}

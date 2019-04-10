@@ -1,0 +1,76 @@
+{
+  "id": 1226120915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7554,8.4262,123.7554,8.4262",
+    "geom:latitude":8.4262,
+    "geom:longitude":123.7554,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104209000.0",
+    "gn:asciiname":"Dullan",
+    "gn:country_code":"PH",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714226,
+    "gn:latitude":8.4262,
+    "gn:longitude":123.7554,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dullan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dullan"
+    ],
+    "name:und_x_variant":[
+        "Langkangan",
+        "Langcangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        890436295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714226
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2f68e56db1fedd7fd6207ffeb905874d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890436295,
+            "locality_id":1226120915,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1226120915,
+    "wof:lastmodified":1537678217,
+    "wof:name":"Dullan",
+    "wof:parent_id":890436295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7554,
+    8.4262,
+    123.7554,
+    8.4262
+],
+  "geometry": {"coordinates":[123.75539999999999,8.4262],"type":"Point"}
+}

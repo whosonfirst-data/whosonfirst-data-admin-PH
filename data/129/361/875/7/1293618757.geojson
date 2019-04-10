@@ -1,0 +1,75 @@
+{
+  "id": 1293618757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.363,10.9164,123.363,10.9164",
+    "geom:latitude":10.9164,
+    "geom:longitude":123.363,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64523000.0",
+    "gn:asciiname":"Caloncalong",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720156,
+    "gn:latitude":10.9164,
+    "gn:longitude":123.363,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caloncalong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Caloncalong"
+    ],
+    "name:fil_x_variant":[
+        "Calong Calong Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720156
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"618dcd323b3751135dfaa5fbd45f73a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699073,
+            "locality_id":1293618757,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1293618757,
+    "wof:lastmodified":1537678387,
+    "wof:name":"Caloncalong",
+    "wof:parent_id":1108699073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.363,
+    10.9164,
+    123.363,
+    10.9164
+],
+  "geometry": {"coordinates":[123.363,10.9164],"type":"Point"}
+}

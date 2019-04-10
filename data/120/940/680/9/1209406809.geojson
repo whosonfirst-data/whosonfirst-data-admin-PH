@@ -1,0 +1,66 @@
+{
+  "id": 1209406809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.03333,11.31667,123.03333,11.31667",
+    "geom:latitude":11.31667,
+    "geom:longitude":123.03333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63038000.0",
+    "gn:asciiname":"Cudonian",
+    "gn:country_code":"PH",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716623,
+    "gn:latitude":11.31667,
+    "gn:longitude":123.03333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cudonian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cudonian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716623
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8bc04d573c422733c3e3eb8bbbcf122b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209406809
+        }
+    ],
+    "wof:id":1209406809,
+    "wof:lastmodified":1537678282,
+    "wof:name":"Cudonian",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.03333,
+    11.31667,
+    123.03333,
+    11.31667
+],
+  "geometry": {"coordinates":[123.03333000000001,11.31667],"type":"Point"}
+}

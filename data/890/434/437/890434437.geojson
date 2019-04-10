@@ -1,0 +1,68 @@
+{
+  "id": 890434437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.25528,7.23611,122.25528,7.23611",
+    "geom:latitude":7.23611,
+    "geom:longitude":122.25528,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6131,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Buenavista",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":166,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723484,
+        "gp:id":28344573,
+        "qs:id":135602,
+        "wk:page":"Buenavista"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052024,
+    "wof:geomhash":"41ab2e2441b4b0d764130874ed3c6a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "locality_id":890434437,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":890434437,
+    "wof:lastmodified":1527792944,
+    "wof:name":"Buenavista",
+    "wof:parent_id":1108699889,
+    "wof:placetype":"locality",
+    "wof:population":6131,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.25528,
+    7.23611,
+    122.25528,
+    7.23611
+],
+  "geometry": {"coordinates":[122.25528,7.23611],"type":"Point"}
+}

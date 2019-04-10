@@ -1,0 +1,73 @@
+{
+  "id": 1343379869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.18917,7.48056,123.18917,7.48056",
+    "geom:latitude":7.48056,
+    "geom:longitude":123.18917,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Sugbay",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685510,
+    "gn:latitude":7.48056,
+    "gn:longitude":123.18917,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Sugbay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Subay",
+        "Sugbay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685510
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c301140750482fafc3530c4c03a2d077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699879,
+            "locality_id":1343379869,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1343379869,
+    "wof:lastmodified":1537677402,
+    "wof:name":"Sugbay",
+    "wof:parent_id":1108699879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.18917,
+    7.48056,
+    123.18917,
+    7.48056
+],
+  "geometry": {"coordinates":[123.18917,7.48056],"type":"Point"}
+}

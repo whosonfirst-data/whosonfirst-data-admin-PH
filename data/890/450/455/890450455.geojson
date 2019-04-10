@@ -1,0 +1,71 @@
+{
+  "id": 890450455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0,15.8,121.0,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":121.0,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2368,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Sibul"
+    ],
+    "qs:name":"Sibul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        890442461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686735,
+        "gp:id":91798635,
+        "qs:id":86575,
+        "wk:page":"Sibul"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052740,
+    "wof:geomhash":"3bc55969b0cdd7c53341820c3146618c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890442461,
+            "locality_id":890450455,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890450455,
+    "wof:lastmodified":1527792961,
+    "wof:name":"Sibul",
+    "wof:parent_id":890442461,
+    "wof:placetype":"locality",
+    "wof:population":2368,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0,
+    15.8,
+    121.0,
+    15.8
+],
+  "geometry": {"coordinates":[121.0,15.8],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360286311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75412,15.00119,120.75412,15.00119",
+    "geom:latitude":15.00119,
+    "geom:longitude":120.75412,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35418000.0",
+    "gn:asciiname":"Santa Monica",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687978,
+    "gn:latitude":15.00119,
+    "gn:longitude":120.75412,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Monica",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Monica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687978
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"57263e5e7a2ccae217e8697f26e4cb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699315,
+            "locality_id":1360286311,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1360286311,
+    "wof:lastmodified":1537677467,
+    "wof:name":"Santa Monica",
+    "wof:parent_id":1108699315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75412,
+    15.00119,
+    120.75412,
+    15.00119
+],
+  "geometry": {"coordinates":[120.75412,15.00119],"type":"Point"}
+}

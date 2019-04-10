@@ -1,0 +1,66 @@
+{
+  "id": 1209503019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.771,7.652,125.771,7.652",
+    "geom:latitude":7.652,
+    "geom:longitude":125.771,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"112301000.0",
+    "gn:asciiname":"Bucana",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723595,
+    "gn:latitude":7.652,
+    "gn:longitude":125.771,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bucana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bucana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723595
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5aa55292de434bc9e08306a21af737bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209503019
+        }
+    ],
+    "wof:id":1209503019,
+    "wof:lastmodified":1537678493,
+    "wof:name":"Bucana",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.771,
+    7.652,
+    125.771,
+    7.652
+],
+  "geometry": {"coordinates":[125.771,7.652],"type":"Point"}
+}

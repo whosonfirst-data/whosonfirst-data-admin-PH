@@ -1,0 +1,75 @@
+{
+  "id": 1310232935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3271,13.8064,120.3271,13.8064",
+    "geom:latitude":13.8064,
+    "geom:longitude":120.3271,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"175103000.0",
+    "gn:asciiname":"Tambo",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731115,
+    "gn:latitude":13.8064,
+    "gn:longitude":120.3271,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tambo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tambo"
+    ],
+    "name:und_x_variant":[
+        "Ambil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108698643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731115
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e0e05989e7e2ef45b3c336b1d769e38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698643,
+            "locality_id":1310232935,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":1310232935,
+    "wof:lastmodified":1537678714,
+    "wof:name":"Tambo",
+    "wof:parent_id":1108698643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3271,
+    13.8064,
+    120.3271,
+    13.8064
+],
+  "geometry": {"coordinates":[120.3271,13.8064],"type":"Point"}
+}

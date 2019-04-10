@@ -1,0 +1,66 @@
+{
+  "id": 1209135625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.15101,12.36975,121.15101,12.36975",
+    "geom:latitude":12.36975,
+    "geom:longitude":121.15101,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"175110000.0",
+    "gn:asciiname":"Arupay",
+    "gn:country_code":"PH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730115,
+    "gn:latitude":12.36975,
+    "gn:longitude":121.15101,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Arupay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Arupay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730115
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6f014b70da3e6c0bf06ac10979d328e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209135625
+        }
+    ],
+    "wof:id":1209135625,
+    "wof:lastmodified":1537678686,
+    "wof:name":"Arupay",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.15101,
+    12.36975,
+    121.15101,
+    12.36975
+],
+  "geometry": {"coordinates":[121.15101,12.36975],"type":"Point"}
+}

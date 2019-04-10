@@ -1,0 +1,74 @@
+{
+  "id": 1276749437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.89833,9.79694,123.89833,9.79694",
+    "geom:latitude":9.79694,
+    "geom:longitude":123.89833,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71204000.0",
+    "gn:asciiname":"Quinapon-an",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692068,
+    "gn:latitude":9.79694,
+    "gn:longitude":123.89833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Quinapon-an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinapun-an",
+        "Quinapon-an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108696685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692068
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8081d42d38d8578a4cee97516a0ebce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696685,
+            "locality_id":1276749437,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1276749437,
+    "wof:lastmodified":1537677590,
+    "wof:name":"Quinapon-an",
+    "wof:parent_id":1108696685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.89833,
+    9.79694,
+    123.89833,
+    9.79694
+],
+  "geometry": {"coordinates":[123.89833,9.79694],"type":"Point"}
+}

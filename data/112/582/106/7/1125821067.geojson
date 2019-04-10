@@ -1,0 +1,84 @@
+{
+  "id": 1125821067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.165,11.2698,123.165,11.2698",
+    "geom:latitude":11.2698,
+    "geom:longitude":123.165,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2950,
+    "gn:population":2950,
+    "iso:country":"PH",
+    "lbl:latitude":11.2698,
+    "lbl:longitude":123.165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Tambalisa"
+    ],
+    "name:unk_x_variant":[
+        "Tambaliza"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1683629,
+    "qs_pg:gn_pop":2950,
+    "qs_pg:name":"Tambalisa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":134079,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683629,
+        "qs_pg:id":134079
+    },
+    "wof:country":"PH",
+    "wof:created":1497292068,
+    "wof:geomhash":"7087e0a6cacc26c347352b3797d39757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698623,
+            "locality_id":1125821067,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1125821067,
+    "wof:lastmodified":1509394104,
+    "wof:name":"Tambalisa",
+    "wof:parent_id":1108698623,
+    "wof:placetype":"locality",
+    "wof:population":2950,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.165,
+    11.2698,
+    123.165,
+    11.2698
+],
+  "geometry": {"coordinates":[123.16500000000001,11.2698],"type":"Point"}
+}

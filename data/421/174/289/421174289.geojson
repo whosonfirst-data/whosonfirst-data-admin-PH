@@ -1,0 +1,87 @@
+{
+  "id": 421174289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.2872,12.4844,124.2872,12.4844",
+    "geom:latitude":12.4844,
+    "geom:longitude":124.2872,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Jubasan"
+    ],
+    "name:unk_x_variant":[
+        "Hubasan"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1710071,
+    "qs:gn_pop":2328,
+    "qs:name":"Juban",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Bicol Region",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":779176,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1175348,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676209,
+        1108696643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710071,
+        "gp:id":1175348,
+        "qs:id":779176,
+        "wd:id":"Q16461610"
+    },
+    "wof:country":"PH",
+    "wof:created":1459009026,
+    "wof:geomhash":"0aa53495c9e694fe92992ac2cb234293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696643,
+            "locality_id":421174289,
+            "region_id":85676209
+        }
+    ],
+    "wof:id":421174289,
+    "wof:lastmodified":1527716225,
+    "wof:name":"Juban",
+    "wof:parent_id":1108696643,
+    "wof:placetype":"locality",
+    "wof:population":2328,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.2872,
+    12.4844,
+    124.2872,
+    12.4844
+],
+  "geometry": {"coordinates":[124.2872,12.4844],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293688963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73459,16.54059,121.73459,16.54059",
+    "geom:latitude":16.54059,
+    "geom:longitude":121.73459,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23115000.0",
+    "gn:asciiname":"Daligan",
+    "gn:country_code":"PH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715994,
+    "gn:latitude":16.54059,
+    "gn:longitude":121.73459,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Daligan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Daligan"
+    ],
+    "name:fil_x_variant":[
+        "Dalligan"
+    ],
+    "name:und_x_variant":[
+        "Dalligan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715994
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bd42465025b29239184804c52040de3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697833,
+            "locality_id":1293688963,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1293688963,
+    "wof:lastmodified":1537678264,
+    "wof:name":"Daligan",
+    "wof:parent_id":1108697833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73459,
+    16.54059,
+    121.73459,
+    16.54059
+],
+  "geometry": {"coordinates":[121.73459,16.54059],"type":"Point"}
+}

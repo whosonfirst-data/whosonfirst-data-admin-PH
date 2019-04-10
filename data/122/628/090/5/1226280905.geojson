@@ -1,0 +1,72 @@
+{
+  "id": 1226280905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2752,14.0638,121.2752,14.0638",
+    "geom:latitude":14.0638,
+    "geom:longitude":121.2752,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"43401000.0",
+    "gn:asciiname":"San Benito",
+    "gn:country_code":"PH",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690248,
+    "gn:latitude":14.0638,
+    "gn:longitude":121.2752,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Benito",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Benito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108696589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690248
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9d72063424ea898ce7f51b7b22c72b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696589,
+            "locality_id":1226280905,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":1226280905,
+    "wof:lastmodified":1537677540,
+    "wof:name":"San Benito",
+    "wof:parent_id":1108696589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2752,
+    14.0638,
+    121.2752,
+    14.0638
+],
+  "geometry": {"coordinates":[121.2752,14.0638],"type":"Point"}
+}

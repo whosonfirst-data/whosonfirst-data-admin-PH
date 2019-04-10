@@ -1,0 +1,74 @@
+{
+  "id": 1193121887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67611,11.14028,125.67611,11.14028",
+    "geom:latitude":11.14028,
+    "geom:longitude":125.67611,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"82619000.0",
+    "gn:asciiname":"Bagtong",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728971,
+    "gn:latitude":11.14028,
+    "gn:longitude":125.67611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bagtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogtong",
+        "Bagtong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676191,
+        1108699085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728971
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fbcf819024c59589555fa3d85b05b05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699085,
+            "locality_id":1193121887,
+            "region_id":85676191
+        }
+    ],
+    "wof:id":1193121887,
+    "wof:lastmodified":1537678653,
+    "wof:name":"Bagtong",
+    "wof:parent_id":1108699085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67611,
+    11.14028,
+    125.67611,
+    11.14028
+],
+  "geometry": {"coordinates":[125.67610999999999,11.14028],"type":"Point"}
+}

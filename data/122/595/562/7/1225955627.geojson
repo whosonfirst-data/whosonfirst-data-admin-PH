@@ -1,0 +1,73 @@
+{
+  "id": 1225955627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8,15.0333,120.8,15.0333",
+    "geom:latitude":15.0333,
+    "geom:longitude":120.8,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35417000.0",
+    "gn:asciiname":"Santo Tomas",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1687528,
+    "gn:latitude":15.0333,
+    "gn:longitude":120.8,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santo Tomas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santo Tomas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687528,
+        "wk:page":"Santo_Tomas%2C_Pampanga"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b1a2371352122622299e3f26ba1e1f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699243,
+            "locality_id":1225955627,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1225955627,
+    "wof:lastmodified":1537677452,
+    "wof:name":"Santo Tomas",
+    "wof:parent_id":1108699243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8,
+    15.0333,
+    120.8,
+    15.0333
+],
+  "geometry": {"coordinates":[120.8,15.0333],"type":"Point"}
+}

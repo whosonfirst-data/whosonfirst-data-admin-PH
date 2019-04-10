@@ -1,0 +1,75 @@
+{
+  "id": 1327272275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.93512,13.9028,121.93512,13.9028",
+    "geom:latitude":13.9028,
+    "geom:longitude":121.93512,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45601000.0",
+    "gn:asciiname":"Kanlurang Maligaya",
+    "gn:country_code":"PH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702801,
+    "gn:latitude":13.9028,
+    "gn:longitude":121.93512,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kanlurang Maligaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kanlurang Maligaya"
+    ],
+    "name:fil_x_variant":[
+        "Maligaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702801
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3da76a3f5a0c15a769456cc59fc3e6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698715,
+            "locality_id":1327272275,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1327272275,
+    "wof:lastmodified":1537677894,
+    "wof:name":"Kanlurang Maligaya",
+    "wof:parent_id":1108698715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.93512,
+    13.9028,
+    121.93512,
+    13.9028
+],
+  "geometry": {"coordinates":[121.93512,13.9028],"type":"Point"}
+}

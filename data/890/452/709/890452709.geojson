@@ -1,0 +1,72 @@
+{
+  "id": 890452709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2014,7.5581,123.2014,7.5581",
+    "geom:latitude":7.5581,
+    "geom:longitude":123.2014,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2128,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lumbog"
+    ],
+    "name:unk_x_variant":[
+        "Cabatan"
+    ],
+    "qs:name":"Lumbog",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108698391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958319,
+        "gp:id":28345020,
+        "qs:id":137322
+    },
+    "wof:country":"PH",
+    "wof:created":1469052827,
+    "wof:geomhash":"ea2ae457b4035136e5c63897954d25a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698391,
+            "locality_id":890452709,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":890452709,
+    "wof:lastmodified":1505343647,
+    "wof:name":"Lumbog",
+    "wof:parent_id":1108698391,
+    "wof:placetype":"locality",
+    "wof:population":2128,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2014,
+    7.5581,
+    123.2014,
+    7.5581
+],
+  "geometry": {"coordinates":[123.20140000000001,7.5581],"type":"Point"}
+}

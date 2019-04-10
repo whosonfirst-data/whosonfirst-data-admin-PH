@@ -1,0 +1,81 @@
+{
+  "id": 1125849115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.0713,7.73309,126.0713,7.73309",
+    "geom:latitude":7.73309,
+    "geom:longitude":126.0713,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3215,
+    "gn:population":3215,
+    "iso:country":"PH",
+    "lbl:latitude":7.73309,
+    "lbl:longitude":126.0713,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Babag"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1729794,
+    "qs_pg:gn_pop":3215,
+    "qs_pg:name":"Babag",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88481,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676235,
+        1108698499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729794,
+        "qs_pg:id":88481
+    },
+    "wof:country":"PH",
+    "wof:created":1497293307,
+    "wof:geomhash":"a2f13c66529f99a3cfc18333d8e4c5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698499,
+            "locality_id":1125849115,
+            "region_id":85676235
+        }
+    ],
+    "wof:id":1125849115,
+    "wof:lastmodified":1509395817,
+    "wof:name":"Babag",
+    "wof:parent_id":1108698499,
+    "wof:placetype":"locality",
+    "wof:population":3215,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.0713,
+    7.73309,
+    126.0713,
+    7.73309
+],
+  "geometry": {"coordinates":[126.07129999999999,7.73309],"type":"Point"}
+}

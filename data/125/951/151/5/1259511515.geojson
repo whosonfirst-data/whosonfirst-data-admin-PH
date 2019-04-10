@@ -1,0 +1,72 @@
+{
+  "id": 1259511515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0981,9.6938,123.0981,9.6938",
+    "geom:latitude":9.6938,
+    "geom:longitude":123.0981,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74615000.0",
+    "gn:asciiname":"Paniayao",
+    "gn:country_code":"PH",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695162,
+    "gn:latitude":9.6938,
+    "gn:longitude":123.0981,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Paniayao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Paniayao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108698357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695162
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"92c40821f4131e5647421b85097d60f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698357,
+            "locality_id":1259511515,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1259511515,
+    "wof:lastmodified":1537677680,
+    "wof:name":"Paniayao",
+    "wof:parent_id":1108698357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0981,
+    9.6938,
+    123.0981,
+    9.6938
+],
+  "geometry": {"coordinates":[123.0981,9.6938],"type":"Point"}
+}

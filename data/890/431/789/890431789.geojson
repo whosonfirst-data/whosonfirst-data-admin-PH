@@ -1,0 +1,71 @@
+{
+  "id": 890431789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.66824,16.91075,121.66824,16.91075",
+    "geom:latitude":16.91075,
+    "geom:longitude":121.66824,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4017,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "La Paz"
+    ],
+    "qs:name":"La Paz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":5317,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707322,
+        "gp:id":1184336,
+        "qs:id":277108,
+        "wk:page":"La Paz"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051915,
+    "wof:geomhash":"dfda07f52609439ec6bff179e4314671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697165,
+            "locality_id":890431789,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":890431789,
+    "wof:lastmodified":1527735418,
+    "wof:name":"La Paz",
+    "wof:parent_id":1108697165,
+    "wof:placetype":"locality",
+    "wof:population":4017,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.66824,
+    16.91075,
+    121.66824,
+    16.91075
+],
+  "geometry": {"coordinates":[121.66824,16.91075],"type":"Point"}
+}

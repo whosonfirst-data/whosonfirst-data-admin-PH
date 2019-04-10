@@ -1,0 +1,68 @@
+{
+  "id": 890444077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4543,9.7937,122.4543,9.7937",
+    "geom:latitude":9.7937,
+    "geom:longitude":122.4543,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5135,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Canturay"
+    ],
+    "qs:name":"Canturay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718834,
+        "qs:id":1032923
+    },
+    "wof:country":"PH",
+    "wof:created":1469052449,
+    "wof:geomhash":"bc734a29750721f248846e5012167590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699513,
+            "locality_id":890444077,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890444077,
+    "wof:lastmodified":1505343597,
+    "wof:name":"Canturay",
+    "wof:parent_id":1108699513,
+    "wof:placetype":"locality",
+    "wof:population":5135,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4543,
+    9.7937,
+    122.4543,
+    9.7937
+],
+  "geometry": {"coordinates":[122.4543,9.7937],"type":"Point"}
+}

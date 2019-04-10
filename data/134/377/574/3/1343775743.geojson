@@ -1,0 +1,72 @@
+{
+  "id": 1343775743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4866,16.2831,120.4866,16.2831",
+    "geom:latitude":16.2831,
+    "geom:longitude":120.4866,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13312000.0",
+    "gn:asciiname":"Tigor",
+    "gn:country_code":"PH",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7599385,
+    "gn:latitude":16.2831,
+    "gn:longitude":120.4866,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tigor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tigor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108698979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7599385
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ab7ab06f42db900846bc81eb30ca086a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698979,
+            "locality_id":1343775743,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1343775743,
+    "wof:lastmodified":1537678991,
+    "wof:name":"Tigor",
+    "wof:parent_id":1108698979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4866,
+    16.2831,
+    120.4866,
+    16.2831
+],
+  "geometry": {"coordinates":[120.4866,16.2831],"type":"Point"}
+}

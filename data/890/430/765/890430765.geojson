@@ -1,0 +1,71 @@
+{
+  "id": 890430765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.406,7.4189,123.406,7.4189",
+    "geom:latitude":7.4189,
+    "geom:longitude":123.406,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":23711,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municpality of Tabina"
+    ],
+    "name:unk_x_variant":[
+        "Tabina"
+    ],
+    "qs:name":"Municpality of Tabina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684991,
+        "qs:id":86510
+    },
+    "wof:country":"PH",
+    "wof:created":1469051865,
+    "wof:geomhash":"4856cac0f7d4f2a26a09f5556974c1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699585,
+            "localadmin_id":890430765,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":890430765,
+    "wof:lastmodified":1505343520,
+    "wof:name":"Municpality of Tabina",
+    "wof:parent_id":1108699585,
+    "wof:placetype":"localadmin",
+    "wof:population":23711,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.406,
+    7.4189,
+    123.406,
+    7.4189
+],
+  "geometry": {"coordinates":[123.40600000000001,7.4189],"type":"Point"}
+}

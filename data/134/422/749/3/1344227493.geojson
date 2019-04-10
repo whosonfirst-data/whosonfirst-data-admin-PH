@@ -1,0 +1,75 @@
+{
+  "id": 1344227493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3457,5.1524,120.3457,5.1524",
+    "geom:latitude":5.1524,
+    "geom:longitude":120.3457,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"157007000.0",
+    "gn:asciiname":"Ballak",
+    "gn:country_code":"PH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958212,
+    "gn:latitude":5.1524,
+    "gn:longitude":120.3457,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ballak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ballak"
+    ],
+    "name:und_x_variant":[
+        "Bellak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675929,
+        1108699673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958212
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"81809ed8011a3a6850e938fe8866c3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699673,
+            "locality_id":1344227493,
+            "region_id":85675929
+        }
+    ],
+    "wof:id":1344227493,
+    "wof:lastmodified":1537678782,
+    "wof:name":"Ballak",
+    "wof:parent_id":1108699673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3457,
+    5.1524,
+    120.3457,
+    5.1524
+],
+  "geometry": {"coordinates":[120.34569999999999,5.1524],"type":"Point"}
+}

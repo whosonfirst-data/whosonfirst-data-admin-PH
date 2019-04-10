@@ -1,0 +1,81 @@
+{
+  "id": 1125343785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.9,10.26667,122.9,10.26667",
+    "geom:latitude":10.26667,
+    "geom:longitude":122.9,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":79511,
+    "gn:population":79511,
+    "iso:country":"PH",
+    "lbl:latitude":10.26667,
+    "lbl:longitude":122.9,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Hinigaran"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1711622,
+    "qs_pg:gn_pop":79511,
+    "qs_pg:name":"Hinigaran",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":275192,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711622,
+        "qs_pg:id":275192
+    },
+    "wof:country":"PH",
+    "wof:created":1497045808,
+    "wof:geomhash":"e7adc357c3fbd6cb4aee165fc6f6241c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697725,
+            "localadmin_id":1125343785,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125343785,
+    "wof:lastmodified":1509388724,
+    "wof:name":"Hinigaran",
+    "wof:parent_id":1108697725,
+    "wof:placetype":"localadmin",
+    "wof:population":79511,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.9,
+    10.26667,
+    122.9,
+    10.26667
+],
+  "geometry": {"coordinates":[122.90000000000001,10.26667],"type":"Point"}
+}

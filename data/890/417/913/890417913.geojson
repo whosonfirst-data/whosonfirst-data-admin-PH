@@ -1,0 +1,73 @@
+{
+  "id": 890417913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.09,10.93294,123.09,10.93294",
+    "geom:latitude":10.93294,
+    "geom:longitude":123.09,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7048,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Tortosa"
+    ],
+    "name:unk_x_variant":[
+        "Tortoso"
+    ],
+    "qs:name":"Tortosa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":661,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108698341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681388,
+        "qs:id":276775,
+        "wk:page":"Tortosa"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051226,
+    "wof:geomhash":"49f762543ba34b3d59d5bc21aa28bb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698341,
+            "locality_id":890417913,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890417913,
+    "wof:lastmodified":1527782122,
+    "wof:name":"Tortosa",
+    "wof:parent_id":1108698341,
+    "wof:placetype":"locality",
+    "wof:population":7048,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.09,
+    10.93294,
+    123.09,
+    10.93294
+],
+  "geometry": {"coordinates":[123.09,10.93294],"type":"Point"}
+}

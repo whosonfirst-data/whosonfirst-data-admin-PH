@@ -1,0 +1,72 @@
+{
+  "id": 1243087759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6018,9.1345,123.6018,9.1345",
+    "geom:latitude":9.1345,
+    "geom:longitude":123.6018,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76103000.0",
+    "gn:asciiname":"Tignao",
+    "gn:country_code":"PH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682183,
+    "gn:latitude":9.1345,
+    "gn:longitude":123.6018,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tignao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tignao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682183
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4fd3b57d1372a9556ed9231d89aa9423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698035,
+            "locality_id":1243087759,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1243087759,
+    "wof:lastmodified":1537677312,
+    "wof:name":"Tignao",
+    "wof:parent_id":1108698035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6018,
+    9.1345,
+    123.6018,
+    9.1345
+],
+  "geometry": {"coordinates":[123.6018,9.1345],"type":"Point"}
+}

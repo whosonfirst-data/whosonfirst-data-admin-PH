@@ -1,0 +1,75 @@
+{
+  "id": 1310413861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5486,17.7083,121.5486,17.7083",
+    "geom:latitude":17.7083,
+    "geom:longitude":121.5486,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21520000.0",
+    "gn:asciiname":"Villa Rey",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425190,
+    "gn:latitude":17.7083,
+    "gn:longitude":121.5486,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villa Rey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Villa Rey"
+    ],
+    "name:und_x_variant":[
+        "San Gaspar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108699763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425190
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bacb375002b3753a3bdf187e89c59de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699763,
+            "locality_id":1310413861,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1310413861,
+    "wof:lastmodified":1537678892,
+    "wof:name":"Villa Rey",
+    "wof:parent_id":1108699763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5486,
+    17.7083,
+    121.5486,
+    17.7083
+],
+  "geometry": {"coordinates":[121.54859999999999,17.7083],"type":"Point"}
+}

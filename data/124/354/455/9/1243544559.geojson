@@ -1,0 +1,75 @@
+{
+  "id": 1243544559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.9963,11.4695,124.9963,11.4695",
+    "geom:latitude":11.4695,
+    "geom:longitude":124.9963,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86017000.0",
+    "gn:asciiname":"Anibongon",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730677,
+    "gn:latitude":11.4695,
+    "gn:longitude":124.9963,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Anibongon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Anibongon"
+    ],
+    "name:und_x_variant":[
+        "Anibungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108699395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730677
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"76266962f11ce24e42d19114fd42b95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699395,
+            "locality_id":1243544559,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1243544559,
+    "wof:lastmodified":1537678702,
+    "wof:name":"Anibongon",
+    "wof:parent_id":1108699395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.9963,
+    11.4695,
+    124.9963,
+    11.4695
+],
+  "geometry": {"coordinates":[124.99630000000001,11.4695],"type":"Point"}
+}

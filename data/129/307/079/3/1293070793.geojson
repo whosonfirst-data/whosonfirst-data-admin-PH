@@ -1,0 +1,72 @@
+{
+  "id": 1293070793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73333,17.38333,120.73333,17.38333",
+    "geom:latitude":17.38333,
+    "geom:longitude":120.73333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140116000.0",
+    "gn:asciiname":"Ganaud",
+    "gn:country_code":"PH",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713268,
+    "gn:latitude":17.38333,
+    "gn:longitude":120.73333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ganaud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ganaud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108698337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713268
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1ec9a91b86080f74c3dc1b8b92f12b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698337,
+            "locality_id":1293070793,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1293070793,
+    "wof:lastmodified":1537678191,
+    "wof:name":"Ganaud",
+    "wof:parent_id":1108698337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73333,
+    17.38332999999999,
+    120.73333,
+    17.38332999999999
+],
+  "geometry": {"coordinates":[120.73333,17.38332999999999],"type":"Point"}
+}

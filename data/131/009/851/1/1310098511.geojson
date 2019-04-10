@@ -1,0 +1,72 @@
+{
+  "id": 1310098511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.23333,14.0,123.23333,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":123.23333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51735000.0",
+    "gn:asciiname":"Halabang Baybay",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711972,
+    "gn:latitude":14.0,
+    "gn:longitude":123.23333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Halabang Baybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Halabang Baybay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711972
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a61d9554e6f928b9fd6c6ca46ae12bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698601,
+            "locality_id":1310098511,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1310098511,
+    "wof:lastmodified":1537678153,
+    "wof:name":"Halabang Baybay",
+    "wof:parent_id":1108698601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.23333,
+    14.0,
+    123.23333,
+    14.0
+],
+  "geometry": {"coordinates":[123.23333,14.0],"type":"Point"}
+}

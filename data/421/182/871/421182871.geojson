@@ -1,0 +1,83 @@
+{
+  "id": 421182871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.26299,8.98471,126.26299,8.98471",
+    "geom:latitude":8.98471,
+    "geom:longitude":126.26299,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0430\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Magabao Cove"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1707342,
+    "qs:gn_pop":2314,
+    "qs:name":"La Paz",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Caraga",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":956548,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199314,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707342,
+        "gp:id":1199314,
+        "qs:id":956548
+    },
+    "wof:country":"PH",
+    "wof:created":1459009350,
+    "wof:geomhash":"f63bbdaff63dc6b9f67f8de52221a9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421182871,
+            "region_id":85676243
+        }
+    ],
+    "wof:id":421182871,
+    "wof:lastmodified":1505340667,
+    "wof:name":"La Paz",
+    "wof:parent_id":85676243,
+    "wof:placetype":"locality",
+    "wof:population":2314,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.26299,
+    8.98471,
+    126.26299,
+    8.98471
+],
+  "geometry": {"coordinates":[126.26299,8.98471],"type":"Point"}
+}

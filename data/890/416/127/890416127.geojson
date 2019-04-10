@@ -1,0 +1,69 @@
+{
+  "id": 890416127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.1,9.2,118.1,9.2",
+    "geom:latitude":9.2,
+    "geom:longitude":118.1,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2626,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Burirao"
+    ],
+    "qs:name":"Burirao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722384,
+        "gp:id":91425090,
+        "qs:id":135545
+    },
+    "wof:country":"PH",
+    "wof:created":1469051120,
+    "wof:geomhash":"59d4a3d090a48d80ca930955549d91f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697069,
+            "locality_id":890416127,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":890416127,
+    "wof:lastmodified":1505343430,
+    "wof:name":"Burirao",
+    "wof:parent_id":1108697069,
+    "wof:placetype":"locality",
+    "wof:population":2626,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.1,
+    9.2,
+    118.1,
+    9.2
+],
+  "geometry": {"coordinates":[118.09999999999999,9.2],"type":"Point"}
+}

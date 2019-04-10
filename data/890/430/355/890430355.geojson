@@ -1,0 +1,68 @@
+{
+  "id": 890430355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.23333,13.31667,123.23333,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":123.23333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":24072,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balatan"
+    ],
+    "qs:name":"Balatan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108696819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728391,
+        "qs:id":88426
+    },
+    "wof:country":"PH",
+    "wof:created":1469051849,
+    "wof:geomhash":"7dcf895633c40b4a632d2362a5f6a172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696819,
+            "localadmin_id":890430355,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890430355,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Balatan",
+    "wof:parent_id":1108696819,
+    "wof:placetype":"localadmin",
+    "wof:population":24072,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.23333,
+    13.31667,
+    123.23333,
+    13.31667
+],
+  "geometry": {"coordinates":[123.23333,13.31667],"type":"Point"}
+}

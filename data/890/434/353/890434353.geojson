@@ -1,0 +1,68 @@
+{
+  "id": 890434353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86111,14.1525,120.86111,14.1525",
+    "geom:latitude":14.1525,
+    "geom:longitude":120.86111,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3050,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Guyam Malaki"
+    ],
+    "qs:name":"Guyam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712058,
+        "qs:id":135304
+    },
+    "wof:country":"PH",
+    "wof:created":1469052021,
+    "wof:geomhash":"84871e365535e8019747592dfa8fe5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697765,
+            "locality_id":890434353,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":890434353,
+    "wof:lastmodified":1505343541,
+    "wof:name":"Guyam",
+    "wof:parent_id":1108697765,
+    "wof:placetype":"locality",
+    "wof:population":3050,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86111,
+    14.1525,
+    120.86111,
+    14.1525
+],
+  "geometry": {"coordinates":[120.86111,14.1525],"type":"Point"}
+}

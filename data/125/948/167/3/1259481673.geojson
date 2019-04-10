@@ -1,0 +1,72 @@
+{
+  "id": 1259481673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4127,13.4647,123.4127,13.4647",
+    "geom:latitude":13.4647,
+    "geom:longitude":123.4127,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51716000.0",
+    "gn:asciiname":"Perpetual Help",
+    "gn:country_code":"PH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301251,
+    "gn:latitude":13.4647,
+    "gn:longitude":123.4127,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Perpetual Help",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Perpetual Help"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301251
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2c479a3d00d7051782c1ebb8a8beea2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697777,
+            "locality_id":1259481673,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1259481673,
+    "wof:lastmodified":1537679053,
+    "wof:name":"Perpetual Help",
+    "wof:parent_id":1108697777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4127,
+    13.4647,
+    123.4127,
+    13.4647
+],
+  "geometry": {"coordinates":[123.4127,13.4647],"type":"Point"}
+}

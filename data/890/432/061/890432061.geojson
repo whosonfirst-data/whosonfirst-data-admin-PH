@@ -1,0 +1,81 @@
+{
+  "id": 890432061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75703,15.07289,120.75703,15.07289",
+    "geom:latitude":15.07289,
+    "geom:longitude":120.75703,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2247,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Domingo"
+    ],
+    "name:fil_x_variant":[
+        "Santo Domingo"
+    ],
+    "name:unk_x_variant":[
+        "Santa Domingo"
+    ],
+    "qs:name":"Santo Domingo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":14.0,
+    "wd:latitude":"18.476388888",
+    "wd:longitude":"-69.893333333",
+    "wd:wordcount":5634,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687724,
+        "gp:id":1191525,
+        "qs:id":134229,
+        "wd:id":"Q34820",
+        "wk:page":"Santo Domingo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051927,
+    "wof:geomhash":"557292b90d476a842519ce3d7fa78998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698467,
+            "locality_id":890432061,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":890432061,
+    "wof:lastmodified":1527793041,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1108698467,
+    "wof:placetype":"locality",
+    "wof:population":2247,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75703,
+    15.07289,
+    120.75703,
+    15.07289
+],
+  "geometry": {"coordinates":[120.75703,15.07289],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226360365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61667,15.18333,120.61667,15.18333",
+    "geom:latitude":15.18333,
+    "geom:longitude":120.61667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35409000.0",
+    "gn:asciiname":"Matas",
+    "gn:country_code":"PH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700400,
+    "gn:latitude":15.18333,
+    "gn:longitude":120.61667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Matas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676351,
+        1108696677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700400
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6c437c75dc219c550359e098cd1db36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696677,
+            "locality_id":1226360365,
+            "region_id":85676351
+        }
+    ],
+    "wof:id":1226360365,
+    "wof:lastmodified":1536768932,
+    "wof:name":"Matas",
+    "wof:parent_id":1108696677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61667,
+    15.18333,
+    120.61667,
+    15.18333
+],
+  "geometry": {"coordinates":[120.61667,15.18333],"type":"Point"}
+}

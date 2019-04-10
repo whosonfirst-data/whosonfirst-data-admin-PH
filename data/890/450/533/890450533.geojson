@@ -1,0 +1,71 @@
+{
+  "id": 890450533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.01667,11.05,125.01667,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":125.01667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2811,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "San Roque"
+    ],
+    "qs:name":"San Roque",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":304,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108699751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688556,
+        "gp:id":91427427,
+        "qs:id":86688,
+        "wk:page":"San Roque"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052742,
+    "wof:geomhash":"ef82448921eca2e624f2814c6d8556f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699751,
+            "locality_id":890450533,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":890450533,
+    "wof:lastmodified":1527792959,
+    "wof:name":"San Roque",
+    "wof:parent_id":1108699751,
+    "wof:placetype":"locality",
+    "wof:population":2811,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.01667,
+    11.05,
+    125.01667,
+    11.05
+],
+  "geometry": {"coordinates":[125.01667,11.05],"type":"Point"}
+}

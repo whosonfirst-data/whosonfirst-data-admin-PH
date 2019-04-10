@@ -1,0 +1,76 @@
+{
+  "id": 1260050333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81278,6.78139,124.81278,6.78139",
+    "geom:latitude":6.78139,
+    "geom:longitude":124.81278,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"153833000.0",
+    "gn:asciiname":"Lipack",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707372,
+    "gn:latitude":6.78139,
+    "gn:longitude":124.81278,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lipack",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lapack",
+        "Lepak",
+        "Lepao",
+        "Lipack"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108697111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707372
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"632b3fb2f55ee6006fd7ed2b658e27cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697111,
+            "locality_id":1260050333,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":1260050333,
+    "wof:lastmodified":1537678023,
+    "wof:name":"Lipack",
+    "wof:parent_id":1108697111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81278,
+    6.78139,
+    124.81278,
+    6.78139
+],
+  "geometry": {"coordinates":[124.81278,6.78139],"type":"Point"}
+}

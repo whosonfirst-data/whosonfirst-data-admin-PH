@@ -1,0 +1,74 @@
+{
+  "id": 1242895387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.56167,11.54972,122.56167,11.54972",
+    "geom:latitude":11.54972,
+    "geom:longitude":122.56167,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60404000.0",
+    "gn:asciiname":"Camance",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719914,
+    "gn:latitude":11.54972,
+    "gn:longitude":122.56167,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Camance",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamansi",
+        "Camance"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108696937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719914
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f30c04a9e1414b501cadee5fd07ce159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696937,
+            "locality_id":1242895387,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1242895387,
+    "wof:lastmodified":1537678379,
+    "wof:name":"Camance",
+    "wof:parent_id":1108696937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.56167,
+    11.54972,
+    122.56167,
+    11.54972
+],
+  "geometry": {"coordinates":[122.56167000000001,11.54972],"type":"Point"}
+}

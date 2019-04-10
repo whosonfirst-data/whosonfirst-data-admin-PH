@@ -1,0 +1,72 @@
+{
+  "id": 1344149953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1345,12.8633,124.1345,12.8633",
+    "geom:latitude":12.8633,
+    "geom:longitude":124.1345,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56202000.0",
+    "gn:asciiname":"Lago",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7490979,
+    "gn:latitude":12.8633,
+    "gn:longitude":124.1345,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108696903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490979
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0d6f927d547219a9b349843431ece554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696903,
+            "locality_id":1344149953,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1344149953,
+    "wof:lastmodified":1537678957,
+    "wof:name":"Lago",
+    "wof:parent_id":1108696903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1345,
+    12.8633,
+    124.1345,
+    12.8633
+],
+  "geometry": {"coordinates":[124.1345,12.8633],"type":"Point"}
+}

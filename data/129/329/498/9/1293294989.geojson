@@ -1,0 +1,72 @@
+{
+  "id": 1293294989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63395,18.09698,121.63395,18.09698",
+    "geom:latitude":18.09698,
+    "geom:longitude":121.63395,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21517000.0",
+    "gn:asciiname":"Barangay",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7415546,
+    "gn:latitude":18.09698,
+    "gn:longitude":121.63395,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Barangay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Barangay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108698023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7415546
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b1a56791d26c5e271e8b7b4cc99c3d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698023,
+            "locality_id":1293294989,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1293294989,
+    "wof:lastmodified":1537678858,
+    "wof:name":"Barangay",
+    "wof:parent_id":1108698023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63395,
+    18.09698,
+    121.63395,
+    18.09698
+],
+  "geometry": {"coordinates":[121.63395,18.09698],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125849081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.52,11.1414,122.52,11.1414",
+    "geom:latitude":11.1414,
+    "geom:longitude":122.52,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2041,
+    "gn:population":2041,
+    "iso:country":"PH",
+    "lbl:latitude":11.1414,
+    "lbl:longitude":122.52,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Badlan"
+    ],
+    "name:unk_x_variant":[
+        "Badlang"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1729362,
+    "qs_pg:gn_pop":2041,
+    "qs_pg:name":"Badlan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88460,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729362,
+        "qs_pg:id":88460
+    },
+    "wof:country":"PH",
+    "wof:created":1497293305,
+    "wof:geomhash":"48e79f437dc74b62ef3683f5b25a50e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697225,
+            "locality_id":1125849081,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1125849081,
+    "wof:lastmodified":1509395815,
+    "wof:name":"Badlan",
+    "wof:parent_id":1108697225,
+    "wof:placetype":"locality",
+    "wof:population":2041,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.52,
+    11.1414,
+    122.52,
+    11.1414
+],
+  "geometry": {"coordinates":[122.52,11.1414],"type":"Point"}
+}

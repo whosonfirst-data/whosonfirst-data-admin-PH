@@ -1,0 +1,72 @@
+{
+  "id": 1125987197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.17222,6.94111,122.17222,6.94111",
+    "geom:latitude":6.94111,
+    "geom:longitude":122.17222,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3553,
+    "gn:population":3553,
+    "iso:country":"PH",
+    "lbl:latitude":6.94111,
+    "lbl:longitude":122.17222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1957322,
+    "qs_pg:gn_pop":3553,
+    "qs_pg:name":"Talabaan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277719,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957322,
+        "qs_pg:id":277719
+    },
+    "wof:country":"PH",
+    "wof:created":1497298870,
+    "wof:geomhash":"63ffa68d2e8ce056046c55ab381f38ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125987197,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125987197,
+    "wof:lastmodified":1509405153,
+    "wof:name":"Talabaan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3553,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.17222,
+    6.94111,
+    122.17222,
+    6.94111
+],
+  "geometry": {"coordinates":[122.17222,6.94111],"type":"Point"}
+}

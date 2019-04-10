@@ -1,0 +1,74 @@
+{
+  "id": 890415865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.36639,7.36056,122.36639,7.36056",
+    "geom:latitude":7.36056,
+    "geom:longitude":122.36639,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3321,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Limaong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699889,
+        85676273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706374,
+        "gp:id":1199063,
+        "qs:id":135061
+    },
+    "wof:country":"PH",
+    "wof:created":1469051108,
+    "wof:geomhash":"9dd7604b8fbe064087f6c62891b8cf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "locality_id":890415865,
+            "region_id":85675967
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "locality_id":890415865,
+            "region_id":85676273
+        }
+    ],
+    "wof:id":890415865,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Limaong",
+    "wof:parent_id":1108699889,
+    "wof:placetype":"locality",
+    "wof:population":3321,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.36639,
+    7.36056,
+    122.36639,
+    7.36056
+],
+  "geometry": {"coordinates":[122.36639,7.36056],"type":"Point"}
+}

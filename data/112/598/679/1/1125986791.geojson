@@ -1,0 +1,84 @@
+{
+  "id": 1125986791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1551,11.5591,123.1551,11.5591",
+    "geom:latitude":11.5591,
+    "geom:longitude":123.1551,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4295,
+    "gn:population":4295,
+    "iso:country":"PH",
+    "lbl:latitude":11.5591,
+    "lbl:longitude":123.1551,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bancal"
+    ],
+    "name:unk_x_variant":[
+        "Bankal"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1727471,
+    "qs_pg:gn_pop":4295,
+    "qs_pg:name":"Bancal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277390,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727471,
+        "qs_pg:id":277390
+    },
+    "wof:country":"PH",
+    "wof:created":1497298850,
+    "wof:geomhash":"1c25c9599d8c811250ea94b690bd044c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697291,
+            "locality_id":1125986791,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1125986791,
+    "wof:lastmodified":1509405116,
+    "wof:name":"Bancal",
+    "wof:parent_id":1108697291,
+    "wof:placetype":"locality",
+    "wof:population":4295,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1551,
+    11.5591,
+    123.1551,
+    11.5591
+],
+  "geometry": {"coordinates":[123.1551,11.5591],"type":"Point"}
+}

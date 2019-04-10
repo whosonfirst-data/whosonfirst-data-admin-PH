@@ -1,0 +1,72 @@
+{
+  "id": 1242844197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.15,17.55,121.15,17.55",
+    "geom:latitude":17.55,
+    "geom:longitude":121.15,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143201000.0",
+    "gn:asciiname":"Salapi",
+    "gn:country_code":"PH",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690960,
+    "gn:latitude":17.55,
+    "gn:longitude":121.15,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salapi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Salapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108696823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690960
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c33d6bad5982ab1f4ade759b78eebe7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696823,
+            "locality_id":1242844197,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1242844197,
+    "wof:lastmodified":1537677562,
+    "wof:name":"Salapi",
+    "wof:parent_id":1108696823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.15,
+    17.55,
+    121.15,
+    17.55
+],
+  "geometry": {"coordinates":[121.15000000000001,17.55],"type":"Point"}
+}

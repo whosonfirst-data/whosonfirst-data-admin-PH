@@ -1,0 +1,78 @@
+{
+  "id": 1209723577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60876,16.95233,121.60876,16.95233",
+    "geom:latitude":16.95233,
+    "geom:longitude":121.60876,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23103000.0",
+    "gn:asciiname":"Apiat",
+    "gn:country_code":"PH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730361,
+    "gn:latitude":16.95233,
+    "gn:longitude":121.60876,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Apiat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Apiat"
+    ],
+    "name:fil_x_variant":[
+        "Piat"
+    ],
+    "name:und_x_variant":[
+        "Piat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108696723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730361
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8d3524f358d5ffae283314f53acfc2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696723,
+            "locality_id":1209723577,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1209723577,
+    "wof:lastmodified":1537678692,
+    "wof:name":"Apiat",
+    "wof:parent_id":1108696723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60876,
+    16.95233,
+    121.60876,
+    16.95233
+],
+  "geometry": {"coordinates":[121.60876,16.95233],"type":"Point"}
+}

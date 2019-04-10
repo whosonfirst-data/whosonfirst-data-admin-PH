@@ -1,0 +1,75 @@
+{
+  "id": 1226140169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6053,11.431,122.6053,11.431",
+    "geom:latitude":11.431,
+    "geom:longitude":122.6053,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61908000.0",
+    "gn:asciiname":"Atiplo",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729980,
+    "gn:latitude":11.431,
+    "gn:longitude":122.6053,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Atiplo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Atiplo"
+    ],
+    "name:und_x_variant":[
+        "Atipolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108698335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729980
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"04198bc31ccb059fb12c988ba16de587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698335,
+            "locality_id":1226140169,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1226140169,
+    "wof:lastmodified":1537678682,
+    "wof:name":"Atiplo",
+    "wof:parent_id":1108698335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6053,
+    11.431,
+    122.6053,
+    11.431
+],
+  "geometry": {"coordinates":[122.6053,11.431],"type":"Point"}
+}

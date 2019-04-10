@@ -1,0 +1,66 @@
+{
+  "id": 1276497219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.99222,14.52,120.99222,14.52",
+    "geom:latitude":14.52,
+    "geom:longitude":120.99222,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"53",
+    "gn:asciiname":"Tambo",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683569,
+    "gn:latitude":14.52,
+    "gn:longitude":120.99222,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tambo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683569
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"864c9feb807d8d51cddd721bb935ba0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1276497219,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1276497219,
+    "wof:lastmodified":1537054207,
+    "wof:name":"Tambo",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.99222,
+    14.52,
+    120.99222,
+    14.52
+],
+  "geometry": {"coordinates":[120.99222,14.52],"type":"Point"}
+}

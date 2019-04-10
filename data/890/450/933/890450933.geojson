@@ -1,0 +1,72 @@
+{
+  "id": 890450933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0188,9.6241,123.0188,9.6241",
+    "geom:latitude":9.6241,
+    "geom:longitude":123.0188,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2538,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mayapusi"
+    ],
+    "name:fil_x_variant":[
+        "Mayaposi"
+    ],
+    "qs:name":"Mayapusi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108698187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700056,
+        "gp:id":1183119,
+        "qs:id":87233
+    },
+    "wof:country":"PH",
+    "wof:created":1469052758,
+    "wof:geomhash":"2197cb19e1ee86f1eb2b88d667c96d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698187,
+            "locality_id":890450933,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890450933,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Mayapusi",
+    "wof:parent_id":1108698187,
+    "wof:placetype":"locality",
+    "wof:population":2538,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0188,
+    9.6241,
+    123.0188,
+    9.6241
+],
+  "geometry": {"coordinates":[123.0188,9.6241],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890432047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94861,6.00528,120.94861,6.00528",
+    "geom:latitude":6.00528,
+    "geom:longitude":120.94861,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2730,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sionogan"
+    ],
+    "qs:name":"Sionogan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108697763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957931,
+        "qs:id":277730
+    },
+    "wof:country":"PH",
+    "wof:created":1469051926,
+    "wof:geomhash":"7f80aaaaa75d952831ed76d30b74fc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697763,
+            "locality_id":890432047,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890432047,
+    "wof:lastmodified":1505343527,
+    "wof:name":"Sionogan",
+    "wof:parent_id":1108697763,
+    "wof:placetype":"locality",
+    "wof:population":2730,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94861,
+    6.00528,
+    120.94861,
+    6.00528
+],
+  "geometry": {"coordinates":[120.94861,6.00528],"type":"Point"}
+}

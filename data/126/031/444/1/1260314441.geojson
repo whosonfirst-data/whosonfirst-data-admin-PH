@@ -1,0 +1,72 @@
+{
+  "id": 1260314441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2,13.75,120.2,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":120.2,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"175103000.0",
+    "gn:asciiname":"Palombato",
+    "gn:country_code":"PH",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696021,
+    "gn:latitude":13.75,
+    "gn:longitude":120.2,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palombato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palombato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108698133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696021
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8188a5a36dabf522b860c01bbd51366d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698133,
+            "locality_id":1260314441,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":1260314441,
+    "wof:lastmodified":1537677700,
+    "wof:name":"Palombato",
+    "wof:parent_id":1108698133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2,
+    13.75,
+    120.2,
+    13.75
+],
+  "geometry": {"coordinates":[120.2,13.75],"type":"Point"}
+}

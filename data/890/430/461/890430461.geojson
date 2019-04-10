@@ -1,0 +1,72 @@
+{
+  "id": 890430461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.53389,10.77028,122.53389,10.77028",
+    "geom:latitude":10.77028,
+    "geom:longitude":122.53389,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3771,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Jose"
+    ],
+    "qs:name":"San Jose",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":802,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676299,
+        1108698843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689538,
+        "gp:id":1191051,
+        "qs:id":134336,
+        "wd:id":"Q173718",
+        "wk:page":"San Jos\u00e9"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051854,
+    "wof:geomhash":"81b0495e0cc44a0ee3e5ced99ed4d0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698843,
+            "locality_id":890430461,
+            "region_id":85676299
+        }
+    ],
+    "wof:id":890430461,
+    "wof:lastmodified":1527729744,
+    "wof:name":"San Jose",
+    "wof:parent_id":1108698843,
+    "wof:placetype":"locality",
+    "wof:population":3771,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.53389,
+    10.77028,
+    122.53389,
+    10.77028
+],
+  "geometry": {"coordinates":[122.53389,10.77028],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209843735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5898,9.4458,122.5898,9.4458",
+    "geom:latitude":9.4458,
+    "geom:longitude":122.5898,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64512000.0",
+    "gn:asciiname":"Sangue",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688694,
+    "gn:latitude":9.4458,
+    "gn:longitude":122.5898,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sangue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sangue"
+    ],
+    "name:und_x_variant":[
+        "Songke",
+        "Sanque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688694
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a5697a2dc37c4da05e04df98bcae44da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697727,
+            "locality_id":1209843735,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1209843735,
+    "wof:lastmodified":1537677491,
+    "wof:name":"Sangue",
+    "wof:parent_id":1108697727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5898,
+    9.4458,
+    122.5898,
+    9.4458
+],
+  "geometry": {"coordinates":[122.5898,9.4458],"type":"Point"}
+}

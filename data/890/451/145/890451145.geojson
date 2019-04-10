@@ -1,0 +1,71 @@
+{
+  "id": 890451145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0215,11.0304,124.0215,11.0304",
+    "geom:latitude":11.0304,
+    "geom:longitude":124.0215,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3798,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Libertad"
+    ],
+    "qs:name":"Libertad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":414,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706675,
+        "gp:id":1178111,
+        "qs:id":87529,
+        "wk:page":"Libertad"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052766,
+    "wof:geomhash":"bf5b14358f4c48b1d0c274f9c23bd18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697033,
+            "locality_id":890451145,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890451145,
+    "wof:lastmodified":1527792938,
+    "wof:name":"Libertad",
+    "wof:parent_id":1108697033,
+    "wof:placetype":"locality",
+    "wof:population":3798,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0215,
+    11.0304,
+    124.0215,
+    11.0304
+],
+  "geometry": {"coordinates":[124.0215,11.0304],"type":"Point"}
+}

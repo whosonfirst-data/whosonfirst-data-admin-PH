@@ -1,0 +1,75 @@
+{
+  "id": 1243351905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.7385,9.1047,124.7385,9.1047",
+    "geom:latitude":9.1047,
+    "geom:longitude":124.7385,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"17",
+    "gn:admin3_code":"101805000.0",
+    "gn:asciiname":"Aguren",
+    "gn:country_code":"PH",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731823,
+    "gn:latitude":9.1047,
+    "gn:longitude":124.7385,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Aguren",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aguren"
+    ],
+    "name:und_x_variant":[
+        "Aguran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676225,
+        1108699071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731823
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1a8bdcce530eba51b429b32cfeaaf8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699071,
+            "locality_id":1243351905,
+            "region_id":85676225
+        }
+    ],
+    "wof:id":1243351905,
+    "wof:lastmodified":1537678734,
+    "wof:name":"Aguren",
+    "wof:parent_id":1108699071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.7385,
+    9.1047,
+    124.7385,
+    9.1047
+],
+  "geometry": {"coordinates":[124.7385,9.1047],"type":"Point"}
+}

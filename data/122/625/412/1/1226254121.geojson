@@ -1,0 +1,72 @@
+{
+  "id": 1226254121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58532,15.21449,120.58532,15.21449",
+    "geom:latitude":15.21449,
+    "geom:longitude":120.58532,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35409000.0",
+    "gn:asciiname":"Mawaque",
+    "gn:country_code":"PH",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700114,
+    "gn:latitude":15.21449,
+    "gn:longitude":120.58532,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mawaque",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mawaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700114
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d12bab8a3aa7132952c5430c77996f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698185,
+            "locality_id":1226254121,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1226254121,
+    "wof:lastmodified":1537677819,
+    "wof:name":"Mawaque",
+    "wof:parent_id":1108698185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58532,
+    15.21449,
+    120.58532,
+    15.21449
+],
+  "geometry": {"coordinates":[120.58532,15.21449],"type":"Point"}
+}

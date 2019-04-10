@@ -1,0 +1,71 @@
+{
+  "id": 1327124285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4646,10.9121,122.4646,10.9121",
+    "geom:latitude":10.9121,
+    "geom:longitude":122.4646,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:asciiname":"Amyang",
+    "gn:country_code":"PH",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335564,
+    "gn:latitude":10.9121,
+    "gn:longitude":122.4646,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Amyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Amyang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335564
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"100dee9a01c2abfa8d07be1e1cc09c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697163,
+            "locality_id":1327124285,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1327124285,
+    "wof:lastmodified":1537679063,
+    "wof:name":"Amyang",
+    "wof:parent_id":1108697163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4646,
+    10.9121,
+    122.4646,
+    10.9121
+],
+  "geometry": {"coordinates":[122.4646,10.9121],"type":"Point"}
+}

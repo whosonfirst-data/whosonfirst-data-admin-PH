@@ -1,0 +1,71 @@
+{
+  "id": 890456011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.89775,17.716,121.89775,17.716",
+    "geom:latitude":17.716,
+    "geom:longitude":121.89775,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2849,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lappi"
+    ],
+    "name:fil_x_variant":[
+        "Lapi"
+    ],
+    "qs:name":"Lapi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108698851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707316,
+        "qs:id":558766
+    },
+    "wof:country":"PH",
+    "wof:created":1469052989,
+    "wof:geomhash":"99591a3b1ef14ebcc66141f5b6ed364d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698851,
+            "locality_id":890456011,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890456011,
+    "wof:lastmodified":1505343667,
+    "wof:name":"Lapi",
+    "wof:parent_id":1108698851,
+    "wof:placetype":"locality",
+    "wof:population":2849,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.89775,
+    17.716,
+    121.89775,
+    17.716
+],
+  "geometry": {"coordinates":[121.89775,17.716],"type":"Point"}
+}

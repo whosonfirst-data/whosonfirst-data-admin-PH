@@ -1,0 +1,75 @@
+{
+  "id": 1260084719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2087,12.8498,123.2087,12.8498",
+    "geom:latitude":12.8498,
+    "geom:longitude":123.2087,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54107000.0",
+    "gn:asciiname":"Nabasagan",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697867,
+    "gn:latitude":12.8498,
+    "gn:longitude":123.2087,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nabasagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nabasagan"
+    ],
+    "name:und_x_variant":[
+        "Navasagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108697361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697867
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0029392bdd29c39be4d36cae74a1d128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697361,
+            "locality_id":1260084719,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1260084719,
+    "wof:lastmodified":1537677755,
+    "wof:name":"Nabasagan",
+    "wof:parent_id":1108697361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2087,
+    12.8498,
+    123.2087,
+    12.8498
+],
+  "geometry": {"coordinates":[123.20869999999999,12.8498],"type":"Point"}
+}

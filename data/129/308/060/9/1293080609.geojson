@@ -1,0 +1,73 @@
+{
+  "id": 1293080609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17917,6.14167,125.17917,6.14167",
+    "geom:latitude":6.14167,
+    "geom:longitude":125.17917,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126303000.0",
+    "gn:asciiname":"San Isidro",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708147,
+    "gn:latitude":6.14167,
+    "gn:longitude":125.17917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagao II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676313,
+        1108697635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708147
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5be3628957eb45ceb3a8bfae68340da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697635,
+            "locality_id":1293080609,
+            "region_id":85676313
+        }
+    ],
+    "wof:id":1293080609,
+    "wof:lastmodified":1537678045,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108697635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17917,
+    6.14167,
+    125.17917,
+    6.14167
+],
+  "geometry": {"coordinates":[125.17917,6.14167],"type":"Point"}
+}

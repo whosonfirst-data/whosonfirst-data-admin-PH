@@ -1,0 +1,82 @@
+{
+  "id": 421172907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5695,12.0686,124.5695,12.0686",
+    "geom:latitude":12.0686,
+    "geom:longitude":124.5695,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "San Policarpo"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1688697,
+    "qs:gn_pop":5616,
+    "qs:name":"San Policarpio",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Eastern Visayas",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":484772,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1191703,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108697221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688697,
+        "gp:id":1191703,
+        "qs:id":484772
+    },
+    "wof:country":"PH",
+    "wof:created":1459008959,
+    "wof:geomhash":"460b3dc1204fe4941818d15b25e454ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697221,
+            "locality_id":421172907,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":421172907,
+    "wof:lastmodified":1505340615,
+    "wof:name":"San Policarpio",
+    "wof:parent_id":1108697221,
+    "wof:placetype":"locality",
+    "wof:population":5616,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5695,
+    12.0686,
+    124.5695,
+    12.0686
+],
+  "geometry": {"coordinates":[124.56950000000001,12.0686],"type":"Point"}
+}

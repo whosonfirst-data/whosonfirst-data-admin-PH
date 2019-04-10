@@ -1,0 +1,72 @@
+{
+  "id": 1259484377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64013,15.48805,120.64013,15.48805",
+    "geom:latitude":15.48805,
+    "geom:longitude":120.64013,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36916000.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689440,
+    "gn:latitude":15.48805,
+    "gn:longitude":120.64013,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Jose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Jose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108699699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689440
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"88bc28320b4f321a9687a5c2479ca014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699699,
+            "locality_id":1259484377,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1259484377,
+    "wof:lastmodified":1537677516,
+    "wof:name":"San Jose",
+    "wof:parent_id":1108699699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64013,
+    15.48805,
+    120.64013,
+    15.48805
+],
+  "geometry": {"coordinates":[120.64013,15.48805],"type":"Point"}
+}

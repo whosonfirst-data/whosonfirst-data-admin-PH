@@ -1,0 +1,75 @@
+{
+  "id": 1276870719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5866,13.259,123.5866,13.259",
+    "geom:latitude":13.259,
+    "geom:longitude":123.5866,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50508000.0",
+    "gn:asciiname":"Nasisi",
+    "gn:country_code":"PH",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698057,
+    "gn:latitude":13.259,
+    "gn:longitude":123.5866,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nasisi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nasisi"
+    ],
+    "name:und_x_variant":[
+        "Nasis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698057
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d0e33f44bba1f0ae6791a8fa579e1ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698083,
+            "locality_id":1276870719,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1276870719,
+    "wof:lastmodified":1537677760,
+    "wof:name":"Nasisi",
+    "wof:parent_id":1108698083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5866,
+    13.259,
+    123.5866,
+    13.259
+],
+  "geometry": {"coordinates":[123.5866,13.259],"type":"Point"}
+}

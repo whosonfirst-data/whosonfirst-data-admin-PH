@@ -1,0 +1,69 @@
+{
+  "id": 1276315971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47643,17.56602,121.47643,17.56602",
+    "geom:latitude":17.56602,
+    "geom:longitude":121.47643,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143209000.0",
+    "gn:asciiname":"Socbot",
+    "gn:country_code":"PH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8476189,
+    "gn:latitude":17.56602,
+    "gn:longitude":121.47643,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Socbot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8476189
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"671298115da84c62b41c606df667188b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698907,
+            "locality_id":1276315971,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1276315971,
+    "wof:lastmodified":1536802020,
+    "wof:name":"Socbot",
+    "wof:parent_id":1108698907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47643,
+    17.56602,
+    121.47643,
+    17.56602
+],
+  "geometry": {"coordinates":[121.47642999999999,17.56602],"type":"Point"}
+}

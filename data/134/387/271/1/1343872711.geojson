@@ -1,0 +1,73 @@
+{
+  "id": 1343872711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.89738,8.99496,124.89738,8.99496",
+    "geom:latitude":8.99496,
+    "geom:longitude":124.89738,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"104325000.0",
+    "gn:asciiname":"Calamcam",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708550,
+    "gn:latitude":8.99496,
+    "gn:longitude":124.89738,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calamcam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalomkom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108699639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708550
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f6bca4e68488eca87aad70794ef58db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699639,
+            "locality_id":1343872711,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":1343872711,
+    "wof:lastmodified":1537678056,
+    "wof:name":"Calamcam",
+    "wof:parent_id":1108699639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.89738,
+    8.99496,
+    124.89738,
+    8.99496
+],
+  "geometry": {"coordinates":[124.89738,8.99496],"type":"Point"}
+}

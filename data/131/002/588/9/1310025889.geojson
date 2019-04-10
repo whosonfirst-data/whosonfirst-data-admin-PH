@@ -1,0 +1,74 @@
+{
+  "id": 1310025889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.55939,9.9694,123.55939,9.9694",
+    "geom:latitude":9.9694,
+    "geom:longitude":123.55939,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72205000.0",
+    "gn:asciiname":"Colawin",
+    "gn:country_code":"PH",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717169,
+    "gn:latitude":9.9694,
+    "gn:longitude":123.55939,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Colawin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Culauin",
+        "Colauin",
+        "Colawin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717169
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fa9c2558b9b10370dac03e184505333d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696701,
+            "locality_id":1310025889,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1310025889,
+    "wof:lastmodified":1537678297,
+    "wof:name":"Colawin",
+    "wof:parent_id":1108696701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.55939,
+    9.9694,
+    123.55939,
+    9.9694
+],
+  "geometry": {"coordinates":[123.55938999999999,9.9694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242782463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.33333,13.35,123.33333,13.35",
+    "geom:latitude":13.35,
+    "geom:longitude":123.33333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51703000.0",
+    "gn:asciiname":"Patag",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694455,
+    "gn:latitude":13.35,
+    "gn:longitude":123.33333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Patag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Patag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108696945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694455
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"05d190586924b4403f2ab87b83960b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696945,
+            "locality_id":1242782463,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1242782463,
+    "wof:lastmodified":1537677659,
+    "wof:name":"Patag",
+    "wof:parent_id":1108696945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.33333,
+    13.35,
+    123.33333,
+    13.35
+],
+  "geometry": {"coordinates":[123.33333,13.35],"type":"Point"}
+}

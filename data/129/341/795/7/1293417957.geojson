@@ -1,0 +1,73 @@
+{
+  "id": 1293417957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.25,9.18333,123.25,9.18333",
+    "geom:latitude":9.18333,
+    "geom:longitude":123.25,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74609000.0",
+    "gn:asciiname":"Anjauan",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730619,
+    "gn:latitude":9.18333,
+    "gn:longitude":123.25,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Anjauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anhauan",
+        "Anjauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108697461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730619
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"62a0d1d62e0d8feb3a692bf5b63c046b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697461,
+            "locality_id":1293417957,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1293417957,
+    "wof:lastmodified":1537678700,
+    "wof:name":"Anjauan",
+    "wof:parent_id":1108697461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.25,
+    9.18333,
+    123.25,
+    9.18333
+],
+  "geometry": {"coordinates":[123.25,9.18333],"type":"Point"}
+}

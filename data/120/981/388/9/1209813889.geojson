@@ -1,0 +1,75 @@
+{
+  "id": 1209813889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1633,13.6607,123.1633,13.6607",
+    "geom:latitude":13.6607,
+    "geom:longitude":123.1633,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51710000.0",
+    "gn:asciiname":"Taligtig",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683951,
+    "gn:latitude":13.6607,
+    "gn:longitude":123.1633,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Taligtig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Taligtig"
+    ],
+    "name:und_x_variant":[
+        "Talidtid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683951
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ef8838c130c23c212ed54967d9394bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698239,
+            "locality_id":1209813889,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1209813889,
+    "wof:lastmodified":1537677358,
+    "wof:name":"Taligtig",
+    "wof:parent_id":1108698239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1633,
+    13.6607,
+    123.1633,
+    13.6607
+],
+  "geometry": {"coordinates":[123.16330000000001,13.6607],"type":"Point"}
+}

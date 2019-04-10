@@ -1,0 +1,66 @@
+{
+  "id": 1209302981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.656,9.1424,124.656,9.1424",
+    "geom:latitude":9.1424,
+    "geom:longitude":124.656,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"17",
+    "gn:admin3_code":"101801000.0",
+    "gn:asciiname":"Compol",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717056,
+    "gn:latitude":9.1424,
+    "gn:longitude":124.656,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Compol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Compol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717056
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d8ae93e5d5c682ed7eebe82eb5a6ed5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209302981
+        }
+    ],
+    "wof:id":1209302981,
+    "wof:lastmodified":1537678294,
+    "wof:name":"Compol",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.656,
+    9.1424,
+    124.656,
+    9.1424
+],
+  "geometry": {"coordinates":[124.65600000000001,9.1424],"type":"Point"}
+}

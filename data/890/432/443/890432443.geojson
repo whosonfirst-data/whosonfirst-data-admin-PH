@@ -1,0 +1,66 @@
+{
+  "id": 890432443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.25333,7.2225,124.25333,7.2225",
+    "geom:latitude":7.2225,
+    "geom:longitude":124.25333,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4347,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Salimbao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676305,
+        1108698663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690889,
+        "gp:id":1165520,
+        "qs:id":134420
+    },
+    "wof:country":"PH",
+    "wof:created":1469051941,
+    "wof:geomhash":"7f0874e6bb8d6908c7267ea5b25c7a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698663,
+            "locality_id":890432443,
+            "region_id":85676305
+        }
+    ],
+    "wof:id":890432443,
+    "wof:lastmodified":1505343529,
+    "wof:name":"Salimbao",
+    "wof:parent_id":1108698663,
+    "wof:placetype":"locality",
+    "wof:population":4347,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.25333,
+    7.2225,
+    124.25333,
+    7.2225
+],
+  "geometry": {"coordinates":[124.25333000000001,7.2225],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890443263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.51667,17.8,121.51667,17.8",
+    "geom:latitude":17.8,
+    "geom:longitude":121.51667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":22321,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Piat"
+    ],
+    "qs:name":"Piat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108698861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693971,
+        "qs:id":1027126
+    },
+    "wof:country":"PH",
+    "wof:created":1469052416,
+    "wof:geomhash":"47f92887085626f41b3dacf484d70d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698861,
+            "localadmin_id":890443263,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890443263,
+    "wof:lastmodified":1505343592,
+    "wof:name":"Piat",
+    "wof:parent_id":1108698861,
+    "wof:placetype":"localadmin",
+    "wof:population":22321,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.51667,
+    17.8,
+    121.51667,
+    17.8
+],
+  "geometry": {"coordinates":[121.51667,17.8],"type":"Point"}
+}

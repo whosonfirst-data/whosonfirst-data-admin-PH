@@ -1,0 +1,75 @@
+{
+  "id": 1327232567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5082,15.8459,121.5082,15.8459",
+    "geom:latitude":15.8459,
+    "geom:longitude":121.5082,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"G8",
+    "gn:admin3_code":"37706000.0",
+    "gn:asciiname":"Demabuno",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715151,
+    "gn:latitude":15.8459,
+    "gn:longitude":121.5082,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Demabuno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dimabuno"
+    ],
+    "name:fil_x_variant":[
+        "Demabuno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676065,
+        1108697503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715151
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"09d212141a1f79b0d8cb0871668d51b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697503,
+            "locality_id":1327232567,
+            "region_id":85676065
+        }
+    ],
+    "wof:id":1327232567,
+    "wof:lastmodified":1537678238,
+    "wof:name":"Demabuno",
+    "wof:parent_id":1108697503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5082,
+    15.8459,
+    121.5082,
+    15.8459
+],
+  "geometry": {"coordinates":[121.5082,15.8459],"type":"Point"}
+}

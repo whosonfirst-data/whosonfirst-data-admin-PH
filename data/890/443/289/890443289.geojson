@@ -1,0 +1,70 @@
+{
+  "id": 890443289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.78333,9.58333,123.78333,9.58333",
+    "geom:latitude":9.58333,
+    "geom:longitude":123.78333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":23740,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Panglao"
+    ],
+    "qs:name":"Panglao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695263,
+        "qs:id":1027141,
+        "wk:page":"Panglao"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052418,
+    "wof:geomhash":"93a4dd18f8a8abdb45b0f115142d0f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698787,
+            "localadmin_id":890443289,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890443289,
+    "wof:lastmodified":1527787059,
+    "wof:name":"Panglao",
+    "wof:parent_id":1108698787,
+    "wof:placetype":"localadmin",
+    "wof:population":23740,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.78333,
+    9.58333,
+    123.78333,
+    9.58333
+],
+  "geometry": {"coordinates":[123.78333000000001,9.58333],"type":"Point"}
+}

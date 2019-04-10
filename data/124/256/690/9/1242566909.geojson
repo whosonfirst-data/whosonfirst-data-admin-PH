@@ -1,0 +1,72 @@
+{
+  "id": 1242566909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1587,7.5575,123.1587,7.5575",
+    "geom:latitude":7.5575,
+    "geom:longitude":123.1587,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97317000.0",
+    "gn:asciiname":"Linoguayan",
+    "gn:country_code":"PH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706143,
+    "gn:latitude":7.5575,
+    "gn:longitude":123.1587,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Linoguayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Linoguayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108698391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706143
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7b69130c7a478a43d80783bb2f1206c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698391,
+            "locality_id":1242566909,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1242566909,
+    "wof:lastmodified":1537677989,
+    "wof:name":"Linoguayan",
+    "wof:parent_id":1108698391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1587,
+    7.5575,
+    123.1587,
+    7.5575
+],
+  "geometry": {"coordinates":[123.1587,7.5575],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125376449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.08333,10.6,122.08333,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":122.08333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":50704,
+    "gn:population":50704,
+    "iso:country":"PH",
+    "lbl:latitude":10.6,
+    "lbl:longitude":122.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1689600,
+    "qs_pg:gn_pop":50704,
+    "qs_pg:name":"San Joaquin",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":371503,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689600,
+        "qs_pg:id":371503
+    },
+    "wof:country":"PH",
+    "wof:created":1497047774,
+    "wof:geomhash":"53ae95675b5c003b9bbc57ad8931ffd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699195,
+            "localadmin_id":1125376449,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1125376449,
+    "wof:lastmodified":1509389470,
+    "wof:name":"San Joaquin",
+    "wof:parent_id":1108699195,
+    "wof:placetype":"localadmin",
+    "wof:population":50704,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.08333,
+    10.6,
+    122.08333,
+    10.6
+],
+  "geometry": {"coordinates":[122.08333,10.6],"type":"Point"}
+}

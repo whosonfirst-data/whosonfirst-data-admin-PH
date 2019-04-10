@@ -1,0 +1,70 @@
+{
+  "id": 890416325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4876,9.5649,122.4876,9.5649",
+    "geom:latitude":9.5649,
+    "geom:longitude":122.4876,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3732,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Alim"
+    ],
+    "qs:name":"Alim",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":138,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731461,
+        "qs:id":136072,
+        "wk:page":"Alim"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051128,
+    "wof:geomhash":"9422a23899a61d534a1d46450a47499c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697727,
+            "locality_id":890416325,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890416325,
+    "wof:lastmodified":1527792802,
+    "wof:name":"Alim",
+    "wof:parent_id":1108697727,
+    "wof:placetype":"locality",
+    "wof:population":3732,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4876,
+    9.5649,
+    122.4876,
+    9.5649
+],
+  "geometry": {"coordinates":[122.4876,9.5649],"type":"Point"}
+}

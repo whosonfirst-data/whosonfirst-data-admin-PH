@@ -1,0 +1,72 @@
+{
+  "id": 1243364551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9199,15.5986,119.9199,15.5986",
+    "geom:latitude":15.5986,
+    "geom:longitude":119.9199,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37103000.0",
+    "gn:asciiname":"Balog",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564410,
+    "gn:latitude":15.5986,
+    "gn:longitude":119.9199,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564410
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ccf3a323b287eef37104dd0fc035cb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697249,
+            "locality_id":1243364551,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1243364551,
+    "wof:lastmodified":1537678981,
+    "wof:name":"Balog",
+    "wof:parent_id":1108697249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9199,
+    15.5986,
+    119.9199,
+    15.5986
+],
+  "geometry": {"coordinates":[119.9199,15.5986],"type":"Point"}
+}

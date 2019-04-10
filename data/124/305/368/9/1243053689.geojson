@@ -1,0 +1,75 @@
+{
+  "id": 1243053689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6451,9.1477,123.6451,9.1477",
+    "geom:latitude":9.1477,
+    "geom:longitude":123.6451,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76103000.0",
+    "gn:asciiname":"Logucan",
+    "gn:country_code":"PH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705310,
+    "gn:latitude":9.1477,
+    "gn:longitude":123.6451,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Logucan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Logucan"
+    ],
+    "name:und_x_variant":[
+        "Lugokan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705310
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"de812232ba934acbfbf1b1a526b7209e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698397,
+            "locality_id":1243053689,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1243053689,
+    "wof:lastmodified":1537677964,
+    "wof:name":"Logucan",
+    "wof:parent_id":1108698397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6451,
+    9.1477,
+    123.6451,
+    9.1477
+],
+  "geometry": {"coordinates":[123.6451,9.1477],"type":"Point"}
+}

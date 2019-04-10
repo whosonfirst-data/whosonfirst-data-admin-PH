@@ -1,0 +1,65 @@
+{
+  "id": 1209402695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3525,6.505,125.3525,6.505",
+    "geom:latitude":6.505,
+    "geom:longitude":125.3525,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Madunga",
+    "gn:country_code":"PH",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704112,
+    "gn:latitude":6.505,
+    "gn:longitude":125.3525,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Madunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Madunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704112
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e1cd678e5cd5cf9bc77c3618fe1054d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209402695
+        }
+    ],
+    "wof:id":1209402695,
+    "wof:lastmodified":1537677929,
+    "wof:name":"Madunga",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3525,
+    6.505,
+    125.3525,
+    6.505
+],
+  "geometry": {"coordinates":[125.35250000000001,6.505],"type":"Point"}
+}

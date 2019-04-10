@@ -1,0 +1,81 @@
+{
+  "id": 1125376473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.76667,13.83333,122.76667,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":122.76667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":50982,
+    "gn:population":50982,
+    "iso:country":"PH",
+    "lbl:latitude":13.83333,
+    "lbl:longitude":122.76667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Ragay"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1691942,
+    "qs_pg:gn_pop":50982,
+    "qs_pg:name":"Ragay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":371524,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108699001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691942,
+        "qs_pg:id":371524
+    },
+    "wof:country":"PH",
+    "wof:created":1497047776,
+    "wof:geomhash":"76e6f08f9b64d1b48f1a8ab9675603a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699001,
+            "localadmin_id":1125376473,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1125376473,
+    "wof:lastmodified":1509389471,
+    "wof:name":"Ragay",
+    "wof:parent_id":1108699001,
+    "wof:placetype":"localadmin",
+    "wof:population":50982,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.76667,
+    13.83333,
+    122.76667,
+    13.83333
+],
+  "geometry": {"coordinates":[122.76667,13.83333],"type":"Point"}
+}

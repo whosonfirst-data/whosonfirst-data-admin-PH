@@ -1,0 +1,72 @@
+{
+  "id": 1310033725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.05556,9.60111,123.05556,9.60111",
+    "geom:latitude":9.60111,
+    "geom:longitude":123.05556,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74604000.0",
+    "gn:asciiname":"Cambajao",
+    "gn:country_code":"PH",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719810,
+    "gn:latitude":9.60111,
+    "gn:longitude":123.05556,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cambajao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cambajao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        890451429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719810
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1bd0fb42be1a0c53476c864627a1b926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890451429,
+            "locality_id":1310033725,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1310033725,
+    "wof:lastmodified":1537678375,
+    "wof:name":"Cambajao",
+    "wof:parent_id":890451429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.05556,
+    9.60111,
+    123.05556,
+    9.60111
+],
+  "geometry": {"coordinates":[123.05556,9.60111],"type":"Point"}
+}

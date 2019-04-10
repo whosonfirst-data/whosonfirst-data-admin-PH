@@ -1,0 +1,72 @@
+{
+  "id": 1259703899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3717,10.6314,124.3717,10.6314",
+    "geom:latitude":10.6314,
+    "geom:longitude":124.3717,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72242000.0",
+    "gn:asciiname":"Southern Poblacion",
+    "gn:country_code":"PH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7492053,
+    "gn:latitude":10.6314,
+    "gn:longitude":124.3717,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Southern Poblacion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Southern Poblacion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7492053
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4c85f385e0f68e6fd320a9dfb84bb8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698607,
+            "locality_id":1259703899,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1259703899,
+    "wof:lastmodified":1537678958,
+    "wof:name":"Southern Poblacion",
+    "wof:parent_id":1108698607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3717,
+    10.6314,
+    124.3717,
+    10.6314
+],
+  "geometry": {"coordinates":[124.3717,10.6314],"type":"Point"}
+}

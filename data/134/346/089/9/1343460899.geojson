@@ -1,0 +1,72 @@
+{
+  "id": 1343460899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.76446,16.76435,121.76446,16.76435",
+    "geom:latitude":16.76435,
+    "geom:longitude":121.76446,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23102000.0",
+    "gn:asciiname":"Mabuhay",
+    "gn:country_code":"PH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417510,
+    "gn:latitude":16.76435,
+    "gn:longitude":121.76446,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabuhay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabuhay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417510
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dd77ce974fabcead61a40cb0bac32631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699171,
+            "locality_id":1343460899,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1343460899,
+    "wof:lastmodified":1537678866,
+    "wof:name":"Mabuhay",
+    "wof:parent_id":1108699171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.76446,
+    16.76435,
+    121.76446,
+    16.76435
+],
+  "geometry": {"coordinates":[121.76446,16.76435],"type":"Point"}
+}

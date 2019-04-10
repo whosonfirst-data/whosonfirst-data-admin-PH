@@ -1,0 +1,81 @@
+{
+  "id": 1125847565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28276,13.8613,121.28276,13.8613",
+    "geom:latitude":13.8613,
+    "geom:longitude":121.28276,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2613,
+    "gn:population":2613,
+    "iso:country":"PH",
+    "lbl:latitude":13.8613,
+    "lbl:longitude":121.28276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Maugat"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1700170,
+    "qs_pg:gn_pop":2613,
+    "qs_pg:name":"Maugat West",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87241,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108698719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700170,
+        "qs_pg:id":87241
+    },
+    "wof:country":"PH",
+    "wof:created":1497293237,
+    "wof:geomhash":"267406c038805f8955e01e5e075ce30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698719,
+            "locality_id":1125847565,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1125847565,
+    "wof:lastmodified":1509395727,
+    "wof:name":"Maugat West",
+    "wof:parent_id":1108698719,
+    "wof:placetype":"locality",
+    "wof:population":2613,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28276,
+    13.8613,
+    121.28276,
+    13.8613
+],
+  "geometry": {"coordinates":[121.28276,13.8613],"type":"Point"}
+}

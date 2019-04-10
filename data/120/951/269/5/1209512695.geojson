@@ -1,0 +1,66 @@
+{
+  "id": 1209512695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.66667,10.9,122.66667,10.9",
+    "geom:latitude":10.9,
+    "geom:longitude":122.66667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63037000.0",
+    "gn:asciiname":"Cancilayan",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719341,
+    "gn:latitude":10.9,
+    "gn:longitude":122.66667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cancilayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cancilayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719341
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9d020daf6bcd051b69f273e79766eb02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209512695
+        }
+    ],
+    "wof:id":1209512695,
+    "wof:lastmodified":1537678361,
+    "wof:name":"Cancilayan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.66667,
+    10.9,
+    122.66667,
+    10.9
+],
+  "geometry": {"coordinates":[122.66667,10.9],"type":"Point"}
+}

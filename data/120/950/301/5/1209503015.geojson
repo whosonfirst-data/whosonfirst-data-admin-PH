@@ -1,0 +1,66 @@
+{
+  "id": 1209503015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.45944,5.65278,125.45944,5.65278",
+    "geom:latitude":5.65278,
+    "geom:longitude":125.45944,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"P3",
+    "gn:admin3_code":"118602000.0",
+    "gn:asciiname":"Kitabo",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708616,
+    "gn:latitude":5.65278,
+    "gn:longitude":125.45944,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kitabo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kitabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708616
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"583b1546517168f102afe475c8810625",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209503015
+        }
+    ],
+    "wof:id":1209503015,
+    "wof:lastmodified":1537678058,
+    "wof:name":"Kitabo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.45944,
+    5.65278,
+    125.45944,
+    5.65278
+],
+  "geometry": {"coordinates":[125.45944,5.65278],"type":"Point"}
+}

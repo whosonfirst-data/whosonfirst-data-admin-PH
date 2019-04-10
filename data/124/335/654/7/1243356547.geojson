@@ -1,0 +1,72 @@
+{
+  "id": 1243356547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0951,13.2165,124.0951,13.2165",
+    "geom:latitude":13.2165,
+    "geom:longitude":124.0951,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50515000.0",
+    "gn:asciiname":"Morocborocan",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699211,
+    "gn:latitude":13.2165,
+    "gn:longitude":124.0951,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Morocborocan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Morocborocan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108699007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699211
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d0b3c31b71d2a9c06f275b16d7fe54b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699007,
+            "locality_id":1243356547,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1243356547,
+    "wof:lastmodified":1537677795,
+    "wof:name":"Morocborocan",
+    "wof:parent_id":1108699007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0951,
+    13.2165,
+    124.0951,
+    13.2165
+],
+  "geometry": {"coordinates":[124.0951,13.2165],"type":"Point"}
+}

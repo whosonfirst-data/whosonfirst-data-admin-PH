@@ -1,0 +1,81 @@
+{
+  "id": 1125848131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5533,13.8744,121.5533,13.8744",
+    "geom:latitude":13.8744,
+    "geom:longitude":121.5533,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":9040,
+    "gn:population":9040,
+    "iso:country":"PH",
+    "lbl:latitude":13.8744,
+    "lbl:longitude":121.5533,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Casta\u00f1as"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1718089,
+    "qs_pg:gn_pop":9040,
+    "qs_pg:name":"Casta\u00f1as",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":88014,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718089,
+        "qs_pg:id":88014
+    },
+    "wof:country":"PH",
+    "wof:created":1497293259,
+    "wof:geomhash":"aea6fd64735e04715bb2147a01a8f531",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699451,
+            "locality_id":1125848131,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1125848131,
+    "wof:lastmodified":1509395755,
+    "wof:name":"Casta\u00f1as",
+    "wof:parent_id":1108699451,
+    "wof:placetype":"locality",
+    "wof:population":9040,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5533,
+    13.8744,
+    121.5533,
+    13.8744
+],
+  "geometry": {"coordinates":[121.55329999999999,13.8744],"type":"Point"}
+}

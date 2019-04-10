@@ -1,0 +1,66 @@
+{
+  "id": 1209312971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6036,12.3809,123.6036,12.3809",
+    "geom:latitude":12.3809,
+    "geom:longitude":123.6036,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54111000.0",
+    "gn:asciiname":"Bantigue",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727011,
+    "gn:latitude":12.3809,
+    "gn:longitude":123.6036,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bantigue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bantigue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727011
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9fec3957ae7511a4088ae2d623a04e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209312971
+        }
+    ],
+    "wof:id":1209312971,
+    "wof:lastmodified":1537678592,
+    "wof:name":"Bantigue",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6036,
+    12.3809,
+    123.6036,
+    12.3809
+],
+  "geometry": {"coordinates":[123.6036,12.3809],"type":"Point"}
+}

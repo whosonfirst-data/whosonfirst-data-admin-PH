@@ -1,0 +1,75 @@
+{
+  "id": 1360299153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49873,17.12122,120.49873,17.12122",
+    "geom:latitude":17.12122,
+    "geom:longitude":120.49873,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12925000.0",
+    "gn:asciiname":"Coliong",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717142,
+    "gn:latitude":17.12122,
+    "gn:longitude":120.49873,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Coliong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Collong"
+    ],
+    "name:fil_x_variant":[
+        "Coliong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717142
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"77af04857e57b95c16b3fae0536abf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699087,
+            "locality_id":1360299153,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1360299153,
+    "wof:lastmodified":1537678296,
+    "wof:name":"Coliong",
+    "wof:parent_id":1108699087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49873,
+    17.12122,
+    120.49873,
+    17.12122
+],
+  "geometry": {"coordinates":[120.49872999999999,17.12122],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125376419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4,17.41667,121.4,17.41667",
+    "geom:latitude":17.41667,
+    "geom:longitude":121.4,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":85010,
+    "gn:population":85010,
+    "iso:country":"PH",
+    "lbl:latitude":17.41667,
+    "lbl:longitude":121.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Naneng"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1684806,
+    "qs_pg:gn_pop":85010,
+    "qs_pg:name":"City of Tabuk",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":371439,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108699595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684806,
+        "qs_pg:id":371439
+    },
+    "wof:country":"PH",
+    "wof:created":1497047773,
+    "wof:geomhash":"8e492ea554a67d65de6a3efb330fa02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699595,
+            "localadmin_id":1125376419,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1125376419,
+    "wof:lastmodified":1514618157,
+    "wof:name":"City of Tabuk",
+    "wof:parent_id":1108699595,
+    "wof:placetype":"localadmin",
+    "wof:population":85010,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4,
+    17.41667,
+    121.4,
+    17.41667
+],
+  "geometry": {"coordinates":[121.40000000000001,17.41667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242570587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6285,13.209,123.6285,13.209",
+    "geom:latitude":13.209,
+    "geom:longitude":123.6285,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50504000.0",
+    "gn:asciiname":"Maninila",
+    "gn:country_code":"PH",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701638,
+    "gn:latitude":13.209,
+    "gn:longitude":123.6285,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maninila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maninila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108697689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701638
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"942e72f3dae9b5b97f112d90930d119a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697689,
+            "locality_id":1242570587,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1242570587,
+    "wof:lastmodified":1537677860,
+    "wof:name":"Maninila",
+    "wof:parent_id":1108697689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6285,
+    13.209,
+    123.6285,
+    13.209
+],
+  "geometry": {"coordinates":[123.6285,13.209],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1210000517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.431,8.1312,123.431,8.1312",
+    "geom:latitude":8.1312,
+    "geom:longitude":123.431,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97315000.0",
+    "gn:asciiname":"Tumapit",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680770,
+    "gn:latitude":8.1312,
+    "gn:longitude":123.431,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tumapit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tumapit"
+    ],
+    "name:und_x_variant":[
+        "Tumapic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108698265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680770
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"20d57bf5af3ea0debeff191c26cacf64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698265,
+            "locality_id":1210000517,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1210000517,
+    "wof:lastmodified":1537677272,
+    "wof:name":"Tumapit",
+    "wof:parent_id":1108698265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.431,
+    8.1312,
+    123.431,
+    8.1312
+],
+  "geometry": {"coordinates":[123.431,8.1312],"type":"Point"}
+}

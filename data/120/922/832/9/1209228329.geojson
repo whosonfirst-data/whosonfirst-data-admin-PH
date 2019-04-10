@@ -1,0 +1,66 @@
+{
+  "id": 1209228329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69556,17.00944,120.69556,17.00944",
+    "geom:latitude":17.00944,
+    "geom:longitude":120.69556,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12908000.0",
+    "gn:asciiname":"Sabaan",
+    "gn:country_code":"PH",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691392,
+    "gn:latitude":17.00944,
+    "gn:longitude":120.69556,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sabaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sabaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691392
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d7a19de6bb2a83b6b6f85dc0380badc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209228329
+        }
+    ],
+    "wof:id":1209228329,
+    "wof:lastmodified":1537677574,
+    "wof:name":"Sabaan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69556,
+    17.00944,
+    120.69556,
+    17.00944
+],
+  "geometry": {"coordinates":[120.69556,17.00944],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890443963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3827,12.4841,123.3827,12.4841",
+    "geom:latitude":12.4841,
+    "geom:longitude":123.3827,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5442,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Puro"
+    ],
+    "name:unk_x_variant":[
+        "Poro Landing"
+    ],
+    "qs:name":"Puro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692364,
+        "gp:id":1170097,
+        "qs:id":1032333
+    },
+    "wof:country":"PH",
+    "wof:created":1469052445,
+    "wof:geomhash":"29aea9f2359fae6a24c1960f5e93705d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696709,
+            "locality_id":890443963,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":890443963,
+    "wof:lastmodified":1505343596,
+    "wof:name":"Puro",
+    "wof:parent_id":1108696709,
+    "wof:placetype":"locality",
+    "wof:population":5442,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3827,
+    12.4841,
+    123.3827,
+    12.4841
+],
+  "geometry": {"coordinates":[123.3827,12.4841],"type":"Point"}
+}

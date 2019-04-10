@@ -1,0 +1,78 @@
+{
+  "id": 1226831835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6944,16.517,120.6944,16.517",
+    "geom:latitude":16.517,
+    "geom:longitude":120.6944,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"141101000.0",
+    "gn:asciiname":"Adala",
+    "gn:country_code":"PH",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732262,
+    "gn:latitude":16.517,
+    "gn:longitude":120.6944,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Adala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Adala"
+    ],
+    "name:fil_x_variant":[
+        "Adata"
+    ],
+    "name:und_x_variant":[
+        "Adata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676111,
+        1108696721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732262
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ea8a06ee627af6c84174027c1de3a3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696721,
+            "locality_id":1226831835,
+            "region_id":85676111
+        }
+    ],
+    "wof:id":1226831835,
+    "wof:lastmodified":1537678748,
+    "wof:name":"Adala",
+    "wof:parent_id":1108696721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6944,
+    16.517,
+    120.6944,
+    16.517
+],
+  "geometry": {"coordinates":[120.6944,16.517],"type":"Point"}
+}

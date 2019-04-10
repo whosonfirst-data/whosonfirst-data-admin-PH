@@ -1,0 +1,72 @@
+{
+  "id": 1226138023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6841,7.8174,123.6841,7.8174",
+    "geom:latitude":7.8174,
+    "geom:longitude":123.6841,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103506000.0",
+    "gn:asciiname":"Dugolanan",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714295,
+    "gn:latitude":7.8174,
+    "gn:longitude":123.6841,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dugolanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dugolanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108698629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714295
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9d4bd71f00b238027288d6ca1b79660d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698629,
+            "locality_id":1226138023,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1226138023,
+    "wof:lastmodified":1537678219,
+    "wof:name":"Dugolanan",
+    "wof:parent_id":1108698629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6841,
+    7.8174,
+    123.6841,
+    7.8174
+],
+  "geometry": {"coordinates":[123.6841,7.8174],"type":"Point"}
+}

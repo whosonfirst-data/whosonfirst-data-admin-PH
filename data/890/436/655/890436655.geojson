@@ -1,0 +1,64 @@
+{
+  "id": 890436655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.50611,9.00944,125.50611,9.00944",
+    "geom:latitude":9.00944,
+    "geom:longitude":125.50611,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4521,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lombocan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705760,
+        "gp:id":1182601,
+        "qs:id":1032638
+    },
+    "wof:country":"PH",
+    "wof:created":1469052120,
+    "wof:geomhash":"80fca8bb3c6d9d972e79f5409174545f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890436655,
+            "region_id":85676327
+        }
+    ],
+    "wof:id":890436655,
+    "wof:lastmodified":1505343555,
+    "wof:name":"Lombocan",
+    "wof:parent_id":85676327,
+    "wof:placetype":"locality",
+    "wof:population":4521,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.50611,
+    9.00944,
+    125.50611,
+    9.00944
+],
+  "geometry": {"coordinates":[125.50611000000001,9.00944],"type":"Point"}
+}

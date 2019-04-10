@@ -1,0 +1,71 @@
+{
+  "id": 890432769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7,17.93333,120.7,17.93333",
+    "geom:latitude":17.93333,
+    "geom:longitude":120.7,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":6594,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nueva Era"
+    ],
+    "qs:name":"Nueva Era",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":325,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697472,
+        "qs:id":87133,
+        "wd:id":"Q7068650",
+        "wk:page":"Nueva era"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051953,
+    "wof:geomhash":"8ba815d90075ad220b1cb0a1b7d832ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698677,
+            "localadmin_id":890432769,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":890432769,
+    "wof:lastmodified":1527793039,
+    "wof:name":"Nueva Era",
+    "wof:parent_id":1108698677,
+    "wof:placetype":"localadmin",
+    "wof:population":6594,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7,
+    17.93333,
+    120.7,
+    17.93333
+],
+  "geometry": {"coordinates":[120.7,17.93333],"type":"Point"}
+}

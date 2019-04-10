@@ -1,0 +1,75 @@
+{
+  "id": 1242968203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.49561,11.85728,121.49561,11.85728",
+    "geom:latitude":11.85728,
+    "geom:longitude":121.49561,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60605000.0",
+    "gn:asciiname":"Dionella",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714706,
+    "gn:latitude":11.85728,
+    "gn:longitude":121.49561,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dionella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dionella"
+    ],
+    "name:und_x_variant":[
+        "Dionela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108698585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714706
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7df1bb608197600c9a6d4c128bb56490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698585,
+            "locality_id":1242968203,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1242968203,
+    "wof:lastmodified":1537678229,
+    "wof:name":"Dionella",
+    "wof:parent_id":1108698585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.49561,
+    11.85728,
+    121.49561,
+    11.85728
+],
+  "geometry": {"coordinates":[121.49561,11.85728],"type":"Point"}
+}

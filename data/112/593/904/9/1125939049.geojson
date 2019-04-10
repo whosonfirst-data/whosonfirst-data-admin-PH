@@ -1,0 +1,81 @@
+{
+  "id": 1125939049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.93281,12.13287,119.93281,12.13287",
+    "geom:latitude":12.13287,
+    "geom:longitude":119.93281,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2361,
+    "gn:population":2361,
+    "iso:country":"PH",
+    "lbl:latitude":12.13287,
+    "lbl:longitude":119.93281,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Salvacion"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1690721,
+    "qs_pg:gn_pop":2361,
+    "qs_pg:name":"Salvacion",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":134410,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690721,
+        "qs_pg:id":134410
+    },
+    "wof:country":"PH",
+    "wof:created":1497297059,
+    "wof:geomhash":"cc30594bf66d3ae2b46afbb938708972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697141,
+            "locality_id":1125939049,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1125939049,
+    "wof:lastmodified":1509401969,
+    "wof:name":"Salvacion",
+    "wof:parent_id":1108697141,
+    "wof:placetype":"locality",
+    "wof:population":2361,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.93281,
+    12.13287,
+    119.93281,
+    12.13287
+],
+  "geometry": {"coordinates":[119.93281,12.13287],"type":"Point"}
+}

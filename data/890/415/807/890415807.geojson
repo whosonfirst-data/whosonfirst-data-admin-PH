@@ -1,0 +1,69 @@
+{
+  "id": 890415807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.152,11.7832,122.152,11.7832",
+    "geom:latitude":11.7832,
+    "geom:longitude":122.152,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2511,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maloco"
+    ],
+    "qs:name":"Maloco",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108697739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702553,
+        "gp:id":1181302,
+        "qs:id":134940
+    },
+    "wof:country":"PH",
+    "wof:created":1469051104,
+    "wof:geomhash":"05589051e8f9b6bbc2c01645383149ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697739,
+            "locality_id":890415807,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":890415807,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Maloco",
+    "wof:parent_id":1108697739,
+    "wof:placetype":"locality",
+    "wof:population":2511,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.152,
+    11.7832,
+    122.152,
+    11.7832
+],
+  "geometry": {"coordinates":[122.152,11.7832],"type":"Point"}
+}

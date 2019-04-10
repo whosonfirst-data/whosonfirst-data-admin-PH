@@ -1,0 +1,75 @@
+{
+  "id": 1209911449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0547,10.9156,122.0547,10.9156",
+    "geom:latitude":10.9156,
+    "geom:longitude":122.0547,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60612000.0",
+    "gn:asciiname":"Villa Salomon",
+    "gn:country_code":"PH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679848,
+    "gn:latitude":10.9156,
+    "gn:longitude":122.0547,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villa Salomon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Villa Salomon"
+    ],
+    "name:und_x_variant":[
+        "Villa Salmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108698841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679848
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7370cab6fcfe81436e5eb3702595472b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698841,
+            "locality_id":1209911449,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1209911449,
+    "wof:lastmodified":1537677243,
+    "wof:name":"Villa Salomon",
+    "wof:parent_id":1108698841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0547,
+    10.9156,
+    122.0547,
+    10.9156
+],
+  "geometry": {"coordinates":[122.0547,10.9156],"type":"Point"}
+}

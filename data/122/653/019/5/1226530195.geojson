@@ -1,0 +1,73 @@
+{
+  "id": 1226530195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57944,7.16833,125.57944,7.16833",
+    "geom:latitude":7.16833,
+    "geom:longitude":125.57944,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"112402000.0",
+    "gn:asciiname":"Mandog",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701923,
+    "gn:latitude":7.16833,
+    "gn:longitude":125.57944,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mandog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701923
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2406448052160342ceef0945c852b882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":1226530195,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":1226530195,
+    "wof:lastmodified":1537677868,
+    "wof:name":"Mandog",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57944,
+    7.16833,
+    125.57944,
+    7.16833
+],
+  "geometry": {"coordinates":[125.57944000000001,7.16833],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360286643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81938,15.09195,120.81938,15.09195",
+    "geom:latitude":15.09195,
+    "geom:longitude":120.81938,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35405000.0",
+    "gn:asciiname":"Pescadores",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694023,
+    "gn:latitude":15.09195,
+    "gn:longitude":120.81938,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pescadores",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pescadores"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108697243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694023
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ec0128002aeca8ace4164f4a2a55a25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697243,
+            "locality_id":1360286643,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1360286643,
+    "wof:lastmodified":1537677646,
+    "wof:name":"Pescadores",
+    "wof:parent_id":1108697243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81938,
+    15.09195,
+    120.81938,
+    15.09195
+],
+  "geometry": {"coordinates":[120.81938,15.09195],"type":"Point"}
+}

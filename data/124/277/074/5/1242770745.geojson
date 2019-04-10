@@ -1,0 +1,78 @@
+{
+  "id": 1242770745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3898,12.4713,123.3898,12.4713",
+    "geom:latitude":12.4713,
+    "geom:longitude":123.3898,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54101000.0",
+    "gn:asciiname":"Goldbag",
+    "gn:country_code":"PH",
+    "gn:dem":52,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712786,
+    "gn:latitude":12.4713,
+    "gn:longitude":123.3898,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Goldbag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Goldbag"
+    ],
+    "name:und_x_variant":[
+        "Puro",
+        "Poro Landing",
+        "Rio Guinobatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712786
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0e2bcfe9ecdd53a0ce4d11be72a75307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696709,
+            "locality_id":1242770745,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1242770745,
+    "wof:lastmodified":1537678177,
+    "wof:name":"Goldbag",
+    "wof:parent_id":1108696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3898,
+    12.4713,
+    123.3898,
+    12.4713
+],
+  "geometry": {"coordinates":[123.38979999999999,12.4713],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125847769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.29667,8.47139,124.29667,8.47139",
+    "geom:latitude":8.47139,
+    "geom:longitude":124.29667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2472,
+    "gn:population":2472,
+    "iso:country":"PH",
+    "lbl:latitude":8.47139,
+    "lbl:longitude":124.29667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Gimampang"
+    ],
+    "name:unk_x_variant":[
+        "Himangpang"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1711713,
+    "qs_pg:gn_pop":2472,
+    "qs_pg:name":"Gimampang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87744,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711713,
+        "qs_pg:id":87744
+    },
+    "wof:country":"PH",
+    "wof:created":1497293245,
+    "wof:geomhash":"38b23ad86330f5b891f0c6da83b6765f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697771,
+            "locality_id":1125847769,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":1125847769,
+    "wof:lastmodified":1509395735,
+    "wof:name":"Gimampang",
+    "wof:parent_id":1108697771,
+    "wof:placetype":"locality",
+    "wof:population":2472,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.29667,
+    8.47139,
+    124.29667,
+    8.47139
+],
+  "geometry": {"coordinates":[124.29667000000001,8.47139],"type":"Point"}
+}

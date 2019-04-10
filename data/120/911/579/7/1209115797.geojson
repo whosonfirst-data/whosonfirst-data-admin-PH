@@ -1,0 +1,63 @@
+{
+  "id": 1209115797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.04,14.5097,121.04,14.5097",
+    "geom:latitude":14.5097,
+    "geom:longitude":121.04,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137600000",
+    "gn:admin3_code":"137607000.0",
+    "gn:asciiname":"Western Bicutan",
+    "gn:country_code":"PH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091223,
+    "gn:latitude":14.5097,
+    "gn:longitude":121.04,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Western Bicutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091223
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5db0181e572a6a757705cac365136857",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209115797
+        }
+    ],
+    "wof:id":1209115797,
+    "wof:lastmodified":1536297258,
+    "wof:name":"Western Bicutan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.04,
+    14.5097,
+    121.04,
+    14.5097
+],
+  "geometry": {"coordinates":[121.04000000000001,14.5097],"type":"Point"}
+}

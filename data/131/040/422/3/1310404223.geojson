@@ -1,0 +1,75 @@
+{
+  "id": 1310404223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7958,11.9229,123.7958,11.9229",
+    "geom:latitude":11.9229,
+    "geom:longitude":123.7958,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54117000.0",
+    "gn:asciiname":"Camiyabsan",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719666,
+    "gn:latitude":11.9229,
+    "gn:longitude":123.7958,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Camiyabsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Camiyabsan"
+    ],
+    "name:und_x_variant":[
+        "Camayabsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108697347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719666
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"83a901be6eb8479744dd532c21466baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697347,
+            "locality_id":1310404223,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1310404223,
+    "wof:lastmodified":1537678371,
+    "wof:name":"Camiyabsan",
+    "wof:parent_id":1108697347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7958,
+    11.9229,
+    123.7958,
+    11.9229
+],
+  "geometry": {"coordinates":[123.7958,11.9229],"type":"Point"}
+}

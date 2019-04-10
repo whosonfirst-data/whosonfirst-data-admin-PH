@@ -1,0 +1,68 @@
+{
+  "id": 890432993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86667,17.38333,120.86667,17.38333",
+    "geom:latitude":17.38333,
+    "geom:longitude":120.86667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":3611,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Boliney"
+    ],
+    "qs:name":"Boliney",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108697039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724310,
+        "qs:id":88249
+    },
+    "wof:country":"PH",
+    "wof:created":1469051962,
+    "wof:geomhash":"1a3a0c4ee6ecc25d69a4520dc9b786be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697039,
+            "localadmin_id":890432993,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":890432993,
+    "wof:lastmodified":1505343532,
+    "wof:name":"Boliney",
+    "wof:parent_id":1108697039,
+    "wof:placetype":"localadmin",
+    "wof:population":3611,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86667,
+    17.38333,
+    120.86667,
+    17.38333
+],
+  "geometry": {"coordinates":[120.86667,17.38333],"type":"Point"}
+}

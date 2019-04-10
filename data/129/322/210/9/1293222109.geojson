@@ -1,0 +1,74 @@
+{
+  "id": 1293222109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4,10.76667,122.4,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":122.4,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63028000.0",
+    "gn:asciiname":"Agboy Norte",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732118,
+    "gn:latitude":10.76667,
+    "gn:longitude":122.4,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agboy Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agboy",
+        "Agboy Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732118
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cd655147b028e0b935411a1a513de3d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698049,
+            "locality_id":1293222109,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1293222109,
+    "wof:lastmodified":1537678744,
+    "wof:name":"Agboy Norte",
+    "wof:parent_id":1108698049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4,
+    10.76667,
+    122.4,
+    10.76667
+],
+  "geometry": {"coordinates":[122.40000000000001,10.76667],"type":"Point"}
+}

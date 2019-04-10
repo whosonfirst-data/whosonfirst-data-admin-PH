@@ -1,0 +1,72 @@
+{
+  "id": 1309900173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7195,11.2695,123.7195,11.2695",
+    "geom:latitude":11.2695,
+    "geom:longitude":123.7195,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72228000.0",
+    "gn:asciiname":"Maat",
+    "gn:country_code":"PH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704736,
+    "gn:latitude":11.2695,
+    "gn:longitude":123.7195,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704736
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2dd01b36f573e239889590e66fb02956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696891,
+            "locality_id":1309900173,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1309900173,
+    "wof:lastmodified":1537677947,
+    "wof:name":"Maat",
+    "wof:parent_id":1108696891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7195,
+    11.2695,
+    123.7195,
+    11.2695
+],
+  "geometry": {"coordinates":[123.7195,11.2695],"type":"Point"}
+}

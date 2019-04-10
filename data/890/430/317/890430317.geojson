@@ -1,0 +1,73 @@
+{
+  "id": 890430317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.85,9.65,123.85,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":123.85,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":86450,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Dakbayan sa Tagbilaran"
+    ],
+    "name:fil_x_preferred":[
+        "Lungsod ng Tagbilaran"
+    ],
+    "name:unk_x_variant":[
+        "Tagbilaran"
+    ],
+    "qs:name":"Tagbilaran City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":1752,
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684495,
+        "gp:id":2346666,
+        "qs:id":86490,
+        "wd:id":"Q1826",
+        "wk:page":"Tagbilaran"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051847,
+    "wof:geomhash":"aa62d442b231e41fd80c8f96a123a0d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "county_id":890430317
+        }
+    ],
+    "wof:id":890430317,
+    "wof:lastmodified":1527729745,
+    "wof:name":"Tagbilaran City",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":86450,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.85,
+    9.65,
+    123.85,
+    9.65
+],
+  "geometry": {"coordinates":[123.84999999999999,9.65],"type":"Point"}
+}

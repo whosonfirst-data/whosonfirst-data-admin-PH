@@ -1,0 +1,109 @@
+{
+  "id": 102553267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.628998,12.3694,123.628998,12.3694",
+    "geom:latitude":12.3694,
+    "geom:longitude":123.628998,
+    "gn:elevation":7,
+    "iso:country":"PH",
+    "lbl:latitude":12.36689,
+    "lbl:longitude":123.62784,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0645\u0648\u064a\u0633\u064a\u0632 \u0625\u0633\u0628\u064a\u0646\u0648\u0633\u0627"
+    ],
+    "name:bik_x_preferred":[
+        "Palayogan nin Moises R. Espinosa"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u58eb\u5f3c"
+    ],
+    "name:eng_x_preferred":[
+        "Moises R. Espinosa Airport"
+    ],
+    "name:eng_x_variant":[
+        "MBT",
+        "KMBT"
+    ],
+    "name:fil_x_preferred":[
+        "Paliparang Moises R. Espinosa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30a4\u30bb\u30b9 R. \u30a8\u30b9\u30d4\u30ce\u30fc\u30b5\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Masbate"
+    ],
+    "name:msb_x_preferred":[
+        "Palupadan san Moises R. Espinosa"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0645\u0648\u0627\u0633\u0647 \u0631. \u0627\u0633\u067e\u06cc\u0646\u0648\u0632\u0627"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043c\u0443\u043e\u0441\u04b3 \u0440. \u043e\u0441\u043f\u0438\u043d\u0443\u0437\u043e"
+    ],
+    "oa:elevation_ft":"26",
+    "oa:type":"medium_airport",
+    "src:centroid_lbl":"geonames",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346694,
+        "planet_id":1,
+        "state_id":23424720
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        890437629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6300497,
+        "gp:id":12515634,
+        "iata:code":"MBT",
+        "icao:code":"KMBT",
+        "oa:id":"5740",
+        "wd:id":"Q3565132",
+        "wk:page":"Masbate_Airport"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ad9119314a4b97e94d9cab879636f156",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553267,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890437629,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":102553267,
+    "wof:lastmodified":1514496467,
+    "wof:name":"Masbate Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    123.628998,
+    12.3694,
+    123.628998,
+    12.3694
+],
+  "geometry": {"coordinates":[123.628998,12.3694],"type":"Point"}
+}

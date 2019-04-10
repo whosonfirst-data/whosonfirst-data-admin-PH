@@ -1,0 +1,72 @@
+{
+  "id": 1226544481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5175,13.6336,123.5175,13.6336",
+    "geom:latitude":13.6336,
+    "geom:longitude":123.5175,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51736000.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688981,
+    "gn:latitude":13.6336,
+    "gn:longitude":123.5175,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688981
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bdb4b339c88165821a8ed32f4517df07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698601,
+            "locality_id":1226544481,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1226544481,
+    "wof:lastmodified":1537677500,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1108698601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5175,
+    13.6336,
+    123.5175,
+    13.6336
+],
+  "geometry": {"coordinates":[123.5175,13.6336],"type":"Point"}
+}

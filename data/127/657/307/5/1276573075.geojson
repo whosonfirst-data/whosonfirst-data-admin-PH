@@ -1,0 +1,72 @@
+{
+  "id": 1276573075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0131,11.2748,123.0131,11.2748",
+    "geom:latitude":11.2748,
+    "geom:longitude":123.0131,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63044000.0",
+    "gn:asciiname":"Aposaga",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730315,
+    "gn:latitude":11.2748,
+    "gn:longitude":123.0131,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Aposaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aposaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730315
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"01cba3930d19c61d9bead6f7bd92046d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699449,
+            "locality_id":1276573075,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1276573075,
+    "wof:lastmodified":1537678691,
+    "wof:name":"Aposaga",
+    "wof:parent_id":1108699449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0131,
+    11.2748,
+    123.0131,
+    11.2748
+],
+  "geometry": {"coordinates":[123.01309999999999,11.2748],"type":"Point"}
+}

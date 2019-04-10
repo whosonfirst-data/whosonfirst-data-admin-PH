@@ -1,0 +1,72 @@
+{
+  "id": 1226056405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4625,16.3327,120.4625,16.3327",
+    "geom:latitude":16.3327,
+    "geom:longitude":120.4625,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13312000.0",
+    "gn:asciiname":"Bacoog",
+    "gn:country_code":"PH",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7599365,
+    "gn:latitude":16.3327,
+    "gn:longitude":120.4625,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bacoog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bacoog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7599365
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d850e541b671e1af10ee50c602552d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699771,
+            "locality_id":1226056405,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1226056405,
+    "wof:lastmodified":1537678990,
+    "wof:name":"Bacoog",
+    "wof:parent_id":1108699771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4625,
+    16.3327,
+    120.4625,
+    16.3327
+],
+  "geometry": {"coordinates":[120.46250000000001,16.3327],"type":"Point"}
+}

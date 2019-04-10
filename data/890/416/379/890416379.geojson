@@ -1,0 +1,69 @@
+{
+  "id": 890416379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09361,5.99,121.09361,5.99",
+    "geom:latitude":5.99,
+    "geom:longitude":121.09361,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2561,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mauboh"
+    ],
+    "qs:name":"Mauboh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108699637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957809,
+        "gp:id":28344753,
+        "qs:id":137315
+    },
+    "wof:country":"PH",
+    "wof:created":1469051131,
+    "wof:geomhash":"0f1439dbc28223520a0d90363f26ac07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699637,
+            "locality_id":890416379,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890416379,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Mauboh",
+    "wof:parent_id":1108699637,
+    "wof:placetype":"locality",
+    "wof:population":2561,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09361,
+    5.99,
+    121.09361,
+    5.99
+],
+  "geometry": {"coordinates":[121.09361,5.99],"type":"Point"}
+}

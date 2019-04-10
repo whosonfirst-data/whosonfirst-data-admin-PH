@@ -1,0 +1,66 @@
+{
+  "id": 890451125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91056,7.11972,121.91056,7.11972",
+    "geom:latitude":7.11972,
+    "geom:longitude":121.91056,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3751,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Limpapa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706317,
+        "gp:id":1177001,
+        "qs:id":87507
+    },
+    "wof:country":"PH",
+    "wof:created":1469052766,
+    "wof:geomhash":"11182a7cb72ee0cd9c08fb64a25d360b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "locality_id":890451125,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":890451125,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Limpapa",
+    "wof:parent_id":1108699889,
+    "wof:placetype":"locality",
+    "wof:population":3751,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91056,
+    7.11972,
+    121.91056,
+    7.11972
+],
+  "geometry": {"coordinates":[121.91056,7.11972],"type":"Point"}
+}

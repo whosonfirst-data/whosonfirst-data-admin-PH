@@ -1,0 +1,67 @@
+{
+  "id": 1310033715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0304,14.5971,121.0304,14.5971",
+    "geom:latitude":14.5971,
+    "geom:longitude":121.0304,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137400000",
+    "gn:admin3_code":"137405000.0",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688103,
+    "gn:latitude":14.5971,
+    "gn:longitude":121.0304,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Lucia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688103
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"34d51715bf8d738ae629412c1e44ba39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1310033715,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1310033715,
+    "wof:lastmodified":1537096847,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0304,
+    14.5971,
+    121.0304,
+    14.5971
+],
+  "geometry": {"coordinates":[121.0304,14.5971],"type":"Point"}
+}

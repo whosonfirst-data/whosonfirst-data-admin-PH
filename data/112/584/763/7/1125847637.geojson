@@ -1,0 +1,81 @@
+{
+  "id": 1125847637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.441,17.50709,120.441,17.50709",
+    "geom:latitude":17.50709,
+    "geom:longitude":120.441,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2408,
+    "gn:population":2408,
+    "iso:country":"PH",
+    "lbl:latitude":17.50709,
+    "lbl:longitude":120.441,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Mabilbila"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1704618,
+    "qs_pg:gn_pop":2408,
+    "qs_pg:name":"Mabilbila Sur",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87430,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704618,
+        "qs_pg:id":87430
+    },
+    "wof:country":"PH",
+    "wof:created":1497293240,
+    "wof:geomhash":"37304f3717ee8de3726aa26c63141a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699405,
+            "locality_id":1125847637,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1125847637,
+    "wof:lastmodified":1509395730,
+    "wof:name":"Mabilbila Sur",
+    "wof:parent_id":1108699405,
+    "wof:placetype":"locality",
+    "wof:population":2408,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.441,
+    17.50709,
+    120.441,
+    17.50709
+],
+  "geometry": {"coordinates":[120.441,17.50709],"type":"Point"}
+}

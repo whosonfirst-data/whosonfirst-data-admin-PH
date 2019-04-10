@@ -1,0 +1,66 @@
+{
+  "id": 1209307551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8524,13.7332,123.8524,13.7332",
+    "geom:latitude":13.7332,
+    "geom:longitude":123.8524,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51711000.0",
+    "gn:asciiname":"Minas",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699611,
+    "gn:latitude":13.7332,
+    "gn:longitude":123.8524,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Minas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Minas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699611
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c84bbecdf4cf00a6b4e27fb07490c663",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209307551
+        }
+    ],
+    "wof:id":1209307551,
+    "wof:lastmodified":1537677806,
+    "wof:name":"Minas",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8524,
+    13.7332,
+    123.8524,
+    13.7332
+],
+  "geometry": {"coordinates":[123.8524,13.7332],"type":"Point"}
+}

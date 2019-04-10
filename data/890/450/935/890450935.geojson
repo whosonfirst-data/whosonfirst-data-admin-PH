@@ -1,0 +1,71 @@
+{
+  "id": 890450935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.35222,9.75611,124.35222,9.75611",
+    "geom:latitude":9.75611,
+    "geom:longitude":124.35222,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2305,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Mayama"
+    ],
+    "qs:name":"Mayana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700084,
+        "gp:id":1183105,
+        "qs:id":87234,
+        "wk:page":"Mayana"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052759,
+    "wof:geomhash":"3e74dbb3fc4dad5fc7fcfb74dd2e55d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697803,
+            "locality_id":890450935,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890450935,
+    "wof:lastmodified":1527792963,
+    "wof:name":"Mayana",
+    "wof:parent_id":1108697803,
+    "wof:placetype":"locality",
+    "wof:population":2305,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.35222,
+    9.75611,
+    124.35222,
+    9.75611
+],
+  "geometry": {"coordinates":[124.35222,9.75611],"type":"Point"}
+}

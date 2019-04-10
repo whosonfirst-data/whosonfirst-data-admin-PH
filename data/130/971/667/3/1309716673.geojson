@@ -1,0 +1,78 @@
+{
+  "id": 1309716673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.8886,13.7585,122.8886,13.7585",
+    "geom:latitude":13.7585,
+    "geom:longitude":122.8886,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51734000.0",
+    "gn:asciiname":"Buanan",
+    "gn:country_code":"PH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722934,
+    "gn:latitude":13.7585,
+    "gn:longitude":122.8886,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buanan"
+    ],
+    "name:und_x_variant":[
+        "Bulawan",
+        "Bulauen",
+        "Bulanan",
+        "Bulauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108699001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722934
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"755294cb8e7e50bf5236822009786de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699001,
+            "locality_id":1309716673,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1309716673,
+    "wof:lastmodified":1537678472,
+    "wof:name":"Buanan",
+    "wof:parent_id":1108699001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.8886,
+    13.7585,
+    122.8886,
+    13.7585
+],
+  "geometry": {"coordinates":[122.8886,13.7585],"type":"Point"}
+}

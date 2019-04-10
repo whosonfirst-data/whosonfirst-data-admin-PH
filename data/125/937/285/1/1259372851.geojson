@@ -1,0 +1,74 @@
+{
+  "id": 1259372851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.08722,11.5825,125.08722,11.5825",
+    "geom:latitude":11.5825,
+    "geom:longitude":125.08722,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86004000.0",
+    "gn:asciiname":"Litiron",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705982,
+    "gn:latitude":11.5825,
+    "gn:longitude":125.08722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Litiron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Literan",
+        "Litiron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108697223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705982
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9462bf8caed63c9a81369fb0054f581a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697223,
+            "locality_id":1259372851,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1259372851,
+    "wof:lastmodified":1537677985,
+    "wof:name":"Litiron",
+    "wof:parent_id":1108697223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.08722,
+    11.5825,
+    125.08722,
+    11.5825
+],
+  "geometry": {"coordinates":[125.08722,11.5825],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890432039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.17889,7.12139,122.17889,7.12139",
+    "geom:latitude":7.12139,
+    "geom:longitude":122.17889,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2721,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Dulian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957314,
+        "gp:id":28344484,
+        "qs:id":277717
+    },
+    "wof:country":"PH",
+    "wof:created":1469051926,
+    "wof:geomhash":"63f82cb99c311f690468c21dd754d842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "locality_id":890432039,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":890432039,
+    "wof:lastmodified":1505343527,
+    "wof:name":"Dulian",
+    "wof:parent_id":1108699889,
+    "wof:placetype":"locality",
+    "wof:population":2721,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.17889,
+    7.12139,
+    122.17889,
+    7.12139
+],
+  "geometry": {"coordinates":[122.17889,7.12139],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243165081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6541,13.8753,123.6541,13.8753",
+    "geom:latitude":13.8753,
+    "geom:longitude":123.6541,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51714000.0",
+    "gn:asciiname":"Pigbanuan",
+    "gn:country_code":"PH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693913,
+    "gn:latitude":13.8753,
+    "gn:longitude":123.6541,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pigbanuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pigbanuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693913
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d4fef4a3231598bd6b7d8cbcac4f1c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697613,
+            "locality_id":1243165081,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1243165081,
+    "wof:lastmodified":1537677643,
+    "wof:name":"Pigbanuan",
+    "wof:parent_id":1108697613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6541,
+    13.8753,
+    123.6541,
+    13.8753
+],
+  "geometry": {"coordinates":[123.6541,13.8753],"type":"Point"}
+}

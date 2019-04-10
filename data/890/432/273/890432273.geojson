@@ -1,0 +1,70 @@
+{
+  "id": 890432273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3776,13.5591,122.3776,13.5591",
+    "geom:latitude":13.5591,
+    "geom:longitude":122.3776,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3843,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Santa Rosa"
+    ],
+    "qs:name":"Santa Rosa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":571,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687898,
+        "qs:id":134257,
+        "wk:page":"Santa Rosa"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051935,
+    "wof:geomhash":"70b39268ef8bf98dcd432e4c6d3eb0d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698515,
+            "locality_id":890432273,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890432273,
+    "wof:lastmodified":1527793033,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108698515,
+    "wof:placetype":"locality",
+    "wof:population":3843,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3776,
+    13.5591,
+    122.3776,
+    13.5591
+],
+  "geometry": {"coordinates":[122.3776,13.5591],"type":"Point"}
+}

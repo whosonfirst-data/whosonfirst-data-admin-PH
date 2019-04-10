@@ -1,0 +1,72 @@
+{
+  "id": 1327461577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0527,10.59506,123.0527,10.59506",
+    "geom:latitude":10.59506,
+    "geom:longitude":123.0527,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64520000.0",
+    "gn:asciiname":"Hacienda San Bernabe",
+    "gn:country_code":"PH",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428485,
+    "gn:latitude":10.59506,
+    "gn:longitude":123.0527,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda San Bernabe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda San Bernabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428485
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bffe8959e86b5dc78a8104987fb94757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699649,
+            "locality_id":1327461577,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1327461577,
+    "wof:lastmodified":1537678926,
+    "wof:name":"Hacienda San Bernabe",
+    "wof:parent_id":1108699649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0527,
+    10.59506,
+    123.0527,
+    10.59506
+],
+  "geometry": {"coordinates":[123.0527,10.59506],"type":"Point"}
+}

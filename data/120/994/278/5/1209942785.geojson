@@ -1,0 +1,70 @@
+{
+  "id": 1209942785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0426,14.6428,121.0426,14.6428",
+    "geom:latitude":14.6428,
+    "geom:longitude":121.0426,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137400000",
+    "gn:admin3_code":"137404000.0",
+    "gn:asciiname":"East Triangle",
+    "gn:country_code":"PH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091071,
+    "gn:latitude":14.6428,
+    "gn:longitude":121.0426,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"East Triangle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "East Triangle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091071
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3999ae3390249ff2073259de4e298775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1209942785,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1209942785,
+    "wof:lastmodified":1537678831,
+    "wof:name":"East Triangle",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0426,
+    14.6428,
+    121.0426,
+    14.6428
+],
+  "geometry": {"coordinates":[121.04259999999999,14.6428],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260100411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.59018,9.1837,123.59018,9.1837",
+    "geom:latitude":9.1837,
+    "geom:longitude":123.59018,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76103000.0",
+    "gn:asciiname":"Cangumantong",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719158,
+    "gn:latitude":9.1837,
+    "gn:longitude":123.59018,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cangumantong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangumantong",
+        "Cangumatnog",
+        "Cangumantong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719158
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"42b5fbf58ae3b46a9403a561a46ce736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698035,
+            "locality_id":1260100411,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1260100411,
+    "wof:lastmodified":1537678354,
+    "wof:name":"Cangumantong",
+    "wof:parent_id":1108698035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.59018,
+    9.1837,
+    123.59018,
+    9.1837
+],
+  "geometry": {"coordinates":[123.59018,9.1837],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 421167517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86302,15.28661,120.86302,15.28661",
+    "geom:latitude":15.28661,
+    "geom:longitude":120.86302,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Entablado"
+    ],
+    "name:unk_x_variant":[
+        "Entablana"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1713850,
+    "qs:gn_pop":5202,
+    "qs:name":"Entablado",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Luzon",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":135373,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199161,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713850,
+        "gp:id":1199161,
+        "qs:id":135373
+    },
+    "wof:country":"PH",
+    "wof:created":1459008734,
+    "wof:geomhash":"ddaa34dc788d21a02d94b5cbb72bd197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699115,
+            "locality_id":421167517,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":421167517,
+    "wof:lastmodified":1505340586,
+    "wof:name":"Entablado",
+    "wof:parent_id":1108699115,
+    "wof:placetype":"locality",
+    "wof:population":5202,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86302,
+    15.28661,
+    120.86302,
+    15.28661
+],
+  "geometry": {"coordinates":[120.86302000000001,15.28661],"type":"Point"}
+}

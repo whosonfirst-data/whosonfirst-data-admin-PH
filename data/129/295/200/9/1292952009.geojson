@@ -1,0 +1,78 @@
+{
+  "id": 1292952009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.95628,13.8755,121.95628,13.8755",
+    "geom:latitude":13.8755,
+    "geom:longitude":121.95628,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45649000.0",
+    "gn:asciiname":"Bulo Ilaya",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724244,
+    "gn:latitude":13.8755,
+    "gn:longitude":121.95628,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bulo Ilaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bulo Ilaya"
+    ],
+    "name:fil_x_variant":[
+        "Bolo Ilaya"
+    ],
+    "name:und_x_variant":[
+        "Ilayang Bolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108696561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724244
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"14544c469d53cb9daade6d43f85f4623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696561,
+            "locality_id":1292952009,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1292952009,
+    "wof:lastmodified":1537678513,
+    "wof:name":"Bulo Ilaya",
+    "wof:parent_id":1108696561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.95628,
+    13.8755,
+    121.95628,
+    13.8755
+],
+  "geometry": {"coordinates":[121.95628000000001,13.8755],"type":"Point"}
+}

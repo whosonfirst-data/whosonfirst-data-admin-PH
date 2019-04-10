@@ -1,0 +1,66 @@
+{
+  "id": 1209410983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3037,7.5326,123.3037,7.5326",
+    "geom:latitude":7.5326,
+    "geom:longitude":123.3037,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97305000.0",
+    "gn:asciiname":"Busay",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722333,
+    "gn:latitude":7.5326,
+    "gn:longitude":123.3037,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Busay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Busay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722333
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cae9152d67150aadecac211cdfa24295",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209410983
+        }
+    ],
+    "wof:id":1209410983,
+    "wof:lastmodified":1537678453,
+    "wof:name":"Busay",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3037,
+    7.5326,
+    123.3037,
+    7.5326
+],
+  "geometry": {"coordinates":[123.30370000000001,7.5326],"type":"Point"}
+}

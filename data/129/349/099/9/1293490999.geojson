@@ -1,0 +1,72 @@
+{
+  "id": 1293490999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29012,16.03764,120.29012,16.03764",
+    "geom:latitude":16.03764,
+    "geom:longitude":120.29012,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15513000.0",
+    "gn:asciiname":"Caloocan Sur",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450249,
+    "gn:latitude":16.03764,
+    "gn:longitude":120.29012,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caloocan Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Caloocan Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676365,
+        1108697017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450249
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"73060a0955201b1ec2759e586d7f82b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697017,
+            "locality_id":1293490999,
+            "region_id":85676365
+        }
+    ],
+    "wof:id":1293490999,
+    "wof:lastmodified":1537678947,
+    "wof:name":"Caloocan Sur",
+    "wof:parent_id":1108697017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29012,
+    16.03764,
+    120.29012,
+    16.03764
+],
+  "geometry": {"coordinates":[120.29012,16.03764],"type":"Point"}
+}

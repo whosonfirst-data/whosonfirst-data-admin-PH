@@ -1,0 +1,69 @@
+{
+  "id": 890421421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11667,8.83333,125.11667,8.83333",
+    "geom:latitude":8.83333,
+    "geom:longitude":125.11667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":111572,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Dakbayan sa Gingoog"
+    ],
+    "name:fil_x_preferred":[
+        "Lungsod ng Gingoog"
+    ],
+    "name:unk_x_variant":[
+        "Gingoog"
+    ],
+    "qs:name":"Gingoog City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712873,
+        "qs:id":87801
+    },
+    "wof:country":"PH",
+    "wof:created":1469051392,
+    "wof:geomhash":"a1b199d43fb39e4e5be34b96828565c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "county_id":890421421
+        }
+    ],
+    "wof:id":890421421,
+    "wof:lastmodified":1505343463,
+    "wof:name":"Gingoog City",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":111572,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11667,
+    8.83333,
+    125.11667,
+    8.83333
+],
+  "geometry": {"coordinates":[125.11667,8.83333],"type":"Point"}
+}

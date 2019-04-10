@@ -1,0 +1,72 @@
+{
+  "id": 1210002739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.31194,8.99139,125.31194,8.99139",
+    "geom:latitude":8.99139,
+    "geom:longitude":125.31194,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"02",
+    "gn:admin3_code":"160209000.0",
+    "gn:asciiname":"Aclan",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732283,
+    "gn:latitude":8.99139,
+    "gn:longitude":125.31194,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Aclan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aclan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676213,
+        1108698557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732283
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"592d077503e88dc8cc1985f8da46b6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698557,
+            "locality_id":1210002739,
+            "region_id":85676213
+        }
+    ],
+    "wof:id":1210002739,
+    "wof:lastmodified":1537678749,
+    "wof:name":"Aclan",
+    "wof:parent_id":1108698557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.31194,
+    8.99139,
+    125.31194,
+    8.99139
+],
+  "geometry": {"coordinates":[125.31194000000001,8.99139],"type":"Point"}
+}

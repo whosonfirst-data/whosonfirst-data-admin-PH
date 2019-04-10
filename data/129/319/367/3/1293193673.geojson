@@ -1,0 +1,72 @@
+{
+  "id": 1293193673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5419,12.4498,123.5419,12.4498",
+    "geom:latitude":12.4498,
+    "geom:longitude":123.5419,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54102000.0",
+    "gn:asciiname":"Magdalena",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703913,
+    "gn:latitude":12.4498,
+    "gn:longitude":123.5419,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Magdalena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Magdalena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703913
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"153feb930073c14752e9bf0bd2abd9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696825,
+            "locality_id":1293193673,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1293193673,
+    "wof:lastmodified":1537677924,
+    "wof:name":"Magdalena",
+    "wof:parent_id":1108696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5419,
+    12.4498,
+    123.5419,
+    12.4498
+],
+  "geometry": {"coordinates":[123.5419,12.4498],"type":"Point"}
+}

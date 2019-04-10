@@ -1,0 +1,66 @@
+{
+  "id": 1209635519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.16667,9.7,124.16667,9.7",
+    "geom:latitude":9.7,
+    "geom:longitude":124.16667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71208000.0",
+    "gn:asciiname":"Lapsaon",
+    "gn:country_code":"PH",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707273,
+    "gn:latitude":9.7,
+    "gn:longitude":124.16667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lapsaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lapsaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707273
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ccd37134994edb2c68365050603d8197",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209635519
+        }
+    ],
+    "wof:id":1209635519,
+    "wof:lastmodified":1537678021,
+    "wof:name":"Lapsaon",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.16667,
+    9.7,
+    124.16667,
+    9.7
+],
+  "geometry": {"coordinates":[124.16667,9.7],"type":"Point"}
+}

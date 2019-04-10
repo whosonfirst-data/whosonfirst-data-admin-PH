@@ -1,0 +1,75 @@
+{
+  "id": 1226272307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.779,10.0335,122.779,10.0335",
+    "geom:latitude":10.0335,
+    "geom:longitude":122.779,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64513000.0",
+    "gn:asciiname":"Hacienda San Agustin",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690467,
+    "gn:latitude":10.0335,
+    "gn:longitude":122.779,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda San Agustin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda San Agustin"
+    ],
+    "name:und_x_variant":[
+        "San Agustin Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690467
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c0b6e9a6e807bd926a2d3383ffcc4bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697753,
+            "locality_id":1226272307,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1226272307,
+    "wof:lastmodified":1537677547,
+    "wof:name":"Hacienda San Agustin",
+    "wof:parent_id":1108697753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.779,
+    10.0335,
+    122.779,
+    10.0335
+],
+  "geometry": {"coordinates":[122.779,10.0335],"type":"Point"}
+}

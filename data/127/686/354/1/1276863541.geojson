@@ -1,0 +1,75 @@
+{
+  "id": 1276863541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1526,10.8652,122.1526,10.8652",
+    "geom:latitude":10.8652,
+    "geom:longitude":122.1526,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60614000.0",
+    "gn:asciiname":"Catigauan",
+    "gn:country_code":"PH",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709094,
+    "gn:latitude":10.8652,
+    "gn:longitude":122.1526,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Catigauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Catigauan"
+    ],
+    "name:und_x_variant":[
+        "Katigauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709094
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a84ab18e9a6b747cd72114aea4ed5b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699309,
+            "locality_id":1276863541,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1276863541,
+    "wof:lastmodified":1537678073,
+    "wof:name":"Catigauan",
+    "wof:parent_id":1108699309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1526,
+    10.8652,
+    122.1526,
+    10.8652
+],
+  "geometry": {"coordinates":[122.15260000000001,10.8652],"type":"Point"}
+}

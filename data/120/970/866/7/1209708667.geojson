@@ -1,0 +1,72 @@
+{
+  "id": 1209708667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6823,12.4857,123.6823,12.4857",
+    "geom:latitude":12.4857,
+    "geom:longitude":123.6823,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54118000.0",
+    "gn:asciiname":"Talisay",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683867,
+    "gn:latitude":12.4857,
+    "gn:longitude":123.6823,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Talisay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Talisay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683867
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ddea447653313585bb66b22c2e9672dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699153,
+            "locality_id":1209708667,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1209708667,
+    "wof:lastmodified":1537677355,
+    "wof:name":"Talisay",
+    "wof:parent_id":1108699153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6823,
+    12.4857,
+    123.6823,
+    12.4857
+],
+  "geometry": {"coordinates":[123.6823,12.4857],"type":"Point"}
+}

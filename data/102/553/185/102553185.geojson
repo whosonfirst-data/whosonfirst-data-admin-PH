@@ -1,0 +1,64 @@
+{
+  "id": 102553185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.087,15.4339,121.087,15.4339",
+    "geom:latitude":15.4339,
+    "geom:longitude":121.087,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"200",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346701,
+        "planet_id":1,
+        "state_id":23424722
+    },
+    "wof:belongsto":[
+        85632509,
+        85676101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515615,
+        "icao:code":"RPLV",
+        "oa:id":"5693",
+        "wd:id":"Q5471583"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f1fd9eb3de884e8a4b0922e4a9628551",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553185,
+            "country_id":85632509,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":102553185,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Fort Magsaysay Airport",
+    "wof:parent_id":85676101,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    121.087,
+    15.4339,
+    121.087,
+    15.4339
+],
+  "geometry": {"coordinates":[121.087,15.4339],"type":"Point"}
+}

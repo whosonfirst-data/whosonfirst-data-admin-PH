@@ -1,0 +1,68 @@
+{
+  "id": 890451131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.16667,8.18333,124.16667,8.18333",
+    "geom:latitude":8.18333,
+    "geom:longitude":124.16667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":16389,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tomas Cabili"
+    ],
+    "qs:name":"Linamon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108698097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706288,
+        "qs:id":87510
+    },
+    "wof:country":"PH",
+    "wof:created":1469052766,
+    "wof:geomhash":"f10481daeb3f4e3c39d5d540c1c418bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698097,
+            "localadmin_id":890451131,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":890451131,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Linamon",
+    "wof:parent_id":1108698097,
+    "wof:placetype":"localadmin",
+    "wof:population":16389,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.16667,
+    8.18333,
+    124.16667,
+    8.18333
+],
+  "geometry": {"coordinates":[124.16667,8.18333],"type":"Point"}
+}

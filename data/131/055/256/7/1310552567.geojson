@@ -1,0 +1,78 @@
+{
+  "id": 1310552567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4813,14.3394,121.4813,14.3394",
+    "geom:latitude":14.3394,
+    "geom:longitude":121.4813,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"43409000.0",
+    "gn:asciiname":"Longos",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705713,
+    "gn:latitude":14.3394,
+    "gn:longitude":121.4813,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Longos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Longos"
+    ],
+    "name:fil_x_variant":[
+        "Langus"
+    ],
+    "name:und_x_variant":[
+        "Langus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108697879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705713
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"937a1ac4488eddfda3931060ef26fa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697879,
+            "locality_id":1310552567,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":1310552567,
+    "wof:lastmodified":1537677976,
+    "wof:name":"Longos",
+    "wof:parent_id":1108697879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4813,
+    14.3394,
+    121.4813,
+    14.3394
+],
+  "geometry": {"coordinates":[121.4813,14.3394],"type":"Point"}
+}

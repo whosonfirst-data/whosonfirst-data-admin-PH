@@ -1,0 +1,72 @@
+{
+  "id": 1242766079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.79333,9.12722,124.79333,9.12722",
+    "geom:latitude":9.12722,
+    "geom:longitude":124.79333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"17",
+    "gn:admin3_code":"101802000.0",
+    "gn:asciiname":"Maac",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704818,
+    "gn:latitude":9.12722,
+    "gn:longitude":124.79333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676225,
+        1108697691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704818
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"43f051fc03692bb41b54cfe116271f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697691,
+            "locality_id":1242766079,
+            "region_id":85676225
+        }
+    ],
+    "wof:id":1242766079,
+    "wof:lastmodified":1537677950,
+    "wof:name":"Maac",
+    "wof:parent_id":1108697691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.79333,
+    9.12722,
+    124.79333,
+    9.12722
+],
+  "geometry": {"coordinates":[124.79333,9.12722],"type":"Point"}
+}

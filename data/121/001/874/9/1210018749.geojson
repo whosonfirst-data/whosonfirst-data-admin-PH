@@ -1,0 +1,79 @@
+{
+  "id": 1210018749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.077,16.3887,121.077,16.3887",
+    "geom:latitude":16.3887,
+    "geom:longitude":121.077,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"48",
+    "gn:admin3_code":"25004000.0",
+    "gn:asciiname":"Balungao",
+    "gn:country_code":"PH",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727733,
+    "gn:latitude":16.3887,
+    "gn:longitude":121.077,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balungao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balungao"
+    ],
+    "name:fil_x_variant":[
+        "Balungad"
+    ],
+    "name:und_x_variant":[
+        "Balungad",
+        "Balungao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108696861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727733
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"28303f2e250e62066de1aa634cc9dac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696861,
+            "locality_id":1210018749,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":1210018749,
+    "wof:lastmodified":1537678616,
+    "wof:name":"Balungao",
+    "wof:parent_id":1108696861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.077,
+    16.3887,
+    121.077,
+    16.3887
+],
+  "geometry": {"coordinates":[121.077,16.3887],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890443945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.856,15.3062,120.856,15.3062",
+    "geom:latitude":15.3062,
+    "geom:longitude":120.856,
+    "gn:country":"PH",
+    "gn:fcode":"PPLA3",
+    "gn:pop":26247,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Antonio"
+    ],
+    "qs:name":"San Antonio",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690313,
+        "gp:id":1196619,
+        "qs:id":1032317,
+        "wd:id":"Q975",
+        "wk:page":"San Antonio"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052444,
+    "wof:geomhash":"f0d8f35b6e4993f88af6254299eb2a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699115,
+            "locality_id":890443945,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890443945,
+    "wof:lastmodified":1505343596,
+    "wof:name":"San Antonio",
+    "wof:parent_id":1108699115,
+    "wof:placetype":"locality",
+    "wof:population":26247,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.856,
+    15.3062,
+    120.856,
+    15.3062
+],
+  "geometry": {"coordinates":[120.85599999999999,15.3062],"type":"Point"}
+}

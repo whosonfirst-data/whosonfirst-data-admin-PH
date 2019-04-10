@@ -1,0 +1,75 @@
+{
+  "id": 1225948877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4866,13.3066,123.4866,13.3066",
+    "geom:latitude":13.3066,
+    "geom:longitude":123.4866,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50514000.0",
+    "gn:asciiname":"Sugcad",
+    "gn:country_code":"PH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685474,
+    "gn:latitude":13.3066,
+    "gn:longitude":123.4866,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sugcad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sugcad"
+    ],
+    "name:und_x_variant":[
+        "Sugtad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685474
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c45ecd7f03a88bfdf9c17f25ec8f8031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698927,
+            "locality_id":1225948877,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1225948877,
+    "wof:lastmodified":1537677401,
+    "wof:name":"Sugcad",
+    "wof:parent_id":1108698927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4866,
+    13.3066,
+    123.4866,
+    13.3066
+],
+  "geometry": {"coordinates":[123.4866,13.3066],"type":"Point"}
+}

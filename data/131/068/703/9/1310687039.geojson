@@ -1,0 +1,69 @@
+{
+  "id": 1310687039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.91667,10.31667,123.91667,10.31667",
+    "geom:latitude":10.31667,
+    "geom:longitude":123.91667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72217000.0",
+    "gn:asciiname":"Guba",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712608,
+    "gn:latitude":10.31667,
+    "gn:longitude":123.91667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Guba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        890432909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712608
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"10e84dc7574624a849aa3a668e184591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432909,
+            "locality_id":1310687039,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1310687039,
+    "wof:lastmodified":1536655083,
+    "wof:name":"Guba",
+    "wof:parent_id":890432909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.91667,
+    10.31667,
+    123.91667,
+    10.31667
+],
+  "geometry": {"coordinates":[123.91667,10.31667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890416029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2495,10.46337,123.2495,10.46337",
+    "geom:latitude":10.46337,
+    "geom:longitude":123.2495,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":13026,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Codcod"
+    ],
+    "qs:name":"Codcod",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":822,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717280,
+        "gp:id":1188929,
+        "qs:id":135446,
+        "wd:id":"Q211042",
+        "wk:page":"Kodkod"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051116,
+    "wof:geomhash":"4769fcab4dbe7ae6a941d84638695603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699123,
+            "locality_id":890416029,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890416029,
+    "wof:lastmodified":1527792804,
+    "wof:name":"Codcod",
+    "wof:parent_id":1108699123,
+    "wof:placetype":"locality",
+    "wof:population":13026,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2495,
+    10.46337,
+    123.2495,
+    10.46337
+],
+  "geometry": {"coordinates":[123.2495,10.46337],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209647977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.2141,10.08801,119.2141,10.08801",
+    "geom:latitude":10.08801,
+    "geom:longitude":119.2141,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175318000.0",
+    "gn:asciiname":"Jolo",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7383913,
+    "gn:latitude":10.08801,
+    "gn:longitude":119.2141,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Jolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7383913
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d2a23f886b9b646ec5402d2545639388",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209647977
+        }
+    ],
+    "wof:id":1209647977,
+    "wof:lastmodified":1537678837,
+    "wof:name":"Jolo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.2141,
+    10.08801,
+    119.2141,
+    10.08801
+],
+  "geometry": {"coordinates":[119.2141,10.08801],"type":"Point"}
+}

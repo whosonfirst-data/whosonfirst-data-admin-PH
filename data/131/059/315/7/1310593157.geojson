@@ -1,0 +1,75 @@
+{
+  "id": 1310593157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0879,11.2129,123.0879,11.2129",
+    "geom:latitude":11.2129,
+    "geom:longitude":123.0879,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63015000.0",
+    "gn:asciiname":"Batiti",
+    "gn:country_code":"PH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726191,
+    "gn:latitude":11.2129,
+    "gn:longitude":123.0879,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Batiti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Batiti"
+    ],
+    "name:und_x_variant":[
+        "Batete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726191
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d643dfedb4dd0b5efb6cae214bad59e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697371,
+            "locality_id":1310593157,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1310593157,
+    "wof:lastmodified":1537678568,
+    "wof:name":"Batiti",
+    "wof:parent_id":1108697371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0879,
+    11.2129,
+    123.0879,
+    11.2129
+],
+  "geometry": {"coordinates":[123.0879,11.2129],"type":"Point"}
+}

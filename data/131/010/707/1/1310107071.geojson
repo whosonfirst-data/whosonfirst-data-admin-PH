@@ -1,0 +1,75 @@
+{
+  "id": 1310107071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1663,15.6021,121.1663,15.6021",
+    "geom:latitude":15.6021,
+    "geom:longitude":121.1663,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34913000.0",
+    "gn:asciiname":"Betania",
+    "gn:country_code":"PH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725533,
+    "gn:latitude":15.6021,
+    "gn:longitude":121.1663,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Betania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Betania"
+    ],
+    "name:fil_x_variant":[
+        "Beta\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725533
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cfc321a8fb97e5c3d22b26d575cad084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698029,
+            "locality_id":1310107071,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1310107071,
+    "wof:lastmodified":1537678549,
+    "wof:name":"Betania",
+    "wof:parent_id":1108698029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1663,
+    15.6021,
+    121.1663,
+    15.6021
+],
+  "geometry": {"coordinates":[121.16630000000001,15.6021],"type":"Point"}
+}

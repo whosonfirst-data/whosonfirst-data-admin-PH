@@ -1,0 +1,68 @@
+{
+  "id": 890429921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.03333,12.75,124.03333,12.75",
+    "geom:latitude":12.75,
+    "geom:longitude":124.03333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":48606,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Irosin"
+    ],
+    "qs:name":"Irosin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710532,
+        "qs:id":87711
+    },
+    "wof:country":"PH",
+    "wof:created":1469051833,
+    "wof:geomhash":"47b7f26b03bacf42975deaf3628dfc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697779,
+            "localadmin_id":890429921,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":890429921,
+    "wof:lastmodified":1505343515,
+    "wof:name":"Irosin",
+    "wof:parent_id":1108697779,
+    "wof:placetype":"localadmin",
+    "wof:population":48606,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.03333,
+    12.75,
+    124.03333,
+    12.75
+],
+  "geometry": {"coordinates":[124.03333000000001,12.75],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277071775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4393,11.5203,122.4393,11.5203",
+    "geom:latitude":11.5203,
+    "geom:longitude":122.4393,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60401000.0",
+    "gn:asciiname":"Lumaynay",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705209,
+    "gn:latitude":11.5203,
+    "gn:longitude":122.4393,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lumaynay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lumaynay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108696655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705209
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"05014cb9216d7621b5822b08f696bcb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696655,
+            "locality_id":1277071775,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1277071775,
+    "wof:lastmodified":1537677960,
+    "wof:name":"Lumaynay",
+    "wof:parent_id":1108696655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4393,
+    11.5203,
+    122.4393,
+    11.5203
+],
+  "geometry": {"coordinates":[122.4393,11.5203],"type":"Point"}
+}

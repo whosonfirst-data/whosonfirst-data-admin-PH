@@ -1,0 +1,66 @@
+{
+  "id": 890432621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44528,7.15972,125.44528,7.15972",
+    "geom:latitude":7.15972,
+    "geom:longitude":125.44528,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7621,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Wa\u00f1gan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679689,
+        "gp:id":1194108,
+        "qs:id":86295
+    },
+    "wof:country":"PH",
+    "wof:created":1469051947,
+    "wof:geomhash":"582b38a532893b3a7476000785c433a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":890432621,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":890432621,
+    "wof:lastmodified":1505343530,
+    "wof:name":"Wa\u00f1gan",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:population":7621,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44528,
+    7.15972,
+    125.44528,
+    7.15972
+],
+  "geometry": {"coordinates":[125.44528,7.15972],"type":"Point"}
+}

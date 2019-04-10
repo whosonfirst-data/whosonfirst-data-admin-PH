@@ -1,0 +1,69 @@
+{
+  "id": 1344140871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.16417,7.69056,123.16417,7.69056",
+    "geom:latitude":7.69056,
+    "geom:longitude":123.16417,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97313000.0",
+    "gn:asciiname":"Tabon",
+    "gn:country_code":"PH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958334,
+    "gn:latitude":7.69056,
+    "gn:longitude":123.16417,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tabon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108698013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958334
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8c2e0ffe477b96e8055da94f7c36f4d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698013,
+            "locality_id":1344140871,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1344140871,
+    "wof:lastmodified":1536759796,
+    "wof:name":"Tabon",
+    "wof:parent_id":1108698013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.16417,
+    7.69056,
+    123.16417,
+    7.69056
+],
+  "geometry": {"coordinates":[123.16417,7.69056],"type":"Point"}
+}

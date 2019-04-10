@@ -1,0 +1,72 @@
+{
+  "id": 1226761401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4633,17.9162,120.4633,17.9162",
+    "geom:latitude":17.9162,
+    "geom:longitude":120.4633,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12803000.0",
+    "gn:asciiname":"Malasin",
+    "gn:country_code":"PH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7607651,
+    "gn:latitude":17.9162,
+    "gn:longitude":120.4633,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malasin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malasin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7607651
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6a52b3e67decf9100210a84ef7e7ec82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696773,
+            "locality_id":1226761401,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1226761401,
+    "wof:lastmodified":1537678998,
+    "wof:name":"Malasin",
+    "wof:parent_id":1108696773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4633,
+    17.9162,
+    120.4633,
+    17.9162
+],
+  "geometry": {"coordinates":[120.4633,17.9162],"type":"Point"}
+}

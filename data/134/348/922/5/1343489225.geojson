@@ -1,0 +1,72 @@
+{
+  "id": 1343489225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1685,10.35677,123.1685,10.35677",
+    "geom:latitude":10.35677,
+    "geom:longitude":123.1685,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64517000.0",
+    "gn:asciiname":"Masolog",
+    "gn:country_code":"PH",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700602,
+    "gn:latitude":10.35677,
+    "gn:longitude":123.1685,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Masolog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Masolog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        890415287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700602
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d2e6165b11869981bd23ec8d9afbf4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415287,
+            "locality_id":1343489225,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1343489225,
+    "wof:lastmodified":1537677833,
+    "wof:name":"Masolog",
+    "wof:parent_id":890415287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1685,
+    10.35677,
+    123.1685,
+    10.35677
+],
+  "geometry": {"coordinates":[123.16849999999999,10.35677],"type":"Point"}
+}

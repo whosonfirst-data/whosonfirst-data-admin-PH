@@ -1,0 +1,75 @@
+{
+  "id": 1242876277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77444,16.77639,121.77444,16.77639",
+    "geom:latitude":16.77639,
+    "geom:longitude":121.77444,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23102000.0",
+    "gn:asciiname":"Tuboc",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681153,
+    "gn:latitude":16.77639,
+    "gn:longitude":121.77444,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tuboc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tubog",
+        "Tubuc",
+        "Tuboc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681153
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"006834bb549e40cca47297aec1c78e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699171,
+            "locality_id":1242876277,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1242876277,
+    "wof:lastmodified":1537677284,
+    "wof:name":"Tuboc",
+    "wof:parent_id":1108699171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77443999999998,
+    16.77639,
+    121.77443999999998,
+    16.77639
+],
+  "geometry": {"coordinates":[121.77443999999998,16.77639],"type":"Point"}
+}

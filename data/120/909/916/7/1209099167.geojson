@@ -1,0 +1,66 @@
+{
+  "id": 1209099167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7323,12.531,123.7323,12.531",
+    "geom:latitude":12.531,
+    "geom:longitude":123.7323,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54119000.0",
+    "gn:asciiname":"Interior",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710649,
+    "gn:latitude":12.531,
+    "gn:longitude":123.7323,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Interior",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Interior"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710649
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bc0000b336e3f6f698cb9b23d1f0318f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209099167
+        }
+    ],
+    "wof:id":1209099167,
+    "wof:lastmodified":1537678117,
+    "wof:name":"Interior",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7323,
+    12.531,
+    123.7323,
+    12.531
+],
+  "geometry": {"coordinates":[123.7323,12.531],"type":"Point"}
+}

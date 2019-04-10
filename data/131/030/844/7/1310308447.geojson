@@ -1,0 +1,72 @@
+{
+  "id": 1310308447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4552,17.3705,120.4552,17.3705",
+    "geom:latitude":17.3705,
+    "geom:longitude":120.4552,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12926000.0",
+    "gn:asciiname":"Nalbo",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305785,
+    "gn:latitude":17.3705,
+    "gn:longitude":120.4552,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nalbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nalbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305785
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ec47b3824636ccf57a97128bedfa4e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699383,
+            "locality_id":1310308447,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1310308447,
+    "wof:lastmodified":1537679059,
+    "wof:name":"Nalbo",
+    "wof:parent_id":1108699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4552,
+    17.3705,
+    120.4552,
+    17.3705
+],
+  "geometry": {"coordinates":[120.4552,17.3705],"type":"Point"}
+}

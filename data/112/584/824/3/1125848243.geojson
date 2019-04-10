@@ -1,0 +1,77 @@
+{
+  "id": 1125848243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42716,17.16478,120.42716,17.16478",
+    "geom:latitude":17.16478,
+    "geom:longitude":120.42716,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2324,
+    "gn:population":2324,
+    "iso:country":"PH",
+    "lbl:latitude":17.16478,
+    "lbl:longitude":120.42716,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Calongbuyan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1720158,
+    "qs_pg:gn_pop":2324,
+    "qs_pg:name":"Calongbuyan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88088,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720158,
+        "qs_pg:id":88088
+    },
+    "wof:country":"PH",
+    "wof:created":1497293265,
+    "wof:geomhash":"8f7e4337d5c734391238da20f9f0d54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1125848243,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125848243,
+    "wof:lastmodified":1509395761,
+    "wof:name":"Calongbuyan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2324,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42716,
+    17.16478,
+    120.42716,
+    17.16478
+],
+  "geometry": {"coordinates":[120.42716,17.16478],"type":"Point"}
+}

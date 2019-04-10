@@ -1,0 +1,70 @@
+{
+  "id": 890450501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.9947,10.1725,122.9947,10.1725",
+    "geom:latitude":10.1725,
+    "geom:longitude":122.9947,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6435,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Santol"
+    ],
+    "qs:name":"Santol",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687702,
+        "qs:id":86620,
+        "wk:page":"Santol"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052741,
+    "wof:geomhash":"937a637155a78a1ea4b4fe181511910a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697783,
+            "locality_id":890450501,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890450501,
+    "wof:lastmodified":1527792963,
+    "wof:name":"Santol",
+    "wof:parent_id":1108697783,
+    "wof:placetype":"locality",
+    "wof:population":6435,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.9947,
+    10.1725,
+    122.9947,
+    10.1725
+],
+  "geometry": {"coordinates":[122.99469999999999,10.1725],"type":"Point"}
+}

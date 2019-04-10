@@ -1,0 +1,75 @@
+{
+  "id": 1226066727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0224,11.1882,123.0224,11.1882",
+    "geom:latitude":11.1882,
+    "geom:longitude":123.0224,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63001000.0",
+    "gn:asciiname":"Casamata",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718215,
+    "gn:latitude":11.1882,
+    "gn:longitude":123.0224,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Casamata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Casamata"
+    ],
+    "name:und_x_variant":[
+        "Casamato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718215
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"feb08735d564765da52cd918377ffea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696579,
+            "locality_id":1226066727,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1226066727,
+    "wof:lastmodified":1537678324,
+    "wof:name":"Casamata",
+    "wof:parent_id":1108696579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0224,
+    11.1882,
+    123.0224,
+    11.1882
+],
+  "geometry": {"coordinates":[123.0224,11.1882],"type":"Point"}
+}

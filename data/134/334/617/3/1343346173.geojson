@@ -1,0 +1,75 @@
+{
+  "id": 1343346173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.0618,12.4204,125.0618,12.4204",
+    "geom:latitude":12.4204,
+    "geom:longitude":125.0618,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"84806000.0",
+    "gn:asciiname":"Calingnon",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720280,
+    "gn:latitude":12.4204,
+    "gn:longitude":125.0618,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calingnon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calingnon"
+    ],
+    "name:und_x_variant":[
+        "Calingnan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676209,
+        1108697339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720280
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"af641c7370c3849e9fd1a528f50ba7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697339,
+            "locality_id":1343346173,
+            "region_id":85676209
+        }
+    ],
+    "wof:id":1343346173,
+    "wof:lastmodified":1537678390,
+    "wof:name":"Calingnon",
+    "wof:parent_id":1108697339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.0618,
+    12.4204,
+    125.0618,
+    12.4204
+],
+  "geometry": {"coordinates":[125.06180000000001,12.4204],"type":"Point"}
+}

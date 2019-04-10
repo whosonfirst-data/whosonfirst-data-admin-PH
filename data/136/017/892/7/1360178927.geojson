@@ -1,0 +1,72 @@
+{
+  "id": 1360178927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3551,9.7845,123.3551,9.7845",
+    "geom:latitude":9.7845,
+    "geom:longitude":123.3551,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72203000.0",
+    "gn:asciiname":"Anongan",
+    "gn:country_code":"PH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730569,
+    "gn:latitude":9.7845,
+    "gn:longitude":123.3551,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Anongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Anongan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730569
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"845fc670bbd0548ceaa28ba9f5bbd1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696613,
+            "locality_id":1360178927,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1360178927,
+    "wof:lastmodified":1537678698,
+    "wof:name":"Anongan",
+    "wof:parent_id":1108696613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3551,
+    9.7845,
+    123.3551,
+    9.7845
+],
+  "geometry": {"coordinates":[123.35509999999999,9.7845],"type":"Point"}
+}

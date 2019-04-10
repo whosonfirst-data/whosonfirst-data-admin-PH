@@ -1,0 +1,75 @@
+{
+  "id": 1344129433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11684,16.91126,121.11684,16.91126",
+    "geom:latitude":16.91126,
+    "geom:longitude":121.11684,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"142701000.0",
+    "gn:asciiname":"Dalican",
+    "gn:country_code":"PH",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716012,
+    "gn:latitude":16.91126,
+    "gn:longitude":121.11684,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dalican",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ducligan"
+    ],
+    "name:fil_x_variant":[
+        "Dalican"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108696867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716012
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"15c3f59d528485734e56735d7bee9c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696867,
+            "locality_id":1344129433,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1344129433,
+    "wof:lastmodified":1537678265,
+    "wof:name":"Dalican",
+    "wof:parent_id":1108696867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11684,
+    16.91126,
+    121.11684,
+    16.91126
+],
+  "geometry": {"coordinates":[121.11684,16.91126],"type":"Point"}
+}

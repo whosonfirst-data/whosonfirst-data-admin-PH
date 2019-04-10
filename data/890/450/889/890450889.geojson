@@ -1,0 +1,69 @@
+{
+  "id": 890450889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74086,15.83333,120.74086,15.83333",
+    "geom:latitude":15.83333,
+    "geom:longitude":120.74086,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2586,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Paitan"
+    ],
+    "qs:name":"Paitan Norte",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696431,
+        "gp:id":91797503,
+        "qs:id":87095
+    },
+    "wof:country":"PH",
+    "wof:created":1469052757,
+    "wof:geomhash":"b35264b12a50bf19c149334e2e3bfaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697413,
+            "locality_id":890450889,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890450889,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Paitan Norte",
+    "wof:parent_id":1108697413,
+    "wof:placetype":"locality",
+    "wof:population":2586,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74086,
+    15.83333,
+    120.74086,
+    15.83333
+],
+  "geometry": {"coordinates":[120.74086,15.83333],"type":"Point"}
+}

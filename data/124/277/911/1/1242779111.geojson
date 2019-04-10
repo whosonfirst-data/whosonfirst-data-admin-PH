@@ -1,0 +1,76 @@
+{
+  "id": 1242779111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26429,14.87995,120.26429,14.87995",
+    "geom:latitude":14.87995,
+    "geom:longitude":120.26429,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37114000.0",
+    "gn:asciiname":"Naugsol",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697920,
+    "gn:latitude":14.87995,
+    "gn:longitude":120.26429,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Naugsol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Naugsol"
+    ],
+    "name:und_x_variant":[
+        "Naogsol",
+        "Naugsol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676361,
+        1108699545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697920
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d390f58a1c6e917687e46150d959e3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699545,
+            "locality_id":1242779111,
+            "region_id":85676361
+        }
+    ],
+    "wof:id":1242779111,
+    "wof:lastmodified":1537677756,
+    "wof:name":"Naugsol",
+    "wof:parent_id":1108699545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26429,
+    14.87995,
+    120.26429,
+    14.87995
+],
+  "geometry": {"coordinates":[120.26429,14.87995],"type":"Point"}
+}

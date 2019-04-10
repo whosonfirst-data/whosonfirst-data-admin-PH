@@ -1,0 +1,78 @@
+{
+  "id": 1226151005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77034,16.76023,121.77034,16.76023",
+    "geom:latitude":16.76023,
+    "geom:longitude":121.77034,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23102000.0",
+    "gn:asciiname":"Bunnay",
+    "gn:country_code":"PH",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722582,
+    "gn:latitude":16.76023,
+    "gn:longitude":121.77034,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bunnay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bunnay"
+    ],
+    "name:fil_x_variant":[
+        "Burnay"
+    ],
+    "name:und_x_variant":[
+        "Burnay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722582
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"139248a03df543480a7891922af139a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699171,
+            "locality_id":1226151005,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1226151005,
+    "wof:lastmodified":1537678460,
+    "wof:name":"Bunnay",
+    "wof:parent_id":1108699171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77034,
+    16.76023,
+    121.77034,
+    16.76023
+],
+  "geometry": {"coordinates":[121.77034,16.76023],"type":"Point"}
+}

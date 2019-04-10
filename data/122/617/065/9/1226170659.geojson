@@ -1,0 +1,76 @@
+{
+  "id": 1226170659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4728,9.5881,122.4728,9.5881",
+    "geom:latitude":9.5881,
+    "geom:longitude":122.4728,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64512000.0",
+    "gn:asciiname":"Pook",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692963,
+    "gn:latitude":9.5881,
+    "gn:longitude":122.4728,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pook",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pook"
+    ],
+    "name:und_x_variant":[
+        "Po-oo",
+        "Po-oc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692963
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e01e1a09b0f6c90f81591c5d861a9cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697727,
+            "locality_id":1226170659,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1226170659,
+    "wof:lastmodified":1537677615,
+    "wof:name":"Pook",
+    "wof:parent_id":1108697727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4728,
+    9.5881,
+    122.4728,
+    9.5881
+],
+  "geometry": {"coordinates":[122.47280000000001,9.5881],"type":"Point"}
+}

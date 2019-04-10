@@ -1,0 +1,72 @@
+{
+  "id": 1343453921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3745,13.2806,123.3745,13.2806",
+    "geom:latitude":13.2806,
+    "geom:longitude":123.3745,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50507000.0",
+    "gn:asciiname":"Bariw",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425124,
+    "gn:latitude":13.2806,
+    "gn:longitude":123.3745,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bariw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bariw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425124
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1e221bbcec6dfff867d66b1b7c8c2422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698073,
+            "locality_id":1343453921,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1343453921,
+    "wof:lastmodified":1537678889,
+    "wof:name":"Bariw",
+    "wof:parent_id":1108698073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3745,
+    13.2806,
+    123.3745,
+    13.2806
+],
+  "geometry": {"coordinates":[123.3745,13.2806],"type":"Point"}
+}

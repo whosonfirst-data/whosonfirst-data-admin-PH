@@ -1,0 +1,68 @@
+{
+  "id": 1277084057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.95,10.68333,122.95,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":122.95,
+    "gn:admin1_code":"00",
+    "gn:admin2_code":"A2",
+    "gn:asciiname":"Mandalagan",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701981,
+    "gn:latitude":10.68333,
+    "gn:longitude":122.95,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mandalagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676295,
+        1108696747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701981
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bbd5153cf34dcec8b7d6560f287d9c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696747,
+            "locality_id":1277084057,
+            "region_id":85676295
+        }
+    ],
+    "wof:id":1277084057,
+    "wof:lastmodified":1536766032,
+    "wof:name":"Mandalagan",
+    "wof:parent_id":1108696747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.95,
+    10.68333,
+    122.95,
+    10.68333
+],
+  "geometry": {"coordinates":[122.95,10.68333],"type":"Point"}
+}

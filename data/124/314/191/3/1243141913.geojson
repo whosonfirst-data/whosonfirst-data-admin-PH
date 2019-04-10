@@ -1,0 +1,72 @@
+{
+  "id": 1243141913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65517,16.32703,120.65517,16.32703",
+    "geom:latitude":16.32703,
+    "geom:longitude":120.65517,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"141106000.0",
+    "gn:asciiname":"Ampucao",
+    "gn:country_code":"PH",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374854,
+    "gn:latitude":16.32703,
+    "gn:longitude":120.65517,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ampucao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ampucao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676111,
+        1108699765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374854
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8f72ab7826f26302a0304b358093a2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699765,
+            "locality_id":1243141913,
+            "region_id":85676111
+        }
+    ],
+    "wof:id":1243141913,
+    "wof:lastmodified":1537679076,
+    "wof:name":"Ampucao",
+    "wof:parent_id":1108699765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65517,
+    16.32703,
+    120.65517,
+    16.32703
+],
+  "geometry": {"coordinates":[120.65517,16.32703],"type":"Point"}
+}

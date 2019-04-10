@@ -1,0 +1,68 @@
+{
+  "id": 890415721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2592,10.0844,123.2592,10.0844",
+    "geom:latitude":10.0844,
+    "geom:longitude":123.2592,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2213,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "McKinley"
+    ],
+    "qs:name":"McKinley",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699912,
+        "qs:id":134812,
+        "wk:page":"McKinley"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051099,
+    "wof:geomhash":"f6c2ef0314e97d4b35d474004d749024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890415721,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890415721,
+    "wof:lastmodified":1527727242,
+    "wof:name":"McKinley",
+    "wof:parent_id":85675945,
+    "wof:placetype":"locality",
+    "wof:population":2213,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2592,
+    10.0844,
+    123.2592,
+    10.0844
+],
+  "geometry": {"coordinates":[123.25920000000001,10.0844],"type":"Point"}
+}

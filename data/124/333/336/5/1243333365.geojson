@@ -1,0 +1,75 @@
+{
+  "id": 1243333365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.27464,17.10694,121.27464,17.10694",
+    "geom:latitude":17.10694,
+    "geom:longitude":121.27464,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"144405000.0",
+    "gn:asciiname":"Balangao",
+    "gn:country_code":"PH",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728515,
+    "gn:latitude":17.10694,
+    "gn:longitude":121.27464,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balangao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balengao"
+    ],
+    "name:fil_x_variant":[
+        "Balangao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676079,
+        1108698565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728515
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"78b5f55974d832f61564eb21183eb5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698565,
+            "locality_id":1243333365,
+            "region_id":85676079
+        }
+    ],
+    "wof:id":1243333365,
+    "wof:lastmodified":1537678640,
+    "wof:name":"Balangao",
+    "wof:parent_id":1108698565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.27464,
+    17.10694,
+    121.27464,
+    17.10694
+],
+  "geometry": {"coordinates":[121.27464000000001,17.10694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327436137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.72371,12.27984,123.72371,12.27984",
+    "geom:latitude":12.27984,
+    "geom:longitude":123.72371,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54113000.0",
+    "gn:asciiname":"Balatucan",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728360,
+    "gn:latitude":12.27984,
+    "gn:longitude":123.72371,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balatucan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balatucan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728360
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3dee12f4736ec26570e7ab7f62094515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698487,
+            "locality_id":1327436137,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1327436137,
+    "wof:lastmodified":1537678635,
+    "wof:name":"Balatucan",
+    "wof:parent_id":1108698487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.72371,
+    12.27984,
+    123.72371,
+    12.27984
+],
+  "geometry": {"coordinates":[123.72371,12.27984],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890416065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3532,9.6605,124.3532,9.6605",
+    "geom:latitude":9.6605,
+    "geom:longitude":124.3532,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2693,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Canjulao"
+    ],
+    "name:unk_x_variant":[
+        "Kanhulao"
+    ],
+    "qs:name":"Canjulao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719075,
+        "gp:id":1158703,
+        "qs:id":135482
+    },
+    "wof:country":"PH",
+    "wof:created":1469051118,
+    "wof:geomhash":"45f136ca1403db6bffdac6f97ecb85b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697803,
+            "locality_id":890416065,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890416065,
+    "wof:lastmodified":1505343429,
+    "wof:name":"Canjulao",
+    "wof:parent_id":1108697803,
+    "wof:placetype":"locality",
+    "wof:population":2693,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3532,
+    9.6605,
+    124.3532,
+    9.6605
+],
+  "geometry": {"coordinates":[124.3532,9.6605],"type":"Point"}
+}

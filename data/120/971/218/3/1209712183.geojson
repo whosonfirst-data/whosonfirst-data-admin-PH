@@ -1,0 +1,74 @@
+{
+  "id": 1209712183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.05,9.61667,124.05,9.61667",
+    "geom:latitude":9.61667,
+    "geom:longitude":124.05,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71229000.0",
+    "gn:asciiname":"Tayong Occidental",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682626,
+    "gn:latitude":9.61667,
+    "gn:longitude":124.05,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tayong Occidental",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tayong",
+        "Tayong Occidental"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682626
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fdf151434db9fb0c347bc260c56ac419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698107,
+            "locality_id":1209712183,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1209712183,
+    "wof:lastmodified":1537677322,
+    "wof:name":"Tayong Occidental",
+    "wof:parent_id":1108698107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.05,
+    9.61667,
+    124.05,
+    9.61667
+],
+  "geometry": {"coordinates":[124.05,9.61667],"type":"Point"}
+}

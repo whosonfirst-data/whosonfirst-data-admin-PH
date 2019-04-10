@@ -1,0 +1,75 @@
+{
+  "id": 1260073873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28167,8.22583,125.28167,8.22583",
+    "geom:latitude":8.22583,
+    "geom:longitude":125.28167,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"101312000.0",
+    "gn:asciiname":"Caburacanan",
+    "gn:country_code":"PH",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721311,
+    "gn:latitude":8.22583,
+    "gn:longitude":125.28167,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caburacanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Caburacanan"
+    ],
+    "name:und_x_variant":[
+        "Caburakanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108698301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721311
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8e3f0af409d833a9d523cffa180a0913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698301,
+            "locality_id":1260073873,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":1260073873,
+    "wof:lastmodified":1537678422,
+    "wof:name":"Caburacanan",
+    "wof:parent_id":1108698301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28167,
+    8.22583,
+    125.28167,
+    8.22583
+],
+  "geometry": {"coordinates":[125.28167000000001,8.22583],"type":"Point"}
+}

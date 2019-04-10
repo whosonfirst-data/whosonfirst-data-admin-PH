@@ -1,0 +1,71 @@
+{
+  "id": 890440323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.58333,10.18333,123.58333,10.18333",
+    "geom:latitude":10.18333,
+    "geom:longitude":123.58333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":26903,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aloguinsan"
+    ],
+    "qs:name":"Aloguinsan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":638,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731303,
+        "qs:id":88545,
+        "wd:id":"Q315687",
+        "wk:page":"Aloguinsan, Cebu"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052271,
+    "wof:geomhash":"40416c1a9c751219c2b8a4f5a57b1c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696649,
+            "localadmin_id":890440323,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890440323,
+    "wof:lastmodified":1527727105,
+    "wof:name":"Aloguinsan",
+    "wof:parent_id":1108696649,
+    "wof:placetype":"localadmin",
+    "wof:population":26903,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.58333,
+    10.18333,
+    123.58333,
+    10.18333
+],
+  "geometry": {"coordinates":[123.58333,10.18333],"type":"Point"}
+}

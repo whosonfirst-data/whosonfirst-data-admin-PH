@@ -1,0 +1,77 @@
+{
+  "id": 890416243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88083,15.03238,120.88083,15.03238",
+    "geom:latitude":15.03238,
+    "geom:longitude":120.88083,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":9726,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bahay Pare"
+    ],
+    "name:fil_x_variant":[
+        "Banay Pari",
+        "Banay Pare",
+        "Banay Par",
+        "Bahay Pary"
+    ],
+    "name:unk_x_variant":[
+        "Bahay Pary"
+    ],
+    "qs:name":"Bahay Pare",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135,
+        1108699305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728830,
+        "qs:id":135909
+    },
+    "wof:country":"PH",
+    "wof:created":1469051126,
+    "wof:geomhash":"11100c6e3bb1f2241db7a1e8ab3904de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699305,
+            "locality_id":890416243,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":890416243,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Bahay Pare",
+    "wof:parent_id":1108699305,
+    "wof:placetype":"locality",
+    "wof:population":9726,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88083,
+    15.03238,
+    120.88083,
+    15.03238
+],
+  "geometry": {"coordinates":[120.88083,15.03238],"type":"Point"}
+}

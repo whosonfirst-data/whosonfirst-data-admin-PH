@@ -1,0 +1,74 @@
+{
+  "id": 1243575751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.53639,11.12278,122.53639,11.12278",
+    "geom:latitude":11.12278,
+    "geom:longitude":122.53639,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63013000.0",
+    "gn:asciiname":"Gama Grande",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713321,
+    "gn:latitude":11.12278,
+    "gn:longitude":122.53639,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gama Grande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gama",
+        "Gama Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713321
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"324c1f32def4fca9990b3aedc06f2917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697225,
+            "locality_id":1243575751,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1243575751,
+    "wof:lastmodified":1537678193,
+    "wof:name":"Gama Grande",
+    "wof:parent_id":1108697225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.53639,
+    11.12278,
+    122.53639,
+    11.12278
+],
+  "geometry": {"coordinates":[122.53639,11.12278],"type":"Point"}
+}

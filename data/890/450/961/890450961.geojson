@@ -1,0 +1,69 @@
+{
+  "id": 890450961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3423,14.1971,121.3423,14.1971",
+    "geom:latitude":14.1971,
+    "geom:longitude":121.3423,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4580,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Masapang"
+    ],
+    "qs:name":"Masapang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108699847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700746,
+        "gp:id":1182606,
+        "qs:id":87262
+    },
+    "wof:country":"PH",
+    "wof:created":1469052760,
+    "wof:geomhash":"653e256814434163e3b7f87635056f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699847,
+            "locality_id":890450961,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":890450961,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Masapang",
+    "wof:parent_id":1108699847,
+    "wof:placetype":"locality",
+    "wof:population":4580,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3423,
+    14.1971,
+    121.3423,
+    14.1971
+],
+  "geometry": {"coordinates":[121.34229999999999,14.1971],"type":"Point"}
+}

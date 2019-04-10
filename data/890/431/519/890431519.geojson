@@ -1,0 +1,72 @@
+{
+  "id": 890431519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0078,11.186,124.0078,11.186",
+    "geom:latitude":11.186,
+    "geom:longitude":124.0078,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2146,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tinubuan"
+    ],
+    "name:unk_x_variant":[
+        "Tinubdan"
+    ],
+    "qs:name":"Tinubuan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681777,
+        "gp:id":28345411,
+        "qs:id":134003
+    },
+    "wof:country":"PH",
+    "wof:created":1469051894,
+    "wof:geomhash":"51fe1c551983e3dad1df6bcb7fc6af95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697415,
+            "locality_id":890431519,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890431519,
+    "wof:lastmodified":1505343524,
+    "wof:name":"Tinubuan",
+    "wof:parent_id":1108697415,
+    "wof:placetype":"locality",
+    "wof:population":2146,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0078,
+    11.186,
+    124.0078,
+    11.186
+],
+  "geometry": {"coordinates":[124.0078,11.186],"type":"Point"}
+}

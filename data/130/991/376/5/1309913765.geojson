@@ -1,0 +1,72 @@
+{
+  "id": 1309913765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.05159,18.57255,121.05159,18.57255",
+    "geom:latitude":18.57255,
+    "geom:longitude":121.05159,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21511000.0",
+    "gn:asciiname":"Mabnung",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347262,
+    "gn:latitude":18.57255,
+    "gn:longitude":121.05159,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabnung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabnung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347262
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"542aaef6cc6a3a4606472a7c0faf2c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697359,
+            "locality_id":1309913765,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1309913765,
+    "wof:lastmodified":1537679067,
+    "wof:name":"Mabnung",
+    "wof:parent_id":1108697359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.05159,
+    18.57255,
+    121.05159,
+    18.57255
+],
+  "geometry": {"coordinates":[121.05159,18.57255],"type":"Point"}
+}

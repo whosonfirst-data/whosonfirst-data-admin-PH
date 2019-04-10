@@ -1,0 +1,75 @@
+{
+  "id": 1243314599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3793,14.6883,122.3793,14.6883",
+    "geom:latitude":14.6883,
+    "geom:longitude":122.3793,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45621000.0",
+    "gn:asciiname":"Pinaglaputan",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693671,
+    "gn:latitude":14.6883,
+    "gn:longitude":122.3793,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pinaglaputan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pinaglaputan"
+    ],
+    "name:fil_x_variant":[
+        "Pinaglaput"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108697855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693671
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"89b974aa0f6ef99a012059cc09fcbc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697855,
+            "locality_id":1243314599,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1243314599,
+    "wof:lastmodified":1537677637,
+    "wof:name":"Pinaglaputan",
+    "wof:parent_id":1108697855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3793,
+    14.6883,
+    122.3793,
+    14.6883
+],
+  "geometry": {"coordinates":[122.3793,14.6883],"type":"Point"}
+}

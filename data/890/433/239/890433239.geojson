@@ -1,0 +1,72 @@
+{
+  "id": 890433239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6883,7.9227,123.6883,7.9227",
+    "geom:latitude":7.9227,
+    "geom:longitude":123.6883,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3473,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lapining"
+    ],
+    "name:unk_x_variant":[
+        "Lapinig"
+    ],
+    "qs:name":"Lapining",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958498,
+        "gp:id":28345147,
+        "qs:id":137327
+    },
+    "wof:country":"PH",
+    "wof:created":1469051972,
+    "wof:geomhash":"578a9645e0468ae0e1b6cc4cf8e346d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697897,
+            "locality_id":890433239,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":890433239,
+    "wof:lastmodified":1505343534,
+    "wof:name":"Lapining",
+    "wof:parent_id":1108697897,
+    "wof:placetype":"locality",
+    "wof:population":3473,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6883,
+    7.9227,
+    123.6883,
+    7.9227
+],
+  "geometry": {"coordinates":[123.6883,7.9227],"type":"Point"}
+}

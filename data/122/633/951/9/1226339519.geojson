@@ -1,0 +1,72 @@
+{
+  "id": 1226339519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5449,11.2835,122.5449,11.2835",
+    "geom:latitude":11.2835,
+    "geom:longitude":122.5449,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61917000.0",
+    "gn:asciiname":"San Julian",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689192,
+    "gn:latitude":11.2835,
+    "gn:longitude":122.5449,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Julian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Julian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108699689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689192
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"af6ac56daa923eb6a7867bba78e54c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699689,
+            "locality_id":1226339519,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1226339519,
+    "wof:lastmodified":1537677506,
+    "wof:name":"San Julian",
+    "wof:parent_id":1108699689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5449,
+    11.2835,
+    122.5449,
+    11.2835
+],
+  "geometry": {"coordinates":[122.5449,11.2835],"type":"Point"}
+}

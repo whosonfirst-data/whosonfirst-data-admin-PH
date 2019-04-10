@@ -1,0 +1,72 @@
+{
+  "id": 1259931401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21482,14.04281,121.21482,14.04281",
+    "geom:latitude":14.04281,
+    "geom:longitude":121.21482,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"43401000.0",
+    "gn:asciiname":"Palma",
+    "gn:country_code":"PH",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696048,
+    "gn:latitude":14.04281,
+    "gn:longitude":121.21482,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108696589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696048
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0cf15848375e96713f9d79c76d10ff10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696589,
+            "locality_id":1259931401,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":1259931401,
+    "wof:lastmodified":1537677700,
+    "wof:name":"Palma",
+    "wof:parent_id":1108696589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21482,
+    14.04281,
+    121.21482,
+    14.04281
+],
+  "geometry": {"coordinates":[121.21482,14.04281],"type":"Point"}
+}

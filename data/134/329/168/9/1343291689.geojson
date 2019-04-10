@@ -1,0 +1,72 @@
+{
+  "id": 1343291689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1,9.15,123.1,9.15",
+    "geom:latitude":9.15,
+    "geom:longitude":123.1,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74619000.0",
+    "gn:asciiname":"Napacao",
+    "gn:country_code":"PH",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698216,
+    "gn:latitude":9.15,
+    "gn:longitude":123.1,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Napacao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Napacao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698216
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ef4bf12e137de379f0262aa03758fb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699465,
+            "locality_id":1343291689,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1343291689,
+    "wof:lastmodified":1537677764,
+    "wof:name":"Napacao",
+    "wof:parent_id":1108699465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1,
+    9.15,
+    123.1,
+    9.15
+],
+  "geometry": {"coordinates":[123.09999999999999,9.15],"type":"Point"}
+}

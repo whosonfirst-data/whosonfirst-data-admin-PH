@@ -1,0 +1,68 @@
+{
+  "id": 890451377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.15,8.06667,124.15,8.06667",
+    "geom:latitude":8.06667,
+    "geom:longitude":124.15,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2571,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dimayon"
+    ],
+    "qs:name":"Dimayon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108698799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714816,
+        "qs:id":87883
+    },
+    "wof:country":"PH",
+    "wof:created":1469052776,
+    "wof:geomhash":"9a94009191d8fafb0d1ae0b88557d3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698799,
+            "locality_id":890451377,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":890451377,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Dimayon",
+    "wof:parent_id":1108698799,
+    "wof:placetype":"locality",
+    "wof:population":2571,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.15,
+    8.06667,
+    124.15,
+    8.06667
+],
+  "geometry": {"coordinates":[124.15000000000001,8.06667],"type":"Point"}
+}

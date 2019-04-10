@@ -1,0 +1,66 @@
+{
+  "id": 1209336109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0173,11.1437,123.0173,11.1437",
+    "geom:latitude":11.1437,
+    "geom:longitude":123.0173,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63001000.0",
+    "gn:asciiname":"Mangorocoro",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701752,
+    "gn:latitude":11.1437,
+    "gn:longitude":123.0173,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mangorocoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mangorocoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701752
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c1e0cfcb5b4edadc949d88f616e63943",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209336109
+        }
+    ],
+    "wof:id":1209336109,
+    "wof:lastmodified":1537677863,
+    "wof:name":"Mangorocoro",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0173,
+    11.1437,
+    123.0173,
+    11.1437
+],
+  "geometry": {"coordinates":[123.01730000000001,11.1437],"type":"Point"}
+}

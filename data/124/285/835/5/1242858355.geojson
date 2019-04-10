@@ -1,0 +1,72 @@
+{
+  "id": 1242858355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0153,7.5639,123.0153,7.5639",
+    "geom:latitude":7.5639,
+    "geom:longitude":123.0153,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"ZSI",
+    "gn:admin3_code":"98308000.0",
+    "gn:asciiname":"Logpond",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958272,
+    "gn:latitude":7.5639,
+    "gn:longitude":123.0153,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Logpond",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Logpond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108698293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958272
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"304e175f78f28fbeacdb67ee3fa4b344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698293,
+            "locality_id":1242858355,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":1242858355,
+    "wof:lastmodified":1537678782,
+    "wof:name":"Logpond",
+    "wof:parent_id":1108698293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0153,
+    7.5639,
+    123.0153,
+    7.5639
+],
+  "geometry": {"coordinates":[123.0153,7.5639],"type":"Point"}
+}

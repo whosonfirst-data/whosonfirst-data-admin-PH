@@ -1,0 +1,79 @@
+{
+  "id": 1209824565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4673,17.2646,120.4673,17.2646",
+    "geom:latitude":17.2646,
+    "geom:longitude":120.4673,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12927000.0",
+    "gn:asciiname":"Salincub",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690876,
+    "gn:latitude":17.2646,
+    "gn:longitude":120.4673,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salincub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Salincub"
+    ],
+    "name:fil_x_variant":[
+        "Salincob"
+    ],
+    "name:und_x_variant":[
+        "Salincob",
+        "Salincub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690876
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"31ffd5be0a1215b92a829a189dd87208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699413,
+            "locality_id":1209824565,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1209824565,
+    "wof:lastmodified":1537677560,
+    "wof:name":"Salincub",
+    "wof:parent_id":1108699413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4673,
+    17.2646,
+    120.4673,
+    17.2646
+],
+  "geometry": {"coordinates":[120.46729999999999,17.2646],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1309990715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.79528,10.3125,124.79528,10.3125",
+    "geom:latitude":10.3125,
+    "geom:longitude":124.79528,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83734000.0",
+    "gn:asciiname":"Bunong",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692997,
+    "gn:latitude":10.3125,
+    "gn:longitude":124.79528,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bunong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponong",
+        "Bunong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108699361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692997
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f011f556e13e72e76eb8a1c58b1340cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699361,
+            "locality_id":1309990715,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1309990715,
+    "wof:lastmodified":1537677615,
+    "wof:name":"Bunong",
+    "wof:parent_id":1108699361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.79528,
+    10.3125,
+    124.79528,
+    10.3125
+],
+  "geometry": {"coordinates":[124.79528000000001,10.3125],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890436297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.72765,17.7626,121.72765,17.7626",
+    "geom:latitude":17.7626,
+    "geom:longitude":121.72765,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2111,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Minanga"
+    ],
+    "name:unk_x_variant":[
+        "Minanga Norte"
+    ],
+    "qs:name":"Minanga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699638,
+        "gp:id":1192624,
+        "qs:id":87221
+    },
+    "wof:country":"PH",
+    "wof:created":1469052106,
+    "wof:geomhash":"5feef3468a7ad1dc95537502487a8ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697745,
+            "locality_id":890436297,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890436297,
+    "wof:lastmodified":1505343552,
+    "wof:name":"Minanga",
+    "wof:parent_id":1108697745,
+    "wof:placetype":"locality",
+    "wof:population":2111,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.72765,
+    17.7626,
+    121.72765,
+    17.7626
+],
+  "geometry": {"coordinates":[121.72765,17.7626],"type":"Point"}
+}

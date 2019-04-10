@@ -1,0 +1,75 @@
+{
+  "id": 1310075435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1929,17.4029,121.1929,17.4029",
+    "geom:latitude":17.4029,
+    "geom:longitude":121.1929,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143208000.0",
+    "gn:asciiname":"Balenciago",
+    "gn:country_code":"PH",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728106,
+    "gn:latitude":17.4029,
+    "gn:longitude":121.1929,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balenciago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balenciago"
+    ],
+    "name:fil_x_variant":[
+        "Balinciagao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728106
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f47c7774320184f4a9d088bdc00ef5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698825,
+            "locality_id":1310075435,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1310075435,
+    "wof:lastmodified":1537678628,
+    "wof:name":"Balenciago",
+    "wof:parent_id":1108698825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1929,
+    17.4029,
+    121.1929,
+    17.4029
+],
+  "geometry": {"coordinates":[121.19289999999999,17.4029],"type":"Point"}
+}

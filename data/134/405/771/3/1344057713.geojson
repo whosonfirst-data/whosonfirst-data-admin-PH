@@ -1,0 +1,85 @@
+{
+  "id": 1344057713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72565,15.4425,120.72565,15.4425",
+    "geom:latitude":15.4425,
+    "geom:longitude":120.72565,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36907000.0",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720094,
+    "gn:latitude":15.4425,
+    "gn:longitude":120.72565,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Isidro",
+    "gn:population":4121,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Isidro"
+    ],
+    "name:fil_x_variant":[
+        "Cululuan",
+        "Caluluan",
+        "Sitio"
+    ],
+    "name:und_x_variant":[
+        "Cululuan",
+        "Sitio",
+        "Caluluan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720094
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7545e2865d35f29c49af30f50d371c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697953,
+            "locality_id":1344057713,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1344057713,
+    "wof:lastmodified":1537678385,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108697953,
+    "wof:placetype":"locality",
+    "wof:population":4121,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72565,
+    15.4425,
+    120.72565,
+    15.4425
+],
+  "geometry": {"coordinates":[120.72565,15.4425],"type":"Point"}
+}

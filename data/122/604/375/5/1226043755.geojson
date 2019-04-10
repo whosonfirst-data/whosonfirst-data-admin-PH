@@ -1,0 +1,72 @@
+{
+  "id": 1226043755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95659,15.48668,120.95659,15.48668",
+    "geom:latitude":15.48668,
+    "geom:longitude":120.95659,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34903000.0",
+    "gn:asciiname":"Bonifacio District",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8306307,
+    "gn:latitude":15.48668,
+    "gn:longitude":120.95659,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bonifacio District",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bonifacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        890443085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306307
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"74c8e1e6e20c507f4edce68ea33fe27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890443085,
+            "locality_id":1226043755,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1226043755,
+    "wof:lastmodified":1537679061,
+    "wof:name":"Bonifacio District",
+    "wof:parent_id":890443085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95659,
+    15.48668,
+    120.95659,
+    15.48668
+],
+  "geometry": {"coordinates":[120.95659000000001,15.48668],"type":"Point"}
+}

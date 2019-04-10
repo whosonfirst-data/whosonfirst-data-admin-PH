@@ -1,0 +1,68 @@
+{
+  "id": 890430455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.02106,12.44311,122.02106,12.44311",
+    "geom:latitude":12.44311,
+    "geom:longitude":122.02106,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2412,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tomingad"
+    ],
+    "qs:name":"Tomingad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676007,
+        1108698689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681529,
+        "qs:id":133992
+    },
+    "wof:country":"PH",
+    "wof:created":1469051854,
+    "wof:geomhash":"c1dcb9221f9e04975ed09844abec3cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698689,
+            "locality_id":890430455,
+            "region_id":85676007
+        }
+    ],
+    "wof:id":890430455,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Tomingad",
+    "wof:parent_id":1108698689,
+    "wof:placetype":"locality",
+    "wof:population":2412,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.02106,
+    12.44311,
+    122.02106,
+    12.44311
+],
+  "geometry": {"coordinates":[122.02106000000001,12.44311],"type":"Point"}
+}

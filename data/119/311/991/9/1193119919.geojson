@@ -1,0 +1,79 @@
+{
+  "id": 1193119919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1615,17.3972,121.1615,17.3972",
+    "geom:latitude":17.3972,
+    "geom:longitude":121.1615,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143208000.0",
+    "gn:asciiname":"Malucusod",
+    "gn:country_code":"PH",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702462,
+    "gn:latitude":17.3972,
+    "gn:longitude":121.1615,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malucusod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malucusod"
+    ],
+    "name:fil_x_variant":[
+        "Maluesod",
+        "Malucsod"
+    ],
+    "name:und_x_variant":[
+        "Maluesod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702462
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"78b1f670dfae47952b3d8d36deccfd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698825,
+            "locality_id":1193119919,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1193119919,
+    "wof:lastmodified":1537677884,
+    "wof:name":"Malucusod",
+    "wof:parent_id":1108698825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1615,
+    17.3972,
+    121.1615,
+    17.3972
+],
+  "geometry": {"coordinates":[121.1615,17.3972],"type":"Point"}
+}

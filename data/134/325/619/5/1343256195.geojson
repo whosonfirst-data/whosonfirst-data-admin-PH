@@ -1,0 +1,73 @@
+{
+  "id": 1343256195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.4183,9.9679,124.4183,9.9679",
+    "geom:latitude":9.9679,
+    "geom:longitude":124.4183,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71246000.0",
+    "gn:asciiname":"California",
+    "gn:country_code":"PH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461301,
+    "gn:latitude":9.9679,
+    "gn:longitude":124.4183,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"California",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "California"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461301,
+        "wk:page":"California,_Bohol"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"14efd0dec3a8dab5789ddabbb18e22bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699817,
+            "locality_id":1343256195,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1343256195,
+    "wof:lastmodified":1537678953,
+    "wof:name":"California",
+    "wof:parent_id":1108699817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.4183,
+    9.9679,
+    124.4183,
+    9.9679
+],
+  "geometry": {"coordinates":[124.4183,9.9679],"type":"Point"}
+}

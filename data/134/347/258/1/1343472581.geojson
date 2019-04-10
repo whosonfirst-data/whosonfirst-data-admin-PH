@@ -1,0 +1,73 @@
+{
+  "id": 1343472581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8733,16.0776,119.8733,16.0776",
+    "geom:latitude":16.0776,
+    "geom:longitude":119.8733,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15516000.0",
+    "gn:asciiname":"Tambacan",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683652,
+    "gn:latitude":16.0776,
+    "gn:longitude":119.8733,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tambacan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tambacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683652,
+        "wk:page":"Tambacan"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3df0d6ba03a5525ad1c4eddd42a6e6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697455,
+            "locality_id":1343472581,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1343472581,
+    "wof:lastmodified":1537677350,
+    "wof:name":"Tambacan",
+    "wof:parent_id":1108697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8733,
+    16.0776,
+    119.8733,
+    16.0776
+],
+  "geometry": {"coordinates":[119.8733,16.0776],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193011293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5707,12.9321,123.5707,12.9321",
+    "geom:latitude":12.9321,
+    "geom:longitude":123.5707,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56207000.0",
+    "gn:asciiname":"Pampang",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695225,
+    "gn:latitude":12.9321,
+    "gn:longitude":123.5707,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pampang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pampang"
+    ],
+    "name:und_x_variant":[
+        "Pangpang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695225
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"da96e8e54200d8e2ca2810ae66271eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697525,
+            "locality_id":1193011293,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1193011293,
+    "wof:lastmodified":1537677681,
+    "wof:name":"Pampang",
+    "wof:parent_id":1108697525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5707,
+    12.9321,
+    123.5707,
+    12.9321
+],
+  "geometry": {"coordinates":[123.5707,12.9321],"type":"Point"}
+}

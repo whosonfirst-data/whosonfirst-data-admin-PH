@@ -1,0 +1,68 @@
+{
+  "id": 890442829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35,16.0,120.35,16.0",
+    "geom:latitude":16.0,
+    "geom:longitude":120.35,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":83344,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calasiao"
+    ],
+    "qs:name":"Calasiao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720509,
+        "qs:id":350954
+    },
+    "wof:country":"PH",
+    "wof:created":1469052381,
+    "wof:geomhash":"8d20b9c28e1b8c302a6e543861d8e215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697209,
+            "localadmin_id":890442829,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890442829,
+    "wof:lastmodified":1505343590,
+    "wof:name":"Calasiao",
+    "wof:parent_id":1108697209,
+    "wof:placetype":"localadmin",
+    "wof:population":83344,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35,
+    16.0,
+    120.35,
+    16.0
+],
+  "geometry": {"coordinates":[120.34999999999999,16.0],"type":"Point"}
+}

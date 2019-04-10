@@ -1,0 +1,65 @@
+{
+  "id": 1343240527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.81667,18.41667,123.81667,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":123.81667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:asciiname":"Mitasan",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699476,
+    "gn:latitude":18.41667,
+    "gn:longitude":123.81667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Mitasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mitasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699476
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f080918d9f7e3329fe0b8e1ec48f10c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343240527,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343240527,
+    "wof:lastmodified":1537677802,
+    "wof:name":"Mitasan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.81667,
+    18.41667,
+    123.81667,
+    18.41667
+],
+  "geometry": {"coordinates":[123.81667,18.41667],"type":"Point"}
+}

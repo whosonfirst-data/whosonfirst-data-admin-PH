@@ -1,0 +1,66 @@
+{
+  "id": 1209508061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3776,13.255,123.3776,13.255",
+    "geom:latitude":13.255,
+    "geom:longitude":123.3776,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50507000.0",
+    "gn:asciiname":"Villa Petrona",
+    "gn:country_code":"PH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425129,
+    "gn:latitude":13.255,
+    "gn:longitude":123.3776,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villa Petrona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Villa Petrona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425129
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f3d9c257779d340c6419e76c3666ed50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209508061
+        }
+    ],
+    "wof:id":1209508061,
+    "wof:lastmodified":1537678890,
+    "wof:name":"Villa Petrona",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3776,
+    13.255,
+    123.3776,
+    13.255
+],
+  "geometry": {"coordinates":[123.3776,13.255],"type":"Point"}
+}

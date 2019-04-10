@@ -1,0 +1,70 @@
+{
+  "id": 890438457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46667,15.35,120.46667,15.35",
+    "geom:latitude":15.35,
+    "geom:longitude":120.46667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":107995,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Capas"
+    ],
+    "qs:name":"Capas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718723,
+        "qs:id":1027411,
+        "wk:page":"Capas"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052195,
+    "wof:geomhash":"d8619bf8f1c89fcda6a31aa843ee5b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697263,
+            "localadmin_id":890438457,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":890438457,
+    "wof:lastmodified":1527735425,
+    "wof:name":"Capas",
+    "wof:parent_id":1108697263,
+    "wof:placetype":"localadmin",
+    "wof:population":107995,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46667,
+    15.35,
+    120.46667,
+    15.35
+],
+  "geometry": {"coordinates":[120.46666999999999,15.35],"type":"Point"}
+}

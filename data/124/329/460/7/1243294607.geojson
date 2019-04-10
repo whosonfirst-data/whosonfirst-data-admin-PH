@@ -1,0 +1,72 @@
+{
+  "id": 1243294607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.872,9.871,122.872,9.871",
+    "geom:latitude":9.871,
+    "geom:longitude":122.872,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64515000.0",
+    "gn:asciiname":"Tamlang",
+    "gn:country_code":"PH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683464,
+    "gn:latitude":9.871,
+    "gn:longitude":122.872,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tamlang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tamlang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683464
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a488ca9c61a46a9e8917f1950a664d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697861,
+            "locality_id":1243294607,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1243294607,
+    "wof:lastmodified":1537677345,
+    "wof:name":"Tamlang",
+    "wof:parent_id":1108697861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.872,
+    9.871,
+    122.872,
+    9.871
+],
+  "geometry": {"coordinates":[122.872,9.871],"type":"Point"}
+}

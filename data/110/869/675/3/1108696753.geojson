@@ -1,0 +1,66 @@
+{
+  "id": 1108696753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001053,
+    "geom:area_square_m":12581854.734422,
+    "geom:bbox":"120.689279181,14.976183467,120.7289402,15.0156081346",
+    "geom:latitude":14.995563,
+    "geom:longitude":120.711339,
+    "iso:country":"PH",
+    "lbl:latitude":14.996496,
+    "lbl:longitude":120.708978,
+    "meso:admin_1":"PAMPANGA",
+    "meso:admin_1r":"CENTRAL LUZON REGION",
+    "meso:diss_me":"BACOLORPAMPANGA",
+    "meso:gadm_admn2":"Bacolor",
+    "meso:gadm_hasc_":"PH.PM.BC",
+    "meso:gaul_adm2_":"Sto. Tomas",
+    "meso:mps_x":120.708978,
+    "meso:mps_y":14.996496,
+    "meso:name_local":"Bacolor",
+    "meso:source":"AOTM",
+    "mps:latitude":14.996496,
+    "mps:longitude":120.708978,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PH",
+    "wof:created":1474495222,
+    "wof:geomhash":"44580fd4227805a6824e4ab5198952ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696753,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1108696753,
+    "wof:lastmodified":1512516841,
+    "wof:name":"Bacolor",
+    "wof:parent_id":85676107,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68927918102112,
+    14.97618346698949,
+    120.72894020020702,
+    15.01560813464236
+],
+  "geometry": {"coordinates":[[[120.72568437175997,15.01560813464236],[120.72804544786672,15.01417673866398],[120.72800327898024,15.00073971637451],[120.72170317418039,14.99623565183082],[120.72894020020702,14.98375885000834],[120.71806535108264,14.97618346698949],[120.71408375311964,14.97839625184713],[120.70871054921616,14.97622946509897],[120.69918690538186,14.97620572549785],[120.70026335478174,14.98711642684587],[120.69626073896707,14.99220133031634],[120.68972290193005,14.99542561791188],[120.68927918102112,14.9977808498107],[120.69398025529502,15.00401043332785],[120.70030734391342,15.0095588531788],[120.70507936847457,15.01221051318791],[120.70923545442689,15.00970019837396],[120.71323699435722,15.01216065407423],[120.72568437175997,15.01560813464236]]],"type":"Polygon"}
+}

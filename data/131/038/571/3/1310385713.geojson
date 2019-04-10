@@ -1,0 +1,76 @@
+{
+  "id": 1310385713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.54,5.78611,125.54,5.78611",
+    "geom:latitude":5.78611,
+    "geom:longitude":125.54,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"P3",
+    "gn:admin3_code":"118602000.0",
+    "gn:asciiname":"Kiponga",
+    "gn:country_code":"PH",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717564,
+    "gn:latitude":5.78611,
+    "gn:longitude":125.54,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kiponga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kiponga"
+    ],
+    "name:und_x_variant":[
+        "Kayaponga",
+        "Cayaponga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1108810255,
+        1108697839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717564
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e5f76d880a251fabbda134b4826c4487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697839,
+            "locality_id":1310385713,
+            "region_id":1108810255
+        }
+    ],
+    "wof:id":1310385713,
+    "wof:lastmodified":1537678305,
+    "wof:name":"Kiponga",
+    "wof:parent_id":1108697839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.54,
+    5.78611,
+    125.54,
+    5.78611
+],
+  "geometry": {"coordinates":[125.54000000000001,5.78611],"type":"Point"}
+}

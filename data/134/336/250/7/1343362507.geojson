@@ -1,0 +1,72 @@
+{
+  "id": 1343362507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5703,18.0448,120.5703,18.0448",
+    "geom:latitude":18.0448,
+    "geom:longitude":120.5703,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12805000.0",
+    "gn:asciiname":"Igid",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7426050,
+    "gn:latitude":18.0448,
+    "gn:longitude":120.5703,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Igid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Igid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7426050
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"38cbb4712241f2f20794152155b07b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696933,
+            "locality_id":1343362507,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1343362507,
+    "wof:lastmodified":1537678900,
+    "wof:name":"Igid",
+    "wof:parent_id":1108696933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5703,
+    18.0448,
+    120.5703,
+    18.0448
+],
+  "geometry": {"coordinates":[120.5703,18.0448],"type":"Point"}
+}

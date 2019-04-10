@@ -1,0 +1,75 @@
+{
+  "id": 1226370635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2988,9.3121,123.2988,9.3121",
+    "geom:latitude":9.3121,
+    "geom:longitude":123.2988,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74610000.0",
+    "gn:asciiname":"Taclubo",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684707,
+    "gn:latitude":9.3121,
+    "gn:longitude":123.2988,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Taclubo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Taclubo"
+    ],
+    "name:fil_x_variant":[
+        "Taclobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        890415251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684707
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"80e5aad8a1a7244f9f5ac40ff1d0a4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415251,
+            "locality_id":1226370635,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1226370635,
+    "wof:lastmodified":1537677378,
+    "wof:name":"Taclubo",
+    "wof:parent_id":890415251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2988,
+    9.3121,
+    123.2988,
+    9.3121
+],
+  "geometry": {"coordinates":[123.2988,9.3121],"type":"Point"}
+}

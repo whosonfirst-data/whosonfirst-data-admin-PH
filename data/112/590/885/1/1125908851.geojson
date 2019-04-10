@@ -1,0 +1,84 @@
+{
+  "id": 1125908851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0515,13.6268,124.0515,13.6268",
+    "geom:latitude":13.6268,
+    "geom:longitude":124.0515,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2613,
+    "gn:population":2613,
+    "iso:country":"PH",
+    "lbl:latitude":13.6268,
+    "lbl:longitude":124.0515,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Cabcab"
+    ],
+    "name:unk_x_variant":[
+        "Alibon"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1721660,
+    "qs_pg:gn_pop":2613,
+    "qs_pg:name":"Cabcab",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1032976,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108699107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721660,
+        "qs_pg:id":1032976
+    },
+    "wof:country":"PH",
+    "wof:created":1497296072,
+    "wof:geomhash":"56a193b6a949de9cb8c998a9af4ef3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699107,
+            "locality_id":1125908851,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":1125908851,
+    "wof:lastmodified":1509399958,
+    "wof:name":"Cabcab",
+    "wof:parent_id":1108699107,
+    "wof:placetype":"locality",
+    "wof:population":2613,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0515,
+    13.6268,
+    124.0515,
+    13.6268
+],
+  "geometry": {"coordinates":[124.0515,13.6268],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326508543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7061,7.9256,123.7061,7.9256",
+    "geom:latitude":7.9256,
+    "geom:longitude":123.7061,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103505000.0",
+    "gn:asciiname":"Maranding East",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701105,
+    "gn:latitude":7.9256,
+    "gn:longitude":123.7061,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maranding East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maranding East"
+    ],
+    "name:und_x_variant":[
+        "Maranding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701105
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4c81d69b01abf173cac253b3a86653e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697897,
+            "locality_id":1326508543,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1326508543,
+    "wof:lastmodified":1537677846,
+    "wof:name":"Maranding East",
+    "wof:parent_id":1108697897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7061,
+    7.9256,
+    123.7061,
+    7.9256
+],
+  "geometry": {"coordinates":[123.70610000000001,7.9256],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209813881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2435,13.4733,123.2435,13.4733",
+    "geom:latitude":13.4733,
+    "geom:longitude":123.2435,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51706000.0",
+    "gn:asciiname":"Ombao",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697138,
+    "gn:latitude":13.4733,
+    "gn:longitude":123.2435,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ombao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ombao"
+    ],
+    "name:und_x_variant":[
+        "Ombaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697138
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"141955a58086ed6b4927e5c8a94b7b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697099,
+            "locality_id":1209813881,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1209813881,
+    "wof:lastmodified":1537677735,
+    "wof:name":"Ombao",
+    "wof:parent_id":1108697099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2435,
+    13.4733,
+    123.2435,
+    13.4733
+],
+  "geometry": {"coordinates":[123.2435,13.4733],"type":"Point"}
+}

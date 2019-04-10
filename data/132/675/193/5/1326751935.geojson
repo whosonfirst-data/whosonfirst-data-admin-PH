@@ -1,0 +1,75 @@
+{
+  "id": 1326751935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.36141,11.05693,122.36141,11.05693",
+    "geom:latitude":11.05693,
+    "geom:longitude":122.36141,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63025000.0",
+    "gn:asciiname":"Atimonan",
+    "gn:country_code":"PH",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729997,
+    "gn:latitude":11.05693,
+    "gn:longitude":122.36141,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Atimonan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Atimonan"
+    ],
+    "name:und_x_variant":[
+        "Atemonan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729997
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3514226eec9e5fc072ef80020f0204cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697987,
+            "locality_id":1326751935,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1326751935,
+    "wof:lastmodified":1537678683,
+    "wof:name":"Atimonan",
+    "wof:parent_id":1108697987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.36141,
+    11.05693,
+    122.36141,
+    11.05693
+],
+  "geometry": {"coordinates":[122.36141000000001,11.05693],"type":"Point"}
+}

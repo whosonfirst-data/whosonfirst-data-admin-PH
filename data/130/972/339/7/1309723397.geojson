@@ -1,0 +1,75 @@
+{
+  "id": 1309723397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9001,15.6905,120.9001,15.6905",
+    "geom:latitude":15.6905,
+    "geom:longitude":120.9001,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34930000.0",
+    "gn:asciiname":"Bakal Uno",
+    "gn:country_code":"PH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729690,
+    "gn:latitude":15.6905,
+    "gn:longitude":120.9001,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bakal Uno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bacal I"
+    ],
+    "name:fil_x_variant":[
+        "Bacal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729690
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c5e4eb9c3ceca34e9a4d9b4fe610b8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699631,
+            "locality_id":1309723397,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1309723397,
+    "wof:lastmodified":1537678674,
+    "wof:name":"Bakal Uno",
+    "wof:parent_id":1108699631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9001,
+    15.6905,
+    120.9001,
+    15.6905
+],
+  "geometry": {"coordinates":[120.90009999999999,15.6905],"type":"Point"}
+}

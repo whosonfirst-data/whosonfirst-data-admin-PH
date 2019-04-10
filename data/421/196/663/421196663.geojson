@@ -1,0 +1,82 @@
+{
+  "id": 421196663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.68889,7.59167,124.68889,7.59167",
+    "geom:latitude":7.59167,
+    "geom:longitude":124.68889,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Malinao"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1700310,
+    "qs:gn_pop":4264,
+    "qs:name":"Matinao",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Soccsksargen",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1294923,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199510,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108696883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700310,
+        "gp:id":1199510,
+        "qs:id":1294923
+    },
+    "wof:country":"PH",
+    "wof:created":1459009889,
+    "wof:geomhash":"fcfdcbf173b4afae2388537a446050d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696883,
+            "locality_id":421196663,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":421196663,
+    "wof:lastmodified":1505340748,
+    "wof:name":"Matinao",
+    "wof:parent_id":1108696883,
+    "wof:placetype":"locality",
+    "wof:population":4264,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.68889,
+    7.59167,
+    124.68889,
+    7.59167
+],
+  "geometry": {"coordinates":[124.68889,7.59167],"type":"Point"}
+}

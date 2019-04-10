@@ -1,0 +1,72 @@
+{
+  "id": 1225840135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.85,8.0,123.85,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":123.85,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103522000.0",
+    "gn:asciiname":"Baris",
+    "gn:country_code":"PH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726652,
+    "gn:latitude":8.0,
+    "gn:longitude":123.85,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baris",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Baris"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108699783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726652
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dc3f52123188580049b67a981b168134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699783,
+            "locality_id":1225840135,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1225840135,
+    "wof:lastmodified":1537678580,
+    "wof:name":"Baris",
+    "wof:parent_id":1108699783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.85,
+    8.0,
+    123.85,
+    8.0
+],
+  "geometry": {"coordinates":[123.84999999999999,8.0],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327216525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7,17.41667,120.7,17.41667",
+    "geom:latitude":17.41667,
+    "geom:longitude":120.7,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140116000.0",
+    "gn:asciiname":"San Ramon West",
+    "gn:country_code":"PH",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688601,
+    "gn:latitude":17.41667,
+    "gn:longitude":120.7,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Ramon West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Ramon West"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108698337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688601
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1da9419161cd87cd70b73287dfc10da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698337,
+            "locality_id":1327216525,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1327216525,
+    "wof:lastmodified":1537677488,
+    "wof:name":"San Ramon West",
+    "wof:parent_id":1108698337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7,
+    17.41667,
+    120.7,
+    17.41667
+],
+  "geometry": {"coordinates":[120.7,17.41667],"type":"Point"}
+}

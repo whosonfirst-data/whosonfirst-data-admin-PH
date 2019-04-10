@@ -1,0 +1,75 @@
+{
+  "id": 1360178929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9846,10.4527,123.9846,10.4527",
+    "geom:latitude":10.4527,
+    "geom:longitude":123.9846,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72218000.0",
+    "gn:asciiname":"Cabadiangan",
+    "gn:country_code":"PH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722022,
+    "gn:latitude":10.4527,
+    "gn:longitude":123.9846,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabadiangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabadiangan"
+    ],
+    "name:und_x_variant":[
+        "Cabatyanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722022
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3f2d2adfeeef986837df667f7650deb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697369,
+            "locality_id":1360178929,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1360178929,
+    "wof:lastmodified":1537678445,
+    "wof:name":"Cabadiangan",
+    "wof:parent_id":1108697369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9846,
+    10.4527,
+    123.9846,
+    10.4527
+],
+  "geometry": {"coordinates":[123.9846,10.4527],"type":"Point"}
+}

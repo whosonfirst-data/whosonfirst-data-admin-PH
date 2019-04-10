@@ -1,0 +1,72 @@
+{
+  "id": 1225815083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82585,17.44373,120.82585,17.44373",
+    "geom:latitude":17.44373,
+    "geom:longitude":120.82585,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140104000.0",
+    "gn:asciiname":"Labaan",
+    "gn:country_code":"PH",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708381,
+    "gn:latitude":17.44373,
+    "gn:longitude":120.82585,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Labaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Labaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108699089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708381
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"818917b977096b3c0d8998708a9a95c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699089,
+            "locality_id":1225815083,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1225815083,
+    "wof:lastmodified":1537678051,
+    "wof:name":"Labaan",
+    "wof:parent_id":1108699089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82585,
+    17.44373,
+    120.82585,
+    17.44373
+],
+  "geometry": {"coordinates":[120.82585,17.44373],"type":"Point"}
+}

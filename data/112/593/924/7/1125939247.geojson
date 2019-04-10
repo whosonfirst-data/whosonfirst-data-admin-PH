@@ -1,0 +1,81 @@
+{
+  "id": 1125939247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.8625,9.8958,122.8625,9.8958",
+    "geom:latitude":9.8958,
+    "geom:longitude":122.8625,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7820,
+    "gn:population":7820,
+    "iso:country":"PH",
+    "lbl:latitude":9.8958,
+    "lbl:longitude":122.8625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Camingawan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1719675,
+    "qs_pg:gn_pop":7820,
+    "qs_pg:name":"Camingawan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":135489,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719675,
+        "qs_pg:id":135489
+    },
+    "wof:country":"PH",
+    "wof:created":1497297064,
+    "wof:geomhash":"3437e635ce7d574bd47e0114f686653d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697861,
+            "locality_id":1125939247,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125939247,
+    "wof:lastmodified":1509401984,
+    "wof:name":"Camingawan",
+    "wof:parent_id":1108697861,
+    "wof:placetype":"locality",
+    "wof:population":7820,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.8625,
+    9.8958,
+    122.8625,
+    9.8958
+],
+  "geometry": {"coordinates":[122.8625,9.8958],"type":"Point"}
+}

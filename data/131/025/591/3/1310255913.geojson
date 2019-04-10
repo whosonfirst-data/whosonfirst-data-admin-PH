@@ -1,0 +1,69 @@
+{
+  "id": 1310255913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.90287,14.28188,120.90287,14.28188",
+    "geom:latitude":14.28188,
+    "geom:longitude":120.90287,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42108000.0",
+    "gn:asciiname":"Metro South",
+    "gn:country_code":"PH",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8635940,
+    "gn:latitude":14.28188,
+    "gn:longitude":120.90287,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Metro South",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8635940
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3136f7444c7aa439367514b33b5d0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697637,
+            "locality_id":1310255913,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1310255913,
+    "wof:lastmodified":1536780082,
+    "wof:name":"Metro South",
+    "wof:parent_id":1108697637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90287,
+    14.28188,
+    120.90287,
+    14.28188
+],
+  "geometry": {"coordinates":[120.90286999999999,14.28188],"type":"Point"}
+}

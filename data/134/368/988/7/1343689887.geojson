@@ -1,0 +1,72 @@
+{
+  "id": 1343689887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.45,10.51667,123.45,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":123.45,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64505000.0",
+    "gn:asciiname":"Kepler Hacienda",
+    "gn:country_code":"PH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708918,
+    "gn:latitude":10.51667,
+    "gn:longitude":123.45,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kepler Hacienda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kepler Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708918
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"755f1a43b7a7c9b187177e95e444af9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697215,
+            "locality_id":1343689887,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1343689887,
+    "wof:lastmodified":1537678067,
+    "wof:name":"Kepler Hacienda",
+    "wof:parent_id":1108697215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.45,
+    10.51667,
+    123.45,
+    10.51667
+],
+  "geometry": {"coordinates":[123.45,10.51667],"type":"Point"}
+}

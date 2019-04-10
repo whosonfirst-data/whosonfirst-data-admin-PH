@@ -1,0 +1,71 @@
+{
+  "id": 890415577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.69361,6.22,124.69361,6.22",
+    "geom:latitude":6.22,
+    "geom:longitude":124.69361,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":21767,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Sebu"
+    ],
+    "qs:name":"Sebu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":6739,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687029,
+        "gp:id":1200002,
+        "qs:id":134198,
+        "wk:page":"Cebu"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051094,
+    "wof:geomhash":"6cc9842d6632d64f6e533b5ad5779f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699577,
+            "locality_id":890415577,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890415577,
+    "wof:lastmodified":1527727242,
+    "wof:name":"Sebu",
+    "wof:parent_id":1108699577,
+    "wof:placetype":"locality",
+    "wof:population":21767,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.69361,
+    6.22,
+    124.69361,
+    6.22
+],
+  "geometry": {"coordinates":[124.69361000000001,6.22],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242570601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7618,13.135,123.7618,13.135",
+    "geom:latitude":13.135,
+    "geom:longitude":123.7618,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50506000.0",
+    "gn:asciiname":"Poro",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692362,
+    "gn:latitude":13.135,
+    "gn:longitude":123.7618,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Poro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Poro"
+    ],
+    "name:fil_x_variant":[
+        "Puro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692362
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4be4924d9fbe6867ef4d409989d3bc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698043,
+            "locality_id":1242570601,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1242570601,
+    "wof:lastmodified":1537677598,
+    "wof:name":"Poro",
+    "wof:parent_id":1108698043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7618,
+    13.135,
+    123.7618,
+    13.135
+],
+  "geometry": {"coordinates":[123.76179999999999,13.135],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890450241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5511,13.2379,123.5511,13.2379",
+    "geom:latitude":13.2379,
+    "geom:longitude":123.5511,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3955,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Tuburan"
+    ],
+    "qs:name":"Tuburan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681061,
+        "gp:id":91421009,
+        "qs:id":86354,
+        "wk:page":"Tuburan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052731,
+    "wof:geomhash":"531cf3096ba1e4c9d5500a3b80f1bbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698083,
+            "locality_id":890450241,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":890450241,
+    "wof:lastmodified":1527792964,
+    "wof:name":"Tuburan",
+    "wof:parent_id":1108698083,
+    "wof:placetype":"locality",
+    "wof:population":3955,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5511,
+    13.2379,
+    123.5511,
+    13.2379
+],
+  "geometry": {"coordinates":[123.55110000000001,13.2379],"type":"Point"}
+}

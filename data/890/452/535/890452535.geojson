@@ -1,0 +1,69 @@
+{
+  "id": 890452535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.35694,8.94722,125.35694,8.94722",
+    "geom:latitude":8.94722,
+    "geom:longitude":125.35694,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2881,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kulit"
+    ],
+    "qs:name":"Culit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676213,
+        1108698557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708449,
+        "gp:id":91427473,
+        "qs:id":135159
+    },
+    "wof:country":"PH",
+    "wof:created":1469052821,
+    "wof:geomhash":"976175d66a787c507c322e058529296c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698557,
+            "locality_id":890452535,
+            "region_id":85676213
+        }
+    ],
+    "wof:id":890452535,
+    "wof:lastmodified":1505343646,
+    "wof:name":"Culit",
+    "wof:parent_id":1108698557,
+    "wof:placetype":"locality",
+    "wof:population":2881,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.35694,
+    8.94722,
+    125.35694,
+    8.94722
+],
+  "geometry": {"coordinates":[125.35693999999999,8.94722],"type":"Point"}
+}

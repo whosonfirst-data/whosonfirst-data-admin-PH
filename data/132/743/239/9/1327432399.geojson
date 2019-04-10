@@ -1,0 +1,81 @@
+{
+  "id": 1327432399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7596,15.63245,120.7596,15.63245",
+    "geom:latitude":15.63245,
+    "geom:longitude":120.7596,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34911000.0",
+    "gn:asciiname":"Bantug",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716991,
+    "gn:latitude":15.63245,
+    "gn:longitude":120.7596,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bantug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bantog"
+    ],
+    "name:fil_x_variant":[
+        "Concepcion",
+        "Bantug"
+    ],
+    "name:und_x_variant":[
+        "Concepcion",
+        "Bantog",
+        "Bantug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716991
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0816b59dce3314c98d3e5b7c7f472d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697683,
+            "locality_id":1327432399,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1327432399,
+    "wof:lastmodified":1537678291,
+    "wof:name":"Bantug",
+    "wof:parent_id":1108697683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7596,
+    15.63245,
+    120.7596,
+    15.63245
+],
+  "geometry": {"coordinates":[120.75960000000001,15.63245],"type":"Point"}
+}

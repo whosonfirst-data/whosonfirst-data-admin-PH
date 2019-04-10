@@ -1,0 +1,71 @@
+{
+  "id": 1293468143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7799,7.0649,125.7799,7.0649",
+    "geom:latitude":7.0649,
+    "geom:longitude":125.7799,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"17",
+    "gn:asciiname":"Libod",
+    "gn:country_code":"PH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546596,
+    "gn:latitude":7.0649,
+    "gn:longitude":125.7799,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Libod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Libod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108699097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546596
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d197172fa63448db7b492ebd91f116ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699097,
+            "locality_id":1293468143,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":1293468143,
+    "wof:lastmodified":1537678976,
+    "wof:name":"Libod",
+    "wof:parent_id":1108699097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7799,
+    7.0649,
+    125.7799,
+    7.0649
+],
+  "geometry": {"coordinates":[125.7799,7.0649],"type":"Point"}
+}

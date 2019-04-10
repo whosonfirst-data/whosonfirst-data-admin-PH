@@ -1,0 +1,72 @@
+{
+  "id": 1343791703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4678,10.79834,123.4678,10.79834",
+    "geom:latitude":10.79834,
+    "geom:longitude":123.4678,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64509000.0",
+    "gn:asciiname":"Sambulon",
+    "gn:country_code":"PH",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690608,
+    "gn:latitude":10.79834,
+    "gn:longitude":123.4678,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sambulon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sambulon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690608
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0a39e75cde47a6857055d8cbf451b822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697575,
+            "locality_id":1343791703,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1343791703,
+    "wof:lastmodified":1537677552,
+    "wof:name":"Sambulon",
+    "wof:parent_id":1108697575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4678,
+    10.79834,
+    123.4678,
+    10.79834
+],
+  "geometry": {"coordinates":[123.4678,10.79834],"type":"Point"}
+}

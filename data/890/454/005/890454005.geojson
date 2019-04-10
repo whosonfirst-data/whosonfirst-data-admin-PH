@@ -1,0 +1,71 @@
+{
+  "id": 890454005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.8759,9.2492,122.8759,9.2492",
+    "geom:latitude":9.2492,
+    "geom:longitude":122.8759,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5108,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nagbalaye"
+    ],
+    "name:unk_x_variant":[
+        "Nagbalayo"
+    ],
+    "qs:name":"Nagbalaye",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698777,
+        "qs:id":134775
+    },
+    "wof:country":"PH",
+    "wof:created":1469052881,
+    "wof:geomhash":"68becb33ad56b5fbf5e569fa3f2f6bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699343,
+            "locality_id":890454005,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890454005,
+    "wof:lastmodified":1505343654,
+    "wof:name":"Nagbalaye",
+    "wof:parent_id":1108699343,
+    "wof:placetype":"locality",
+    "wof:population":5108,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.8759,
+    9.2492,
+    122.8759,
+    9.2492
+],
+  "geometry": {"coordinates":[122.8759,9.2492],"type":"Point"}
+}

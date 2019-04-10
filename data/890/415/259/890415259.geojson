@@ -1,0 +1,70 @@
+{
+  "id": 890415259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33333,16.05,120.33333,16.05",
+    "geom:latitude":16.05,
+    "geom:longitude":120.33333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":140994,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Lungsod ng Dagupan"
+    ],
+    "name:unk_x_variant":[
+        "Dagupan"
+    ],
+    "qs:name":"Dagupan City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716190,
+        "qs:id":87949
+    },
+    "wof:country":"PH",
+    "wof:created":1469051080,
+    "wof:geomhash":"3331061b2dccf1fb9d2f4b7243f9e088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415259,
+            "region_id":85676365
+        }
+    ],
+    "wof:id":890415259,
+    "wof:lastmodified":1505343425,
+    "wof:name":"Dagupan City",
+    "wof:parent_id":85676365,
+    "wof:placetype":"county",
+    "wof:population":140994,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33333,
+    16.05,
+    120.33333,
+    16.05
+],
+  "geometry": {"coordinates":[120.33333,16.05],"type":"Point"}
+}

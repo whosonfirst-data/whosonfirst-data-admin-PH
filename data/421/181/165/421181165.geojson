@@ -1,0 +1,82 @@
+{
+  "id": 421181165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.16056,10.06,125.16056,10.06",
+    "geom:latitude":10.06,
+    "geom:longitude":125.16056,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPLA3",
+    "qs:gn_id":1690015,
+    "qs:gn_pop":2676,
+    "qs:name":"San Francisco",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Eastern Visayas",
+    "qs:photos":125,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":125,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":478820,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199737,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108699165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690015,
+        "gp:id":1199737,
+        "qs:id":478820,
+        "wd:id":"Q173745",
+        "wk:page":"San Francisco, Southern Leyte"
+    },
+    "wof:country":"PH",
+    "wof:created":1459009287,
+    "wof:geomhash":"cb060bfd9652d9aa303a1cf586e759ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699165,
+            "locality_id":421181165,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":421181165,
+    "wof:lastmodified":1527716326,
+    "wof:name":"San Francisco",
+    "wof:parent_id":1108699165,
+    "wof:placetype":"locality",
+    "wof:population":2676,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.16056,
+    10.06,
+    125.16056,
+    10.06
+],
+  "geometry": {"coordinates":[125.16056,10.06],"type":"Point"}
+}

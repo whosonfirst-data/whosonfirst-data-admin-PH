@@ -1,0 +1,71 @@
+{
+  "id": 890415503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.85056,9.51556,122.85056,9.51556",
+    "geom:latitude":9.51556,
+    "geom:longitude":122.85056,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5390,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Tabuan"
+    ],
+    "qs:name":"Tabuan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108696973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684853,
+        "gp:id":56121468,
+        "qs:id":134134,
+        "wk:page":"Tabuan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051091,
+    "wof:geomhash":"8368eef6b8de9fa2cadcb639225c7d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696973,
+            "locality_id":890415503,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890415503,
+    "wof:lastmodified":1527727236,
+    "wof:name":"Tabuan",
+    "wof:parent_id":1108696973,
+    "wof:placetype":"locality",
+    "wof:population":5390,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.85056,
+    9.51556,
+    122.85056,
+    9.51556
+],
+  "geometry": {"coordinates":[122.85056,9.51556],"type":"Point"}
+}

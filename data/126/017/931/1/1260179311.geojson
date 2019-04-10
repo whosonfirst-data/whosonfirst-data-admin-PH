@@ -1,0 +1,77 @@
+{
+  "id": 1260179311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7451,11.4322,122.7451,11.4322",
+    "geom:latitude":11.4322,
+    "geom:longitude":122.7451,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61910000.0",
+    "gn:asciiname":"Balatuuan",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728361,
+    "gn:latitude":11.4322,
+    "gn:longitude":122.7451,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balatuuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balatuuan"
+    ],
+    "name:und_x_variant":[
+        "Balatucan",
+        "Bala-lucan",
+        "Balucuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108698793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728361
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9bc0c576a586cb9c1b0774ae13db0d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698793,
+            "locality_id":1260179311,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1260179311,
+    "wof:lastmodified":1537678635,
+    "wof:name":"Balatuuan",
+    "wof:parent_id":1108698793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7451,
+    11.4322,
+    122.7451,
+    11.4322
+],
+  "geometry": {"coordinates":[122.74509999999999,11.4322],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209315437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.96917,15.50806,119.96917,15.50806",
+    "geom:latitude":15.50806,
+    "geom:longitude":119.96917,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37106000.0",
+    "gn:asciiname":"Mapait",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701318,
+    "gn:latitude":15.50806,
+    "gn:longitude":119.96917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mapait",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mapait"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701318
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"613b66acbd7fb235c2bbcdd770231e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209315437
+        }
+    ],
+    "wof:id":1209315437,
+    "wof:lastmodified":1537677851,
+    "wof:name":"Mapait",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.96917,
+    15.50806,
+    119.96917,
+    15.50806
+],
+  "geometry": {"coordinates":[119.96917000000001,15.50806],"type":"Point"}
+}

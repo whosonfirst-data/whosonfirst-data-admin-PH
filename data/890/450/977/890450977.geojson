@@ -1,0 +1,74 @@
+{
+  "id": 890450977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3938,10.78094,123.3938,10.78094",
+    "geom:latitude":10.78094,
+    "geom:longitude":123.3938,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4441,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maquiling"
+    ],
+    "name:unk_x_variant":[
+        "Maguiling"
+    ],
+    "qs:name":"Maquiling",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":49,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701195,
+        "gp:id":91424218,
+        "qs:id":87281,
+        "wk:page":"Makiling"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052760,
+    "wof:geomhash":"34faccf67739cf05010890dcbc92df01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697575,
+            "locality_id":890450977,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890450977,
+    "wof:lastmodified":1527792962,
+    "wof:name":"Maquiling",
+    "wof:parent_id":1108697575,
+    "wof:placetype":"locality",
+    "wof:population":4441,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3938,
+    10.78094,
+    123.3938,
+    10.78094
+],
+  "geometry": {"coordinates":[123.3938,10.78094],"type":"Point"}
+}

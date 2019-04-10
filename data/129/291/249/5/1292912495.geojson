@@ -1,0 +1,71 @@
+{
+  "id": 1292912495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.76667,16.01667,119.76667,16.01667",
+    "geom:latitude":16.01667,
+    "geom:longitude":119.76667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:asciiname":"Porac",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692913,
+    "gn:latitude":16.01667,
+    "gn:longitude":119.76667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Porac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Porac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692913
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0c92456ec6bc1f6c58195ba2a2bb1132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696567,
+            "locality_id":1292912495,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1292912495,
+    "wof:lastmodified":1537677613,
+    "wof:name":"Porac",
+    "wof:parent_id":1108696567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.76667,
+    16.01667,
+    119.76667,
+    16.01667
+],
+  "geometry": {"coordinates":[119.76667,16.01667],"type":"Point"}
+}

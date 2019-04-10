@@ -1,0 +1,72 @@
+{
+  "id": 890434201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.56222,8.5375,124.56222,8.5375",
+    "geom:latitude":8.5375,
+    "geom:longitude":124.56222,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":8043,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Molugan"
+    ],
+    "name:unk_x_variant":[
+        "Malugan"
+    ],
+    "qs:name":"Molugan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108697565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699366,
+        "gp:id":1183576,
+        "qs:id":134799
+    },
+    "wof:country":"PH",
+    "wof:created":1469052015,
+    "wof:geomhash":"db5ae95a1114222650fd29de48340133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697565,
+            "locality_id":890434201,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":890434201,
+    "wof:lastmodified":1505343540,
+    "wof:name":"Molugan",
+    "wof:parent_id":1108697565,
+    "wof:placetype":"locality",
+    "wof:population":8043,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.56222,
+    8.5375,
+    124.56222,
+    8.5375
+],
+  "geometry": {"coordinates":[124.56222,8.5375],"type":"Point"}
+}

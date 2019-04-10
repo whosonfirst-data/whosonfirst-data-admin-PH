@@ -1,0 +1,66 @@
+{
+  "id": 1209219195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0756,12.601,124.0756,12.601",
+    "geom:latitude":12.601,
+    "geom:longitude":124.0756,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56212000.0",
+    "gn:asciiname":"Calibag",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720359,
+    "gn:latitude":12.601,
+    "gn:longitude":124.0756,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calibag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calibag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720359
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c6b1267aab7911f44e5a2bc9592d9790",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209219195
+        }
+    ],
+    "wof:id":1209219195,
+    "wof:lastmodified":1537678393,
+    "wof:name":"Calibag",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0756,
+    12.601,
+    124.0756,
+    12.601
+],
+  "geometry": {"coordinates":[124.07559999999999,12.601],"type":"Point"}
+}

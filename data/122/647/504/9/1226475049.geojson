@@ -1,0 +1,76 @@
+{
+  "id": 1226475049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0627,9.5788,123.0627,9.5788",
+    "geom:latitude":9.5788,
+    "geom:longitude":123.0627,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74604000.0",
+    "gn:asciiname":"Padre Zamora",
+    "gn:country_code":"PH",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696739,
+    "gn:latitude":9.5788,
+    "gn:longitude":123.0627,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Padre Zamora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Padre Zamora"
+    ],
+    "name:und_x_variant":[
+        "P. Zamora",
+        "Zamora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        890451429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696739
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cb1e53607d25ab479847922d7087146f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890451429,
+            "locality_id":1226475049,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1226475049,
+    "wof:lastmodified":1537677722,
+    "wof:name":"Padre Zamora",
+    "wof:parent_id":890451429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0627,
+    9.5788,
+    123.0627,
+    9.5788
+],
+  "geometry": {"coordinates":[123.06270000000001,9.5788],"type":"Point"}
+}

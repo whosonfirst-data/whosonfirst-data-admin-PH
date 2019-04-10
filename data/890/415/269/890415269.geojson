@@ -1,0 +1,68 @@
+{
+  "id": 890415269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.06667,15.0,121.06667,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":121.06667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":35976,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Carranglan"
+    ],
+    "qs:name":"Carranglan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135,
+        1108699305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718267,
+        "qs:id":88025
+    },
+    "wof:country":"PH",
+    "wof:created":1469051080,
+    "wof:geomhash":"4021e0e50df135572f137f26727d209a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699305,
+            "localadmin_id":890415269,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":890415269,
+    "wof:lastmodified":1505343425,
+    "wof:name":"Carranglan",
+    "wof:parent_id":1108699305,
+    "wof:placetype":"localadmin",
+    "wof:population":35976,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.06667,
+    15.0,
+    121.06667,
+    15.0
+],
+  "geometry": {"coordinates":[121.06667,15.0],"type":"Point"}
+}

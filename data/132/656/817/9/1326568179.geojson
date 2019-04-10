@@ -1,0 +1,78 @@
+{
+  "id": 1326568179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.20576,14.17935,121.20576,14.17935",
+    "geom:latitude":14.17935,
+    "geom:longitude":121.20576,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"43411000.0",
+    "gn:asciiname":"Tadlak",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684670,
+    "gn:latitude":14.17935,
+    "gn:longitude":121.20576,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tadlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tarlac"
+    ],
+    "name:und_x_variant":[
+        "Tarlac",
+        "Tadlok",
+        "Tadloc",
+        "Tadlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108698127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684670
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"80d4c5e38c06c7bfcfbf1c3fa4e66046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698127,
+            "locality_id":1326568179,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":1326568179,
+    "wof:lastmodified":1537677377,
+    "wof:name":"Tadlak",
+    "wof:parent_id":1108698127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.20576,
+    14.17935,
+    121.20576,
+    14.17935
+],
+  "geometry": {"coordinates":[121.20576,14.17935],"type":"Point"}
+}

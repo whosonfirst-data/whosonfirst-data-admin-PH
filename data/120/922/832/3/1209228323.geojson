@@ -1,0 +1,63 @@
+{
+  "id": 1209228323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44568,15.8102,120.44568,15.8102",
+    "geom:latitude":15.8102,
+    "geom:longitude":120.44568,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15511000.0",
+    "gn:asciiname":"Magsaysay",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442811,
+    "gn:latitude":15.8102,
+    "gn:longitude":120.44568,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Magsaysay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442811
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5f027385dc045c9793e9d4af023c97c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209228323
+        }
+    ],
+    "wof:id":1209228323,
+    "wof:lastmodified":1536293722,
+    "wof:name":"Magsaysay",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44568,
+    15.8102,
+    120.44568,
+    15.8102
+],
+  "geometry": {"coordinates":[120.44568,15.8102],"type":"Point"}
+}

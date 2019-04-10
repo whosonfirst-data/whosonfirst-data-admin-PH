@@ -1,0 +1,75 @@
+{
+  "id": 1360280399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.05121,11.32771,122.05121,11.32771",
+    "geom:latitude":11.32771,
+    "geom:longitude":122.05121,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60617000.0",
+    "gn:asciiname":"Manginta-as",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703868,
+    "gn:latitude":11.32771,
+    "gn:longitude":122.05121,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manginta-as",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Manginta-as"
+    ],
+    "name:und_x_variant":[
+        "Magintaas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703868
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b5f81c62851d4bfcc76b96233b8dad95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699725,
+            "locality_id":1360280399,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1360280399,
+    "wof:lastmodified":1537677923,
+    "wof:name":"Manginta-as",
+    "wof:parent_id":1108699725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.05121,
+    11.32771,
+    122.05121,
+    11.32771
+],
+  "geometry": {"coordinates":[122.05121,11.32771],"type":"Point"}
+}

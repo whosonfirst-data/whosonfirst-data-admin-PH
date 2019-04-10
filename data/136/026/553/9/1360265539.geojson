@@ -1,0 +1,74 @@
+{
+  "id": 1360265539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.67167,7.35028,125.67167,7.35028",
+    "geom:latitude":7.35028,
+    "geom:longitude":125.67167,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"112303000.0",
+    "gn:asciiname":"Sibulano",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717504,
+    "gn:latitude":7.35028,
+    "gn:longitude":125.67167,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sibulano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cebulano",
+        "Sibulano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108697297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717504
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1587fe3418000bcbbe8d33136a7d137e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697297,
+            "locality_id":1360265539,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":1360265539,
+    "wof:lastmodified":1537678304,
+    "wof:name":"Sibulano",
+    "wof:parent_id":1108697297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.67167,
+    7.35028,
+    125.67167,
+    7.35028
+],
+  "geometry": {"coordinates":[125.67167000000001,7.35028],"type":"Point"}
+}

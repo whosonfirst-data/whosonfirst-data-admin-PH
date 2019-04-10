@@ -1,0 +1,69 @@
+{
+  "id": 890416299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75,16.48333,120.75,16.48333",
+    "geom:latitude":16.48333,
+    "geom:longitude":120.75,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2822,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ambuklao"
+    ],
+    "qs:name":"Ambuclao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676111,
+        1108697035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731090,
+        "gp:id":1176990,
+        "qs:id":136055
+    },
+    "wof:country":"PH",
+    "wof:created":1469051128,
+    "wof:geomhash":"a0e108c452512d9daaaca495228ac2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697035,
+            "locality_id":890416299,
+            "region_id":85676111
+        }
+    ],
+    "wof:id":890416299,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Ambuclao",
+    "wof:parent_id":1108697035,
+    "wof:placetype":"locality",
+    "wof:population":2822,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75,
+    16.48333,
+    120.75,
+    16.48333
+],
+  "geometry": {"coordinates":[120.75,16.48333],"type":"Point"}
+}

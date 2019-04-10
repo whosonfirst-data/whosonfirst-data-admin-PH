@@ -1,0 +1,66 @@
+{
+  "id": 1209344261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.06667,13.31667,121.06667,13.31667",
+    "geom:latitude":13.31667,
+    "geom:longitude":121.06667,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"175201000.0",
+    "gn:asciiname":"Sinunoc",
+    "gn:country_code":"PH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686132,
+    "gn:latitude":13.31667,
+    "gn:longitude":121.06667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sinunoc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sinunoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686132
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a3cfe7e7b1c777c9eb13667582f8e18b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209344261
+        }
+    ],
+    "wof:id":1209344261,
+    "wof:lastmodified":1537677416,
+    "wof:name":"Sinunoc",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.06667,
+    13.31667,
+    121.06667,
+    13.31667
+],
+  "geometry": {"coordinates":[121.06667,13.31667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242906279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.00611,12.11666,122.00611,12.11666",
+    "geom:latitude":12.11666,
+    "geom:longitude":122.00611,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"54",
+    "gn:admin3_code":"175915000.0",
+    "gn:asciiname":"Agnianic",
+    "gn:country_code":"PH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732026,
+    "gn:latitude":12.11666,
+    "gn:longitude":122.00611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agnianic",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Agnianic"
+    ],
+    "name:und_x_variant":[
+        "Agmanic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676007,
+        1108699365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732026
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"60f262ed491e6ded26d25a71bd12767f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699365,
+            "locality_id":1242906279,
+            "region_id":85676007
+        }
+    ],
+    "wof:id":1242906279,
+    "wof:lastmodified":1537678740,
+    "wof:name":"Agnianic",
+    "wof:parent_id":1108699365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.00611,
+    12.11666,
+    122.00611,
+    12.11666
+],
+  "geometry": {"coordinates":[122.00611000000001,12.11666],"type":"Point"}
+}

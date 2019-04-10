@@ -1,0 +1,69 @@
+{
+  "id": 1344160393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.94501,16.40429,119.94501,16.40429",
+    "geom:latitude":16.40429,
+    "geom:longitude":119.94501,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15514000.0",
+    "gn:asciiname":"Maycauayan",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473569,
+    "gn:latitude":16.40429,
+    "gn:longitude":119.94501,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maycauayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473569
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"53fe799dca5286748e3efdd25cc84f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698649,
+            "locality_id":1344160393,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1344160393,
+    "wof:lastmodified":1536731643,
+    "wof:name":"Maycauayan",
+    "wof:parent_id":1108698649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.94501,
+    16.40429,
+    119.94501,
+    16.40429
+],
+  "geometry": {"coordinates":[119.94501,16.40429],"type":"Point"}
+}

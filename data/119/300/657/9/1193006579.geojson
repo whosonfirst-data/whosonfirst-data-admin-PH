@@ -1,0 +1,72 @@
+{
+  "id": 1193006579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6886,9.2384,124.6886,9.2384",
+    "geom:latitude":9.2384,
+    "geom:longitude":124.6886,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"17",
+    "gn:admin3_code":"101804000.0",
+    "gn:asciiname":"Tagdo",
+    "gn:country_code":"PH",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684452,
+    "gn:latitude":9.2384,
+    "gn:longitude":124.6886,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tagdo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagdo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676225,
+        1108698331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684452
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"beccaf23ac8960c2ef1c95d949132ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698331,
+            "locality_id":1193006579,
+            "region_id":85676225
+        }
+    ],
+    "wof:id":1193006579,
+    "wof:lastmodified":1537677371,
+    "wof:name":"Tagdo",
+    "wof:parent_id":1108698331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6886,
+    9.2384,
+    124.6886,
+    9.2384
+],
+  "geometry": {"coordinates":[124.68859999999999,9.2384],"type":"Point"}
+}

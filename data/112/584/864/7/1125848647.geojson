@@ -1,0 +1,81 @@
+{
+  "id": 1125848647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5,13.4,122.5,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":122.5,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2549,
+    "gn:population":2549,
+    "iso:country":"PH",
+    "lbl:latitude":13.4,
+    "lbl:longitude":122.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bosdak"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1723877,
+    "qs_pg:gn_pop":2549,
+    "qs_pg:name":"Bosdak",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88232,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723877,
+        "qs_pg:id":88232
+    },
+    "wof:country":"PH",
+    "wof:created":1497293287,
+    "wof:geomhash":"ffc70c340ad370d2ac997b89736f5989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699163,
+            "locality_id":1125848647,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1125848647,
+    "wof:lastmodified":1509395792,
+    "wof:name":"Bosdak",
+    "wof:parent_id":1108699163,
+    "wof:placetype":"locality",
+    "wof:population":2549,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5,
+    13.4,
+    122.5,
+    13.4
+],
+  "geometry": {"coordinates":[122.5,13.4],"type":"Point"}
+}

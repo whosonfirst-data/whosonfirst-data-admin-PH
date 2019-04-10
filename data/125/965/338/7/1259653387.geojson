@@ -1,0 +1,72 @@
+{
+  "id": 1259653387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5132,17.5187,120.5132,17.5187",
+    "geom:latitude":17.5187,
+    "geom:longitude":120.5132,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140123000.0",
+    "gn:asciiname":"Bidal",
+    "gn:country_code":"PH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725424,
+    "gn:latitude":17.5187,
+    "gn:longitude":120.5132,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bidal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bidal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108699301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725424
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"577063b651a9492b76499b9a3fb526a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699301,
+            "locality_id":1259653387,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1259653387,
+    "wof:lastmodified":1537678546,
+    "wof:name":"Bidal",
+    "wof:parent_id":1108699301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5132,
+    17.5187,
+    120.5132,
+    17.5187
+],
+  "geometry": {"coordinates":[120.5132,17.5187],"type":"Point"}
+}

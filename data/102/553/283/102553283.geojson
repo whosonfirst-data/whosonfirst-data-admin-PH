@@ -1,0 +1,86 @@
+{
+  "id": 102553283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.605003,13.2081,120.605003,13.2081",
+    "geom:latitude":13.2081,
+    "geom:longitude":120.605003,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mamburao Airport"
+    ],
+    "name:eng_x_variant":[
+        "MBO",
+        "RPUM"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30d6\u30e9\u30aa\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang Mamburao"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Mamburao"
+    ],
+    "oa:elevation_ft":"13",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":154,
+    "woe:hierarchy":{
+        "country_id":23424934,
+        "county_id":2346695,
+        "planet_id":1,
+        "state_id":23424719
+    },
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108698333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12515632,
+        "iata:code":"MBO",
+        "icao:code":"RPUM",
+        "oa:id":"5721",
+        "wd:id":"Q6745561"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5b63fa720e6db18412bdc7981f387c54",
+    "wof:hierarchy":[
+        {
+            "campus_id":102553283,
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698333,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":102553283,
+    "wof:lastmodified":1527637387,
+    "wof:name":"Mamburao Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    120.605003,
+    13.2081,
+    120.605003,
+    13.2081
+],
+  "geometry": {"coordinates":[120.605003,13.2081],"type":"Point"}
+}

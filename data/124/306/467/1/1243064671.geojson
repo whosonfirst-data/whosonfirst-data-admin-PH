@@ -1,0 +1,68 @@
+{
+  "id": 1243064671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.88333,11.7,124.88333,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":124.88333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:asciiname":"Majaba",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703463,
+    "gn:latitude":11.7,
+    "gn:longitude":124.88333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Majaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Majaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703463
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d9ba8bb3990959e4678696949eb5f98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1243064671,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243064671,
+    "wof:lastmodified":1537677911,
+    "wof:name":"Majaba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.88333,
+    11.7,
+    124.88333,
+    11.7
+],
+  "geometry": {"coordinates":[124.88333,11.7],"type":"Point"}
+}

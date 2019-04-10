@@ -1,0 +1,68 @@
+{
+  "id": 890451341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8858,15.9065,119.8858,15.9065",
+    "geom:latitude":15.9065,
+    "geom:longitude":119.8858,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3033,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Eguia"
+    ],
+    "qs:name":"Eguia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713947,
+        "qs:id":87843
+    },
+    "wof:country":"PH",
+    "wof:created":1469052775,
+    "wof:geomhash":"9feec2f5b1e31adc290011b103b8a5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698649,
+            "locality_id":890451341,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890451341,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Eguia",
+    "wof:parent_id":1108698649,
+    "wof:placetype":"locality",
+    "wof:population":3033,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8858,
+    15.9065,
+    119.8858,
+    15.9065
+],
+  "geometry": {"coordinates":[119.8858,15.9065],"type":"Point"}
+}

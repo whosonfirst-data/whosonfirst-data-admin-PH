@@ -1,0 +1,63 @@
+{
+  "id": 1209524549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.90327,16.3881,119.90327,16.3881",
+    "geom:latitude":16.3881,
+    "geom:longitude":119.90327,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15514000.0",
+    "gn:asciiname":"Pescador",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8473581,
+    "gn:latitude":16.3881,
+    "gn:longitude":119.90327,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pescador",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8473581
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a2757c74bb194721acc25f08de42f984",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209524549
+        }
+    ],
+    "wof:id":1209524549,
+    "wof:lastmodified":1536284472,
+    "wof:name":"Pescador",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.90327,
+    16.3881,
+    119.90327,
+    16.3881
+],
+  "geometry": {"coordinates":[119.90327000000001,16.3881],"type":"Point"}
+}

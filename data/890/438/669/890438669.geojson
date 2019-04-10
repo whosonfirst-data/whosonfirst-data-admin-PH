@@ -1,0 +1,72 @@
+{
+  "id": 890438669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0005,10.425,124.0005,10.425",
+    "geom:latitude":10.425,
+    "geom:longitude":124.0005,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4067,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kotkot"
+    ],
+    "name:unk_x_variant":[
+        "Cotcot"
+    ],
+    "qs:name":"Kotkot",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716762,
+        "gp:id":1175355,
+        "qs:id":1032872
+    },
+    "wof:country":"PH",
+    "wof:created":1469052205,
+    "wof:geomhash":"2dc0dcffba0ddcaf0e97afae4ffa459f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697369,
+            "locality_id":890438669,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890438669,
+    "wof:lastmodified":1505343566,
+    "wof:name":"Kotkot",
+    "wof:parent_id":1108697369,
+    "wof:placetype":"locality",
+    "wof:population":4067,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0005,
+    10.425,
+    124.0005,
+    10.425
+],
+  "geometry": {"coordinates":[124.0005,10.425],"type":"Point"}
+}

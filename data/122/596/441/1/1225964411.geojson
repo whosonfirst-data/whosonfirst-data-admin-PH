@@ -1,0 +1,72 @@
+{
+  "id": 1225964411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.40506,10.63383,124.40506,10.63383",
+    "geom:latitude":10.63383,
+    "geom:longitude":124.40506,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72238000.0",
+    "gn:asciiname":"Eastern Poblacion",
+    "gn:country_code":"PH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7492048,
+    "gn:latitude":10.63383,
+    "gn:longitude":124.40506,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Eastern Poblacion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eastern Poblacion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7492048
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"def58750c536c9c39b8488f15a667407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698607,
+            "locality_id":1225964411,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1225964411,
+    "wof:lastmodified":1537678957,
+    "wof:name":"Eastern Poblacion",
+    "wof:parent_id":1108698607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.40506,
+    10.63383,
+    124.40506,
+    10.63383
+],
+  "geometry": {"coordinates":[124.40506000000001,10.63383],"type":"Point"}
+}

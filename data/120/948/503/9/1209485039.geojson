@@ -1,0 +1,66 @@
+{
+  "id": 1209485039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6716,17.6195,120.6716,17.6195",
+    "geom:latitude":17.6195,
+    "geom:longitude":120.6716,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140124000.0",
+    "gn:asciiname":"Gingad",
+    "gn:country_code":"PH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427983,
+    "gn:latitude":17.6195,
+    "gn:longitude":120.6716,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gingad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gingad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427983
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"09236105d72ca4e6059a2bbccf6b2617",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209485039
+        }
+    ],
+    "wof:id":1209485039,
+    "wof:lastmodified":1537678917,
+    "wof:name":"Gingad",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6716,
+    17.6195,
+    120.6716,
+    17.6195
+],
+  "geometry": {"coordinates":[120.6716,17.6195],"type":"Point"}
+}

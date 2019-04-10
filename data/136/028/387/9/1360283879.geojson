@@ -1,0 +1,72 @@
+{
+  "id": 1360283879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.16667,13.56667,123.16667,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":123.16667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51732000.0",
+    "gn:asciiname":"Mayaopayauan",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700065,
+    "gn:latitude":13.56667,
+    "gn:longitude":123.16667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mayaopayauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mayaopayauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700065
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7ccefe24b231a2c3798742f5f2f0246c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698483,
+            "locality_id":1360283879,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1360283879,
+    "wof:lastmodified":1537677818,
+    "wof:name":"Mayaopayauan",
+    "wof:parent_id":1108698483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.16667,
+    13.56667,
+    123.16667,
+    13.56667
+],
+  "geometry": {"coordinates":[123.16667,13.56667],"type":"Point"}
+}

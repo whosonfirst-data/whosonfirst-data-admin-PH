@@ -1,0 +1,72 @@
+{
+  "id": 1226519621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7075,7.12167,125.7075,7.12167",
+    "geom:latitude":7.12167,
+    "geom:longitude":125.7075,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"112317000.0",
+    "gn:asciiname":"San Augstin",
+    "gn:country_code":"PH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690272,
+    "gn:latitude":7.12167,
+    "gn:longitude":125.7075,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Augstin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Augstin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108696733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690272
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8af3fb8ebea3686d09d10ee9a4771020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696733,
+            "locality_id":1226519621,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":1226519621,
+    "wof:lastmodified":1537677541,
+    "wof:name":"San Augstin",
+    "wof:parent_id":1108696733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7075,
+    7.12167,
+    125.7075,
+    7.12167
+],
+  "geometry": {"coordinates":[125.7075,7.12167],"type":"Point"}
+}

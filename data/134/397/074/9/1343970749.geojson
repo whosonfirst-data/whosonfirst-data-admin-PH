@@ -1,0 +1,74 @@
+{
+  "id": 1343970749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60139,17.92167,121.60139,17.92167",
+    "geom:latitude":17.92167,
+    "geom:longitude":121.60139,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21526000.0",
+    "gn:asciiname":"San Manuel",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689104,
+    "gn:latitude":17.92167,
+    "gn:longitude":121.60139,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Manuel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Munuel",
+        "San Manuel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108699423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689104
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a179224e59e70a61a12e6c616c3a386f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699423,
+            "locality_id":1343970749,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1343970749,
+    "wof:lastmodified":1537677504,
+    "wof:name":"San Manuel",
+    "wof:parent_id":1108699423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60139,
+    17.92167000000001,
+    121.60139,
+    17.92167000000001
+],
+  "geometry": {"coordinates":[121.60138999999999,17.92167000000001],"type":"Point"}
+}

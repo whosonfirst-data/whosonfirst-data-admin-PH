@@ -1,0 +1,73 @@
+{
+  "id": 1193130115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4807,12.4845,123.4807,12.4845",
+    "geom:latitude":12.4845,
+    "geom:longitude":123.4807,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54102000.0",
+    "gn:asciiname":"Gumaca",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712163,
+    "gn:latitude":12.4845,
+    "gn:longitude":123.4807,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gumaca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gumaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712163
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"81288ab59f45f585f95e277e39c64038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696825,
+            "locality_id":1193130115,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1193130115,
+    "wof:lastmodified":1537678158,
+    "wof:name":"Gumaca",
+    "wof:parent_id":1108696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4807,
+    12.4845,
+    123.4807,
+    12.4845
+],
+  "geometry": {"coordinates":[123.4807,12.4845],"type":"Point"}
+}

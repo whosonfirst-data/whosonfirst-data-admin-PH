@@ -1,0 +1,92 @@
+{
+  "id": 1126105297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.01667,14.6,121.01667,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":121.01667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"PH",
+    "lbl:latitude":14.6,
+    "lbl:longitude":121.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1683052,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Tanque",
+    "qs_pg:name_adm0":"Philippines",
+    "qs_pg:name_adm1":"National Capital Region",
+    "qs_pg:photos":3789,
+    "qs_pg:photos_1k":768,
+    "qs_pg:photos_9k":17,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":3789,
+    "qs_pg:photos_sr":21,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":432740,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424934,
+    "qs_pg:woe_id":1195993,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424934,
+    "woe:name_adm0":"Philippines",
+    "woe:name_adm1":"National Capital Region",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        1159397249,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683052,
+        "gp:id":1195993,
+        "qs_pg:id":432740
+    },
+    "wof:country":"PH",
+    "wof:created":1497316818,
+    "wof:geomhash":"763765330b22c1a8c2c7e4431489bbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1159397249,
+            "neighbourhood_id":1126105297,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1126105297,
+    "wof:lastmodified":1534379405,
+    "wof:name":"Tanque",
+    "wof:parent_id":1159397249,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[
+        85902805
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.01667,
+    14.6,
+    121.01667,
+    14.6
+],
+  "geometry": {"coordinates":[121.01667,14.6],"type":"Point"}
+}

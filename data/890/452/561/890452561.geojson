@@ -1,0 +1,69 @@
+{
+  "id": 890452561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.294,13.49,123.294,13.49",
+    "geom:latitude":13.49,
+    "geom:longitude":123.294,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3641,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Fabrica"
+    ],
+    "qs:name":"Fabrica",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713690,
+        "gp:id":1192390,
+        "qs:id":135355
+    },
+    "wof:country":"PH",
+    "wof:created":1469052822,
+    "wof:geomhash":"cf54b1aeb26a1a6d7b193823fd02dd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697099,
+            "locality_id":890452561,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890452561,
+    "wof:lastmodified":1505343646,
+    "wof:name":"Fabrica",
+    "wof:parent_id":1108697099,
+    "wof:placetype":"locality",
+    "wof:population":3641,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.294,
+    13.49,
+    123.294,
+    13.49
+],
+  "geometry": {"coordinates":[123.294,13.49],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209211427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8004,9.7601,123.8004,9.7601",
+    "geom:latitude":9.7601,
+    "geom:longitude":123.8004,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71230000.0",
+    "gn:asciiname":"Cabadog",
+    "gn:country_code":"PH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722013,
+    "gn:latitude":9.7601,
+    "gn:longitude":123.8004,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabadog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabadog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722013
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1eafcc1d890a30f46dc5fd22eb1da033",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209211427
+        }
+    ],
+    "wof:id":1209211427,
+    "wof:lastmodified":1537678444,
+    "wof:name":"Cabadog",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8004,
+    9.7601,
+    123.8004,
+    9.7601
+],
+  "geometry": {"coordinates":[123.8004,9.7601],"type":"Point"}
+}

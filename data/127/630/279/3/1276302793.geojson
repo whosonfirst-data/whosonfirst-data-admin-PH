@@ -1,0 +1,77 @@
+{
+  "id": 1276302793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.881,5.706,120.881,5.706",
+    "geom:latitude":5.706,
+    "geom:longitude":120.881,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156614000.0",
+    "gn:asciiname":"Banting",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682894,
+    "gn:latitude":5.706,
+    "gn:longitude":120.881,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Banting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Banting"
+    ],
+    "name:und_x_variant":[
+        "Tapu",
+        "Tapul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108699691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682894,
+        "wk:page":"Tapul%2C_Sulu"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"205bee74d2dd13280b0729a381833a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699691,
+            "locality_id":1276302793,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1276302793,
+    "wof:lastmodified":1537677328,
+    "wof:name":"Banting",
+    "wof:parent_id":1108699691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.881,
+    5.706,
+    120.881,
+    5.706
+],
+  "geometry": {"coordinates":[120.881,5.706],"type":"Point"}
+}

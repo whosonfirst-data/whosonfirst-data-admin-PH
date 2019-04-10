@@ -1,0 +1,81 @@
+{
+  "id": 1125412699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.48333,11.56667,122.48333,11.56667",
+    "geom:latitude":11.56667,
+    "geom:longitude":122.48333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":36025,
+    "gn:population":36025,
+    "iso:country":"PH",
+    "lbl:latitude":11.56667,
+    "lbl:longitude":122.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "New Washington"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1697735,
+    "qs_pg:gn_pop":36025,
+    "qs_pg:name":"New Washington",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":87147,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697735,
+        "qs_pg:id":87147
+    },
+    "wof:country":"PH",
+    "wof:created":1497050694,
+    "wof:geomhash":"770cbb94aa33208fb5aead5e9183f87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698577,
+            "localadmin_id":1125412699,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1125412699,
+    "wof:lastmodified":1509390303,
+    "wof:name":"New Washington",
+    "wof:parent_id":1108698577,
+    "wof:placetype":"localadmin",
+    "wof:population":36025,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.48333,
+    11.56667,
+    122.48333,
+    11.56667
+],
+  "geometry": {"coordinates":[122.48333,11.56667],"type":"Point"}
+}

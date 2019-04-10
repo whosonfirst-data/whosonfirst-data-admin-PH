@@ -1,0 +1,72 @@
+{
+  "id": 890444095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2925,13.9039,123.2925,13.9039",
+    "geom:latitude":13.9039,
+    "geom:longitude":123.2925,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2738,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kaliliog"
+    ],
+    "name:unk_x_variant":[
+        "Kagliliog"
+    ],
+    "qs:name":"Kaliliog",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720988,
+        "gp:id":1167075,
+        "qs:id":1032962
+    },
+    "wof:country":"PH",
+    "wof:created":1469052450,
+    "wof:geomhash":"9cdff19cfb9c4ed240bf7917401a1f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698601,
+            "locality_id":890444095,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890444095,
+    "wof:lastmodified":1505343597,
+    "wof:name":"Kaliliog",
+    "wof:parent_id":1108698601,
+    "wof:placetype":"locality",
+    "wof:population":2738,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2925,
+    13.9039,
+    123.2925,
+    13.9039
+],
+  "geometry": {"coordinates":[123.2925,13.9039],"type":"Point"}
+}

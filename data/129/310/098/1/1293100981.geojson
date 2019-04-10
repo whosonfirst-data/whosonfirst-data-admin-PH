@@ -1,0 +1,72 @@
+{
+  "id": 1293100981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.55718,17.80266,121.55718,17.80266",
+    "geom:latitude":17.80266,
+    "geom:longitude":121.55718,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21526000.0",
+    "gn:asciiname":"Campo",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719581,
+    "gn:latitude":17.80266,
+    "gn:longitude":121.55718,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Campo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Campo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108699423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719581
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1bbf6fb41aac3b7f4c6499691bfdce7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699423,
+            "locality_id":1293100981,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1293100981,
+    "wof:lastmodified":1537678368,
+    "wof:name":"Campo",
+    "wof:parent_id":1108699423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.55718,
+    17.80266,
+    121.55718,
+    17.80266
+],
+  "geometry": {"coordinates":[121.55718,17.80266],"type":"Point"}
+}

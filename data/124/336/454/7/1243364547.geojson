@@ -1,0 +1,79 @@
+{
+  "id": 1243364547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6978,15.6719,120.6978,15.6719",
+    "geom:latitude":15.6719,
+    "geom:longitude":120.6978,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34911000.0",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690481,
+    "gn:latitude":15.6719,
+    "gn:longitude":120.6978,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Agustin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Agustin"
+    ],
+    "name:fil_x_variant":[
+        "San Augustin"
+    ],
+    "name:und_x_variant":[
+        "San Augustin",
+        "San Agustin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690481
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b17d72011fb8236337bbc196ce422b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697683,
+            "locality_id":1243364547,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1243364547,
+    "wof:lastmodified":1537677548,
+    "wof:name":"San Agustin",
+    "wof:parent_id":1108697683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6978,
+    15.6719,
+    120.6978,
+    15.6719
+],
+  "geometry": {"coordinates":[120.6978,15.6719],"type":"Point"}
+}

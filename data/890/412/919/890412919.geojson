@@ -1,0 +1,65 @@
+{
+  "id": 890412919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.63083,11.15083,124.63083,11.15083",
+    "geom:latitude":11.15083,
+    "geom:longitude":124.63083,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2137,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Lim-oo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108697887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966352,
+        "qs:id":569689
+    },
+    "wof:country":"PH",
+    "wof:created":1469050981,
+    "wof:geomhash":"68cd422b2324ffc1b51573d30fbe44bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697887,
+            "locality_id":890412919,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":890412919,
+    "wof:lastmodified":1505343411,
+    "wof:name":"Lim-oo",
+    "wof:parent_id":1108697887,
+    "wof:placetype":"locality",
+    "wof:population":2137,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.63083,
+    11.15083,
+    124.63083,
+    11.15083
+],
+  "geometry": {"coordinates":[124.63083,11.15083],"type":"Point"}
+}

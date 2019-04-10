@@ -1,0 +1,73 @@
+{
+  "id": 1226328175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.40611,9.97556,123.40611,9.97556",
+    "geom:latitude":9.97556,
+    "geom:longitude":123.40611,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72201000.0",
+    "gn:asciiname":"Alcantara",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1731594,
+    "gn:latitude":9.97556,
+    "gn:longitude":123.40611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alcantara",
+    "gn:population":4447,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731594,
+        "wk:page":"Alcantara%2C_Cebu"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"47323b260362a31ed754c4ed05f506e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696607,
+            "locality_id":1226328175,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1226328175,
+    "wof:lastmodified":1537570576,
+    "wof:name":"Alcantara",
+    "wof:parent_id":1108696607,
+    "wof:placetype":"locality",
+    "wof:population":4447,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.40611,
+    9.97556,
+    123.40611,
+    9.97556
+],
+  "geometry": {"coordinates":[123.40611,9.97556],"type":"Point"}
+}

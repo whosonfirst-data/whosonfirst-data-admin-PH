@@ -1,0 +1,75 @@
+{
+  "id": 1259459417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.72687,6.67899,124.72687,6.67899",
+    "geom:latitude":6.67899,
+    "geom:longitude":124.72687,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:admin3_code":"126511000.0",
+    "gn:asciiname":"Kalandagan",
+    "gn:country_code":"PH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680218,
+    "gn:latitude":6.67899,
+    "gn:longitude":124.72687,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kalandagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Upper Kalandagan"
+    ],
+    "name:fil_x_variant":[
+        "Kalandagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108699597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680218
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8b86c4644d8c68a6edd43e4fdb81e3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699597,
+            "locality_id":1259459417,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":1259459417,
+    "wof:lastmodified":1537677255,
+    "wof:name":"Kalandagan",
+    "wof:parent_id":1108699597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.72687,
+    6.67899,
+    124.72687,
+    6.67899
+],
+  "geometry": {"coordinates":[124.72687000000001,6.67899],"type":"Point"}
+}

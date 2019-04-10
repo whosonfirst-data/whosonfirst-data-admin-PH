@@ -1,0 +1,68 @@
+{
+  "id": 890453123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.98496,14.16546,121.98496,14.16546",
+    "geom:latitude":14.16546,
+    "geom:longitude":121.98496,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2442,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mainit Norte"
+    ],
+    "qs:name":"Mainit Norte",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108696583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703502,
+        "qs:id":1032493
+    },
+    "wof:country":"PH",
+    "wof:created":1469052841,
+    "wof:geomhash":"ddd022aec0a102592776b831fac964eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696583,
+            "locality_id":890453123,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890453123,
+    "wof:lastmodified":1505343649,
+    "wof:name":"Mainit Norte",
+    "wof:parent_id":1108696583,
+    "wof:placetype":"locality",
+    "wof:population":2442,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.98496,
+    14.16546,
+    121.98496,
+    14.16546
+],
+  "geometry": {"coordinates":[121.98496,14.16546],"type":"Point"}
+}

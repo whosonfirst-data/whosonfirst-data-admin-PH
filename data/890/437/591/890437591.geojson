@@ -1,0 +1,76 @@
+{
+  "id": 890437591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.16667,6.11667,125.16667,6.11667",
+    "geom:latitude":6.11667,
+    "geom:longitude":125.16667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":459541,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Dakbayan sa General Santos"
+    ],
+    "name:fil_x_preferred":[
+        "Lungsod ng General Santos"
+    ],
+    "name:unk_x_variant":[
+        "Rajah Buayan City"
+    ],
+    "qs:name":"General Santos City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":3022,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713021,
+        "qs:id":87805,
+        "wd:id":"Q594275",
+        "wk:page":"General Santos"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052157,
+    "wof:geomhash":"365de63653bfce6398f8fb238621282d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890437591,
+            "region_id":85676313
+        }
+    ],
+    "wof:id":890437591,
+    "wof:lastmodified":1527729751,
+    "wof:name":"General Santos City",
+    "wof:parent_id":85676313,
+    "wof:placetype":"county",
+    "wof:population":459541,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.16667,
+    6.11667,
+    125.16667,
+    6.11667
+],
+  "geometry": {"coordinates":[125.16667,6.11667],"type":"Point"}
+}

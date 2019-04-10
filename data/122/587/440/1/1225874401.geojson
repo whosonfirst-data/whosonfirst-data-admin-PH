@@ -1,0 +1,72 @@
+{
+  "id": 1225874401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1394,10.83714,123.1394,10.83714",
+    "geom:latitude":10.83714,
+    "geom:longitude":123.1394,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64531000.0",
+    "gn:asciiname":"Hacienda Eulalia",
+    "gn:country_code":"PH",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712026,
+    "gn:latitude":10.83714,
+    "gn:longitude":123.1394,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Eulalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Eulalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108698341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712026
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1cb27c971f6163b9052a1598eab00088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698341,
+            "locality_id":1225874401,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1225874401,
+    "wof:lastmodified":1537678154,
+    "wof:name":"Hacienda Eulalia",
+    "wof:parent_id":1108698341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1394,
+    10.83714,
+    123.1394,
+    10.83714
+],
+  "geometry": {"coordinates":[123.13939999999999,10.83714],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242682283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6981,12.4706,123.6981,12.4706",
+    "geom:latitude":12.4706,
+    "geom:longitude":123.6981,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54118000.0",
+    "gn:asciiname":"Macarabasa",
+    "gn:country_code":"PH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704355,
+    "gn:latitude":12.4706,
+    "gn:longitude":123.6981,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Macarabasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Macarabasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704355
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"47c619937d1f3f48a725f9a3f3e31819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699153,
+            "locality_id":1242682283,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1242682283,
+    "wof:lastmodified":1537677935,
+    "wof:name":"Macarabasa",
+    "wof:parent_id":1108699153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6981,
+    12.4706,
+    123.6981,
+    12.4706
+],
+  "geometry": {"coordinates":[123.6981,12.4706],"type":"Point"}
+}

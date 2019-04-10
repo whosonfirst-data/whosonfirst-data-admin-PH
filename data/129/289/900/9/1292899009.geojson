@@ -1,0 +1,72 @@
+{
+  "id": 1292899009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6786,13.4476,123.6786,13.4476",
+    "geom:latitude":13.4476,
+    "geom:longitude":123.6786,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50518000.0",
+    "gn:asciiname":"Corocoro",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716838,
+    "gn:latitude":13.4476,
+    "gn:longitude":123.6786,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Corocoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Corocoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108699741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716838
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4fe1c22e09b65c6665cf866fd25db073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699741,
+            "locality_id":1292899009,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1292899009,
+    "wof:lastmodified":1537678287,
+    "wof:name":"Corocoro",
+    "wof:parent_id":1108699741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6786,
+    13.4476,
+    123.6786,
+    13.4476
+],
+  "geometry": {"coordinates":[123.6786,13.4476],"type":"Point"}
+}

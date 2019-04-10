@@ -1,0 +1,79 @@
+{
+  "id": 1225827919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.27895,17.49942,121.27895,17.49942",
+    "geom:latitude":17.49942,
+    "geom:longitude":121.27895,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143209000.0",
+    "gn:asciiname":"Adaga",
+    "gn:country_code":"PH",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732263,
+    "gn:latitude":17.49942,
+    "gn:longitude":121.27895,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Adaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Adaga"
+    ],
+    "name:fil_x_variant":[
+        "Adagapi",
+        "Adagap"
+    ],
+    "name:und_x_variant":[
+        "Adagapi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732263
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9714cadc8d061f116d61665e29fdc4d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698907,
+            "locality_id":1225827919,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1225827919,
+    "wof:lastmodified":1537678748,
+    "wof:name":"Adaga",
+    "wof:parent_id":1108698907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.27895,
+    17.49942,
+    121.27895,
+    17.49942
+],
+  "geometry": {"coordinates":[121.27894999999999,17.49942],"type":"Point"}
+}

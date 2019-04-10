@@ -1,0 +1,77 @@
+{
+  "id": 1259360315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9919,7.7317,125.9919,7.7317",
+    "geom:latitude":7.7317,
+    "geom:longitude":125.9919,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I6",
+    "gn:admin3_code":"118208000.0",
+    "gn:asciiname":"Bankerohan",
+    "gn:country_code":"PH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727261,
+    "gn:latitude":7.7317,
+    "gn:longitude":125.9919,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bankerohan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bankerohan"
+    ],
+    "name:und_x_variant":[
+        "Banquirohan",
+        "Bangkerohan",
+        "Bankerohan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676235,
+        1108698505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727261
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2c9e8744084a2be70a724c40e5c54b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698505,
+            "locality_id":1259360315,
+            "region_id":85676235
+        }
+    ],
+    "wof:id":1259360315,
+    "wof:lastmodified":1537678600,
+    "wof:name":"Bankerohan",
+    "wof:parent_id":1108698505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9919,
+    7.7317,
+    125.9919,
+    7.7317
+],
+  "geometry": {"coordinates":[125.9919,7.7317],"type":"Point"}
+}

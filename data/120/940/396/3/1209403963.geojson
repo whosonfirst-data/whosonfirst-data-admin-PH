@@ -1,0 +1,63 @@
+{
+  "id": 1209403963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.18833,7.05806,122.18833,7.05806",
+    "geom:latitude":7.05806,
+    "geom:longitude":122.18833,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97332000.0",
+    "gn:asciiname":"Daap",
+    "gn:country_code":"PH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716363,
+    "gn:latitude":7.05806,
+    "gn:longitude":122.18833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Daap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716363
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"179529f570a2bda71ff09414c38b8d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209403963
+        }
+    ],
+    "wof:id":1209403963,
+    "wof:lastmodified":1536288055,
+    "wof:name":"Daap",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.18833,
+    7.05806,
+    122.18833,
+    7.05806
+],
+  "geometry": {"coordinates":[122.18832999999999,7.05806],"type":"Point"}
+}

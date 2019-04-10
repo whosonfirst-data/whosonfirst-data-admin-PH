@@ -1,0 +1,79 @@
+{
+  "id": 1293208411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77446,17.35767,121.77446,17.35767",
+    "geom:latitude":17.35767,
+    "geom:longitude":121.77446,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23137000.0",
+    "gn:asciiname":"Tunggui",
+    "gn:country_code":"PH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680670,
+    "gn:latitude":17.35767,
+    "gn:longitude":121.77446,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tunggui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tunggui"
+    ],
+    "name:fil_x_variant":[
+        "Tunggi",
+        "Tungi"
+    ],
+    "name:und_x_variant":[
+        "Tungi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680670
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ea4a9f7f91d2f2b6cdd066522d6005ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699433,
+            "locality_id":1293208411,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1293208411,
+    "wof:lastmodified":1537677269,
+    "wof:name":"Tunggui",
+    "wof:parent_id":1108699433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77446,
+    17.35767,
+    121.77446,
+    17.35767
+],
+  "geometry": {"coordinates":[121.77446,17.35767],"type":"Point"}
+}

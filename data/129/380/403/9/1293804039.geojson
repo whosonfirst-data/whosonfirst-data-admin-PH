@@ -1,0 +1,72 @@
+{
+  "id": 1293804039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1054,9.9026,124.1054,9.9026",
+    "geom:latitude":9.9026,
+    "geom:longitude":124.1054,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71236000.0",
+    "gn:asciiname":"San Vicente Norte",
+    "gn:country_code":"PH",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443309,
+    "gn:latitude":9.9026,
+    "gn:longitude":124.1054,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Vicente Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Vicente Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443309
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3e0b961b50bfc72c878685107ae25e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699075,
+            "locality_id":1293804039,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1293804039,
+    "wof:lastmodified":1537678941,
+    "wof:name":"San Vicente Norte",
+    "wof:parent_id":1108699075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1054,
+    9.9026,
+    124.1054,
+    9.9026
+],
+  "geometry": {"coordinates":[124.1054,9.9026],"type":"Point"}
+}

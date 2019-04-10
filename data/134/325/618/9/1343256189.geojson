@@ -1,0 +1,72 @@
+{
+  "id": 1343256189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.33,9.5022,123.33,9.5022",
+    "geom:latitude":9.5022,
+    "geom:longitude":123.33,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72240000.0",
+    "gn:asciiname":"Jumangpas",
+    "gn:country_code":"PH",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710040,
+    "gn:latitude":9.5022,
+    "gn:longitude":123.33,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Jumangpas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Jumangpas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710040
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e6ae72fe4856e1fd90995d8700a46760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699409,
+            "locality_id":1343256189,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1343256189,
+    "wof:lastmodified":1537678102,
+    "wof:name":"Jumangpas",
+    "wof:parent_id":1108699409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.33,
+    9.5022,
+    123.33,
+    9.5022
+],
+  "geometry": {"coordinates":[123.33,9.5022],"type":"Point"}
+}

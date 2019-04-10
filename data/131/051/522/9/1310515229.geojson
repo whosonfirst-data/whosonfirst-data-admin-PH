@@ -1,0 +1,76 @@
+{
+  "id": 1310515229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9853,16.0984,119.9853,16.0984",
+    "geom:latitude":16.0984,
+    "geom:longitude":119.9853,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15503000.0",
+    "gn:asciiname":"Limmansangan",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706378,
+    "gn:latitude":16.0984,
+    "gn:longitude":119.9853,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Limmansangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Limmansangan"
+    ],
+    "name:und_x_variant":[
+        "Linmansangan",
+        "Limansangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706378
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ef8c2878812301f1ef93174d0570e30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696591,
+            "locality_id":1310515229,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1310515229,
+    "wof:lastmodified":1537677996,
+    "wof:name":"Limmansangan",
+    "wof:parent_id":1108696591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9853,
+    16.0984,
+    119.9853,
+    16.0984
+],
+  "geometry": {"coordinates":[119.9853,16.0984],"type":"Point"}
+}

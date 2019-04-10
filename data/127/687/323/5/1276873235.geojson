@@ -1,0 +1,75 @@
+{
+  "id": 1276873235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58606,14.96905,120.58606,14.96905",
+    "geom:latitude":14.96905,
+    "geom:longitude":120.58606,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35408000.0",
+    "gn:asciiname":"Don Ignacio Dimson",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430510,
+    "gn:latitude":14.96905,
+    "gn:longitude":120.58606,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Don Ignacio Dimson",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Don Ignacio"
+    ],
+    "name:und_x_variant":[
+        "Dimson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430510
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c1a0d0273c027b0ab1c356dccb875722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698135,
+            "locality_id":1276873235,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1276873235,
+    "wof:lastmodified":1537678936,
+    "wof:name":"Don Ignacio Dimson",
+    "wof:parent_id":1108698135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58606,
+    14.96905,
+    120.58606,
+    14.96905
+],
+  "geometry": {"coordinates":[120.58606,14.96905],"type":"Point"}
+}

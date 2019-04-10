@@ -1,0 +1,72 @@
+{
+  "id": 1344166143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3352,16.4863,120.3352,16.4863",
+    "geom:latitude":16.4863,
+    "geom:longitude":120.3352,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13307000.0",
+    "gn:asciiname":"Guerrero East",
+    "gn:country_code":"PH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7599341,
+    "gn:latitude":16.4863,
+    "gn:longitude":120.3352,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Guerrero East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Guerrero East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108696957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7599341
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c73f8f51bda4d2922e2900094f49267a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696957,
+            "locality_id":1344166143,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1344166143,
+    "wof:lastmodified":1537678989,
+    "wof:name":"Guerrero East",
+    "wof:parent_id":1108696957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3352,
+    16.4863,
+    120.3352,
+    16.4863
+],
+  "geometry": {"coordinates":[120.3352,16.4863],"type":"Point"}
+}

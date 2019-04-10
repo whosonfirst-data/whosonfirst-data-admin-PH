@@ -1,0 +1,72 @@
+{
+  "id": 1226431643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4563,8.6794,123.4563,8.6794",
+    "geom:latitude":8.6794,
+    "geom:longitude":123.4563,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97201000.0",
+    "gn:asciiname":"Oro",
+    "gn:country_code":"PH",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759468,
+    "gn:latitude":8.6794,
+    "gn:longitude":123.4563,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Oro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Oro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108697447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759468
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d84b7d8299c881dbe669069e7f60dc21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697447,
+            "locality_id":1226431643,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1226431643,
+    "wof:lastmodified":1537678829,
+    "wof:name":"Oro",
+    "wof:parent_id":1108697447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4563,
+    8.6794,
+    123.4563,
+    8.6794
+],
+  "geometry": {"coordinates":[123.4563,8.6794],"type":"Point"}
+}

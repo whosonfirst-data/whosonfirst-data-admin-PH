@@ -1,0 +1,72 @@
+{
+  "id": 1243451649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3375,11.6886,122.3375,11.6886",
+    "geom:latitude":11.6886,
+    "geom:longitude":122.3375,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60408000.0",
+    "gn:asciiname":"Ibao",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711398,
+    "gn:latitude":11.6886,
+    "gn:longitude":122.3375,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ibao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ibao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711398
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a1b8d48f802a6654f0a9484792f10e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698681,
+            "locality_id":1243451649,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1243451649,
+    "wof:lastmodified":1537678138,
+    "wof:name":"Ibao",
+    "wof:parent_id":1108698681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3375,
+    11.6886,
+    122.3375,
+    11.6886
+],
+  "geometry": {"coordinates":[122.33750000000001,11.6886],"type":"Point"}
+}

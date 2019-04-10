@@ -1,0 +1,70 @@
+{
+  "id": 890431577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.77056,8.62306,124.77056,8.62306",
+    "geom:latitude":8.62306,
+    "geom:longitude":124.77056,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2984,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Colo\u00f1a"
+    ],
+    "qs:name":"Solana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":168,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108697815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685882,
+        "qs:id":276842,
+        "wk:page":"Solana"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051897,
+    "wof:geomhash":"63c17af119f1b8a4cf6a729583f647c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697815,
+            "locality_id":890431577,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":890431577,
+    "wof:lastmodified":1527735418,
+    "wof:name":"Solana",
+    "wof:parent_id":1108697815,
+    "wof:placetype":"locality",
+    "wof:population":2984,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.77056,
+    8.62306,
+    124.77056,
+    8.62306
+],
+  "geometry": {"coordinates":[124.77056,8.62306],"type":"Point"}
+}

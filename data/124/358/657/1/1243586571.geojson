@@ -1,0 +1,72 @@
+{
+  "id": 1243586571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0722,10.8031,123.0722,10.8031",
+    "geom:latitude":10.8031,
+    "geom:longitude":123.0722,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64526000.0",
+    "gn:asciiname":"Hacienda Kabungahan",
+    "gn:country_code":"PH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355245,
+    "gn:latitude":10.8031,
+    "gn:longitude":123.0722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Kabungahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Kabungahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355245
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dde3478339793446a3a03a99e333bec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699495,
+            "locality_id":1243586571,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1243586571,
+    "wof:lastmodified":1537679069,
+    "wof:name":"Hacienda Kabungahan",
+    "wof:parent_id":1108699495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0722,
+    10.8031,
+    123.0722,
+    10.8031
+],
+  "geometry": {"coordinates":[123.0722,10.8031],"type":"Point"}
+}

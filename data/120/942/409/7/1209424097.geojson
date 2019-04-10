@@ -1,0 +1,66 @@
+{
+  "id": 1209424097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59809,15.90734,120.59809,15.90734",
+    "geom:latitude":15.90734,
+    "geom:longitude":120.59809,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15547000.0",
+    "gn:asciiname":"San Blas",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690231,
+    "gn:latitude":15.90734,
+    "gn:longitude":120.59809,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Blas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Blas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690231
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ffd1a0aa9fb44509b8a929c1ce9c85ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209424097
+        }
+    ],
+    "wof:id":1209424097,
+    "wof:lastmodified":1537677540,
+    "wof:name":"San Blas",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59808999999998,
+    15.90734,
+    120.59808999999998,
+    15.90734
+],
+  "geometry": {"coordinates":[120.59808999999998,15.90734],"type":"Point"}
+}

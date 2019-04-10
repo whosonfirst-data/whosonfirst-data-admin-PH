@@ -1,0 +1,72 @@
+{
+  "id": 1226043453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7029,14.8088,120.7029,14.8088",
+    "geom:latitude":14.8088,
+    "geom:longitude":120.7029,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"31409000.0",
+    "gn:asciiname":"San Pascual",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688793,
+    "gn:latitude":14.8088,
+    "gn:longitude":120.7029,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Pascual",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Pascual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688793
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"edbdf9173fa7cc419c759035fad6c15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698413,
+            "locality_id":1226043453,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1226043453,
+    "wof:lastmodified":1537677494,
+    "wof:name":"San Pascual",
+    "wof:parent_id":1108698413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7029,
+    14.8088,
+    120.7029,
+    14.8088
+],
+  "geometry": {"coordinates":[120.7029,14.8088],"type":"Point"}
+}

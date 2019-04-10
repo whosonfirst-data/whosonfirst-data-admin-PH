@@ -1,0 +1,68 @@
+{
+  "id": 890416335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.66,7.38417,125.66,7.38417",
+    "geom:latitude":7.38417,
+    "geom:longitude":125.66,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":8075,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alejal"
+    ],
+    "qs:name":"Alejal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108697297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731547,
+        "qs:id":136093
+    },
+    "wof:country":"PH",
+    "wof:created":1469051129,
+    "wof:geomhash":"debda9b969da85f1a00812dad55f7cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697297,
+            "locality_id":890416335,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":890416335,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Alejal",
+    "wof:parent_id":1108697297,
+    "wof:placetype":"locality",
+    "wof:population":8075,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.66,
+    7.38417,
+    125.66,
+    7.38417
+],
+  "geometry": {"coordinates":[125.66,7.38417],"type":"Point"}
+}

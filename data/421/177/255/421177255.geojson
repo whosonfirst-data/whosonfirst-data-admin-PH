@@ -1,0 +1,82 @@
+{
+  "id": 421177255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.98194,11.07917,122.98194,11.07917",
+    "geom:latitude":11.07917,
+    "geom:longitude":122.98194,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Culasi"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1716574,
+    "qs:gn_pop":4123,
+    "qs:name":"Culasi",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Western Visayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1149605,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199103,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716574,
+        "gp:id":1199103,
+        "qs:id":1149605
+    },
+    "wof:country":"PH",
+    "wof:created":1459009138,
+    "wof:geomhash":"2176f1eb47a834a187e94d139a44324e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696579,
+            "locality_id":421177255,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":421177255,
+    "wof:lastmodified":1505340632,
+    "wof:name":"Culasi",
+    "wof:parent_id":1108696579,
+    "wof:placetype":"locality",
+    "wof:population":4123,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.98194,
+    11.07917,
+    122.98194,
+    11.07917
+],
+  "geometry": {"coordinates":[122.98193999999999,11.07917],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243555825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.67608,15.23287,120.67608,15.23287",
+    "geom:latitude":15.23287,
+    "geom:longitude":120.67608,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35411000.0",
+    "gn:asciiname":"Bucanan",
+    "gn:country_code":"PH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7454451,
+    "gn:latitude":15.23287,
+    "gn:longitude":120.67608,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bucanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bucanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7454451
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a283e0ba1bab9ab4a5483af3d5d8a3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698227,
+            "locality_id":1243555825,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1243555825,
+    "wof:lastmodified":1537678950,
+    "wof:name":"Bucanan",
+    "wof:parent_id":1108698227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.67608,
+    15.23287,
+    120.67608,
+    15.23287
+],
+  "geometry": {"coordinates":[120.67608,15.23287],"type":"Point"}
+}

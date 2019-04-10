@@ -1,0 +1,68 @@
+{
+  "id": 890433055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0623,9.4744,123.0623,9.4744",
+    "geom:latitude":9.4744,
+    "geom:longitude":123.0623,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2469,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balayong"
+    ],
+    "qs:name":"Balayong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728318,
+        "qs:id":88417
+    },
+    "wof:country":"PH",
+    "wof:created":1469051965,
+    "wof:geomhash":"26af8ffac9e13405c6eb7d4c42cfb949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698763,
+            "locality_id":890433055,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890433055,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Balayong",
+    "wof:parent_id":1108698763,
+    "wof:placetype":"locality",
+    "wof:population":2469,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0623,
+    9.4744,
+    123.0623,
+    9.4744
+],
+  "geometry": {"coordinates":[123.06229999999999,9.4744],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125939225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.21154,16.00292,120.21154,16.00292",
+    "geom:latitude":16.00292,
+    "geom:longitude":120.21154,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15108,
+    "gn:population":15108,
+    "iso:country":"PH",
+    "lbl:latitude":16.00292,
+    "lbl:longitude":120.21154,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Domalanoan"
+    ],
+    "name:unk_x_variant":[
+        "Damaloguen"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1714482,
+    "qs_pg:gn_pop":15108,
+    "qs_pg:name":"Domalanoan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":135383,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714482,
+        "qs_pg:id":135383
+    },
+    "wof:country":"PH",
+    "wof:created":1497297064,
+    "wof:geomhash":"3e1ce116d9262fc55af29aa021ed3fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698099,
+            "locality_id":1125939225,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1125939225,
+    "wof:lastmodified":1509401980,
+    "wof:name":"Domalanoan",
+    "wof:parent_id":1108698099,
+    "wof:placetype":"locality",
+    "wof:population":15108,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.21154,
+    16.00292,
+    120.21154,
+    16.00292
+],
+  "geometry": {"coordinates":[120.21154,16.00292],"type":"Point"}
+}

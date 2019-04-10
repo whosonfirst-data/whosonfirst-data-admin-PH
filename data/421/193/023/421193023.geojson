@@ -1,0 +1,82 @@
+{
+  "id": 421193023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.04528,5.85556,125.04528,5.85556",
+    "geom:latitude":5.85556,
+    "geom:longitude":125.04528,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Malbang"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1702912,
+    "qs:gn_pop":2448,
+    "qs:name":"Malbang",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Soccsksargen",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":944286,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1181037,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108698659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702912,
+        "gp:id":1181037,
+        "qs:id":944286
+    },
+    "wof:country":"PH",
+    "wof:created":1459009757,
+    "wof:geomhash":"2c4cf6a562f522dc1f77e8311fa5739a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698659,
+            "locality_id":421193023,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":421193023,
+    "wof:lastmodified":1505340732,
+    "wof:name":"Malbang",
+    "wof:parent_id":1108698659,
+    "wof:placetype":"locality",
+    "wof:population":2448,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.04528,
+    5.85556,
+    125.04528,
+    5.85556
+],
+  "geometry": {"coordinates":[125.04528000000001,5.85556],"type":"Point"}
+}

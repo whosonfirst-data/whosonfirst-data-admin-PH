@@ -1,0 +1,75 @@
+{
+  "id": 1343256805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.9178,11.3728,122.9178,11.3728",
+    "geom:latitude":11.3728,
+    "geom:longitude":122.9178,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61907000.0",
+    "gn:asciiname":"Alasaguing",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731646,
+    "gn:latitude":11.3728,
+    "gn:longitude":122.9178,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alasaguing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alasaguing"
+    ],
+    "name:und_x_variant":[
+        "Alasaguin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108698177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731646
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c63e87c5d1d0be8d599021e574185f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698177,
+            "locality_id":1343256805,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1343256805,
+    "wof:lastmodified":1537678730,
+    "wof:name":"Alasaguing",
+    "wof:parent_id":1108698177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.9178,
+    11.3728,
+    122.9178,
+    11.3728
+],
+  "geometry": {"coordinates":[122.9178,11.3728],"type":"Point"}
+}

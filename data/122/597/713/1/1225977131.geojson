@@ -1,0 +1,76 @@
+{
+  "id": 1225977131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.153,9.6899,123.153,9.6899",
+    "geom:latitude":9.6899,
+    "geom:longitude":123.153,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74615000.0",
+    "gn:asciiname":"Balisong",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726195,
+    "gn:latitude":9.6899,
+    "gn:longitude":123.153,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balisong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balisong"
+    ],
+    "name:und_x_variant":[
+        "Batisong",
+        "Bolisong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108698357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726195
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"872a6ea764def7ff17332d811b5f29a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698357,
+            "locality_id":1225977131,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1225977131,
+    "wof:lastmodified":1537678568,
+    "wof:name":"Balisong",
+    "wof:parent_id":1108698357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.153,
+    9.6899,
+    123.153,
+    9.6899
+],
+  "geometry": {"coordinates":[123.15300000000001,9.6899],"type":"Point"}
+}

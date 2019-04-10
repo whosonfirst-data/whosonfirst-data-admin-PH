@@ -1,0 +1,75 @@
+{
+  "id": 1243155427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3528,5.96151,121.3528,5.96151",
+    "geom:latitude":5.96151,
+    "geom:longitude":121.3528,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156619000.0",
+    "gn:asciiname":"Tang-Kuan",
+    "gn:country_code":"PH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683160,
+    "gn:latitude":5.96151,
+    "gn:longitude":121.3528,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tang-Kuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tang-Kuan"
+    ],
+    "name:und_x_variant":[
+        "Tangkuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683160
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d1cf4f17b5687fd093fceffb4a6ba262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698173,
+            "locality_id":1243155427,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1243155427,
+    "wof:lastmodified":1537677335,
+    "wof:name":"Tang-Kuan",
+    "wof:parent_id":1108698173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3528,
+    5.96151,
+    121.3528,
+    5.96151
+],
+  "geometry": {"coordinates":[121.3528,5.96151],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226028679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3926,7.7106,123.3926,7.7106",
+    "geom:latitude":7.7106,
+    "geom:longitude":123.3926,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97325000.0",
+    "gn:asciiname":"Payag",
+    "gn:country_code":"PH",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694221,
+    "gn:latitude":7.7106,
+    "gn:longitude":123.3926,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Payag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Payag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694221
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"09ad6abcc7720f60da65ec5337dbc860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699291,
+            "locality_id":1226028679,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1226028679,
+    "wof:lastmodified":1537677652,
+    "wof:name":"Payag",
+    "wof:parent_id":1108699291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3926,
+    7.7106,
+    123.3926,
+    7.7106
+],
+  "geometry": {"coordinates":[123.3926,7.7106],"type":"Point"}
+}

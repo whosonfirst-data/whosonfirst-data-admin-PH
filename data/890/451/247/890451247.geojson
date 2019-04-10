@@ -1,0 +1,71 @@
+{
+  "id": 890451247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3822,11.613,122.3822,11.613",
+    "geom:latitude":11.613,
+    "geom:longitude":122.3822,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2072,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tugas"
+    ],
+    "name:unk_x_variant":[
+        "Jugas"
+    ],
+    "qs:name":"Tugas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710064,
+        "qs:id":87669
+    },
+    "wof:country":"PH",
+    "wof:created":1469052771,
+    "wof:geomhash":"3e7f32939a7b299adfe006319b107d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698577,
+            "locality_id":890451247,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":890451247,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Tugas",
+    "wof:parent_id":1108698577,
+    "wof:placetype":"locality",
+    "wof:population":2072,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3822,
+    11.613,
+    122.3822,
+    11.613
+],
+  "geometry": {"coordinates":[122.3822,11.613],"type":"Point"}
+}

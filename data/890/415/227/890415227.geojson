@@ -1,0 +1,66 @@
+{
+  "id": 890415227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56667,10.2,125.56667,10.2",
+    "geom:latitude":10.2,
+    "geom:longitude":125.56667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":17748,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Albor"
+    ],
+    "qs:name":"Libjo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706651,
+        "qs:id":87521
+    },
+    "wof:country":"PH",
+    "wof:created":1469051079,
+    "wof:geomhash":"3482ae07d65ae985e4477b6e717d5c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "localadmin_id":890415227,
+            "region_id":85676239
+        }
+    ],
+    "wof:id":890415227,
+    "wof:lastmodified":1505343424,
+    "wof:name":"Libjo",
+    "wof:parent_id":85676239,
+    "wof:placetype":"localadmin",
+    "wof:population":17748,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56667,
+    10.2,
+    125.56667,
+    10.2
+],
+  "geometry": {"coordinates":[125.56667,10.2],"type":"Point"}
+}

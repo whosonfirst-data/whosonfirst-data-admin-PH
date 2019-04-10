@@ -1,0 +1,78 @@
+{
+  "id": 1310709721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.75259,17.1168,121.75259,17.1168",
+    "geom:latitude":17.1168,
+    "geom:longitude":121.75259,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23113000.0",
+    "gn:asciiname":"Pintor",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693326,
+    "gn:latitude":17.1168,
+    "gn:longitude":121.75259,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pintor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pintor"
+    ],
+    "name:fil_x_variant":[
+        "Pitnor"
+    ],
+    "name:und_x_variant":[
+        "Pitnor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108698999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693326
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"071927dc87da19b357a517f31196c9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698999,
+            "locality_id":1310709721,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1310709721,
+    "wof:lastmodified":1537677625,
+    "wof:name":"Pintor",
+    "wof:parent_id":1108698999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.75258999999998,
+    17.1168,
+    121.75258999999998,
+    17.1168
+],
+  "geometry": {"coordinates":[121.75258999999998,17.1168],"type":"Point"}
+}

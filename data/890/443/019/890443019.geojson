@@ -1,0 +1,68 @@
+{
+  "id": 890443019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1,7.61667,124.1,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":124.1,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":38530,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malabang"
+    ],
+    "qs:name":"Malabang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676169,
+        1108698285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703354,
+        "qs:id":371700
+    },
+    "wof:country":"PH",
+    "wof:created":1469052394,
+    "wof:geomhash":"3048f066dd2aab5c784df8920f46d9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698285,
+            "localadmin_id":890443019,
+            "region_id":85676169
+        }
+    ],
+    "wof:id":890443019,
+    "wof:lastmodified":1505343591,
+    "wof:name":"Malabang",
+    "wof:parent_id":1108698285,
+    "wof:placetype":"localadmin",
+    "wof:population":38530,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1,
+    7.61667,
+    124.1,
+    7.61667
+],
+  "geometry": {"coordinates":[124.09999999999999,7.61667],"type":"Point"}
+}

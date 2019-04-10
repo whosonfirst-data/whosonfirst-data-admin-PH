@@ -1,0 +1,72 @@
+{
+  "id": 1242852787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.766,7.7333,123.766,7.7333",
+    "geom:latitude":7.7333,
+    "geom:longitude":123.766,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103506000.0",
+    "gn:asciiname":"Sigayan",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686630,
+    "gn:latitude":7.7333,
+    "gn:longitude":123.766,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sigayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sigayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108698629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686630
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"38ebf72b05f4941a428fff0842e07e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698629,
+            "locality_id":1242852787,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1242852787,
+    "wof:lastmodified":1537677429,
+    "wof:name":"Sigayan",
+    "wof:parent_id":1108698629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.766,
+    7.7333,
+    123.766,
+    7.7333
+],
+  "geometry": {"coordinates":[123.76600000000001,7.7333],"type":"Point"}
+}

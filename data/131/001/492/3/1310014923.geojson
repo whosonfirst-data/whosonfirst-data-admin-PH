@@ -1,0 +1,77 @@
+{
+  "id": 1310014923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6293,17.9396,120.6293,17.9396",
+    "geom:latitude":17.9396,
+    "geom:longitude":120.6293,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12811000.0",
+    "gn:asciiname":"Binacag",
+    "gn:country_code":"PH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725017,
+    "gn:latitude":17.9396,
+    "gn:longitude":120.6293,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binacag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Binacag"
+    ],
+    "name:und_x_variant":[
+        "Binacog",
+        "Bingao",
+        "Binacag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108697583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725017
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c0bd0ba10271a1796a5202addf5edec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697583,
+            "locality_id":1310014923,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1310014923,
+    "wof:lastmodified":1537678534,
+    "wof:name":"Binacag",
+    "wof:parent_id":1108697583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6293,
+    17.9396,
+    120.6293,
+    17.9396
+],
+  "geometry": {"coordinates":[120.6293,17.9396],"type":"Point"}
+}

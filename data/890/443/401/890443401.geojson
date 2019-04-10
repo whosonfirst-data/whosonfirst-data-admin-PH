@@ -1,0 +1,70 @@
+{
+  "id": 890443401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2,11.93333,120.2,11.93333",
+    "geom:latitude":11.93333,
+    "geom:longitude":120.2,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":37668,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Coron"
+    ],
+    "qs:name":"Coron",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":88,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108698647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716835,
+        "qs:id":1027387,
+        "wk:page":"Coron"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052423,
+    "wof:geomhash":"29037667611827162c79cb722deda456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698647,
+            "localadmin_id":890443401,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":890443401,
+    "wof:lastmodified":1527787060,
+    "wof:name":"Coron",
+    "wof:parent_id":1108698647,
+    "wof:placetype":"localadmin",
+    "wof:population":37668,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2,
+    11.93333,
+    120.2,
+    11.93333
+],
+  "geometry": {"coordinates":[120.2,11.93333],"type":"Point"}
+}

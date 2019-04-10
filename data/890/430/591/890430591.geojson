@@ -1,0 +1,76 @@
+{
+  "id": 890430591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6,12.06667,124.6,12.06667",
+    "geom:latitude":12.06667,
+    "geom:longitude":124.6,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":156035,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Dakbayan sa Calbayog"
+    ],
+    "name:fil_x_preferred":[
+        "Lungsod ng Calbayog"
+    ],
+    "name:unk_x_variant":[
+        "Catbayog"
+    ],
+    "qs:name":"Calbayog City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":5251,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720400,
+        "qs:id":88097,
+        "wd:id":"Q577336",
+        "wk:page":"Calbayog"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051859,
+    "wof:geomhash":"9460abf8a291ac60b68d538f683b63c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890430591,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":890430591,
+    "wof:lastmodified":1527729740,
+    "wof:name":"Calbayog City",
+    "wof:parent_id":85676201,
+    "wof:placetype":"county",
+    "wof:population":156035,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6,
+    12.06667,
+    124.6,
+    12.06667
+],
+  "geometry": {"coordinates":[124.59999999999999,12.06667],"type":"Point"}
+}

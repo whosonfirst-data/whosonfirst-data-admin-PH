@@ -1,0 +1,76 @@
+{
+  "id": 1344009401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86722,14.20944,120.86722,14.20944",
+    "geom:latitude":14.20944,
+    "geom:longitude":120.86722,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42110000.0",
+    "gn:asciiname":"Calumpang Cerca",
+    "gn:country_code":"PH",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720047,
+    "gn:latitude":14.20944,
+    "gn:longitude":120.86722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calumpang Cerca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calumpana Cerca"
+    ],
+    "name:und_x_variant":[
+        "Calumpang",
+        "Calumpang Cerca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720047
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"39c0bed438c64f4759c194e381ae58d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697765,
+            "locality_id":1344009401,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1344009401,
+    "wof:lastmodified":1537678383,
+    "wof:name":"Calumpang Cerca",
+    "wof:parent_id":1108697765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86722,
+    14.20944,
+    120.86722,
+    14.20944
+],
+  "geometry": {"coordinates":[120.86722,14.20944],"type":"Point"}
+}

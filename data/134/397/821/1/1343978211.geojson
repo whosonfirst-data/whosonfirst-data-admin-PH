@@ -1,0 +1,72 @@
+{
+  "id": 1343978211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1674,9.7672,124.1674,9.7672",
+    "geom:latitude":9.7672,
+    "geom:longitude":124.1674,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71207000.0",
+    "gn:asciiname":"Quezon",
+    "gn:country_code":"PH",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443444,
+    "gn:latitude":9.7672,
+    "gn:longitude":124.1674,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Quezon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Quezon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108696951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443444
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cd4e932a53e46499b47cc43cb01bf4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696951,
+            "locality_id":1343978211,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1343978211,
+    "wof:lastmodified":1537678945,
+    "wof:name":"Quezon",
+    "wof:parent_id":1108696951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1674,
+    9.7672,
+    124.1674,
+    9.7672
+],
+  "geometry": {"coordinates":[124.1674,9.7672],"type":"Point"}
+}

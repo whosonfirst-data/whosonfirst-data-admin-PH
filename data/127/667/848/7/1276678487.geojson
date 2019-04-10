@@ -1,0 +1,72 @@
+{
+  "id": 1276678487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.47002,9.96256,123.47002,9.96256",
+    "geom:latitude":9.96256,
+    "geom:longitude":123.47002,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72201000.0",
+    "gn:asciiname":"Manga",
+    "gn:country_code":"PH",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701907,
+    "gn:latitude":9.96256,
+    "gn:longitude":123.47002,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Manga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701907
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a5a0eb15263276aa124b4c0010f3e7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696607,
+            "locality_id":1276678487,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1276678487,
+    "wof:lastmodified":1537677868,
+    "wof:name":"Manga",
+    "wof:parent_id":1108696607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.47002,
+    9.96256,
+    123.47002,
+    9.96256
+],
+  "geometry": {"coordinates":[123.47002000000001,9.96256],"type":"Point"}
+}

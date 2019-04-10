@@ -1,0 +1,72 @@
+{
+  "id": 1293285391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.29651,13.08391,123.29651,13.08391",
+    "geom:latitude":13.08391,
+    "geom:longitude":123.29651,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50512000.0",
+    "gn:asciiname":"Tapel",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682959,
+    "gn:latitude":13.08391,
+    "gn:longitude":123.29651,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tapel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tapel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682959
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4c50f5b839a157f94de91d2811801106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698685,
+            "locality_id":1293285391,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1293285391,
+    "wof:lastmodified":1537677329,
+    "wof:name":"Tapel",
+    "wof:parent_id":1108698685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.29651,
+    13.08391,
+    123.29651,
+    13.08391
+],
+  "geometry": {"coordinates":[123.29651,13.08391],"type":"Point"}
+}

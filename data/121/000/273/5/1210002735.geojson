@@ -1,0 +1,72 @@
+{
+  "id": 1210002735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.6357,9.5743,125.6357,9.5743",
+    "geom:latitude":9.5743,
+    "geom:longitude":125.6357,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"166702000.0",
+    "gn:asciiname":"Higasi",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711779,
+    "gn:latitude":9.5743,
+    "gn:longitude":125.6357,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Higasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Higasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676239,
+        1108696765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711779
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"28c93b6fbe21029f7f94b674f85648d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696765,
+            "locality_id":1210002735,
+            "region_id":85676239
+        }
+    ],
+    "wof:id":1210002735,
+    "wof:lastmodified":1537678148,
+    "wof:name":"Higasi",
+    "wof:parent_id":1108696765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.6357,
+    9.5743,
+    125.6357,
+    9.5743
+],
+  "geometry": {"coordinates":[125.6357,9.5743],"type":"Point"}
+}

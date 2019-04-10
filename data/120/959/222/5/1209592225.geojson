@@ -1,0 +1,65 @@
+{
+  "id": 1209592225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.63333,5.98333,124.63333,5.98333",
+    "geom:latitude":5.98333,
+    "geom:longitude":124.63333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Supo",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685243,
+    "gn:latitude":5.98333,
+    "gn:longitude":124.63333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Supo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Supo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685243
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"59790244c109b6a9852b45dba7e24483",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209592225
+        }
+    ],
+    "wof:id":1209592225,
+    "wof:lastmodified":1537677393,
+    "wof:name":"Supo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.63333,
+    5.98333,
+    124.63333,
+    5.98333
+],
+  "geometry": {"coordinates":[124.63333,5.98333],"type":"Point"}
+}

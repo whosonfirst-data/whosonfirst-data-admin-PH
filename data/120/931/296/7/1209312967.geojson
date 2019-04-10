@@ -1,0 +1,66 @@
+{
+  "id": 1209312967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.31667,13.8,124.31667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":124.31667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"52005000.0",
+    "gn:asciiname":"Calanca",
+    "gn:country_code":"PH",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720637,
+    "gn:latitude":13.8,
+    "gn:longitude":124.31667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calanca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720637
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"23793bc649537c2913d71110caa98f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209312967
+        }
+    ],
+    "wof:id":1209312967,
+    "wof:lastmodified":1537678400,
+    "wof:name":"Calanca",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.31667,
+    13.8,
+    124.31667,
+    13.8
+],
+  "geometry": {"coordinates":[124.31667,13.8],"type":"Point"}
+}

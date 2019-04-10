@@ -1,0 +1,81 @@
+{
+  "id": 1125908501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.73033,9.58745,123.73033,9.58745",
+    "geom:latitude":9.58745,
+    "geom:longitude":123.73033,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2760,
+    "gn:population":2760,
+    "iso:country":"PH",
+    "lbl:latitude":9.58745,
+    "lbl:longitude":123.73033,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Duljo"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1714232,
+    "qs_pg:gn_pop":2760,
+    "qs_pg:name":"Doljo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1032821,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714232,
+        "qs_pg:id":1032821
+    },
+    "wof:country":"PH",
+    "wof:created":1497296063,
+    "wof:geomhash":"697169cb68443348a2f24c3728e884af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698787,
+            "locality_id":1125908501,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1125908501,
+    "wof:lastmodified":1509399934,
+    "wof:name":"Doljo",
+    "wof:parent_id":1108698787,
+    "wof:placetype":"locality",
+    "wof:population":2760,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.73033,
+    9.58745,
+    123.73033,
+    9.58745
+],
+  "geometry": {"coordinates":[123.73033,9.58745],"type":"Point"}
+}

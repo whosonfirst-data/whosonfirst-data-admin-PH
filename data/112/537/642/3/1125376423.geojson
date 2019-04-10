@@ -1,0 +1,88 @@
+{
+  "id": 1125376423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.71667,13.33333,123.71667,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":123.71667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":123513,
+    "gn:population":123513,
+    "iso:country":"PH",
+    "lbl:latitude":13.33333,
+    "lbl:longitude":123.71667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Tabaco"
+    ],
+    "name:fil_x_variant":[
+        "Tabaco City"
+    ],
+    "name:unk_x_variant":[
+        "Lungsod ng Tabaco"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1685118,
+    "qs_pg:gn_pop":123513,
+    "qs_pg:name":"City of Tabaco",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":371440,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685118,
+        "qs_pg:id":371440
+    },
+    "wof:country":"PH",
+    "wof:created":1497047773,
+    "wof:geomhash":"f6442ecc3cf001e2b83d323dd2848cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698305,
+            "localadmin_id":1125376423,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1125376423,
+    "wof:lastmodified":1514618158,
+    "wof:name":"City of Tabaco",
+    "wof:parent_id":1108698305,
+    "wof:placetype":"localadmin",
+    "wof:population":123513,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.71667,
+    13.33333,
+    123.71667,
+    13.33333
+],
+  "geometry": {"coordinates":[123.71666999999999,13.33333],"type":"Point"}
+}

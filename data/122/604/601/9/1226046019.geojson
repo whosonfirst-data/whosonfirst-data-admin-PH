@@ -1,0 +1,72 @@
+{
+  "id": 1226046019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41667,16.1,120.41667,16.1",
+    "geom:latitude":16.1,
+    "geom:longitude":120.41667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15526000.0",
+    "gn:asciiname":"Cayanga",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717574,
+    "gn:latitude":16.1,
+    "gn:longitude":120.41667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caya\u00f1ga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Caya\u00f1ga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717574
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5698e1ec8ad88d784bc9bb0101fcdf9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699141,
+            "locality_id":1226046019,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1226046019,
+    "wof:lastmodified":1537678306,
+    "wof:name":"Cayanga",
+    "wof:parent_id":1108699141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41667,
+    16.1,
+    120.41667,
+    16.1
+],
+  "geometry": {"coordinates":[120.41667,16.1],"type":"Point"}
+}

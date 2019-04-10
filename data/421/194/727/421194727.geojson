@@ -1,0 +1,85 @@
+{
+  "id": 421194727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.23333,10.65,122.23333,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":122.23333,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Dingle"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1714734,
+    "qs:gn_pop":0,
+    "qs:name":"Dingle",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Western Visayas",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":901358,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199144,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wd:wordcount":1942,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714733,
+        "gp:id":1199144,
+        "qs:id":901358,
+        "qs_pg:id":1032834,
+        "wd:id":"Q932302"
+    },
+    "wof:country":"PH",
+    "wof:created":1459009817,
+    "wof:geomhash":"03d2270c18ddd2399b8bc78af84153b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698469,
+            "locality_id":421194727,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":421194727,
+    "wof:lastmodified":1527716138,
+    "wof:name":"Dingle",
+    "wof:parent_id":1108698469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.23333,
+    10.65,
+    122.23333,
+    10.65
+],
+  "geometry": {"coordinates":[122.23333,10.65],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226256457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.06294,16.02412,120.06294,16.02412",
+    "geom:latitude":16.02412,
+    "geom:longitude":120.06294,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15542000.0",
+    "gn:asciiname":"Sioasio Este",
+    "gn:country_code":"PH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686126,
+    "gn:latitude":16.02412,
+    "gn:longitude":120.06294,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sioasio Este",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sioasio Este"
+    ],
+    "name:und_x_variant":[
+        "Sioasio East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686126
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2e9085af88d1cef26ea75eaba0c50e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699543,
+            "locality_id":1226256457,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1226256457,
+    "wof:lastmodified":1537677415,
+    "wof:name":"Sioasio Este",
+    "wof:parent_id":1108699543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.06294,
+    16.02412,
+    120.06294,
+    16.02412
+],
+  "geometry": {"coordinates":[120.06294,16.02412],"type":"Point"}
+}

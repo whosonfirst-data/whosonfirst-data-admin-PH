@@ -1,0 +1,66 @@
+{
+  "id": 1209529403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9512,16.3763,119.9512,16.3763",
+    "geom:latitude":16.3763,
+    "geom:longitude":119.9512,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15514000.0",
+    "gn:asciiname":"Pilar",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693837,
+    "gn:latitude":16.3763,
+    "gn:longitude":119.9512,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pilar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693837
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"02b55d97c6c885943f226a39f469a498",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209529403
+        }
+    ],
+    "wof:id":1209529403,
+    "wof:lastmodified":1537677641,
+    "wof:name":"Pilar",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9512,
+    16.3763,
+    119.9512,
+    16.3763
+],
+  "geometry": {"coordinates":[119.9512,16.3763],"type":"Point"}
+}

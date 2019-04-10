@@ -1,0 +1,78 @@
+{
+  "id": 1125374217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52849,15.8045,120.52849,15.8045",
+    "geom:latitude":15.8045,
+    "geom:longitude":120.52849,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":29281,
+    "gn:population":29281,
+    "iso:country":"PH",
+    "lbl:latitude":15.8045,
+    "lbl:longitude":120.52849,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1725945,
+    "qs_pg:gn_pop":29281,
+    "qs_pg:name":"Bautista",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":350992,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725945,
+        "qs_pg:id":350992
+    },
+    "wof:country":"PH",
+    "wof:created":1497047616,
+    "wof:geomhash":"ba17890dc9598d2a0b59bc7cfa2ae78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696965,
+            "localadmin_id":1125374217,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1125374217,
+    "wof:lastmodified":1509389413,
+    "wof:name":"Bautista",
+    "wof:parent_id":1108696965,
+    "wof:placetype":"localadmin",
+    "wof:population":29281,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52849,
+    15.8045,
+    120.52849,
+    15.8045
+],
+  "geometry": {"coordinates":[120.52849000000001,15.8045],"type":"Point"}
+}

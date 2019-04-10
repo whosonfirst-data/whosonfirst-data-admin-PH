@@ -1,0 +1,72 @@
+{
+  "id": 1343269789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.86038,20.77053,121.86038,20.77053",
+    "geom:latitude":20.77053,
+    "geom:longitude":121.86038,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"08",
+    "gn:admin3_code":"20902000.0",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"PH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688010,
+    "gn:latitude":20.77053,
+    "gn:longitude":121.86038,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Maria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Maria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676043,
+        1108697791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688010
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"97fc7238a864d8825e884137a3a3d875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697791,
+            "locality_id":1343269789,
+            "region_id":85676043
+        }
+    ],
+    "wof:id":1343269789,
+    "wof:lastmodified":1537677468,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":1108697791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.86038,
+    20.77053,
+    121.86038,
+    20.77053
+],
+  "geometry": {"coordinates":[121.86038000000001,20.77053],"type":"Point"}
+}

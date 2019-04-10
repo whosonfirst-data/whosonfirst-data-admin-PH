@@ -1,0 +1,81 @@
+{
+  "id": 1126024217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6667,14.0524,120.6667,14.0524",
+    "geom:latitude":14.0524,
+    "geom:longitude":120.6667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7071,
+    "gn:population":7071,
+    "iso:country":"PH",
+    "lbl:latitude":14.0524,
+    "lbl:longitude":120.6667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Lumbangan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1705183,
+    "qs_pg:gn_pop":7071,
+    "qs_pg:name":"Lumbangan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":135037,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108698559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705183,
+        "qs_pg:id":135037
+    },
+    "wof:country":"PH",
+    "wof:created":1497301026,
+    "wof:geomhash":"fa758c7ad21db572133a91fdb2d6edcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698559,
+            "locality_id":1126024217,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1126024217,
+    "wof:lastmodified":1509407434,
+    "wof:name":"Lumbangan",
+    "wof:parent_id":1108698559,
+    "wof:placetype":"locality",
+    "wof:population":7071,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6667,
+    14.0524,
+    120.6667,
+    14.0524
+],
+  "geometry": {"coordinates":[120.66670000000001,14.0524],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293121117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5387,10.0034,123.5387,10.0034",
+    "geom:latitude":10.0034,
+    "geom:longitude":123.5387,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72246000.0",
+    "gn:asciiname":"Cantolaroy",
+    "gn:country_code":"PH",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709305,
+    "gn:latitude":10.0034,
+    "gn:longitude":123.5387,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cantolaroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cantolaroy"
+    ],
+    "name:fil_x_variant":[
+        "Cantotaroy"
+    ],
+    "name:und_x_variant":[
+        "Kantolaroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709305
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"374e631ce9df5136662fc437bd543f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699475,
+            "locality_id":1293121117,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1293121117,
+    "wof:lastmodified":1537678080,
+    "wof:name":"Cantolaroy",
+    "wof:parent_id":1108699475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5387,
+    10.0034,
+    123.5387,
+    10.0034
+],
+  "geometry": {"coordinates":[123.53870000000001,10.0034],"type":"Point"}
+}

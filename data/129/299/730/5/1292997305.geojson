@@ -1,0 +1,75 @@
+{
+  "id": 1292997305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5692,10.0929,124.5692,10.0929",
+    "geom:latitude":10.0929,
+    "geom:longitude":124.5692,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71235000.0",
+    "gn:asciiname":"Cangmangao",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719179,
+    "gn:latitude":10.0929,
+    "gn:longitude":124.5692,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cangmangao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cangmangao"
+    ],
+    "name:und_x_variant":[
+        "Canmangao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719179
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"adae47c93047fca1bccf8ad6d335ed84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698953,
+            "locality_id":1292997305,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1292997305,
+    "wof:lastmodified":1537678355,
+    "wof:name":"Cangmangao",
+    "wof:parent_id":1108698953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5692,
+    10.0929,
+    124.5692,
+    10.0929
+],
+  "geometry": {"coordinates":[124.5692,10.0929],"type":"Point"}
+}

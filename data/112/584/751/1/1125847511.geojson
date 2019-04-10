@@ -1,0 +1,84 @@
+{
+  "id": 1125847511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.349,10.69885,123.349,10.69885",
+    "geom:latitude":10.69885,
+    "geom:longitude":123.349,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6885,
+    "gn:population":6885,
+    "iso:country":"PH",
+    "lbl:latitude":10.69885,
+    "lbl:longitude":123.349,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Minapasoc"
+    ],
+    "name:unk_x_variant":[
+        "Minapasuk"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1699617,
+    "qs_pg:gn_pop":6885,
+    "qs_pg:name":"Minapasoc",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":87217,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699617,
+        "qs_pg:id":87217
+    },
+    "wof:country":"PH",
+    "wof:created":1497293236,
+    "wof:geomhash":"489bc25961c488021275aa56dae8549a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697215,
+            "locality_id":1125847511,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125847511,
+    "wof:lastmodified":1509395725,
+    "wof:name":"Minapasoc",
+    "wof:parent_id":1108697215,
+    "wof:placetype":"locality",
+    "wof:population":6885,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.349,
+    10.69885,
+    123.349,
+    10.69885
+],
+  "geometry": {"coordinates":[123.349,10.69885],"type":"Point"}
+}

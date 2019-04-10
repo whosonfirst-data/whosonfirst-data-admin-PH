@@ -1,0 +1,63 @@
+{
+  "id": 1209410987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1,6.96667,122.1,6.96667",
+    "geom:latitude":6.96667,
+    "geom:longitude":122.1,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97332000.0",
+    "gn:asciiname":"Lumbangan",
+    "gn:country_code":"PH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705184,
+    "gn:latitude":6.96667,
+    "gn:longitude":122.1,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lumbangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705184
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"19e5f76a73ee1d58cc15ca670bb81570",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209410987
+        }
+    ],
+    "wof:id":1209410987,
+    "wof:lastmodified":1536287838,
+    "wof:name":"Lumbangan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1,
+    6.96667,
+    122.1,
+    6.96667
+],
+  "geometry": {"coordinates":[122.09999999999999,6.96667],"type":"Point"}
+}

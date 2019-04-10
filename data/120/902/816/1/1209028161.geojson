@@ -1,0 +1,66 @@
+{
+  "id": 1209028161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6925,11.0216,122.6925,11.0216",
+    "geom:latitude":11.0216,
+    "geom:longitude":122.6925,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63016000.0",
+    "gn:asciiname":"Potolan",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692829,
+    "gn:latitude":11.0216,
+    "gn:longitude":122.6925,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Potolan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Potolan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692829
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4043c0ec53157518e54cceb8f933553c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209028161
+        }
+    ],
+    "wof:id":1209028161,
+    "wof:lastmodified":1537677610,
+    "wof:name":"Potolan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6925,
+    11.0216,
+    122.6925,
+    11.0216
+],
+  "geometry": {"coordinates":[122.6925,11.0216],"type":"Point"}
+}

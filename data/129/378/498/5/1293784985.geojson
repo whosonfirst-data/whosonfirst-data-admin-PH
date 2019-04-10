@@ -1,0 +1,78 @@
+{
+  "id": 1293784985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6034,15.72127,120.6034,15.72127",
+    "geom:latitude":15.72127,
+    "geom:longitude":120.6034,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36901000.0",
+    "gn:asciiname":"San Francisco West",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689967,
+    "gn:latitude":15.72127,
+    "gn:longitude":120.6034,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Francisco West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Francisco West"
+    ],
+    "name:fil_x_preferred":[
+        "San Francisco"
+    ],
+    "name:und_x_variant":[
+        "San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108696669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689967
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"83fb6d1d14e403e4ed60ade608e5b0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696669,
+            "locality_id":1293784985,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1293784985,
+    "wof:lastmodified":1537677533,
+    "wof:name":"San Francisco West",
+    "wof:parent_id":1108696669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6034,
+    15.72127,
+    120.6034,
+    15.72127
+],
+  "geometry": {"coordinates":[120.60339999999999,15.72127],"type":"Point"}
+}

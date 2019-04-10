@@ -1,0 +1,74 @@
+{
+  "id": 890416117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1241,16.4775,121.1241,16.4775",
+    "geom:latitude":16.4775,
+    "geom:longitude":121.1241,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2814,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Busilak"
+    ],
+    "name:fil_x_variant":[
+        "Busilac"
+    ],
+    "name:unk_x_variant":[
+        "Busilac"
+    ],
+    "qs:name":"Busilak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108696983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722295,
+        "qs:id":135540
+    },
+    "wof:country":"PH",
+    "wof:created":1469051120,
+    "wof:geomhash":"41e6b76539729c47aa6edc1b853db0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696983,
+            "locality_id":890416117,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":890416117,
+    "wof:lastmodified":1505343430,
+    "wof:name":"Busilak",
+    "wof:parent_id":1108696983,
+    "wof:placetype":"locality",
+    "wof:population":2814,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1241,
+    16.4775,
+    121.1241,
+    16.4775
+],
+  "geometry": {"coordinates":[121.1241,16.4775],"type":"Point"}
+}

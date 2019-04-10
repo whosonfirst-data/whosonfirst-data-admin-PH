@@ -1,0 +1,75 @@
+{
+  "id": 1310397521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4801,10.981,122.4801,10.981",
+    "geom:latitude":10.981,
+    "geom:longitude":122.4801,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63023000.0",
+    "gn:asciiname":"Madonga",
+    "gn:country_code":"PH",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704136,
+    "gn:latitude":10.981,
+    "gn:longitude":122.4801,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Madonga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Madonga"
+    ],
+    "name:und_x_variant":[
+        "Madong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704136
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"451c6f1fd92522203e92a73e45141f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697811,
+            "locality_id":1310397521,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1310397521,
+    "wof:lastmodified":1537677930,
+    "wof:name":"Madonga",
+    "wof:parent_id":1108697811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4801,
+    10.981,
+    122.4801,
+    10.981
+],
+  "geometry": {"coordinates":[122.48009999999999,10.981],"type":"Point"}
+}

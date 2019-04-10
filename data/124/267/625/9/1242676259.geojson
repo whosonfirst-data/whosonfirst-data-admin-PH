@@ -1,0 +1,72 @@
+{
+  "id": 1242676259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.73972,12.88444,123.73972,12.88444",
+    "geom:latitude":12.88444,
+    "geom:longitude":123.73972,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56213000.0",
+    "gn:asciiname":"Tenagbac",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682506,
+    "gn:latitude":12.88444,
+    "gn:longitude":123.73972,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tenagbac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tenagbac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108698883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682506
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8ee263c0381476b046cc04e328bc081f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698883,
+            "locality_id":1242676259,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1242676259,
+    "wof:lastmodified":1537677319,
+    "wof:name":"Tenagbac",
+    "wof:parent_id":1108698883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.73972,
+    12.88444,
+    123.73972,
+    12.88444
+],
+  "geometry": {"coordinates":[123.73972000000001,12.88444],"type":"Point"}
+}

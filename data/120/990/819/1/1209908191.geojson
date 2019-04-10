@@ -1,0 +1,64 @@
+{
+  "id": 1209908191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.71667,10.71667,122.71667,10.71667",
+    "geom:latitude":10.71667,
+    "geom:longitude":122.71667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Tanag",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683372,
+    "gn:latitude":10.71667,
+    "gn:longitude":122.71667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tanag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683372
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"afaa3e28ccaa729d6c5f23d5110dde29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209908191,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209908191,
+    "wof:lastmodified":1536381660,
+    "wof:name":"Tanag",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.71667,
+    10.71667,
+    122.71667,
+    10.71667
+],
+  "geometry": {"coordinates":[122.71666999999999,10.71667],"type":"Point"}
+}

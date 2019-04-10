@@ -1,0 +1,76 @@
+{
+  "id": 890421769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1,14.63333,121.1,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":121.1,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":424150,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Lungsod ng Marikina"
+    ],
+    "name:unk_x_variant":[
+        "Mariquina"
+    ],
+    "qs:name":"Marikina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"wk",
+    "wd:latitude":"14.65",
+    "wd:longitude":"121.1",
+    "wd:population":450741,
+    "wd:wordcount":5854,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700926,
+        "qs:id":87274,
+        "wd:id":"Q17175",
+        "wk:page":"Marikina"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051407,
+    "wof:geomhash":"3e10f78381fb7a984135830673e40b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890421769,
+            "region_id":85676399
+        }
+    ],
+    "wof:id":890421769,
+    "wof:lastmodified":1527782111,
+    "wof:name":"Marikina",
+    "wof:parent_id":85676399,
+    "wof:placetype":"county",
+    "wof:population":450741,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1,
+    14.63333,
+    121.1,
+    14.63333
+],
+  "geometry": {"coordinates":[121.09999999999999,14.63333],"type":"Point"}
+}

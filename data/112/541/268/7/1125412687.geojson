@@ -1,0 +1,81 @@
+{
+  "id": 1125412687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5,13.43333,120.5,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":120.5,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":14046,
+    "gn:population":14046,
+    "iso:country":"PH",
+    "lbl:latitude":13.43333,
+    "lbl:longitude":120.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Paluan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1695983,
+    "qs_pg:gn_pop":14046,
+    "qs_pg:name":"Paluan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":87078,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108698753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695983,
+        "qs_pg:id":87078
+    },
+    "wof:country":"PH",
+    "wof:created":1497050692,
+    "wof:geomhash":"a692e9a7b6bab5f4b92a1fcc9d23dad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698753,
+            "localadmin_id":1125412687,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":1125412687,
+    "wof:lastmodified":1509390303,
+    "wof:name":"Paluan",
+    "wof:parent_id":1108698753,
+    "wof:placetype":"localadmin",
+    "wof:population":14046,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5,
+    13.43333,
+    120.5,
+    13.43333
+],
+  "geometry": {"coordinates":[120.5,13.43333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890416245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0407,13.5437,123.0407,13.5437",
+    "geom:latitude":13.5437,
+    "geom:longitude":123.0407,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2501,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bahay"
+    ],
+    "qs:name":"Bahay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728837,
+        "qs:id":135910,
+        "wd:id":"Q23048106",
+        "wk:page":"Bahay"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051126,
+    "wof:geomhash":"fe329e852c4eeaee9bc1c0fa1bf32294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698823,
+            "locality_id":890416245,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890416245,
+    "wof:lastmodified":1527792799,
+    "wof:name":"Bahay",
+    "wof:parent_id":1108698823,
+    "wof:placetype":"locality",
+    "wof:population":2501,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0407,
+    13.5437,
+    123.0407,
+    13.5437
+],
+  "geometry": {"coordinates":[123.0407,13.5437],"type":"Point"}
+}

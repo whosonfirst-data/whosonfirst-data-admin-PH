@@ -1,0 +1,71 @@
+{
+  "id": 890450605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1,13.56667,123.1,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":123.1,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5065,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "San Gabriel"
+    ],
+    "qs:name":"San Gabriel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689939,
+        "gp:id":1190791,
+        "qs:id":86778,
+        "wk:page":"San Gabriel"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052746,
+    "wof:geomhash":"e4b5c6b7fc149906b6f96fb92b386cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698761,
+            "locality_id":890450605,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890450605,
+    "wof:lastmodified":1527792961,
+    "wof:name":"San Gabriel",
+    "wof:parent_id":1108698761,
+    "wof:placetype":"locality",
+    "wof:population":5065,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1,
+    13.56667,
+    123.1,
+    13.56667
+],
+  "geometry": {"coordinates":[123.09999999999999,13.56667],"type":"Point"}
+}

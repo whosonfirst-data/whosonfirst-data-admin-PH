@@ -1,0 +1,81 @@
+{
+  "id": 1125848703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47982,14.9229,120.47982,14.9229",
+    "geom:latitude":14.9229,
+    "geom:longitude":120.47982,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2479,
+    "gn:population":2479,
+    "iso:country":"PH",
+    "lbl:latitude":14.9229,
+    "lbl:longitude":120.47982,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bodega"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1724461,
+    "qs_pg:gn_pop":2479,
+    "qs_pg:name":"Bodega",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88257,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108697595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724461,
+        "qs_pg:id":88257
+    },
+    "wof:country":"PH",
+    "wof:created":1497293290,
+    "wof:geomhash":"1352b15d0eda3a8b8a291fa503bbca59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697595,
+            "locality_id":1125848703,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1125848703,
+    "wof:lastmodified":1509395794,
+    "wof:name":"Bodega",
+    "wof:parent_id":1108697595,
+    "wof:placetype":"locality",
+    "wof:population":2479,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47982,
+    14.9229,
+    120.47982,
+    14.9229
+],
+  "geometry": {"coordinates":[120.47982,14.9229],"type":"Point"}
+}

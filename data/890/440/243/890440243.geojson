@@ -1,0 +1,72 @@
+{
+  "id": 890440243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9553,15.4541,119.9553,15.4541",
+    "geom:latitude":15.4541,
+    "geom:longitude":119.9553,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4599,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Salaza"
+    ],
+    "name:unk_x_variant":[
+        "Salasa"
+    ],
+    "qs:name":"Salaza",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108698743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690920,
+        "gp:id":1191292,
+        "qs:id":276924
+    },
+    "wof:country":"PH",
+    "wof:created":1469052267,
+    "wof:geomhash":"b443f099bfb5aafd41878906280fdb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698743,
+            "locality_id":890440243,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":890440243,
+    "wof:lastmodified":1505343575,
+    "wof:name":"Salaza",
+    "wof:parent_id":1108698743,
+    "wof:placetype":"locality",
+    "wof:population":4599,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9553,
+    15.4541,
+    119.9553,
+    15.4541
+],
+  "geometry": {"coordinates":[119.95529999999999,15.4541],"type":"Point"}
+}

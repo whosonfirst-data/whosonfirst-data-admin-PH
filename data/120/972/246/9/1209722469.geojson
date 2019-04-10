@@ -1,0 +1,75 @@
+{
+  "id": 1209722469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0648,14.859,121.0648,14.859",
+    "geom:latitude":14.859,
+    "geom:longitude":121.0648,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"31420000.0",
+    "gn:asciiname":"Santo Nino Segundo",
+    "gn:country_code":"PH",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355211,
+    "gn:latitude":14.859,
+    "gn:longitude":121.0648,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santo Ni\u00f1o Segundo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santo Ni\u00f1o"
+    ],
+    "name:und_x_variant":[
+        "Santo Ni\u00f1o Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135,
+        1108698593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355211
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c063d177b31040801ac590596e499a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698593,
+            "locality_id":1209722469,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":1209722469,
+    "wof:lastmodified":1537679068,
+    "wof:name":"Santo Nino Segundo",
+    "wof:parent_id":1108698593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0648,
+    14.859,
+    121.0648,
+    14.859
+],
+  "geometry": {"coordinates":[121.06480000000001,14.859],"type":"Point"}
+}

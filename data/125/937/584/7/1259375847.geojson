@@ -1,0 +1,72 @@
+{
+  "id": 1259375847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1241,13.6179,123.1241,13.6179",
+    "geom:latitude":13.6179,
+    "geom:longitude":123.1241,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51710000.0",
+    "gn:asciiname":"Iquin",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710568,
+    "gn:latitude":13.6179,
+    "gn:longitude":123.1241,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Iquin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Iquin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710568
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"936bf8a3fa8f8664b5d9b78a4ab2b93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697237,
+            "locality_id":1259375847,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1259375847,
+    "wof:lastmodified":1537678115,
+    "wof:name":"Iquin",
+    "wof:parent_id":1108697237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1241,
+    13.6179,
+    123.1241,
+    13.6179
+],
+  "geometry": {"coordinates":[123.1241,13.6179],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293610705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5004,11.5473,122.5004,11.5473",
+    "geom:latitude":11.5473,
+    "geom:longitude":122.5004,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60404000.0",
+    "gn:asciiname":"Tagbigui",
+    "gn:country_code":"PH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7412945,
+    "gn:latitude":11.5473,
+    "gn:longitude":122.5004,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tagbigui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagbigui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108696937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7412945
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"037fd394a10773d590360b0a21ddf1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696937,
+            "locality_id":1293610705,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1293610705,
+    "wof:lastmodified":1537678853,
+    "wof:name":"Tagbigui",
+    "wof:parent_id":1108696937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5004,
+    11.5473,
+    122.5004,
+    11.5473
+],
+  "geometry": {"coordinates":[122.5004,11.5473],"type":"Point"}
+}

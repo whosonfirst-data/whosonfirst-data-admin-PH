@@ -1,0 +1,75 @@
+{
+  "id": 1343449411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.642,8.6223,123.642,8.6223",
+    "geom:latitude":8.6223,
+    "geom:longitude":123.642,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104202000.0",
+    "gn:asciiname":"Siniam",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686205,
+    "gn:latitude":8.6223,
+    "gn:longitude":123.642,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Siniam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Siniam"
+    ],
+    "name:und_x_variant":[
+        "Sinian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108698919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686205
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"96dd70be07a3d1e85f5808e0694ff6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698919,
+            "locality_id":1343449411,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1343449411,
+    "wof:lastmodified":1537677418,
+    "wof:name":"Siniam",
+    "wof:parent_id":1108698919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.642,
+    8.6223,
+    123.642,
+    8.6223
+],
+  "geometry": {"coordinates":[123.642,8.6223],"type":"Point"}
+}

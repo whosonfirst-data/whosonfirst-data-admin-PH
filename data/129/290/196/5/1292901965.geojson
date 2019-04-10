@@ -1,0 +1,76 @@
+{
+  "id": 1292901965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3976,13.875,124.3976,13.875",
+    "geom:latitude":13.875,
+    "geom:longitude":124.3976,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"52010000.0",
+    "gn:asciiname":"Batinagon",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723840,
+    "gn:latitude":13.875,
+    "gn:longitude":124.3976,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Batinagon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Batinagon"
+    ],
+    "name:und_x_variant":[
+        "Butinagan",
+        "Botinagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108699859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723840
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"40a6f86352f86dcf452ea9b1a12123e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699859,
+            "locality_id":1292901965,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":1292901965,
+    "wof:lastmodified":1537678500,
+    "wof:name":"Batinagon",
+    "wof:parent_id":1108699859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3976,
+    13.875,
+    124.3976,
+    13.875
+],
+  "geometry": {"coordinates":[124.3976,13.875],"type":"Point"}
+}

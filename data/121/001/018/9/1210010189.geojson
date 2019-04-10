@@ -1,0 +1,72 @@
+{
+  "id": 1210010189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.285,8.45889,124.285,8.45889",
+    "geom:latitude":8.45889,
+    "geom:longitude":124.285,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"104310000.0",
+    "gn:asciiname":"Pagohan",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696549,
+    "gn:latitude":8.45889,
+    "gn:longitude":124.285,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pagohan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pagohan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108697771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696549
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6e64b184c9a4d182acf49a5a9426ae99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697771,
+            "locality_id":1210010189,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":1210010189,
+    "wof:lastmodified":1537677716,
+    "wof:name":"Pagohan",
+    "wof:parent_id":1108697771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.285,
+    8.45889,
+    124.285,
+    8.45889
+],
+  "geometry": {"coordinates":[124.285,8.45889],"type":"Point"}
+}

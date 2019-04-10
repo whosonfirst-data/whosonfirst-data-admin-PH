@@ -1,0 +1,72 @@
+{
+  "id": 890451283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4781,16.263,120.4781,16.263",
+    "geom:latitude":16.263,
+    "geom:longitude":120.4781,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2831,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Inabaan Sur"
+    ],
+    "name:fil_x_variant":[
+        "Inabaan"
+    ],
+    "qs:name":"Inabaan Sur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710912,
+        "gp:id":91425937,
+        "qs:id":87718
+    },
+    "wof:country":"PH",
+    "wof:created":1469052772,
+    "wof:geomhash":"819da5c87ac8408992892190bc9aac47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699043,
+            "locality_id":890451283,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":890451283,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Inabaan Sur",
+    "wof:parent_id":1108699043,
+    "wof:placetype":"locality",
+    "wof:population":2831,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4781,
+    16.263,
+    120.4781,
+    16.263
+],
+  "geometry": {"coordinates":[120.4781,16.263],"type":"Point"}
+}

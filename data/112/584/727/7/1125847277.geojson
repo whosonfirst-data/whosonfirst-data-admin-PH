@@ -1,0 +1,84 @@
+{
+  "id": 1125847277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43528,5.63278,125.43528,5.63278",
+    "geom:latitude":5.63278,
+    "geom:longitude":125.43528,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2610,
+    "gn:population":2610,
+    "iso:country":"PH",
+    "lbl:latitude":5.63278,
+    "lbl:longitude":125.43528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Nuing"
+    ],
+    "name:unk_x_variant":[
+        "Nuin"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1697607,
+    "qs_pg:gn_pop":2610,
+    "qs_pg:name":"Nuing",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87135,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1108810255,
+        1108697839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697607,
+        "qs_pg:id":87135
+    },
+    "wof:country":"PH",
+    "wof:created":1497293226,
+    "wof:geomhash":"34d324ebcf2ba133030616ce73aef20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697839,
+            "locality_id":1125847277,
+            "region_id":1108810255
+        }
+    ],
+    "wof:id":1125847277,
+    "wof:lastmodified":1509395712,
+    "wof:name":"Nuing",
+    "wof:parent_id":1108697839,
+    "wof:placetype":"locality",
+    "wof:population":2610,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43528,
+    5.63278,
+    125.43528,
+    5.63278
+],
+  "geometry": {"coordinates":[125.43528000000001,5.63278],"type":"Point"}
+}

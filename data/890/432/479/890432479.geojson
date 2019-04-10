@@ -1,0 +1,69 @@
+{
+  "id": 890432479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.55528,6.59722,124.55528,6.59722",
+    "geom:latitude":6.59722,
+    "geom:longitude":124.55528,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2334,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Biwang"
+    ],
+    "qs:name":"Biwang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108696793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724632,
+        "gp:id":1177397,
+        "qs:id":135653
+    },
+    "wof:country":"PH",
+    "wof:created":1469051942,
+    "wof:geomhash":"5db6216d071e5e2757fbebdbe85ac109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696793,
+            "locality_id":890432479,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":890432479,
+    "wof:lastmodified":1505343529,
+    "wof:name":"Biwang",
+    "wof:parent_id":1108696793,
+    "wof:placetype":"locality",
+    "wof:population":2334,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.55528,
+    6.59722,
+    124.55528,
+    6.59722
+],
+  "geometry": {"coordinates":[124.55528,6.59722],"type":"Point"}
+}

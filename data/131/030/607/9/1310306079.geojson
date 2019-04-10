@@ -1,0 +1,72 @@
+{
+  "id": 1310306079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97165,15.37061,120.97165,15.37061",
+    "geom:latitude":15.37061,
+    "geom:longitude":120.97165,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34927000.0",
+    "gn:asciiname":"Mallorca",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702589,
+    "gn:latitude":15.37061,
+    "gn:longitude":120.97165,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mallorca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mallorca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702589
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"76e108268624ca1603d14239f4eecb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699235,
+            "locality_id":1310306079,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1310306079,
+    "wof:lastmodified":1537677888,
+    "wof:name":"Mallorca",
+    "wof:parent_id":1108699235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97165,
+    15.37061,
+    120.97165,
+    15.37061
+],
+  "geometry": {"coordinates":[120.97165,15.37061],"type":"Point"}
+}

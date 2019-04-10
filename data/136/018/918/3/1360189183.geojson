@@ -1,0 +1,72 @@
+{
+  "id": 1360189183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4065,13.5666,123.4065,13.5666",
+    "geom:latitude":13.5666,
+    "geom:longitude":123.4065,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51725000.0",
+    "gn:asciiname":"Iba",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7434349,
+    "gn:latitude":13.5666,
+    "gn:longitude":123.4065,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Iba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Iba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7434349
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fef96486aeb07a21bd23c099993e5dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698889,
+            "locality_id":1360189183,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1360189183,
+    "wof:lastmodified":1537678938,
+    "wof:name":"Iba",
+    "wof:parent_id":1108698889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4065,
+    13.5666,
+    123.4065,
+    13.5666
+],
+  "geometry": {"coordinates":[123.40649999999999,13.5666],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310410385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.724,12.5619,123.724,12.5619",
+    "geom:latitude":12.5619,
+    "geom:longitude":123.724,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54119000.0",
+    "gn:asciiname":"Puro",
+    "gn:country_code":"PH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692363,
+    "gn:latitude":12.5619,
+    "gn:longitude":123.724,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Puro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Puro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692363
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e25b896cafdc2099166b390c559e3857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699193,
+            "locality_id":1310410385,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1310410385,
+    "wof:lastmodified":1537677598,
+    "wof:name":"Puro",
+    "wof:parent_id":1108699193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.724,
+    12.5619,
+    123.724,
+    12.5619
+],
+  "geometry": {"coordinates":[123.724,12.5619],"type":"Point"}
+}

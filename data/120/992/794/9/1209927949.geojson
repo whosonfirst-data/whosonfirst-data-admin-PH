@@ -1,0 +1,80 @@
+{
+  "id": 1209927949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4477,17.4476,120.4477,17.4476",
+    "geom:latitude":17.4476,
+    "geom:longitude":120.4477,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12914000.0",
+    "gn:asciiname":"Sulvec",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685363,
+    "gn:latitude":17.4476,
+    "gn:longitude":120.4477,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sulvec",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sulvec"
+    ],
+    "name:fil_x_variant":[
+        "Solvec",
+        "Salvec"
+    ],
+    "name:und_x_variant":[
+        "Solvec",
+        "Salvec"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108698555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685363
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"709bd2a4e53a23c52bf09f289ca8182e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698555,
+            "locality_id":1209927949,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1209927949,
+    "wof:lastmodified":1537677398,
+    "wof:name":"Sulvec",
+    "wof:parent_id":1108698555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4477,
+    17.4476,
+    120.4477,
+    17.4476
+],
+  "geometry": {"coordinates":[120.4477,17.4476],"type":"Point"}
+}

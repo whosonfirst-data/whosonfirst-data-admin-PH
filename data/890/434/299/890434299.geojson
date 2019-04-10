@@ -1,0 +1,69 @@
+{
+  "id": 890434299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85,14.41667,120.85,14.41667",
+    "geom:latitude":14.41667,
+    "geom:longitude":120.85,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2312,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kanluran"
+    ],
+    "qs:name":"Kanluran",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108699041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709341,
+        "gp:id":1189448,
+        "qs:id":135203
+    },
+    "wof:country":"PH",
+    "wof:created":1469052019,
+    "wof:geomhash":"e9adba0179a1e5ccaad5b87c6e7196e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699041,
+            "locality_id":890434299,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":890434299,
+    "wof:lastmodified":1505343540,
+    "wof:name":"Kanluran",
+    "wof:parent_id":1108699041,
+    "wof:placetype":"locality",
+    "wof:population":2312,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85,
+    14.41667,
+    120.85,
+    14.41667
+],
+  "geometry": {"coordinates":[120.84999999999999,14.41667],"type":"Point"}
+}

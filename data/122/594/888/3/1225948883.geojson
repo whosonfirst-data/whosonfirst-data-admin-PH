@@ -1,0 +1,77 @@
+{
+  "id": 1225948883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6152,12.5898,123.6152,12.5898",
+    "geom:latitude":12.5898,
+    "geom:longitude":123.6152,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54114000.0",
+    "gn:asciiname":"Tagaron",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681617,
+    "gn:latitude":12.5898,
+    "gn:longitude":123.6152,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tagaron",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagaron"
+    ],
+    "name:und_x_variant":[
+        "Tagoron",
+        "Torgoron",
+        "Togoron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681617
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"278771bbf3e8f9017d08663ca16546ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698503,
+            "locality_id":1225948883,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1225948883,
+    "wof:lastmodified":1537677296,
+    "wof:name":"Tagaron",
+    "wof:parent_id":1108698503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6152,
+    12.5898,
+    123.6152,
+    12.5898
+],
+  "geometry": {"coordinates":[123.6152,12.5898],"type":"Point"}
+}

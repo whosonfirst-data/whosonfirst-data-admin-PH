@@ -1,0 +1,68 @@
+{
+  "id": 1193011275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.70222,12.31806,123.70222,12.31806",
+    "geom:latitude":12.31806,
+    "geom:longitude":123.70222,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54113000.0",
+    "gn:asciiname":"Salvacion",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690719,
+    "gn:latitude":12.31806,
+    "gn:longitude":123.70222,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salvacion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Salvacion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690719
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0ada3e235fa01efb023d699e5b0e0265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1193011275,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193011275,
+    "wof:lastmodified":1537677555,
+    "wof:name":"Salvacion",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.70222,
+    12.31806,
+    123.70222,
+    12.31806
+],
+  "geometry": {"coordinates":[123.70222,12.31806],"type":"Point"}
+}

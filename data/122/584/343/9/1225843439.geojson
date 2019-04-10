@@ -1,0 +1,75 @@
+{
+  "id": 1225843439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.88056,12.8425,123.88056,12.8425",
+    "geom:latitude":12.8425,
+    "geom:longitude":123.88056,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56211000.0",
+    "gn:asciiname":"Incarizan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710785,
+    "gn:latitude":12.8425,
+    "gn:longitude":123.88056,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Incarizan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Encarisan",
+        "Incarisan",
+        "Incarizan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710785
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"25cf065dce6849c1f77efd51e09f23e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698233,
+            "locality_id":1225843439,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1225843439,
+    "wof:lastmodified":1537678121,
+    "wof:name":"Incarizan",
+    "wof:parent_id":1108698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.88056,
+    12.8425,
+    123.88056,
+    12.8425
+],
+  "geometry": {"coordinates":[123.88056,12.8425],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890436659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0338,8.2206,123.0338,8.2206",
+    "geom:latitude":8.2206,
+    "geom:longitude":123.0338,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2075,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dicayong"
+    ],
+    "name:unk_x_variant":[
+        "Dicoyong"
+    ],
+    "qs:name":"Dicayong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108699507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714994,
+        "gp:id":56121280,
+        "qs:id":1032842
+    },
+    "wof:country":"PH",
+    "wof:created":1469052120,
+    "wof:geomhash":"db84c3942af44339245d30722279d668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699507,
+            "locality_id":890436659,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":890436659,
+    "wof:lastmodified":1505343555,
+    "wof:name":"Dicayong",
+    "wof:parent_id":1108699507,
+    "wof:placetype":"locality",
+    "wof:population":2075,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0338,
+    8.2206,
+    123.0338,
+    8.2206
+],
+  "geometry": {"coordinates":[123.0338,8.2206],"type":"Point"}
+}

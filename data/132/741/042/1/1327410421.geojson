@@ -1,0 +1,75 @@
+{
+  "id": 1327410421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.98217,6.45521,124.98217,6.45521",
+    "geom:latitude":6.45521,
+    "geom:longitude":124.98217,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126314000.0",
+    "gn:asciiname":"Liberty",
+    "gn:country_code":"PH",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706660,
+    "gn:latitude":6.45521,
+    "gn:longitude":124.98217,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Liberty",
+    "gn:population":2172,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Liberty"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706660
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"aaeb790a4b704e61bacbe5b4c7bfe5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699657,
+            "locality_id":1327410421,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":1327410421,
+    "wof:lastmodified":1537678004,
+    "wof:name":"Liberty",
+    "wof:parent_id":1108699657,
+    "wof:placetype":"locality",
+    "wof:population":2172,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.98217,
+    6.45521,
+    124.98217,
+    6.45521
+],
+  "geometry": {"coordinates":[124.98217,6.45521],"type":"Point"}
+}

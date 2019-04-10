@@ -1,0 +1,74 @@
+{
+  "id": 1344170807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47182,17.12093,120.47182,17.12093",
+    "geom:latitude":17.12093,
+    "geom:longitude":120.47182,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12925000.0",
+    "gn:asciiname":"San Clemente de Nagtablan",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698632,
+    "gn:latitude":17.12093,
+    "gn:longitude":120.47182,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Clemente de Nagtablan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Clemente de Nagtablaan",
+        "San Clemente de Nagtablan",
+        "Nagtablaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698632
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3959a614724ede4a7e245a2365d8a00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699373,
+            "locality_id":1344170807,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1344170807,
+    "wof:lastmodified":1537677778,
+    "wof:name":"San Clemente de Nagtablan",
+    "wof:parent_id":1108699373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47182,
+    17.12093,
+    120.47182,
+    17.12093
+],
+  "geometry": {"coordinates":[120.47181999999999,17.12093],"type":"Point"}
+}

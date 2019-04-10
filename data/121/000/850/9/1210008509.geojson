@@ -1,0 +1,75 @@
+{
+  "id": 1210008509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2673,10.6591,122.2673,10.6591",
+    "geom:latitude":10.6591,
+    "geom:longitude":122.2673,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63030000.0",
+    "gn:asciiname":"San Anastacion",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690452,
+    "gn:latitude":10.6591,
+    "gn:longitude":122.2673,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Anastacion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Anastacion"
+    ],
+    "name:und_x_variant":[
+        "San Anastacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690452
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0dfcd390e0092c4ff81b378a299d7c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698469,
+            "locality_id":1210008509,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1210008509,
+    "wof:lastmodified":1537677547,
+    "wof:name":"San Anastacion",
+    "wof:parent_id":1108698469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2673,
+    10.6591,
+    122.2673,
+    10.6591
+],
+  "geometry": {"coordinates":[122.26730000000001,10.6591],"type":"Point"}
+}

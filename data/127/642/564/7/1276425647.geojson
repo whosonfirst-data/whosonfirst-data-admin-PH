@@ -1,0 +1,76 @@
+{
+  "id": 1276425647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.9872,11.5909,124.9872,11.5909",
+    "geom:latitude":11.5909,
+    "geom:longitude":124.9872,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86013000.0",
+    "gn:asciiname":"Bagon",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1966571,
+    "gn:latitude":11.5909,
+    "gn:longitude":124.9872,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bagon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bagon"
+    ],
+    "name:und_x_variant":[
+        "BaNgon",
+        "Bagon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108698893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966571
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1f17a9320716fc6764769ddd7cad1009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698893,
+            "locality_id":1276425647,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1276425647,
+    "wof:lastmodified":1537678804,
+    "wof:name":"Bagon",
+    "wof:parent_id":1108698893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.9872,
+    11.5909,
+    124.9872,
+    11.5909
+],
+  "geometry": {"coordinates":[124.9872,11.5909],"type":"Point"}
+}

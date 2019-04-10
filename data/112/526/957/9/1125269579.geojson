@@ -1,0 +1,78 @@
+{
+  "id": 1125269579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4,6.0,125.4,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":125.4,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":60119,
+    "gn:population":60119,
+    "iso:country":"PH",
+    "lbl:latitude":6.0,
+    "lbl:longitude":125.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1703052,
+    "qs_pg:gn_pop":60119,
+    "qs_pg:name":"Malapatan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":903642,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108698295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703052,
+        "qs_pg:id":903642
+    },
+    "wof:country":"PH",
+    "wof:created":1497042066,
+    "wof:geomhash":"ca2e0db4c68683b6e8fbec63c895b31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698295,
+            "localadmin_id":1125269579,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":1125269579,
+    "wof:lastmodified":1509386984,
+    "wof:name":"Malapatan",
+    "wof:parent_id":1108698295,
+    "wof:placetype":"localadmin",
+    "wof:population":60119,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4,
+    6.0,
+    125.4,
+    6.0
+],
+  "geometry": {"coordinates":[125.40000000000001,6.0],"type":"Point"}
+}

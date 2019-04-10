@@ -1,0 +1,73 @@
+{
+  "id": 890434457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.26667,7.75,124.26667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":124.26667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3471,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bualan"
+    ],
+    "qs:name":"Bualan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676169,
+        1108698155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978987,
+        "gp:id":1166932,
+        "qs:id":135611,
+        "qs_pg:id":277755
+    },
+    "wof:country":"PH",
+    "wof:created":1469052025,
+    "wof:geomhash":"04f771cdb97a79bd5082d94667f895ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698155,
+            "locality_id":890434457,
+            "region_id":85676169
+        }
+    ],
+    "wof:id":890434457,
+    "wof:lastmodified":1509410047,
+    "wof:name":"Bualan",
+    "wof:parent_id":1108698155,
+    "wof:placetype":"locality",
+    "wof:population":3471,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.26667,
+    7.75,
+    124.26667,
+    7.75
+],
+  "geometry": {"coordinates":[124.26667,7.75],"type":"Point"}
+}

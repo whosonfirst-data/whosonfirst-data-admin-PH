@@ -1,0 +1,70 @@
+{
+  "id": 890430331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0,13.33333,121.0,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":121.0,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":16129,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "San Teodoro"
+    ],
+    "qs:name":"San Teodoro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676159,
+        1108699319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687839,
+        "qs:id":86631,
+        "wk:page":"San Teodoro"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051848,
+    "wof:geomhash":"955d4adbc9d364a2857fb58f4c7afb1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699319,
+            "localadmin_id":890430331,
+            "region_id":85676159
+        }
+    ],
+    "wof:id":890430331,
+    "wof:lastmodified":1527729734,
+    "wof:name":"San Teodoro",
+    "wof:parent_id":1108699319,
+    "wof:placetype":"localadmin",
+    "wof:population":16129,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0,
+    13.33333,
+    121.0,
+    13.33333
+],
+  "geometry": {"coordinates":[121.0,13.33333],"type":"Point"}
+}

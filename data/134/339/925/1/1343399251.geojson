@@ -1,0 +1,69 @@
+{
+  "id": 1343399251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.84349,13.94236,121.84349,13.94236",
+    "geom:latitude":13.94236,
+    "geom:longitude":121.84349,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45629000.0",
+    "gn:asciiname":"Villapaz",
+    "gn:country_code":"PH",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313622,
+    "gn:latitude":13.94236,
+    "gn:longitude":121.84349,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villapaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313622
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f06eefd30b07350369798260556b8c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698715,
+            "locality_id":1343399251,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1343399251,
+    "wof:lastmodified":1536833495,
+    "wof:name":"Villapaz",
+    "wof:parent_id":1108698715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.84349,
+    13.94236,
+    121.84349,
+    13.94236
+],
+  "geometry": {"coordinates":[121.84349,13.94236],"type":"Point"}
+}

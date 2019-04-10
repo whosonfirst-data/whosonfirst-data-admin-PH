@@ -1,0 +1,68 @@
+{
+  "id": 890443167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.54356,7.7627,122.54356,7.7627",
+    "geom:latitude":7.7627,
+    "geom:longitude":122.54356,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":546186,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Province of Zamboanga Sibugay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":231,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7115981,
+        "gp:id":28350153,
+        "qs:id":656677,
+        "wd:id":"Q131870",
+        "wk:page":"Kabasalan, Zamboanga Sibugay"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052404,
+    "wof:geomhash":"f5fde3b613c62c5c1f49da9869a9c18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890443167,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":890443167,
+    "wof:lastmodified":1527787058,
+    "wof:name":"Province of Zamboanga Sibugay",
+    "wof:parent_id":85675963,
+    "wof:placetype":"county",
+    "wof:population":546186,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.54356,
+    7.7627,
+    122.54356,
+    7.7627
+],
+  "geometry": {"coordinates":[122.54356,7.7627],"type":"Point"}
+}

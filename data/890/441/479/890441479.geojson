@@ -1,0 +1,68 @@
+{
+  "id": 890441479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.86667,7.6,125.86667,7.6",
+    "geom:latitude":7.6,
+    "geom:longitude":125.86667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":49757,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "New Corella"
+    ],
+    "qs:name":"New Corella",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108698573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697774,
+        "qs:id":87151
+    },
+    "wof:country":"PH",
+    "wof:created":1469052325,
+    "wof:geomhash":"0c359a2943885ff72f3a5c46dc9d3952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698573,
+            "localadmin_id":890441479,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":890441479,
+    "wof:lastmodified":1505343582,
+    "wof:name":"New Corella",
+    "wof:parent_id":1108698573,
+    "wof:placetype":"localadmin",
+    "wof:population":49757,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.86667,
+    7.6,
+    125.86667,
+    7.6
+],
+  "geometry": {"coordinates":[125.86667,7.6],"type":"Point"}
+}

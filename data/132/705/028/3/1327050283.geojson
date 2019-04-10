@@ -1,0 +1,72 @@
+{
+  "id": 1327050283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4147,9.691,123.4147,9.691",
+    "geom:latitude":9.691,
+    "geom:longitude":123.4147,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72229000.0",
+    "gn:asciiname":"Trigup",
+    "gn:country_code":"PH",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681319,
+    "gn:latitude":9.691,
+    "gn:longitude":123.4147,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Trigup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Trigup"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681319
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"070e136b47a25fa77c2dd8c24f132299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696611,
+            "locality_id":1327050283,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1327050283,
+    "wof:lastmodified":1537677288,
+    "wof:name":"Trigup",
+    "wof:parent_id":1108696611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4147,
+    9.691,
+    123.4147,
+    9.691
+],
+  "geometry": {"coordinates":[123.4147,9.691],"type":"Point"}
+}

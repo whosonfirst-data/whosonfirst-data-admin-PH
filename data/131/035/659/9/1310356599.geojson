@@ -1,0 +1,72 @@
+{
+  "id": 1310356599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95693,14.33654,120.95693,14.33654",
+    "geom:latitude":14.33654,
+    "geom:longitude":120.95693,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42106000.0",
+    "gn:asciiname":"San Esteban",
+    "gn:country_code":"PH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8610610,
+    "gn:latitude":14.33654,
+    "gn:longitude":120.95693,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Esteban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barangay Cuatro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8610610
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8c3f424f428ae546014e74d23b467793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697453,
+            "locality_id":1310356599,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1310356599,
+    "wof:lastmodified":1537679088,
+    "wof:name":"San Esteban",
+    "wof:parent_id":1108697453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95693,
+    14.33654,
+    120.95693,
+    14.33654
+],
+  "geometry": {"coordinates":[120.95693,14.33654],"type":"Point"}
+}

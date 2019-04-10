@@ -1,0 +1,63 @@
+{
+  "id": 1209203831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.19278,7.7375,123.19278,7.7375",
+    "geom:latitude":7.7375,
+    "geom:longitude":123.19278,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97313000.0",
+    "gn:asciiname":"Dumara",
+    "gn:country_code":"PH",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958325,
+    "gn:latitude":7.7375,
+    "gn:longitude":123.19278,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dumara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958325
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"624038b9c79c244e4366a9a43b98384d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209203831
+        }
+    ],
+    "wof:id":1209203831,
+    "wof:lastmodified":1536294520,
+    "wof:name":"Dumara",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.19278,
+    7.7375,
+    123.19278,
+    7.7375
+],
+  "geometry": {"coordinates":[123.19278,7.7375],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360204899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3297,9.5704,123.3297,9.5704",
+    "geom:latitude":9.5704,
+    "geom:longitude":123.3297,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72225000.0",
+    "gn:asciiname":"Kabatoan",
+    "gn:country_code":"PH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425894,
+    "gn:latitude":9.5704,
+    "gn:longitude":123.3297,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kabatoan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kabatoan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425894
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"461984a0214fd835978063cb7adfdef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697647,
+            "locality_id":1360204899,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1360204899,
+    "wof:lastmodified":1537678899,
+    "wof:name":"Kabatoan",
+    "wof:parent_id":1108697647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3297,
+    9.5704,
+    123.3297,
+    9.5704
+],
+  "geometry": {"coordinates":[123.3297,9.5704],"type":"Point"}
+}

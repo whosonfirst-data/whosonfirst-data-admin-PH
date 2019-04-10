@@ -1,0 +1,78 @@
+{
+  "id": 1226443785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2265,15.65913,121.2265,15.65913",
+    "geom:latitude":15.65913,
+    "geom:longitude":121.2265,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34902000.0",
+    "gn:asciiname":"Calaanan",
+    "gn:country_code":"PH",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720811,
+    "gn:latitude":15.65913,
+    "gn:longitude":121.2265,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calaanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calaanan"
+    ],
+    "name:fil_x_variant":[
+        "Kalanan"
+    ],
+    "name:und_x_variant":[
+        "Kalanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720811
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1119634d18d542e2f810f983309ded75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697045,
+            "locality_id":1226443785,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1226443785,
+    "wof:lastmodified":1537678405,
+    "wof:name":"Calaanan",
+    "wof:parent_id":1108697045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2265,
+    15.65913,
+    121.2265,
+    15.65913
+],
+  "geometry": {"coordinates":[121.2265,15.65913],"type":"Point"}
+}

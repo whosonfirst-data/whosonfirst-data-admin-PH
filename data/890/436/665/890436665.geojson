@@ -1,0 +1,69 @@
+{
+  "id": 890436665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.93333,12.98333,123.93333,12.98333",
+    "geom:latitude":12.98333,
+    "geom:longitude":123.93333,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2328,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Capuy"
+    ],
+    "qs:name":"Capuy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        890455201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718564,
+        "gp:id":1165361,
+        "qs:id":1032919
+    },
+    "wof:country":"PH",
+    "wof:created":1469052120,
+    "wof:geomhash":"f82032e8fe3c32fcb577ae608c5339b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890455201,
+            "locality_id":890436665,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":890436665,
+    "wof:lastmodified":1505343555,
+    "wof:name":"Capuy",
+    "wof:parent_id":890455201,
+    "wof:placetype":"locality",
+    "wof:population":2328,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.93333,
+    12.98333,
+    123.93333,
+    12.98333
+],
+  "geometry": {"coordinates":[123.93333,12.98333],"type":"Point"}
+}

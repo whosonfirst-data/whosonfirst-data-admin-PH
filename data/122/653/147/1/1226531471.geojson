@@ -1,0 +1,75 @@
+{
+  "id": 1226531471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2639,7.5389,123.2639,7.5389",
+    "geom:latitude":7.5389,
+    "geom:longitude":123.2639,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97305000.0",
+    "gn:asciiname":"Saluwagan",
+    "gn:country_code":"PH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690747,
+    "gn:latitude":7.5389,
+    "gn:longitude":123.2639,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Saluwagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saluwagan"
+    ],
+    "name:und_x_variant":[
+        "Salaogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108697483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690747
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2f97a1f453991e9e696624e96c859473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697483,
+            "locality_id":1226531471,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1226531471,
+    "wof:lastmodified":1537677556,
+    "wof:name":"Saluwagan",
+    "wof:parent_id":1108697483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2639,
+    7.5389,
+    123.2639,
+    7.5389
+],
+  "geometry": {"coordinates":[123.26390000000001,7.5389],"type":"Point"}
+}

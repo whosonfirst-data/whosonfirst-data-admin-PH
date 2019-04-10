@@ -1,0 +1,81 @@
+{
+  "id": 1126001969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.64139,6.70278,124.64139,6.70278",
+    "geom:latitude":6.70278,
+    "geom:longitude":124.64139,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2223,
+    "gn:population":2223,
+    "iso:country":"PH",
+    "lbl:latitude":6.70278,
+    "lbl:longitude":124.64139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Lagao"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1697765,
+    "qs_pg:gn_pop":2223,
+    "qs_pg:name":"New Lagao",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87146,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108699597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697765,
+        "qs_pg:id":87146
+    },
+    "wof:country":"PH",
+    "wof:created":1497299704,
+    "wof:geomhash":"d89fde1089c6c1e01ebf97f7602af3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699597,
+            "locality_id":1126001969,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":1126001969,
+    "wof:lastmodified":1509406203,
+    "wof:name":"New Lagao",
+    "wof:parent_id":1108699597,
+    "wof:placetype":"locality",
+    "wof:population":2223,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.64139,
+    6.70278,
+    124.64139,
+    6.70278
+],
+  "geometry": {"coordinates":[124.64139,6.70278],"type":"Point"}
+}

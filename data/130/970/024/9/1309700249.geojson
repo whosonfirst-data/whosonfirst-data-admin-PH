@@ -1,0 +1,75 @@
+{
+  "id": 1309700249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65056,6.31667,125.65056,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":125.65056,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"P3",
+    "gn:admin3_code":"118603000.0",
+    "gn:asciiname":"Bisang",
+    "gn:country_code":"PH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724783,
+    "gn:latitude":6.31667,
+    "gn:longitude":125.65056,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bisang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bisang"
+    ],
+    "name:und_x_variant":[
+        "Besang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108698315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724783
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8679c5b0aa9715decb8af156e926b885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698315,
+            "locality_id":1309700249,
+            "region_id":85676253
+        }
+    ],
+    "wof:id":1309700249,
+    "wof:lastmodified":1537678527,
+    "wof:name":"Bisang",
+    "wof:parent_id":1108698315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65056,
+    6.31667,
+    125.65056,
+    6.31667
+],
+  "geometry": {"coordinates":[125.65056,6.31667],"type":"Point"}
+}

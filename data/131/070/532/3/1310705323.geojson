@@ -1,0 +1,73 @@
+{
+  "id": 1310705323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47517,17.10255,120.47517,17.10255",
+    "geom:latitude":17.10255,
+    "geom:longitude":120.47517,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12924000.0",
+    "gn:asciiname":"Tampugo",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683399,
+    "gn:latitude":17.10255,
+    "gn:longitude":120.47517,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tampugo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tampogo",
+        "Tampugo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683399
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"76115d6e07e062a50cd4bbc427df4446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699373,
+            "locality_id":1310705323,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1310705323,
+    "wof:lastmodified":1537677343,
+    "wof:name":"Tampugo",
+    "wof:parent_id":1108699373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47517,
+    17.10255,
+    120.47517,
+    17.10255
+],
+  "geometry": {"coordinates":[120.47517000000001,17.10255],"type":"Point"}
+}

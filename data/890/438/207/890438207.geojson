@@ -1,0 +1,78 @@
+{
+  "id": 890438207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5147,18.3762,121.5147,18.3762",
+    "geom:latitude":18.3762,
+    "geom:longitude":121.5147,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2342,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mabuttal East"
+    ],
+    "name:fil_x_preferred":[
+        "Mabutal"
+    ],
+    "name:fil_x_variant":[
+        "Mabuttal"
+    ],
+    "name:unk_x_variant":[
+        "Mabuttal"
+    ],
+    "qs:name":"Mabuttal East",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704472,
+        "gp:id":91424037,
+        "qs:id":135006
+    },
+    "wof:country":"PH",
+    "wof:created":1469052184,
+    "wof:geomhash":"a1d1e87bc034275f33891f4fa7ae812d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696853,
+            "locality_id":890438207,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890438207,
+    "wof:lastmodified":1505343564,
+    "wof:name":"Mabuttal East",
+    "wof:parent_id":1108696853,
+    "wof:placetype":"locality",
+    "wof:population":2342,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5147,
+    18.3762,
+    121.5147,
+    18.3762
+],
+  "geometry": {"coordinates":[121.5147,18.3762],"type":"Point"}
+}

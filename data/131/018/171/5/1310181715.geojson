@@ -1,0 +1,68 @@
+{
+  "id": 1310181715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.28333,7.2,124.28333,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":124.28333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"B8",
+    "gn:asciiname":"Busao",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722340,
+    "gn:latitude":7.2,
+    "gn:longitude":124.28333,
+    "gn:modification_date":"2014-03-01",
+    "gn:name":"Busao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676305,
+        1108698663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722340
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d0a5b453b409d2b0e05a35d5b5b76eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698663,
+            "locality_id":1310181715,
+            "region_id":85676305
+        }
+    ],
+    "wof:id":1310181715,
+    "wof:lastmodified":1536886208,
+    "wof:name":"Busao",
+    "wof:parent_id":1108698663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.28333,
+    7.2,
+    124.28333,
+    7.2
+],
+  "geometry": {"coordinates":[124.28333000000001,7.2],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293593795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.123,13.5806,124.123,13.5806",
+    "geom:latitude":13.5806,
+    "geom:longitude":124.123,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"52008000.0",
+    "gn:asciiname":"Bocti",
+    "gn:country_code":"PH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679468,
+    "gn:latitude":13.5806,
+    "gn:longitude":124.123,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bocti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bocti"
+    ],
+    "name:und_x_variant":[
+        "Yocti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108699107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679468
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c1c0630772427ee7d247ad84d21cda3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699107,
+            "locality_id":1293593795,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":1293593795,
+    "wof:lastmodified":1537677234,
+    "wof:name":"Bocti",
+    "wof:parent_id":1108699107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.123,
+    13.5806,
+    124.123,
+    13.5806
+],
+  "geometry": {"coordinates":[124.123,13.5806],"type":"Point"}
+}

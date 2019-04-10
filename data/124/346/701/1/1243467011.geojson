@@ -1,0 +1,72 @@
+{
+  "id": 1243467011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56667,16.9,121.56667,16.9",
+    "geom:latitude":16.9,
+    "geom:longitude":121.56667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23132000.0",
+    "gn:asciiname":"Caggong",
+    "gn:country_code":"PH",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721004,
+    "gn:latitude":16.9,
+    "gn:longitude":121.56667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caggong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Caggong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108698947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721004
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fed6399942bb3a8276b0ca9baa92ba6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698947,
+            "locality_id":1243467011,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1243467011,
+    "wof:lastmodified":1537678412,
+    "wof:name":"Caggong",
+    "wof:parent_id":1108698947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56667,
+    16.9,
+    121.56667,
+    16.9
+],
+  "geometry": {"coordinates":[121.56667,16.9],"type":"Point"}
+}

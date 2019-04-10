@@ -1,0 +1,66 @@
+{
+  "id": 1209098113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2298,10.9271,122.2298,10.9271",
+    "geom:latitude":10.9271,
+    "geom:longitude":122.2298,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60614000.0",
+    "gn:asciiname":"Angeles",
+    "gn:country_code":"PH",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730741,
+    "gn:latitude":10.9271,
+    "gn:longitude":122.2298,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Angeles",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Angeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730741
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fe539457c3918c0d2778d5e15a979656",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209098113
+        }
+    ],
+    "wof:id":1209098113,
+    "wof:lastmodified":1537678704,
+    "wof:name":"Angeles",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2298,
+    10.9271,
+    122.2298,
+    10.9271
+],
+  "geometry": {"coordinates":[122.2298,10.9271],"type":"Point"}
+}

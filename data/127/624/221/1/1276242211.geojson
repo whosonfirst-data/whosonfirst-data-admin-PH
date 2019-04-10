@@ -1,0 +1,75 @@
+{
+  "id": 1276242211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3461,16.7558,120.3461,16.7558",
+    "geom:latitude":16.7558,
+    "geom:longitude":120.3461,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13303000.0",
+    "gn:asciiname":"Galongan",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713331,
+    "gn:latitude":16.7558,
+    "gn:longitude":120.3461,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Galongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Galongan"
+    ],
+    "name:fil_x_variant":[
+        "Galongen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108696745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713331
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e5f0efaaccfd0d6f5b6a65bb6d68236a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696745,
+            "locality_id":1276242211,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1276242211,
+    "wof:lastmodified":1537678193,
+    "wof:name":"Galongan",
+    "wof:parent_id":1108696745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3461,
+    16.7558,
+    120.3461,
+    16.7558
+],
+  "geometry": {"coordinates":[120.34610000000001,16.7558],"type":"Point"}
+}

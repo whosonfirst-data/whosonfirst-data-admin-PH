@@ -1,0 +1,75 @@
+{
+  "id": 1209819991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.481,13.7268,123.481,13.7268",
+    "geom:latitude":13.7268,
+    "geom:longitude":123.481,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51715000.0",
+    "gn:asciiname":"Napawon",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698192,
+    "gn:latitude":13.7268,
+    "gn:longitude":123.481,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Napawon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Napawon"
+    ],
+    "name:und_x_variant":[
+        "Napauon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698192
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0df8aa4589641e07efa8a28ecae570e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697659,
+            "locality_id":1209819991,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1209819991,
+    "wof:lastmodified":1537677763,
+    "wof:name":"Napawon",
+    "wof:parent_id":1108697659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.481,
+    13.7268,
+    123.481,
+    13.7268
+],
+  "geometry": {"coordinates":[123.48099999999999,13.7268],"type":"Point"}
+}

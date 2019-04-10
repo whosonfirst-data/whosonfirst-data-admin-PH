@@ -1,0 +1,68 @@
+{
+  "id": 1243340907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.245,6.11972,125.245,6.11972",
+    "geom:latitude":6.11972,
+    "geom:longitude":125.245,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Mara",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1978413,
+    "gn:latitude":6.11972,
+    "gn:longitude":125.245,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Mara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108696585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978413
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3b44e2c00dba791a67a3b4be8ebd9613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696585,
+            "locality_id":1243340907,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":1243340907,
+    "wof:lastmodified":1536957787,
+    "wof:name":"Mara",
+    "wof:parent_id":1108696585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.245,
+    6.11972,
+    125.245,
+    6.11972
+],
+  "geometry": {"coordinates":[125.245,6.11972],"type":"Point"}
+}

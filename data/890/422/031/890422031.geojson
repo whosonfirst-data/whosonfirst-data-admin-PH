@@ -1,0 +1,72 @@
+{
+  "id": 890422031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.08493,14.97728,120.08493,14.97728",
+    "geom:latitude":14.97728,
+    "geom:longitude":120.08493,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2565,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Beddeng"
+    ],
+    "name:unk_x_variant":[
+        "Bedung"
+    ],
+    "qs:name":"Beddeng",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108699279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725642,
+        "gp:id":1189326,
+        "qs:id":135718
+    },
+    "wof:country":"PH",
+    "wof:created":1469051424,
+    "wof:geomhash":"162c13dbac2600b5377a971b138d3a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699279,
+            "locality_id":890422031,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":890422031,
+    "wof:lastmodified":1505343467,
+    "wof:name":"Beddeng",
+    "wof:parent_id":1108699279,
+    "wof:placetype":"locality",
+    "wof:population":2565,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.08493,
+    14.97728,
+    120.08493,
+    14.97728
+],
+  "geometry": {"coordinates":[120.08493,14.97728],"type":"Point"}
+}

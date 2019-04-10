@@ -1,0 +1,72 @@
+{
+  "id": 1343457115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.79056,12.86833,123.79056,12.86833",
+    "geom:latitude":12.86833,
+    "geom:longitude":123.79056,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56206000.0",
+    "gn:asciiname":"Daphi",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715552,
+    "gn:latitude":12.86833,
+    "gn:longitude":123.79056,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Daphi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Daphi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715552
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"044e2afddff98d023eb523d8a3fc6286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697315,
+            "locality_id":1343457115,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1343457115,
+    "wof:lastmodified":1537678250,
+    "wof:name":"Daphi",
+    "wof:parent_id":1108697315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.79056,
+    12.86833,
+    123.79056,
+    12.86833
+],
+  "geometry": {"coordinates":[123.79056,12.86833],"type":"Point"}
+}

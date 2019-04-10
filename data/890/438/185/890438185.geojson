@@ -1,0 +1,75 @@
+{
+  "id": 890438185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.868,16.9642,120.868,16.9642",
+    "geom:latitude":16.9642,
+    "geom:longitude":120.868,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4114,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Guinsadan"
+    ],
+    "name:fil_x_variant":[
+        "Guinzaden"
+    ],
+    "name:unk_x_variant":[
+        "Guinzaden"
+    ],
+    "qs:name":"Guinsadan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676079,
+        1108696961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712307,
+        "gp:id":91798469,
+        "qs:id":87774
+    },
+    "wof:country":"PH",
+    "wof:created":1469052183,
+    "wof:geomhash":"520714bb2001d6d9f9cac07efdaf1bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696961,
+            "locality_id":890438185,
+            "region_id":85676079
+        }
+    ],
+    "wof:id":890438185,
+    "wof:lastmodified":1505343564,
+    "wof:name":"Guinsadan",
+    "wof:parent_id":1108696961,
+    "wof:placetype":"locality",
+    "wof:population":4114,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.868,
+    16.9642,
+    120.868,
+    16.9642
+],
+  "geometry": {"coordinates":[120.86799999999999,16.9642],"type":"Point"}
+}

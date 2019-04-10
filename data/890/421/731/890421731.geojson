@@ -1,0 +1,69 @@
+{
+  "id": 890421731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.619,16.0195,120.619,16.0195",
+    "geom:latitude":16.0195,
+    "geom:longitude":120.619,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3938,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calepaan"
+    ],
+    "qs:name":"Calepaan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720374,
+        "gp:id":91796633,
+        "qs:id":277295
+    },
+    "wof:country":"PH",
+    "wof:created":1469051405,
+    "wof:geomhash":"6a2ea794e35eaaeb6eff30ac83e67e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697001,
+            "locality_id":890421731,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890421731,
+    "wof:lastmodified":1505343465,
+    "wof:name":"Calepaan",
+    "wof:parent_id":1108697001,
+    "wof:placetype":"locality",
+    "wof:population":3938,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.619,
+    16.0195,
+    120.619,
+    16.0195
+],
+  "geometry": {"coordinates":[120.619,16.0195],"type":"Point"}
+}

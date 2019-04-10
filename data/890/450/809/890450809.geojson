@@ -1,0 +1,69 @@
+{
+  "id": 890450809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4557,13.4432,122.4557,13.4432",
+    "geom:latitude":13.4432,
+    "geom:longitude":122.4557,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3149,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Patabog"
+    ],
+    "qs:name":"Patabog",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694475,
+        "gp:id":91426137,
+        "qs:id":87016
+    },
+    "wof:country":"PH",
+    "wof:created":1469052754,
+    "wof:geomhash":"2f87e5561e80e8a5a3821fc657511c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698515,
+            "locality_id":890450809,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890450809,
+    "wof:lastmodified":1505343636,
+    "wof:name":"Patabog",
+    "wof:parent_id":1108698515,
+    "wof:placetype":"locality",
+    "wof:population":3149,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4557,
+    13.4432,
+    122.4557,
+    13.4432
+],
+  "geometry": {"coordinates":[122.45569999999999,13.4432],"type":"Point"}
+}

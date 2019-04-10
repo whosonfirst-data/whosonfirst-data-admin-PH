@@ -1,0 +1,72 @@
+{
+  "id": 1309738207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1416,9.111,123.1416,9.111",
+    "geom:latitude":9.111,
+    "geom:longitude":123.1416,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74625000.0",
+    "gn:asciiname":"Lubang",
+    "gn:country_code":"PH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705451,
+    "gn:latitude":9.111,
+    "gn:longitude":123.1416,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lubang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lubang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705451
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7f8ff991b55e2443914b46dd9ab70f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699891,
+            "locality_id":1309738207,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1309738207,
+    "wof:lastmodified":1537677968,
+    "wof:name":"Lubang",
+    "wof:parent_id":1108699891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1416,
+    9.111,
+    123.1416,
+    9.111
+],
+  "geometry": {"coordinates":[123.1416,9.111],"type":"Point"}
+}

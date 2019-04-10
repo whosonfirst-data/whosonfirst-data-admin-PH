@@ -1,0 +1,71 @@
+{
+  "id": 890421865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55273,15.7956,120.55273,15.7956",
+    "geom:latitude":15.7956,
+    "geom:longitude":120.55273,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2592,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Villanueva"
+    ],
+    "qs:name":"Villanueva",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":491,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679868,
+        "gp:id":91426504,
+        "qs:id":133910,
+        "wk:page":"Villanueva"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051415,
+    "wof:geomhash":"e71d469fddee89c81ddfaccd97988b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696965,
+            "locality_id":890421865,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890421865,
+    "wof:lastmodified":1527782113,
+    "wof:name":"Villanueva",
+    "wof:parent_id":1108696965,
+    "wof:placetype":"locality",
+    "wof:population":2592,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55273,
+    15.7956,
+    120.55273,
+    15.7956
+],
+  "geometry": {"coordinates":[120.55273,15.7956],"type":"Point"}
+}

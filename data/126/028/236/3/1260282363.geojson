@@ -1,0 +1,77 @@
+{
+  "id": 1260282363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2051,13.4243,123.2051,13.4243",
+    "geom:latitude":13.4243,
+    "geom:longitude":123.2051,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51722000.0",
+    "gn:asciiname":"Hamuraon",
+    "gn:country_code":"PH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711903,
+    "gn:latitude":13.4243,
+    "gn:longitude":123.2051,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hamuraon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hamuraon"
+    ],
+    "name:und_x_variant":[
+        "Jamuraon",
+        "Hamuranon",
+        "Hamoraon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711903
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"52f20fab5b1bd785b7e360a49ba71a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698483,
+            "locality_id":1260282363,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1260282363,
+    "wof:lastmodified":1537678151,
+    "wof:name":"Hamuraon",
+    "wof:parent_id":1108698483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2051,
+    13.4243,
+    123.2051,
+    13.4243
+],
+  "geometry": {"coordinates":[123.2051,13.4243],"type":"Point"}
+}

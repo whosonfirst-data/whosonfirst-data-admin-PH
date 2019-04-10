@@ -1,0 +1,78 @@
+{
+  "id": 1293490991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4951,17.3861,120.4951,17.3861",
+    "geom:latitude":17.3861,
+    "geom:longitude":120.4951,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12926000.0",
+    "gn:asciiname":"Mainganay Norte",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699983,
+    "gn:latitude":17.3861,
+    "gn:longitude":120.4951,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mainganay Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mainganay Norte"
+    ],
+    "name:fil_x_variant":[
+        "Maynganay Norte"
+    ],
+    "name:und_x_variant":[
+        "Maynganay Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699983
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"adc44a0e3ece8d05c875042f4b83b88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699383,
+            "locality_id":1293490991,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1293490991,
+    "wof:lastmodified":1537677815,
+    "wof:name":"Mainganay Norte",
+    "wof:parent_id":1108699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4951,
+    17.3861,
+    120.4951,
+    17.3861
+],
+  "geometry": {"coordinates":[120.49509999999999,17.3861],"type":"Point"}
+}

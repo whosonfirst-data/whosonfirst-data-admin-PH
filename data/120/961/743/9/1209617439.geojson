@@ -1,0 +1,66 @@
+{
+  "id": 1209617439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98333,16.35,120.98333,16.35",
+    "geom:latitude":16.35,
+    "geom:longitude":120.98333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"48",
+    "gn:admin3_code":"25010000.0",
+    "gn:asciiname":"Tagalog",
+    "gn:country_code":"PH",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684620,
+    "gn:latitude":16.35,
+    "gn:longitude":120.98333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tagalog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagalog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684620
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8ec240b89da425241c40476e491425a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209617439
+        }
+    ],
+    "wof:id":1209617439,
+    "wof:lastmodified":1537677376,
+    "wof:name":"Tagalog",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98333,
+    16.35,
+    120.98333,
+    16.35
+],
+  "geometry": {"coordinates":[120.98333,16.35],"type":"Point"}
+}

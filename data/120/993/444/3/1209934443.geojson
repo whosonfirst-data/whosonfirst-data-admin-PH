@@ -1,0 +1,75 @@
+{
+  "id": 1209934443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7829,8.4131,123.7829,8.4131",
+    "geom:latitude":8.4131,
+    "geom:longitude":123.7829,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104201000.0",
+    "gn:asciiname":"Caputol",
+    "gn:country_code":"PH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718565,
+    "gn:latitude":8.4131,
+    "gn:longitude":123.7829,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caputol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Caputol"
+    ],
+    "name:und_x_variant":[
+        "Caputal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108696651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718565
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a37725c5b8a83372f3699910714ffcb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696651,
+            "locality_id":1209934443,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1209934443,
+    "wof:lastmodified":1537678333,
+    "wof:name":"Caputol",
+    "wof:parent_id":1108696651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7829,
+    8.4131,
+    123.7829,
+    8.4131
+],
+  "geometry": {"coordinates":[123.7829,8.4131],"type":"Point"}
+}

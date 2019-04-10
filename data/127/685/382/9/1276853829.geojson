@@ -1,0 +1,75 @@
+{
+  "id": 1276853829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.19771,18.00831,121.19771,18.00831",
+    "geom:latitude":18.00831,
+    "geom:longitude":121.19771,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"H6",
+    "gn:admin3_code":"148104000.0",
+    "gn:asciiname":"Littuacan",
+    "gn:country_code":"PH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707275,
+    "gn:latitude":18.00831,
+    "gn:longitude":121.19771,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Littuacan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lappuacan"
+    ],
+    "name:fil_x_variant":[
+        "Littuacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676053,
+        1108697869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707275
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2b4e67cab9ec19bca7098822ac4440c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697869,
+            "locality_id":1276853829,
+            "region_id":85676053
+        }
+    ],
+    "wof:id":1276853829,
+    "wof:lastmodified":1537678021,
+    "wof:name":"Littuacan",
+    "wof:parent_id":1108697869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.19771,
+    18.00831,
+    121.19771,
+    18.00831
+],
+  "geometry": {"coordinates":[121.19771,18.00831],"type":"Point"}
+}

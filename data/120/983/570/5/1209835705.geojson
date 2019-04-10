@@ -1,0 +1,72 @@
+{
+  "id": 1209835705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.45991,10.65576,124.45991,10.65576",
+    "geom:latitude":10.65576,
+    "geom:longitude":124.45991,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72253000.0",
+    "gn:asciiname":"Santander",
+    "gn:country_code":"PH",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687964,
+    "gn:latitude":10.65576,
+    "gn:longitude":124.45991,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santander",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santander"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687964
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"47476712d87cd94e637db70e2d7b237a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698607,
+            "locality_id":1209835705,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1209835705,
+    "wof:lastmodified":1537677467,
+    "wof:name":"Santander",
+    "wof:parent_id":1108698607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.45991,
+    10.65576,
+    124.45991,
+    10.65576
+],
+  "geometry": {"coordinates":[124.45990999999999,10.65576],"type":"Point"}
+}

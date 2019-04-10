@@ -1,0 +1,72 @@
+{
+  "id": 1293788525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7637,13.2602,123.7637,13.2602",
+    "geom:latitude":13.2602,
+    "geom:longitude":123.7637,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50516000.0",
+    "gn:asciiname":"Misericordia",
+    "gn:country_code":"PH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699487,
+    "gn:latitude":13.2602,
+    "gn:longitude":123.7637,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Misericordia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Misericordia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108699417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699487
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"76f85cb5c03803484951913792f91f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699417,
+            "locality_id":1293788525,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1293788525,
+    "wof:lastmodified":1537677803,
+    "wof:name":"Misericordia",
+    "wof:parent_id":1108699417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7637,
+    13.2602,
+    123.7637,
+    13.2602
+],
+  "geometry": {"coordinates":[123.7637,13.2602],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260066043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9,10.3,123.9,10.3",
+    "geom:latitude":10.3,
+    "geom:longitude":123.9,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72217000.0",
+    "gn:asciiname":"Agbuakan",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732116,
+    "gn:latitude":10.3,
+    "gn:longitude":123.9,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agbuakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        890432909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732116
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8b834352e765bffa9e7fbfbaeb7065a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432909,
+            "locality_id":1260066043,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1260066043,
+    "wof:lastmodified":1537012469,
+    "wof:name":"Agbuakan",
+    "wof:parent_id":890432909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9,
+    10.3,
+    123.9,
+    10.3
+],
+  "geometry": {"coordinates":[123.90000000000001,10.3],"type":"Point"}
+}

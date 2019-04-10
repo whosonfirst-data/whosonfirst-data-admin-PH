@@ -1,0 +1,71 @@
+{
+  "id": 890432705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86667,15.81667,120.86667,15.81667",
+    "geom:latitude":15.81667,
+    "geom:longitude":120.86667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2206,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Sampaloc"
+    ],
+    "qs:name":"Sampaloc",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690578,
+        "gp:id":1165899,
+        "qs:id":86828,
+        "wk:page":"Sampaloc"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051951,
+    "wof:geomhash":"f1eceaf27f49ed9a5038a10e7d478b4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698163,
+            "locality_id":890432705,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890432705,
+    "wof:lastmodified":1527793038,
+    "wof:name":"Sampaloc",
+    "wof:parent_id":1108698163,
+    "wof:placetype":"locality",
+    "wof:population":2206,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86667,
+    15.81667,
+    120.86667,
+    15.81667
+],
+  "geometry": {"coordinates":[120.86667,15.81667],"type":"Point"}
+}

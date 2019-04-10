@@ -1,0 +1,76 @@
+{
+  "id": 1242670627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0962,12.8616,124.0962,12.8616",
+    "geom:latitude":12.8616,
+    "geom:longitude":124.0962,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56208000.0",
+    "gn:asciiname":"Bugtong",
+    "gn:country_code":"PH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724419,
+    "gn:latitude":12.8616,
+    "gn:longitude":124.0962,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bugtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bugtong"
+    ],
+    "name:und_x_variant":[
+        "Bogtong",
+        "Botong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108696903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724419
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5e5daa281b05f8c8263be1790f22b1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696903,
+            "locality_id":1242670627,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1242670627,
+    "wof:lastmodified":1537678519,
+    "wof:name":"Bugtong",
+    "wof:parent_id":1108696903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0962,
+    12.8616,
+    124.0962,
+    12.8616
+],
+  "geometry": {"coordinates":[124.0962,12.8616],"type":"Point"}
+}

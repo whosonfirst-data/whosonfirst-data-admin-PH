@@ -1,0 +1,72 @@
+{
+  "id": 1293393431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4821,17.3292,120.4821,17.3292",
+    "geom:latitude":17.3292,
+    "geom:longitude":120.4821,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12926000.0",
+    "gn:asciiname":"Taliao",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683970,
+    "gn:latitude":17.3292,
+    "gn:longitude":120.4821,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Taliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Taliao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108697127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683970
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"61dab0433a187d66c9d9968e531084ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697127,
+            "locality_id":1293393431,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1293393431,
+    "wof:lastmodified":1537677359,
+    "wof:name":"Taliao",
+    "wof:parent_id":1108697127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4821,
+    17.3292,
+    120.4821,
+    17.3292
+],
+  "geometry": {"coordinates":[120.4821,17.3292],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1125848113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1166,13.7313,123.1166,13.7313",
+    "geom:latitude":13.7313,
+    "geom:longitude":123.1166,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4203,
+    "gn:population":4203,
+    "iso:country":"PH",
+    "lbl:latitude":13.7313,
+    "lbl:longitude":123.1166,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Castillo"
+    ],
+    "name:unk_x_variant":[
+        "Casillo"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1718073,
+    "qs_pg:gn_pop":4203,
+    "qs_pg:name":"Castillo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88011,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718073,
+        "qs_pg:id":88011
+    },
+    "wof:country":"PH",
+    "wof:created":1497293259,
+    "wof:geomhash":"285d36ec76cbd6bf2a125cdd9c22d0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125848113,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125848113,
+    "wof:lastmodified":1509395753,
+    "wof:name":"Castillo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4203,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1166,
+    13.7313,
+    123.1166,
+    13.7313
+],
+  "geometry": {"coordinates":[123.11660000000001,13.7313],"type":"Point"}
+}

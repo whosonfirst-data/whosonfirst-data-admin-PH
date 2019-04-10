@@ -1,0 +1,65 @@
+{
+  "id": 890425725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6342,11.0593,123.6342,11.0593",
+    "geom:latitude":11.0593,
+    "geom:longitude":123.6342,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6813,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lipayran"
+    ],
+    "qs:name":"Lipayran",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706034,
+        "qs:id":1032648,
+        "wd:id":"Q6556261",
+        "wk:page":"Lipayran"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051601,
+    "wof:geomhash":"6656c9696d3dd0f29e94e337e4950f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":890425725
+        }
+    ],
+    "wof:id":890425725,
+    "wof:lastmodified":1527727166,
+    "wof:name":"Lipayran",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":6813,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6342,
+    11.0593,
+    123.6342,
+    11.0593
+],
+  "geometry": {"coordinates":[123.63420000000001,11.0593],"type":"Point"}
+}

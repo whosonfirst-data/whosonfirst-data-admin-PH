@@ -1,0 +1,72 @@
+{
+  "id": 1243285343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2,11.33333,122.2,11.33333",
+    "geom:latitude":11.33333,
+    "geom:longitude":122.2,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60410000.0",
+    "gn:asciiname":"Dalagsa-an",
+    "gn:country_code":"PH",
+    "gn:dem":1535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716110,
+    "gn:latitude":11.33333,
+    "gn:longitude":122.2,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dalagsa-an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dalagsa-an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716110
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f2ff03e0a69553da176f8d76ef7a4747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698215,
+            "locality_id":1243285343,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1243285343,
+    "wof:lastmodified":1537678268,
+    "wof:name":"Dalagsa-an",
+    "wof:parent_id":1108698215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2,
+    11.33333,
+    122.2,
+    11.33333
+],
+  "geometry": {"coordinates":[122.2,11.33333],"type":"Point"}
+}

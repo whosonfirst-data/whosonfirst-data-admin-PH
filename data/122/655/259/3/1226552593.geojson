@@ -1,0 +1,79 @@
+{
+  "id": 1226552593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65639,16.74042,121.65639,16.74042",
+    "geom:latitude":16.74042,
+    "geom:longitude":121.65639,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23129000.0",
+    "gn:asciiname":"Patanad",
+    "gn:country_code":"PH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694437,
+    "gn:latitude":16.74042,
+    "gn:longitude":121.65639,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Patanad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Patanat"
+    ],
+    "name:fil_x_variant":[
+        "Patand",
+        "Patanad"
+    ],
+    "name:und_x_variant":[
+        "Patand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694437
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e572e7ef19fb31f9fa4b4a27555c5bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697561,
+            "locality_id":1226552593,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1226552593,
+    "wof:lastmodified":1537677658,
+    "wof:name":"Patanad",
+    "wof:parent_id":1108697561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65639,
+    16.74042,
+    121.65639,
+    16.74042
+],
+  "geometry": {"coordinates":[121.65639,16.74042],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242597875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0,9.65,124.0,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":124.0,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71229000.0",
+    "gn:asciiname":"Cambuac Sur",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719724,
+    "gn:latitude":9.65,
+    "gn:longitude":124.0,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cambuac Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cambuac",
+        "Cambuac Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108696601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719724
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bcfd78519582d2c18085f493a42bbe57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696601,
+            "locality_id":1242597875,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1242597875,
+    "wof:lastmodified":1537678373,
+    "wof:name":"Cambuac Sur",
+    "wof:parent_id":1108696601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0,
+    9.65,
+    124.0,
+    9.65
+],
+  "geometry": {"coordinates":[124.0,9.65],"type":"Point"}
+}

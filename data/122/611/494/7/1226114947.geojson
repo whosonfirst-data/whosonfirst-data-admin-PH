@@ -1,0 +1,75 @@
+{
+  "id": 1226114947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.40045,17.52232,121.40045,17.52232",
+    "geom:latitude":17.52232,
+    "geom:longitude":121.40045,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143213000.0",
+    "gn:asciiname":"Calasan",
+    "gn:country_code":"PH",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717186,
+    "gn:latitude":17.52232,
+    "gn:longitude":121.40045,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calasan"
+    ],
+    "name:fil_x_variant":[
+        "Colasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717186
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"57cdd3bcc870a3330beb83785cdb918b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698907,
+            "locality_id":1226114947,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1226114947,
+    "wof:lastmodified":1537678297,
+    "wof:name":"Calasan",
+    "wof:parent_id":1108698907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.40045,
+    17.52232,
+    121.40045,
+    17.52232
+],
+  "geometry": {"coordinates":[121.40045000000001,17.52232],"type":"Point"}
+}

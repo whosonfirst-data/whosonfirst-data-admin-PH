@@ -1,0 +1,68 @@
+{
+  "id": 890415555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5217,13.2999,122.5217,13.2999",
+    "geom:latitude":13.2999,
+    "geom:longitude":122.5217,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2862,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Silongin"
+    ],
+    "qs:name":"Silongin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686455,
+        "qs:id":134188
+    },
+    "wof:country":"PH",
+    "wof:created":1469051093,
+    "wof:geomhash":"002ec3e8f70e4a4018bf8d7c0f09afc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699163,
+            "locality_id":890415555,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890415555,
+    "wof:lastmodified":1505343426,
+    "wof:name":"Silongin",
+    "wof:parent_id":1108699163,
+    "wof:placetype":"locality",
+    "wof:population":2862,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5217,
+    13.2999,
+    122.5217,
+    13.2999
+],
+  "geometry": {"coordinates":[122.5217,13.2999],"type":"Point"}
+}

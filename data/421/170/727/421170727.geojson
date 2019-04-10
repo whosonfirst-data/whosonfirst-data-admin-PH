@@ -1,0 +1,82 @@
+{
+  "id": 421170727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.665,7.26694,125.665,7.26694",
+    "geom:latitude":7.26694,
+    "geom:longitude":125.665,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Lasong"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1707202,
+    "qs:gn_pop":8318,
+    "qs:name":"Lasang",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Davao Region",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":256776,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1177741,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707202,
+        "gp:id":1177741,
+        "qs:id":256776
+    },
+    "wof:country":"PH",
+    "wof:created":1459008866,
+    "wof:geomhash":"9011b7e5340d4d5a3a114a5e33375474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":421170727,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":421170727,
+    "wof:lastmodified":1505340606,
+    "wof:name":"Lasang",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:population":8318,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.665,
+    7.26694,
+    125.665,
+    7.26694
+],
+  "geometry": {"coordinates":[125.66500000000001,7.26694],"type":"Point"}
+}

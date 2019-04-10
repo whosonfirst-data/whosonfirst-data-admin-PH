@@ -1,0 +1,72 @@
+{
+  "id": 1327172395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95395,14.33715,120.95395,14.33715",
+    "geom:latitude":14.33715,
+    "geom:longitude":120.95395,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42106000.0",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"PH",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8610609,
+    "gn:latitude":14.33715,
+    "gn:longitude":120.95395,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Lucia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8610609
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4ac0db262e59bce47f21545e0a3c24db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697453,
+            "locality_id":1327172395,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1327172395,
+    "wof:lastmodified":1537679088,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":1108697453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95395,
+    14.33715,
+    120.95395,
+    14.33715
+],
+  "geometry": {"coordinates":[120.95395000000001,14.33715],"type":"Point"}
+}

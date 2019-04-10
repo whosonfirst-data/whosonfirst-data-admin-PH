@@ -1,0 +1,72 @@
+{
+  "id": 1293822203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75,14.25,120.75,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":120.75,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42113000.0",
+    "gn:asciiname":"Capantayan",
+    "gn:country_code":"PH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718740,
+    "gn:latitude":14.25,
+    "gn:longitude":120.75,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Capantayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Capantayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108698377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718740
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0300a5bb4a150c43da5f32faecbe07dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698377,
+            "locality_id":1293822203,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1293822203,
+    "wof:lastmodified":1537678338,
+    "wof:name":"Capantayan",
+    "wof:parent_id":1108698377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75,
+    14.25,
+    120.75,
+    14.25
+],
+  "geometry": {"coordinates":[120.75,14.25],"type":"Point"}
+}

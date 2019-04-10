@@ -1,0 +1,75 @@
+{
+  "id": 1310498133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3651,9.6829,124.3651,9.6829",
+    "geom:latitude":9.6829,
+    "geom:longitude":124.3651,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71225000.0",
+    "gn:asciiname":"Tubod Norte",
+    "gn:country_code":"PH",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681144,
+    "gn:latitude":9.6829,
+    "gn:longitude":124.3651,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tubod Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tubod Norte"
+    ],
+    "name:und_x_variant":[
+        "Tubod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681144
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"752d828cad80ff57fc5391db527635a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697803,
+            "locality_id":1310498133,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1310498133,
+    "wof:lastmodified":1537677284,
+    "wof:name":"Tubod Norte",
+    "wof:parent_id":1108697803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3651,
+    9.6829,
+    124.3651,
+    9.6829
+],
+  "geometry": {"coordinates":[124.3651,9.6829],"type":"Point"}
+}

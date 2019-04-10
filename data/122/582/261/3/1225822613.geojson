@@ -1,0 +1,72 @@
+{
+  "id": 1225822613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.40528,6.97556,125.40528,6.97556",
+    "geom:latitude":6.97556,
+    "geom:longitude":125.40528,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"112402000.0",
+    "gn:asciiname":"Sibulan",
+    "gn:country_code":"PH",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686729,
+    "gn:latitude":6.97556,
+    "gn:longitude":125.40528,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sibulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sibulan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686729
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"46c14000151cc877b6b771b772e04d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":1225822613,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":1225822613,
+    "wof:lastmodified":1537677430,
+    "wof:name":"Sibulan",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.40528,
+    6.97556,
+    125.40528,
+    6.97556
+],
+  "geometry": {"coordinates":[125.40528,6.97556],"type":"Point"}
+}

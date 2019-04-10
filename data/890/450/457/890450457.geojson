@@ -1,0 +1,77 @@
+{
+  "id": 890450457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0616,15.169,121.0616,15.169",
+    "geom:latitude":15.169,
+    "geom:longitude":121.0616,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":8225,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sibul Springs"
+    ],
+    "name:fil_x_preferred":[
+        "Sibul"
+    ],
+    "name:unk_x_variant":[
+        "Sibul Springs"
+    ],
+    "qs:name":"Sibul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135,
+        1108699265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686737,
+        "gp:id":1199912,
+        "qs:id":86576,
+        "wk:page":"Sibul"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052740,
+    "wof:geomhash":"03601ae1795d8aa267db840520ec7b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699265,
+            "locality_id":890450457,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":890450457,
+    "wof:lastmodified":1527792965,
+    "wof:name":"Sibul",
+    "wof:parent_id":1108699265,
+    "wof:placetype":"locality",
+    "wof:population":8225,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0616,
+    15.169,
+    121.0616,
+    15.169
+],
+  "geometry": {"coordinates":[121.0616,15.169],"type":"Point"}
+}

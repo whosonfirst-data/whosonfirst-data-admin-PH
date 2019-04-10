@@ -1,0 +1,72 @@
+{
+  "id": 1209704165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.95083,8.62722,124.95083,8.62722",
+    "geom:latitude":8.62722,
+    "geom:longitude":124.95083,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"104306000.0",
+    "gn:asciiname":"Macopa",
+    "gn:country_code":"PH",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704263,
+    "gn:latitude":8.62722,
+    "gn:longitude":124.95083,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Macopa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Macopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108697363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704263
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fd242dc63ff692e14f4834210c185076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697363,
+            "locality_id":1209704165,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":1209704165,
+    "wof:lastmodified":1537677933,
+    "wof:name":"Macopa",
+    "wof:parent_id":1108697363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.95083,
+    8.62722,
+    124.95083,
+    8.62722
+],
+  "geometry": {"coordinates":[124.95083,8.62722],"type":"Point"}
+}

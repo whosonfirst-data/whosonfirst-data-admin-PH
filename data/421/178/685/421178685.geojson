@@ -1,0 +1,82 @@
+{
+  "id": 421178685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3627,10.8849,123.3627,10.8849",
+    "geom:latitude":10.8849,
+    "geom:longitude":123.3627,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Paraiso"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1694791,
+    "qs:gn_pop":30494,
+    "qs:name":"Paraiso",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Western Visayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":134619,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1186941,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694791,
+        "gp:id":1186941,
+        "qs:id":134619
+    },
+    "wof:country":"PH",
+    "wof:created":1459009190,
+    "wof:geomhash":"1888fd0e0ad21577cb1ae583cf29564d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699073,
+            "locality_id":421178685,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":421178685,
+    "wof:lastmodified":1505340638,
+    "wof:name":"Paraiso",
+    "wof:parent_id":1108699073,
+    "wof:placetype":"locality",
+    "wof:population":30494,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3627,
+    10.8849,
+    123.3627,
+    10.8849
+],
+  "geometry": {"coordinates":[123.3627,10.8849],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327307273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3098,5.1002,120.3098,5.1002",
+    "geom:latitude":5.1002,
+    "geom:longitude":120.3098,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"157010000.0",
+    "gn:asciiname":"Malanta",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703076,
+    "gn:latitude":5.1002,
+    "gn:longitude":120.3098,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675929,
+        1108698667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703076
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f43a92e0c1c40baca949edb94b9fc479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698667,
+            "locality_id":1327307273,
+            "region_id":85675929
+        }
+    ],
+    "wof:id":1327307273,
+    "wof:lastmodified":1537677901,
+    "wof:name":"Malanta",
+    "wof:parent_id":1108698667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3098,
+    5.1002,
+    120.3098,
+    5.1002
+],
+  "geometry": {"coordinates":[120.3098,5.1002],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209306539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4335,11.2349,122.4335,11.2349",
+    "geom:latitude":11.2349,
+    "geom:longitude":122.4335,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61917000.0",
+    "gn:asciiname":"Tocayan",
+    "gn:country_code":"PH",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681645,
+    "gn:latitude":11.2349,
+    "gn:longitude":122.4335,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tocayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tocayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681645
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5adf44ef7a0364198ad0e5ff85545c95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209306539
+        }
+    ],
+    "wof:id":1209306539,
+    "wof:lastmodified":1537677298,
+    "wof:name":"Tocayan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4335,
+    11.2349,
+    122.4335,
+    11.2349
+],
+  "geometry": {"coordinates":[122.4335,11.2349],"type":"Point"}
+}

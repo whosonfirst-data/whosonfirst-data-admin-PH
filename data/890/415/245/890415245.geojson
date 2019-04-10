@@ -1,0 +1,74 @@
+{
+  "id": 890415245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2855,8.1661,123.2855,8.1661",
+    "geom:latitude":8.1661,
+    "geom:longitude":123.2855,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":45729,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municipality of Dumingag"
+    ],
+    "name:unk_x_variant":[
+        "Dumingag"
+    ],
+    "qs:name":"Municipality of Dumingag",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":333,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108697549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714122,
+        "qs:id":87853,
+        "wd:id":"Q132262",
+        "wk:page":"Midsalip, Zamboanga del Sur"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051080,
+    "wof:geomhash":"87cdcd54e78c8650dc90f91c7f6a8df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697549,
+            "localadmin_id":890415245,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":890415245,
+    "wof:lastmodified":1527727237,
+    "wof:name":"Municipality of Dumingag",
+    "wof:parent_id":1108697549,
+    "wof:placetype":"localadmin",
+    "wof:population":45729,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2855,
+    8.1661,
+    123.2855,
+    8.1661
+],
+  "geometry": {"coordinates":[123.2855,8.1661],"type":"Point"}
+}

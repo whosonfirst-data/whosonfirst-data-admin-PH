@@ -1,0 +1,70 @@
+{
+  "id": 890443623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2,16.53333,121.2,16.53333",
+    "geom:latitude":16.53333,
+    "geom:longitude":121.2,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":56978,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Solano"
+    ],
+    "qs:name":"Solano",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":117,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108699537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685876,
+        "qs:id":1030991,
+        "wk:page":"Solano"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052431,
+    "wof:geomhash":"ef29edfd6ec11fbf99ab5e4b85c0fde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699537,
+            "localadmin_id":890443623,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":890443623,
+    "wof:lastmodified":1527787067,
+    "wof:name":"Solano",
+    "wof:parent_id":1108699537,
+    "wof:placetype":"localadmin",
+    "wof:population":56978,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2,
+    16.53333,
+    121.2,
+    16.53333
+],
+  "geometry": {"coordinates":[121.2,16.53333],"type":"Point"}
+}

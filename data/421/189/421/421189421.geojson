@@ -1,0 +1,75 @@
+{
+  "id": 421189421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.520429,8.93527,125.520429,8.93527",
+    "geom:latitude":8.93527,
+    "geom:longitude":125.520429,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Butuan City",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Caraga",
+    "qs:photos":478,
+    "qs:photos_1k":97,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":478,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1112729,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1198985,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676327,
+        1108697145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1198985,
+        "qs:id":1112729
+    },
+    "wof:country":"PH",
+    "wof:created":1459009624,
+    "wof:geomhash":"1b60612012ea8e4d991b4d631179a2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697145,
+            "locality_id":421189421,
+            "region_id":85676327
+        }
+    ],
+    "wof:id":421189421,
+    "wof:lastmodified":1500080417,
+    "wof:name":"Butuan City",
+    "wof:parent_id":1108697145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.520429,
+    8.93527,
+    125.520429,
+    8.93527
+],
+  "geometry": {"coordinates":[125.52042899999999,8.93527],"type":"Point"}
+}

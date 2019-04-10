@@ -1,0 +1,72 @@
+{
+  "id": 1327454133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5578,10.0675,123.5578,10.0675",
+    "geom:latitude":10.0675,
+    "geom:longitude":123.5578,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72210000.0",
+    "gn:asciiname":"Kangdampas",
+    "gn:country_code":"PH",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7426975,
+    "gn:latitude":10.0675,
+    "gn:longitude":123.5578,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kangdampas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kangdampas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7426975
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"702d96860fde9e347ebfa98f0ada0891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699475,
+            "locality_id":1327454133,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1327454133,
+    "wof:lastmodified":1537678906,
+    "wof:name":"Kangdampas",
+    "wof:parent_id":1108699475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5578,
+    10.0675,
+    123.5578,
+    10.0675
+],
+  "geometry": {"coordinates":[123.5578,10.0675],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293681163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.9482,10.5271,121.9482,10.5271",
+    "geom:latitude":10.5271,
+    "geom:longitude":121.9482,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60607000.0",
+    "gn:asciiname":"Atabay",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730014,
+    "gn:latitude":10.5271,
+    "gn:longitude":121.9482,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Atabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Atabay"
+    ],
+    "name:und_x_variant":[
+        "Atabuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730014
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5b4b0dd3195d0697917368f660c51b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699743,
+            "locality_id":1293681163,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1293681163,
+    "wof:lastmodified":1537678683,
+    "wof:name":"Atabay",
+    "wof:parent_id":1108699743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.9482,
+    10.5271,
+    121.9482,
+    10.5271
+],
+  "geometry": {"coordinates":[121.9482,10.5271],"type":"Point"}
+}

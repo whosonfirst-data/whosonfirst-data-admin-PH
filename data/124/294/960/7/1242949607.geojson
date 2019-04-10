@@ -1,0 +1,76 @@
+{
+  "id": 1242949607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.70079,6.63596,124.70079,6.63596",
+    "geom:latitude":6.63596,
+    "geom:longitude":124.70079,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:admin3_code":"126511000.0",
+    "gn:asciiname":"Calean",
+    "gn:country_code":"PH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705498,
+    "gn:latitude":6.63596,
+    "gn:longitude":124.70079,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Calean",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calean"
+    ],
+    "name:und_x_variant":[
+        "Lower Kalandagan",
+        "Callan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108699597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705498
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6220591e221ebb28799bf00500cbfa0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699597,
+            "locality_id":1242949607,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":1242949607,
+    "wof:lastmodified":1537677970,
+    "wof:name":"Calean",
+    "wof:parent_id":1108699597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.70078999999998,
+    6.63596,
+    124.70078999999998,
+    6.63596
+],
+  "geometry": {"coordinates":[124.70078999999998,6.63596],"type":"Point"}
+}

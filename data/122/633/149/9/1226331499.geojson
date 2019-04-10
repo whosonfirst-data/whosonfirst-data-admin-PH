@@ -1,0 +1,72 @@
+{
+  "id": 1226331499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5049,8.4732,123.5049,8.4732",
+    "geom:latitude":8.4732,
+    "geom:longitude":123.5049,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97204000.0",
+    "gn:asciiname":"Singaran",
+    "gn:country_code":"PH",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686221,
+    "gn:latitude":8.4732,
+    "gn:longitude":123.5049,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Singaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Singaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108697447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686221
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ca86422bd42972b4961c36acb14631f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697447,
+            "locality_id":1226331499,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1226331499,
+    "wof:lastmodified":1537677418,
+    "wof:name":"Singaran",
+    "wof:parent_id":1108697447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5049,
+    8.4732,
+    123.5049,
+    8.4732
+],
+  "geometry": {"coordinates":[123.50490000000001,8.4732],"type":"Point"}
+}

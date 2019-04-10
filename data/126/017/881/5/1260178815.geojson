@@ -1,0 +1,72 @@
+{
+  "id": 1260178815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.1,10.35,125.1,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":125.1,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86412000.0",
+    "gn:asciiname":"Atuyan",
+    "gn:country_code":"PH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729948,
+    "gn:latitude":10.35,
+    "gn:longitude":125.1,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Atuyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Atuyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108699079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729948
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6fedb8d30e15e0de566bb093a2c46b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699079,
+            "locality_id":1260178815,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1260178815,
+    "wof:lastmodified":1537678681,
+    "wof:name":"Atuyan",
+    "wof:parent_id":1108699079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.1,
+    10.35,
+    125.1,
+    10.35
+],
+  "geometry": {"coordinates":[125.09999999999999,10.35],"type":"Point"}
+}

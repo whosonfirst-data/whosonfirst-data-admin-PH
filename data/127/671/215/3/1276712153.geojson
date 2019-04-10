@@ -1,0 +1,75 @@
+{
+  "id": 1276712153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3098,13.8735,122.3098,13.8735",
+    "geom:latitude":13.8735,
+    "geom:longitude":122.3098,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45622000.0",
+    "gn:asciiname":"Tanaag Ilaya",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683364,
+    "gn:latitude":13.8735,
+    "gn:longitude":122.3098,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tanaag Ilaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tanaag Ilaya"
+    ],
+    "name:fil_x_variant":[
+        "Tanag Ilaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683364
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d3fa72d420819a08fdc5ae78d279c596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698121,
+            "locality_id":1276712153,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1276712153,
+    "wof:lastmodified":1537677341,
+    "wof:name":"Tanaag Ilaya",
+    "wof:parent_id":1108698121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3098,
+    13.8735,
+    122.3098,
+    13.8735
+],
+  "geometry": {"coordinates":[122.3098,13.8735],"type":"Point"}
+}

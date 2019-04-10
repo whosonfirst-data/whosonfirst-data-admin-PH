@@ -1,0 +1,76 @@
+{
+  "id": 1259387221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.96611,12.99028,123.96611,12.99028",
+    "geom:latitude":12.99028,
+    "geom:longitude":123.96611,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56216000.0",
+    "gn:asciiname":"Guinlajon",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712344,
+    "gn:latitude":12.99028,
+    "gn:longitude":123.96611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Guinlajon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinlahong",
+        "Guinlajong",
+        "Guinlahong",
+        "Guinlajon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        890455201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712344
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3b01abdf23e232b05136e7673976583e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890455201,
+            "locality_id":1259387221,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1259387221,
+    "wof:lastmodified":1537678164,
+    "wof:name":"Guinlajon",
+    "wof:parent_id":890455201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.96611,
+    12.99028,
+    123.96611,
+    12.99028
+],
+  "geometry": {"coordinates":[123.96611,12.99028],"type":"Point"}
+}

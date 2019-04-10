@@ -1,0 +1,72 @@
+{
+  "id": 1310133889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.179,10.38147,123.179,10.38147",
+    "geom:latitude":10.38147,
+    "geom:longitude":123.179,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74608000.0",
+    "gn:asciiname":"Pula",
+    "gn:country_code":"PH",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301295,
+    "gn:latitude":10.38147,
+    "gn:longitude":123.179,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        890415287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301295
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ae984d76f7262bb62be4a13dacca04a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415287,
+            "locality_id":1310133889,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1310133889,
+    "wof:lastmodified":1537679053,
+    "wof:name":"Pula",
+    "wof:parent_id":890415287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.179,
+    10.38147,
+    123.179,
+    10.38147
+],
+  "geometry": {"coordinates":[123.179,10.38147],"type":"Point"}
+}

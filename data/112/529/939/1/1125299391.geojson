@@ -1,0 +1,81 @@
+{
+  "id": 1125299391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.27843,7.91601,126.27843,7.91601",
+    "geom:latitude":7.91601,
+    "geom:longitude":126.27843,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":11455,
+    "gn:population":11455,
+    "iso:country":"PH",
+    "lbl:latitude":7.91601,
+    "lbl:longitude":126.27843,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Boston"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1723863,
+    "qs_pg:gn_pop":11455,
+    "qs_pg:name":"Boston",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1151991,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676255,
+        1108697063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723863,
+        "qs_pg:id":1151991
+    },
+    "wof:country":"PH",
+    "wof:created":1497043339,
+    "wof:geomhash":"0f00371517e5ad101211562d2c8dac3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697063,
+            "localadmin_id":1125299391,
+            "region_id":85676255
+        }
+    ],
+    "wof:id":1125299391,
+    "wof:lastmodified":1509387680,
+    "wof:name":"Boston",
+    "wof:parent_id":1108697063,
+    "wof:placetype":"localadmin",
+    "wof:population":11455,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.27843,
+    7.91601,
+    126.27843,
+    7.91601
+],
+  "geometry": {"coordinates":[126.27843,7.91601],"type":"Point"}
+}

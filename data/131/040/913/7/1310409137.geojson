@@ -1,0 +1,75 @@
+{
+  "id": 1310409137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8315,16.0362,119.8315,16.0362",
+    "geom:latitude":16.0362,
+    "geom:longitude":119.8315,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15516000.0",
+    "gn:asciiname":"Sapa Pequena",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687337,
+    "gn:latitude":16.0362,
+    "gn:longitude":119.8315,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sapa Peque\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sapa Peque\u00f1a"
+    ],
+    "name:und_x_variant":[
+        "Sapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687337
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8ac67fc647fba632620f256fd015ad2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697455,
+            "locality_id":1310409137,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1310409137,
+    "wof:lastmodified":1537677445,
+    "wof:name":"Sapa Pequena",
+    "wof:parent_id":1108697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8315,
+    16.0362,
+    119.8315,
+    16.0362
+],
+  "geometry": {"coordinates":[119.83150000000001,16.0362],"type":"Point"}
+}

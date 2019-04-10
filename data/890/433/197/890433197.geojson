@@ -1,0 +1,71 @@
+{
+  "id": 890433197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.9261,10.2027,122.9261,10.2027",
+    "geom:latitude":10.2027,
+    "geom:longitude":122.9261,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3558,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Montilla"
+    ],
+    "qs:name":"Montilla",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":251,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108696999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699261,
+        "gp:id":1189252,
+        "qs:id":134790,
+        "wk:page":"Montilla"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051971,
+    "wof:geomhash":"13e4b33ac8a01f2cc4751cd6e64831df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696999,
+            "locality_id":890433197,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890433197,
+    "wof:lastmodified":1527792955,
+    "wof:name":"Montilla",
+    "wof:parent_id":1108696999,
+    "wof:placetype":"locality",
+    "wof:population":3558,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.9261,
+    10.2027,
+    122.9261,
+    10.2027
+],
+  "geometry": {"coordinates":[122.92610000000001,10.2027],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209118771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53333,16.66667,121.53333,16.66667",
+    "geom:latitude":16.66667,
+    "geom:longitude":121.53333,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23135000.0",
+    "gn:asciiname":"Burahit",
+    "gn:country_code":"PH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722489,
+    "gn:latitude":16.66667,
+    "gn:longitude":121.53333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Burahit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722489
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3f3806682cdd32d7c813e3f114726448",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209118771
+        }
+    ],
+    "wof:id":1209118771,
+    "wof:lastmodified":1536297170,
+    "wof:name":"Burahit",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53333,
+    16.66667,
+    121.53333,
+    16.66667
+],
+  "geometry": {"coordinates":[121.53333000000001,16.66667],"type":"Point"}
+}

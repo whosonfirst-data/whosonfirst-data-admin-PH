@@ -1,0 +1,76 @@
+{
+  "id": 1242674331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7899,10.26758,123.7899,10.26758",
+    "geom:latitude":10.26758,
+    "geom:longitude":123.7899,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72232000.0",
+    "gn:asciiname":"Vito",
+    "gn:country_code":"PH",
+    "gn:dem":182,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679768,
+    "gn:latitude":10.26758,
+    "gn:longitude":123.7899,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Vito",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Vito"
+    ],
+    "name:und_x_variant":[
+        "Bito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679768
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"414ada573a7c921bcc9fae318f4b8729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698537,
+            "locality_id":1242674331,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1242674331,
+    "wof:lastmodified":1537677241,
+    "wof:name":"Vito",
+    "wof:parent_id":1108698537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7899,
+    10.26758,
+    123.7899,
+    10.26758
+],
+  "geometry": {"coordinates":[123.7899,10.26758],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343846581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.685,8.3675,124.685,8.3675",
+    "geom:latitude":8.3675,
+    "geom:longitude":124.685,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"101311000.0",
+    "gn:asciiname":"New Baungon",
+    "gn:country_code":"PH",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697785,
+    "gn:latitude":8.3675,
+    "gn:longitude":124.685,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"New Baungon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "New Baungon"
+    ],
+    "name:und_x_variant":[
+        "Baungon",
+        "Kinawe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108698071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697785
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ae05718f1e36750370f917aef44fc6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698071,
+            "locality_id":1343846581,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":1343846581,
+    "wof:lastmodified":1537677753,
+    "wof:name":"New Baungon",
+    "wof:parent_id":1108698071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.685,
+    8.3675,
+    124.685,
+    8.3675
+],
+  "geometry": {"coordinates":[124.685,8.3675],"type":"Point"}
+}

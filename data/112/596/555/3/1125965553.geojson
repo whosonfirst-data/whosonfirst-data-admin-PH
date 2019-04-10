@@ -1,0 +1,81 @@
+{
+  "id": 1125965553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.72806,7.49167,125.72806,7.49167",
+    "geom:latitude":7.49167,
+    "geom:longitude":125.72806,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2723,
+    "gn:population":2723,
+    "iso:country":"PH",
+    "lbl:latitude":7.49167,
+    "lbl:longitude":125.72806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Esperanza"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1713787,
+    "qs_pg:gn_pop":2723,
+    "qs_pg:name":"Esperanza",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277202,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108697297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713787,
+        "qs_pg:id":277202
+    },
+    "wof:country":"PH",
+    "wof:created":1497297959,
+    "wof:geomhash":"b029fd5b86e33c52ab1c15b3ca7a3b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697297,
+            "locality_id":1125965553,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":1125965553,
+    "wof:lastmodified":1509403637,
+    "wof:name":"Esperanza",
+    "wof:parent_id":1108697297,
+    "wof:placetype":"locality",
+    "wof:population":2723,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.72806,
+    7.49167,
+    125.72806,
+    7.49167
+],
+  "geometry": {"coordinates":[125.72806,7.49167],"type":"Point"}
+}

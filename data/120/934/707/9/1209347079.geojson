@@ -1,0 +1,66 @@
+{
+  "id": 1209347079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.87391,12.15877,119.87391,12.15877",
+    "geom:latitude":12.15877,
+    "geom:longitude":119.87391,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175307000.0",
+    "gn:asciiname":"Capare",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718731,
+    "gn:latitude":12.15877,
+    "gn:longitude":119.87391,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Capare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Capare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718731
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"af13ec05c683ddef0c9e99c80f551963",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209347079
+        }
+    ],
+    "wof:id":1209347079,
+    "wof:lastmodified":1537678338,
+    "wof:name":"Capare",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.87391,
+    12.15877,
+    119.87391,
+    12.15877
+],
+  "geometry": {"coordinates":[119.87391,12.15877],"type":"Point"}
+}

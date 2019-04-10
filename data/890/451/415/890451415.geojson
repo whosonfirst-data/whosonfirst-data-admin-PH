@@ -1,0 +1,76 @@
+{
+  "id": 890451415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69226,15.29875,120.69226,15.29875",
+    "geom:latitude":15.29875,
+    "geom:longitude":120.69226,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3539,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Baluti"
+    ],
+    "name:fil_x_variant":[
+        "Balutu",
+        "Baluto"
+    ],
+    "name:unk_x_variant":[
+        "Baluti"
+    ],
+    "qs:name":"Balutu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727701,
+        "gp:id":1161648,
+        "qs:id":88387
+    },
+    "wof:country":"PH",
+    "wof:created":1469052778,
+    "wof:geomhash":"01334afd54551e930f783434d2ecc993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697379,
+            "locality_id":890451415,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":890451415,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Balutu",
+    "wof:parent_id":1108697379,
+    "wof:placetype":"locality",
+    "wof:population":3539,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69226,
+    15.29875,
+    120.69226,
+    15.29875
+],
+  "geometry": {"coordinates":[120.69226,15.29875],"type":"Point"}
+}

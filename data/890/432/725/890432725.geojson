@@ -1,0 +1,68 @@
+{
+  "id": 890432725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51748,16.49639,120.51748,16.49639",
+    "geom:latitude":16.49639,
+    "geom:longitude":120.51748,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":10434,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bayan ng Sablan"
+    ],
+    "qs:name":"Sablan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676111,
+        1108699059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691288,
+        "qs:id":86864
+    },
+    "wof:country":"PH",
+    "wof:created":1469051951,
+    "wof:geomhash":"e07d72ad7f262308b859329070372a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699059,
+            "localadmin_id":890432725,
+            "region_id":85676111
+        }
+    ],
+    "wof:id":890432725,
+    "wof:lastmodified":1505343531,
+    "wof:name":"Sablan",
+    "wof:parent_id":1108699059,
+    "wof:placetype":"localadmin",
+    "wof:population":10434,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51748,
+    16.49639,
+    120.51748,
+    16.49639
+],
+  "geometry": {"coordinates":[120.51748000000001,16.49639],"type":"Point"}
+}

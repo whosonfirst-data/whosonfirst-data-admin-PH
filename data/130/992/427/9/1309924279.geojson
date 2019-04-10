@@ -1,0 +1,70 @@
+{
+  "id": 1309924279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5366,16.77825,121.5366,16.77825",
+    "geom:latitude":16.77825,
+    "geom:longitude":121.5366,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23124000.0",
+    "gn:asciiname":"Bugallon",
+    "gn:country_code":"PH",
+    "gn:dem":107,
+    "gn:elevation":"91.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1966434,
+    "gn:latitude":16.77825,
+    "gn:longitude":121.5366,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bugallon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676349,
+        1108699415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966434
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"273cb42e5590c7f19b9ab0757a96731e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699415,
+            "locality_id":1309924279,
+            "region_id":85676349
+        }
+    ],
+    "wof:id":1309924279,
+    "wof:lastmodified":1536760528,
+    "wof:name":"Bugallon",
+    "wof:parent_id":1108699415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5366,
+    16.77825,
+    121.5366,
+    16.77825
+],
+  "geometry": {"coordinates":[121.53660000000001,16.77825],"type":"Point"}
+}

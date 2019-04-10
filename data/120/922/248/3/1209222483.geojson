@@ -1,0 +1,66 @@
+{
+  "id": 1209222483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77742,17.62801,121.77742,17.62801",
+    "geom:latitude":17.62801,
+    "geom:longitude":121.77742,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21519000.0",
+    "gn:asciiname":"Camasi",
+    "gn:country_code":"PH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355154,
+    "gn:latitude":17.62801,
+    "gn:longitude":121.77742,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Camasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Camasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355154
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"53a103663cb30915735cb98dbed1df7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209222483
+        }
+    ],
+    "wof:id":1209222483,
+    "wof:lastmodified":1537679068,
+    "wof:name":"Camasi",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77742,
+    17.62801,
+    121.77742,
+    17.62801
+],
+  "geometry": {"coordinates":[121.77742000000001,17.62801],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292985625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91833,10.99056,124.91833,10.99056",
+    "geom:latitude":10.99056,
+    "geom:longitude":124.91833,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83710000.0",
+    "gn:asciiname":"Malabca",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703341,
+    "gn:latitude":10.99056,
+    "gn:longitude":124.91833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malabca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malabka",
+        "Malabca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108697119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703341
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a193dc2371a507fee182887f4f615d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697119,
+            "locality_id":1292985625,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1292985625,
+    "wof:lastmodified":1537677908,
+    "wof:name":"Malabca",
+    "wof:parent_id":1108697119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91833,
+    10.99056,
+    124.91833,
+    10.99056
+],
+  "geometry": {"coordinates":[124.91833,10.99056],"type":"Point"}
+}

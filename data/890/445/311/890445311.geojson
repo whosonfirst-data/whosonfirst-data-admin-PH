@@ -1,0 +1,75 @@
+{
+  "id": 890445311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.57755,18.05739,121.57755,18.05739",
+    "geom:latitude":18.05739,
+    "geom:longitude":121.57755,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2128,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alannay"
+    ],
+    "name:fil_x_variant":[
+        "Launay"
+    ],
+    "name:unk_x_variant":[
+        "Launay"
+    ],
+    "qs:name":"Alannay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108698023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731658,
+        "gp:id":1158554,
+        "qs:id":558779
+    },
+    "wof:country":"PH",
+    "wof:created":1469052505,
+    "wof:geomhash":"a8083c69bdfd04c5f7821be6dde24175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698023,
+            "locality_id":890445311,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890445311,
+    "wof:lastmodified":1505343604,
+    "wof:name":"Alannay",
+    "wof:parent_id":1108698023,
+    "wof:placetype":"locality",
+    "wof:population":2128,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.57755,
+    18.05739,
+    121.57755,
+    18.05739
+],
+  "geometry": {"coordinates":[121.57755,18.05739],"type":"Point"}
+}

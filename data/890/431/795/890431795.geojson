@@ -1,0 +1,75 @@
+{
+  "id": 890431795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5531,13.7036,123.5531,13.7036",
+    "geom:latitude":13.7036,
+    "geom:longitude":123.5531,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2137,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kinalansan"
+    ],
+    "name:unk_x_variant":[
+        "Quinalansan"
+    ],
+    "qs:name":"Kinalansan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":457,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108699207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708724,
+        "gp:id":1183435,
+        "qs:id":277133,
+        "wd:id":"Q25055127",
+        "wk:page":"Kinalansan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051915,
+    "wof:geomhash":"a24ea920aaddcab0a494d93ad279c1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699207,
+            "locality_id":890431795,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890431795,
+    "wof:lastmodified":1527735415,
+    "wof:name":"Kinalansan",
+    "wof:parent_id":1108699207,
+    "wof:placetype":"locality",
+    "wof:population":2137,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5531,
+    13.7036,
+    123.5531,
+    13.7036
+],
+  "geometry": {"coordinates":[123.5531,13.7036],"type":"Point"}
+}

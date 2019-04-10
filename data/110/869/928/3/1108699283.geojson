@@ -1,0 +1,66 @@
+{
+  "id": 1108699283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000726,
+    "geom:area_square_m":8711099.148518,
+    "geom:bbox":"120.934402501,13.9008665199,120.976603889,13.9287761608",
+    "geom:latitude":13.914147,
+    "geom:longitude":120.953132,
+    "iso:country":"PH",
+    "lbl:latitude":13.916268,
+    "lbl:longitude":120.95484,
+    "meso:admin_1":"BATANGAS",
+    "meso:admin_1r":"CALABARZON",
+    "meso:diss_me":"SAN NICOLASBATANGAS",
+    "meso:gadm_admn2":"San Nicolas",
+    "meso:gadm_hasc_":"PH.BT.SN",
+    "meso:gaul_adm2_":"San Nicolas",
+    "meso:mps_x":120.95484,
+    "meso:mps_y":13.916268,
+    "meso:name_local":"San Nicolas",
+    "meso:source":"AOTM",
+    "mps:latitude":13.916268,
+    "mps:longitude":120.95484,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PH",
+    "wof:created":1474496981,
+    "wof:geomhash":"8327952423077d1e58729f179523e744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699283,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1108699283,
+    "wof:lastmodified":1512516866,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":85676131,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93440250057807,
+    13.90086651989736,
+    120.97660388889263,
+    13.92877616081616
+],
+  "geometry": {"coordinates":[[[120.9499299483858,13.92877616081616],[120.95727342329586,13.92849071312622],[120.9624724959982,13.92404251132094],[120.9632154096096,13.92323875076403],[120.96387065267137,13.92287560348829],[120.96439519848307,13.92289102360696],[120.96579413586413,13.92218679112422],[120.97660388889263,13.91195575157109],[120.96974325326153,13.90607148721186],[120.96080884227628,13.90497604650956],[120.95888662066847,13.9064314162548],[120.95191375839894,13.90631253516925],[120.95034039327389,13.90619319810595],[120.9460286537733,13.90086651989736],[120.93654255616792,13.90209226505167],[120.93488301044607,13.90454925825421],[120.93440250057807,13.91920731138361],[120.93567020883418,13.91975537143676],[120.94273447013533,13.91922918215659],[120.9499299483858,13.92877616081616]]],"type":"Polygon"}
+}

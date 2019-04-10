@@ -1,0 +1,72 @@
+{
+  "id": 890431847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.26639,7.24583,124.26639,7.24583",
+    "geom:latitude":7.24583,
+    "geom:longitude":124.26639,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3317,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gang"
+    ],
+    "qs:name":"Gang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":5056,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108699561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713259,
+        "gp:id":1188504,
+        "qs:id":277198,
+        "wd:id":"Q275186",
+        "wk:page":"Gang"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051917,
+    "wof:geomhash":"dc65d00857f96343f1108a7cbc40a124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699561,
+            "locality_id":890431847,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890431847,
+    "wof:lastmodified":1527735416,
+    "wof:name":"Gang",
+    "wof:parent_id":1108699561,
+    "wof:placetype":"locality",
+    "wof:population":3317,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.26639,
+    7.24583,
+    124.26639,
+    7.24583
+],
+  "geometry": {"coordinates":[124.26639,7.24583],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276349425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33932,15.98832,120.33932,15.98832",
+    "geom:latitude":15.98832,
+    "geom:longitude":120.33932,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15517000.0",
+    "gn:asciiname":"Ambuetel",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731087,
+    "gn:latitude":15.98832,
+    "gn:longitude":120.33932,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ambuetel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ambuetel"
+    ],
+    "name:und_x_variant":[
+        "Ambuete",
+        "Ambuetel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731087
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6b322300811b921b16b3bab8a6bd77f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697209,
+            "locality_id":1276349425,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1276349425,
+    "wof:lastmodified":1537678713,
+    "wof:name":"Ambuetel",
+    "wof:parent_id":1108697209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33932,
+    15.98832,
+    120.33932,
+    15.98832
+],
+  "geometry": {"coordinates":[120.33932,15.98832],"type":"Point"}
+}

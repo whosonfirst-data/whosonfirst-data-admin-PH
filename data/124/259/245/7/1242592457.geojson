@@ -1,0 +1,77 @@
+{
+  "id": 1242592457,
+  "type": "Feature",
+  "properties": {
+    "abrv:eng_x_preferred":[
+        "SBFZ"
+    ],
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.27987,14.78899,120.27987,14.78899",
+    "geom:latitude":14.78899,
+    "geom:longitude":120.27987,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37107000.0",
+    "gn:asciiname":"Subic Bay Freeport Zone",
+    "gn:country_code":"PH",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":8504741,
+    "gn:latitude":14.78899,
+    "gn:longitude":120.27987,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Subic Bay Freeport Zone",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Subic Bay Freeport Zone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676093,
+        1108698691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504741,
+        "wk:page":"Subic_Bay_Freeport_Zone"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"682e5bdf105bd2903da366f96350e385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698691,
+            "locality_id":1242592457,
+            "region_id":85676093
+        }
+    ],
+    "wof:id":1242592457,
+    "wof:lastmodified":1537679081,
+    "wof:name":"Subic Bay Freeport Zone",
+    "wof:parent_id":1108698691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:shortcode":"SBFZ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.27987,
+    14.78899,
+    120.27987,
+    14.78899
+],
+  "geometry": {"coordinates":[120.27987,14.78899],"type":"Point"}
+}

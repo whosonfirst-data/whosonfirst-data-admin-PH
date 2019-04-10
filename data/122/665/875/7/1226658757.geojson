@@ -1,0 +1,73 @@
+{
+  "id": 1226658757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.85,17.1,121.85,17.1",
+    "geom:latitude":17.1,
+    "geom:longitude":121.85,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23114000.0",
+    "gn:asciiname":"Upi",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680230,
+    "gn:latitude":17.1,
+    "gn:longitude":121.85,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Upi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Upi Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680230
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f2cf4324f7d7b523dde98c6a4f842766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697747,
+            "locality_id":1226658757,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1226658757,
+    "wof:lastmodified":1537677256,
+    "wof:name":"Upi",
+    "wof:parent_id":1108697747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.85,
+    17.1,
+    121.85,
+    17.1
+],
+  "geometry": {"coordinates":[121.84999999999999,17.1],"type":"Point"}
+}

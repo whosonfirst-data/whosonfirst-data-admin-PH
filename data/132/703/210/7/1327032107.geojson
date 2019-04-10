@@ -1,0 +1,80 @@
+{
+  "id": 1327032107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.72667,17.82871,121.72667,17.82871",
+    "geom:latitude":17.82871,
+    "geom:longitude":121.72667,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21504000.0",
+    "gn:asciiname":"Anquiray",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730552,
+    "gn:latitude":17.82871,
+    "gn:longitude":121.72667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Anquiray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Anquiray"
+    ],
+    "name:fil_x_variant":[
+        "Anguray",
+        "Anguira"
+    ],
+    "name:und_x_variant":[
+        "Anguray",
+        "Anguira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730552
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1f48e9e3521868b454ba6db64dffae26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696665,
+            "locality_id":1327032107,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1327032107,
+    "wof:lastmodified":1537678697,
+    "wof:name":"Anquiray",
+    "wof:parent_id":1108696665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.72667,
+    17.82871,
+    121.72667,
+    17.82871
+],
+  "geometry": {"coordinates":[121.72667,17.82871],"type":"Point"}
+}

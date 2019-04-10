@@ -1,0 +1,76 @@
+{
+  "id": 1226537347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3288,11.6678,122.3288,11.6678",
+    "geom:latitude":11.6678,
+    "geom:longitude":122.3288,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60408000.0",
+    "gn:asciiname":"Leso",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706793,
+    "gn:latitude":11.6678,
+    "gn:longitude":122.3288,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Leso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Leso"
+    ],
+    "name:und_x_variant":[
+        "Lezo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706793,
+        "wk:page":"Lezo%2C_Aklan"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"976f0d4ec41a595daee2458cc902c5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698681,
+            "locality_id":1226537347,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1226537347,
+    "wof:lastmodified":1537678007,
+    "wof:name":"Leso",
+    "wof:parent_id":1108698681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3288,
+    11.6678,
+    122.3288,
+    11.6678
+],
+  "geometry": {"coordinates":[122.3288,11.6678],"type":"Point"}
+}

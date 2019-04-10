@@ -1,0 +1,73 @@
+{
+  "id": 1344261515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.64751,12.28784,123.64751,12.28784",
+    "geom:latitude":12.28784,
+    "geom:longitude":123.64751,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54113000.0",
+    "gn:asciiname":"Panal",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695748,
+    "gn:latitude":12.28784,
+    "gn:longitude":123.64751,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Panal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Panal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695748
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"106f8c17c0271e09ba4df271b649a754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698487,
+            "locality_id":1344261515,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1344261515,
+    "wof:lastmodified":1537677694,
+    "wof:name":"Panal",
+    "wof:parent_id":1108698487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.64751,
+    12.28784,
+    123.64751,
+    12.28784
+],
+  "geometry": {"coordinates":[123.64751,12.28784],"type":"Point"}
+}

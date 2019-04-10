@@ -1,0 +1,72 @@
+{
+  "id": 1277078833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4914,13.2747,123.4914,13.2747",
+    "geom:latitude":13.2747,
+    "geom:longitude":123.4914,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50512000.0",
+    "gn:asciiname":"Mayao",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425164,
+    "gn:latitude":13.2747,
+    "gn:longitude":123.4914,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mayao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mayao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425164
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e888f6d84c085785e432522b4bcffb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698927,
+            "locality_id":1277078833,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1277078833,
+    "wof:lastmodified":1537678891,
+    "wof:name":"Mayao",
+    "wof:parent_id":1108698927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4914,
+    13.2747,
+    123.4914,
+    13.2747
+],
+  "geometry": {"coordinates":[123.4914,13.2747],"type":"Point"}
+}

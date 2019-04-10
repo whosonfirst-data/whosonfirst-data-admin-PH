@@ -1,0 +1,72 @@
+{
+  "id": 1293193661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5297,13.3804,123.5297,13.3804",
+    "geom:latitude":13.3804,
+    "geom:longitude":123.5297,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51705000.0",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"PH",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687447,
+    "gn:latitude":13.3804,
+    "gn:longitude":123.5297,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Vicente",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Vicente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687447
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1e9d63b84f99f9d233d22b786694d522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697097,
+            "locality_id":1293193661,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1293193661,
+    "wof:lastmodified":1537677448,
+    "wof:name":"San Vicente",
+    "wof:parent_id":1108697097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5297,
+    13.3804,
+    123.5297,
+    13.3804
+],
+  "geometry": {"coordinates":[123.52970000000001,13.3804],"type":"Point"}
+}

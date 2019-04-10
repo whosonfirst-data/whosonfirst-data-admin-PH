@@ -1,0 +1,65 @@
+{
+  "id": 1209910719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.81667,9.85,123.81667,9.85",
+    "geom:latitude":9.85,
+    "geom:longitude":123.81667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:asciiname":"Sandingan",
+    "gn:country_code":"PH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690149,
+    "gn:latitude":9.85,
+    "gn:longitude":123.81667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Sandingan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sandingan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690149
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4b0628cdbb04fbc0a4f15434c7b2c86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209910719,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209910719,
+    "wof:lastmodified":1537677538,
+    "wof:name":"Sandingan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.81667,
+    9.85,
+    123.81667,
+    9.85
+],
+  "geometry": {"coordinates":[123.81667,9.85],"type":"Point"}
+}

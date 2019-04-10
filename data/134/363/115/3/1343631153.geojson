@@ -1,0 +1,72 @@
+{
+  "id": 1343631153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73333,17.68333,120.73333,17.68333",
+    "geom:latitude":17.68333,
+    "geom:longitude":120.73333,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140122000.0",
+    "gn:asciiname":"Baug",
+    "gn:country_code":"PH",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725970,
+    "gn:latitude":17.68333,
+    "gn:longitude":120.73333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Baug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108699221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725970
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a80ba15c42c1e635253f3ec650caca4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699221,
+            "locality_id":1343631153,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1343631153,
+    "wof:lastmodified":1537678562,
+    "wof:name":"Baug",
+    "wof:parent_id":1108699221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73333,
+    17.68332999999999,
+    120.73333,
+    17.68332999999999
+],
+  "geometry": {"coordinates":[120.73333,17.68332999999999],"type":"Point"}
+}

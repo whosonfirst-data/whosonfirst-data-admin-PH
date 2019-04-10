@@ -1,0 +1,71 @@
+{
+  "id": 1242906305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3275,10.325,123.3275,10.325",
+    "geom:latitude":10.325,
+    "geom:longitude":123.3275,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74624000.0",
+    "gn:asciiname":"Puan",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693225,
+    "gn:latitude":10.325,
+    "gn:longitude":123.3275,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Puan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Puan"
+    ],
+    "name:und_x_variant":[
+        "Poan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693225
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b00c689406e68880ab13cc36693d4258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1242906305,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242906305,
+    "wof:lastmodified":1537677622,
+    "wof:name":"Puan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3275,
+    10.325,
+    123.3275,
+    10.325
+],
+  "geometry": {"coordinates":[123.3275,10.325],"type":"Point"}
+}

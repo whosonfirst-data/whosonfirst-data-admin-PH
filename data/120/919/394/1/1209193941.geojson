@@ -1,0 +1,66 @@
+{
+  "id": 1209193941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.74889,6.47583,124.74889,6.47583",
+    "geom:latitude":6.47583,
+    "geom:longitude":124.74889,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126302000.0",
+    "gn:asciiname":"Malaya",
+    "gn:country_code":"PH",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1978397,
+    "gn:latitude":6.47583,
+    "gn:longitude":124.74889,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978397
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"68b941ec988829ff6c388edc7f45c267",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209193941
+        }
+    ],
+    "wof:id":1209193941,
+    "wof:lastmodified":1537678807,
+    "wof:name":"Malaya",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.74889,
+    6.47583,
+    124.74889,
+    6.47583
+],
+  "geometry": {"coordinates":[124.74889,6.47583],"type":"Point"}
+}

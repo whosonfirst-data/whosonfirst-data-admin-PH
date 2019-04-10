@@ -1,0 +1,75 @@
+{
+  "id": 1243236995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8815,5.5508,120.8815,5.5508",
+    "geom:latitude":5.5508,
+    "geom:longitude":120.8815,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156612000.0",
+    "gn:asciiname":"Buan",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958098,
+    "gn:latitude":5.5508,
+    "gn:longitude":120.8815,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buan",
+    "gn:population":2646,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108699463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958098
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c045d1b978033d969697b67956e473ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699463,
+            "locality_id":1243236995,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1243236995,
+    "wof:lastmodified":1537678778,
+    "wof:name":"Buan",
+    "wof:parent_id":1108699463,
+    "wof:placetype":"locality",
+    "wof:population":2646,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8815,
+    5.5508,
+    120.8815,
+    5.5508
+],
+  "geometry": {"coordinates":[120.8815,5.5508],"type":"Point"}
+}

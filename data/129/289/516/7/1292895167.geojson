@@ -1,0 +1,72 @@
+{
+  "id": 1292895167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3863,8.5119,123.3863,8.5119",
+    "geom:latitude":8.5119,
+    "geom:longitude":123.3863,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97210000.0",
+    "gn:asciiname":"Guinles",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712339,
+    "gn:latitude":8.5119,
+    "gn:longitude":123.3863,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Guinles",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Guinles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712339
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fd419671819f403fb9452d4919e5caf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698925,
+            "locality_id":1292895167,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1292895167,
+    "wof:lastmodified":1537678164,
+    "wof:name":"Guinles",
+    "wof:parent_id":1108698925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3863,
+    8.5119,
+    123.3863,
+    8.5119
+],
+  "geometry": {"coordinates":[123.38630000000001,8.5119],"type":"Point"}
+}

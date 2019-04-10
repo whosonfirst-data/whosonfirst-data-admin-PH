@@ -1,0 +1,68 @@
+{
+  "id": 1327321643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.24444,6.10639,125.24444,6.10639",
+    "geom:latitude":6.10639,
+    "geom:longitude":125.24444,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"70",
+    "gn:asciiname":"Ladol",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1978412,
+    "gn:latitude":6.10639,
+    "gn:longitude":125.24444,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Ladol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108696585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978412
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bbb159228ab4bfce3d6a29cfa732fc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696585,
+            "locality_id":1327321643,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":1327321643,
+    "wof:lastmodified":1536839790,
+    "wof:name":"Ladol",
+    "wof:parent_id":1108696585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.24444,
+    6.10639,
+    125.24444,
+    6.10639
+],
+  "geometry": {"coordinates":[125.24444,6.10639],"type":"Point"}
+}

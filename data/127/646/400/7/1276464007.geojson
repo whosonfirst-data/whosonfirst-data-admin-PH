@@ -1,0 +1,66 @@
+{
+  "id": 1276464007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.81667,11.2,123.81667,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":123.81667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72244000.0",
+    "gn:asciiname":"Caballod",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721924,
+    "gn:latitude":11.2,
+    "gn:longitude":123.81667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caballod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721924
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5962e2aac6d96ab2bfd97fddfc984c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1276464007,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276464007,
+    "wof:lastmodified":1536600477,
+    "wof:name":"Caballod",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.81667,
+    11.2,
+    123.81667,
+    11.2
+],
+  "geometry": {"coordinates":[123.81667,11.2],"type":"Point"}
+}

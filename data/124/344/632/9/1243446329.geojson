@@ -1,0 +1,78 @@
+{
+  "id": 1243446329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.03631,11.17932,122.03631,11.17932",
+    "geom:latitude":11.17932,
+    "geom:longitude":122.03631,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60602000.0",
+    "gn:asciiname":"Bajuyan",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728749,
+    "gn:latitude":11.17932,
+    "gn:longitude":122.03631,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bajuyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bajuyan"
+    ],
+    "name:und_x_variant":[
+        "Bayuyan",
+        "Bajojan",
+        "Bajoian",
+        "Bahuyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108696901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728749
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"94004e187ca1d07525e77feaf41f7294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696901,
+            "locality_id":1243446329,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1243446329,
+    "wof:lastmodified":1537678647,
+    "wof:name":"Bajuyan",
+    "wof:parent_id":1108696901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.03631,
+    11.17932,
+    122.03631,
+    11.17932
+],
+  "geometry": {"coordinates":[122.03631,11.17932],"type":"Point"}
+}

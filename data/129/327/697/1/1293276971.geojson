@@ -1,0 +1,79 @@
+{
+  "id": 1293276971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.675,10.9458,124.675,10.9458",
+    "geom:latitude":10.9458,
+    "geom:longitude":124.675,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83703000.0",
+    "gn:asciiname":"Binoljo",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725557,
+    "gn:latitude":10.9458,
+    "gn:longitude":124.675,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binoljo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Binoljo"
+    ],
+    "name:und_x_variant":[
+        "Benulko",
+        "Benolho",
+        "Benulho",
+        "Binoljo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108696597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725557
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fe2bfe71b8e4cf23ea2968efe9c5bcf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696597,
+            "locality_id":1293276971,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1293276971,
+    "wof:lastmodified":1537678550,
+    "wof:name":"Binoljo",
+    "wof:parent_id":1108696597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.675,
+    10.9458,
+    124.675,
+    10.9458
+],
+  "geometry": {"coordinates":[124.675,10.9458],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344153021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4004,8.4868,123.4004,8.4868",
+    "geom:latitude":8.4868,
+    "geom:longitude":123.4004,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97210000.0",
+    "gn:asciiname":"Malalag",
+    "gn:country_code":"PH",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703186,
+    "gn:latitude":8.4868,
+    "gn:longitude":123.4004,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malalag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malalag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703186
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b5b55d9e017604f52a48ea2e92739636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698925,
+            "locality_id":1344153021,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1344153021,
+    "wof:lastmodified":1537677904,
+    "wof:name":"Malalag",
+    "wof:parent_id":1108698925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4004,
+    8.4868,
+    123.4004,
+    8.4868
+],
+  "geometry": {"coordinates":[123.4004,8.4868],"type":"Point"}
+}

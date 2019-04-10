@@ -1,0 +1,72 @@
+{
+  "id": 1310102923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.136,11.1299,123.136,11.1299",
+    "geom:latitude":11.1299,
+    "geom:longitude":123.136,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63001000.0",
+    "gn:asciiname":"Capayas",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718703,
+    "gn:latitude":11.1299,
+    "gn:longitude":123.136,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Capayas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Capayas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718703
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7628526aec6ebd20a4fa9383babece3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698623,
+            "locality_id":1310102923,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1310102923,
+    "wof:lastmodified":1537678337,
+    "wof:name":"Capayas",
+    "wof:parent_id":1108698623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.136,
+    11.1299,
+    123.136,
+    11.1299
+],
+  "geometry": {"coordinates":[123.136,11.1299],"type":"Point"}
+}

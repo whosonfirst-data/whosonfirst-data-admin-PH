@@ -1,0 +1,80 @@
+{
+  "id": 890436815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65861,5.96028,125.65861,5.96028",
+    "geom:latitude":5.96028,
+    "geom:longitude":125.65861,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3523,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Culaman"
+    ],
+    "name:unk_x_variant":[
+        "Kulaman"
+    ],
+    "qs:name":"Culaman",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108697839,
+        1108810255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716589,
+        "gp:id":1177893,
+        "qs:id":1032867
+    },
+    "wof:country":"PH",
+    "wof:created":1469052127,
+    "wof:geomhash":"5503c05b489e3f7ff17fb9d0dfee3c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697839,
+            "locality_id":890436815,
+            "region_id":85676253
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697839,
+            "locality_id":890436815,
+            "region_id":1108810255
+        }
+    ],
+    "wof:id":890436815,
+    "wof:lastmodified":1505343556,
+    "wof:name":"Culaman",
+    "wof:parent_id":1108697839,
+    "wof:placetype":"locality",
+    "wof:population":3523,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65861,
+    5.96028,
+    125.65861,
+    5.96028
+],
+  "geometry": {"coordinates":[125.65861,5.96028],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890451113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.97556,6.43,124.97556,6.43",
+    "geom:latitude":6.43,
+    "geom:longitude":124.97556,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3160,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Linan"
+    ],
+    "qs:name":"Linan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706282,
+        "qs:id":87502,
+        "wk:page":"Linan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052765,
+    "wof:geomhash":"e81878ddc517fe8943d187680cfaf83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699657,
+            "locality_id":890451113,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890451113,
+    "wof:lastmodified":1527792942,
+    "wof:name":"Linan",
+    "wof:parent_id":1108699657,
+    "wof:placetype":"locality",
+    "wof:population":3160,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.97556,
+    6.43,
+    124.97556,
+    6.43
+],
+  "geometry": {"coordinates":[124.97556,6.43],"type":"Point"}
+}

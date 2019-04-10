@@ -1,0 +1,72 @@
+{
+  "id": 1260386353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1984,10.9314,122.1984,10.9314",
+    "geom:latitude":10.9314,
+    "geom:longitude":122.1984,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60614000.0",
+    "gn:asciiname":"Walker",
+    "gn:country_code":"PH",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679700,
+    "gn:latitude":10.9314,
+    "gn:longitude":122.1984,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Walker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Walker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679700
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2a5553a96458afacb05000c0bf525fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699309,
+            "locality_id":1260386353,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1260386353,
+    "wof:lastmodified":1537677239,
+    "wof:name":"Walker",
+    "wof:parent_id":1108699309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1984,
+    10.9314,
+    122.1984,
+    10.9314
+],
+  "geometry": {"coordinates":[122.19840000000001,10.9314],"type":"Point"}
+}

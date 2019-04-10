@@ -1,0 +1,67 @@
+{
+  "id": 1276316419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7627,7.79629,122.7627,7.79629",
+    "geom:latitude":7.79629,
+    "geom:longitude":122.7627,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Republic of the Philippines",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9035709,
+    "gn:latitude":7.79629,
+    "gn:longitude":122.7627,
+    "gn:modification_date":"2014-05-13",
+    "gn:name":"Republic of the Philippines",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108697863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9035709
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ff2e81f2fcc7e70b614687b179697763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697863,
+            "locality_id":1276316419,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":1276316419,
+    "wof:lastmodified":1536801430,
+    "wof:name":"Republic of the Philippines",
+    "wof:parent_id":1108697863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7627,
+    7.79629,
+    122.7627,
+    7.79629
+],
+  "geometry": {"coordinates":[122.7627,7.79629],"type":"Point"}
+}

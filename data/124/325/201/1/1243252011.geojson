@@ -1,0 +1,72 @@
+{
+  "id": 1243252011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8345,8.3585,123.8345,8.3585",
+    "geom:latitude":8.3585,
+    "geom:longitude":123.8345,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104211000.0",
+    "gn:asciiname":"Dela Paz",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6675991,
+    "gn:latitude":8.3585,
+    "gn:longitude":123.8345,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dela Paz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dela Paz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108698769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6675991
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"92ed5c33fdff9a482bd114f9d4eed73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698769,
+            "locality_id":1243252011,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1243252011,
+    "wof:lastmodified":1537678825,
+    "wof:name":"Dela Paz",
+    "wof:parent_id":1108698769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8345,
+    8.3585,
+    123.8345,
+    8.3585
+],
+  "geometry": {"coordinates":[123.83450000000001,8.3585],"type":"Point"}
+}

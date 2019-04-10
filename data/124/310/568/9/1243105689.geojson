@@ -1,0 +1,72 @@
+{
+  "id": 1243105689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4501,13.4507,122.4501,13.4507",
+    "geom:latitude":13.4507,
+    "geom:longitude":122.4501,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45628000.0",
+    "gn:asciiname":"Matataja",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700395,
+    "gn:latitude":13.4507,
+    "gn:longitude":122.4501,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Matataja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Matataja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700395
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d2dda97dc9d84b34e77589f8aed61389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698515,
+            "locality_id":1243105689,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1243105689,
+    "wof:lastmodified":1537677827,
+    "wof:name":"Matataja",
+    "wof:parent_id":1108698515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4501,
+    13.4507,
+    122.4501,
+    13.4507
+],
+  "geometry": {"coordinates":[122.45010000000001,13.4507],"type":"Point"}
+}

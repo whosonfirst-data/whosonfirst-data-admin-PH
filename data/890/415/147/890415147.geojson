@@ -1,0 +1,70 @@
+{
+  "id": 890415147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6,17.5,121.6,17.5",
+    "geom:latitude":17.5,
+    "geom:longitude":121.6,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":14000,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Liwan"
+    ],
+    "qs:name":"Rizal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":2016,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108699019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691681,
+        "qs:id":86887,
+        "wk:page":"Rizal"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051075,
+    "wof:geomhash":"817280945d615f58ec949fafdbe457a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699019,
+            "localadmin_id":890415147,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":890415147,
+    "wof:lastmodified":1527727260,
+    "wof:name":"Rizal",
+    "wof:parent_id":1108699019,
+    "wof:placetype":"localadmin",
+    "wof:population":14000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6,
+    17.5,
+    121.6,
+    17.5
+],
+  "geometry": {"coordinates":[121.59999999999999,17.5],"type":"Point"}
+}

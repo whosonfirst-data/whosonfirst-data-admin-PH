@@ -1,0 +1,69 @@
+{
+  "id": 890431739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.63778,10.91194,122.63778,10.91194",
+    "geom:latitude":10.91194,
+    "geom:longitude":122.63778,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2189,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mongpong"
+    ],
+    "qs:name":"Monpon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699314,
+        "gp:id":1183966,
+        "qs:id":277036
+    },
+    "wof:country":"PH",
+    "wof:created":1469051911,
+    "wof:geomhash":"8cc9cf23928563c5e771641ec234ff71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698949,
+            "locality_id":890431739,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890431739,
+    "wof:lastmodified":1505343525,
+    "wof:name":"Monpon",
+    "wof:parent_id":1108698949,
+    "wof:placetype":"locality",
+    "wof:population":2189,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.63778,
+    10.91194,
+    122.63778,
+    10.91194
+],
+  "geometry": {"coordinates":[122.63778000000001,10.91194],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209592223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.08843,6.36035,124.08843,6.36035",
+    "geom:latitude":6.36035,
+    "geom:longitude":124.08843,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:admin3_code":"126509000.0",
+    "gn:asciiname":"Kisek",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708619,
+    "gn:latitude":6.36035,
+    "gn:longitude":124.08843,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kisek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisec",
+        "Kisek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708619
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a0f37e8439280658e28a64ee8619858f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209592223
+        }
+    ],
+    "wof:id":1209592223,
+    "wof:lastmodified":1537678058,
+    "wof:name":"Kisek",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.08843,
+    6.36035,
+    124.08843,
+    6.36035
+],
+  "geometry": {"coordinates":[124.08843,6.36035],"type":"Point"}
+}

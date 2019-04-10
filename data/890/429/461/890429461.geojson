@@ -1,0 +1,70 @@
+{
+  "id": 890429461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.75,14.16667,122.75,14.16667",
+    "geom:latitude":14.16667,
+    "geom:longitude":122.75,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":513785,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Camarines Norte"
+    ],
+    "qs:name":"Province of Camarines Norte",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719846,
+        "qs:id":1243375,
+        "wd:id":"Q302791",
+        "wk:page":"San Vicente, Camarines Norte"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051815,
+    "wof:geomhash":"f280ec49dc53dbf83f9239b4675a6099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890429461,
+            "region_id":85676017
+        }
+    ],
+    "wof:id":890429461,
+    "wof:lastmodified":1527792796,
+    "wof:name":"Province of Camarines Norte",
+    "wof:parent_id":85676017,
+    "wof:placetype":"county",
+    "wof:population":513785,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.75,
+    14.16667,
+    122.75,
+    14.16667
+],
+  "geometry": {"coordinates":[122.75,14.16667],"type":"Point"}
+}

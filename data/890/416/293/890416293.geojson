@@ -1,0 +1,69 @@
+{
+  "id": 890416293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34326,15.80589,120.34326,15.80589",
+    "geom:latitude":15.80589,
+    "geom:longitude":120.34326,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2359,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Angatel"
+    ],
+    "qs:name":"Angatel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730747,
+        "gp:id":1158413,
+        "qs:id":136052
+    },
+    "wof:country":"PH",
+    "wof:created":1469051127,
+    "wof:geomhash":"c55283a8b1c84d2012cefd7691b72684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699825,
+            "locality_id":890416293,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890416293,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Angatel",
+    "wof:parent_id":1108699825,
+    "wof:placetype":"locality",
+    "wof:population":2359,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34326,
+    15.80589,
+    120.34326,
+    15.80589
+],
+  "geometry": {"coordinates":[120.34326,15.80589],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343878449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6669,9.2137,123.6669,9.2137",
+    "geom:latitude":9.2137,
+    "geom:longitude":123.6669,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76104000.0",
+    "gn:asciiname":"Olang",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697236,
+    "gn:latitude":9.2137,
+    "gn:longitude":123.6669,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Olang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Olang"
+    ],
+    "name:und_x_variant":[
+        "Ulang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697236
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8fe074744948fcd2470d00a457762b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698397,
+            "locality_id":1343878449,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1343878449,
+    "wof:lastmodified":1537677739,
+    "wof:name":"Olang",
+    "wof:parent_id":1108698397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6669,
+    9.2137,
+    123.6669,
+    9.2137
+],
+  "geometry": {"coordinates":[123.6669,9.2137],"type":"Point"}
+}

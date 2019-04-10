@@ -1,0 +1,65 @@
+{
+  "id": 1209488695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3306,5.1586,120.3306,5.1586",
+    "geom:latitude":5.1586,
+    "geom:longitude":120.3306,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"72",
+    "gn:asciiname":"Sibukllon",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759120,
+    "gn:latitude":5.1586,
+    "gn:longitude":120.3306,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sibukllon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sibukllon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759120
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5149005959014d2b94bee3c4ba744bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209488695
+        }
+    ],
+    "wof:id":1209488695,
+    "wof:lastmodified":1537678827,
+    "wof:name":"Sibukllon",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3306,
+    5.1586,
+    120.3306,
+    5.1586
+],
+  "geometry": {"coordinates":[120.3306,5.1586],"type":"Point"}
+}

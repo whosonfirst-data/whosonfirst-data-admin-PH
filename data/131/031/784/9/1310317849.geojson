@@ -1,0 +1,76 @@
+{
+  "id": 1310317849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3649,15.9551,121.3649,15.9551",
+    "geom:latitude":15.9551,
+    "geom:longitude":121.3649,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"48",
+    "gn:admin3_code":"25015000.0",
+    "gn:asciiname":"Goto",
+    "gn:country_code":"PH",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712709,
+    "gn:latitude":15.9551,
+    "gn:longitude":121.3649,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Goto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Goto"
+    ],
+    "name:und_x_variant":[
+        "Gato",
+        "Goto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108696621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712709
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"19743c20f7a2021e6e1eceb82f8a282c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696621,
+            "locality_id":1310317849,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":1310317849,
+    "wof:lastmodified":1537678175,
+    "wof:name":"Goto",
+    "wof:parent_id":1108696621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3649,
+    15.9551,
+    121.3649,
+    15.9551
+],
+  "geometry": {"coordinates":[121.36490000000001,15.9551],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209084639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.56028,8.50972,123.56028,8.50972",
+    "geom:latitude":8.50972,
+    "geom:longitude":123.56028,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104213000.0",
+    "gn:asciiname":"Mapang",
+    "gn:country_code":"PH",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701288,
+    "gn:latitude":8.50972,
+    "gn:longitude":123.56028,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mapang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701288
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1f482d5da5dee17e045f432bfa18f889",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209084639
+        }
+    ],
+    "wof:id":1209084639,
+    "wof:lastmodified":1537677851,
+    "wof:name":"Mapang",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.56028,
+    8.50972,
+    123.56028,
+    8.50972
+],
+  "geometry": {"coordinates":[123.56028000000001,8.50972],"type":"Point"}
+}

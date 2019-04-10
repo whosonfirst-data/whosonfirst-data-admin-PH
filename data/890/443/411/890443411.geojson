@@ -1,0 +1,71 @@
+{
+  "id": 890443411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.83333,13.78333,123.83333,13.78333",
+    "geom:latitude":13.78333,
+    "geom:longitude":123.83333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":42342,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Caramoan"
+    ],
+    "qs:name":"Caramoan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":777,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718509,
+        "qs:id":1027400,
+        "wd:id":"Q208757",
+        "wk:page":"Caramoan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052423,
+    "wof:geomhash":"21eac51f30798700896774e0f7b411ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697273,
+            "localadmin_id":890443411,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890443411,
+    "wof:lastmodified":1527787067,
+    "wof:name":"Caramoan",
+    "wof:parent_id":1108697273,
+    "wof:placetype":"localadmin",
+    "wof:population":42342,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.83333,
+    13.78333,
+    123.83333,
+    13.78333
+],
+  "geometry": {"coordinates":[123.83333,13.78333],"type":"Point"}
+}

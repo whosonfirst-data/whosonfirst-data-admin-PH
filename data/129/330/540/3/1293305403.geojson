@@ -1,0 +1,82 @@
+{
+  "id": 1293305403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.64976,18.35449,121.64976,18.35449",
+    "geom:latitude":18.35449,
+    "geom:longitude":121.64976,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21505000.0",
+    "gn:asciiname":"Maura",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700130,
+    "gn:latitude":18.35449,
+    "gn:longitude":121.64976,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maura Number Five"
+    ],
+    "name:fil_x_preferred":[
+        "Maura"
+    ],
+    "name:fil_x_variant":[
+        "Barrio Maura"
+    ],
+    "name:und_x_variant":[
+        "Barrio Maura",
+        "Maura Number Five"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700130
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7c4211c8d31461888cc7dc16fe6f559a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696697,
+            "locality_id":1293305403,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1293305403,
+    "wof:lastmodified":1537677820,
+    "wof:name":"Maura",
+    "wof:parent_id":1108696697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.64976,
+    18.35449,
+    121.64976,
+    18.35449
+],
+  "geometry": {"coordinates":[121.64976,18.35449],"type":"Point"}
+}

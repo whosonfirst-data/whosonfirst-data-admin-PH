@@ -1,0 +1,72 @@
+{
+  "id": 1343886133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.5045,11.1158,119.5045,11.1158",
+    "geom:latitude":11.1158,
+    "geom:longitude":119.5045,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175312000.0",
+    "gn:asciiname":"Baroc",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726618,
+    "gn:latitude":11.1158,
+    "gn:longitude":119.5045,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baroc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baroc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726618
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"918e1201e74cb8d25cd90113c4843e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699709,
+            "locality_id":1343886133,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1343886133,
+    "wof:lastmodified":1537678579,
+    "wof:name":"Baroc",
+    "wof:parent_id":1108699709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.5045,
+    11.1158,
+    119.5045,
+    11.1158
+],
+  "geometry": {"coordinates":[119.50449999999999,11.1158],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209089163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.33434,17.09755,121.33434,17.09755",
+    "geom:latitude":17.09755,
+    "geom:longitude":121.33434,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"144405000.0",
+    "gn:asciiname":"Pastor",
+    "gn:country_code":"PH",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694493,
+    "gn:latitude":17.09755,
+    "gn:longitude":121.33434,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pastor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pastor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694493
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ef7393a5825af64721b4f610c7501be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209089163
+        }
+    ],
+    "wof:id":1209089163,
+    "wof:lastmodified":1537677660,
+    "wof:name":"Pastor",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.33434,
+    17.09755,
+    121.33434,
+    17.09755
+],
+  "geometry": {"coordinates":[121.33434,17.09755],"type":"Point"}
+}

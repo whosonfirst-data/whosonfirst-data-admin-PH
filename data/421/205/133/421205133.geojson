@@ -1,0 +1,80 @@
+{
+  "id": 421205133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5154,10.9031,123.5154,10.9031",
+    "geom:latitude":10.9031,
+    "geom:longitude":123.5154,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Vito"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1679766,
+    "qs:gn_pop":6141,
+    "qs:name":"Vito",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Western Visayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":50,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":256833,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199977,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679766,
+        "gp:id":1199977,
+        "qs:id":256833
+    },
+    "wof:country":"PH",
+    "wof:created":1459010213,
+    "wof:geomhash":"7557ae0e36fd13c441116183dd2fe546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421205133,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":421205133,
+    "wof:lastmodified":1505340793,
+    "wof:name":"Vito",
+    "wof:parent_id":85675951,
+    "wof:placetype":"locality",
+    "wof:population":6141,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5154,
+    10.9031,
+    123.5154,
+    10.9031
+],
+  "geometry": {"coordinates":[123.5154,10.9031],"type":"Point"}
+}

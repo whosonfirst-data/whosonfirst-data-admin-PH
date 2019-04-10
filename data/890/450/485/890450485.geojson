@@ -1,0 +1,74 @@
+{
+  "id": 890450485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1964,5.1463,120.1964,5.1463",
+    "geom:latitude":5.1463,
+    "geom:longitude":120.1964,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":30476,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municipality of Sapa-Sapa"
+    ],
+    "name:unk_x_variant":[
+        "Sapa-Sapa"
+    ],
+    "qs:name":"Municipality of Sapa-Sapa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":624,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675929,
+        1108698667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687250,
+        "qs:id":86596,
+        "wd:id":"Q155377",
+        "wk:page":"Tandubas, Tawi-Tawi"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052741,
+    "wof:geomhash":"813f6cf87c6e11634043591767c3684f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698667,
+            "localadmin_id":890450485,
+            "region_id":85675929
+        }
+    ],
+    "wof:id":890450485,
+    "wof:lastmodified":1527792960,
+    "wof:name":"Municipality of Sapa-Sapa",
+    "wof:parent_id":1108698667,
+    "wof:placetype":"localadmin",
+    "wof:population":30476,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1964,
+    5.1463,
+    120.1964,
+    5.1463
+],
+  "geometry": {"coordinates":[120.1964,5.1463],"type":"Point"}
+}

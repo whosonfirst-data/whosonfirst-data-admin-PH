@@ -1,0 +1,63 @@
+{
+  "id": 1209156915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94364,14.32353,120.94364,14.32353",
+    "geom:latitude":14.32353,
+    "geom:longitude":120.94364,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42106000.0",
+    "gn:asciiname":"Zone Fourth",
+    "gn:country_code":"PH",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8610215,
+    "gn:latitude":14.32353,
+    "gn:longitude":120.94364,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Zone Fourth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8610215
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cc7bfdea5ecfa3420d748b1a8ec47b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209156915
+        }
+    ],
+    "wof:id":1209156915,
+    "wof:lastmodified":1536296030,
+    "wof:name":"Zone Fourth",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94364,
+    14.323529999999998,
+    120.94364,
+    14.323529999999998
+],
+  "geometry": {"coordinates":[120.94364,14.32353],"type":"Point"}
+}

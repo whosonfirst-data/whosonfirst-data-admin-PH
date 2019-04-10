@@ -1,0 +1,84 @@
+{
+  "id": 1125849241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9582,15.3652,119.9582,15.3652",
+    "geom:latitude":15.3652,
+    "geom:longitude":119.9582,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":12357,
+    "gn:population":12357,
+    "iso:country":"PH",
+    "lbl:latitude":15.3652,
+    "lbl:longitude":119.9582,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Amu\u00f1gan"
+    ],
+    "name:unk_x_variant":[
+        "Amungen"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1730956,
+    "qs_pg:gn_pop":12357,
+    "qs_pg:name":"Amu\u00f1gan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":88532,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730956,
+        "qs_pg:id":88532
+    },
+    "wof:country":"PH",
+    "wof:created":1497293312,
+    "wof:geomhash":"ce3395ce8c4a6caa1b5fd95972265455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697741,
+            "locality_id":1125849241,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1125849241,
+    "wof:lastmodified":1509395823,
+    "wof:name":"Amu\u00f1gan",
+    "wof:parent_id":1108697741,
+    "wof:placetype":"locality",
+    "wof:population":12357,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9582,
+    15.3652,
+    119.9582,
+    15.3652
+],
+  "geometry": {"coordinates":[119.95820000000001,15.3652],"type":"Point"}
+}

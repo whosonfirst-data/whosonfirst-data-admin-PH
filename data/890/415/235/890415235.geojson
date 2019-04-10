@@ -1,0 +1,68 @@
+{
+  "id": 890415235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.33463,13.81514,121.33463,13.81514",
+    "geom:latitude":13.81514,
+    "geom:longitude":121.33463,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3830,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Libato"
+    ],
+    "qs:name":"Libato",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706702,
+        "qs:id":87535
+    },
+    "wof:country":"PH",
+    "wof:created":1469051079,
+    "wof:geomhash":"4f02728ba7d26ff608c0dee4915234fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699223,
+            "locality_id":890415235,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890415235,
+    "wof:lastmodified":1505343425,
+    "wof:name":"Libato",
+    "wof:parent_id":1108699223,
+    "wof:placetype":"locality",
+    "wof:population":3830,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.33463,
+    13.81514,
+    121.33463,
+    13.81514
+],
+  "geometry": {"coordinates":[121.33463,13.81514],"type":"Point"}
+}

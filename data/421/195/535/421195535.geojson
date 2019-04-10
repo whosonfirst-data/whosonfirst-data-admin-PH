@@ -1,0 +1,79 @@
+{
+  "id": 421195535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6493,9.2351,124.6493,9.2351",
+    "geom:latitude":9.2351,
+    "geom:longitude":124.6493,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Naasag"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1699015,
+    "qs:gn_pop":0,
+    "qs:name":"Naasag",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Northern Mindanao",
+    "qs:photos":521,
+    "qs:photos_1k":106,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":521,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1205877,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199551,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676225,
+        1108698331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699015,
+        "gp:id":1199551,
+        "qs:id":1205877
+    },
+    "wof:country":"PH",
+    "wof:created":1459009851,
+    "wof:geomhash":"4c177eb0c84d76d332b3dcba16b3e06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698331,
+            "locality_id":421195535,
+            "region_id":85676225
+        }
+    ],
+    "wof:id":421195535,
+    "wof:lastmodified":1501221846,
+    "wof:name":"Naasag",
+    "wof:parent_id":1108698331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6493,
+    9.2351,
+    124.6493,
+    9.2351
+],
+  "geometry": {"coordinates":[124.6493,9.2351],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343756167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.98532,10.35996,123.98532,10.35996",
+    "geom:latitude":10.35996,
+    "geom:longitude":123.98532,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72219000.0",
+    "gn:asciiname":"Tayud",
+    "gn:country_code":"PH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682577,
+    "gn:latitude":10.35996,
+    "gn:longitude":123.98532,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tayud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tayud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676287,
+        1108697383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682577
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d3794dc8854533a620f9ebdaf5878dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697383,
+            "locality_id":1343756167,
+            "region_id":85676287
+        }
+    ],
+    "wof:id":1343756167,
+    "wof:lastmodified":1537677321,
+    "wof:name":"Tayud",
+    "wof:parent_id":1108697383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.98532,
+    10.35996,
+    123.98532,
+    10.35996
+],
+  "geometry": {"coordinates":[123.98532,10.35996],"type":"Point"}
+}

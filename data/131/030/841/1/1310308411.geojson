@@ -1,0 +1,79 @@
+{
+  "id": 1310308411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3401,16.7571,120.3401,16.7571",
+    "geom:latitude":16.7571,
+    "geom:longitude":120.3401,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13303000.0",
+    "gn:asciiname":"Maragayap West",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701154,
+    "gn:latitude":16.7571,
+    "gn:longitude":120.3401,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maragayap West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maragayap West"
+    ],
+    "name:fil_x_preferred":[
+        "Maragayap"
+    ],
+    "name:und_x_variant":[
+        "Maragayap",
+        "Maragayap West"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108696745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701154
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"92fcb337e1954601b3179049c99af860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696745,
+            "locality_id":1310308411,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1310308411,
+    "wof:lastmodified":1537677847,
+    "wof:name":"Maragayap West",
+    "wof:parent_id":1108696745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3401,
+    16.7571,
+    120.3401,
+    16.7571
+],
+  "geometry": {"coordinates":[120.34010000000001,16.7571],"type":"Point"}
+}

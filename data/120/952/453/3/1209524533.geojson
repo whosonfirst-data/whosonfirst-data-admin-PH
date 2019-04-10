@@ -1,0 +1,66 @@
+{
+  "id": 1209524533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66667,18.15,120.66667,18.15",
+    "geom:latitude":18.15,
+    "geom:longitude":120.66667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12821000.0",
+    "gn:asciiname":"Liscol",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706004,
+    "gn:latitude":18.15,
+    "gn:longitude":120.66667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Liscol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Liscol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706004
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c50c09718e624f0cc3f57b69021e8f10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209524533
+        }
+    ],
+    "wof:id":1209524533,
+    "wof:lastmodified":1537677985,
+    "wof:name":"Liscol",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66667,
+    18.15,
+    120.66667,
+    18.15
+],
+  "geometry": {"coordinates":[120.66667,18.15],"type":"Point"}
+}

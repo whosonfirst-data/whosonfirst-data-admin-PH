@@ -1,0 +1,78 @@
+{
+  "id": 1327444123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.577,18.2962,121.577,18.2962",
+    "geom:latitude":18.2962,
+    "geom:longitude":121.577,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21505000.0",
+    "gn:asciiname":"Zinarag",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679371,
+    "gn:latitude":18.2962,
+    "gn:longitude":121.577,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Zinarag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Zinarag"
+    ],
+    "name:fil_x_variant":[
+        "Sinarag"
+    ],
+    "name:und_x_variant":[
+        "Sinarag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679371
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f85d75f11f81b5cf193c3920484cb2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696697,
+            "locality_id":1327444123,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1327444123,
+    "wof:lastmodified":1537677230,
+    "wof:name":"Zinarag",
+    "wof:parent_id":1108696697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.577,
+    18.2962,
+    121.577,
+    18.2962
+],
+  "geometry": {"coordinates":[121.577,18.2962],"type":"Point"}
+}

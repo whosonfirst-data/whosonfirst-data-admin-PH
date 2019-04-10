@@ -1,0 +1,71 @@
+{
+  "id": 890431141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3269,15.8466,120.3269,15.8466",
+    "geom:latitude":15.8466,
+    "geom:longitude":120.3269,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2313,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malibong East"
+    ],
+    "name:unk_x_variant":[
+        "Malibong"
+    ],
+    "qs:name":"Malibong East",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702824,
+        "qs:id":134951
+    },
+    "wof:country":"PH",
+    "wof:created":1469051879,
+    "wof:geomhash":"56efc05477ed2e902b5887d5f568091a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699825,
+            "locality_id":890431141,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890431141,
+    "wof:lastmodified":1505343522,
+    "wof:name":"Malibong East",
+    "wof:parent_id":1108699825,
+    "wof:placetype":"locality",
+    "wof:population":2313,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3269,
+    15.8466,
+    120.3269,
+    15.8466
+],
+  "geometry": {"coordinates":[120.32689999999999,15.8466],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125376397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.21667,11.73333,122.21667,11.73333",
+    "geom:latitude":11.73333,
+    "geom:longitude":122.21667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":18665,
+    "gn:population":18665,
+    "iso:country":"PH",
+    "lbl:latitude":11.73333,
+    "lbl:longitude":122.21667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Tangalan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1683228,
+    "qs_pg:gn_pop":18665,
+    "qs_pg:name":"Tangalan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":371428,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108699675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683228,
+        "qs_pg:id":371428
+    },
+    "wof:country":"PH",
+    "wof:created":1497047772,
+    "wof:geomhash":"fd4b3111aee2648e591526febde2db74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699675,
+            "localadmin_id":1125376397,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1125376397,
+    "wof:lastmodified":1509389469,
+    "wof:name":"Tangalan",
+    "wof:parent_id":1108699675,
+    "wof:placetype":"localadmin",
+    "wof:population":18665,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.21667,
+    11.73333,
+    122.21667,
+    11.73333
+],
+  "geometry": {"coordinates":[122.21666999999999,11.73333],"type":"Point"}
+}

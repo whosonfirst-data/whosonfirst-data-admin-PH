@@ -1,0 +1,63 @@
+{
+  "id": 1209328235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44747,15.8145,120.44747,15.8145",
+    "geom:latitude":15.8145,
+    "geom:longitude":120.44747,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15511000.0",
+    "gn:asciiname":"Zone Six",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442785,
+    "gn:latitude":15.8145,
+    "gn:longitude":120.44747,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Zone Six",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442785
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2f160dacce4b9f0eb0432ceda9f1682c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209328235
+        }
+    ],
+    "wof:id":1209328235,
+    "wof:lastmodified":1536290459,
+    "wof:name":"Zone Six",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44747,
+    15.8145,
+    120.44747,
+    15.8145
+],
+  "geometry": {"coordinates":[120.44747,15.8145],"type":"Point"}
+}

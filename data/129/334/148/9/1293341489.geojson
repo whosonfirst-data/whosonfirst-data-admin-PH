@@ -1,0 +1,72 @@
+{
+  "id": 1293341489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0861,13.8828,122.0861,13.8828",
+    "geom:latitude":13.8828,
+    "geom:longitude":122.0861,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45619000.0",
+    "gn:asciiname":"San Augustin",
+    "gn:country_code":"PH",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300789,
+    "gn:latitude":13.8828,
+    "gn:longitude":122.0861,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Augustin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Augustin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108697695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300789
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2440cd8c756aeb702e02f2a1918dd182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697695,
+            "locality_id":1293341489,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1293341489,
+    "wof:lastmodified":1537679048,
+    "wof:name":"San Augustin",
+    "wof:parent_id":1108697695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0861,
+    13.8828,
+    122.0861,
+    13.8828
+],
+  "geometry": {"coordinates":[122.0861,13.8828],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890438171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.45972,7.05,124.45972,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":124.45972,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5184,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Dado"
+    ],
+    "qs:name":"Dado",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108697459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978691,
+        "gp:id":1171409,
+        "qs:id":277751,
+        "wk:page":"Dado"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052183,
+    "wof:geomhash":"f9d2a8b1c97fc02e1c4583824b3ba524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697459,
+            "locality_id":890438171,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890438171,
+    "wof:lastmodified":1527735427,
+    "wof:name":"Dado",
+    "wof:parent_id":1108697459,
+    "wof:placetype":"locality",
+    "wof:population":5184,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.45972,
+    7.05,
+    124.45972,
+    7.05
+],
+  "geometry": {"coordinates":[124.45972,7.05],"type":"Point"}
+}

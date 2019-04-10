@@ -1,0 +1,81 @@
+{
+  "id": 1125847627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66573,15.39485,120.66573,15.39485",
+    "geom:latitude":15.39485,
+    "geom:longitude":120.66573,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2581,
+    "gn:population":2581,
+    "iso:country":"PH",
+    "lbl:latitude":15.39485,
+    "lbl:longitude":120.66573,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Mabilog"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1704611,
+    "qs_pg:gn_pop":2581,
+    "qs_pg:name":"Mabilog",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87428,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704611,
+        "qs_pg:id":87428
+    },
+    "wof:country":"PH",
+    "wof:created":1497293240,
+    "wof:geomhash":"0b5d97d9aceb778696d7ed334e56e8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697379,
+            "locality_id":1125847627,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1125847627,
+    "wof:lastmodified":1509395730,
+    "wof:name":"Mabilog",
+    "wof:parent_id":1108697379,
+    "wof:placetype":"locality",
+    "wof:population":2581,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66573,
+    15.39485,
+    120.66573,
+    15.39485
+],
+  "geometry": {"coordinates":[120.66573,15.39485],"type":"Point"}
+}

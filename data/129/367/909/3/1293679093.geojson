@@ -1,0 +1,75 @@
+{
+  "id": 1293679093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.4578,10.9312,124.4578,10.9312",
+    "geom:latitude":10.9312,
+    "geom:longitude":124.4578,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83722000.0",
+    "gn:asciiname":"Anislag",
+    "gn:country_code":"PH",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730633,
+    "gn:latitude":10.9312,
+    "gn:longitude":124.4578,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Anislag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Anislag"
+    ],
+    "name:und_x_variant":[
+        "Anislang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676341,
+        1108697785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730633
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4998879e7829cb579d3e9dcb54e823a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697785,
+            "locality_id":1293679093,
+            "region_id":85676341
+        }
+    ],
+    "wof:id":1293679093,
+    "wof:lastmodified":1537678701,
+    "wof:name":"Anislag",
+    "wof:parent_id":1108697785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.4578,
+    10.9312,
+    124.4578,
+    10.9312
+],
+  "geometry": {"coordinates":[124.45780000000001,10.9312],"type":"Point"}
+}

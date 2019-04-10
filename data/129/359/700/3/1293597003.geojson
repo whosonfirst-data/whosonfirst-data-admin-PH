@@ -1,0 +1,79 @@
+{
+  "id": 1293597003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.72057,17.8476,121.72057,17.8476",
+    "geom:latitude":17.8476,
+    "geom:longitude":121.72057,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21504000.0",
+    "gn:asciiname":"Calamagui",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690989,
+    "gn:latitude":17.8476,
+    "gn:longitude":121.72057,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calamagui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calamagui"
+    ],
+    "name:fil_x_variant":[
+        "Salamagui",
+        "Salomagui"
+    ],
+    "name:und_x_variant":[
+        "Salomagui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690989
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9189a200d48a75fb994ad295f15c612d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696665,
+            "locality_id":1293597003,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1293597003,
+    "wof:lastmodified":1537677563,
+    "wof:name":"Calamagui",
+    "wof:parent_id":1108696665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.72057,
+    17.8476,
+    121.72057,
+    17.8476
+],
+  "geometry": {"coordinates":[121.72057,17.8476],"type":"Point"}
+}

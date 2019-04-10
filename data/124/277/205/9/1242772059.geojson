@@ -1,0 +1,76 @@
+{
+  "id": 1242772059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0578,11.2808,124.0578,11.2808",
+    "geom:latitude":11.2808,
+    "geom:longitude":124.0578,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72221000.0",
+    "gn:asciiname":"Bulalaqui",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722999,
+    "gn:latitude":11.2808,
+    "gn:longitude":124.0578,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bulalaqui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bulalaqui"
+    ],
+    "name:und_x_variant":[
+        "Bolilaqui",
+        "Bulalaqui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722999
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4a1a872f06d60e9db29b9c1d611a1d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697415,
+            "locality_id":1242772059,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1242772059,
+    "wof:lastmodified":1537678473,
+    "wof:name":"Bulalaqui",
+    "wof:parent_id":1108697415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0578,
+    11.2808,
+    124.0578,
+    11.2808
+],
+  "geometry": {"coordinates":[124.0578,11.2808],"type":"Point"}
+}

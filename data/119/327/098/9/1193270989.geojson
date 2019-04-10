@@ -1,0 +1,75 @@
+{
+  "id": 1193270989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8794,12.1768,123.8794,12.1768",
+    "geom:latitude":12.1768,
+    "geom:longitude":123.8794,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54108000.0",
+    "gn:asciiname":"Gaed",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713389,
+    "gn:latitude":12.1768,
+    "gn:longitude":123.8794,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gaed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gaed"
+    ],
+    "name:und_x_variant":[
+        "Gaid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108697479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713389
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ea12771e01a08893c25517c8173d48ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697479,
+            "locality_id":1193270989,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1193270989,
+    "wof:lastmodified":1537678196,
+    "wof:name":"Gaed",
+    "wof:parent_id":1108697479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8794,
+    12.1768,
+    123.8794,
+    12.1768
+],
+  "geometry": {"coordinates":[123.8794,12.1768],"type":"Point"}
+}

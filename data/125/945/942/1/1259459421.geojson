@@ -1,0 +1,75 @@
+{
+  "id": 1259459421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.70086,6.69528,124.70086,6.69528",
+    "geom:latitude":6.69528,
+    "geom:longitude":124.70086,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:admin3_code":"126511000.0",
+    "gn:asciiname":"San Emmanuel",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689112,
+    "gn:latitude":6.69528,
+    "gn:longitude":124.70086,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"San Emmanuel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Manuel"
+    ],
+    "name:fil_x_variant":[
+        "San Emmanuel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108699597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689112
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9306605afdceff2f50fe1d96a50f3a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699597,
+            "locality_id":1259459421,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":1259459421,
+    "wof:lastmodified":1537677504,
+    "wof:name":"San Emmanuel",
+    "wof:parent_id":1108699597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.70086,
+    6.69528,
+    124.70086,
+    6.69528
+],
+  "geometry": {"coordinates":[124.70086000000001,6.69528],"type":"Point"}
+}

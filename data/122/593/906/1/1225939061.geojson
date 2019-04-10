@@ -1,0 +1,71 @@
+{
+  "id": 1225939061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1,11.28333,123.1,11.28333",
+    "geom:latitude":11.28333,
+    "geom:longitude":123.1,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Toloato",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681586,
+    "gn:latitude":11.28333,
+    "gn:longitude":123.1,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Toloato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Toloato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681586
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"64b04ad4492e5b39a137822c380293b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699129,
+            "locality_id":1225939061,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1225939061,
+    "wof:lastmodified":1537677295,
+    "wof:name":"Toloato",
+    "wof:parent_id":1108699129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1,
+    11.28333,
+    123.1,
+    11.28333
+],
+  "geometry": {"coordinates":[123.09999999999999,11.28333],"type":"Point"}
+}

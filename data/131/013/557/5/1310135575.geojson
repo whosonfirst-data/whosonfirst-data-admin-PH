@@ -1,0 +1,75 @@
+{
+  "id": 1310135575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.351,10.9025,123.351,10.9025",
+    "geom:latitude":10.9025,
+    "geom:longitude":123.351,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64523000.0",
+    "gn:asciiname":"Hacienda Faraon",
+    "gn:country_code":"PH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713662,
+    "gn:latitude":10.9025,
+    "gn:longitude":123.351,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Faraon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Faraon"
+    ],
+    "name:fil_x_variant":[
+        "Faraon Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713662
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"907fac6d5298bdb8f071d22634e1aad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699073,
+            "locality_id":1310135575,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1310135575,
+    "wof:lastmodified":1537678203,
+    "wof:name":"Hacienda Faraon",
+    "wof:parent_id":1108699073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.351,
+    10.9025,
+    123.351,
+    10.9025
+],
+  "geometry": {"coordinates":[123.351,10.9025],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310502749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.79466,15.45992,120.79466,15.45992",
+    "geom:latitude":15.45992,
+    "geom:longitude":120.79466,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34932000.0",
+    "gn:asciiname":"Santa Lucia Young",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688089,
+    "gn:latitude":15.45992,
+    "gn:longitude":120.79466,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Lucia Young",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Lucia"
+    ],
+    "name:und_x_variant":[
+        "Young Santa Lucia",
+        "Santa Lucia",
+        "Santa Lucia Young"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688089
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a22d4100e72ed02b331ca6af8a9c0d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699895,
+            "locality_id":1310502749,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1310502749,
+    "wof:lastmodified":1537677470,
+    "wof:name":"Santa Lucia Young",
+    "wof:parent_id":1108699895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.79466,
+    15.45992,
+    120.79466,
+    15.45992
+],
+  "geometry": {"coordinates":[120.79465999999999,15.45992],"type":"Point"}
+}

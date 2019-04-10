@@ -1,0 +1,75 @@
+{
+  "id": 1226262871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.52844,9.7954,123.52844,9.7954",
+    "geom:latitude":9.7954,
+    "geom:longitude":123.52844,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72222000.0",
+    "gn:asciiname":"Banhigan",
+    "gn:country_code":"PH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727202,
+    "gn:latitude":9.7954,
+    "gn:longitude":123.52844,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Banhigan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Banhigan"
+    ],
+    "name:und_x_variant":[
+        "Balanigan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727202
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d1c88f94fbc53bf268d0c85656f3ba83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697429,
+            "locality_id":1226262871,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1226262871,
+    "wof:lastmodified":1537678598,
+    "wof:name":"Banhigan",
+    "wof:parent_id":1108697429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.52844,
+    9.7954,
+    123.52844,
+    9.7954
+],
+  "geometry": {"coordinates":[123.52844,9.7954],"type":"Point"}
+}

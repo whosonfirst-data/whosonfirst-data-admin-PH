@@ -1,0 +1,74 @@
+{
+  "id": 1226339005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85528,11.98167,124.85528,11.98167",
+    "geom:latitude":11.98167,
+    "geom:longitude":124.85528,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86025000.0",
+    "gn:asciiname":"Bulao",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722960,
+    "gn:latitude":11.98167,
+    "gn:longitude":124.85528,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bulao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulawi",
+        "Bulao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108699197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722960
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d3afbc8c34f4771c1b98b646e412707f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699197,
+            "locality_id":1226339005,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1226339005,
+    "wof:lastmodified":1537678472,
+    "wof:name":"Bulao",
+    "wof:parent_id":1108699197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85528,
+    11.98167,
+    124.85528,
+    11.98167
+],
+  "geometry": {"coordinates":[124.85527999999999,11.98167],"type":"Point"}
+}

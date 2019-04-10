@@ -1,0 +1,72 @@
+{
+  "id": 890456017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.9364,10.7921,124.9364,10.7921",
+    "geom:latitude":10.7921,
+    "geom:longitude":124.9364,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2948,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bugho"
+    ],
+    "name:unk_x_variant":[
+        "Bugno"
+    ],
+    "qs:name":"Bugho",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108697817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710246,
+        "gp:id":1175235,
+        "qs:id":558768
+    },
+    "wof:country":"PH",
+    "wof:created":1469052989,
+    "wof:geomhash":"f47f4d9edd156a405ee83fd0a88927bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697817,
+            "locality_id":890456017,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":890456017,
+    "wof:lastmodified":1505343667,
+    "wof:name":"Bugho",
+    "wof:parent_id":1108697817,
+    "wof:placetype":"locality",
+    "wof:population":2948,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.9364,
+    10.7921,
+    124.9364,
+    10.7921
+],
+  "geometry": {"coordinates":[124.93640000000001,10.7921],"type":"Point"}
+}

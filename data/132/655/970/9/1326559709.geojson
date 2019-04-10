@@ -1,0 +1,79 @@
+{
+  "id": 1326559709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2759,9.2037,123.2759,9.2037",
+    "geom:latitude":9.2037,
+    "geom:longitude":123.2759,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74609000.0",
+    "gn:asciiname":"Bolak",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723036,
+    "gn:latitude":9.2037,
+    "gn:longitude":123.2759,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bolak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bulak"
+    ],
+    "name:fil_x_variant":[
+        "Bolak"
+    ],
+    "name:und_x_variant":[
+        "Bulak",
+        "Bulac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108697461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723036
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f0b2c1135d1f5facc865d1d9fff15bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697461,
+            "locality_id":1326559709,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1326559709,
+    "wof:lastmodified":1537678475,
+    "wof:name":"Bolak",
+    "wof:parent_id":1108697461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2759,
+    9.2037,
+    123.2759,
+    9.2037
+],
+  "geometry": {"coordinates":[123.27589999999999,9.2037],"type":"Point"}
+}

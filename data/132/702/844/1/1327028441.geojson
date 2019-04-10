@@ -1,0 +1,72 @@
+{
+  "id": 1327028441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.31139,13.15667,123.31139,13.15667",
+    "geom:latitude":13.15667,
+    "geom:longitude":123.31139,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50507000.0",
+    "gn:asciiname":"Bolos",
+    "gn:country_code":"PH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724227,
+    "gn:latitude":13.15667,
+    "gn:longitude":123.31139,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bolos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bolos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724227
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b915cece4c15b09ff6101c0879486cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698073,
+            "locality_id":1327028441,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1327028441,
+    "wof:lastmodified":1537678513,
+    "wof:name":"Bolos",
+    "wof:parent_id":1108698073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.31139,
+    13.15667,
+    123.31139,
+    13.15667
+],
+  "geometry": {"coordinates":[123.31139,13.15667],"type":"Point"}
+}

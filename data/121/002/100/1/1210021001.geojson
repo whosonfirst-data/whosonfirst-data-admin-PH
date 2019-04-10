@@ -1,0 +1,72 @@
+{
+  "id": 1210021001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1721,13.6161,123.1721,13.6161",
+    "geom:latitude":13.6161,
+    "geom:longitude":123.1721,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51709000.0",
+    "gn:asciiname":"Tarosanan",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682796,
+    "gn:latitude":13.6161,
+    "gn:longitude":123.1721,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tarosanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tarosanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682796
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"45ed159c4ae0f0d02ca38c97aec2b765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697237,
+            "locality_id":1210021001,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1210021001,
+    "wof:lastmodified":1537677326,
+    "wof:name":"Tarosanan",
+    "wof:parent_id":1108697237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1721,
+    13.6161,
+    123.1721,
+    13.6161
+],
+  "geometry": {"coordinates":[123.1721,13.6161],"type":"Point"}
+}

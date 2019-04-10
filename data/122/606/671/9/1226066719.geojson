@@ -1,0 +1,76 @@
+{
+  "id": 1226066719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7236,11.3051,122.7236,11.3051",
+    "geom:latitude":11.3051,
+    "geom:longitude":122.7236,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61901000.0",
+    "gn:asciiname":"Agdabon",
+    "gn:country_code":"PH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732095,
+    "gn:latitude":11.3051,
+    "gn:longitude":122.7236,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agdabon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Agdabon"
+    ],
+    "name:und_x_variant":[
+        "Agdahon",
+        "Agdajon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108697399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732095
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4903d759f09f1e6e14c0e2b277fb08ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697399,
+            "locality_id":1226066719,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1226066719,
+    "wof:lastmodified":1537678743,
+    "wof:name":"Agdabon",
+    "wof:parent_id":1108697399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7236,
+    11.3051,
+    122.7236,
+    11.3051
+],
+  "geometry": {"coordinates":[122.7236,11.3051],"type":"Point"}
+}

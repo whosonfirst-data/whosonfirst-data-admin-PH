@@ -1,0 +1,72 @@
+{
+  "id": 890433129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1151,13.9331,121.1151,13.9331",
+    "geom:latitude":13.9331,
+    "geom:longitude":121.1151,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":8304,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Banaybanay"
+    ],
+    "name:unk_x_variant":[
+        "Banaybanay I"
+    ],
+    "qs:name":"Banaybanay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        890432817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727521,
+        "gp:id":1183534,
+        "qs:id":135818
+    },
+    "wof:country":"PH",
+    "wof:created":1469051968,
+    "wof:geomhash":"896d925d31e5f444b38897cddf1ac3ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432817,
+            "locality_id":890433129,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890433129,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Banaybanay",
+    "wof:parent_id":890432817,
+    "wof:placetype":"locality",
+    "wof:population":8304,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1151,
+    13.9331,
+    121.1151,
+    13.9331
+],
+  "geometry": {"coordinates":[121.1151,13.9331],"type":"Point"}
+}

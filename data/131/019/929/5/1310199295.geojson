@@ -1,0 +1,72 @@
+{
+  "id": 1310199295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.97705,10.76864,123.97705,10.76864",
+    "geom:latitude":10.76864,
+    "geom:longitude":123.97705,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72247000.0",
+    "gn:asciiname":"Udlom",
+    "gn:country_code":"PH",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680436,
+    "gn:latitude":10.76864,
+    "gn:longitude":123.97705,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Udlom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Udlom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680436
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a63db98cdc1479c692903aeb423fb340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699529,
+            "locality_id":1310199295,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1310199295,
+    "wof:lastmodified":1537677262,
+    "wof:name":"Udlom",
+    "wof:parent_id":1108699529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.97705,
+    10.76864,
+    123.97705,
+    10.76864
+],
+  "geometry": {"coordinates":[123.97705000000001,10.76864],"type":"Point"}
+}

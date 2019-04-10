@@ -1,0 +1,75 @@
+{
+  "id": 1310118631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5934,18.2566,121.5934,18.2566",
+    "geom:latitude":18.2566,
+    "geom:longitude":121.5934,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21503000.0",
+    "gn:asciiname":"Maguing",
+    "gn:country_code":"PH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703710,
+    "gn:latitude":18.2566,
+    "gn:longitude":121.5934,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maguing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maguing"
+    ],
+    "name:fil_x_variant":[
+        "Maguig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703710
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3d015ab752d2e6fbd02c9d4535557e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696641,
+            "locality_id":1310118631,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1310118631,
+    "wof:lastmodified":1537677919,
+    "wof:name":"Maguing",
+    "wof:parent_id":1108696641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5934,
+    18.2566,
+    121.5934,
+    18.2566
+],
+  "geometry": {"coordinates":[121.5934,18.2566],"type":"Point"}
+}

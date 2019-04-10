@@ -1,0 +1,72 @@
+{
+  "id": 890451419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7337,7.895,123.7337,7.895",
+    "geom:latitude":7.895,
+    "geom:longitude":123.7337,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2485,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balili"
+    ],
+    "name:unk_x_variant":[
+        "Baliti"
+    ],
+    "qs:name":"Balili",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728141,
+        "gp:id":1161280,
+        "qs:id":88406
+    },
+    "wof:country":"PH",
+    "wof:created":1469052778,
+    "wof:geomhash":"74c9aea3a65dd5011f5482367b9deedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697897,
+            "locality_id":890451419,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":890451419,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Balili",
+    "wof:parent_id":1108697897,
+    "wof:placetype":"locality",
+    "wof:population":2485,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7337,
+    7.895,
+    123.7337,
+    7.895
+],
+  "geometry": {"coordinates":[123.7337,7.895],"type":"Point"}
+}

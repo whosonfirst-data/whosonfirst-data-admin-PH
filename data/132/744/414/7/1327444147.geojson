@@ -1,0 +1,75 @@
+{
+  "id": 1327444147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47487,17.79689,121.47487,17.79689",
+    "geom:latitude":17.79689,
+    "geom:longitude":121.47487,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21520000.0",
+    "gn:asciiname":"Aquib",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730284,
+    "gn:latitude":17.79689,
+    "gn:longitude":121.47487,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Aquib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aquib Sur"
+    ],
+    "name:fil_x_variant":[
+        "Aquib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108698861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730284
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a0325544d754b6224eb9aae0bb62190b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698861,
+            "locality_id":1327444147,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1327444147,
+    "wof:lastmodified":1537678690,
+    "wof:name":"Aquib",
+    "wof:parent_id":1108698861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47487,
+    17.79688999999999,
+    121.47487,
+    17.79688999999999
+],
+  "geometry": {"coordinates":[121.47487,17.79688999999999],"type":"Point"}
+}

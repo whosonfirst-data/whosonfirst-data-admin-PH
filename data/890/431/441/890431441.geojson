@@ -1,0 +1,71 @@
+{
+  "id": 890431441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.31667,13.63333,122.31667,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":122.31667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":67450,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Catanauan"
+    ],
+    "qs:name":"Catanauan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":2003,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108697323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717961,
+        "qs:id":276516,
+        "wd:id":"Q103872",
+        "wk:page":"Catanauan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051891,
+    "wof:geomhash":"b6201c1332684bbc5cbf0c64d685743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697323,
+            "localadmin_id":890431441,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890431441,
+    "wof:lastmodified":1527735411,
+    "wof:name":"Catanauan",
+    "wof:parent_id":1108697323,
+    "wof:placetype":"localadmin",
+    "wof:population":67450,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.31667,
+    13.63333,
+    122.31667,
+    13.63333
+],
+  "geometry": {"coordinates":[122.31667,13.63333],"type":"Point"}
+}

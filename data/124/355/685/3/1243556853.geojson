@@ -1,0 +1,78 @@
+{
+  "id": 1243556853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.52777,18.37273,121.52777,18.37273",
+    "geom:latitude":18.37273,
+    "geom:longitude":121.52777,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21507000.0",
+    "gn:asciiname":"Payagan West",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694220,
+    "gn:latitude":18.37273,
+    "gn:longitude":121.52777,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Payagan West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Payagan West"
+    ],
+    "name:fil_x_preferred":[
+        "Payagan"
+    ],
+    "name:und_x_variant":[
+        "Payagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694220
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e662feb707d6430ca1206c6ecf9209ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696853,
+            "locality_id":1243556853,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1243556853,
+    "wof:lastmodified":1537677652,
+    "wof:name":"Payagan West",
+    "wof:parent_id":1108696853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.52777,
+    18.37273,
+    121.52777,
+    18.37273
+],
+  "geometry": {"coordinates":[121.52777,18.37273],"type":"Point"}
+}

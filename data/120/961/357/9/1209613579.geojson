@@ -1,0 +1,68 @@
+{
+  "id": 1209613579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.88861,12.67972,123.88861,12.67972",
+    "geom:latitude":12.67972,
+    "geom:longitude":123.88861,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56203000.0",
+    "gn:asciiname":"San Juan Bag-o",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689229,
+    "gn:latitude":12.67972,
+    "gn:longitude":123.88861,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Juan Bag-o",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "San Juan Bag-o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689229
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4badb2c90371bafe1e8c3411d85696ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209613579
+        }
+    ],
+    "wof:id":1209613579,
+    "wof:lastmodified":1537677508,
+    "wof:name":"San Juan Bag-o",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.88861,
+    12.67972,
+    123.88861,
+    12.67972
+],
+  "geometry": {"coordinates":[123.88861,12.67972],"type":"Point"}
+}

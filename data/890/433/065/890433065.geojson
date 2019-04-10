@@ -1,0 +1,74 @@
+{
+  "id": 890433065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6155,8.616,123.6155,8.616",
+    "geom:latitude":8.616,
+    "geom:longitude":123.6155,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":15859,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municipality of Baliangao"
+    ],
+    "name:unk_x_variant":[
+        "Baliangao"
+    ],
+    "qs:name":"Municipality of Baliangao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":309,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108696835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728216,
+        "qs:id":88421,
+        "wd:id":"Q24956116",
+        "wk:page":"Baliangao Protected Landscape and Seascape"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051965,
+    "wof:geomhash":"bdb10516b8bfc76cd413db7ec0193136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696835,
+            "localadmin_id":890433065,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":890433065,
+    "wof:lastmodified":1527792952,
+    "wof:name":"Municipality of Baliangao",
+    "wof:parent_id":1108696835,
+    "wof:placetype":"localadmin",
+    "wof:population":15859,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6155,
+    8.616,
+    123.6155,
+    8.616
+],
+  "geometry": {"coordinates":[123.6155,8.616],"type":"Point"}
+}

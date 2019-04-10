@@ -1,0 +1,81 @@
+{
+  "id": 1125847541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1738,9.0961,123.1738,9.0961",
+    "geom:latitude":9.0961,
+    "geom:longitude":123.1738,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6521,
+    "gn:population":6521,
+    "iso:country":"PH",
+    "lbl:latitude":9.0961,
+    "lbl:longitude":123.1738,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Mayabon"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1700092,
+    "qs_pg:gn_pop":6521,
+    "qs_pg:name":"Mayabon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":87235,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700092,
+        "qs_pg:id":87235
+    },
+    "wof:country":"PH",
+    "wof:created":1497293237,
+    "wof:geomhash":"c5be902d2ec60556ba030cc87e1d14f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699891,
+            "locality_id":1125847541,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1125847541,
+    "wof:lastmodified":1509395726,
+    "wof:name":"Mayabon",
+    "wof:parent_id":1108699891,
+    "wof:placetype":"locality",
+    "wof:population":6521,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1738,
+    9.0961,
+    123.1738,
+    9.0961
+],
+  "geometry": {"coordinates":[123.1738,9.0961],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276759479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.84639,11.05111,122.84639,11.05111",
+    "geom:latitude":11.05111,
+    "geom:longitude":122.84639,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63008000.0",
+    "gn:asciiname":"San Lucas",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689156,
+    "gn:latitude":11.05111,
+    "gn:longitude":122.84639,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Lucas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Lucas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689156
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f8cacd5fff7a2ea096e89ba17a484d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696917,
+            "locality_id":1276759479,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1276759479,
+    "wof:lastmodified":1537677505,
+    "wof:name":"San Lucas",
+    "wof:parent_id":1108696917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.84639,
+    11.05111,
+    122.84639,
+    11.05111
+],
+  "geometry": {"coordinates":[122.84639,11.05111],"type":"Point"}
+}

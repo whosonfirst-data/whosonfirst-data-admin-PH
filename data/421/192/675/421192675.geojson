@@ -1,0 +1,79 @@
+{
+  "id": 421192675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.03526,14.22673,121.03526,14.22673",
+    "geom:latitude":14.22673,
+    "geom:longitude":121.03526,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Carmen"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1718322,
+    "qs:gn_pop":0,
+    "qs:name":"Carmen",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Calabarzon",
+    "qs:photos":101,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":101,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1171380,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1169207,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108699493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718322,
+        "gp:id":1169207,
+        "qs:id":1171380
+    },
+    "wof:country":"PH",
+    "wof:created":1459009744,
+    "wof:geomhash":"d638709eeb410687017cf48e7bc587a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699493,
+            "locality_id":421192675,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":421192675,
+    "wof:lastmodified":1501221881,
+    "wof:name":"Carmen",
+    "wof:parent_id":1108699493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.03526,
+    14.22673,
+    121.03526,
+    14.22673
+],
+  "geometry": {"coordinates":[121.03525999999999,14.22673],"type":"Point"}
+}

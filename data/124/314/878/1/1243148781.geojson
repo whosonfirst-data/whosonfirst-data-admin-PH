@@ -1,0 +1,72 @@
+{
+  "id": 1243148781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.78968,6.65847,124.78968,6.65847",
+    "geom:latitude":6.65847,
+    "geom:longitude":124.78968,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"153803000.0",
+    "gn:asciiname":"Tinambulan",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681933,
+    "gn:latitude":6.65847,
+    "gn:longitude":124.78968,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Tinambulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tinambulan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108698959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681933
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cc6a75b11751a5a07405e7c95ad85922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698959,
+            "locality_id":1243148781,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":1243148781,
+    "wof:lastmodified":1537677305,
+    "wof:name":"Tinambulan",
+    "wof:parent_id":1108698959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.78968,
+    6.65847,
+    124.78968,
+    6.65847
+],
+  "geometry": {"coordinates":[124.78968,6.65847],"type":"Point"}
+}

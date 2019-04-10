@@ -1,0 +1,69 @@
+{
+  "id": 890450653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.115,7.70528,125.115,7.70528",
+    "geom:latitude":7.70528,
+    "geom:longitude":125.115,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6508,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Salawagan"
+    ],
+    "qs:name":"Salawagan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108698983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690937,
+        "gp:id":91463599,
+        "qs:id":86842
+    },
+    "wof:country":"PH",
+    "wof:created":1469052748,
+    "wof:geomhash":"6dc06b2f85b64c1cf740aabc4d03de14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698983,
+            "locality_id":890450653,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":890450653,
+    "wof:lastmodified":1505343635,
+    "wof:name":"Salawagan",
+    "wof:parent_id":1108698983,
+    "wof:placetype":"locality",
+    "wof:population":6508,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.115,
+    7.70528,
+    125.115,
+    7.70528
+],
+  "geometry": {"coordinates":[125.11499999999999,7.70528],"type":"Point"}
+}

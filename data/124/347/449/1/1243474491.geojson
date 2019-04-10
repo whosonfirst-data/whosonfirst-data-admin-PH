@@ -1,0 +1,72 @@
+{
+  "id": 1243474491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.4314,9.9025,124.4314,9.9025",
+    "geom:latitude":9.9025,
+    "geom:longitude":124.4314,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71202000.0",
+    "gn:asciiname":"Bughayan",
+    "gn:country_code":"PH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723292,
+    "gn:latitude":9.9025,
+    "gn:longitude":124.4314,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bughayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bughayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723292
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1ba812ed762ca4dced949f9f8a9562f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699817,
+            "locality_id":1243474491,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1243474491,
+    "wof:lastmodified":1537678483,
+    "wof:name":"Bughayan",
+    "wof:parent_id":1108699817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.4314,
+    9.9025,
+    124.4314,
+    9.9025
+],
+  "geometry": {"coordinates":[124.4314,9.9025],"type":"Point"}
+}

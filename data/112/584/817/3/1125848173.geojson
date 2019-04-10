@@ -1,0 +1,84 @@
+{
+  "id": 1125848173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0156,13.5167,123.0156,13.5167",
+    "geom:latitude":13.5167,
+    "geom:longitude":123.0156,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7265,
+    "gn:population":7265,
+    "iso:country":"PH",
+    "lbl:latitude":13.5167,
+    "lbl:longitude":123.0156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Caranan"
+    ],
+    "name:unk_x_variant":[
+        "Carinan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1718495,
+    "qs_pg:gn_pop":7265,
+    "qs_pg:name":"Caranan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":88037,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718495,
+        "qs_pg:id":88037
+    },
+    "wof:country":"PH",
+    "wof:created":1497293261,
+    "wof:geomhash":"7f3064cd3259e4c199c819d9c04ffe26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698823,
+            "locality_id":1125848173,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1125848173,
+    "wof:lastmodified":1509395756,
+    "wof:name":"Caranan",
+    "wof:parent_id":1108698823,
+    "wof:placetype":"locality",
+    "wof:population":7265,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0156,
+    13.5167,
+    123.0156,
+    13.5167
+],
+  "geometry": {"coordinates":[123.01560000000001,13.5167],"type":"Point"}
+}

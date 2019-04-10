@@ -1,0 +1,79 @@
+{
+  "id": 1242883361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3697,16.8375,120.3697,16.8375",
+    "geom:latitude":16.8375,
+    "geom:longitude":120.3697,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13310000.0",
+    "gn:asciiname":"Sucoc Sur",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685543,
+    "gn:latitude":16.8375,
+    "gn:longitude":120.3697,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sucoc Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sucoc Sur"
+    ],
+    "name:fil_x_variant":[
+        "Sucoc"
+    ],
+    "name:und_x_variant":[
+        "Sucoc",
+        "Sucoc Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108698161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685543
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d5a76b03c2c3d15ae87ca4554bd92b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698161,
+            "locality_id":1242883361,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1242883361,
+    "wof:lastmodified":1537677403,
+    "wof:name":"Sucoc Sur",
+    "wof:parent_id":1108698161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3697,
+    16.8375,
+    120.3697,
+    16.8375
+],
+  "geometry": {"coordinates":[120.36969999999999,16.8375],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209954945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3448,13.8107,122.3448,13.8107",
+    "geom:latitude":13.8107,
+    "geom:longitude":122.3448,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45622000.0",
+    "gn:asciiname":"Santo Nino Ilaya",
+    "gn:country_code":"PH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687608,
+    "gn:latitude":13.8107,
+    "gn:longitude":122.3448,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santo Ni\u00f1o Ilaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santo Ni\u00f1o Ilaya"
+    ],
+    "name:und_x_variant":[
+        "Santo Ni\u00f1e Ilaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687608
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b7d775caaae9f5f12e18eb017ab1d4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698121,
+            "locality_id":1209954945,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1209954945,
+    "wof:lastmodified":1537677455,
+    "wof:name":"Santo Nino Ilaya",
+    "wof:parent_id":1108698121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3448,
+    13.8107,
+    122.3448,
+    13.8107
+],
+  "geometry": {"coordinates":[122.34480000000001,13.8107],"type":"Point"}
+}

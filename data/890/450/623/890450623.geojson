@@ -1,0 +1,72 @@
+{
+  "id": 890450623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.66584,17.07404,121.66584,17.07404",
+    "geom:latitude":17.07404,
+    "geom:longitude":121.66584,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4910,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sandiat"
+    ],
+    "name:unk_x_variant":[
+        "Sandiat Centro"
+    ],
+    "qs:name":"Sandiat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690170,
+        "gp:id":91464820,
+        "qs:id":86798
+    },
+    "wof:country":"PH",
+    "wof:created":1469052747,
+    "wof:geomhash":"b51034e6c2222303adbfc936b86b3821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699051,
+            "locality_id":890450623,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":890450623,
+    "wof:lastmodified":1505343635,
+    "wof:name":"Sandiat",
+    "wof:parent_id":1108699051,
+    "wof:placetype":"locality",
+    "wof:population":4910,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.66584,
+    17.07404,
+    121.66584,
+    17.07404
+],
+  "geometry": {"coordinates":[121.66584,17.07404],"type":"Point"}
+}

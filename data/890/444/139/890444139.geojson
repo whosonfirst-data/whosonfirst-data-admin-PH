@@ -1,0 +1,72 @@
+{
+  "id": 890444139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9634,11.2067,123.9634,11.2067",
+    "geom:latitude":11.2067,
+    "geom:longitude":123.9634,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2661,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bachauan"
+    ],
+    "name:unk_x_variant":[
+        "Bakhauan"
+    ],
+    "qs:name":"Bachauan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728715,
+        "gp:id":1176321,
+        "qs:id":1033041
+    },
+    "wof:country":"PH",
+    "wof:created":1469052452,
+    "wof:geomhash":"f4a9cd443e4f7c20267476b86edc416e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697415,
+            "locality_id":890444139,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890444139,
+    "wof:lastmodified":1505343597,
+    "wof:name":"Bachauan",
+    "wof:parent_id":1108697415,
+    "wof:placetype":"locality",
+    "wof:population":2661,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9634,
+    11.2067,
+    123.9634,
+    11.2067
+],
+  "geometry": {"coordinates":[123.96339999999999,11.2067],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225926679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11544,16.84816,121.11544,16.84816",
+    "geom:latitude":16.84816,
+    "geom:longitude":121.11544,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"142709000.0",
+    "gn:asciiname":"Mampella",
+    "gn:country_code":"PH",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702229,
+    "gn:latitude":16.84816,
+    "gn:longitude":121.11544,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mampella",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mampella"
+    ],
+    "name:fil_x_variant":[
+        "Mampolia"
+    ],
+    "name:und_x_variant":[
+        "Mampolia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108697723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702229
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b2ffb3b69ed523395fd1a96dad613e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697723,
+            "locality_id":1225926679,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1225926679,
+    "wof:lastmodified":1537677877,
+    "wof:name":"Mampella",
+    "wof:parent_id":1108697723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11544,
+    16.84816,
+    121.11544,
+    16.84816
+],
+  "geometry": {"coordinates":[121.11544000000001,16.84816],"type":"Point"}
+}

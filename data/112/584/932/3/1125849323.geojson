@@ -1,0 +1,78 @@
+{
+  "id": 1125849323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8168,11.4154,120.8168,11.4154",
+    "geom:latitude":11.4154,
+    "geom:longitude":120.8168,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4007,
+    "gn:population":4007,
+    "iso:country":"PH",
+    "lbl:latitude":11.4154,
+    "lbl:longitude":120.8168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Algeciras"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1731531,
+    "qs_pg:gn_pop":4007,
+    "qs_pg:name":"Algeciras",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88561,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731531,
+        "qs_pg:id":88561
+    },
+    "wof:country":"PH",
+    "wof:created":1497293316,
+    "wof:geomhash":"7eeb48faa9edbd1f63ea97e044c601e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1125849323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125849323,
+    "wof:lastmodified":1509395827,
+    "wof:name":"Algeciras",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4007,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8168,
+    11.4154,
+    120.8168,
+    11.4154
+],
+  "geometry": {"coordinates":[120.8168,11.4154],"type":"Point"}
+}

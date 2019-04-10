@@ -1,0 +1,75 @@
+{
+  "id": 1327120081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.26167,9.81389,124.26167,9.81389",
+    "geom:latitude":9.81389,
+    "geom:longitude":124.26167,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71240000.0",
+    "gn:asciiname":"Cabauan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721709,
+    "gn:latitude":9.81389,
+    "gn:longitude":124.26167,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabauah",
+        "Cabaugh",
+        "Cabauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721709
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"962119e7a74c2dbf478c4716817b3710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699483,
+            "locality_id":1327120081,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1327120081,
+    "wof:lastmodified":1537678435,
+    "wof:name":"Cabauan",
+    "wof:parent_id":1108699483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.26167,
+    9.81389,
+    124.26167,
+    9.81389
+],
+  "geometry": {"coordinates":[124.26167,9.81389],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293300667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.98814,16.97845,121.98814,16.97845",
+    "geom:latitude":16.97845,
+    "geom:longitude":121.98814,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23131000.0",
+    "gn:asciiname":"Santa Filomina",
+    "gn:country_code":"PH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687706,
+    "gn:latitude":16.97845,
+    "gn:longitude":121.98814,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Filomina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Filomena"
+    ],
+    "name:fil_x_variant":[
+        "Santo Filomena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108696989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687706
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3310b5109bed556821a70d27bdfe502a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696989,
+            "locality_id":1293300667,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1293300667,
+    "wof:lastmodified":1537677458,
+    "wof:name":"Santa Filomina",
+    "wof:parent_id":1108696989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.98814,
+    16.97845,
+    121.98814,
+    16.97845
+],
+  "geometry": {"coordinates":[121.98814,16.97845],"type":"Point"}
+}

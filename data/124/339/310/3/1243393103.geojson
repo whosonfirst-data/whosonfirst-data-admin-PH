@@ -1,0 +1,72 @@
+{
+  "id": 1243393103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0434,10.3435,123.0434,10.3435",
+    "geom:latitude":10.3435,
+    "geom:longitude":123.0434,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64517000.0",
+    "gn:asciiname":"Hacienda Tumaquin",
+    "gn:country_code":"PH",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428180,
+    "gn:latitude":10.3435,
+    "gn:longitude":123.0434,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Tumaquin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Tumaquin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428180
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bd479bfdb3281dcf7ff29064422cb165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697941,
+            "locality_id":1243393103,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1243393103,
+    "wof:lastmodified":1537678920,
+    "wof:name":"Hacienda Tumaquin",
+    "wof:parent_id":1108697941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0434,
+    10.3435,
+    123.0434,
+    10.3435
+],
+  "geometry": {"coordinates":[123.04340000000001,10.3435],"type":"Point"}
+}

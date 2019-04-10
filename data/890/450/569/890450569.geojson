@@ -1,0 +1,71 @@
+{
+  "id": 890450569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.0,8.48333,125.0,8.48333",
+    "geom:latitude":8.48333,
+    "geom:longitude":125.0,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6357,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Luis"
+    ],
+    "qs:name":"San Luis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":268,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108698317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689145,
+        "qs:id":86734,
+        "wd:id":"Q225404",
+        "wk:page":"San Luis"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052744,
+    "wof:geomhash":"6e3a4f0a049b526ba3177cdd36f6ec06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698317,
+            "locality_id":890450569,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":890450569,
+    "wof:lastmodified":1527792959,
+    "wof:name":"San Luis",
+    "wof:parent_id":1108698317,
+    "wof:placetype":"locality",
+    "wof:population":6357,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.0,
+    8.48333,
+    125.0,
+    8.48333
+],
+  "geometry": {"coordinates":[125.0,8.48333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890453159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7155,17.933,121.7155,17.933",
+    "geom:latitude":17.933,
+    "geom:longitude":121.7155,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2485,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dalaoig"
+    ],
+    "name:fil_x_variant":[
+        "Dalauig"
+    ],
+    "name:unk_x_variant":[
+        "Dalauig"
+    ],
+    "qs:name":"Dalaoig",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716074,
+        "qs:id":1032862
+    },
+    "wof:country":"PH",
+    "wof:created":1469052843,
+    "wof:geomhash":"259f60f7f73d059a4af0e9f01cf5d21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696785,
+            "locality_id":890453159,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890453159,
+    "wof:lastmodified":1505343649,
+    "wof:name":"Dalaoig",
+    "wof:parent_id":1108696785,
+    "wof:placetype":"locality",
+    "wof:population":2485,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7155,
+    17.933,
+    121.7155,
+    17.933
+],
+  "geometry": {"coordinates":[121.71550000000001,17.933],"type":"Point"}
+}

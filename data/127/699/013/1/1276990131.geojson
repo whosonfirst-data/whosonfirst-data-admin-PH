@@ -1,0 +1,80 @@
+{
+  "id": 1276990131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55,16.88333,120.55,16.88333",
+    "geom:latitude":16.88333,
+    "geom:longitude":120.55,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12901000.0",
+    "gn:asciiname":"Bais",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728770,
+    "gn:latitude":16.88333,
+    "gn:longitude":120.55,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bais",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bais"
+    ],
+    "name:fil_x_variant":[
+        "Bals"
+    ],
+    "name:und_x_variant":[
+        "Bals",
+        "Bais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108696633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728770
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"078191a16c9bc1e17a1b453914afcc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696633,
+            "locality_id":1276990131,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1276990131,
+    "wof:lastmodified":1537678647,
+    "wof:name":"Bais",
+    "wof:parent_id":1108696633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55,
+    16.88332999999999,
+    120.55,
+    16.88332999999999
+],
+  "geometry": {"coordinates":[120.55,16.88332999999999],"type":"Point"}
+}

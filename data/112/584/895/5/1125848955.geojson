@@ -1,0 +1,81 @@
+{
+  "id": 1125848955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1817,13.6464,121.1817,13.6464",
+    "geom:latitude":13.6464,
+    "geom:longitude":121.1817,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2310,
+    "gn:population":2310,
+    "iso:country":"PH",
+    "lbl:latitude":13.6464,
+    "lbl:longitude":121.1817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Banalo"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1727589,
+    "qs_pg:gn_pop":2310,
+    "qs_pg:name":"Banalo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88381,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108698109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727589,
+        "qs_pg:id":88381
+    },
+    "wof:country":"PH",
+    "wof:created":1497293301,
+    "wof:geomhash":"7e777aeb1500cb04535e8124be8df361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698109,
+            "locality_id":1125848955,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1125848955,
+    "wof:lastmodified":1509395808,
+    "wof:name":"Banalo",
+    "wof:parent_id":1108698109,
+    "wof:placetype":"locality",
+    "wof:population":2310,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1817,
+    13.6464,
+    121.1817,
+    13.6464
+],
+  "geometry": {"coordinates":[121.18170000000001,13.6464],"type":"Point"}
+}

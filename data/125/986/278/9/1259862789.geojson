@@ -1,0 +1,75 @@
+{
+  "id": 1259862789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8932,5.6977,120.8932,5.6977",
+    "geom:latitude":5.6977,
+    "geom:longitude":120.8932,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156614000.0",
+    "gn:asciiname":"Tumpong",
+    "gn:country_code":"PH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681513,
+    "gn:latitude":5.6977,
+    "gn:longitude":120.8932,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tumpong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tumpong"
+    ],
+    "name:und_x_variant":[
+        "Tompong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108699691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681513
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7d581d93f540565ee7643c1f7ffc9a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699691,
+            "locality_id":1259862789,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1259862789,
+    "wof:lastmodified":1537677293,
+    "wof:name":"Tumpong",
+    "wof:parent_id":1108699691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8932,
+    5.6977,
+    120.8932,
+    5.6977
+],
+  "geometry": {"coordinates":[120.89319999999999,5.6977],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890431755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7462,11.2835,123.7462,11.2835",
+    "geom:latitude":11.2835,
+    "geom:longitude":123.7462,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4091,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mancilang"
+    ],
+    "name:unk_x_variant":[
+        "Mansilang"
+    ],
+    "qs:name":"Mancilang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701998,
+        "gp:id":1181033,
+        "qs:id":277062
+    },
+    "wof:country":"PH",
+    "wof:created":1469051912,
+    "wof:geomhash":"f6c096180061e720e65425f7cefb96a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696891,
+            "locality_id":890431755,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890431755,
+    "wof:lastmodified":1505343525,
+    "wof:name":"Mancilang",
+    "wof:parent_id":1108696891,
+    "wof:placetype":"locality",
+    "wof:population":4091,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7462,
+    11.2835,
+    123.7462,
+    11.2835
+],
+  "geometry": {"coordinates":[123.7462,11.2835],"type":"Point"}
+}

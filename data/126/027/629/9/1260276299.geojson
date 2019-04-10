@@ -1,0 +1,75 @@
+{
+  "id": 1260276299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0922,12.6316,124.0922,12.6316",
+    "geom:latitude":12.6316,
+    "geom:longitude":124.0922,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56215000.0",
+    "gn:asciiname":"Busing",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722347,
+    "gn:latitude":12.6316,
+    "gn:longitude":124.0922,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Busing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Busing"
+    ],
+    "name:und_x_variant":[
+        "Busaingan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108699375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722347
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"94d63f39ef1fe316ec299bae779215c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699375,
+            "locality_id":1260276299,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1260276299,
+    "wof:lastmodified":1537678454,
+    "wof:name":"Busing",
+    "wof:parent_id":1108699375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0922,
+    12.6316,
+    124.0922,
+    12.6316
+],
+  "geometry": {"coordinates":[124.09220000000001,12.6316],"type":"Point"}
+}

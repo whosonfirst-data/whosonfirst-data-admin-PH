@@ -1,0 +1,68 @@
+{
+  "id": 890438321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7,13.73333,123.7,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":123.7,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":17527,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Parubcan"
+    ],
+    "qs:name":"Presentacion",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692793,
+        "qs:id":1031043
+    },
+    "wof:country":"PH",
+    "wof:created":1469052189,
+    "wof:geomhash":"6b4aac58079de8ce8ba2176c11da70c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698961,
+            "localadmin_id":890438321,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890438321,
+    "wof:lastmodified":1505343564,
+    "wof:name":"Presentacion",
+    "wof:parent_id":1108698961,
+    "wof:placetype":"localadmin",
+    "wof:population":17527,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7,
+    13.73333,
+    123.7,
+    13.73333
+],
+  "geometry": {"coordinates":[123.7,13.73333],"type":"Point"}
+}

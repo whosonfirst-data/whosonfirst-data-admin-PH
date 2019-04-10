@@ -1,0 +1,77 @@
+{
+  "id": 1209705613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.56639,12.36389,124.56639,12.36389",
+    "geom:latitude":12.36389,
+    "geom:longitude":124.56639,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"84805000.0",
+    "gn:asciiname":"Quezon",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692206,
+    "gn:latitude":12.36389,
+    "gn:longitude":124.56639,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Quezon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0441\u043e\u043d-\u0421\u0438\u0442\u0438"
+    ],
+    "name:und_x_variant":[
+        "Panicyan",
+        "Quezon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676209,
+        1108697027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692206
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cf759f32faeb6c218b404c6aeaf3b935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697027,
+            "locality_id":1209705613,
+            "region_id":85676209
+        }
+    ],
+    "wof:id":1209705613,
+    "wof:lastmodified":1537677594,
+    "wof:name":"Quezon",
+    "wof:parent_id":1108697027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.56638999999998,
+    12.36389,
+    124.56638999999998,
+    12.36389
+],
+  "geometry": {"coordinates":[124.56638999999998,12.36389],"type":"Point"}
+}

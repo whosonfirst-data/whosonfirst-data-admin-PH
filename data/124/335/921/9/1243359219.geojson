@@ -1,0 +1,68 @@
+{
+  "id": 1243359219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.45278,7.74611,123.45278,7.74611",
+    "geom:latitude":7.74611,
+    "geom:longitude":123.45278,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Nupulan",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697413,
+    "gn:latitude":7.74611,
+    "gn:longitude":123.45278,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Nupulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108697537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697413
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"58ed6b193ba35037722569cb9fa48e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697537,
+            "locality_id":1243359219,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1243359219,
+    "wof:lastmodified":1536932100,
+    "wof:name":"Nupulan",
+    "wof:parent_id":1108697537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.45278,
+    7.74611,
+    123.45278,
+    7.74611
+],
+  "geometry": {"coordinates":[123.45278,7.74611],"type":"Point"}
+}

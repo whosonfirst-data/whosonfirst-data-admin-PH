@@ -1,0 +1,78 @@
+{
+  "id": 890450827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1639,5.8148,121.1639,5.8148",
+    "geom:latitude":5.8148,
+    "geom:longitude":121.1639,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":13694,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Municipality of Pata"
+    ],
+    "name:unk_x_variant":[
+        "Pata"
+    ],
+    "qs:name":"Municipality of Pata",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694480,
+        "gp:id":29401374,
+        "qs:id":87024,
+        "qs_pg:id":1111315,
+        "wk:page":"Pata"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052755,
+    "wof:geomhash":"7b1b2ab684f77f6c6f5172ccce26776d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698835,
+            "localadmin_id":890450827,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890450827,
+    "wof:lastmodified":1527792959,
+    "wof:name":"Municipality of Pata",
+    "wof:parent_id":1108698835,
+    "wof:placetype":"localadmin",
+    "wof:population":13694,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1639,
+    5.8148,
+    121.1639,
+    5.8148
+],
+  "geometry": {"coordinates":[121.1639,5.8148],"type":"Point"}
+}

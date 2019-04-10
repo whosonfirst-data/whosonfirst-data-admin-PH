@@ -1,0 +1,72 @@
+{
+  "id": 890431197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5582,9.9769,122.5582,9.9769",
+    "geom:latitude":9.9769,
+    "geom:longitude":122.5582,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":11117,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tuyom"
+    ],
+    "name:unk_x_variant":[
+        "Tuyum"
+    ],
+    "qs:name":"Tuyom",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680531,
+        "gp:id":1197858,
+        "qs:id":133938
+    },
+    "wof:country":"PH",
+    "wof:created":1469051881,
+    "wof:geomhash":"4f0f9828c2e97fdecf44f829977f25de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697343,
+            "locality_id":890431197,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890431197,
+    "wof:lastmodified":1505343522,
+    "wof:name":"Tuyom",
+    "wof:parent_id":1108697343,
+    "wof:placetype":"locality",
+    "wof:population":11117,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5582,
+    9.9769,
+    122.5582,
+    9.9769
+],
+  "geometry": {"coordinates":[122.5582,9.9769],"type":"Point"}
+}

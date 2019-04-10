@@ -1,0 +1,72 @@
+{
+  "id": 1343479045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.56528,8.56694,123.56528,8.56694",
+    "geom:latitude":8.56694,
+    "geom:longitude":123.56528,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104213000.0",
+    "gn:asciiname":"Bitibot",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724695,
+    "gn:latitude":8.56694,
+    "gn:longitude":123.56528,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bitibot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bitibot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108699445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724695
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"df4694146279d316cc16580db4016200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699445,
+            "locality_id":1343479045,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1343479045,
+    "wof:lastmodified":1537678525,
+    "wof:name":"Bitibot",
+    "wof:parent_id":1108699445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.56528,
+    8.56694,
+    123.56528,
+    8.56694
+],
+  "geometry": {"coordinates":[123.56528,8.56694],"type":"Point"}
+}

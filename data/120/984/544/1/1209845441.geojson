@@ -1,0 +1,72 @@
+{
+  "id": 1209845441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.8243,9.9641,122.8243,9.9641",
+    "geom:latitude":9.9641,
+    "geom:longitude":122.8243,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64515000.0",
+    "gn:asciiname":"Hacienda San Lucas",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8335540,
+    "gn:latitude":9.9641,
+    "gn:longitude":122.8243,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda San Lucas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda San Lucas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8335540
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7917b386c6a41644003c6cfda5e479b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697861,
+            "locality_id":1209845441,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1209845441,
+    "wof:lastmodified":1537679063,
+    "wof:name":"Hacienda San Lucas",
+    "wof:parent_id":1108697861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.8243,
+    9.9641,
+    122.8243,
+    9.9641
+],
+  "geometry": {"coordinates":[122.82429999999999,9.9641],"type":"Point"}
+}

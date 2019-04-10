@@ -1,0 +1,71 @@
+{
+  "id": 890430313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46667,16.93333,120.46667,16.93333",
+    "geom:latitude":16.93333,
+    "geom:longitude":120.46667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":35791,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagudin"
+    ],
+    "qs:name":"Tagudin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":483,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684322,
+        "qs:id":86487,
+        "wd:id":"Q12895",
+        "wk:page":"Tagudin"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051847,
+    "wof:geomhash":"e82e16e35c5daf93394b3a05f0a73fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699619,
+            "localadmin_id":890430313,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":890430313,
+    "wof:lastmodified":1527729738,
+    "wof:name":"Tagudin",
+    "wof:parent_id":1108699619,
+    "wof:placetype":"localadmin",
+    "wof:population":35791,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46667,
+    16.93333,
+    120.46667,
+    16.93333
+],
+  "geometry": {"coordinates":[120.46666999999999,16.93333],"type":"Point"}
+}

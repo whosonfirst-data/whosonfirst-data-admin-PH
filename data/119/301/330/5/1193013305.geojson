@@ -1,0 +1,76 @@
+{
+  "id": 1193013305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6298,10.9866,122.6298,10.9866",
+    "geom:latitude":10.9866,
+    "geom:longitude":122.6298,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63037000.0",
+    "gn:asciiname":"Lua Ilya",
+    "gn:country_code":"PH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710416,
+    "gn:latitude":10.9866,
+    "gn:longitude":122.6298,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lua Ilya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lua Ilya"
+    ],
+    "name:und_x_variant":[
+        "Iua Ilaya",
+        "Iwa Ilaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710416
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"88c8b55088284b786f10b614dba11d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698949,
+            "locality_id":1193013305,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1193013305,
+    "wof:lastmodified":1537678112,
+    "wof:name":"Lua Ilya",
+    "wof:parent_id":1108698949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6298,
+    10.9866,
+    122.6298,
+    10.9866
+],
+  "geometry": {"coordinates":[122.6298,10.9866],"type":"Point"}
+}

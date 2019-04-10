@@ -1,0 +1,71 @@
+{
+  "id": 890450639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2641,13.574,123.2641,13.574",
+    "geom:latitude":13.574,
+    "geom:longitude":123.2641,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2236,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "San Agustin"
+    ],
+    "qs:name":"San Agustin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":209,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690508,
+        "gp:id":91421036,
+        "qs:id":86819,
+        "wk:page":"San Agust\u00edn"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052747,
+    "wof:geomhash":"fb31e3bd54ee1ad31f42fa6fe733000c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698889,
+            "locality_id":890450639,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890450639,
+    "wof:lastmodified":1527792965,
+    "wof:name":"San Agustin",
+    "wof:parent_id":1108698889,
+    "wof:placetype":"locality",
+    "wof:population":2236,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2641,
+    13.574,
+    123.2641,
+    13.574
+],
+  "geometry": {"coordinates":[123.2641,13.574],"type":"Point"}
+}

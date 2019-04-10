@@ -1,0 +1,72 @@
+{
+  "id": 1243444321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.9579,10.3624,124.9579,10.3624",
+    "geom:latitude":10.3624,
+    "geom:longitude":124.9579,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86402000.0",
+    "gn:asciiname":"Salog",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690833,
+    "gn:latitude":10.3624,
+    "gn:longitude":124.9579,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108697057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690833
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9b9781769b1fd258293279e4fec96d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697057,
+            "locality_id":1243444321,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1243444321,
+    "wof:lastmodified":1537677558,
+    "wof:name":"Salog",
+    "wof:parent_id":1108697057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.9579,
+    10.3624,
+    124.9579,
+    10.3624
+],
+  "geometry": {"coordinates":[124.9579,10.3624],"type":"Point"}
+}

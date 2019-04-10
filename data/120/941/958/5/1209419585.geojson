@@ -1,0 +1,66 @@
+{
+  "id": 1209419585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0315,14.0991,123.0315,14.0991",
+    "geom:latitude":14.0991,
+    "geom:longitude":123.0315,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51607000.0",
+    "gn:asciiname":"Tomandoc",
+    "gn:country_code":"PH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681551,
+    "gn:latitude":14.0991,
+    "gn:longitude":123.0315,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tomandoc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tomandoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681551
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"13547f61611c64a564b93c48a133486a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209419585
+        }
+    ],
+    "wof:id":1209419585,
+    "wof:lastmodified":1537677294,
+    "wof:name":"Tomandoc",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0315,
+    14.0991,
+    123.0315,
+    14.0991
+],
+  "geometry": {"coordinates":[123.03149999999999,14.0991],"type":"Point"}
+}

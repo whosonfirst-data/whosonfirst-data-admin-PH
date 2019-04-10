@@ -1,0 +1,70 @@
+{
+  "id": 890429741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7393,11.1081,122.7393,11.1081",
+    "geom:latitude":11.1081,
+    "geom:longitude":122.7393,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2104,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Mapili"
+    ],
+    "qs:name":"Mapili",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701257,
+        "qs:id":87287,
+        "wk:page":"Mapili"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051827,
+    "wof:geomhash":"e1c452b07058fb48cd0dee80596f7ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699133,
+            "locality_id":890429741,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890429741,
+    "wof:lastmodified":1527792791,
+    "wof:name":"Mapili",
+    "wof:parent_id":1108699133,
+    "wof:placetype":"locality",
+    "wof:population":2104,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7393,
+    11.1081,
+    122.7393,
+    11.1081
+],
+  "geometry": {"coordinates":[122.7393,11.1081],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343355865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9863,9.9479,123.9863,9.9479",
+    "geom:latitude":9.9479,
+    "geom:longitude":123.9863,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71245000.0",
+    "gn:asciiname":"Macaas",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704467,
+    "gn:latitude":9.9479,
+    "gn:longitude":123.9863,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Macaas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Macaas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704467
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"675ce7a30d84a7609ee03bba502bc7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699777,
+            "locality_id":1343355865,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1343355865,
+    "wof:lastmodified":1537677939,
+    "wof:name":"Macaas",
+    "wof:parent_id":1108699777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9863,
+    9.9479,
+    123.9863,
+    9.9479
+],
+  "geometry": {"coordinates":[123.9863,9.9479],"type":"Point"}
+}

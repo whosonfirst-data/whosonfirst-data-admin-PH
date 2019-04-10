@@ -1,0 +1,74 @@
+{
+  "id": 890415691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6072,10.1165,123.6072,10.1165",
+    "geom:latitude":10.1165,
+    "geom:longitude":123.6072,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":11121,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Guadalupe"
+    ],
+    "name:unk_x_variant":[
+        "Guadelupe"
+    ],
+    "qs:name":"Guadalupe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":339,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712643,
+        "gp:id":1173387,
+        "qs:id":135325,
+        "wk:page":"Guadalupe"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051098,
+    "wof:geomhash":"728c40b63fa5a76ac52b36ca42cd70d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697281,
+            "locality_id":890415691,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890415691,
+    "wof:lastmodified":1527727241,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":1108697281,
+    "wof:placetype":"locality",
+    "wof:population":11121,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6072,
+    10.1165,
+    123.6072,
+    10.1165
+],
+  "geometry": {"coordinates":[123.60720000000001,10.1165],"type":"Point"}
+}

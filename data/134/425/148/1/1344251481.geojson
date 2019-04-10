@@ -1,0 +1,72 @@
+{
+  "id": 1344251481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4175,8.60778,123.4175,8.60778",
+    "geom:latitude":8.60778,
+    "geom:longitude":123.4175,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97201000.0",
+    "gn:asciiname":"Diwa-an",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714572,
+    "gn:latitude":8.60778,
+    "gn:longitude":123.4175,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Diwa-an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Diwa-an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108697447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714572
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5eaaff1e566d13ac1f911d191b7165ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697447,
+            "locality_id":1344251481,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1344251481,
+    "wof:lastmodified":1537678226,
+    "wof:name":"Diwa-an",
+    "wof:parent_id":1108697447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4175,
+    8.60778,
+    123.4175,
+    8.60778
+],
+  "geometry": {"coordinates":[123.4175,8.60778],"type":"Point"}
+}

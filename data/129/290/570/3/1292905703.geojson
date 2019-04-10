@@ -1,0 +1,69 @@
+{
+  "id": 1292905703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.78351,17.50276,121.78351,17.50276",
+    "geom:latitude":17.50276,
+    "geom:longitude":121.78351,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23134000.0",
+    "gn:asciiname":"Marimel",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8516238,
+    "gn:latitude":17.50276,
+    "gn:longitude":121.78351,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Marimel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8516238
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d6f62735617941c70538c6273e062f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699385,
+            "locality_id":1292905703,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1292905703,
+    "wof:lastmodified":1536630012,
+    "wof:name":"Marimel",
+    "wof:parent_id":1108699385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.78351,
+    17.50276,
+    121.78351,
+    17.50276
+],
+  "geometry": {"coordinates":[121.78351000000001,17.50276],"type":"Point"}
+}

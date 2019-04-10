@@ -1,0 +1,70 @@
+{
+  "id": 890422717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2469,9.1672,123.2469,9.1672",
+    "geom:latitude":9.1672,
+    "geom:longitude":123.2469,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4922,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maayong Tubig"
+    ],
+    "name:unk_x_variant":[
+        "Tabig"
+    ],
+    "qs:name":"Maayong Tubig",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704729,
+        "gp:id":1183854,
+        "qs:id":135014
+    },
+    "wof:country":"PH",
+    "wof:created":1469051460,
+    "wof:geomhash":"23d203516fd8474e598c1eebfbee2b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890422717,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890422717,
+    "wof:lastmodified":1505343471,
+    "wof:name":"Maayong Tubig",
+    "wof:parent_id":85675945,
+    "wof:placetype":"locality",
+    "wof:population":4922,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2469,
+    9.1672,
+    123.2469,
+    9.1672
+],
+  "geometry": {"coordinates":[123.2469,9.1672],"type":"Point"}
+}

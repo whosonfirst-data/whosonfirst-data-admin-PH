@@ -1,0 +1,66 @@
+{
+  "id": 1209049039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91452,13.71126,120.91452,13.71126",
+    "geom:latitude":13.71126,
+    "geom:longitude":120.91452,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41016000.0",
+    "gn:asciiname":"Laurel",
+    "gn:country_code":"PH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390577,
+    "gn:latitude":13.71126,
+    "gn:longitude":120.91452,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Laurel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Laurel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390577
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ef30ae284a189de5e93a725b85fab34a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209049039
+        }
+    ],
+    "wof:id":1209049039,
+    "wof:lastmodified":1537678838,
+    "wof:name":"Laurel",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91452,
+    13.71126,
+    120.91452,
+    13.71126
+],
+  "geometry": {"coordinates":[120.91452,13.71126],"type":"Point"}
+}

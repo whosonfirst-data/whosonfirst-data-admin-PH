@@ -1,0 +1,72 @@
+{
+  "id": 1310398595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3059,12.5756,123.3059,12.5756",
+    "geom:latitude":12.5756,
+    "geom:longitude":123.3059,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54101000.0",
+    "gn:asciiname":"Loca",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705853,
+    "gn:latitude":12.5756,
+    "gn:longitude":123.3059,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Loca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Loca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705853
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3867f315767e58c80086797178f32f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696709,
+            "locality_id":1310398595,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1310398595,
+    "wof:lastmodified":1537677982,
+    "wof:name":"Loca",
+    "wof:parent_id":1108696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3059,
+    12.5756,
+    123.3059,
+    12.5756
+],
+  "geometry": {"coordinates":[123.30589999999999,12.5756],"type":"Point"}
+}

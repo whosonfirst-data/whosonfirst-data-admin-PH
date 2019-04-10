@@ -1,0 +1,75 @@
+{
+  "id": 1292916101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.04808,16.85201,122.04808,16.85201",
+    "geom:latitude":16.85201,
+    "geom:longitude":122.04808,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23131000.0",
+    "gn:asciiname":"Macayucayu",
+    "gn:country_code":"PH",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704289,
+    "gn:latitude":16.85201,
+    "gn:longitude":122.04808,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Macayucayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Macayucayu"
+    ],
+    "name:und_x_variant":[
+        "Macayocayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108696989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704289
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dfd3e38752650c99c6b76a84bb8b8dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696989,
+            "locality_id":1292916101,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1292916101,
+    "wof:lastmodified":1537677934,
+    "wof:name":"Macayucayu",
+    "wof:parent_id":1108696989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.04808,
+    16.85201,
+    122.04808,
+    16.85201
+],
+  "geometry": {"coordinates":[122.04808,16.85201],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259591151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.82052,17.20427,121.82052,17.20427",
+    "geom:latitude":17.20427,
+    "geom:longitude":121.82052,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23114000.0",
+    "gn:asciiname":"Santa Isabel Norte",
+    "gn:country_code":"PH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688122,
+    "gn:latitude":17.20427,
+    "gn:longitude":121.82052,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Isabel Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Isabela"
+    ],
+    "name:fil_x_variant":[
+        "Santa Isabel"
+    ],
+    "name:und_x_variant":[
+        "Santa Isabel",
+        "Santa Isabel Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108696595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688122
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"05f63a84f13d35edbbeabd9d51843c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696595,
+            "locality_id":1259591151,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1259591151,
+    "wof:lastmodified":1537677472,
+    "wof:name":"Santa Isabel Norte",
+    "wof:parent_id":1108696595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.82052,
+    17.20427,
+    121.82052,
+    17.20427
+],
+  "geometry": {"coordinates":[121.82052,17.20427],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327229987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5889,12.3489,123.5889,12.3489",
+    "geom:latitude":12.3489,
+    "geom:longitude":123.5889,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54111000.0",
+    "gn:asciiname":"Mabunga",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704488,
+    "gn:latitude":12.3489,
+    "gn:longitude":123.5889,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        890437629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704488
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5d1ffccba6b48d086e5d0eeb0af0e676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890437629,
+            "locality_id":1327229987,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1327229987,
+    "wof:lastmodified":1537677939,
+    "wof:name":"Mabunga",
+    "wof:parent_id":890437629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5889,
+    12.3489,
+    123.5889,
+    12.3489
+],
+  "geometry": {"coordinates":[123.5889,12.3489],"type":"Point"}
+}

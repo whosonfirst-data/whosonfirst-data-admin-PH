@@ -1,0 +1,72 @@
+{
+  "id": 1327445173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70132,15.85681,120.70132,15.85681",
+    "geom:latitude":15.85681,
+    "geom:longitude":120.70132,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15507000.0",
+    "gn:asciiname":"Mabini",
+    "gn:country_code":"PH",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704547,
+    "gn:latitude":15.85681,
+    "gn:longitude":120.70132,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704547
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6aa59e8dc29e4250f3fee511cb15f9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696859,
+            "locality_id":1327445173,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1327445173,
+    "wof:lastmodified":1537677941,
+    "wof:name":"Mabini",
+    "wof:parent_id":1108696859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70132,
+    15.85681,
+    120.70132,
+    15.85681
+],
+  "geometry": {"coordinates":[120.70132,15.85681],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890417987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.48278,7.03889,124.48278,7.03889",
+    "geom:latitude":7.03889,
+    "geom:longitude":124.48278,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3330,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Damatulan"
+    ],
+    "qs:name":"Damatulan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108697459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715890,
+        "gp:id":91796981,
+        "qs:id":277237
+    },
+    "wof:country":"PH",
+    "wof:created":1469051229,
+    "wof:geomhash":"04584537ad77f9833d1a68a8d017e95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697459,
+            "locality_id":890417987,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890417987,
+    "wof:lastmodified":1505343442,
+    "wof:name":"Damatulan",
+    "wof:parent_id":1108697459,
+    "wof:placetype":"locality",
+    "wof:population":3330,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.48278,
+    7.03889,
+    124.48278,
+    7.03889
+],
+  "geometry": {"coordinates":[124.48278000000001,7.03889],"type":"Point"}
+}

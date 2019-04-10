@@ -1,0 +1,84 @@
+{
+  "id": 1125986513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.4693,9.7817,124.4693,9.7817",
+    "geom:latitude":9.7817,
+    "geom:longitude":124.4693,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3342,
+    "gn:population":3342,
+    "iso:country":"PH",
+    "lbl:latitude":9.7817,
+    "lbl:longitude":124.4693,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Catungawan Sur"
+    ],
+    "name:unk_x_variant":[
+        "Katungauan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1717758,
+    "qs_pg:gn_pop":3342,
+    "qs_pg:name":"Catungawan Sur",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277264,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717758,
+        "qs_pg:id":277264
+    },
+    "wof:country":"PH",
+    "wof:created":1497298835,
+    "wof:geomhash":"ba891dbe52a8a429df259e2d5c06a4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697687,
+            "locality_id":1125986513,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1125986513,
+    "wof:lastmodified":1509405098,
+    "wof:name":"Catungawan Sur",
+    "wof:parent_id":1108697687,
+    "wof:placetype":"locality",
+    "wof:population":3342,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.4693,
+    9.7817,
+    124.4693,
+    9.7817
+],
+  "geometry": {"coordinates":[124.4693,9.7817],"type":"Point"}
+}

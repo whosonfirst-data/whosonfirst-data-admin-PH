@@ -1,0 +1,75 @@
+{
+  "id": 1309807031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52667,17.11167,120.52667,17.11167",
+    "geom:latitude":17.11167,
+    "geom:longitude":120.52667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12925000.0",
+    "gn:asciiname":"Dinaraton",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730247,
+    "gn:latitude":17.11167,
+    "gn:longitude":120.52667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dinaraton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arangin-Dinaratan",
+        "Dinaratan",
+        "Dinaraton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730247
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"df351501b86af79d2050d2206d2690fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699087,
+            "locality_id":1309807031,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1309807031,
+    "wof:lastmodified":1537678689,
+    "wof:name":"Dinaraton",
+    "wof:parent_id":1108699087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52667,
+    17.11167,
+    120.52667,
+    17.11167
+],
+  "geometry": {"coordinates":[120.52667,17.11167],"type":"Point"}
+}

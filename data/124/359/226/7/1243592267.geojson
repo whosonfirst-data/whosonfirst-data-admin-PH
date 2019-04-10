@@ -1,0 +1,74 @@
+{
+  "id": 1243592267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92176,14.4534,120.92176,14.4534",
+    "geom:latitude":14.4534,
+    "geom:longitude":120.92176,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42111000.0",
+    "gn:asciiname":"Binakayan",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725171,
+    "gn:latitude":14.4534,
+    "gn:longitude":120.92176,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binakayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binacayan",
+        "Bay Binakayan",
+        "Binakayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725171
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3d07eeb0e83264d91a72fff84e9004a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697911,
+            "locality_id":1243592267,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1243592267,
+    "wof:lastmodified":1537678539,
+    "wof:name":"Binakayan",
+    "wof:parent_id":1108697911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92176,
+    14.4534,
+    120.92176,
+    14.4534
+],
+  "geometry": {"coordinates":[120.92176000000001,14.4534],"type":"Point"}
+}

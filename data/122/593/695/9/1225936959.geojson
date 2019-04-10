@@ -1,0 +1,74 @@
+{
+  "id": 1225936959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.48333,13.75,123.48333,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":123.48333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51717000.0",
+    "gn:asciiname":"Gimagtocon",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712934,
+    "gn:latitude":13.75,
+    "gn:longitude":123.48333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gimagtocon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salag",
+        "Gimagtocon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712934
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"01491c049476f1a500b6fbd70be81441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697977,
+            "locality_id":1225936959,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1225936959,
+    "wof:lastmodified":1537678181,
+    "wof:name":"Gimagtocon",
+    "wof:parent_id":1108697977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.48333,
+    13.75,
+    123.48333,
+    13.75
+],
+  "geometry": {"coordinates":[123.48333,13.75],"type":"Point"}
+}

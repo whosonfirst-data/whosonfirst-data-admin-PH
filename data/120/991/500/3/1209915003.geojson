@@ -1,0 +1,72 @@
+{
+  "id": 1209915003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85,14.96667,120.85,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":120.85,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35402000.0",
+    "gn:asciiname":"Molawen",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699387,
+    "gn:latitude":14.96667,
+    "gn:longitude":120.85,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Molawen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Molawen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699387
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"06253e6f7fde73eca29dd0213edbc39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699315,
+            "locality_id":1209915003,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1209915003,
+    "wof:lastmodified":1537677800,
+    "wof:name":"Molawen",
+    "wof:parent_id":1108699315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85,
+    14.96667,
+    120.85,
+    14.96667
+],
+  "geometry": {"coordinates":[120.84999999999999,14.96667],"type":"Point"}
+}

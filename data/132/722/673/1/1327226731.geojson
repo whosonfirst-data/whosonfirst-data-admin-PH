@@ -1,0 +1,65 @@
+{
+  "id": 1327226731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.61667,12.36667,123.61667,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":123.61667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:asciiname":"Dacu",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716318,
+    "gn:latitude":12.36667,
+    "gn:longitude":123.61667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Dacu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dacu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716318
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0282b8dd0d8c4aac9550e16466837ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327226731,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327226731,
+    "wof:lastmodified":1537678273,
+    "wof:name":"Dacu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.61667,
+    12.36667,
+    123.61667,
+    12.36667
+],
+  "geometry": {"coordinates":[123.61667,12.36667],"type":"Point"}
+}

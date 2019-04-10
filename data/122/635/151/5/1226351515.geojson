@@ -1,0 +1,75 @@
+{
+  "id": 1226351515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42329,16.12308,120.42329,16.12308",
+    "geom:latitude":16.12308,
+    "geom:longitude":120.42329,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15533000.0",
+    "gn:asciiname":"Amansec",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731172,
+    "gn:latitude":16.12308,
+    "gn:longitude":120.42329,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Amansec",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Amansec"
+    ],
+    "name:fil_x_variant":[
+        "Amansic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731172
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"45f6a2b7a7ec7af1070b577bff527325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699141,
+            "locality_id":1226351515,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1226351515,
+    "wof:lastmodified":1537678716,
+    "wof:name":"Amansec",
+    "wof:parent_id":1108699141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42329,
+    16.12308,
+    120.42329,
+    16.12308
+],
+  "geometry": {"coordinates":[120.42328999999999,16.12308],"type":"Point"}
+}

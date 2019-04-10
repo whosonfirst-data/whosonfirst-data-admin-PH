@@ -1,0 +1,75 @@
+{
+  "id": 1242786891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42289,15.99889,120.42289,15.99889",
+    "geom:latitude":15.99889,
+    "geom:longitude":120.42289,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15538000.0",
+    "gn:asciiname":"Ventinilla",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450244,
+    "gn:latitude":15.99889,
+    "gn:longitude":120.42289,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ventinilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ventinella East"
+    ],
+    "name:und_x_variant":[
+        "Ventinilla East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450244
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"04cf9c92bfab069d046e249308f42f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699339,
+            "locality_id":1242786891,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1242786891,
+    "wof:lastmodified":1537678947,
+    "wof:name":"Ventinilla",
+    "wof:parent_id":1108699339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42289,
+    15.99889,
+    120.42289,
+    15.99889
+],
+  "geometry": {"coordinates":[120.42289,15.99889],"type":"Point"}
+}

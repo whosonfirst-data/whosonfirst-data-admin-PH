@@ -1,0 +1,73 @@
+{
+  "id": 1259410737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.32885,11.10147,119.32885,11.10147",
+    "geom:latitude":11.10147,
+    "geom:longitude":119.32885,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175312000.0",
+    "gn:asciiname":"Pangauanen",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696643,
+    "gn:latitude":11.10147,
+    "gn:longitude":119.32885,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pangauanen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagauanen",
+        "Pangauanen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696643
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ef1405592311670c50c7a131d4595ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697563,
+            "locality_id":1259410737,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1259410737,
+    "wof:lastmodified":1537677719,
+    "wof:name":"Pangauanen",
+    "wof:parent_id":1108697563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.32885,
+    11.10147,
+    119.32885,
+    11.10147
+],
+  "geometry": {"coordinates":[119.32885,11.10147],"type":"Point"}
+}

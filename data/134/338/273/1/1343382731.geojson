@@ -1,0 +1,76 @@
+{
+  "id": 1343382731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1291,11.0023,122.1291,11.0023",
+    "geom:latitude":11.0023,
+    "geom:longitude":122.1291,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60618000.0",
+    "gn:asciiname":"Valderrama",
+    "gn:country_code":"PH",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680127,
+    "gn:latitude":11.0023,
+    "gn:longitude":122.1291,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Valderrama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Valderrama"
+    ],
+    "name:und_x_variant":[
+        "Valderama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680127,
+        "wk:page":"Valderrama%2C_Antique"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0caa4ffec13bf00ba139fda09a1057c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699833,
+            "locality_id":1343382731,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1343382731,
+    "wof:lastmodified":1537677252,
+    "wof:name":"Valderrama",
+    "wof:parent_id":1108699833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1291,
+    11.0023,
+    122.1291,
+    11.0023
+],
+  "geometry": {"coordinates":[122.12909999999999,11.0023],"type":"Point"}
+}

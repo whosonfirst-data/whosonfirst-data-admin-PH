@@ -1,0 +1,75 @@
+{
+  "id": 1242672897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.76833,11.32111,124.76833,11.32111",
+    "geom:latitude":11.32111,
+    "geom:longitude":124.76833,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83706000.0",
+    "gn:asciiname":"Tigbao",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682239,
+    "gn:latitude":11.32111,
+    "gn:longitude":124.76833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tigbao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tigban",
+        "Tigbaw",
+        "Tigbao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108696921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682239
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c2ad568197f111fa10725c98b92ec350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696921,
+            "locality_id":1242672897,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1242672897,
+    "wof:lastmodified":1537677313,
+    "wof:name":"Tigbao",
+    "wof:parent_id":1108696921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.76833,
+    11.32111,
+    124.76833,
+    11.32111
+],
+  "geometry": {"coordinates":[124.76833000000001,11.32111],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343531063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1354,17.2926,121.1354,17.2926",
+    "geom:latitude":17.2926,
+    "geom:longitude":121.1354,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143215000.0",
+    "gn:asciiname":"Sumadel",
+    "gn:country_code":"PH",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685353,
+    "gn:latitude":17.2926,
+    "gn:longitude":121.1354,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sumadel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sumadel"
+    ],
+    "name:fil_x_variant":[
+        "Sumadel 1",
+        "Sumadel I"
+    ],
+    "name:und_x_variant":[
+        "Sumadel 1",
+        "Sumadel I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108699733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685353
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f3e1e524b3d21e9fd4e66421e28267d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699733,
+            "locality_id":1343531063,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1343531063,
+    "wof:lastmodified":1537677397,
+    "wof:name":"Sumadel",
+    "wof:parent_id":1108699733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1354,
+    17.2926,
+    121.1354,
+    17.2926
+],
+  "geometry": {"coordinates":[121.1354,17.2926],"type":"Point"}
+}

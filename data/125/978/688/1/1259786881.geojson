@@ -1,0 +1,75 @@
+{
+  "id": 1259786881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.519,17.3859,120.519,17.3859",
+    "geom:latitude":17.3859,
+    "geom:longitude":120.519,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12926000.0",
+    "gn:asciiname":"Baballasioan",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729779,
+    "gn:latitude":17.3859,
+    "gn:longitude":120.519,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baballasioan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Babal-lasiuan"
+    ],
+    "name:fil_x_variant":[
+        "Baballasioan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729779
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a8ca15b6d0a5e323836ba01e47c6068f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699383,
+            "locality_id":1259786881,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1259786881,
+    "wof:lastmodified":1537678676,
+    "wof:name":"Baballasioan",
+    "wof:parent_id":1108699383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.519,
+    17.3859,
+    120.519,
+    17.3859
+],
+  "geometry": {"coordinates":[120.51900000000001,17.3859],"type":"Point"}
+}

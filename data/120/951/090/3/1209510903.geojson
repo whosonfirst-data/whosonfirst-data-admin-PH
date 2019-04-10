@@ -1,0 +1,66 @@
+{
+  "id": 1209510903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1573,8.507,123.1573,8.507",
+    "geom:latitude":8.507,
+    "geom:longitude":123.1573,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97207000.0",
+    "gn:asciiname":"Dipani",
+    "gn:country_code":"PH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759455,
+    "gn:latitude":8.507,
+    "gn:longitude":123.1573,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dipani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dipani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759455
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0579aa07cd0737004f3f72a2aeb61582",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209510903
+        }
+    ],
+    "wof:id":1209510903,
+    "wof:lastmodified":1537678829,
+    "wof:name":"Dipani",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1573,
+    8.507,
+    123.1573,
+    8.507
+],
+  "geometry": {"coordinates":[123.15730000000001,8.507],"type":"Point"}
+}

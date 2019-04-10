@@ -1,0 +1,66 @@
+{
+  "id": 1108697867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000308,
+    "geom:area_square_m":3623326.993716,
+    "geom:bbox":"120.924229903,17.9566186409,120.950123191,17.9745720637",
+    "geom:latitude":17.964595,
+    "geom:longitude":120.935295,
+    "iso:country":"PH",
+    "lbl:latitude":17.965109,
+    "lbl:longitude":120.935049,
+    "meso:admin_1":"ABRA",
+    "meso:admin_1r":"CORDILLERA ADMIN REGION",
+    "meso:diss_me":"KABUGAOABRA",
+    "meso:gadm_admn2":"Tineg",
+    "meso:gadm_hasc_":"PH.AB.TN",
+    "meso:gaul_adm2_":"Kabugao",
+    "meso:mps_x":120.935049,
+    "meso:mps_y":17.965109,
+    "meso:name_local":"Kabugao",
+    "meso:source":"AOTM",
+    "mps:latitude":17.965109,
+    "mps:longitude":120.935049,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PH",
+    "wof:created":1474495981,
+    "wof:geomhash":"e50ed03e114854e3bfecf9f8c3c7563f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697867,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1108697867,
+    "wof:lastmodified":1512516852,
+    "wof:name":"Kabugao",
+    "wof:parent_id":85676039,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92422990268608,
+    17.95661864088683,
+    120.95012319106633,
+    17.97457206373785
+],
+  "geometry": {"coordinates":[[[120.94412286548737,17.96939091437029],[120.95012319106633,17.96250855525895],[120.9468675446643,17.96003907969721],[120.94244439664253,17.95856065801667],[120.94030847145414,17.95807491596564],[120.92497180550424,17.95661864088683],[120.92422990268608,17.963311299476],[120.9251067706857,17.96779821143797],[120.92966253471104,17.97457206373785],[120.94412286548737,17.96939091437029]]],"type":"Polygon"}
+}

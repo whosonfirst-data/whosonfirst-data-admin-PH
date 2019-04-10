@@ -1,0 +1,76 @@
+{
+  "id": 1260194257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40897,15.66894,120.40897,15.66894",
+    "geom:latitude":15.66894,
+    "geom:longitude":120.40897,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36903000.0",
+    "gn:asciiname":"Pao Second",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694853,
+    "gn:latitude":15.66894,
+    "gn:longitude":120.40897,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pao Second",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pao"
+    ],
+    "name:und_x_variant":[
+        "Pao Segundo",
+        "Pao Second"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694853
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"187b853f13932378f5914f22a4a88770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697239,
+            "locality_id":1260194257,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1260194257,
+    "wof:lastmodified":1537677671,
+    "wof:name":"Pao Second",
+    "wof:parent_id":1108697239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40897,
+    15.66894,
+    120.40897,
+    15.66894
+],
+  "geometry": {"coordinates":[120.40897,15.66894],"type":"Point"}
+}

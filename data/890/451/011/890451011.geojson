@@ -1,0 +1,69 @@
+{
+  "id": 890451011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17056,9.18556,126.17056,9.18556",
+    "geom:latitude":9.18556,
+    "geom:longitude":126.17056,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2327,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mambahin"
+    ],
+    "qs:name":"Mabahin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676243,
+        1108697397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702351,
+        "gp:id":28343541,
+        "qs:id":87327
+    },
+    "wof:country":"PH",
+    "wof:created":1469052761,
+    "wof:geomhash":"00c323947d77bbe1a7504515c8f48c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697397,
+            "locality_id":890451011,
+            "region_id":85676243
+        }
+    ],
+    "wof:id":890451011,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Mabahin",
+    "wof:parent_id":1108697397,
+    "wof:placetype":"locality",
+    "wof:population":2327,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17056,
+    9.18556,
+    126.17056,
+    9.18556
+],
+  "geometry": {"coordinates":[126.17055999999999,9.18556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242969377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9507,13.7636,123.9507,13.7636",
+    "geom:latitude":13.7636,
+    "geom:longitude":123.9507,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51711000.0",
+    "gn:asciiname":"Pandanan",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695530,
+    "gn:latitude":13.7636,
+    "gn:longitude":123.9507,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pandanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pandanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695530
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ff46448c45582a9b9745f5cd6034e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697273,
+            "locality_id":1242969377,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1242969377,
+    "wof:lastmodified":1537677688,
+    "wof:name":"Pandanan",
+    "wof:parent_id":1108697273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9507,
+    13.7636,
+    123.9507,
+    13.7636
+],
+  "geometry": {"coordinates":[123.9507,13.7636],"type":"Point"}
+}

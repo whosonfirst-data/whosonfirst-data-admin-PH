@@ -1,0 +1,68 @@
+{
+  "id": 890436271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.88333,7.8,122.88333,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":122.88333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":35588,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Siay"
+    ],
+    "qs:name":"Siay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108697863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686863,
+        "qs:id":86587
+    },
+    "wof:country":"PH",
+    "wof:created":1469052105,
+    "wof:geomhash":"e6afd26d3ab26452907ff2246feea02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697863,
+            "localadmin_id":890436271,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":890436271,
+    "wof:lastmodified":1505343552,
+    "wof:name":"Siay",
+    "wof:parent_id":1108697863,
+    "wof:placetype":"localadmin",
+    "wof:population":35588,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.88333,
+    7.8,
+    122.88333,
+    7.8
+],
+  "geometry": {"coordinates":[122.88333,7.8],"type":"Point"}
+}

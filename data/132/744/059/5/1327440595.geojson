@@ -1,0 +1,72 @@
+{
+  "id": 1327440595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8248,16.1355,119.8248,16.1355",
+    "geom:latitude":16.1355,
+    "geom:longitude":119.8248,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15501000.0",
+    "gn:asciiname":"Santo Rosario",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687563,
+    "gn:latitude":16.1355,
+    "gn:longitude":119.8248,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santo Rosario",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santo Rosario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687563
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cba44c2c6bac615adf789943934a10b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696567,
+            "locality_id":1327440595,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1327440595,
+    "wof:lastmodified":1537677453,
+    "wof:name":"Santo Rosario",
+    "wof:parent_id":1108696567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8248,
+    16.1355,
+    119.8248,
+    16.1355
+],
+  "geometry": {"coordinates":[119.8248,16.1355],"type":"Point"}
+}

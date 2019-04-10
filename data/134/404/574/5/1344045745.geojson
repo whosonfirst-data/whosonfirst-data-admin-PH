@@ -1,0 +1,72 @@
+{
+  "id": 1344045745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.25389,7.89056,125.25389,7.89056",
+    "geom:latitude":7.89056,
+    "geom:longitude":125.25389,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"101318000.0",
+    "gn:asciiname":"Marcote",
+    "gn:country_code":"PH",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958703,
+    "gn:latitude":7.89056,
+    "gn:longitude":125.25389,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Marcote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Marcote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108699841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958703
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1a2aea623f780a509ab7963bb638d925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699841,
+            "locality_id":1344045745,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":1344045745,
+    "wof:lastmodified":1537678790,
+    "wof:name":"Marcote",
+    "wof:parent_id":1108699841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.25388999999998,
+    7.89056,
+    125.25388999999998,
+    7.89056
+],
+  "geometry": {"coordinates":[125.25388999999998,7.89056],"type":"Point"}
+}

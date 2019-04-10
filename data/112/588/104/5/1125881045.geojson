@@ -1,0 +1,81 @@
+{
+  "id": 1125881045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.68111,11.56,122.68111,11.56",
+    "geom:latitude":11.56,
+    "geom:longitude":122.68111,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2311,
+    "gn:population":2311,
+    "iso:country":"PH",
+    "lbl:latitude":11.56,
+    "lbl:longitude":122.68111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Talon"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1683771,
+    "qs_pg:gn_pop":2311,
+    "qs_pg:name":"Talon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":371434,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        890415145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683771,
+        "qs_pg:id":371434
+    },
+    "wof:country":"PH",
+    "wof:created":1497294807,
+    "wof:geomhash":"3cb7f44243c8648a964de87b7d7cbc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415145,
+            "locality_id":1125881045,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1125881045,
+    "wof:lastmodified":1509398142,
+    "wof:name":"Talon",
+    "wof:parent_id":890415145,
+    "wof:placetype":"locality",
+    "wof:population":2311,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.68111,
+    11.56,
+    122.68111,
+    11.56
+],
+  "geometry": {"coordinates":[122.68111,11.56],"type":"Point"}
+}

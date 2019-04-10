@@ -1,0 +1,76 @@
+{
+  "id": 1260073199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3158,13.5831,124.3158,13.5831",
+    "geom:latitude":13.5831,
+    "geom:longitude":124.3158,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"52003000.0",
+    "gn:asciiname":"Bote",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723847,
+    "gn:latitude":13.5831,
+    "gn:longitude":124.3158,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bote"
+    ],
+    "name:und_x_variant":[
+        "Bete",
+        "Bote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108696947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723847
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"62a41d2d70b0db91e5edd511e676fa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696947,
+            "locality_id":1260073199,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":1260073199,
+    "wof:lastmodified":1537678500,
+    "wof:name":"Bote",
+    "wof:parent_id":1108696947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3158,
+    13.5831,
+    124.3158,
+    13.5831
+],
+  "geometry": {"coordinates":[124.3158,13.5831],"type":"Point"}
+}

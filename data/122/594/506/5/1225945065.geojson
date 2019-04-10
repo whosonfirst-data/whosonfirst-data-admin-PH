@@ -1,0 +1,79 @@
+{
+  "id": 1225945065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8845,15.8395,120.8845,15.8395",
+    "geom:latitude":15.8395,
+    "geom:longitude":120.8845,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34916000.0",
+    "gn:asciiname":"Agupalo Oeste",
+    "gn:country_code":"PH",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731826,
+    "gn:latitude":15.8395,
+    "gn:longitude":120.8845,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agupalo Oeste",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Agupalo West"
+    ],
+    "name:fil_x_preferred":[
+        "Agupalo Oeste"
+    ],
+    "name:und_x_variant":[
+        "Agupalo West",
+        "Agupalo Oeste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731826
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"64c0b3e741fb9b618dfc9d15526bf72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698163,
+            "locality_id":1225945065,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1225945065,
+    "wof:lastmodified":1537678735,
+    "wof:name":"Agupalo Oeste",
+    "wof:parent_id":1108698163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8845,
+    15.8395,
+    120.8845,
+    15.8395
+],
+  "geometry": {"coordinates":[120.8845,15.8395],"type":"Point"}
+}

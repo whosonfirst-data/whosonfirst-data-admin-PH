@@ -1,0 +1,72 @@
+{
+  "id": 1276794667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4619,10.63455,123.4619,10.63455",
+    "geom:latitude":10.63455,
+    "geom:longitude":123.4619,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64505000.0",
+    "gn:asciiname":"Binanigan",
+    "gn:country_code":"PH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725088,
+    "gn:latitude":10.63455,
+    "gn:longitude":123.4619,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binanigan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Binanigan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725088
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"00ffb29a90ff2e3a525ce9cf5bd613d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697215,
+            "locality_id":1276794667,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1276794667,
+    "wof:lastmodified":1537678536,
+    "wof:name":"Binanigan",
+    "wof:parent_id":1108697215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4619,
+    10.63455,
+    123.4619,
+    10.63455
+],
+  "geometry": {"coordinates":[123.4619,10.63455],"type":"Point"}
+}

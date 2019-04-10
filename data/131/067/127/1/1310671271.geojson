@@ -1,0 +1,75 @@
+{
+  "id": 1310671271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.71806,7.00667,124.71806,7.00667",
+    "geom:latitude":7.00667,
+    "geom:longitude":124.71806,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"153810000.0",
+    "gn:asciiname":"Panungo",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694892,
+    "gn:latitude":7.00667,
+    "gn:longitude":124.71806,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Panungo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panungo Rancheria",
+        "Panunga",
+        "Panungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108698725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694892
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b7461df493d80312e97677d084917931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698725,
+            "locality_id":1310671271,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":1310671271,
+    "wof:lastmodified":1537677672,
+    "wof:name":"Panungo",
+    "wof:parent_id":1108698725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.71806,
+    7.00667,
+    124.71806,
+    7.00667
+],
+  "geometry": {"coordinates":[124.71805999999999,7.00667],"type":"Point"}
+}

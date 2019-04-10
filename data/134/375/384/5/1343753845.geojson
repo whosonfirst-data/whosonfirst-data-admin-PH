@@ -1,0 +1,75 @@
+{
+  "id": 1343753845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6003,10.9822,122.6003,10.9822",
+    "geom:latitude":10.9822,
+    "geom:longitude":122.6003,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63037000.0",
+    "gn:asciiname":"Palangwa",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696260,
+    "gn:latitude":10.9822,
+    "gn:longitude":122.6003,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palangwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palangwa"
+    ],
+    "name:und_x_variant":[
+        "Palanguia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696260
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1f2f6abb61bf7047ed283ade3afe24b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698949,
+            "locality_id":1343753845,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1343753845,
+    "wof:lastmodified":1537677707,
+    "wof:name":"Palangwa",
+    "wof:parent_id":1108698949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6003,
+    10.9822,
+    122.6003,
+    10.9822
+],
+  "geometry": {"coordinates":[122.6003,10.9822],"type":"Point"}
+}

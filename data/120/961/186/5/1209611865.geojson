@@ -1,0 +1,66 @@
+{
+  "id": 1209611865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.88333,11.25,124.88333,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":124.88333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83702000.0",
+    "gn:asciiname":"Hibucawan",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711794,
+    "gn:latitude":11.25,
+    "gn:longitude":124.88333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hibucawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hibucawan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711794
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f06fff17518640131aaae0881c8bb43a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209611865
+        }
+    ],
+    "wof:id":1209611865,
+    "wof:lastmodified":1537678148,
+    "wof:name":"Hibucawan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.88333,
+    11.25,
+    124.88333,
+    11.25
+],
+  "geometry": {"coordinates":[124.88333,11.25],"type":"Point"}
+}

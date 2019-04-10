@@ -1,0 +1,68 @@
+{
+  "id": 890450675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.73333,13.15,123.73333,13.15",
+    "geom:latitude":13.15,
+    "geom:longitude":123.73333,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6849,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sagpon"
+    ],
+    "qs:name":"Sagpon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691107,
+        "qs:id":86852
+    },
+    "wof:country":"PH",
+    "wof:created":1469052749,
+    "wof:geomhash":"42a6d093509e5cd63e550c2947f1a864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698043,
+            "locality_id":890450675,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":890450675,
+    "wof:lastmodified":1505343635,
+    "wof:name":"Sagpon",
+    "wof:parent_id":1108698043,
+    "wof:placetype":"locality",
+    "wof:population":6849,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.73333,
+    13.15,
+    123.73333,
+    13.15
+],
+  "geometry": {"coordinates":[123.73333,13.15],"type":"Point"}
+}

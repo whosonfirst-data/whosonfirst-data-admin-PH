@@ -1,0 +1,75 @@
+{
+  "id": 1243525691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57306,9.90722,125.57306,9.90722",
+    "geom:latitude":9.90722,
+    "geom:longitude":125.57306,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"166724000.0",
+    "gn:asciiname":"Zaragoza",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679394,
+    "gn:latitude":9.90722,
+    "gn:longitude":125.57306,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Zaragoza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saragossa",
+        "Zaragosa",
+        "Zaragoza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676239,
+        890453965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679394
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f158f696e06455de0bd2fdb111743be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890453965,
+            "locality_id":1243525691,
+            "region_id":85676239
+        }
+    ],
+    "wof:id":1243525691,
+    "wof:lastmodified":1537677231,
+    "wof:name":"Zaragoza",
+    "wof:parent_id":890453965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57306,
+    9.90722,
+    125.57306,
+    9.90722
+],
+  "geometry": {"coordinates":[125.57306,9.90722],"type":"Point"}
+}

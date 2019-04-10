@@ -1,0 +1,78 @@
+{
+  "id": 1226525151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.24794,17.09585,121.24794,17.09585",
+    "geom:latitude":17.09585,
+    "geom:longitude":121.24794,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"144405000.0",
+    "gn:asciiname":"Alanogan",
+    "gn:country_code":"PH",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731294,
+    "gn:latitude":17.09585,
+    "gn:longitude":121.24794,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alanogan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alanogan"
+    ],
+    "name:fil_x_variant":[
+        "Alonogan"
+    ],
+    "name:und_x_variant":[
+        "Alonogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676079,
+        1108698565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731294
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"efa03b3deb5f1bd2632b10054fae2a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698565,
+            "locality_id":1226525151,
+            "region_id":85676079
+        }
+    ],
+    "wof:id":1226525151,
+    "wof:lastmodified":1537678720,
+    "wof:name":"Alanogan",
+    "wof:parent_id":1108698565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.24794,
+    17.09585,
+    121.24794,
+    17.09585
+],
+  "geometry": {"coordinates":[121.24794,17.09585],"type":"Point"}
+}

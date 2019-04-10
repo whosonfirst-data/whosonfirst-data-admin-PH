@@ -1,0 +1,65 @@
+{
+  "id": 1326981233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36667,13.98333,120.36667,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":120.36667,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Billag",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725251,
+    "gn:latitude":13.98333,
+    "gn:longitude":120.36667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Billag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Billag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725251
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cffbf915008e74ec808a9ef230c84367",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326981233,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326981233,
+    "wof:lastmodified":1537678542,
+    "wof:name":"Billag",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36667,
+    13.98333,
+    120.36667,
+    13.98333
+],
+  "geometry": {"coordinates":[120.36667,13.98333],"type":"Point"}
+}

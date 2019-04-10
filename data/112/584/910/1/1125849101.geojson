@@ -1,0 +1,78 @@
+{
+  "id": 1125849101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51667,15.08333,120.51667,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":120.51667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":15066,
+    "gn:population":15066,
+    "iso:country":"PH",
+    "lbl:latitude":15.08333,
+    "lbl:longitude":120.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":1729734,
+    "qs_pg:gn_pop":15066,
+    "qs_pg:name":"Babo-Pangulo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":88480,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729734,
+        "qs_pg:id":88480
+    },
+    "wof:country":"PH",
+    "wof:created":1497293307,
+    "wof:geomhash":"90a0d9fdd09325816a0b33b91f920314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698945,
+            "locality_id":1125849101,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1125849101,
+    "wof:lastmodified":1509395816,
+    "wof:name":"Babo-Pangulo",
+    "wof:parent_id":1108698945,
+    "wof:placetype":"locality",
+    "wof:population":15066,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51667,
+    15.08333,
+    120.51667,
+    15.08333
+],
+  "geometry": {"coordinates":[120.51667,15.08333],"type":"Point"}
+}

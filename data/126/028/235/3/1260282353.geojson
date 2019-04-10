@@ -1,0 +1,72 @@
+{
+  "id": 1260282353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7487,12.5181,123.7487,12.5181",
+    "geom:latitude":12.5181,
+    "geom:longitude":123.7487,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54118000.0",
+    "gn:asciiname":"Daplian",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715530,
+    "gn:latitude":12.5181,
+    "gn:longitude":123.7487,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Daplian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Daplian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715530
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"51e0e8a876b332b36f7783647f316c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699153,
+            "locality_id":1260282353,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1260282353,
+    "wof:lastmodified":1537678249,
+    "wof:name":"Daplian",
+    "wof:parent_id":1108699153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7487,
+    12.5181,
+    123.7487,
+    12.5181
+],
+  "geometry": {"coordinates":[123.7487,12.5181],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 421185989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0102,14.5353,121.0102,14.5353",
+    "geom:latitude":14.5353,
+    "geom:longitude":121.0102,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1702832,
+    "qs:gn_pop":0,
+    "qs:name":"Malicbay",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Calabarzon",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1056383,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199445,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702832,
+        "gp:id":1199445,
+        "qs:id":1056383
+    },
+    "wof:country":"PH",
+    "wof:created":1459009461,
+    "wof:geomhash":"e409f8220c12c8cfb7056a6e4c3f260c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421185989,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":421185989,
+    "wof:lastmodified":1533169689,
+    "wof:name":"Malicbay",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0102,
+    14.5353,
+    121.0102,
+    14.5353
+],
+  "geometry": {"coordinates":[121.0102,14.5353],"type":"Point"}
+}

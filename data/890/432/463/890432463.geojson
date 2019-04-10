@@ -1,0 +1,72 @@
+{
+  "id": 890432463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38118,15.65653,120.38118,15.65653",
+    "geom:latitude":15.65653,
+    "geom:longitude":120.38118,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4150,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bobon"
+    ],
+    "name:unk_x_variant":[
+        "Bobon"
+    ],
+    "qs:name":"Bobon Second",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724519,
+        "gp:id":1184081,
+        "qs:id":135642
+    },
+    "wof:country":"PH",
+    "wof:created":1469051941,
+    "wof:geomhash":"4db8326409a50b6711f81a1c0aa97530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697239,
+            "locality_id":890432463,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":890432463,
+    "wof:lastmodified":1505343529,
+    "wof:name":"Bobon Second",
+    "wof:parent_id":1108697239,
+    "wof:placetype":"locality",
+    "wof:population":4150,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38118,
+    15.65653,
+    120.38118,
+    15.65653
+],
+  "geometry": {"coordinates":[120.38118,15.65653],"type":"Point"}
+}

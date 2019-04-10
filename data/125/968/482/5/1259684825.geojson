@@ -1,0 +1,69 @@
+{
+  "id": 1259684825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95549,15.63562,120.95549,15.63562",
+    "geom:latitude":15.63562,
+    "geom:longitude":120.95549,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34930000.0",
+    "gn:asciiname":"Collado",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8474236,
+    "gn:latitude":15.63562,
+    "gn:longitude":120.95549,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Collado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8474236
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"282e093665110f4d3c2dce32db1d82cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698103,
+            "locality_id":1259684825,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1259684825,
+    "wof:lastmodified":1537062292,
+    "wof:name":"Collado",
+    "wof:parent_id":1108698103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95549,
+    15.63562,
+    120.95549,
+    15.63562
+],
+  "geometry": {"coordinates":[120.95549,15.63562],"type":"Point"}
+}

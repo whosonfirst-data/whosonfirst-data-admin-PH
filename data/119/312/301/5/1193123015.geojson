@@ -1,0 +1,75 @@
+{
+  "id": 1193123015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5644,9.9784,124.5644,9.9784",
+    "geom:latitude":9.9784,
+    "geom:longitude":124.5644,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71246000.0",
+    "gn:asciiname":"Cordray",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716852,
+    "gn:latitude":9.9784,
+    "gn:longitude":124.5644,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cordray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cordray"
+    ],
+    "name:und_x_variant":[
+        "Cadaroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716852
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a21248974c2b4f09244945e42fd06d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699817,
+            "locality_id":1193123015,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1193123015,
+    "wof:lastmodified":1537678288,
+    "wof:name":"Cordray",
+    "wof:parent_id":1108699817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5644,
+    9.9784,
+    124.5644,
+    9.9784
+],
+  "geometry": {"coordinates":[124.56440000000001,9.9784],"type":"Point"}
+}

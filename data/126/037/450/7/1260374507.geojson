@@ -1,0 +1,72 @@
+{
+  "id": 1260374507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2824,7.6567,123.2824,7.6567",
+    "geom:latitude":7.6567,
+    "geom:longitude":123.2824,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97324000.0",
+    "gn:asciiname":"Sagua",
+    "gn:country_code":"PH",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656902,
+    "gn:latitude":7.6567,
+    "gn:longitude":123.2824,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sagua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656902
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"49f218f07930eea1d569014f75b7fd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699275,
+            "locality_id":1260374507,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1260374507,
+    "wof:lastmodified":1537678824,
+    "wof:name":"Sagua",
+    "wof:parent_id":1108699275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2824,
+    7.6567,
+    123.2824,
+    7.6567
+],
+  "geometry": {"coordinates":[123.2824,7.6567],"type":"Point"}
+}

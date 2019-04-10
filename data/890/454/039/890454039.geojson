@@ -1,0 +1,68 @@
+{
+  "id": 890454039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.0525,6.43222,125.0525,6.43222",
+    "geom:latitude":6.43222,
+    "geom:longitude":125.0525,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2266,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lampitak"
+    ],
+    "qs:name":"Lampitak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707724,
+        "qs:id":135109
+    },
+    "wof:country":"PH",
+    "wof:created":1469052883,
+    "wof:geomhash":"b22bb33ecf3d22c5f2316ca766abf400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699657,
+            "locality_id":890454039,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890454039,
+    "wof:lastmodified":1505343654,
+    "wof:name":"Lampitak",
+    "wof:parent_id":1108699657,
+    "wof:placetype":"locality",
+    "wof:population":2266,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.0525,
+    6.43222,
+    125.0525,
+    6.43222
+],
+  "geometry": {"coordinates":[125.05249999999999,6.43222],"type":"Point"}
+}

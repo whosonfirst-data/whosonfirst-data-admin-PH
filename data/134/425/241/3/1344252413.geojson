@@ -1,0 +1,74 @@
+{
+  "id": 1344252413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85722,11.09361,124.85722,11.09361",
+    "geom:latitude":11.09361,
+    "geom:longitude":124.85722,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83717000.0",
+    "gn:asciiname":"Guinlobngan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712337,
+    "gn:latitude":11.09361,
+    "gn:longitude":124.85722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Guinlob\u00f1gan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guinlubngan",
+        "Guinlob\u00f1gan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108697419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712337
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f81c0e5017e6026ff1d7317bf2c25290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697419,
+            "locality_id":1344252413,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1344252413,
+    "wof:lastmodified":1537678163,
+    "wof:name":"Guinlobngan",
+    "wof:parent_id":1108697419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85722,
+    11.09361,
+    124.85722,
+    11.09361
+],
+  "geometry": {"coordinates":[124.85722,11.09361],"type":"Point"}
+}

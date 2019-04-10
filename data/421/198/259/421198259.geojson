@@ -1,0 +1,78 @@
+{
+  "id": 421198259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,7.65,123.95,7.65",
+    "geom:latitude":7.65,
+    "geom:longitude":123.95,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Imelda"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1710950,
+    "qs:gn_pop":5640,
+    "qs:name":"Imelda",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Autonomous Region in Muslim Mindanao",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1116827,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1174721,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710950,
+        "gp:id":1174721,
+        "qs:id":1116827,
+        "wd:id":"Q131838",
+        "wk:page":"Imelda, Zamboanga Sibugay"
+    },
+    "wof:country":"PH",
+    "wof:created":1459009942,
+    "wof:geomhash":"2e291db644cbc73c3e9ec59bd17cd751",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":421198259
+        }
+    ],
+    "wof:id":421198259,
+    "wof:lastmodified":1505340754,
+    "wof:name":"Imelda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":5640,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    7.65,
+    123.95,
+    7.65
+],
+  "geometry": {"coordinates":[123.95,7.65],"type":"Point"}
+}

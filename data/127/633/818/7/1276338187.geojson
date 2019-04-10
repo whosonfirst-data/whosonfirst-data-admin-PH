@@ -1,0 +1,72 @@
+{
+  "id": 1276338187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5,16.66667,120.5,16.66667",
+    "geom:latitude":16.66667,
+    "geom:longitude":120.5,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13315000.0",
+    "gn:asciiname":"Ansacuit",
+    "gn:country_code":"PH",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730551,
+    "gn:latitude":16.66667,
+    "gn:longitude":120.5,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ansacuit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ansacuit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730551
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0303db2857b3f6719e43b85fb53e527c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699169,
+            "locality_id":1276338187,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1276338187,
+    "wof:lastmodified":1537678697,
+    "wof:name":"Ansacuit",
+    "wof:parent_id":1108699169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5,
+    16.66667,
+    120.5,
+    16.66667
+],
+  "geometry": {"coordinates":[120.5,16.66667],"type":"Point"}
+}

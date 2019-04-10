@@ -1,0 +1,72 @@
+{
+  "id": 1226055319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.87387,20.80473,121.87387,20.80473",
+    "geom:latitude":20.80473,
+    "geom:longitude":121.87387,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"08",
+    "gn:admin3_code":"20902000.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"PH",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687879,
+    "gn:latitude":20.80473,
+    "gn:longitude":121.87387,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676043,
+        1108697791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687879
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dccacca54cbbb29460e0df6ed6a4eda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697791,
+            "locality_id":1226055319,
+            "region_id":85676043
+        }
+    ],
+    "wof:id":1226055319,
+    "wof:lastmodified":1537677464,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108697791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.87387,
+    20.80473,
+    121.87387,
+    20.80473
+],
+  "geometry": {"coordinates":[121.87387,20.80473],"type":"Point"}
+}

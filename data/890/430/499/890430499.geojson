@@ -1,0 +1,69 @@
+{
+  "id": 890430499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.64278,6.90083,124.64278,6.90083",
+    "geom:latitude":6.90083,
+    "geom:longitude":124.64278,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2324,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pinadtaban"
+    ],
+    "qs:name":"Panadtaban",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108699563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693721,
+        "gp:id":91796993,
+        "qs:id":134564
+    },
+    "wof:country":"PH",
+    "wof:created":1469051855,
+    "wof:geomhash":"8f24c59da315714977fa0b498db8c4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699563,
+            "locality_id":890430499,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890430499,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Panadtaban",
+    "wof:parent_id":1108699563,
+    "wof:placetype":"locality",
+    "wof:population":2324,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.64278,
+    6.90083,
+    124.64278,
+    6.90083
+],
+  "geometry": {"coordinates":[124.64278,6.90083],"type":"Point"}
+}

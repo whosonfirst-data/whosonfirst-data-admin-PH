@@ -1,0 +1,68 @@
+{
+  "id": 1209608157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.13333,13.55,123.13333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":123.13333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51732000.0",
+    "gn:asciiname":"Grijalvo",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712661,
+    "gn:latitude":13.55,
+    "gn:longitude":123.13333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Grijalvo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grijalbo",
+        "Grijalvo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712661
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7af3bf3defca01dc112eb8102fd6f6a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209608157
+        }
+    ],
+    "wof:id":1209608157,
+    "wof:lastmodified":1537678174,
+    "wof:name":"Grijalvo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.13333,
+    13.55,
+    123.13333,
+    13.55
+],
+  "geometry": {"coordinates":[123.13333,13.55],"type":"Point"}
+}

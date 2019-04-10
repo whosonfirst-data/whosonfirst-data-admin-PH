@@ -1,0 +1,69 @@
+{
+  "id": 1310126047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.96667,10.31667,123.96667,10.31667",
+    "geom:latitude":10.31667,
+    "geom:longitude":123.96667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72226000.0",
+    "gn:asciiname":"Cogon",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717257,
+    "gn:latitude":10.31667,
+    "gn:longitude":123.96667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676291,
+        1108698011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717257
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"39bd7bea7533c6510951dc02f7d23d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698011,
+            "locality_id":1310126047,
+            "region_id":85676291
+        }
+    ],
+    "wof:id":1310126047,
+    "wof:lastmodified":1536966655,
+    "wof:name":"Cogon",
+    "wof:parent_id":1108698011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.96667,
+    10.31667,
+    123.96667,
+    10.31667
+],
+  "geometry": {"coordinates":[123.96666999999999,10.31667],"type":"Point"}
+}

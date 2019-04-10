@@ -1,0 +1,73 @@
+{
+  "id": 890450875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.35639,13.83113,121.35639,13.83113",
+    "geom:latitude":13.83113,
+    "geom:longitude":121.35639,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3404,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palahanan Primero"
+    ],
+    "name:fil_x_variant":[
+        "Palahanan Uno",
+        "Palahanan I"
+    ],
+    "qs:name":"Palahanan Uno",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696354,
+        "gp:id":1182411,
+        "qs:id":87089
+    },
+    "wof:country":"PH",
+    "wof:created":1469052756,
+    "wof:geomhash":"44b9641625adc06f61e49ab1b4ef091b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699223,
+            "locality_id":890450875,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890450875,
+    "wof:lastmodified":1505343636,
+    "wof:name":"Palahanan Uno",
+    "wof:parent_id":1108699223,
+    "wof:placetype":"locality",
+    "wof:population":3404,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.35639,
+    13.83113,
+    121.35639,
+    13.83113
+],
+  "geometry": {"coordinates":[121.35639,13.83113],"type":"Point"}
+}

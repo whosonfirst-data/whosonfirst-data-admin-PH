@@ -1,0 +1,70 @@
+{
+  "id": 890435945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93333,13.9,120.93333,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":120.93333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":50766,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Taal"
+    ],
+    "qs:name":"Taal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685148,
+        "qs:id":1027097,
+        "wk:page":"Taal"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052087,
+    "wof:geomhash":"6fe5dbdcf309666bfb50f9ee8a2206d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699579,
+            "localadmin_id":890435945,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890435945,
+    "wof:lastmodified":1527793053,
+    "wof:name":"Taal",
+    "wof:parent_id":1108699579,
+    "wof:placetype":"localadmin",
+    "wof:population":50766,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93333,
+    13.9,
+    120.93333,
+    13.9
+],
+  "geometry": {"coordinates":[120.93333,13.9],"type":"Point"}
+}

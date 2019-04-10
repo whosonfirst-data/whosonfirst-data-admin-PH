@@ -1,0 +1,79 @@
+{
+  "id": 1310433393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.25423,10.53033,119.25423,10.53033",
+    "geom:latitude":10.53033,
+    "geom:longitude":119.25423,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175319000.0",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"PH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1687474,
+    "gn:latitude":10.53033,
+    "gn:longitude":119.25423,
+    "gn:modification_date":"2018-06-22",
+    "gn:name":"San Vicente",
+    "gn:population":4576,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Vicente"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0648\u06cc\u0633\u0646\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687474,
+        "wk:page":"San_Vicente%2C_Palawan"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8a68bc03ec5c9d7fceb7d5ae41607216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699325,
+            "locality_id":1310433393,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1310433393,
+    "wof:lastmodified":1537677450,
+    "wof:name":"San Vicente",
+    "wof:parent_id":1108699325,
+    "wof:placetype":"locality",
+    "wof:population":4576,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.25423,
+    10.53033,
+    119.25423,
+    10.53033
+],
+  "geometry": {"coordinates":[119.25423000000001,10.53033],"type":"Point"}
+}

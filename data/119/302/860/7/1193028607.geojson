@@ -1,0 +1,69 @@
+{
+  "id": 1193028607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.79213,17.33531,121.79213,17.33531",
+    "geom:latitude":17.33531,
+    "geom:longitude":121.79213,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23137000.0",
+    "gn:asciiname":"Malamag East",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543314,
+    "gn:latitude":17.33531,
+    "gn:longitude":121.79213,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malamag East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543314
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bb8316fd6f4005706aa76f5eb7452a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699807,
+            "locality_id":1193028607,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1193028607,
+    "wof:lastmodified":1536365888,
+    "wof:name":"Malamag East",
+    "wof:parent_id":1108699807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.79213,
+    17.33531,
+    121.79213,
+    17.33531
+],
+  "geometry": {"coordinates":[121.79213,17.33531],"type":"Point"}
+}

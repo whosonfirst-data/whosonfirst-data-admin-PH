@@ -1,0 +1,76 @@
+{
+  "id": 1327030761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2369,15.1831,120.2369,15.1831",
+    "geom:latitude":15.1831,
+    "geom:longitude":120.2369,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37101000.0",
+    "gn:asciiname":"Villar",
+    "gn:country_code":"PH",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679859,
+    "gn:latitude":15.1831,
+    "gn:longitude":120.2369,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Villar"
+    ],
+    "name:und_x_variant":[
+        "Vilar",
+        "Villar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679859
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0f4e379b45f01bef330679aacf45c051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697065,
+            "locality_id":1327030761,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1327030761,
+    "wof:lastmodified":1537677243,
+    "wof:name":"Villar",
+    "wof:parent_id":1108697065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2369,
+    15.1831,
+    120.2369,
+    15.1831
+],
+  "geometry": {"coordinates":[120.23690000000001,15.1831],"type":"Point"}
+}

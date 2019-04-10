@@ -1,0 +1,72 @@
+{
+  "id": 1293280223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.395,5.56667,125.395,5.56667",
+    "geom:latitude":5.56667,
+    "geom:longitude":125.395,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"P3",
+    "gn:admin3_code":"118602000.0",
+    "gn:asciiname":"Malagupos",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958862,
+    "gn:latitude":5.56667,
+    "gn:longitude":125.395,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malagupos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malagupos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1108810255,
+        1108697839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958862
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"abe38cec650ea151526ff0bab25912d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697839,
+            "locality_id":1293280223,
+            "region_id":1108810255
+        }
+    ],
+    "wof:id":1293280223,
+    "wof:lastmodified":1537678791,
+    "wof:name":"Malagupos",
+    "wof:parent_id":1108697839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.395,
+    5.56667,
+    125.395,
+    5.56667
+],
+  "geometry": {"coordinates":[125.395,5.56667],"type":"Point"}
+}

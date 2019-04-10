@@ -1,0 +1,68 @@
+{
+  "id": 890432999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6,11.2,122.6,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":122.6,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":12580,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bingawan"
+    ],
+    "qs:name":"Bingawan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725012,
+        "qs:id":88266
+    },
+    "wof:country":"PH",
+    "wof:created":1469051963,
+    "wof:geomhash":"0518c68ecc81c9a8b363cec70df87be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698827,
+            "localadmin_id":890432999,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890432999,
+    "wof:lastmodified":1505343532,
+    "wof:name":"Bingawan",
+    "wof:parent_id":1108698827,
+    "wof:placetype":"localadmin",
+    "wof:population":12580,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6,
+    11.2,
+    122.6,
+    11.2
+],
+  "geometry": {"coordinates":[122.59999999999999,11.2],"type":"Point"}
+}

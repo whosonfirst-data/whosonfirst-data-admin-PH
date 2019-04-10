@@ -1,0 +1,75 @@
+{
+  "id": 1360193731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46808,17.23914,120.46808,17.23914",
+    "geom:latitude":17.23914,
+    "geom:longitude":120.46808,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12902000.0",
+    "gn:asciiname":"Casilagan Norte",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718139,
+    "gn:latitude":17.23914,
+    "gn:longitude":120.46808,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Casilagan Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Casilagan"
+    ],
+    "name:fil_x_variant":[
+        "Casilagan Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108696873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718139
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9c36d2b058f2fa1e305c874e708aab19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696873,
+            "locality_id":1360193731,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1360193731,
+    "wof:lastmodified":1537678321,
+    "wof:name":"Casilagan Norte",
+    "wof:parent_id":1108696873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46808,
+    17.23914,
+    120.46808,
+    17.23914
+],
+  "geometry": {"coordinates":[120.46808,17.23914],"type":"Point"}
+}

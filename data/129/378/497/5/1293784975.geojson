@@ -1,0 +1,78 @@
+{
+  "id": 1293784975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5786,14.8445,120.5786,14.8445",
+    "geom:latitude":14.8445,
+    "geom:longitude":120.5786,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35408000.0",
+    "gn:asciiname":"Pinanganakan",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693552,
+    "gn:latitude":14.8445,
+    "gn:longitude":120.5786,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pinanganakan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pinanganakan"
+    ],
+    "name:fil_x_variant":[
+        "Pipanganacan"
+    ],
+    "name:und_x_variant":[
+        "Pipanganacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693552
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1fb4697201e220f0c695a050f81a1864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698135,
+            "locality_id":1293784975,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1293784975,
+    "wof:lastmodified":1537677633,
+    "wof:name":"Pinanganakan",
+    "wof:parent_id":1108698135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5786,
+    14.8445,
+    120.5786,
+    14.8445
+],
+  "geometry": {"coordinates":[120.57859999999999,14.8445],"type":"Point"}
+}

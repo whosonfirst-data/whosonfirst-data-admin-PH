@@ -1,0 +1,72 @@
+{
+  "id": 1309715531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8847,16.0585,119.8847,16.0585",
+    "geom:latitude":16.0585,
+    "geom:longitude":119.8847,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15516000.0",
+    "gn:asciiname":"Madure",
+    "gn:country_code":"PH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704109,
+    "gn:latitude":16.0585,
+    "gn:longitude":119.8847,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Madure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Madure"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704109
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"78f3a797969f2d43c075b1ec85987851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697455,
+            "locality_id":1309715531,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1309715531,
+    "wof:lastmodified":1537677929,
+    "wof:name":"Madure",
+    "wof:parent_id":1108697455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8847,
+    16.0585,
+    119.8847,
+    16.0585
+],
+  "geometry": {"coordinates":[119.8847,16.0585],"type":"Point"}
+}

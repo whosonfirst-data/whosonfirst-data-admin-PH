@@ -1,0 +1,72 @@
+{
+  "id": 1310498137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3287,9.8163,124.3287,9.8163",
+    "geom:latitude":9.8163,
+    "geom:longitude":124.3287,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71234000.0",
+    "gn:asciiname":"Aurora",
+    "gn:country_code":"PH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7461277,
+    "gn:latitude":9.8163,
+    "gn:longitude":124.3287,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Aurora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aurora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7461277
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4fa4a516be7faa88d51f2fa86341e269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699483,
+            "locality_id":1310498137,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1310498137,
+    "wof:lastmodified":1537678952,
+    "wof:name":"Aurora",
+    "wof:parent_id":1108699483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3287,
+    9.8163,
+    124.3287,
+    9.8163
+],
+  "geometry": {"coordinates":[124.3287,9.8163],"type":"Point"}
+}

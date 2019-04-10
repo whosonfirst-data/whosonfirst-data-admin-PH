@@ -1,0 +1,72 @@
+{
+  "id": 1193123011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.06667,10.06667,124.06667,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":124.06667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71224000.0",
+    "gn:asciiname":"Ambacan",
+    "gn:country_code":"PH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731151,
+    "gn:latitude":10.06667,
+    "gn:longitude":124.06667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ambacan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ambacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731151
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"72e7cc4421ef2d3f35f491599942a7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697761,
+            "locality_id":1193123011,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1193123011,
+    "wof:lastmodified":1537678716,
+    "wof:name":"Ambacan",
+    "wof:parent_id":1108697761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.06667,
+    10.06667,
+    124.06667,
+    10.06667
+],
+  "geometry": {"coordinates":[124.06667,10.06667],"type":"Point"}
+}

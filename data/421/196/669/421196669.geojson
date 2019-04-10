@@ -1,0 +1,79 @@
+{
+  "id": 421196669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57194,8.77722,125.57194,8.77722",
+    "geom:latitude":8.77722,
+    "geom:longitude":125.57194,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1680687,
+    "qs:gn_pop":8910,
+    "qs:name":"Tungao",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Caraga",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1295003,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199955,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676327,
+        1108697145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680687,
+        "gp:id":1199955,
+        "qs:id":1295003
+    },
+    "wof:country":"PH",
+    "wof:created":1459009889,
+    "wof:geomhash":"4daae2c02f0607c7d5165a2ba60be31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697145,
+            "locality_id":421196669,
+            "region_id":85676327
+        }
+    ],
+    "wof:id":421196669,
+    "wof:lastmodified":1505340748,
+    "wof:name":"Tungao",
+    "wof:parent_id":1108697145,
+    "wof:placetype":"locality",
+    "wof:population":8910,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57194,
+    8.77722,
+    125.57194,
+    8.77722
+],
+  "geometry": {"coordinates":[125.57194,8.77722],"type":"Point"}
+}

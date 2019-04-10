@@ -1,0 +1,72 @@
+{
+  "id": 1259813163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.21667,9.13333,123.21667,9.13333",
+    "geom:latitude":9.13333,
+    "geom:longitude":123.21667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74625000.0",
+    "gn:asciiname":"Magabo",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704090,
+    "gn:latitude":9.13333,
+    "gn:longitude":123.21667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Magabo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Magabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704090
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3f8c8d06230401ed0c90bf93a85b1929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699891,
+            "locality_id":1259813163,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1259813163,
+    "wof:lastmodified":1537677929,
+    "wof:name":"Magabo",
+    "wof:parent_id":1108699891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.21667,
+    9.13333,
+    123.21667,
+    9.13333
+],
+  "geometry": {"coordinates":[123.21666999999999,9.13333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890430477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.85722,12.97417,123.85722,12.97417",
+    "geom:latitude":12.97417,
+    "geom:longitude":123.85722,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3054,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Isidro"
+    ],
+    "qs:name":"San Isidro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1052,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689732,
+        "gp:id":1183640,
+        "qs:id":134343,
+        "wd:id":"Q258396",
+        "wk:page":"San Isidro"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051854,
+    "wof:geomhash":"d16247551b04eccd595e22a7fa862155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697315,
+            "locality_id":890430477,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":890430477,
+    "wof:lastmodified":1527729735,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108697315,
+    "wof:placetype":"locality",
+    "wof:population":3054,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.85722,
+    12.97417,
+    123.85722,
+    12.97417
+],
+  "geometry": {"coordinates":[123.85722,12.97417],"type":"Point"}
+}

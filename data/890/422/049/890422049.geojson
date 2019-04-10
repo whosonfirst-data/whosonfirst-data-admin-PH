@@ -1,0 +1,69 @@
+{
+  "id": 890422049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,12.98889,123.95,12.98889",
+    "geom:latitude":12.98889,
+    "geom:longitude":123.95,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2178,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Basud"
+    ],
+    "qs:name":"Basud",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        890455201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726362,
+        "gp:id":1169038,
+        "qs:id":135756
+    },
+    "wof:country":"PH",
+    "wof:created":1469051425,
+    "wof:geomhash":"253dddc34614d661cea8b80f7bc1295f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890455201,
+            "locality_id":890422049,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":890422049,
+    "wof:lastmodified":1505343467,
+    "wof:name":"Basud",
+    "wof:parent_id":890455201,
+    "wof:placetype":"locality",
+    "wof:population":2178,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    12.98889,
+    123.95,
+    12.98889
+],
+  "geometry": {"coordinates":[123.95,12.98889],"type":"Point"}
+}

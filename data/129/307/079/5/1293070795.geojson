@@ -1,0 +1,72 @@
+{
+  "id": 1293070795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8664,17.1125,120.8664,17.1125",
+    "geom:latitude":17.1125,
+    "geom:longitude":120.8664,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"144403000.0",
+    "gn:asciiname":"Gueday",
+    "gn:country_code":"PH",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634340,
+    "gn:latitude":17.1125,
+    "gn:longitude":120.8664,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gueday",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gueday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676079,
+        1108696991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634340
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"545b79c11db8fb50cf3345945d566511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696991,
+            "locality_id":1293070795,
+            "region_id":85676079
+        }
+    ],
+    "wof:id":1293070795,
+    "wof:lastmodified":1537679031,
+    "wof:name":"Gueday",
+    "wof:parent_id":1108696991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8664,
+    17.1125,
+    120.8664,
+    17.1125
+],
+  "geometry": {"coordinates":[120.8664,17.1125],"type":"Point"}
+}

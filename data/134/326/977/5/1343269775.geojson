@@ -1,0 +1,78 @@
+{
+  "id": 1343269775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.79568,17.43824,121.79568,17.43824",
+    "geom:latitude":17.43824,
+    "geom:longitude":121.79568,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23133000.0",
+    "gn:asciiname":"Bungad",
+    "gn:country_code":"PH",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722673,
+    "gn:latitude":17.43824,
+    "gn:longitude":121.79568,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bungad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bungad"
+    ],
+    "name:fil_x_variant":[
+        "Bungao"
+    ],
+    "name:und_x_variant":[
+        "Bungao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722673
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"24daf3d6ee907edfe6f00a0408b230ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697151,
+            "locality_id":1343269775,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1343269775,
+    "wof:lastmodified":1537678464,
+    "wof:name":"Bungad",
+    "wof:parent_id":1108697151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.79568,
+    17.43824,
+    121.79568,
+    17.43824
+],
+  "geometry": {"coordinates":[121.79568,17.43824],"type":"Point"}
+}

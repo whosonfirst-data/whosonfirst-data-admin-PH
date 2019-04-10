@@ -1,0 +1,66 @@
+{
+  "id": 1209393287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.98833,8.38444,124.98833,8.38444",
+    "geom:latitude":8.38444,
+    "geom:longitude":124.98833,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"101305000.0",
+    "gn:asciiname":"Gata",
+    "gn:country_code":"PH",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713141,
+    "gn:latitude":8.38444,
+    "gn:longitude":124.98833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713141
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d73b907bb9bd195397d52651bc14d41b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209393287
+        }
+    ],
+    "wof:id":1209393287,
+    "wof:lastmodified":1537678188,
+    "wof:name":"Gata",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.98833,
+    8.38444,
+    124.98833,
+    8.38444
+],
+  "geometry": {"coordinates":[124.98833,8.38444],"type":"Point"}
+}

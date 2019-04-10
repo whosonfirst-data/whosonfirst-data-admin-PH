@@ -1,0 +1,79 @@
+{
+  "id": 1293293555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00967,15.34543,121.00967,15.34543",
+    "geom:latitude":15.34543,
+    "geom:longitude":121.00967,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34921000.0",
+    "gn:asciiname":"San Josef",
+    "gn:country_code":"PH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689391,
+    "gn:latitude":15.34543,
+    "gn:longitude":121.00967,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Josef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Josef"
+    ],
+    "name:fil_x_variant":[
+        "San Jose"
+    ],
+    "name:und_x_variant":[
+        "San Jose",
+        "San Josef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689391
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6606e68fa511536e15465bdce465a680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698853,
+            "locality_id":1293293555,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1293293555,
+    "wof:lastmodified":1537677514,
+    "wof:name":"San Josef",
+    "wof:parent_id":1108698853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00967,
+    15.34543,
+    121.00967,
+    15.34543
+],
+  "geometry": {"coordinates":[121.00967,15.34543],"type":"Point"}
+}

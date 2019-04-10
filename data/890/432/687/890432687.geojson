@@ -1,0 +1,68 @@
+{
+  "id": 890432687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.0211,8.03877,126.0211,8.03877",
+    "geom:latitude":8.03877,
+    "geom:longitude":126.0211,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":24288,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Josefa"
+    ],
+    "qs:name":"Santa Josefa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676217,
+        1108699369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688120,
+        "qs:id":86659
+    },
+    "wof:country":"PH",
+    "wof:created":1469051950,
+    "wof:geomhash":"c2f42c56202a514e56c11b20a14fa94f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699369,
+            "localadmin_id":890432687,
+            "region_id":85676217
+        }
+    ],
+    "wof:id":890432687,
+    "wof:lastmodified":1505343531,
+    "wof:name":"Santa Josefa",
+    "wof:parent_id":1108699369,
+    "wof:placetype":"localadmin",
+    "wof:population":24288,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.0211,
+    8.03877,
+    126.0211,
+    8.03877
+],
+  "geometry": {"coordinates":[126.0211,8.03877],"type":"Point"}
+}

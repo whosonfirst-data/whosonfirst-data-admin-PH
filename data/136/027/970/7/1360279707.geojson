@@ -1,0 +1,72 @@
+{
+  "id": 1360279707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.944,9.8244,123.944,9.8244",
+    "geom:latitude":9.8244,
+    "geom:longitude":123.944,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71237000.0",
+    "gn:asciiname":"Angilan",
+    "gn:country_code":"PH",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730727,
+    "gn:latitude":9.8244,
+    "gn:longitude":123.944,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Angilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Angilan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730727
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1b49cd9532349c00a3736e97c0f57b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699181,
+            "locality_id":1360279707,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1360279707,
+    "wof:lastmodified":1537678703,
+    "wof:name":"Angilan",
+    "wof:parent_id":1108699181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.944,
+    9.8244,
+    123.944,
+    9.8244
+],
+  "geometry": {"coordinates":[123.944,9.8244],"type":"Point"}
+}

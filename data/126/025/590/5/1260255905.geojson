@@ -1,0 +1,75 @@
+{
+  "id": 1260255905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.8851,6.5222,121.8851,6.5222",
+    "geom:latitude":6.5222,
+    "geom:longitude":121.8851,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"150704000.0",
+    "gn:asciiname":"Tabalungan",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684793,
+    "gn:latitude":6.5222,
+    "gn:longitude":121.8851,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tabalungan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tabalungan"
+    ],
+    "name:und_x_variant":[
+        "Tabulungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675955,
+        1108698325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684793
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3d3d0f3ffdbe4ae8b93681a7c4a41ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698325,
+            "locality_id":1260255905,
+            "region_id":85675955
+        }
+    ],
+    "wof:id":1260255905,
+    "wof:lastmodified":1537677381,
+    "wof:name":"Tabalungan",
+    "wof:parent_id":1108698325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.8851,
+    6.5222,
+    121.8851,
+    6.5222
+],
+  "geometry": {"coordinates":[121.88509999999999,6.5222],"type":"Point"}
+}

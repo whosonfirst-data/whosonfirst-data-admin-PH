@@ -1,0 +1,72 @@
+{
+  "id": 1293785305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.25,15.56667,121.25,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":121.25,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34913000.0",
+    "gn:asciiname":"Pinto",
+    "gn:country_code":"PH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693416,
+    "gn:latitude":15.56667,
+    "gn:longitude":121.25,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pinto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pinto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693416
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dd746971edb4b347332b2906434caca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697597,
+            "locality_id":1293785305,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1293785305,
+    "wof:lastmodified":1537677627,
+    "wof:name":"Pinto",
+    "wof:parent_id":1108697597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.25,
+    15.56667,
+    121.25,
+    15.56667
+],
+  "geometry": {"coordinates":[121.25,15.56667],"type":"Point"}
+}

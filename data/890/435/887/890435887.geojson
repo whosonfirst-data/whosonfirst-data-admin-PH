@@ -1,0 +1,71 @@
+{
+  "id": 890435887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38899,15.88295,120.38899,15.88295",
+    "geom:latitude":15.88295,
+    "geom:longitude":120.38899,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5414,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dompay"
+    ],
+    "name:unk_x_variant":[
+        "Dompay"
+    ],
+    "qs:name":"Dumpay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714106,
+        "qs:id":277203
+    },
+    "wof:country":"PH",
+    "wof:created":1469052085,
+    "wof:geomhash":"2a3aff66fd767f8a7c64cf8c1f6f0c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696929,
+            "locality_id":890435887,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890435887,
+    "wof:lastmodified":1505343550,
+    "wof:name":"Dumpay",
+    "wof:parent_id":1108696929,
+    "wof:placetype":"locality",
+    "wof:population":5414,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38899,
+    15.88295,
+    120.38899,
+    15.88295
+],
+  "geometry": {"coordinates":[120.38899000000001,15.88295],"type":"Point"}
+}

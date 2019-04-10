@@ -1,0 +1,77 @@
+{
+  "id": 1209902349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57722,9.46694,125.57722,9.46694",
+    "geom:latitude":9.46694,
+    "geom:longitude":125.57722,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"166701000.0",
+    "gn:asciiname":"Alegria",
+    "gn:country_code":"PH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1731572,
+    "gn:latitude":9.46694,
+    "gn:longitude":125.57722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alegria",
+    "gn:population":5891,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Algeria",
+        "Alegria"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676213,
+        1108697933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731572,
+        "wk:page":"Alegria%2C_Surigao_del_Norte"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"169bf8a24a799ca9916e73aeaacba66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697933,
+            "locality_id":1209902349,
+            "region_id":85676213
+        }
+    ],
+    "wof:id":1209902349,
+    "wof:lastmodified":1537678728,
+    "wof:name":"Alegria",
+    "wof:parent_id":1108697933,
+    "wof:placetype":"locality",
+    "wof:population":5891,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57722,
+    9.46694,
+    125.57722,
+    9.46694
+],
+  "geometry": {"coordinates":[125.57722,9.46694],"type":"Point"}
+}

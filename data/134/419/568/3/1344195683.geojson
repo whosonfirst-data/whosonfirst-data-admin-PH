@@ -1,0 +1,74 @@
+{
+  "id": 1344195683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92941,14.37627,120.92941,14.37627",
+    "geom:latitude":14.37627,
+    "geom:longitude":120.92941,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42109000.0",
+    "gn:asciiname":"Malagasang Segundo",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703260,
+    "gn:latitude":14.37627,
+    "gn:longitude":120.92941,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malagasang Segundo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malagasang Second",
+        "Malagasang Segundo",
+        "Malagasang II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703260
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"09760c90e9dc02a1aa8a8dd25bb36cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697759,
+            "locality_id":1344195683,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1344195683,
+    "wof:lastmodified":1537677906,
+    "wof:name":"Malagasang Segundo",
+    "wof:parent_id":1108697759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92941,
+    14.37627,
+    120.92941,
+    14.37627
+],
+  "geometry": {"coordinates":[120.92941,14.37627],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890443265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0,14.55,121.0,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":121.0,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":403064,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Lungs\u00f3d ng Pasay"
+    ],
+    "name:unk_x_variant":[
+        "Rizal City"
+    ],
+    "qs:name":"Pasay City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694608,
+        "qs:id":1027127
+    },
+    "wof:country":"PH",
+    "wof:created":1469052417,
+    "wof:geomhash":"7caf8542ef41349e455e807e2a98f1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890443265,
+            "region_id":85676415
+        }
+    ],
+    "wof:id":890443265,
+    "wof:lastmodified":1505343592,
+    "wof:name":"Pasay City",
+    "wof:parent_id":85676415,
+    "wof:placetype":"county",
+    "wof:population":403064,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0,
+    14.55,
+    121.0,
+    14.55
+],
+  "geometry": {"coordinates":[121.0,14.55],"type":"Point"}
+}

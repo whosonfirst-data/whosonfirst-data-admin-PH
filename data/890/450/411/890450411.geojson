@@ -1,0 +1,68 @@
+{
+  "id": 890450411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.03333,16.08333,120.03333,16.08333",
+    "geom:latitude":16.08333,
+    "geom:longitude":120.03333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":27946,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sual"
+    ],
+    "qs:name":"Sual",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685635,
+        "qs:id":86540
+    },
+    "wof:country":"PH",
+    "wof:created":1469052737,
+    "wof:geomhash":"673b169dcc1522e6df164a865f13c6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699543,
+            "localadmin_id":890450411,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890450411,
+    "wof:lastmodified":1505343634,
+    "wof:name":"Sual",
+    "wof:parent_id":1108699543,
+    "wof:placetype":"localadmin",
+    "wof:population":27946,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.03333,
+    16.08333,
+    120.03333,
+    16.08333
+],
+  "geometry": {"coordinates":[120.03333000000001,16.08333],"type":"Point"}
+}

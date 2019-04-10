@@ -1,0 +1,72 @@
+{
+  "id": 890450369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.3399,8.67532,117.3399,8.67532",
+    "geom:latitude":8.67532,
+    "geom:longitude":117.3399,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2501,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tagbita"
+    ],
+    "name:unk_x_variant":[
+        "Taburi"
+    ],
+    "qs:name":"Tagbita",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684759,
+        "gp:id":1177808,
+        "qs:id":86503
+    },
+    "wof:country":"PH",
+    "wof:created":1469052736,
+    "wof:geomhash":"85b48556ed053c3b8b1a7aaaf4423136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699025,
+            "locality_id":890450369,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":890450369,
+    "wof:lastmodified":1505343634,
+    "wof:name":"Tagbita",
+    "wof:parent_id":1108699025,
+    "wof:placetype":"locality",
+    "wof:population":2501,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.3399,
+    8.67532,
+    117.3399,
+    8.67532
+],
+  "geometry": {"coordinates":[117.3399,8.67532],"type":"Point"}
+}

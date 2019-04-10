@@ -1,0 +1,76 @@
+{
+  "id": 1310498135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1175,9.5983,124.1175,9.5983",
+    "geom:latitude":9.5983,
+    "geom:longitude":124.1175,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71227000.0",
+    "gn:asciiname":"Malinao East",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702741,
+    "gn:latitude":9.5983,
+    "gn:longitude":124.1175,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malinao East",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malinao East"
+    ],
+    "name:und_x_variant":[
+        "Malinao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702741
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"02ed133d0537de00df2d1c9425b2f465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698085,
+            "locality_id":1310498135,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1310498135,
+    "wof:lastmodified":1537677892,
+    "wof:name":"Malinao East",
+    "wof:parent_id":1108698085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1175,
+    9.5983,
+    124.1175,
+    9.5983
+],
+  "geometry": {"coordinates":[124.11750000000001,9.5983],"type":"Point"}
+}

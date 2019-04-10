@@ -1,0 +1,66 @@
+{
+  "id": 1209200375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,9.73333,123.95,9.73333",
+    "geom:latitude":9.73333,
+    "geom:longitude":123.95,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71206000.0",
+    "gn:asciiname":"Candasig",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719289,
+    "gn:latitude":9.73333,
+    "gn:longitude":123.95,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Candasig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Candasig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719289
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"828ca25a8bb2220743bdb1216a8ed673",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209200375
+        }
+    ],
+    "wof:id":1209200375,
+    "wof:lastmodified":1537678359,
+    "wof:name":"Candasig",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    9.73333,
+    123.95,
+    9.73333
+],
+  "geometry": {"coordinates":[123.95,9.73333],"type":"Point"}
+}

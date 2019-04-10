@@ -1,0 +1,72 @@
+{
+  "id": 890421981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3122,5.9684,121.3122,5.9684",
+    "geom:latitude":5.9684,
+    "geom:longitude":121.3122,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":9558,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lu-uk"
+    ],
+    "name:unk_x_variant":[
+        "Camp Andres"
+    ],
+    "qs:name":"Lu-uk",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704881,
+        "gp:id":1175915,
+        "qs:id":135025
+    },
+    "wof:country":"PH",
+    "wof:created":1469051422,
+    "wof:geomhash":"500a1e9b2f35facbc9085be600b1d87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698173,
+            "locality_id":890421981,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890421981,
+    "wof:lastmodified":1505343467,
+    "wof:name":"Lu-uk",
+    "wof:parent_id":1108698173,
+    "wof:placetype":"locality",
+    "wof:population":9558,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3122,
+    5.9684,
+    121.3122,
+    5.9684
+],
+  "geometry": {"coordinates":[121.3122,5.9684],"type":"Point"}
+}

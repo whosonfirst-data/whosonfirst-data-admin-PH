@@ -1,0 +1,72 @@
+{
+  "id": 1242782467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.51667,13.1,123.51667,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":123.51667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50504000.0",
+    "gn:asciiname":"Pood",
+    "gn:country_code":"PH",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692954,
+    "gn:latitude":13.1,
+    "gn:longitude":123.51667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pood",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pood"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108697689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692954
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c7ba72f54fc2592c0a149d34b58268db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697689,
+            "locality_id":1242782467,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1242782467,
+    "wof:lastmodified":1537677614,
+    "wof:name":"Pood",
+    "wof:parent_id":1108697689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.51667,
+    13.1,
+    123.51667,
+    13.1
+],
+  "geometry": {"coordinates":[123.51667,13.1],"type":"Point"}
+}

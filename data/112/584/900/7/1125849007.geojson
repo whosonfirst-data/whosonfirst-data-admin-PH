@@ -1,0 +1,81 @@
+{
+  "id": 1125849007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.03194,13.01917,124.03194,13.01917",
+    "geom:latitude":13.01917,
+    "geom:longitude":124.03194,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":8588,
+    "gn:population":8588,
+    "iso:country":"PH",
+    "lbl:latitude":13.01917,
+    "lbl:longitude":124.03194,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Balete"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1728248,
+    "qs_pg:gn_pop":8588,
+    "qs_pg:name":"Balete",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":88413,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108696757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728248,
+        "qs_pg:id":88413
+    },
+    "wof:country":"PH",
+    "wof:created":1497293303,
+    "wof:geomhash":"b47c43fb0c49c92ff8ee65a0ded19264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696757,
+            "locality_id":1125849007,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1125849007,
+    "wof:lastmodified":1509395811,
+    "wof:name":"Balete",
+    "wof:parent_id":1108696757,
+    "wof:placetype":"locality",
+    "wof:population":8588,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.03194,
+    13.01917,
+    124.03194,
+    13.01917
+],
+  "geometry": {"coordinates":[124.03194000000001,13.01917],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293520205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1116,10.7398,123.1116,10.7398",
+    "geom:latitude":10.7398,
+    "geom:longitude":123.1116,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64526000.0",
+    "gn:asciiname":"Quinilata",
+    "gn:country_code":"PH",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692036,
+    "gn:latitude":10.7398,
+    "gn:longitude":123.1116,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Quinilata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Quinilata"
+    ],
+    "name:fil_x_variant":[
+        "Quinilatan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692036
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a68ed6bb0b65eff7073178044633a2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699495,
+            "locality_id":1293520205,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1293520205,
+    "wof:lastmodified":1537677589,
+    "wof:name":"Quinilata",
+    "wof:parent_id":1108699495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1116,
+    10.7398,
+    123.1116,
+    10.7398
+],
+  "geometry": {"coordinates":[123.1116,10.7398],"type":"Point"}
+}

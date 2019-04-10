@@ -1,0 +1,72 @@
+{
+  "id": 890451437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.1623,9.34247,118.1623,9.34247",
+    "geom:latitude":9.34247,
+    "geom:longitude":118.1623,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3586,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aramawayan"
+    ],
+    "name:unk_x_variant":[
+        "Aramaywan"
+    ],
+    "qs:name":"Aramawayan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108698991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730258,
+        "gp:id":1199251,
+        "qs:id":88506
+    },
+    "wof:country":"PH",
+    "wof:created":1469052779,
+    "wof:geomhash":"e5d76030e190ea8802a6c29b7d36bacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698991,
+            "locality_id":890451437,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":890451437,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Aramawayan",
+    "wof:parent_id":1108698991,
+    "wof:placetype":"locality",
+    "wof:population":3586,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.1623,
+    9.34247,
+    118.1623,
+    9.34247
+],
+  "geometry": {"coordinates":[118.1623,9.34247],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209986923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.37139,5.98278,121.37139,5.98278",
+    "geom:latitude":5.98278,
+    "geom:longitude":121.37139,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156619000.0",
+    "gn:asciiname":"Patotol",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694337,
+    "gn:latitude":5.98278,
+    "gn:longitude":121.37139,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Patotol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Patutol",
+        "Patotoi",
+        "Patotol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694337
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f593798632f33c8d343a8e303a821e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698173,
+            "locality_id":1209986923,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1209986923,
+    "wof:lastmodified":1537677655,
+    "wof:name":"Patotol",
+    "wof:parent_id":1108698173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.37139,
+    5.98278,
+    121.37139,
+    5.98278
+],
+  "geometry": {"coordinates":[121.37139000000001,5.98278],"type":"Point"}
+}

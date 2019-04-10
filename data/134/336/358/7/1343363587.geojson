@@ -1,0 +1,75 @@
+{
+  "id": 1343363587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.31751,12.22305,123.31751,12.22305",
+    "geom:latitude":12.22305,
+    "geom:longitude":123.31751,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54110000.0",
+    "gn:asciiname":"Alas",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731647,
+    "gn:latitude":12.22305,
+    "gn:longitude":123.31751,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alas"
+    ],
+    "name:und_x_variant":[
+        "Alasas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731647
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fe2f931b76918e59d5dc55d896a8515a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698347,
+            "locality_id":1343363587,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1343363587,
+    "wof:lastmodified":1537678730,
+    "wof:name":"Alas",
+    "wof:parent_id":1108698347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.31751,
+    12.22305,
+    123.31751,
+    12.22305
+],
+  "geometry": {"coordinates":[123.31751,12.22305],"type":"Point"}
+}

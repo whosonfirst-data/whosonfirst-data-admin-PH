@@ -1,0 +1,76 @@
+{
+  "id": 1293488823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3844,14.6161,120.3844,14.6161",
+    "geom:latitude":14.6161,
+    "geom:longitude":120.3844,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"07",
+    "gn:admin3_code":"30802000.0",
+    "gn:asciiname":"Kabayo",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709927,
+    "gn:latitude":14.6161,
+    "gn:longitude":120.3844,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kabayo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kabayo"
+    ],
+    "name:und_x_variant":[
+        "Cabayo",
+        "Kabayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676093,
+        1108696777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709927
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ad99142c64a7de9887154ff92d8bdfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696777,
+            "locality_id":1293488823,
+            "region_id":85676093
+        }
+    ],
+    "wof:id":1293488823,
+    "wof:lastmodified":1537678099,
+    "wof:name":"Kabayo",
+    "wof:parent_id":1108696777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3844,
+    14.6161,
+    120.3844,
+    14.6161
+],
+  "geometry": {"coordinates":[120.3844,14.6161],"type":"Point"}
+}

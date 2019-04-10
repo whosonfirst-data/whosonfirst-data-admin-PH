@@ -1,0 +1,77 @@
+{
+  "id": 1226528095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9869,9.6366,123.9869,9.6366",
+    "geom:latitude":9.6366,
+    "geom:longitude":123.9869,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71228000.0",
+    "gn:asciiname":"Tangkasan Norte",
+    "gn:country_code":"PH",
+    "gn:dem":101,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683164,
+    "gn:latitude":9.6366,
+    "gn:longitude":123.9869,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tangkasan Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tangkasan Norte"
+    ],
+    "name:und_x_variant":[
+        "Tangcasan",
+        "Tangkasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108696601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683164
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a238eab777edb64ce558942dc074bb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696601,
+            "locality_id":1226528095,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1226528095,
+    "wof:lastmodified":1537677335,
+    "wof:name":"Tangkasan Norte",
+    "wof:parent_id":1108696601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9869,
+    9.6366,
+    123.9869,
+    9.6366
+],
+  "geometry": {"coordinates":[123.98690000000001,9.6366],"type":"Point"}
+}

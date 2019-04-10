@@ -1,0 +1,68 @@
+{
+  "id": 890416171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.84303,9.59382,123.84303,9.59382",
+    "geom:latitude":9.59382,
+    "geom:longitude":123.84303,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2907,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Biking"
+    ],
+    "qs:name":"Biking",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725319,
+        "qs:id":135703
+    },
+    "wof:country":"PH",
+    "wof:created":1469051122,
+    "wof:geomhash":"3a00ecbe1980d9b57cffdeeb33bb60a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697465,
+            "locality_id":890416171,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890416171,
+    "wof:lastmodified":1505343430,
+    "wof:name":"Biking",
+    "wof:parent_id":1108697465,
+    "wof:placetype":"locality",
+    "wof:population":2907,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.84303,
+    9.59382,
+    123.84303,
+    9.59382
+],
+  "geometry": {"coordinates":[123.84303,9.59382],"type":"Point"}
+}

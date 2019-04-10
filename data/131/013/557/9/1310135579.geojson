@@ -1,0 +1,75 @@
+{
+  "id": 1310135579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1753,9.9864,123.1753,9.9864",
+    "geom:latitude":9.9864,
+    "geom:longitude":123.1753,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74612000.0",
+    "gn:asciiname":"Sampiniton",
+    "gn:country_code":"PH",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690559,
+    "gn:latitude":9.9864,
+    "gn:longitude":123.1753,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sampiniton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sampiniton"
+    ],
+    "name:und_x_variant":[
+        "Sampeniton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108697825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690559
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"83257e94a890a5c6c809e124a7a52323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697825,
+            "locality_id":1310135579,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1310135579,
+    "wof:lastmodified":1537677551,
+    "wof:name":"Sampiniton",
+    "wof:parent_id":1108697825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1753,
+    9.9864,
+    123.1753,
+    9.9864
+],
+  "geometry": {"coordinates":[123.17529999999999,9.9864],"type":"Point"}
+}

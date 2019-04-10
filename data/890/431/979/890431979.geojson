@@ -1,0 +1,67 @@
+{
+  "id": 890431979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3112,8.88782,126.3112,8.88782",
+    "geom:latitude":8.88782,
+    "geom:longitude":126.3112,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5099,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Arrasasan"
+    ],
+    "qs:name":"Aras-asan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730232,
+        "gp:id":91425399,
+        "qs:id":277426
+    },
+    "wof:country":"PH",
+    "wof:created":1469051923,
+    "wof:geomhash":"ccbd50513d8b702ee67207b96db5a5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890431979,
+            "region_id":85676243
+        }
+    ],
+    "wof:id":890431979,
+    "wof:lastmodified":1505343527,
+    "wof:name":"Aras-asan",
+    "wof:parent_id":85676243,
+    "wof:placetype":"locality",
+    "wof:population":5099,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3112,
+    8.88782,
+    126.3112,
+    8.88782
+],
+  "geometry": {"coordinates":[126.3112,8.88782],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360189187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.28917,13.66333,123.28917,13.66333",
+    "geom:latitude":13.66333,
+    "geom:longitude":123.28917,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51724000.0",
+    "gn:asciiname":"Carolinas",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718291,
+    "gn:latitude":13.66333,
+    "gn:longitude":123.28917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Carolinas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carolina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676345,
+        1108698535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718291
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"534cbdf9f2dc75f1f86b58e64497688e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698535,
+            "locality_id":1360189187,
+            "region_id":85676345
+        }
+    ],
+    "wof:id":1360189187,
+    "wof:lastmodified":1537678326,
+    "wof:name":"Carolinas",
+    "wof:parent_id":1108698535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.28917,
+    13.66333,
+    123.28917,
+    13.66333
+],
+  "geometry": {"coordinates":[123.28917,13.66333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890450575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6305,18.1323,120.6305,18.1323",
+    "geom:latitude":18.1323,
+    "geom:longitude":120.6305,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2177,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "San Lorenzo"
+    ],
+    "qs:name":"San Lorenzo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108699453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689159,
+        "gp:id":1190574,
+        "qs:id":86737,
+        "wk:page":"San-Lorenzo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052745,
+    "wof:geomhash":"d1b7f11d27be1bee6483ecd4f9fc77b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699453,
+            "locality_id":890450575,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":890450575,
+    "wof:lastmodified":1527792962,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":1108699453,
+    "wof:placetype":"locality",
+    "wof:population":2177,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6305,
+    18.1323,
+    120.6305,
+    18.1323
+],
+  "geometry": {"coordinates":[120.6305,18.1323],"type":"Point"}
+}

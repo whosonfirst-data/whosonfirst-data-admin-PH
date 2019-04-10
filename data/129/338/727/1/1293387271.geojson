@@ -1,0 +1,76 @@
+{
+  "id": 1293387271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2769,10.80455,122.2769,10.80455",
+    "geom:latitude":10.80455,
+    "geom:longitude":122.2769,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63046000.0",
+    "gn:asciiname":"Lanag Norte",
+    "gn:country_code":"PH",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707696,
+    "gn:latitude":10.80455,
+    "gn:longitude":122.2769,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lanag Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lanag Norte"
+    ],
+    "name:und_x_variant":[
+        "Lanag",
+        "Lanang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707696
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f7749f39e3ce6292133917819395d9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699789,
+            "locality_id":1293387271,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1293387271,
+    "wof:lastmodified":1537678033,
+    "wof:name":"Lanag Norte",
+    "wof:parent_id":1108699789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2769,
+    10.80455,
+    122.2769,
+    10.80455
+],
+  "geometry": {"coordinates":[122.2769,10.80455],"type":"Point"}
+}

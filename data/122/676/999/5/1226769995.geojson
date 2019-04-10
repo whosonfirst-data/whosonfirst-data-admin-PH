@@ -1,0 +1,77 @@
+{
+  "id": 1226769995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0837,9.8847,124.0837,9.8847",
+    "geom:latitude":9.8847,
+    "geom:longitude":124.0837,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71236000.0",
+    "gn:asciiname":"Ubojan",
+    "gn:country_code":"PH",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680458,
+    "gn:latitude":9.8847,
+    "gn:longitude":124.0837,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ubojan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ubojan"
+    ],
+    "name:und_x_variant":[
+        "Obojan",
+        "Ubujan",
+        "Obuhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680458
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d2a4c5275cc293b07eb3203e391449a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699075,
+            "locality_id":1226769995,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1226769995,
+    "wof:lastmodified":1537677263,
+    "wof:name":"Ubojan",
+    "wof:parent_id":1108699075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0837,
+    9.8847,
+    124.0837,
+    9.8847
+],
+  "geometry": {"coordinates":[124.08369999999999,9.8847],"type":"Point"}
+}

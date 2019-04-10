@@ -1,0 +1,78 @@
+{
+  "id": 1310127449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4987,11.5793,122.4987,11.5793",
+    "geom:latitude":11.5793,
+    "geom:longitude":122.4987,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60404000.0",
+    "gn:asciiname":"Ambulong",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731099,
+    "gn:latitude":11.5793,
+    "gn:longitude":122.4987,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ambulong",
+    "gn:population":2195,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ambulong"
+    ],
+    "name:und_x_variant":[
+        "Ambolong"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108696937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731099
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"41d468af3feefb7302bd1c6db2c1ee0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696937,
+            "locality_id":1310127449,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1310127449,
+    "wof:lastmodified":1537678714,
+    "wof:name":"Ambulong",
+    "wof:parent_id":1108696937,
+    "wof:placetype":"locality",
+    "wof:population":2195,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4987,
+    11.5793,
+    122.4987,
+    11.5793
+],
+  "geometry": {"coordinates":[122.4987,11.5793],"type":"Point"}
+}

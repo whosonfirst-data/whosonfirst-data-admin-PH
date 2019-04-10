@@ -1,0 +1,67 @@
+{
+  "id": 890429923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.51667,7.75,122.51667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":122.51667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":56866,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Ipil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108697775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710618,
+        "qs:id":87712,
+        "wk:page":"Ipil"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051833,
+    "wof:geomhash":"708230eaf025d0690478b4a483cf234f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697775,
+            "localadmin_id":890429923,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":890429923,
+    "wof:lastmodified":1527792791,
+    "wof:name":"Ipil",
+    "wof:parent_id":1108697775,
+    "wof:placetype":"localadmin",
+    "wof:population":56866,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.51667,
+    7.75,
+    122.51667,
+    7.75
+],
+  "geometry": {"coordinates":[122.51667,7.75],"type":"Point"}
+}

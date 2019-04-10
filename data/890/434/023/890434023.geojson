@@ -1,0 +1,71 @@
+{
+  "id": 890434023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48389,9.78056,125.48389,9.78056",
+    "geom:latitude":9.78056,
+    "geom:longitude":125.48389,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2727,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Rizal"
+    ],
+    "qs:name":"Rizal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":2016,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676239,
+        1108699573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691673,
+        "gp:id":1159686,
+        "qs:id":134466,
+        "wk:page":"Rizal"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052006,
+    "wof:geomhash":"ce17472628364dd5dc1f66fe5e972d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699573,
+            "locality_id":890434023,
+            "region_id":85676239
+        }
+    ],
+    "wof:id":890434023,
+    "wof:lastmodified":1527792943,
+    "wof:name":"Rizal",
+    "wof:parent_id":1108699573,
+    "wof:placetype":"locality",
+    "wof:population":2727,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48389,
+    9.78056,
+    125.48389,
+    9.78056
+],
+  "geometry": {"coordinates":[125.48389,9.78056],"type":"Point"}
+}

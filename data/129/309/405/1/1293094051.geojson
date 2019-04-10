@@ -1,0 +1,72 @@
+{
+  "id": 1293094051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6373,12.5805,123.6373,12.5805",
+    "geom:latitude":12.5805,
+    "geom:longitude":123.6373,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54114000.0",
+    "gn:asciiname":"Toquip",
+    "gn:country_code":"PH",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681412,
+    "gn:latitude":12.5805,
+    "gn:longitude":123.6373,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Toquip",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Toquip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681412
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cab6db437952edbc78d2767b4b6b03b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698503,
+            "locality_id":1293094051,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1293094051,
+    "wof:lastmodified":1537677290,
+    "wof:name":"Toquip",
+    "wof:parent_id":1108698503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6373,
+    12.5805,
+    123.6373,
+    12.5805
+],
+  "geometry": {"coordinates":[123.6373,12.5805],"type":"Point"}
+}

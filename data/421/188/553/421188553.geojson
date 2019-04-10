@@ -1,0 +1,82 @@
+{
+  "id": 421188553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9564,15.5193,120.9564,15.5193",
+    "geom:latitude":15.5193,
+    "geom:longitude":120.9564,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Mayapyap"
+    ],
+    "name:unk_x_variant":[
+        "Mayapyap Norte"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1700055,
+    "qs:gn_pop":0,
+    "qs:name":"Mayapyap",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Luzon",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":27980,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199517,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        890443085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700055,
+        "gp:id":1199517,
+        "qs:id":27980
+    },
+    "wof:country":"PH",
+    "wof:created":1459009569,
+    "wof:geomhash":"415dc19b075a9dda216f674d540b0711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890443085,
+            "locality_id":421188553,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":421188553,
+    "wof:lastmodified":1501221848,
+    "wof:name":"Mayapyap",
+    "wof:parent_id":890443085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9564,
+    15.5193,
+    120.9564,
+    15.5193
+],
+  "geometry": {"coordinates":[120.9564,15.5193],"type":"Point"}
+}

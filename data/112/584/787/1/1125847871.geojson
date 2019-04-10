@@ -1,0 +1,81 @@
+{
+  "id": 1125847871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.79639,6.75306,124.79639,6.75306",
+    "geom:latitude":6.75306,
+    "geom:longitude":124.79639,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6810,
+    "gn:population":6810,
+    "iso:country":"PH",
+    "lbl:latitude":6.75306,
+    "lbl:longitude":124.79639,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Digal"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1714970,
+    "qs_pg:gn_pop":6810,
+    "qs_pg:name":"Digal",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":87890,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108697111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714970,
+        "qs_pg:id":87890
+    },
+    "wof:country":"PH",
+    "wof:created":1497293249,
+    "wof:geomhash":"f984fb209a26ef9f5005d3a6cfb3c715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697111,
+            "locality_id":1125847871,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":1125847871,
+    "wof:lastmodified":1509395739,
+    "wof:name":"Digal",
+    "wof:parent_id":1108697111,
+    "wof:placetype":"locality",
+    "wof:population":6810,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.79639,
+    6.75306,
+    124.79639,
+    6.75306
+],
+  "geometry": {"coordinates":[124.79639,6.75306],"type":"Point"}
+}

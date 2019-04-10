@@ -1,0 +1,75 @@
+{
+  "id": 1293876625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0989,12.9646,123.0989,12.9646",
+    "geom:latitude":12.9646,
+    "geom:longitude":123.0989,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54120000.0",
+    "gn:asciiname":"Ki Buaya",
+    "gn:country_code":"PH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708852,
+    "gn:latitude":12.9646,
+    "gn:longitude":123.0989,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ki Buaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ki Buaya"
+    ],
+    "name:und_x_variant":[
+        "Rizal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708852
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ac1dd47b8becceef45a71af61495a2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699295,
+            "locality_id":1293876625,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1293876625,
+    "wof:lastmodified":1537678066,
+    "wof:name":"Ki Buaya",
+    "wof:parent_id":1108699295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0989,
+    12.9646,
+    123.0989,
+    12.9646
+],
+  "geometry": {"coordinates":[123.0989,12.9646],"type":"Point"}
+}

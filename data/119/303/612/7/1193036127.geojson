@@ -1,0 +1,72 @@
+{
+  "id": 1193036127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,7.85,123.95,7.85",
+    "geom:latitude":7.85,
+    "geom:longitude":123.95,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103515000.0",
+    "gn:asciiname":"Pantao",
+    "gn:country_code":"PH",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694966,
+    "gn:latitude":7.85,
+    "gn:longitude":123.95,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pantao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pantao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108698683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694966
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"66b41cbf61c478be3498c8dc7d338c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698683,
+            "locality_id":1193036127,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1193036127,
+    "wof:lastmodified":1537677674,
+    "wof:name":"Pantao",
+    "wof:parent_id":1108698683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    7.85,
+    123.95,
+    7.85
+],
+  "geometry": {"coordinates":[123.95,7.85],"type":"Point"}
+}

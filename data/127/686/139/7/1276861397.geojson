@@ -1,0 +1,75 @@
+{
+  "id": 1276861397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.06389,10.28,125.06389,10.28",
+    "geom:latitude":10.28,
+    "geom:longitude":125.06389,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86405000.0",
+    "gn:asciiname":"Kawayan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709021,
+    "gn:latitude":10.28,
+    "gn:longitude":125.06389,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kawayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cauayan",
+        "Cawayan",
+        "Kawayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108698061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709021
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"13d44f150c2ef53f8323ca7e15796a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698061,
+            "locality_id":1276861397,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1276861397,
+    "wof:lastmodified":1537678070,
+    "wof:name":"Kawayan",
+    "wof:parent_id":1108698061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.06389,
+    10.28,
+    125.06389,
+    10.28
+],
+  "geometry": {"coordinates":[125.06389,10.28],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209008847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.74167,13.15528,123.74167,13.15528",
+    "geom:latitude":13.15528,
+    "geom:longitude":123.74167,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50506000.0",
+    "gn:asciiname":"Cruzao",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716688,
+    "gn:latitude":13.15528,
+    "gn:longitude":123.74167,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cruzao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cruzao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716688
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1a0ca5a2543df175b1595d4ff54fdd62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209008847
+        }
+    ],
+    "wof:id":1209008847,
+    "wof:lastmodified":1537678284,
+    "wof:name":"Cruzao",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.74167,
+    13.15528,
+    123.74167,
+    13.15528
+],
+  "geometry": {"coordinates":[123.74167,13.15528],"type":"Point"}
+}

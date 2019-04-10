@@ -1,0 +1,72 @@
+{
+  "id": 1276749427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6,10.05,123.6,10.05",
+    "geom:latitude":10.05,
+    "geom:longitude":123.6,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72246000.0",
+    "gn:asciiname":"Guimbangkuan",
+    "gn:country_code":"PH",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712479,
+    "gn:latitude":10.05,
+    "gn:longitude":123.6,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Guimbangkuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Guimbangkuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712479
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a2ee16115f0fe4df6bd5c3840d084a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699475,
+            "locality_id":1276749427,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1276749427,
+    "wof:lastmodified":1537678168,
+    "wof:name":"Guimbangkuan",
+    "wof:parent_id":1108699475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6,
+    10.05,
+    123.6,
+    10.05
+],
+  "geometry": {"coordinates":[123.59999999999999,10.05],"type":"Point"}
+}

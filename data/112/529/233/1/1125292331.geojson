@@ -1,0 +1,81 @@
+{
+  "id": 1125292331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.48333,9.83333,124.48333,9.83333",
+    "geom:latitude":9.83333,
+    "geom:longitude":124.48333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":33811,
+    "gn:population":33811,
+    "iso:country":"PH",
+    "lbl:latitude":9.83333,
+    "lbl:longitude":124.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Candijay"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1719263,
+    "qs_pg:gn_pop":33811,
+    "qs_pg:name":"Candijay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":88072,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719263,
+        "qs_pg:id":88072
+    },
+    "wof:country":"PH",
+    "wof:created":1497042980,
+    "wof:geomhash":"d567984b99f3c349cf2b48182c5203ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697251,
+            "localadmin_id":1125292331,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1125292331,
+    "wof:lastmodified":1509387556,
+    "wof:name":"Candijay",
+    "wof:parent_id":1108697251,
+    "wof:placetype":"localadmin",
+    "wof:population":33811,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.48333,
+    9.83333,
+    124.48333,
+    9.83333
+],
+  "geometry": {"coordinates":[124.48333,9.83333],"type":"Point"}
+}

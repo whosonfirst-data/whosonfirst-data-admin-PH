@@ -1,0 +1,72 @@
+{
+  "id": 1225929649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.85833,10.51972,123.85833,10.51972",
+    "geom:latitude":10.51972,
+    "geom:longitude":123.85833,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72208000.0",
+    "gn:asciiname":"Ginatilan",
+    "gn:country_code":"PH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712897,
+    "gn:latitude":10.51972,
+    "gn:longitude":123.85833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ginatilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ginatilan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        890432909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712897
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a49bde584c4d22d8c20358a407dabddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432909,
+            "locality_id":1225929649,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1225929649,
+    "wof:lastmodified":1537678180,
+    "wof:name":"Ginatilan",
+    "wof:parent_id":890432909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.85833,
+    10.51972,
+    123.85833,
+    10.51972
+],
+  "geometry": {"coordinates":[123.85833,10.51972],"type":"Point"}
+}

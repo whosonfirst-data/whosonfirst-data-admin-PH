@@ -1,0 +1,75 @@
+{
+  "id": 1293428019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5636,14.0119,121.5636,14.0119",
+    "geom:latitude":14.0119,
+    "geom:longitude":121.5636,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45647000.0",
+    "gn:asciiname":"Ibabang Bukal",
+    "gn:country_code":"PH",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711424,
+    "gn:latitude":14.0119,
+    "gn:longitude":121.5636,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ibabang Bukal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ibabang Bukal"
+    ],
+    "name:und_x_variant":[
+        "Ibayang Bukal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711424
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"aa41ab06da29787c1ec1c3eba88f4abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699703,
+            "locality_id":1293428019,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1293428019,
+    "wof:lastmodified":1537678139,
+    "wof:name":"Ibabang Bukal",
+    "wof:parent_id":1108699703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5636,
+    14.0119,
+    121.5636,
+    14.0119
+],
+  "geometry": {"coordinates":[121.56359999999999,14.0119],"type":"Point"}
+}

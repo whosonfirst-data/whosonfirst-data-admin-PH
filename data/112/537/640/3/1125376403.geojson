@@ -1,0 +1,78 @@
+{
+  "id": 1125376403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.68333,8.01667,122.68333,8.01667",
+    "geom:latitude":8.01667,
+    "geom:longitude":122.68333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":21168,
+    "gn:population":21168,
+    "iso:country":"PH",
+    "lbl:latitude":8.01667,
+    "lbl:longitude":122.68333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1683412,
+    "qs_pg:gn_pop":21168,
+    "qs_pg:name":"Tampilisan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":371430,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108699663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683412,
+        "qs_pg:id":371430
+    },
+    "wof:country":"PH",
+    "wof:created":1497047772,
+    "wof:geomhash":"e8fa6d976eb329d5d993587308a40101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699663,
+            "localadmin_id":1125376403,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1125376403,
+    "wof:lastmodified":1509389469,
+    "wof:name":"Tampilisan",
+    "wof:parent_id":1108699663,
+    "wof:placetype":"localadmin",
+    "wof:population":21168,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.68333,
+    8.01667,
+    122.68333,
+    8.01667
+],
+  "geometry": {"coordinates":[122.68333,8.01667],"type":"Point"}
+}

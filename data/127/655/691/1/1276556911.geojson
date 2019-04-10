@@ -1,0 +1,79 @@
+{
+  "id": 1276556911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4493,17.3035,120.4493,17.3035",
+    "geom:latitude":17.3035,
+    "geom:longitude":120.4493,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12927000.0",
+    "gn:asciiname":"Mambug",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702281,
+    "gn:latitude":17.3035,
+    "gn:longitude":120.4493,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mambug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mambug"
+    ],
+    "name:fil_x_variant":[
+        "Mambog"
+    ],
+    "name:und_x_variant":[
+        "Mambog",
+        "Mambug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702281
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5fb163f241a5c4fe2dc8ee0b5b028ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699413,
+            "locality_id":1276556911,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1276556911,
+    "wof:lastmodified":1537677879,
+    "wof:name":"Mambug",
+    "wof:parent_id":1108699413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4493,
+    17.3035,
+    120.4493,
+    17.3035
+],
+  "geometry": {"coordinates":[120.44929999999999,17.3035],"type":"Point"}
+}

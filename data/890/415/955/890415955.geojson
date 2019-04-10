@@ -1,0 +1,69 @@
+{
+  "id": 890415955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.79472,8.88639,124.79472,8.88639",
+    "geom:latitude":8.88639,
+    "geom:longitude":124.79472,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2561,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Inubolan"
+    ],
+    "qs:name":"Inobulan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108699081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710636,
+        "gp:id":1194606,
+        "qs:id":135263
+    },
+    "wof:country":"PH",
+    "wof:created":1469051113,
+    "wof:geomhash":"f7134168c0d6a18cd1566954108a8dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699081,
+            "locality_id":890415955,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":890415955,
+    "wof:lastmodified":1505343429,
+    "wof:name":"Inobulan",
+    "wof:parent_id":1108699081,
+    "wof:placetype":"locality",
+    "wof:population":2561,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.79472,
+    8.88639,
+    124.79472,
+    8.88639
+],
+  "geometry": {"coordinates":[124.79472,8.88639],"type":"Point"}
+}

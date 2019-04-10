@@ -1,0 +1,74 @@
+{
+  "id": 421169633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.99417,14.51583,120.99417,14.51583",
+    "geom:latitude":14.51583,
+    "geom:longitude":120.99417,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1714437,
+    "qs:gn_pop":0,
+    "qs:name":"Dongalo",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"National Capital Region",
+    "qs:photos":199,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":199,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":227478,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1172050,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714437,
+        "gp:id":1172050,
+        "qs:id":227478
+    },
+    "wof:country":"PH",
+    "wof:created":1459008817,
+    "wof:geomhash":"657f6035dd4339b115d3b8cf8efed06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421169633,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":421169633,
+    "wof:lastmodified":1533169689,
+    "wof:name":"Dongalo",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.99417,
+    14.51583,
+    120.99417,
+    14.51583
+],
+  "geometry": {"coordinates":[120.99417,14.51583],"type":"Point"}
+}

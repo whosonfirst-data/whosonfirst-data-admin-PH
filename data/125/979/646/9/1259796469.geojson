@@ -1,0 +1,70 @@
+{
+  "id": 1259796469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.55,16.68333,121.55,16.68333",
+    "geom:latitude":16.68333,
+    "geom:longitude":121.55,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23135000.0",
+    "gn:asciiname":"Calao",
+    "gn:country_code":"PH",
+    "gn:dem":91,
+    "gn:elevation":"79.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720577,
+    "gn:latitude":16.68333,
+    "gn:longitude":121.55,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720577
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4b51421e669d709f1bf23fbb7aae96ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697387,
+            "locality_id":1259796469,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1259796469,
+    "wof:lastmodified":1536904607,
+    "wof:name":"Calao",
+    "wof:parent_id":1108697387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.55,
+    16.68333,
+    121.55,
+    16.68333
+],
+  "geometry": {"coordinates":[121.55,16.68333],"type":"Point"}
+}

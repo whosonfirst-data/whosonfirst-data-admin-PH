@@ -1,0 +1,68 @@
+{
+  "id": 890434069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57358,15.88683,120.57358,15.88683",
+    "geom:latitude":15.88683,
+    "geom:longitude":120.57358,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6854,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Puelay"
+    ],
+    "qs:name":"Puelay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692699,
+        "qs:id":134510
+    },
+    "wof:country":"PH",
+    "wof:created":1469052009,
+    "wof:geomhash":"f3682e19f58d4d70ed707622db5d0239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699871,
+            "locality_id":890434069,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890434069,
+    "wof:lastmodified":1505343539,
+    "wof:name":"Puelay",
+    "wof:parent_id":1108699871,
+    "wof:placetype":"locality",
+    "wof:population":6854,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57358,
+    15.88683,
+    120.57358,
+    15.88683
+],
+  "geometry": {"coordinates":[120.57358000000001,15.88683],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193134033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.532,12.1092,124.532,12.1092",
+    "geom:latitude":12.1092,
+    "geom:longitude":124.532,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86003000.0",
+    "gn:asciiname":"Vegene",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304875,
+    "gn:latitude":12.1092,
+    "gn:longitude":124.532,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Vegene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Vegene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108697221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304875
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1ab75fdc2852f92586fb29f3ddb754aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697221,
+            "locality_id":1193134033,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1193134033,
+    "wof:lastmodified":1537679057,
+    "wof:name":"Vegene",
+    "wof:parent_id":1108697221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.532,
+    12.1092,
+    124.532,
+    12.1092
+],
+  "geometry": {"coordinates":[124.532,12.1092],"type":"Point"}
+}

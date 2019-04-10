@@ -1,0 +1,66 @@
+{
+  "id": 1209235983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.85,11.05,122.85,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":122.85,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63008000.0",
+    "gn:asciiname":"Calaigang",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720710,
+    "gn:latitude":11.05,
+    "gn:longitude":122.85,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calaigang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calaigang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720710
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ebb61e574cf16f64db8c89ca336e1067",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209235983
+        }
+    ],
+    "wof:id":1209235983,
+    "wof:lastmodified":1537678402,
+    "wof:name":"Calaigang",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.85,
+    11.05,
+    122.85,
+    11.05
+],
+  "geometry": {"coordinates":[122.84999999999999,11.05],"type":"Point"}
+}

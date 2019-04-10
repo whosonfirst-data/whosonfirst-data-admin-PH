@@ -1,0 +1,75 @@
+{
+  "id": 1259983145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6751,18.0162,120.6751,18.0162",
+    "geom:latitude":18.0162,
+    "geom:longitude":120.6751,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12813000.0",
+    "gn:asciiname":"Lubong",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708325,
+    "gn:latitude":18.0162,
+    "gn:longitude":120.6751,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lubong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lubong"
+    ],
+    "name:fil_x_variant":[
+        "Labbang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708325
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"818b1c119079fb3e96cf0c2260329e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698389,
+            "locality_id":1259983145,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1259983145,
+    "wof:lastmodified":1537678050,
+    "wof:name":"Lubong",
+    "wof:parent_id":1108698389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6751,
+    18.0162,
+    120.6751,
+    18.0162
+],
+  "geometry": {"coordinates":[120.6751,18.0162],"type":"Point"}
+}

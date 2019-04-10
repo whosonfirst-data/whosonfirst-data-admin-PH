@@ -1,0 +1,68 @@
+{
+  "id": 890453485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.04556,14.975,122.04556,14.975",
+    "geom:latitude":14.975,
+    "geom:longitude":122.04556,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2562,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Carlagan"
+    ],
+    "qs:name":"Carlagan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108697123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718367,
+        "qs:id":1032916
+    },
+    "wof:country":"PH",
+    "wof:created":1469052855,
+    "wof:geomhash":"ddaf89d84764ba803c768099f1a79733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697123,
+            "locality_id":890453485,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890453485,
+    "wof:lastmodified":1505343651,
+    "wof:name":"Carlagan",
+    "wof:parent_id":1108697123,
+    "wof:placetype":"locality",
+    "wof:population":2562,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.04556,
+    14.975,
+    122.04556,
+    14.975
+],
+  "geometry": {"coordinates":[122.04555999999999,14.975],"type":"Point"}
+}

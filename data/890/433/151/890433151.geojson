@@ -1,0 +1,66 @@
+{
+  "id": 890433151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53333,16.16667,120.53333,16.16667",
+    "geom:latitude":16.16667,
+    "geom:longitude":120.53333,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3664,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Paldit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696147,
+        "gp:id":1174908,
+        "qs:id":134680
+    },
+    "wof:country":"PH",
+    "wof:created":1469051969,
+    "wof:geomhash":"e515a8a3c947a9e12d0d13f5c704b943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699519,
+            "locality_id":890433151,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890433151,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Paldit",
+    "wof:parent_id":1108699519,
+    "wof:placetype":"locality",
+    "wof:population":3664,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53333,
+    16.16667,
+    120.53333,
+    16.16667
+],
+  "geometry": {"coordinates":[120.53333000000001,16.16667],"type":"Point"}
+}

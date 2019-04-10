@@ -1,0 +1,72 @@
+{
+  "id": 1293004151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8131,16.247,119.8131,16.247",
+    "geom:latitude":16.247,
+    "geom:longitude":119.8131,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15508000.0",
+    "gn:asciiname":"Dacap Norte",
+    "gn:country_code":"PH",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716337,
+    "gn:latitude":16.247,
+    "gn:longitude":119.8131,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dacap Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dacap Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716337
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a33f7365f781bf6978f400503fecd986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696881,
+            "locality_id":1293004151,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1293004151,
+    "wof:lastmodified":1537678274,
+    "wof:name":"Dacap Norte",
+    "wof:parent_id":1108696881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8131,
+    16.247,
+    119.8131,
+    16.247
+],
+  "geometry": {"coordinates":[119.81310000000001,16.247],"type":"Point"}
+}

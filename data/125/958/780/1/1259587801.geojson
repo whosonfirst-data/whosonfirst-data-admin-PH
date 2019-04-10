@@ -1,0 +1,72 @@
+{
+  "id": 1259587801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.58481,12.27884,123.58481,12.27884",
+    "geom:latitude":12.27884,
+    "geom:longitude":123.58481,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54111000.0",
+    "gn:asciiname":"Torril",
+    "gn:country_code":"PH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681390,
+    "gn:latitude":12.27884,
+    "gn:longitude":123.58481,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Torril",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Torril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        890437629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681390
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"82d34fcab459df78de923f2cf059c167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890437629,
+            "locality_id":1259587801,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1259587801,
+    "wof:lastmodified":1537677289,
+    "wof:name":"Torril",
+    "wof:parent_id":890437629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.58481,
+    12.27884,
+    123.58481,
+    12.27884
+],
+  "geometry": {"coordinates":[123.58481,12.27884],"type":"Point"}
+}

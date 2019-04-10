@@ -1,0 +1,71 @@
+{
+  "id": 1243236991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43333,7.05,125.43333,7.05",
+    "geom:latitude":7.05,
+    "geom:longitude":125.43333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"56",
+    "gn:asciiname":"Bato",
+    "gn:country_code":"PH",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726184,
+    "gn:latitude":7.05,
+    "gn:longitude":125.43333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726184
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a4eb4dba6458cded1d922cbf4b4a781c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":1243236991,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":1243236991,
+    "wof:lastmodified":1537678568,
+    "wof:name":"Bato",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43333,
+    7.05,
+    125.43333,
+    7.05
+],
+  "geometry": {"coordinates":[125.43333,7.05],"type":"Point"}
+}

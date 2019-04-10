@@ -1,0 +1,84 @@
+{
+  "id": 890435733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56444,9.19278,125.56444,9.19278",
+    "geom:latitude":9.19278,
+    "geom:longitude":125.56444,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2452,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:fil_x_variant":[
+        "San Joaquin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0410\u043d\u0430"
+    ],
+    "name:unk_x_variant":[
+        "San Joaquin"
+    ],
+    "qs:name":"Santa Ana",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":503,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676213,
+        1108699775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688398,
+        "gp:id":1192211,
+        "qs:id":1032286,
+        "qs_pg:id":371506,
+        "wk:page":"Santa Ana"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052079,
+    "wof:geomhash":"99e5d54713b74239208f200851f95642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699775,
+            "locality_id":890435733,
+            "region_id":85676213
+        }
+    ],
+    "wof:id":890435733,
+    "wof:lastmodified":1527793049,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":1108699775,
+    "wof:placetype":"locality",
+    "wof:population":2452,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56444,
+    9.19278,
+    125.56444,
+    9.19278
+],
+  "geometry": {"coordinates":[125.56444,9.19278],"type":"Point"}
+}

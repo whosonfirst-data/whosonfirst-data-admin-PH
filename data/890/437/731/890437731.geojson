@@ -1,0 +1,68 @@
+{
+  "id": 890437731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.9,13.4,121.9,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":121.9,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":56665,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Boac"
+    ],
+    "qs:name":"Boac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676149,
+        1108697025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724578,
+        "qs:id":1152010
+    },
+    "wof:country":"PH",
+    "wof:created":1469052163,
+    "wof:geomhash":"0e2422e429511d57fcaf1be7df9086b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697025,
+            "localadmin_id":890437731,
+            "region_id":85676149
+        }
+    ],
+    "wof:id":890437731,
+    "wof:lastmodified":1505343561,
+    "wof:name":"Boac",
+    "wof:parent_id":1108697025,
+    "wof:placetype":"localadmin",
+    "wof:population":56665,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.9,
+    13.4,
+    121.9,
+    13.4
+],
+  "geometry": {"coordinates":[121.90000000000001,13.4],"type":"Point"}
+}

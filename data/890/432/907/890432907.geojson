@@ -1,0 +1,68 @@
+{
+  "id": 890432907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.01667,6.68333,125.01667,6.68333",
+    "geom:latitude":6.68333,
+    "geom:longitude":125.01667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":23773,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Columbio"
+    ],
+    "qs:name":"Columbio",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108697367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717104,
+        "qs:id":87978
+    },
+    "wof:country":"PH",
+    "wof:created":1469051959,
+    "wof:geomhash":"26ed32939f410b2098b7c45f1dba3cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697367,
+            "localadmin_id":890432907,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":890432907,
+    "wof:lastmodified":1505343532,
+    "wof:name":"Columbio",
+    "wof:parent_id":1108697367,
+    "wof:placetype":"localadmin",
+    "wof:population":23773,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.01667,
+    6.68333,
+    125.01667,
+    6.68333
+],
+  "geometry": {"coordinates":[125.01667,6.68333],"type":"Point"}
+}

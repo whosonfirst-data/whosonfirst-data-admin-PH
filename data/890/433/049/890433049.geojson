@@ -1,0 +1,72 @@
+{
+  "id": 890433049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75321,18.47045,120.75321,18.47045",
+    "geom:latitude":18.47045,
+    "geom:longitude":120.75321,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":15500,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Bangui"
+    ],
+    "name:fil_x_variant":[
+        "Bayan ng Bangui"
+    ],
+    "qs:name":"Bangui",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727212,
+        "qs:id":88370,
+        "wk:page":"Bangui"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051965,
+    "wof:geomhash":"6fbd19a523770c4b5cad159463f3e7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698621,
+            "localadmin_id":890433049,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":890433049,
+    "wof:lastmodified":1513814055,
+    "wof:name":"Bangui",
+    "wof:parent_id":1108698621,
+    "wof:placetype":"localadmin",
+    "wof:population":15500,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75321,
+    18.47045,
+    120.75321,
+    18.47045
+],
+  "geometry": {"coordinates":[120.75321,18.47045],"type":"Point"}
+}

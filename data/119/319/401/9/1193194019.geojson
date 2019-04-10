@@ -1,0 +1,72 @@
+{
+  "id": 1193194019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.05,13.75,121.05,13.75",
+    "geom:latitude":13.75,
+    "geom:longitude":121.05,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41005000.0",
+    "gn:asciiname":"Dalig",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716002,
+    "gn:latitude":13.75,
+    "gn:longitude":121.05,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dalig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dalig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108696939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716002
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2d8f5c75bc31a53349d5abb137e5d3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696939,
+            "locality_id":1193194019,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1193194019,
+    "wof:lastmodified":1537678264,
+    "wof:name":"Dalig",
+    "wof:parent_id":1108696939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.05,
+    13.75,
+    121.05,
+    13.75
+],
+  "geometry": {"coordinates":[121.05,13.75],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890451133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.98194,6.45528,124.98194,6.45528",
+    "geom:latitude":6.45528,
+    "geom:longitude":124.98194,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2172,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Liberty"
+    ],
+    "qs:name":"Liberty",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":3789,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706658,
+        "gp:id":1178132,
+        "qs:id":87524,
+        "qs_pg:id":135074,
+        "wd:id":"Q2979",
+        "wk:page":"Liberty"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052766,
+    "wof:geomhash":"d9cf8e3566e33b1ce57314281408ab11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699657,
+            "locality_id":890451133,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890451133,
+    "wof:lastmodified":1527792936,
+    "wof:name":"Liberty",
+    "wof:parent_id":1108699657,
+    "wof:placetype":"locality",
+    "wof:population":2172,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.98194,
+    6.45528,
+    124.98194,
+    6.45528
+],
+  "geometry": {"coordinates":[124.98193999999999,6.45528],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125909281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.53333,10.78333,122.53333,10.78333",
+    "geom:latitude":10.78333,
+    "geom:longitude":122.53333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2522,
+    "gn:population":2522,
+    "iso:country":"PH",
+    "lbl:latitude":10.78333,
+    "lbl:longitude":122.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Aganan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1732187,
+    "qs_pg:gn_pop":2522,
+    "qs_pg:name":"Aganan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1033075,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676299,
+        1108698843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732187,
+        "qs_pg:id":1033075
+    },
+    "wof:country":"PH",
+    "wof:created":1497296088,
+    "wof:geomhash":"69a572a8166a9820bc4d6352d94bd469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698843,
+            "locality_id":1125909281,
+            "region_id":85676299
+        }
+    ],
+    "wof:id":1125909281,
+    "wof:lastmodified":1509400003,
+    "wof:name":"Aganan",
+    "wof:parent_id":1108698843,
+    "wof:placetype":"locality",
+    "wof:population":2522,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.53333,
+    10.78333,
+    122.53333,
+    10.78333
+],
+  "geometry": {"coordinates":[122.53333000000001,10.78333],"type":"Point"}
+}

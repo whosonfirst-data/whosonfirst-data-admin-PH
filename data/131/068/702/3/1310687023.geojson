@@ -1,0 +1,72 @@
+{
+  "id": 1310687023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.46125,9.85048,123.46125,9.85048",
+    "geom:latitude":9.85048,
+    "geom:longitude":123.46125,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72207000.0",
+    "gn:asciiname":"Maloray",
+    "gn:country_code":"PH",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702512,
+    "gn:latitude":9.85048,
+    "gn:longitude":123.46125,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maloray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maloray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702512
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bd1436a64c57b3fb1d6982f8d54fc022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696769,
+            "locality_id":1310687023,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1310687023,
+    "wof:lastmodified":1537677885,
+    "wof:name":"Maloray",
+    "wof:parent_id":1108696769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.46125,
+    9.85048,
+    123.46125,
+    9.85048
+],
+  "geometry": {"coordinates":[123.46125000000001,9.85048],"type":"Point"}
+}

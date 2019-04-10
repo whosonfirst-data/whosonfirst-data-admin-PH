@@ -1,0 +1,63 @@
+{
+  "id": 1209487943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38364,17.67103,121.38364,17.67103",
+    "geom:latitude":17.67103,
+    "geom:longitude":121.38364,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"H6",
+    "gn:admin3_code":"148102000.0",
+    "gn:asciiname":"Sacpil",
+    "gn:country_code":"PH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8467517,
+    "gn:latitude":17.67103,
+    "gn:longitude":121.38364,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sacpil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8467517
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"263e08f8b302d5c5360930de7884961b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209487943
+        }
+    ],
+    "wof:id":1209487943,
+    "wof:lastmodified":1536285577,
+    "wof:name":"Sacpil",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38364,
+    17.67103,
+    121.38364,
+    17.67103
+],
+  "geometry": {"coordinates":[121.38364,17.67103],"type":"Point"}
+}

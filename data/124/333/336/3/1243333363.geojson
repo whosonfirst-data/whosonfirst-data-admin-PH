@@ -1,0 +1,83 @@
+{
+  "id": 1243333363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.42915,17.50352,121.42915,17.50352",
+    "geom:latitude":17.50352,
+    "geom:longitude":121.42915,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143213000.0",
+    "gn:asciiname":"Tuga Colony",
+    "gn:country_code":"PH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681623,
+    "gn:latitude":17.50352,
+    "gn:longitude":121.42915,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tuga Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tuga Colony"
+    ],
+    "name:eng_x_variant":[
+        "Toga Colony",
+        "Colony"
+    ],
+    "name:fil_x_preferred":[
+        "Toga"
+    ],
+    "name:und_x_variant":[
+        "Colony",
+        "Toga Colony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108699595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681623
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"912343614b339276024f71ab6850ea26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699595,
+            "locality_id":1243333363,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1243333363,
+    "wof:lastmodified":1537677297,
+    "wof:name":"Tuga Colony",
+    "wof:parent_id":1108699595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.42915,
+    17.50352,
+    121.42915,
+    17.50352
+],
+  "geometry": {"coordinates":[121.42915000000001,17.50352],"type":"Point"}
+}

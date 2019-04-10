@@ -1,0 +1,69 @@
+{
+  "id": 890431783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.952,7.21554,121.952,7.21554",
+    "geom:latitude":7.21554,
+    "geom:longitude":121.952,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3211,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Litangan"
+    ],
+    "qs:name":"Lintangan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706127,
+        "gp:id":1178538,
+        "qs:id":277098
+    },
+    "wof:country":"PH",
+    "wof:created":1469051915,
+    "wof:geomhash":"dc10e7f0431396932f8b23eefab4c059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698671,
+            "locality_id":890431783,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":890431783,
+    "wof:lastmodified":1505343526,
+    "wof:name":"Lintangan",
+    "wof:parent_id":1108698671,
+    "wof:placetype":"locality",
+    "wof:population":3211,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.952,
+    7.21554,
+    121.952,
+    7.21554
+],
+  "geometry": {"coordinates":[121.952,7.21554],"type":"Point"}
+}

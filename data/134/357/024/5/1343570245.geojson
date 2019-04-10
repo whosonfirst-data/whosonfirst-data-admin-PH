@@ -1,0 +1,72 @@
+{
+  "id": 1343570245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4786,18.0404,120.4786,18.0404",
+    "geom:latitude":18.0404,
+    "geom:longitude":120.4786,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12808000.0",
+    "gn:asciiname":"Pangil",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695282,
+    "gn:latitude":18.0404,
+    "gn:longitude":120.4786,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pangil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pangil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108697411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695282
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"910cd9f3ea4614dfa017511fe55fc0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697411,
+            "locality_id":1343570245,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1343570245,
+    "wof:lastmodified":1537677683,
+    "wof:name":"Pangil",
+    "wof:parent_id":1108697411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4786,
+    18.0404,
+    120.4786,
+    18.0404
+],
+  "geometry": {"coordinates":[120.4786,18.0404],"type":"Point"}
+}

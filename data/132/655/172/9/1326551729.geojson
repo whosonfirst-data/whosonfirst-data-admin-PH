@@ -1,0 +1,72 @@
+{
+  "id": 1326551729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5627,11.2163,122.5627,11.2163",
+    "geom:latitude":11.2163,
+    "geom:longitude":122.5627,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63010000.0",
+    "gn:asciiname":"New Boston",
+    "gn:country_code":"PH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697779,
+    "gn:latitude":11.2163,
+    "gn:longitude":122.5627,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"New Boston",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "New Boston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697779
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fdbe12b8c78ef58f1b4ab71a2474cd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697011,
+            "locality_id":1326551729,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1326551729,
+    "wof:lastmodified":1537677752,
+    "wof:name":"New Boston",
+    "wof:parent_id":1108697011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5627,
+    11.2163,
+    122.5627,
+    11.2163
+],
+  "geometry": {"coordinates":[122.56270000000001,11.2163],"type":"Point"}
+}

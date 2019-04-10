@@ -1,0 +1,73 @@
+{
+  "id": 1343246735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.65,10.98333,124.65,10.98333",
+    "geom:latitude":10.98333,
+    "geom:longitude":124.65,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83738000.0",
+    "gn:asciiname":"Boroc",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723909,
+    "gn:latitude":10.98333,
+    "gn:longitude":124.65,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Boroc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676335,
+        1108698707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723909
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"255e750f3f7c5bdda9e671e234c0c1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698707,
+            "locality_id":1343246735,
+            "region_id":85676335
+        }
+    ],
+    "wof:id":1343246735,
+    "wof:lastmodified":1537678502,
+    "wof:name":"Boroc",
+    "wof:parent_id":1108698707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.65,
+    10.98333,
+    124.65,
+    10.98333
+],
+  "geometry": {"coordinates":[124.65000000000001,10.98333],"type":"Point"}
+}

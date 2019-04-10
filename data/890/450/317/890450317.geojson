@@ -1,0 +1,72 @@
+{
+  "id": 890450317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0306,11.2774,124.0306,11.2774",
+    "geom:latitude":11.2774,
+    "geom:longitude":124.0306,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7786,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tapilon"
+    ],
+    "name:unk_x_variant":[
+        "Tablon"
+    ],
+    "qs:name":"Tapilon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682934,
+        "gp:id":1158326,
+        "qs:id":86432
+    },
+    "wof:country":"PH",
+    "wof:created":1469052734,
+    "wof:geomhash":"9d5bfd7f20b897403e602e57447c6899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697415,
+            "locality_id":890450317,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890450317,
+    "wof:lastmodified":1505343633,
+    "wof:name":"Tapilon",
+    "wof:parent_id":1108697415,
+    "wof:placetype":"locality",
+    "wof:population":7786,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0306,
+    11.2774,
+    124.0306,
+    11.2774
+],
+  "geometry": {"coordinates":[124.03060000000001,11.2774],"type":"Point"}
+}

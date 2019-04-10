@@ -1,0 +1,69 @@
+{
+  "id": 890433699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2299,9.4547,123.2299,9.4547",
+    "geom:latitude":9.4547,
+    "geom:longitude":123.2299,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3533,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tandayag"
+    ],
+    "qs:name":"Tandayag",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108696663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683293,
+        "gp:id":1195814,
+        "qs:id":134068
+    },
+    "wof:country":"PH",
+    "wof:created":1469051990,
+    "wof:geomhash":"40d213561a5ee4bd6b46cf42cf270291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696663,
+            "locality_id":890433699,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890433699,
+    "wof:lastmodified":1505343537,
+    "wof:name":"Tandayag",
+    "wof:parent_id":1108696663,
+    "wof:placetype":"locality",
+    "wof:population":3533,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2299,
+    9.4547,
+    123.2299,
+    9.4547
+],
+  "geometry": {"coordinates":[123.2299,9.4547],"type":"Point"}
+}

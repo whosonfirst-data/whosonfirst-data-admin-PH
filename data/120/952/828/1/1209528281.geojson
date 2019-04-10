@@ -1,0 +1,66 @@
+{
+  "id": 1209528281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95,16.28333,120.95,16.28333",
+    "geom:latitude":16.28333,
+    "geom:longitude":120.95,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"48",
+    "gn:admin3_code":"25002000.0",
+    "gn:asciiname":"Bayaong",
+    "gn:country_code":"PH",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725820,
+    "gn:latitude":16.28333,
+    "gn:longitude":120.95,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bayaong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bayaong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725820
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ee5d2c6068f80f70956d71704282152f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209528281
+        }
+    ],
+    "wof:id":1209528281,
+    "wof:lastmodified":1537678558,
+    "wof:name":"Bayaong",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95,
+    16.28333,
+    120.95,
+    16.28333
+],
+  "geometry": {"coordinates":[120.95,16.28333],"type":"Point"}
+}

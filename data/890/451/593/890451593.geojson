@@ -1,0 +1,69 @@
+{
+  "id": 890451593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93609,14.03987,120.93609,14.03987",
+    "geom:latitude":14.03987,
+    "geom:longitude":120.93609,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3907,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bugaan"
+    ],
+    "qs:name":"Bugaan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108698027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723347,
+        "gp:id":1165143,
+        "qs:id":135583
+    },
+    "wof:country":"PH",
+    "wof:created":1469052786,
+    "wof:geomhash":"3ad53531977b8fc006bc28533f0f77d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698027,
+            "locality_id":890451593,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890451593,
+    "wof:lastmodified":1505343641,
+    "wof:name":"Bugaan",
+    "wof:parent_id":1108698027,
+    "wof:placetype":"locality",
+    "wof:population":3907,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93609,
+    14.03987,
+    120.93609,
+    14.03987
+],
+  "geometry": {"coordinates":[120.93608999999999,14.03987],"type":"Point"}
+}

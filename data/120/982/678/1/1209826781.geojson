@@ -1,0 +1,69 @@
+{
+  "id": 1209826781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.99781,15.30723,120.99781,15.30723",
+    "geom:latitude":15.30723,
+    "geom:longitude":120.99781,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34908000.0",
+    "gn:asciiname":"Maburak",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435032,
+    "gn:latitude":15.30723,
+    "gn:longitude":120.99781,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maburak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435032
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"accae51bb267a87beafab0df5be6c246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697611,
+            "locality_id":1209826781,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1209826781,
+    "wof:lastmodified":1536372872,
+    "wof:name":"Maburak",
+    "wof:parent_id":1108697611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.99781000000002,
+    15.30723,
+    120.99781000000002,
+    15.30723
+],
+  "geometry": {"coordinates":[120.99781000000002,15.30723],"type":"Point"}
+}

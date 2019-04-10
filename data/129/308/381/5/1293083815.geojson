@@ -1,0 +1,79 @@
+{
+  "id": 1293083815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2685,17.4098,121.2685,17.4098",
+    "geom:latitude":17.4098,
+    "geom:longitude":121.2685,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143213000.0",
+    "gn:asciiname":"Naneng",
+    "gn:country_code":"PH",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698311,
+    "gn:latitude":17.4098,
+    "gn:longitude":121.2685,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Naneng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Naneng"
+    ],
+    "name:fil_x_variant":[
+        "Nancng"
+    ],
+    "name:und_x_variant":[
+        "Nancng",
+        "Naneng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108699595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698311
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a38e3014fe71a04db7247a87ae7b1751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699595,
+            "locality_id":1293083815,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1293083815,
+    "wof:lastmodified":1537677767,
+    "wof:name":"Naneng",
+    "wof:parent_id":1108699595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2685,
+    17.4098,
+    121.2685,
+    17.4098
+],
+  "geometry": {"coordinates":[121.2685,17.4098],"type":"Point"}
+}

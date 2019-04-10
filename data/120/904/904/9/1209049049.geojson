@@ -1,0 +1,66 @@
+{
+  "id": 1209049049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51667,17.55,120.51667,17.55",
+    "geom:latitude":17.55,
+    "geom:longitude":120.51667,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Palang Norte",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696263,
+    "gn:latitude":17.55,
+    "gn:longitude":120.51667,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Palang Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696263
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b3260779204a155c5a3409a57b55ccb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209049049
+        }
+    ],
+    "wof:id":1209049049,
+    "wof:lastmodified":1537677707,
+    "wof:name":"Palang Norte",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51667,
+    17.55,
+    120.51667,
+    17.55
+],
+  "geometry": {"coordinates":[120.51667,17.55],"type":"Point"}
+}

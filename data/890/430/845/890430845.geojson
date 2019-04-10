@@ -1,0 +1,71 @@
+{
+  "id": 890430845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.18333,10.13333,124.18333,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":124.18333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":29847,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Jetafe"
+    ],
+    "name:fil_x_variant":[
+        "Getafe"
+    ],
+    "qs:name":"Jetafe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710223,
+        "qs:id":87687
+    },
+    "wof:country":"PH",
+    "wof:created":1469051869,
+    "wof:geomhash":"dadcbfa8ff2ea0fb42619efe90a410c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697819,
+            "localadmin_id":890430845,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890430845,
+    "wof:lastmodified":1505343520,
+    "wof:name":"Jetafe",
+    "wof:parent_id":1108697819,
+    "wof:placetype":"localadmin",
+    "wof:population":29847,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.18333,
+    10.13333,
+    124.18333,
+    10.13333
+],
+  "geometry": {"coordinates":[124.18333,10.13333],"type":"Point"}
+}

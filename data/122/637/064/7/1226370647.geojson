@@ -1,0 +1,72 @@
+{
+  "id": 1226370647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.8701,10.363,122.8701,10.363",
+    "geom:latitude":10.363,
+    "geom:longitude":122.8701,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64521000.0",
+    "gn:asciiname":"San Miguel Junction",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417674,
+    "gn:latitude":10.363,
+    "gn:longitude":122.8701,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Miguel Junction",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Miguel Junction"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108698937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417674
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c5f797b9607402ca87a597e7635a66a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698937,
+            "locality_id":1226370647,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1226370647,
+    "wof:lastmodified":1537678866,
+    "wof:name":"San Miguel Junction",
+    "wof:parent_id":1108698937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.8701,
+    10.363,
+    122.8701,
+    10.363
+],
+  "geometry": {"coordinates":[122.87009999999999,10.363],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125365641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.06667,13.73333,123.06667,13.73333",
+    "geom:latitude":13.73333,
+    "geom:longitude":123.06667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":17305,
+    "gn:population":17305,
+    "iso:country":"PH",
+    "lbl:latitude":13.73333,
+    "lbl:longitude":123.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Cabusao"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1721298,
+    "qs_pg:gn_pop":17305,
+    "qs_pg:name":"Cabusao",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":88139,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721298,
+        "qs_pg:id":88139
+    },
+    "wof:country":"PH",
+    "wof:created":1497047064,
+    "wof:geomhash":"7a26ea25bb4ee7343583118244673769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698069,
+            "localadmin_id":1125365641,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1125365641,
+    "wof:lastmodified":1509389196,
+    "wof:name":"Cabusao",
+    "wof:parent_id":1108698069,
+    "wof:placetype":"localadmin",
+    "wof:population":17305,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.06667,
+    13.73333,
+    123.06667,
+    13.73333
+],
+  "geometry": {"coordinates":[123.06667,13.73333],"type":"Point"}
+}

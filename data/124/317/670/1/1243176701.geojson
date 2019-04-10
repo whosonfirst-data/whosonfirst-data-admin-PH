@@ -1,0 +1,72 @@
+{
+  "id": 1243176701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.31667,13.33333,123.31667,13.33333",
+    "geom:latitude":13.33333,
+    "geom:longitude":123.31667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51703000.0",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689995,
+    "gn:latitude":13.33333,
+    "gn:longitude":123.31667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108696945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689995
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b64fcb67e76791cf840306f4f0f4aae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696945,
+            "locality_id":1243176701,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1243176701,
+    "wof:lastmodified":1537677534,
+    "wof:name":"San Francisco",
+    "wof:parent_id":1108696945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.31667,
+    13.33333,
+    123.31667,
+    13.33333
+],
+  "geometry": {"coordinates":[123.31667,13.33333],"type":"Point"}
+}

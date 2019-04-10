@@ -1,0 +1,70 @@
+{
+  "id": 890443803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1,16.38333,121.1,16.38333",
+    "geom:latitude":16.38333,
+    "geom:longitude":121.1,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":45016,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Bambang"
+    ],
+    "qs:name":"Bambang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108696861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727673,
+        "qs:id":1031378,
+        "wk:page":"Bambang"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052439,
+    "wof:geomhash":"d82d65d21d16cc2c1ddc15a2439e92a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696861,
+            "localadmin_id":890443803,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":890443803,
+    "wof:lastmodified":1527787061,
+    "wof:name":"Bambang",
+    "wof:parent_id":1108696861,
+    "wof:placetype":"localadmin",
+    "wof:population":45016,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1,
+    16.38333,
+    121.1,
+    16.38333
+],
+  "geometry": {"coordinates":[121.09999999999999,16.38333],"type":"Point"}
+}

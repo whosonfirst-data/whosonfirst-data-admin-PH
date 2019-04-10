@@ -1,0 +1,72 @@
+{
+  "id": 1343769007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8118,15.7173,120.8118,15.7173",
+    "geom:latitude":15.7173,
+    "geom:longitude":120.8118,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34931000.0",
+    "gn:asciiname":"Alula",
+    "gn:country_code":"PH",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731245,
+    "gn:latitude":15.7173,
+    "gn:longitude":120.8118,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731245
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"308efd332c409588ca61a800595fe133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699651,
+            "locality_id":1343769007,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1343769007,
+    "wof:lastmodified":1537678719,
+    "wof:name":"Alula",
+    "wof:parent_id":1108699651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8118,
+    15.7173,
+    120.8118,
+    15.7173
+],
+  "geometry": {"coordinates":[120.81180000000001,15.7173],"type":"Point"}
+}

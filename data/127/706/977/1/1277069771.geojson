@@ -1,0 +1,72 @@
+{
+  "id": 1277069771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.35,13.23333,123.35,13.23333",
+    "geom:latitude":13.23333,
+    "geom:longitude":123.35,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50507000.0",
+    "gn:asciiname":"Molosbolos",
+    "gn:country_code":"PH",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699368,
+    "gn:latitude":13.23333,
+    "gn:longitude":123.35,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Molosbolos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Molosbolos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699368
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0150d0fe74c66a46c926ae425ab1ab8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698073,
+            "locality_id":1277069771,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1277069771,
+    "wof:lastmodified":1537677799,
+    "wof:name":"Molosbolos",
+    "wof:parent_id":1108698073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.35,
+    13.23333,
+    123.35,
+    13.23333
+],
+  "geometry": {"coordinates":[123.34999999999999,13.23333],"type":"Point"}
+}

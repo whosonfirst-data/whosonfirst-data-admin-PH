@@ -1,0 +1,75 @@
+{
+  "id": 1226736781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.86907,6.52151,124.86907,6.52151",
+    "geom:latitude":6.52151,
+    "geom:longitude":124.86907,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126306000.0",
+    "gn:asciiname":"Avancena",
+    "gn:country_code":"PH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729921,
+    "gn:latitude":6.52151,
+    "gn:longitude":124.86907,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Avance\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Avance\u00f1a"
+    ],
+    "name:fil_x_variant":[
+        "Barrio Tres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108697937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729921
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"75edb7dcd1e9bed5f569d22d0ba3b784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697937,
+            "locality_id":1226736781,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":1226736781,
+    "wof:lastmodified":1537678681,
+    "wof:name":"Avancena",
+    "wof:parent_id":1108697937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.86907,
+    6.52151,
+    124.86907,
+    6.52151
+],
+  "geometry": {"coordinates":[124.86906999999999,6.52151],"type":"Point"}
+}

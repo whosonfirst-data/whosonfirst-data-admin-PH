@@ -1,0 +1,81 @@
+{
+  "id": 1125821775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.868,13.7373,123.868,13.7373",
+    "geom:latitude":13.7373,
+    "geom:longitude":123.868,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2604,
+    "gn:population":2604,
+    "iso:country":"PH",
+    "lbl:latitude":13.7373,
+    "lbl:longitude":123.868,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Guijalo"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1712519,
+    "qs_pg:gn_pop":2604,
+    "qs_pg:name":"Guijalo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":135320,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712519,
+        "qs_pg:id":135320
+    },
+    "wof:country":"PH",
+    "wof:created":1497292102,
+    "wof:geomhash":"b74468370007d57984b3829ec0701329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697273,
+            "locality_id":1125821775,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1125821775,
+    "wof:lastmodified":1509394136,
+    "wof:name":"Guijalo",
+    "wof:parent_id":1108697273,
+    "wof:placetype":"locality",
+    "wof:population":2604,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.868,
+    13.7373,
+    123.868,
+    13.7373
+],
+  "geometry": {"coordinates":[123.86799999999999,13.7373],"type":"Point"}
+}

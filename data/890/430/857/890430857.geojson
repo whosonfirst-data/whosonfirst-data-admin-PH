@@ -1,0 +1,76 @@
+{
+  "id": 890430857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59845,7.06955,125.59845,7.06955",
+    "geom:latitude":7.06955,
+    "geom:longitude":125.59845,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":1280040,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ceb_x_preferred":[
+        "Dakbayan sa Dabaw"
+    ],
+    "name:fil_x_preferred":[
+        "Dakbayan sa Dabaw"
+    ],
+    "name:unk_x_variant":[
+        "City of Davao"
+    ],
+    "qs:name":"Davao City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":5969,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715346,
+        "qs:id":87900,
+        "wd:id":"Q1473",
+        "wk:page":"Davao City"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051869,
+    "wof:geomhash":"e81fb388ebd007c634c574a752425540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890430857,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":890430857,
+    "wof:lastmodified":1527729736,
+    "wof:name":"Davao City",
+    "wof:parent_id":85676309,
+    "wof:placetype":"county",
+    "wof:population":1280040,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59845,
+    7.06955,
+    125.59845,
+    7.06955
+],
+  "geometry": {"coordinates":[125.59845,7.06955],"type":"Point"}
+}

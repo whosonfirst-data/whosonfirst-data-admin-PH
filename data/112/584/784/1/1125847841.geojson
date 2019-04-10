@@ -1,0 +1,81 @@
+{
+  "id": 1125847841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.02,6.8025,124.02,6.8025",
+    "geom:latitude":6.8025,
+    "geom:longitude":124.02,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2456,
+    "gn:population":2456,
+    "iso:country":"PH",
+    "lbl:latitude":6.8025,
+    "lbl:longitude":124.02,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Gadung"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1713413,
+    "qs_pg:gn_pop":2456,
+    "qs_pg:name":"Gadung",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87815,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108699823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713413,
+        "qs_pg:id":87815
+    },
+    "wof:country":"PH",
+    "wof:created":1497293248,
+    "wof:geomhash":"081b0b1d509c25e16d3ba19d06370e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699823,
+            "locality_id":1125847841,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":1125847841,
+    "wof:lastmodified":1509395738,
+    "wof:name":"Gadung",
+    "wof:parent_id":1108699823,
+    "wof:placetype":"locality",
+    "wof:population":2456,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.02,
+    6.8025,
+    124.02,
+    6.8025
+],
+  "geometry": {"coordinates":[124.02,6.8025],"type":"Point"}
+}

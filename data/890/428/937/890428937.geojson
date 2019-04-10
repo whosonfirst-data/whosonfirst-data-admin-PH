@@ -1,0 +1,68 @@
+{
+  "id": 890428937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.51417,7.01556,124.51417,7.01556",
+    "geom:latitude":7.01556,
+    "geom:longitude":124.51417,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3230,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Damabalas"
+    ],
+    "qs:name":"Damabalas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108697459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978291,
+        "qs:id":90307
+    },
+    "wof:country":"PH",
+    "wof:created":1469051781,
+    "wof:geomhash":"431a3846b38c63e8c729ff11ae9dafe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697459,
+            "locality_id":890428937,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890428937,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Damabalas",
+    "wof:parent_id":1108697459,
+    "wof:placetype":"locality",
+    "wof:population":3230,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.51417,
+    7.01556,
+    124.51417,
+    7.01556
+],
+  "geometry": {"coordinates":[124.51416999999999,7.01556],"type":"Point"}
+}

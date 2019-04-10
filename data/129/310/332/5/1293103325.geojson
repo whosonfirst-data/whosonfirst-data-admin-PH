@@ -1,0 +1,75 @@
+{
+  "id": 1293103325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.37627,14.21295,122.37627,14.21295",
+    "geom:latitude":14.21295,
+    "geom:longitude":122.37627,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51610000.0",
+    "gn:asciiname":"Palong Guitguit",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693074,
+    "gn:latitude":14.21295,
+    "gn:longitude":122.37627,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palong Guitguit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palong Guitguit"
+    ],
+    "name:und_x_variant":[
+        "Polongguit-guit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676017,
+        1108699359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693074
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f7417fbafbdd734d193c565941130888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699359,
+            "locality_id":1293103325,
+            "region_id":85676017
+        }
+    ],
+    "wof:id":1293103325,
+    "wof:lastmodified":1537677618,
+    "wof:name":"Palong Guitguit",
+    "wof:parent_id":1108699359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.37627,
+    14.21295,
+    122.37627,
+    14.21295
+],
+  "geometry": {"coordinates":[122.37627000000001,14.21295],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890432291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4329,16.3331,120.4329,16.3331",
+    "geom:latitude":16.3331,
+    "geom:longitude":120.4329,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5800,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lloren"
+    ],
+    "name:fil_x_variant":[
+        "San Pascual"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d - \u041f\u0430\u0441\u043a\u0443\u0430\u043b\u044c"
+    ],
+    "name:unk_x_variant":[
+        "San Pascual"
+    ],
+    "qs:name":"Lloren",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688789,
+        "gp:id":1186037,
+        "qs:id":134306
+    },
+    "wof:country":"PH",
+    "wof:created":1469051935,
+    "wof:geomhash":"86bb52aaa64df25e0a02b3c65bc534ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699771,
+            "locality_id":890432291,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":890432291,
+    "wof:lastmodified":1505343528,
+    "wof:name":"Lloren",
+    "wof:parent_id":1108699771,
+    "wof:placetype":"locality",
+    "wof:population":5800,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4329,
+    16.3331,
+    120.4329,
+    16.3331
+],
+  "geometry": {"coordinates":[120.4329,16.3331],"type":"Point"}
+}

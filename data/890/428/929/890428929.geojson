@@ -1,0 +1,77 @@
+{
+  "id": 890428929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91083,6.79583,124.91083,6.79583",
+    "geom:latitude":6.79583,
+    "geom:longitude":124.91083,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4742,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bialong"
+    ],
+    "qs:name":"Bual",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108697457,
+        85676179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723726,
+        "gp:id":91427602,
+        "qs:id":85931
+    },
+    "wof:country":"PH",
+    "wof:created":1469051781,
+    "wof:geomhash":"39f9629e9182220b4f736c9c76c957fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697457,
+            "locality_id":890428929,
+            "region_id":85676173
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697457,
+            "locality_id":890428929,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":890428929,
+    "wof:lastmodified":1505343509,
+    "wof:name":"Bual",
+    "wof:parent_id":1108697457,
+    "wof:placetype":"locality",
+    "wof:population":4742,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91083,
+    6.79583,
+    124.91083,
+    6.79583
+],
+  "geometry": {"coordinates":[124.91083,6.79583],"type":"Point"}
+}

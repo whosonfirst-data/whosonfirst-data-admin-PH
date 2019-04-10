@@ -1,0 +1,72 @@
+{
+  "id": 1293201521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61664,15.81828,120.61664,15.81828",
+    "geom:latitude":15.81828,
+    "geom:longitude":120.61664,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:asciiname":"Tucdan",
+    "gn:country_code":"PH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681039,
+    "gn:latitude":15.81828,
+    "gn:longitude":120.61664,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Tucdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tucdao",
+        "Tucdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681039
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b42f43f55905e55d6bda9abf26848d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699035,
+            "locality_id":1293201521,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1293201521,
+    "wof:lastmodified":1537677280,
+    "wof:name":"Tucdan",
+    "wof:parent_id":1108699035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61664,
+    15.81828,
+    120.61664,
+    15.81828
+],
+  "geometry": {"coordinates":[120.61664,15.81828],"type":"Point"}
+}

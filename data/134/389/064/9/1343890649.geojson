@@ -1,0 +1,75 @@
+{
+  "id": 1343890649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.47408,12.39919,122.47408,12.39919",
+    "geom:latitude":12.39919,
+    "geom:longitude":122.47408,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"54",
+    "gn:admin3_code":"175913000.0",
+    "gn:asciiname":"Mabolo",
+    "gn:country_code":"PH",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704493,
+    "gn:latitude":12.39919,
+    "gn:longitude":122.47408,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabolo"
+    ],
+    "name:und_x_variant":[
+        "Mabulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676007,
+        1108699159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704493
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c67199b60a857c9fc69f3fcd96ae907c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699159,
+            "locality_id":1343890649,
+            "region_id":85676007
+        }
+    ],
+    "wof:id":1343890649,
+    "wof:lastmodified":1537677940,
+    "wof:name":"Mabolo",
+    "wof:parent_id":1108699159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.47408,
+    12.39919,
+    122.47408,
+    12.39919
+],
+  "geometry": {"coordinates":[122.47408,12.39919],"type":"Point"}
+}

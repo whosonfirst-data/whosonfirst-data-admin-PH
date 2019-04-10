@@ -1,0 +1,72 @@
+{
+  "id": 890431685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.5049,11.3574,119.5049,11.3574",
+    "geom:latitude":11.3574,
+    "geom:longitude":119.5049,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3267,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tiniguiban"
+    ],
+    "name:unk_x_variant":[
+        "Teneguiban"
+    ],
+    "qs:name":"Tiniguiban",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681820,
+        "gp:id":1196369,
+        "qs:id":134006
+    },
+    "wof:country":"PH",
+    "wof:created":1469051903,
+    "wof:geomhash":"5f526a4c6822740b9d0fd8f65e1b23bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697563,
+            "locality_id":890431685,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":890431685,
+    "wof:lastmodified":1505343525,
+    "wof:name":"Tiniguiban",
+    "wof:parent_id":1108697563,
+    "wof:placetype":"locality",
+    "wof:population":3267,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.5049,
+    11.3574,
+    119.5049,
+    11.3574
+],
+  "geometry": {"coordinates":[119.50490000000001,11.3574],"type":"Point"}
+}

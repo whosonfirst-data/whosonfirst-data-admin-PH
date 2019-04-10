@@ -1,0 +1,69 @@
+{
+  "id": 890431397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.81231,9.62157,123.81231,9.62157",
+    "geom:latitude":9.62157,
+    "geom:longitude":123.81231,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2294,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tabalong"
+    ],
+    "qs:name":"Tabalong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685102,
+        "gp:id":1163828,
+        "qs:id":134151
+    },
+    "wof:country":"PH",
+    "wof:created":1469051889,
+    "wof:geomhash":"920ad10259cda387d8b8c978073d06b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697465,
+            "locality_id":890431397,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890431397,
+    "wof:lastmodified":1505343523,
+    "wof:name":"Tabalong",
+    "wof:parent_id":1108697465,
+    "wof:placetype":"locality",
+    "wof:population":2294,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.81231,
+    9.62157,
+    123.81231,
+    9.62157
+],
+  "geometry": {"coordinates":[123.81231,9.62157],"type":"Point"}
+}

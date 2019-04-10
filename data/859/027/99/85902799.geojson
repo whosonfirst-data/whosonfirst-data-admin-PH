@@ -1,0 +1,112 @@
+{
+  "id": 85902799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":50095418.155593,
+    "geom:bbox":"123.743154,13.160736,123.743154,13.160736",
+    "geom:latitude":13.160736,
+    "geom:longitude":123.743154,
+    "gn:latitude":13.15472,
+    "gn:longitude":123.75417,
+    "gn:population":4509,
+    "iso:country":"PH",
+    "lbl:latitude":13.160736,
+    "lbl:longitude":123.743154,
+    "mps:latitude":13.155623,
+    "mps:longitude":123.740132,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "San Roque"
+    ],
+    "name:fil_x_preferred":[
+        "San Roque"
+    ],
+    "name:unk_x_variant":[
+        "San Roque"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"San Roque",
+    "qs:local_max":947,
+    "qs:local_sum":947,
+    "qs:localhoods":1,
+    "qs:name":"San Roque",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Bicol Region",
+    "qs:name_adm2":"Albay",
+    "qs:name_local":"Legazpi City",
+    "qs:photo_max":265,
+    "qs:photo_sum":947,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":46,
+    "qs:woe_adm0":23424934,
+    "qs:woe_adm1":23424720,
+    "qs:woe_adm2":2346660,
+    "qs:woe_lau":0,
+    "qs:woe_local":1199350,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1108698043,
+        85676011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688462,
+        "gp:id":1191812,
+        "qs:id":188539
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"70b69253c616d480127c7420e8541438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698043,
+            "locality_id":-1,
+            "neighbourhood_id":85902799,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":85902799,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935943,
+    "wof:name":"San Roque",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":4509,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.743154,
+    13.160736,
+    123.743154,
+    13.160736
+],
+  "geometry": {"coordinates":[123.743154,13.160736],"type":"Point"}
+}

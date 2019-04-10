@@ -1,0 +1,72 @@
+{
+  "id": 1242756241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7916,8.1943,123.7916,8.1943",
+    "geom:latitude":8.1943,
+    "geom:longitude":123.7916,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104210000.0",
+    "gn:asciiname":"Cabunga-an",
+    "gn:country_code":"PH",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6676016,
+    "gn:latitude":8.1943,
+    "gn:longitude":123.7916,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabunga-an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Cabunga-an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108697357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6676016
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a7083544b56a80e80721583abd4c861a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697357,
+            "locality_id":1242756241,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1242756241,
+    "wof:lastmodified":1537678826,
+    "wof:name":"Cabunga-an",
+    "wof:parent_id":1108697357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7916,
+    8.1943,
+    123.7916,
+    8.1943
+],
+  "geometry": {"coordinates":[123.7916,8.1943],"type":"Point"}
+}

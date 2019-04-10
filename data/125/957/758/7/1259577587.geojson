@@ -1,0 +1,72 @@
+{
+  "id": 1259577587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5562,10.0624,123.5562,10.0624",
+    "geom:latitude":10.0624,
+    "geom:longitude":123.5562,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72210000.0",
+    "gn:asciiname":"Ongca",
+    "gn:country_code":"PH",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697105,
+    "gn:latitude":10.0624,
+    "gn:longitude":123.5562,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ongca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ongca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697105
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"558526f56c706f059d63aa3079afb39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699475,
+            "locality_id":1259577587,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1259577587,
+    "wof:lastmodified":1537677734,
+    "wof:name":"Ongca",
+    "wof:parent_id":1108699475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5562,
+    10.0624,
+    123.5562,
+    10.0624
+],
+  "geometry": {"coordinates":[123.5562,10.0624],"type":"Point"}
+}

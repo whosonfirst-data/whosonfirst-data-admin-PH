@@ -1,0 +1,75 @@
+{
+  "id": 890450965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0373,15.1481,121.0373,15.1481",
+    "geom:latitude":15.1481,
+    "geom:longitude":121.0373,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2532,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Masalipit"
+    ],
+    "name:fil_x_variant":[
+        "Mansalipit"
+    ],
+    "name:unk_x_variant":[
+        "Mansalipit"
+    ],
+    "qs:name":"Masalipit",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135,
+        1108699265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700774,
+        "gp:id":28343491,
+        "qs:id":87264
+    },
+    "wof:country":"PH",
+    "wof:created":1469052760,
+    "wof:geomhash":"49c56ef8c849caee0830c1a0868fe43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699265,
+            "locality_id":890450965,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":890450965,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Masalipit",
+    "wof:parent_id":1108699265,
+    "wof:placetype":"locality",
+    "wof:population":2532,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0373,
+    15.1481,
+    121.0373,
+    15.1481
+],
+  "geometry": {"coordinates":[121.0373,15.1481],"type":"Point"}
+}

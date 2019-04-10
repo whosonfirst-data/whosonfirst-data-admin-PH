@@ -1,0 +1,72 @@
+{
+  "id": 1343446717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3776,9.4684,123.3776,9.4684",
+    "geom:latitude":9.4684,
+    "geom:longitude":123.3776,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72235000.0",
+    "gn:asciiname":"Magambac",
+    "gn:country_code":"PH",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425760,
+    "gn:latitude":9.4684,
+    "gn:longitude":123.3776,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Magambac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Magambac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425760
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3f33185522a13bfd7986901a12109234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698709,
+            "locality_id":1343446717,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1343446717,
+    "wof:lastmodified":1537678899,
+    "wof:name":"Magambac",
+    "wof:parent_id":1108698709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3776,
+    9.4684,
+    123.3776,
+    9.4684
+],
+  "geometry": {"coordinates":[123.3776,9.4684],"type":"Point"}
+}

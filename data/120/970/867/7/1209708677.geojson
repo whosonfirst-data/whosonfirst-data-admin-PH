@@ -1,0 +1,72 @@
+{
+  "id": 1209708677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1384,12.9823,123.1384,12.9823",
+    "geom:latitude":12.9823,
+    "geom:longitude":123.1384,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54107000.0",
+    "gn:asciiname":"Bunga",
+    "gn:country_code":"PH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374214,
+    "gn:latitude":12.9823,
+    "gn:longitude":123.1384,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374214
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"989e001fb5437265e2850fd22f592072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699295,
+            "locality_id":1209708677,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1209708677,
+    "wof:lastmodified":1537678836,
+    "wof:name":"Bunga",
+    "wof:parent_id":1108699295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1384,
+    12.9823,
+    123.1384,
+    12.9823
+],
+  "geometry": {"coordinates":[123.1384,12.9823],"type":"Point"}
+}

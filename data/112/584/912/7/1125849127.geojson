@@ -1,0 +1,81 @@
+{
+  "id": 1125849127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5753,18.1188,120.5753,18.1188",
+    "geom:latitude":18.1188,
+    "geom:longitude":120.5753,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3045,
+    "gn:population":3045,
+    "iso:country":"PH",
+    "lbl:latitude":18.1188,
+    "lbl:longitude":120.5753,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Baay"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1729803,
+    "qs_pg:gn_pop":3045,
+    "qs_pg:name":"Baay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88482,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729803,
+        "qs_pg:id":88482
+    },
+    "wof:country":"PH",
+    "wof:created":1497293307,
+    "wof:geomhash":"ae7f819d6e43ea279ed62151e595118e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696933,
+            "locality_id":1125849127,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1125849127,
+    "wof:lastmodified":1509395818,
+    "wof:name":"Baay",
+    "wof:parent_id":1108696933,
+    "wof:placetype":"locality",
+    "wof:population":3045,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5753,
+    18.1188,
+    120.5753,
+    18.1188
+],
+  "geometry": {"coordinates":[120.5753,18.1188],"type":"Point"}
+}

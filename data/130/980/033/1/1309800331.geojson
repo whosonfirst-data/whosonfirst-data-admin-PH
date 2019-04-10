@@ -1,0 +1,72 @@
+{
+  "id": 1309800331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9,9.65,123.9,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":123.9,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71205000.0",
+    "gn:asciiname":"Canguming",
+    "gn:country_code":"PH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719156,
+    "gn:latitude":9.65,
+    "gn:longitude":123.9,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Canguming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Canguming"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108696741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719156
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4b8e440888b27fcd6654858bd4bcb4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696741,
+            "locality_id":1309800331,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1309800331,
+    "wof:lastmodified":1537678354,
+    "wof:name":"Canguming",
+    "wof:parent_id":1108696741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9,
+    9.65,
+    123.9,
+    9.65
+],
+  "geometry": {"coordinates":[123.90000000000001,9.65],"type":"Point"}
+}

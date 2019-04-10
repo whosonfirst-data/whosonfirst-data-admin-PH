@@ -1,0 +1,72 @@
+{
+  "id": 1226666247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8858,9.8459,123.8858,9.8459",
+    "geom:latitude":9.8459,
+    "geom:longitude":123.8858,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71210000.0",
+    "gn:asciiname":"Cabudburan",
+    "gn:country_code":"PH",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721467,
+    "gn:latitude":9.8459,
+    "gn:longitude":123.8858,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabudburan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabudburan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721467
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c9c05af9b41f8f423f065712f896598a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697207,
+            "locality_id":1226666247,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1226666247,
+    "wof:lastmodified":1537678427,
+    "wof:name":"Cabudburan",
+    "wof:parent_id":1108697207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8858,
+    9.8459,
+    123.8858,
+    9.8459
+],
+  "geometry": {"coordinates":[123.8858,9.8459],"type":"Point"}
+}

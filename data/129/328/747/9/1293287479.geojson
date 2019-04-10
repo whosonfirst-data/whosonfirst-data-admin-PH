@@ -1,0 +1,75 @@
+{
+  "id": 1293287479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.095,11.3406,123.095,11.3406",
+    "geom:latitude":11.3406,
+    "geom:longitude":123.095,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63038000.0",
+    "gn:asciiname":"Cubay",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716648,
+    "gn:latitude":11.3406,
+    "gn:longitude":123.095,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cubay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cubay"
+    ],
+    "name:und_x_variant":[
+        "Cubacy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716648
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fc249df45fdb80677a672eb94f45d8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699129,
+            "locality_id":1293287479,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1293287479,
+    "wof:lastmodified":1537678283,
+    "wof:name":"Cubay",
+    "wof:parent_id":1108699129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.095,
+    11.3406,
+    123.095,
+    11.3406
+],
+  "geometry": {"coordinates":[123.095,11.3406],"type":"Point"}
+}

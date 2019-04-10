@@ -1,0 +1,66 @@
+{
+  "id": 1209119863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5276,16.17,120.5276,16.17",
+    "geom:latitude":16.17,
+    "geom:longitude":120.5276,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15541000.0",
+    "gn:asciiname":"Paldit",
+    "gn:country_code":"PH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696148,
+    "gn:latitude":16.17,
+    "gn:longitude":120.5276,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Paldit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Paldit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696148
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"90c9ef0b79708c77a145352d16f0279a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209119863
+        }
+    ],
+    "wof:id":1209119863,
+    "wof:lastmodified":1537677704,
+    "wof:name":"Paldit",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5276,
+    16.17,
+    120.5276,
+    16.17
+],
+  "geometry": {"coordinates":[120.52760000000001,16.17],"type":"Point"}
+}

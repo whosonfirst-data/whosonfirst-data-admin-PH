@@ -1,0 +1,73 @@
+{
+  "id": 890432763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.38333,13.56667,123.38333,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":123.38333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":38790,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Ocampo"
+    ],
+    "name:unk_x_variant":[
+        "Matobato"
+    ],
+    "qs:name":"Ocampo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697333,
+        "qs:id":87129,
+        "wk:page":"Ocampo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051953,
+    "wof:geomhash":"ef11467f7c24b7a7efcc202452820498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698889,
+            "localadmin_id":890432763,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890432763,
+    "wof:lastmodified":1527793031,
+    "wof:name":"Ocampo",
+    "wof:parent_id":1108698889,
+    "wof:placetype":"localadmin",
+    "wof:population":38790,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.38333,
+    13.56667,
+    123.38333,
+    13.56667
+],
+  "geometry": {"coordinates":[123.38333,13.56667],"type":"Point"}
+}

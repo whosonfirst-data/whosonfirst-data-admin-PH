@@ -1,0 +1,72 @@
+{
+  "id": 1343766705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9191,13.2701,123.9191,13.2701",
+    "geom:latitude":13.2701,
+    "geom:longitude":123.9191,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50515000.0",
+    "gn:asciiname":"Bincalon",
+    "gn:country_code":"PH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725038,
+    "gn:latitude":13.2701,
+    "gn:longitude":123.9191,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bincalon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bincalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725038
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4ceaffffa11f61d3bf51c5a661cfcc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698583,
+            "locality_id":1343766705,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1343766705,
+    "wof:lastmodified":1537678534,
+    "wof:name":"Bincalon",
+    "wof:parent_id":1108698583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9191,
+    13.2701,
+    123.9191,
+    13.2701
+],
+  "geometry": {"coordinates":[123.9191,13.2701],"type":"Point"}
+}

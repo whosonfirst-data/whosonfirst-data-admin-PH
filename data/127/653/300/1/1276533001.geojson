@@ -1,0 +1,75 @@
+{
+  "id": 1276533001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3065,11.8055,124.3065,11.8055",
+    "geom:latitude":11.8055,
+    "geom:longitude":124.3065,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"H9",
+    "gn:admin3_code":"87807000.0",
+    "gn:asciiname":"Viga",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679995,
+    "gn:latitude":11.8055,
+    "gn:longitude":124.3065,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Viga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Viga"
+    ],
+    "name:und_x_variant":[
+        "Vega"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676187,
+        1108698407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679995
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"87f9742ff57652e67abf9db29ba87ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698407,
+            "locality_id":1276533001,
+            "region_id":85676187
+        }
+    ],
+    "wof:id":1276533001,
+    "wof:lastmodified":1537677249,
+    "wof:name":"Viga",
+    "wof:parent_id":1108698407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3065,
+    11.8055,
+    124.3065,
+    11.8055
+],
+  "geometry": {"coordinates":[124.3065,11.8055],"type":"Point"}
+}

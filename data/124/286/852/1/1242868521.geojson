@@ -1,0 +1,72 @@
+{
+  "id": 1242868521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1326,7.5187,123.1326,7.5187",
+    "geom:latitude":7.5187,
+    "geom:longitude":123.1326,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97341000.0",
+    "gn:asciiname":"Blu-os",
+    "gn:country_code":"PH",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958308,
+    "gn:latitude":7.5187,
+    "gn:longitude":123.1326,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Blu-os",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Blu-os"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958308
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6462cb7ea19b8ce7ad797d3edd62e593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699879,
+            "locality_id":1242868521,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1242868521,
+    "wof:lastmodified":1537678784,
+    "wof:name":"Blu-os",
+    "wof:parent_id":1108699879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1326,
+    7.5187,
+    123.1326,
+    7.5187
+],
+  "geometry": {"coordinates":[123.1326,7.5187],"type":"Point"}
+}

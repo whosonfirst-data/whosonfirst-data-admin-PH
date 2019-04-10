@@ -1,0 +1,70 @@
+{
+  "id": 890451431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6,16.41667,120.6,16.41667",
+    "geom:latitude":16.41667,
+    "geom:longitude":120.6,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":272854,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Lungsod ng Baguio"
+    ],
+    "name:unk_x_variant":[
+        "Baguio"
+    ],
+    "qs:name":"Baguio City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728929,
+        "qs:id":88438
+    },
+    "wof:country":"PH",
+    "wof:created":1469052779,
+    "wof:geomhash":"c530e74be18e87f9ce9f7f4ce6bc0c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890451431,
+            "region_id":85676359
+        }
+    ],
+    "wof:id":890451431,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Baguio City",
+    "wof:parent_id":85676359,
+    "wof:placetype":"county",
+    "wof:population":272854,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6,
+    16.41667,
+    120.6,
+    16.41667
+],
+  "geometry": {"coordinates":[120.59999999999999,16.41667],"type":"Point"}
+}

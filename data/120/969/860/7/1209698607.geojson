@@ -1,0 +1,78 @@
+{
+  "id": 1209698607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.30935,17.56442,121.30935,17.56442",
+    "geom:latitude":17.56442,
+    "geom:longitude":121.30935,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143209000.0",
+    "gn:asciiname":"Agantan",
+    "gn:country_code":"PH",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732181,
+    "gn:latitude":17.56442,
+    "gn:longitude":121.30935,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Agantan"
+    ],
+    "name:fil_x_variant":[
+        "Aganlan"
+    ],
+    "name:und_x_variant":[
+        "Aganlan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732181
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7999f9502eddbaed1e650e986990ffdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698907,
+            "locality_id":1209698607,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1209698607,
+    "wof:lastmodified":1537678746,
+    "wof:name":"Agantan",
+    "wof:parent_id":1108698907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.30935,
+    17.56442,
+    121.30935,
+    17.56442
+],
+  "geometry": {"coordinates":[121.30934999999999,17.56442],"type":"Point"}
+}

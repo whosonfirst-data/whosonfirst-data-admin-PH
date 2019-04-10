@@ -1,0 +1,72 @@
+{
+  "id": 1209947359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1214,10.7688,123.1214,10.7688",
+    "geom:latitude":10.7688,
+    "geom:longitude":123.1214,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64526000.0",
+    "gn:asciiname":"Napilas",
+    "gn:country_code":"PH",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698185,
+    "gn:latitude":10.7688,
+    "gn:longitude":123.1214,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Napilas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Napilas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698185
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ad7b4d6e7c90771eac721761538b10bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699495,
+            "locality_id":1209947359,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1209947359,
+    "wof:lastmodified":1537677763,
+    "wof:name":"Napilas",
+    "wof:parent_id":1108699495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1214,
+    10.7688,
+    123.1214,
+    10.7688
+],
+  "geometry": {"coordinates":[123.12139999999999,10.7688],"type":"Point"}
+}

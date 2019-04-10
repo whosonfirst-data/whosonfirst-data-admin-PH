@@ -1,0 +1,75 @@
+{
+  "id": 890415743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7296,14.0311,120.7296,14.0311",
+    "geom:latitude":14.0311,
+    "geom:longitude":120.7296,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2375,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mataywanac"
+    ],
+    "name:fil_x_variant":[
+        "Matayuanac"
+    ],
+    "name:unk_x_variant":[
+        "Matayuanac"
+    ],
+    "qs:name":"Mataywanac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700377,
+        "gp:id":1163269,
+        "qs:id":134833
+    },
+    "wof:country":"PH",
+    "wof:created":1469051100,
+    "wof:geomhash":"3f20dfd69b28ce6c196dd0c8d03efda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699815,
+            "locality_id":890415743,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890415743,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Mataywanac",
+    "wof:parent_id":1108699815,
+    "wof:placetype":"locality",
+    "wof:population":2375,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7296,
+    14.0311,
+    120.7296,
+    14.0311
+],
+  "geometry": {"coordinates":[120.7296,14.0311],"type":"Point"}
+}

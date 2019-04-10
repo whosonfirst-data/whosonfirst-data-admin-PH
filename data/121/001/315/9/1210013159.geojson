@@ -1,0 +1,75 @@
+{
+  "id": 1210013159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.06655,10.03468,124.06655,10.03468",
+    "geom:latitude":10.03468,
+    "geom:longitude":124.06655,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71224000.0",
+    "gn:asciiname":"Ilaud",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711125,
+    "gn:latitude":10.03468,
+    "gn:longitude":124.06655,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ilaud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ilaud"
+    ],
+    "name:und_x_variant":[
+        "Ilauod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711125
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"408d66f88ce90d2f5efe3b5a3ee11ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697761,
+            "locality_id":1210013159,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1210013159,
+    "wof:lastmodified":1537678130,
+    "wof:name":"Ilaud",
+    "wof:parent_id":1108697761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.06655,
+    10.03468,
+    124.06655,
+    10.03468
+],
+  "geometry": {"coordinates":[124.06655000000001,10.03468],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327366361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8123,11.3856,119.8123,11.3856",
+    "geom:latitude":11.3856,
+    "geom:longitude":119.8123,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175313000.0",
+    "gn:asciiname":"San Nicolas",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688898,
+    "gn:latitude":11.3856,
+    "gn:longitude":119.8123,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Nicolas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Nicolas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688898
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4500d2cb29981ffba6d4466c06fc1228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697563,
+            "locality_id":1327366361,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1327366361,
+    "wof:lastmodified":1537677498,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":1108697563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8123,
+    11.3856,
+    119.8123,
+    11.3856
+],
+  "geometry": {"coordinates":[119.81229999999999,11.3856],"type":"Point"}
+}

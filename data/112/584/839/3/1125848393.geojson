@@ -1,0 +1,84 @@
+{
+  "id": 1125848393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4765,10.60986,123.4765,10.60986",
+    "geom:latitude":10.60986,
+    "geom:longitude":123.4765,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2382,
+    "gn:population":2382,
+    "iso:country":"PH",
+    "lbl:latitude":10.60986,
+    "lbl:longitude":123.4765,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Calampisauan"
+    ],
+    "name:unk_x_variant":[
+        "Calampisawan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1720656,
+    "qs_pg:gn_pop":2382,
+    "qs_pg:name":"Calampisauan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88111,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720656,
+        "qs_pg:id":88111
+    },
+    "wof:country":"PH",
+    "wof:created":1497293272,
+    "wof:geomhash":"05cbd1c665d42ea136c62ed5f3441bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697215,
+            "locality_id":1125848393,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125848393,
+    "wof:lastmodified":1509395777,
+    "wof:name":"Calampisauan",
+    "wof:parent_id":1108697215,
+    "wof:placetype":"locality",
+    "wof:population":2382,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4765,
+    10.60986,
+    123.4765,
+    10.60986
+],
+  "geometry": {"coordinates":[123.4765,10.60986],"type":"Point"}
+}

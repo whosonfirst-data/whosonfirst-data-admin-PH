@@ -1,0 +1,66 @@
+{
+  "id": 890429771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.57083,13.95694,121.57083,13.95694",
+    "geom:latitude":13.95694,
+    "geom:longitude":121.57083,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3497,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Isabang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710526,
+        "gp:id":1175013,
+        "qs:id":87699
+    },
+    "wof:country":"PH",
+    "wof:created":1469051828,
+    "wof:geomhash":"605e9586b86b7ab82aa82086b69a818f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699703,
+            "locality_id":890429771,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890429771,
+    "wof:lastmodified":1505343514,
+    "wof:name":"Isabang",
+    "wof:parent_id":1108699703,
+    "wof:placetype":"locality",
+    "wof:population":3497,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.57083,
+    13.95694,
+    121.57083,
+    13.95694
+],
+  "geometry": {"coordinates":[121.57083,13.95694],"type":"Point"}
+}

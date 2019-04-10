@@ -1,0 +1,74 @@
+{
+  "id": 1309742767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.48111,10.71472,119.48111,10.71472",
+    "geom:latitude":10.71472,
+    "geom:longitude":119.48111,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175320000.0",
+    "gn:asciiname":"Guigol",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712534,
+    "gn:latitude":10.71472,
+    "gn:longitude":119.48111,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Guigol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Old Guinlo",
+        "Guigol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712534
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e14400cfd9f524fca6cdd693a9513724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699709,
+            "locality_id":1309742767,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1309742767,
+    "wof:lastmodified":1537678169,
+    "wof:name":"Guigol",
+    "wof:parent_id":1108699709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.48111000000002,
+    10.71472,
+    119.48111000000002,
+    10.71472
+],
+  "geometry": {"coordinates":[119.48111000000002,10.71472],"type":"Point"}
+}

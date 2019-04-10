@@ -1,0 +1,72 @@
+{
+  "id": 1243474503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.98778,10.83167,123.98778,10.83167",
+    "geom:latitude":10.83167,
+    "geom:longitude":123.98778,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72213000.0",
+    "gn:asciiname":"Lawa",
+    "gn:country_code":"PH",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707030,
+    "gn:latitude":10.83167,
+    "gn:longitude":123.98778,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707030
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5c29c8f91dc7db1b76fe30b9ce2db01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697059,
+            "locality_id":1243474503,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1243474503,
+    "wof:lastmodified":1537678014,
+    "wof:name":"Lawa",
+    "wof:parent_id":1108697059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.98778,
+    10.83167,
+    123.98778,
+    10.83167
+],
+  "geometry": {"coordinates":[123.98778,10.83167],"type":"Point"}
+}

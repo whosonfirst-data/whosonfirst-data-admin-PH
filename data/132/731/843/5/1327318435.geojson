@@ -1,0 +1,78 @@
+{
+  "id": 1327318435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3937,11.5987,124.3937,11.5987",
+    "geom:latitude":11.5987,
+    "geom:longitude":124.3937,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"H9",
+    "gn:admin3_code":"87801000.0",
+    "gn:asciiname":"Jamoraon",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710321,
+    "gn:latitude":11.5987,
+    "gn:longitude":124.3937,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Jamoraon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Jamoraon"
+    ],
+    "name:und_x_variant":[
+        "Hamurawon",
+        "Jamuraon",
+        "Jamorawon",
+        "Jamoraon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676187,
+        1108696647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710321
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"111a9565c653ec67dea6f77979362fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696647,
+            "locality_id":1327318435,
+            "region_id":85676187
+        }
+    ],
+    "wof:id":1327318435,
+    "wof:lastmodified":1537678109,
+    "wof:name":"Jamoraon",
+    "wof:parent_id":1108696647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3937,
+    11.5987,
+    124.3937,
+    11.5987
+],
+  "geometry": {"coordinates":[124.3937,11.5987],"type":"Point"}
+}

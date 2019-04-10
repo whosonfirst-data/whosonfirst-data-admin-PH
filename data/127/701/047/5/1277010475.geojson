@@ -1,0 +1,72 @@
+{
+  "id": 1277010475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0645,9.0708,123.0645,9.0708",
+    "geom:latitude":9.0708,
+    "geom:longitude":123.0645,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74619000.0",
+    "gn:asciiname":"Saksak",
+    "gn:country_code":"PH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7415880,
+    "gn:latitude":9.0708,
+    "gn:longitude":123.0645,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Saksak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Saksak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7415880
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1040980a35da5f5fb30b370c11fa85cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699465,
+            "locality_id":1277010475,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1277010475,
+    "wof:lastmodified":1537678860,
+    "wof:name":"Saksak",
+    "wof:parent_id":1108699465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0645,
+    9.0708,
+    123.0645,
+    9.0708
+],
+  "geometry": {"coordinates":[123.0645,9.0708],"type":"Point"}
+}

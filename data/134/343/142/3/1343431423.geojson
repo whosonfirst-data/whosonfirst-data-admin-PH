@@ -1,0 +1,72 @@
+{
+  "id": 1343431423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2,5.96667,121.2,5.96667",
+    "geom:latitude":5.96667,
+    "geom:longitude":121.2,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156616000.0",
+    "gn:asciiname":"Paiksa",
+    "gn:country_code":"PH",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696447,
+    "gn:latitude":5.96667,
+    "gn:longitude":121.2,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Paiksa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Paiksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696447
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6213eac12da942c7963ae8883000c871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698767,
+            "locality_id":1343431423,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1343431423,
+    "wof:lastmodified":1537677713,
+    "wof:name":"Paiksa",
+    "wof:parent_id":1108698767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2,
+    5.96667,
+    121.2,
+    5.96667
+],
+  "geometry": {"coordinates":[121.2,5.96667],"type":"Point"}
+}

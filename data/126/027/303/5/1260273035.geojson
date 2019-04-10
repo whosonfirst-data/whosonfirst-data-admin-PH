@@ -1,0 +1,75 @@
+{
+  "id": 1260273035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5001,11.1865,124.5001,11.1865",
+    "geom:latitude":11.1865,
+    "geom:longitude":124.5001,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83733000.0",
+    "gn:asciiname":"Bayanacab",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725855,
+    "gn:latitude":11.1865,
+    "gn:longitude":124.5001,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bayanacab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bayanacab"
+    ],
+    "name:und_x_variant":[
+        "Bayanacao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108697887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725855
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"42de541835619df98125ded1980e3f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697887,
+            "locality_id":1260273035,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1260273035,
+    "wof:lastmodified":1537678559,
+    "wof:name":"Bayanacab",
+    "wof:parent_id":1108697887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5001,
+    11.1865,
+    124.5001,
+    11.1865
+],
+  "geometry": {"coordinates":[124.5001,11.1865],"type":"Point"}
+}

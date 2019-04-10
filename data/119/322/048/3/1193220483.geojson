@@ -1,0 +1,72 @@
+{
+  "id": 1193220483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28834,13.94318,121.28834,13.94318",
+    "geom:latitude":13.94318,
+    "geom:longitude":121.28834,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45648000.0",
+    "gn:asciiname":"Tamisian",
+    "gn:country_code":"PH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313841,
+    "gn:latitude":13.94318,
+    "gn:longitude":121.28834,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tamisian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tamisan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313841
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fa61ed30ff711e23a6a434470cb4554d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699723,
+            "locality_id":1193220483,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1193220483,
+    "wof:lastmodified":1537679062,
+    "wof:name":"Tamisian",
+    "wof:parent_id":1108699723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28834,
+    13.94318,
+    121.28834,
+    13.94318
+],
+  "geometry": {"coordinates":[121.28834000000001,13.94318],"type":"Point"}
+}

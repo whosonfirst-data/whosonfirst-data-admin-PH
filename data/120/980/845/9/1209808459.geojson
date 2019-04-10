@@ -1,0 +1,72 @@
+{
+  "id": 1209808459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.06667,13.66667,123.06667,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":123.06667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51718000.0",
+    "gn:asciiname":"Aba",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732534,
+    "gn:latitude":13.66667,
+    "gn:longitude":123.06667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Aba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732534
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1e134c6eced768777f79996a96a3b4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698069,
+            "locality_id":1209808459,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1209808459,
+    "wof:lastmodified":1537678757,
+    "wof:name":"Aba",
+    "wof:parent_id":1108698069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.06667,
+    13.66667,
+    123.06667,
+    13.66667
+],
+  "geometry": {"coordinates":[123.06667,13.66667],"type":"Point"}
+}

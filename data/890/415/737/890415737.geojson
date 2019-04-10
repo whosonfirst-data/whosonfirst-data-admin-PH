@@ -1,0 +1,67 @@
+{
+  "id": 890415737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9362,7.0828,125.9362,7.0828",
+    "geom:latitude":7.0828,
+    "geom:longitude":125.9362,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2814,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Matiao"
+    ],
+    "qs:name":"Matiao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700346,
+        "gp:id":91420138,
+        "qs:id":134830
+    },
+    "wof:country":"PH",
+    "wof:created":1469051100,
+    "wof:geomhash":"4304d34af5f344113bfb44992724e08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890415737,
+            "region_id":85676235
+        }
+    ],
+    "wof:id":890415737,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Matiao",
+    "wof:parent_id":85676235,
+    "wof:placetype":"locality",
+    "wof:population":2814,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9362,
+    7.0828,
+    125.9362,
+    7.0828
+],
+  "geometry": {"coordinates":[125.9362,7.0828],"type":"Point"}
+}

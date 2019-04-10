@@ -1,0 +1,75 @@
+{
+  "id": 890442831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11704,14.19504,121.11704,14.19504",
+    "geom:latitude":14.19504,
+    "geom:longitude":121.11704,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":0,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lungsod ng Calamba"
+    ],
+    "name:fil_x_variant":[
+        "Calamba",
+        "Calamba City"
+    ],
+    "qs:name":"City of Calamba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108697197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720685,
+        "qs:id":350955,
+        "wd:id":"Q5123124",
+        "wk:page":"City College of Calamba"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052381,
+    "wof:geomhash":"41cd949ace86b8b2f74119175783fad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697197,
+            "localadmin_id":890442831,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":890442831,
+    "wof:lastmodified":1527792858,
+    "wof:name":"City of Calamba",
+    "wof:parent_id":1108697197,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11704,
+    14.19504,
+    121.11704,
+    14.19504
+],
+  "geometry": {"coordinates":[121.11704,14.19504],"type":"Point"}
+}

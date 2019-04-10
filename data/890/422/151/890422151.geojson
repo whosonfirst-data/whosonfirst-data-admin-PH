@@ -1,0 +1,68 @@
+{
+  "id": 890422151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.69083,11.52167,122.69083,11.52167",
+    "geom:latitude":11.52167,
+    "geom:longitude":122.69083,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":25715,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ivisan"
+    ],
+    "qs:name":"Ivisan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108697797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710426,
+        "qs:id":1031222
+    },
+    "wof:country":"PH",
+    "wof:created":1469051430,
+    "wof:geomhash":"a079e10a66a25fb8f8f1c03ce9d1ddb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697797,
+            "localadmin_id":890422151,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":890422151,
+    "wof:lastmodified":1505343468,
+    "wof:name":"Ivisan",
+    "wof:parent_id":1108697797,
+    "wof:placetype":"localadmin",
+    "wof:population":25715,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.69083,
+    11.52167,
+    122.69083,
+    11.52167
+],
+  "geometry": {"coordinates":[122.69083000000001,11.52167],"type":"Point"}
+}

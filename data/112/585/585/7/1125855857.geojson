@@ -1,0 +1,74 @@
+{
+  "id": 1125855857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28333,6.0,125.28333,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":125.28333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4239,
+    "gn:population":4239,
+    "iso:country":"PH",
+    "lbl:latitude":6.0,
+    "lbl:longitude":125.28333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1680548,
+    "qs_pg:gn_pop":4239,
+    "qs_pg:name":"Tuyan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":133939,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680548,
+        "qs_pg:id":133939
+    },
+    "wof:country":"PH",
+    "wof:created":1497293614,
+    "wof:geomhash":"b2cfa22e1b1ba118a6d6fd229ad07230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1125855857,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125855857,
+    "wof:lastmodified":1509396209,
+    "wof:name":"Tuyan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4239,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28333,
+    6.0,
+    125.28333,
+    6.0
+],
+  "geometry": {"coordinates":[125.28333000000001,6.0],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209150653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3728,13.9512,122.3728,13.9512",
+    "geom:latitude":13.9512,
+    "geom:longitude":122.3728,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45618000.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"PH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300872,
+    "gn:latitude":13.9512,
+    "gn:longitude":122.3728,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300872
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7c6999a5bfa85bb96fe4abb28b147c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209150653
+        }
+    ],
+    "wof:id":1209150653,
+    "wof:lastmodified":1537679050,
+    "wof:name":"San Antonio",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3728,
+    13.9512,
+    122.3728,
+    13.9512
+],
+  "geometry": {"coordinates":[122.3728,13.9512],"type":"Point"}
+}

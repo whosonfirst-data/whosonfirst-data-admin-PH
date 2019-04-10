@@ -1,0 +1,72 @@
+{
+  "id": 1259713391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0,9.65,123.0,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":123.0,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74614000.0",
+    "gn:asciiname":"Lombo",
+    "gn:country_code":"PH",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705762,
+    "gn:latitude":9.65,
+    "gn:longitude":123.0,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lombo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108698187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705762
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e440169d81b187890fadbcf9b46f8f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698187,
+            "locality_id":1259713391,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1259713391,
+    "wof:lastmodified":1537677978,
+    "wof:name":"Lombo",
+    "wof:parent_id":1108698187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0,
+    9.65,
+    123.0,
+    9.65
+],
+  "geometry": {"coordinates":[123.0,9.65],"type":"Point"}
+}

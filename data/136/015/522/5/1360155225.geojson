@@ -1,0 +1,76 @@
+{
+  "id": 1360155225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4101,5.9485,121.4101,5.9485",
+    "geom:latitude":5.9485,
+    "geom:longitude":121.4101,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156619000.0",
+    "gn:asciiname":"Tandu Panuan",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683249,
+    "gn:latitude":5.9485,
+    "gn:longitude":121.4101,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tandu Panuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tandu Panuan"
+    ],
+    "name:und_x_variant":[
+        "Ganon",
+        "Tandu-danuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108697885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683249
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5067ab824ab259bf95255bb9a763c466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697885,
+            "locality_id":1360155225,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1360155225,
+    "wof:lastmodified":1537677338,
+    "wof:name":"Tandu Panuan",
+    "wof:parent_id":1108697885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4101,
+    5.9485,
+    121.4101,
+    5.9485
+],
+  "geometry": {"coordinates":[121.4101,5.9485],"type":"Point"}
+}

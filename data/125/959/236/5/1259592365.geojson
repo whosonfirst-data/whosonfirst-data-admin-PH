@@ -1,0 +1,72 @@
+{
+  "id": 1259592365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7038,18.1332,120.7038,18.1332",
+    "geom:latitude":18.1332,
+    "geom:longitude":120.7038,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12809000.0",
+    "gn:asciiname":"Bagut",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728863,
+    "gn:latitude":18.1332,
+    "gn:longitude":120.7038,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bagut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bagut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728863
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6089afa1980ad8d831a63ad42648bf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698621,
+            "locality_id":1259592365,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1259592365,
+    "wof:lastmodified":1537678650,
+    "wof:name":"Bagut",
+    "wof:parent_id":1108698621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7038,
+    18.1332,
+    120.7038,
+    18.1332
+],
+  "geometry": {"coordinates":[120.7038,18.1332],"type":"Point"}
+}

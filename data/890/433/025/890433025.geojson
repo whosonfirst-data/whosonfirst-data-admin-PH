@@ -1,0 +1,71 @@
+{
+  "id": 890433025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45914,17.72261,121.45914,17.72261",
+    "geom:latitude":17.72261,
+    "geom:longitude":121.45914,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2350,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Batung"
+    ],
+    "name:fil_x_variant":[
+        "Battung"
+    ],
+    "qs:name":"Battung",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108699763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726076,
+        "qs:id":88315
+    },
+    "wof:country":"PH",
+    "wof:created":1469051964,
+    "wof:geomhash":"97faac2942528593b8f1c3154a9ec7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699763,
+            "locality_id":890433025,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890433025,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Battung",
+    "wof:parent_id":1108699763,
+    "wof:placetype":"locality",
+    "wof:population":2350,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45914,
+    17.72261,
+    121.45914,
+    17.72261
+],
+  "geometry": {"coordinates":[121.45914,17.72261],"type":"Point"}
+}

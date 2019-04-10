@@ -1,0 +1,72 @@
+{
+  "id": 1310598505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.71667,10.65,122.71667,10.65",
+    "geom:latitude":10.65,
+    "geom:longitude":122.71667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"J3",
+    "gn:admin3_code":"67901000.0",
+    "gn:asciiname":"South Valencia",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685691,
+    "gn:latitude":10.65,
+    "gn:longitude":122.71667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"South Valencia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "South Valencia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675999,
+        1108697081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685691
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7fe9d3eb790d8a7bfb212be88e727135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697081,
+            "locality_id":1310598505,
+            "region_id":85675999
+        }
+    ],
+    "wof:id":1310598505,
+    "wof:lastmodified":1537677406,
+    "wof:name":"South Valencia",
+    "wof:parent_id":1108697081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.71667,
+    10.65,
+    122.71667,
+    10.65
+],
+  "geometry": {"coordinates":[122.71666999999999,10.65],"type":"Point"}
+}

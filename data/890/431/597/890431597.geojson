@@ -1,0 +1,71 @@
+{
+  "id": 890431597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46448,15.55694,120.46448,15.55694",
+    "geom:latitude":15.55694,
+    "geom:longitude":120.46448,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5821,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Ines West"
+    ],
+    "name:unk_x_variant":[
+        "Santa Ines"
+    ],
+    "qs:name":"Santa Ines West",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108699367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688136,
+        "qs:id":276865
+    },
+    "wof:country":"PH",
+    "wof:created":1469051898,
+    "wof:geomhash":"9a42f38f5d6e0760cc81889cdf45a515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699367,
+            "locality_id":890431597,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":890431597,
+    "wof:lastmodified":1505343525,
+    "wof:name":"Santa Ines West",
+    "wof:parent_id":1108699367,
+    "wof:placetype":"locality",
+    "wof:population":5821,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46448,
+    15.55694,
+    120.46448,
+    15.55694
+],
+  "geometry": {"coordinates":[120.46447999999999,15.55694],"type":"Point"}
+}

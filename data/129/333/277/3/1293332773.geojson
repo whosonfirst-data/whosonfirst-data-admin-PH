@@ -1,0 +1,69 @@
+{
+  "id": 1293332773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1,13.88333,121.1,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":121.1,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41022000.0",
+    "gn:asciiname":"Salaban",
+    "gn:country_code":"PH",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691018,
+    "gn:latitude":13.88333,
+    "gn:longitude":121.1,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691018
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7b40190062b2623cc21e9be9b9ce35f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699205,
+            "locality_id":1293332773,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1293332773,
+    "wof:lastmodified":1537009416,
+    "wof:name":"Salaban",
+    "wof:parent_id":1108699205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1,
+    13.88333,
+    121.1,
+    13.88333
+],
+  "geometry": {"coordinates":[121.09999999999999,13.88333],"type":"Point"}
+}

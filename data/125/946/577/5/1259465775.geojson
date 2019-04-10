@@ -1,0 +1,72 @@
+{
+  "id": 1259465775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.10306,16.83722,121.10306,16.83722",
+    "geom:latitude":16.83722,
+    "geom:longitude":121.10306,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"142709000.0",
+    "gn:asciiname":"Awa",
+    "gn:country_code":"PH",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729914,
+    "gn:latitude":16.83722,
+    "gn:longitude":121.10306,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Awa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Awa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108697723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729914
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ab198fd681ba1c9d57ffb2d466a19ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697723,
+            "locality_id":1259465775,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1259465775,
+    "wof:lastmodified":1537678681,
+    "wof:name":"Awa",
+    "wof:parent_id":1108697723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.10306,
+    16.83722,
+    121.10306,
+    16.83722
+],
+  "geometry": {"coordinates":[121.10306,16.83722],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293877239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23333,7.91667,125.23333,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":125.23333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"101321000.0",
+    "gn:asciiname":"Malambago",
+    "gn:country_code":"PH",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703148,
+    "gn:latitude":7.91667,
+    "gn:longitude":125.23333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malambago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malambago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108699841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703148
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e3a79e5af6083018430452f11593d092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699841,
+            "locality_id":1293877239,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":1293877239,
+    "wof:lastmodified":1537677903,
+    "wof:name":"Malambago",
+    "wof:parent_id":1108699841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23333,
+    7.91667,
+    125.23333,
+    7.91667
+],
+  "geometry": {"coordinates":[125.23333,7.91667],"type":"Point"}
+}

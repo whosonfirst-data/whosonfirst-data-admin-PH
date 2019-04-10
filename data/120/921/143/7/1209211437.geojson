@@ -1,0 +1,66 @@
+{
+  "id": 1209211437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.40523,9.79125,123.40523,9.79125",
+    "geom:latitude":9.79125,
+    "geom:longitude":123.40523,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72207000.0",
+    "gn:asciiname":"Candiis",
+    "gn:country_code":"PH",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719265,
+    "gn:latitude":9.79125,
+    "gn:longitude":123.40523,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Candiis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Candiis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719265
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3f8084d35b60a5691d5b58dc51abd1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209211437
+        }
+    ],
+    "wof:id":1209211437,
+    "wof:lastmodified":1537678358,
+    "wof:name":"Candiis",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.40523,
+    9.79125,
+    123.40523,
+    9.79125
+],
+  "geometry": {"coordinates":[123.40523,9.79125],"type":"Point"}
+}

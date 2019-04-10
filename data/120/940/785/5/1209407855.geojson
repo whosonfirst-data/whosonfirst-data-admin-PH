@@ -1,0 +1,66 @@
+{
+  "id": 1209407855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8525,13.2858,123.8525,13.2858",
+    "geom:latitude":13.2858,
+    "geom:longitude":123.8525,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50501000.0",
+    "gn:asciiname":"Masaguimsim",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700789,
+    "gn:latitude":13.2858,
+    "gn:longitude":123.8525,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Masaguimsim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Masaguimsim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700789
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6823afe152fa36a63523be3879c35c91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209407855
+        }
+    ],
+    "wof:id":1209407855,
+    "wof:lastmodified":1537677838,
+    "wof:name":"Masaguimsim",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8525,
+    13.2858,
+    123.8525,
+    13.2858
+],
+  "geometry": {"coordinates":[123.85250000000001,13.2858],"type":"Point"}
+}

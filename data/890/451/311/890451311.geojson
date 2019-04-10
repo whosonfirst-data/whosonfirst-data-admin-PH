@@ -1,0 +1,79 @@
+{
+  "id": 890451311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.24117,8.53153,126.24117,8.53153",
+    "geom:latitude":8.53153,
+    "geom:longitude":126.24117,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3479,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gamut"
+    ],
+    "name:unk_x_variant":[
+        "Gamuton"
+    ],
+    "qs:name":"Gamut",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":2235,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676243,
+        1108696913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713286,
+        "gp:id":1172883,
+        "qs:id":87811,
+        "qs_pg:id":277200,
+        "wd:id":"Q375857",
+        "wk:page":"Gamut"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052773,
+    "wof:geomhash":"93cd7d3187a95600a649b7d2d02966a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696913,
+            "locality_id":890451311,
+            "region_id":85676243
+        }
+    ],
+    "wof:id":890451311,
+    "wof:lastmodified":1527792941,
+    "wof:name":"Gamut",
+    "wof:parent_id":1108696913,
+    "wof:placetype":"locality",
+    "wof:population":3479,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.24117,
+    8.53153,
+    126.24117,
+    8.53153
+],
+  "geometry": {"coordinates":[126.24117,8.53153],"type":"Point"}
+}

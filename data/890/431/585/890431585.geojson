@@ -1,0 +1,71 @@
+{
+  "id": 890431585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.61648,9.97326,123.61648,9.97326",
+    "geom:latitude":9.97326,
+    "geom:longitude":123.61648,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2569,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Simala"
+    ],
+    "qs:name":"Simala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686422,
+        "gp:id":1193587,
+        "qs:id":276852,
+        "wk:page":"Simala"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051897,
+    "wof:geomhash":"4d158a92ed49f34e0f46feed5ef269c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699475,
+            "locality_id":890431585,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890431585,
+    "wof:lastmodified":1527735418,
+    "wof:name":"Simala",
+    "wof:parent_id":1108699475,
+    "wof:placetype":"locality",
+    "wof:population":2569,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.61648,
+    9.97326,
+    123.61648,
+    9.97326
+],
+  "geometry": {"coordinates":[123.61648,9.97326],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243204969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4516,10.9345,123.4516,10.9345",
+    "geom:latitude":10.9345,
+    "geom:longitude":123.4516,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64523000.0",
+    "gn:asciiname":"Tabaao",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685122,
+    "gn:latitude":10.9345,
+    "gn:longitude":123.4516,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tabaao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tabaao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685122
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ef68a8d6a6199c31b61ac0680c8d9f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1243204969,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243204969,
+    "wof:lastmodified":1537677390,
+    "wof:name":"Tabaao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4516,
+    10.9345,
+    123.4516,
+    10.9345
+],
+  "geometry": {"coordinates":[123.4516,10.9345],"type":"Point"}
+}

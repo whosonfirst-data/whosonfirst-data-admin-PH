@@ -1,0 +1,69 @@
+{
+  "id": 890443311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1,10.58333,123.1,10.58333",
+    "geom:latitude":10.58333,
+    "geom:longitude":123.1,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":62930,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Murcia"
+    ],
+    "qs:name":"Murcia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699061,
+        "qs:id":1027159,
+        "wk:page":"Murcia"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052419,
+    "wof:geomhash":"62de2c4903164bccb6c41407dc3ee257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699649,
+            "localadmin_id":890443311,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890443311,
+    "wof:lastmodified":1513814059,
+    "wof:name":"Murcia",
+    "wof:parent_id":1108699649,
+    "wof:placetype":"localadmin",
+    "wof:population":62930,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1,
+    10.58333,
+    123.1,
+    10.58333
+],
+  "geometry": {"coordinates":[123.09999999999999,10.58333],"type":"Point"}
+}

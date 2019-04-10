@@ -1,0 +1,68 @@
+{
+  "id": 890452499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7782,7.3488,125.7782,7.3488",
+    "geom:latitude":7.3488,
+    "geom:longitude":125.7782,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2338,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Liboganon"
+    ],
+    "qs:name":"Libuganon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108699621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706557,
+        "qs:id":135070
+    },
+    "wof:country":"PH",
+    "wof:created":1469052819,
+    "wof:geomhash":"adff15c9a56755fa742762b2dddbe9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699621,
+            "locality_id":890452499,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":890452499,
+    "wof:lastmodified":1505343645,
+    "wof:name":"Libuganon",
+    "wof:parent_id":1108699621,
+    "wof:placetype":"locality",
+    "wof:population":2338,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7782,
+    7.3488,
+    125.7782,
+    7.3488
+],
+  "geometry": {"coordinates":[125.7782,7.3488],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242868529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4844,8.0047,123.4844,8.0047",
+    "geom:latitude":8.0047,
+    "geom:longitude":123.4844,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97323000.0",
+    "gn:asciiname":"Sugan",
+    "gn:country_code":"PH",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685518,
+    "gn:latitude":8.0047,
+    "gn:longitude":123.4844,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sugan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sugan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685518
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0fe03e9ea0620bbb44547143ddd10150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699003,
+            "locality_id":1242868529,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1242868529,
+    "wof:lastmodified":1537677402,
+    "wof:name":"Sugan",
+    "wof:parent_id":1108699003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4844,
+    8.0047,
+    123.4844,
+    8.0047
+],
+  "geometry": {"coordinates":[123.48439999999999,8.0047],"type":"Point"}
+}

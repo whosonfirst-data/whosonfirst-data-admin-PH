@@ -1,0 +1,66 @@
+{
+  "id": 1209444727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.125,10.7893,123.125,10.7893",
+    "geom:latitude":10.7893,
+    "geom:longitude":123.125,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64526000.0",
+    "gn:asciiname":"Manzanares",
+    "gn:country_code":"PH",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701366,
+    "gn:latitude":10.7893,
+    "gn:longitude":123.125,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manzanares",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Manzanares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701366
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f78e90c36d8f4f9675c7eb4d8349d2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209444727
+        }
+    ],
+    "wof:id":1209444727,
+    "wof:lastmodified":1537677853,
+    "wof:name":"Manzanares",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.125,
+    10.7893,
+    123.125,
+    10.7893
+],
+  "geometry": {"coordinates":[123.125,10.7893],"type":"Point"}
+}

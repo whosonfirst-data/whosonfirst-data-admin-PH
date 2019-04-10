@@ -1,0 +1,69 @@
+{
+  "id": 890415785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7911,15.5952,120.7911,15.5952",
+    "geom:latitude":15.5952,
+    "geom:longitude":120.7911,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2313,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Manacsac"
+    ],
+    "qs:name":"Manacsac",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702183,
+        "gp:id":1192264,
+        "qs:id":134922
+    },
+    "wof:country":"PH",
+    "wof:created":1469051103,
+    "wof:geomhash":"2b41b750080bb31894e14cd471231934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698987,
+            "locality_id":890415785,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890415785,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Manacsac",
+    "wof:parent_id":1108698987,
+    "wof:placetype":"locality",
+    "wof:population":2313,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7911,
+    15.5952,
+    120.7911,
+    15.5952
+],
+  "geometry": {"coordinates":[120.7911,15.5952],"type":"Point"}
+}

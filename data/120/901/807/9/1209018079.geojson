@@ -1,0 +1,63 @@
+{
+  "id": 1209018079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45402,15.76264,120.45402,15.76264",
+    "geom:latitude":15.76264,
+    "geom:longitude":120.45402,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15511000.0",
+    "gn:asciiname":"Pugo",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10128925,
+    "gn:latitude":15.76264,
+    "gn:longitude":120.45402,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pugo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10128925
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e8d8cd07435dbee51431ee0305359af4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209018079
+        }
+    ],
+    "wof:id":1209018079,
+    "wof:lastmodified":1536300232,
+    "wof:name":"Pugo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45402,
+    15.76264,
+    120.45402,
+    15.76264
+],
+  "geometry": {"coordinates":[120.45402,15.76264],"type":"Point"}
+}

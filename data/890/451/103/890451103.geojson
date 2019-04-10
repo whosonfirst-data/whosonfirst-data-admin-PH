@@ -1,0 +1,72 @@
+{
+  "id": 890451103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5542,11.4788,124.5542,11.4788",
+    "geom:latitude":11.4788,
+    "geom:longitude":124.5542,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2209,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Looc"
+    ],
+    "name:unk_x_variant":[
+        "Lo-ok"
+    ],
+    "qs:name":"Looc",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676187,
+        1108697169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705650,
+        "gp:id":1159383,
+        "qs:id":87481
+    },
+    "wof:country":"PH",
+    "wof:created":1469052765,
+    "wof:geomhash":"8ed6599e279c3797c7c770144a490c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697169,
+            "locality_id":890451103,
+            "region_id":85676187
+        }
+    ],
+    "wof:id":890451103,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Looc",
+    "wof:parent_id":1108697169,
+    "wof:placetype":"locality",
+    "wof:population":2209,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5542,
+    11.4788,
+    124.5542,
+    11.4788
+],
+  "geometry": {"coordinates":[124.55419999999999,11.4788],"type":"Point"}
+}

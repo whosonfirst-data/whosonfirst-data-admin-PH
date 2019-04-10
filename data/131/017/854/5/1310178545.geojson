@@ -1,0 +1,76 @@
+{
+  "id": 1310178545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8915,5.9788,120.8915,5.9788",
+    "geom:latitude":5.9788,
+    "geom:longitude":120.8915,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156609000.0",
+    "gn:asciiname":"Silangkan Market",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686520,
+    "gn:latitude":5.9788,
+    "gn:longitude":120.8915,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Silangkan Market",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Silangkan Market"
+    ],
+    "name:und_x_variant":[
+        "Cilancan",
+        "Silangkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686520
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2abd82eef5e147c43fbbb090ba80e5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698821,
+            "locality_id":1310178545,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1310178545,
+    "wof:lastmodified":1537677426,
+    "wof:name":"Silangkan Market",
+    "wof:parent_id":1108698821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8915,
+    5.9788,
+    120.8915,
+    5.9788
+],
+  "geometry": {"coordinates":[120.89149999999999,5.9788],"type":"Point"}
+}

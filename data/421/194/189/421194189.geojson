@@ -1,0 +1,82 @@
+{
+  "id": 421194189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9517,15.754,120.9517,15.754",
+    "geom:latitude":15.754,
+    "geom:longitude":120.9517,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Santo Tomas"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1687522,
+    "qs:gn_pop":5138,
+    "qs:name":"Santo Tomas",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Luzon",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1032267,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1192953,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        890442461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687522,
+        "gp:id":1192953,
+        "qs:id":1032267
+    },
+    "wof:country":"PH",
+    "wof:created":1459009797,
+    "wof:geomhash":"d1ac22b3f626dc5808b7f955d74bd21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890442461,
+            "locality_id":421194189,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":421194189,
+    "wof:lastmodified":1505340739,
+    "wof:name":"Santo Tomas",
+    "wof:parent_id":890442461,
+    "wof:placetype":"locality",
+    "wof:population":5138,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9517,
+    15.754,
+    120.9517,
+    15.754
+],
+  "geometry": {"coordinates":[120.9517,15.754],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1277015309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2101,10.2751,123.2101,10.2751",
+    "geom:latitude":10.2751,
+    "geom:longitude":123.2101,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74611000.0",
+    "gn:asciiname":"Budlasan",
+    "gn:country_code":"PH",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723519,
+    "gn:latitude":10.2751,
+    "gn:longitude":123.2101,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Budlasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Budlasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108697677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723519
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d9de8d0de1c561fda1f8e025bb3d2cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697677,
+            "locality_id":1277015309,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1277015309,
+    "wof:lastmodified":1537678491,
+    "wof:name":"Budlasan",
+    "wof:parent_id":1108697677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2101,
+    10.2751,
+    123.2101,
+    10.2751
+],
+  "geometry": {"coordinates":[123.2101,10.2751],"type":"Point"}
+}

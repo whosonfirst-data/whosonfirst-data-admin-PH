@@ -1,0 +1,72 @@
+{
+  "id": 1276971429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.06667,11.3,123.06667,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":123.06667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63038000.0",
+    "gn:asciiname":"Mamaod",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702387,
+    "gn:latitude":11.3,
+    "gn:longitude":123.06667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mamaod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mamaod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702387
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b4ed35307aef43d2ebe75d3f8778bf90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699129,
+            "locality_id":1276971429,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1276971429,
+    "wof:lastmodified":1537677883,
+    "wof:name":"Mamaod",
+    "wof:parent_id":1108699129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.06667,
+    11.3,
+    123.06667,
+    11.3
+],
+  "geometry": {"coordinates":[123.06667,11.3],"type":"Point"}
+}

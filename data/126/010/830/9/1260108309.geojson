@@ -1,0 +1,75 @@
+{
+  "id": 1260108309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8631,11.4511,119.8631,11.4511",
+    "geom:latitude":11.4511,
+    "geom:longitude":119.8631,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175313000.0",
+    "gn:asciiname":"Agutayandilit",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731792,
+    "gn:latitude":11.4511,
+    "gn:longitude":119.8631,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agutayandilit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Agutayandilit"
+    ],
+    "name:und_x_variant":[
+        "Agutayandelic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731792
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4019986e4f6cb5f0cce14b21c8e952c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697563,
+            "locality_id":1260108309,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1260108309,
+    "wof:lastmodified":1537678734,
+    "wof:name":"Agutayandilit",
+    "wof:parent_id":1108697563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8631,
+    11.4511,
+    119.8631,
+    11.4511
+],
+  "geometry": {"coordinates":[119.8631,11.4511],"type":"Point"}
+}

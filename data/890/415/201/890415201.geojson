@@ -1,0 +1,68 @@
+{
+  "id": 890415201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.03333,11.88333,125.03333,11.88333",
+    "geom:latitude":11.88333,
+    "geom:longitude":125.03333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":13937,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Motiong"
+    ],
+    "qs:name":"Motiong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108698817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699181,
+        "qs:id":87203
+    },
+    "wof:country":"PH",
+    "wof:created":1469051078,
+    "wof:geomhash":"f9ece5cf04189f8ed7c08245dc51fa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698817,
+            "localadmin_id":890415201,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":890415201,
+    "wof:lastmodified":1505343424,
+    "wof:name":"Motiong",
+    "wof:parent_id":1108698817,
+    "wof:placetype":"localadmin",
+    "wof:population":13937,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.03333,
+    11.88333,
+    125.03333,
+    11.88333
+],
+  "geometry": {"coordinates":[125.03333000000001,11.88333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310143993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71111,14.06333,120.71111,14.06333",
+    "geom:latitude":14.06333,
+    "geom:longitude":120.71111,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41019000.0",
+    "gn:asciiname":"Sabang",
+    "gn:country_code":"PH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691350,
+    "gn:latitude":14.06333,
+    "gn:longitude":120.71111,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sabang",
+    "gn:population":2563,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108698559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691350
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f329577cde26f8d91a3f327dfd30edf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698559,
+            "locality_id":1310143993,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1310143993,
+    "wof:lastmodified":1536941602,
+    "wof:name":"Sabang",
+    "wof:parent_id":1108698559,
+    "wof:placetype":"locality",
+    "wof:population":2563,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71111,
+    14.06333,
+    120.71111,
+    14.06333
+],
+  "geometry": {"coordinates":[120.71111000000001,14.06333],"type":"Point"}
+}

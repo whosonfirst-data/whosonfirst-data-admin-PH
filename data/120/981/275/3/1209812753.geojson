@@ -1,0 +1,72 @@
+{
+  "id": 1209812753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0535,11.2514,123.0535,11.2514",
+    "geom:latitude":11.2514,
+    "geom:longitude":123.0535,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63044000.0",
+    "gn:asciiname":"Madarag",
+    "gn:country_code":"PH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704173,
+    "gn:latitude":11.2514,
+    "gn:longitude":123.0535,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Madarag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Madarag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704173
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"df1f5e572cfd9b86579d5fb786b0f401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699449,
+            "locality_id":1209812753,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1209812753,
+    "wof:lastmodified":1537677931,
+    "wof:name":"Madarag",
+    "wof:parent_id":1108699449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0535,
+    11.2514,
+    123.0535,
+    11.2514
+],
+  "geometry": {"coordinates":[123.0535,11.2514],"type":"Point"}
+}

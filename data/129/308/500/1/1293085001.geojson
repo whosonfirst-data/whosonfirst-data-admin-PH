@@ -1,0 +1,72 @@
+{
+  "id": 1293085001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.18667,7.87306,122.18667,7.87306",
+    "geom:latitude":7.87306,
+    "geom:longitude":122.18667,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97224000.0",
+    "gn:asciiname":"Tumao",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680773,
+    "gn:latitude":7.87306,
+    "gn:longitude":122.18667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tumao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tumao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108696837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680773
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0c88af48a462f787f3032ecd73d0322b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696837,
+            "locality_id":1293085001,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1293085001,
+    "wof:lastmodified":1537677272,
+    "wof:name":"Tumao",
+    "wof:parent_id":1108696837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.18667,
+    7.87306,
+    122.18667,
+    7.87306
+],
+  "geometry": {"coordinates":[122.18667000000001,7.87306],"type":"Point"}
+}

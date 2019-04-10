@@ -1,0 +1,71 @@
+{
+  "id": 890450349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38806,13.80694,121.38806,13.80694",
+    "geom:latitude":13.80694,
+    "geom:longitude":121.38806,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3385,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Talahiban Uno"
+    ],
+    "name:unk_x_variant":[
+        "Talahiban"
+    ],
+    "qs:name":"Talahiban Uno",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684103,
+        "qs:id":86479
+    },
+    "wof:country":"PH",
+    "wof:created":1469052735,
+    "wof:geomhash":"63ae81f1c73670b609acae8e30fa09f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699223,
+            "locality_id":890450349,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890450349,
+    "wof:lastmodified":1505343633,
+    "wof:name":"Talahiban Uno",
+    "wof:parent_id":1108699223,
+    "wof:placetype":"locality",
+    "wof:population":3385,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38806,
+    13.80694,
+    121.38806,
+    13.80694
+],
+  "geometry": {"coordinates":[121.38806,13.80694],"type":"Point"}
+}

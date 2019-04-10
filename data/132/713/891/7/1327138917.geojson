@@ -1,0 +1,72 @@
+{
+  "id": 1327138917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.04583,14.00389,123.04583,14.00389",
+    "geom:latitude":14.00389,
+    "geom:longitude":123.04583,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51607000.0",
+    "gn:asciiname":"Hinipaan",
+    "gn:country_code":"PH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711618,
+    "gn:latitude":14.00389,
+    "gn:longitude":123.04583,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hinipaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hinipaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676017,
+        1108696931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711618
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"66da5ef1d7848de0d1f5d1dc7bcd372f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696931,
+            "locality_id":1327138917,
+            "region_id":85676017
+        }
+    ],
+    "wof:id":1327138917,
+    "wof:lastmodified":1537678144,
+    "wof:name":"Hinipaan",
+    "wof:parent_id":1108696931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.04583,
+    14.00389,
+    123.04583,
+    14.00389
+],
+  "geometry": {"coordinates":[123.04583,14.00389],"type":"Point"}
+}

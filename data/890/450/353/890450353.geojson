@@ -1,0 +1,67 @@
+{
+  "id": 890450353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93618,13.73646,120.93618,13.73646",
+    "geom:latitude":13.73646,
+    "geom:longitude":120.93618,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3231,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Talaga"
+    ],
+    "qs:name":"Talaga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684128,
+        "gp:id":1193545,
+        "qs:id":86481
+    },
+    "wof:country":"PH",
+    "wof:created":1469052735,
+    "wof:geomhash":"702385535631495acc136d7a1c430dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890450353,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890450353,
+    "wof:lastmodified":1505343633,
+    "wof:name":"Talaga",
+    "wof:parent_id":85676131,
+    "wof:placetype":"locality",
+    "wof:population":3231,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93618,
+    13.73646,
+    120.93618,
+    13.73646
+],
+  "geometry": {"coordinates":[120.93617999999999,13.73646],"type":"Point"}
+}

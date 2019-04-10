@@ -1,0 +1,66 @@
+{
+  "id": 1209212177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.733,10.798,122.733,10.798",
+    "geom:latitude":10.798,
+    "geom:longitude":122.733,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63018000.0",
+    "gn:asciiname":"Talusan",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683700,
+    "gn:latitude":10.798,
+    "gn:longitude":122.733,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Talusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Talusan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683700
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9b0fb14eecec327c0d55432e6c7b871e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209212177
+        }
+    ],
+    "wof:id":1209212177,
+    "wof:lastmodified":1537677351,
+    "wof:name":"Talusan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.733,
+    10.798,
+    122.733,
+    10.798
+],
+  "geometry": {"coordinates":[122.733,10.798],"type":"Point"}
+}

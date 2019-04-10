@@ -1,0 +1,72 @@
+{
+  "id": 1327216523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28375,17.50702,121.28375,17.50702",
+    "geom:latitude":17.50702,
+    "geom:longitude":121.28375,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143209000.0",
+    "gn:asciiname":"Luguac",
+    "gn:country_code":"PH",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705304,
+    "gn:latitude":17.50702,
+    "gn:longitude":121.28375,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Luguac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Luguac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705304
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d86a9a9d51f8ae0c987abc9fc55fe523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698907,
+            "locality_id":1327216523,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1327216523,
+    "wof:lastmodified":1537677964,
+    "wof:name":"Luguac",
+    "wof:parent_id":1108698907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28375,
+    17.50702,
+    121.28375,
+    17.50702
+],
+  "geometry": {"coordinates":[121.28375,17.50702],"type":"Point"}
+}

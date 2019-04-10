@@ -1,0 +1,66 @@
+{
+  "id": 1209037497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.9685,10.7925,122.9685,10.7925",
+    "geom:latitude":10.7925,
+    "geom:longitude":122.9685,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64526000.0",
+    "gn:asciiname":"Cabug",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721461,
+    "gn:latitude":10.7925,
+    "gn:longitude":122.9685,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721461
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"837dc60d2428e849bc26830190a0a769",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209037497
+        }
+    ],
+    "wof:id":1209037497,
+    "wof:lastmodified":1537678427,
+    "wof:name":"Cabug",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.9685,
+    10.7925,
+    122.9685,
+    10.7925
+],
+  "geometry": {"coordinates":[122.96850000000001,10.7925],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1225796325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1843,14.7615,121.1843,14.7615",
+    "geom:latitude":14.7615,
+    "geom:longitude":121.1843,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"45808000.0",
+    "gn:asciiname":"Loubac",
+    "gn:country_code":"PH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705669,
+    "gn:latitude":14.7615,
+    "gn:longitude":121.1843,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Loubac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Loobac"
+    ],
+    "name:fil_x_variant":[
+        "Loubac",
+        "Loabao"
+    ],
+    "name:und_x_variant":[
+        "Loabao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676145,
+        1108697557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705669
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8bd8d7f4dff4a117d0423ad5f961508f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697557,
+            "locality_id":1225796325,
+            "region_id":85676145
+        }
+    ],
+    "wof:id":1225796325,
+    "wof:lastmodified":1537677975,
+    "wof:name":"Loubac",
+    "wof:parent_id":1108697557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1843,
+    14.7615,
+    121.1843,
+    14.7615
+],
+  "geometry": {"coordinates":[121.18429999999999,14.7615],"type":"Point"}
+}

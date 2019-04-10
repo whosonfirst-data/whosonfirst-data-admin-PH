@@ -1,0 +1,72 @@
+{
+  "id": 1343935149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.5675,7.24639,126.5675,7.24639",
+    "geom:latitude":7.24639,
+    "geom:longitude":126.5675,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"112508000.0",
+    "gn:asciiname":"Concepcion",
+    "gn:country_code":"PH",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717034,
+    "gn:latitude":7.24639,
+    "gn:longitude":126.5675,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Concepcion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Concepcion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676255,
+        1108698343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717034
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3cf709e961f0f04d3cdff0ed96886284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698343,
+            "locality_id":1343935149,
+            "region_id":85676255
+        }
+    ],
+    "wof:id":1343935149,
+    "wof:lastmodified":1537678293,
+    "wof:name":"Concepcion",
+    "wof:parent_id":1108698343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.5675,
+    7.24639,
+    126.5675,
+    7.24639
+],
+  "geometry": {"coordinates":[126.5675,7.24639],"type":"Point"}
+}

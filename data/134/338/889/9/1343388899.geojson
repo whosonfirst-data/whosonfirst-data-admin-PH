@@ -1,0 +1,75 @@
+{
+  "id": 1343388899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0776,9.7376,123.0776,9.7376",
+    "geom:latitude":9.7376,
+    "geom:longitude":123.0776,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74607000.0",
+    "gn:asciiname":"Mantiabas",
+    "gn:country_code":"PH",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700277,
+    "gn:latitude":9.7376,
+    "gn:longitude":123.0776,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mantiabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mantiabas"
+    ],
+    "name:und_x_variant":[
+        "Matiyabas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108697009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700277
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dab18d662bfc88338f719a7dddec5e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697009,
+            "locality_id":1343388899,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1343388899,
+    "wof:lastmodified":1537677823,
+    "wof:name":"Mantiabas",
+    "wof:parent_id":1108697009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0776,
+    9.7376,
+    123.0776,
+    9.7376
+],
+  "geometry": {"coordinates":[123.0776,9.7376],"type":"Point"}
+}

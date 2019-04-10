@@ -1,0 +1,66 @@
+{
+  "id": 1209545349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0925,10.248,123.0925,10.248",
+    "geom:latitude":10.248,
+    "geom:longitude":123.0925,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64519000.0",
+    "gn:asciiname":"Tres Corazones",
+    "gn:country_code":"PH",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416770,
+    "gn:latitude":10.248,
+    "gn:longitude":123.0925,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tres Corazones",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tres Corazones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416770
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"98e1eb1ff536b817fa86b76a46037f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209545349
+        }
+    ],
+    "wof:id":1209545349,
+    "wof:lastmodified":1537678862,
+    "wof:name":"Tres Corazones",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0925,
+    10.248,
+    123.0925,
+    10.248
+],
+  "geometry": {"coordinates":[123.0925,10.248],"type":"Point"}
+}

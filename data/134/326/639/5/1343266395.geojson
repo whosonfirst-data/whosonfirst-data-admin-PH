@@ -1,0 +1,72 @@
+{
+  "id": 1343266395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4189,12.519,123.4189,12.519",
+    "geom:latitude":12.519,
+    "geom:longitude":123.4189,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54101000.0",
+    "gn:asciiname":"Cancayat",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719347,
+    "gn:latitude":12.519,
+    "gn:longitude":123.4189,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cancayat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cancayat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719347
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e881a561137bede85d27bf101cca5708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696709,
+            "locality_id":1343266395,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1343266395,
+    "wof:lastmodified":1537678361,
+    "wof:name":"Cancayat",
+    "wof:parent_id":1108696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4189,
+    12.519,
+    123.4189,
+    12.519
+],
+  "geometry": {"coordinates":[123.41889999999999,12.519],"type":"Point"}
+}

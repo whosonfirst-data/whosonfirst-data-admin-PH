@@ -1,0 +1,72 @@
+{
+  "id": 1226071309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2982,9.2935,123.2982,9.2935",
+    "geom:latitude":9.2935,
+    "geom:longitude":123.2982,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74610000.0",
+    "gn:asciiname":"Mangao",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301266,
+    "gn:latitude":9.2935,
+    "gn:longitude":123.2982,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mangao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mangao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        890415251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301266
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"30a4cd64bd997a7fe25fee8dac536fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415251,
+            "locality_id":1226071309,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1226071309,
+    "wof:lastmodified":1537679053,
+    "wof:name":"Mangao",
+    "wof:parent_id":890415251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2982,
+    9.2935,
+    123.2982,
+    9.2935
+],
+  "geometry": {"coordinates":[123.29819999999999,9.2935],"type":"Point"}
+}

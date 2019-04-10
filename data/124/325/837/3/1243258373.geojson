@@ -1,0 +1,72 @@
+{
+  "id": 1243258373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.91667,7.55,122.91667,7.55",
+    "geom:latitude":7.55,
+    "geom:longitude":122.91667,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"ZSI",
+    "gn:admin3_code":"98301000.0",
+    "gn:asciiname":"Lunapa",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705086,
+    "gn:latitude":7.55,
+    "gn:longitude":122.91667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lunapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lunapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108696631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705086
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a6a1daba0ea61773cf579ec28f3eafee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696631,
+            "locality_id":1243258373,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":1243258373,
+    "wof:lastmodified":1537677957,
+    "wof:name":"Lunapa",
+    "wof:parent_id":1108696631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.91667,
+    7.55,
+    122.91667,
+    7.55
+],
+  "geometry": {"coordinates":[122.91667,7.55],"type":"Point"}
+}

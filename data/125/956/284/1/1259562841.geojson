@@ -1,0 +1,76 @@
+{
+  "id": 1259562841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.76243,6.40061,124.76243,6.40061",
+    "geom:latitude":6.40061,
+    "geom:longitude":124.76243,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126302000.0",
+    "gn:asciiname":"Liwanay",
+    "gn:country_code":"PH",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705938,
+    "gn:latitude":6.40061,
+    "gn:longitude":124.76243,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Liwanay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Liwanay (Barrio 1)"
+    ],
+    "name:und_x_variant":[
+        "Liwanag",
+        "Liwanay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705938
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b7c71bd347db801e192f7118fd73e422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699571,
+            "locality_id":1259562841,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":1259562841,
+    "wof:lastmodified":1537677984,
+    "wof:name":"Liwanay",
+    "wof:parent_id":1108699571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.76243,
+    6.40061,
+    124.76243,
+    6.40061
+],
+  "geometry": {"coordinates":[124.76242999999999,6.40061],"type":"Point"}
+}

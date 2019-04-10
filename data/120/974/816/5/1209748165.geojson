@@ -1,0 +1,72 @@
+{
+  "id": 1209748165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.051,10.3397,123.051,10.3397",
+    "geom:latitude":10.3397,
+    "geom:longitude":123.051,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64517000.0",
+    "gn:asciiname":"Hacienda Angelita",
+    "gn:country_code":"PH",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428179,
+    "gn:latitude":10.3397,
+    "gn:longitude":123.051,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Angelita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Angelita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428179
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"64595e79e4465fa6a26b9495759496a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697941,
+            "locality_id":1209748165,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1209748165,
+    "wof:lastmodified":1537678920,
+    "wof:name":"Hacienda Angelita",
+    "wof:parent_id":1108697941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.051,
+    10.3397,
+    123.051,
+    10.3397
+],
+  "geometry": {"coordinates":[123.051,10.3397],"type":"Point"}
+}

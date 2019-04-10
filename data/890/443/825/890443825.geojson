@@ -1,0 +1,70 @@
+{
+  "id": 890443825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.03333,14.93333,121.03333,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":121.03333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":52210,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Angat"
+    ],
+    "qs:name":"Angat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135,
+        1108698593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730750,
+        "qs:id":1031392,
+        "wk:page":"Angat"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052439,
+    "wof:geomhash":"aa511e09a493e5fc7a945da40a0d0d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698593,
+            "localadmin_id":890443825,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":890443825,
+    "wof:lastmodified":1527787068,
+    "wof:name":"Angat",
+    "wof:parent_id":1108698593,
+    "wof:placetype":"localadmin",
+    "wof:population":52210,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.03333,
+    14.93333,
+    121.03333,
+    14.93333
+],
+  "geometry": {"coordinates":[121.03333000000001,14.93333],"type":"Point"}
+}

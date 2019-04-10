@@ -1,0 +1,72 @@
+{
+  "id": 890416381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9569,5.9052,120.9569,5.9052",
+    "geom:latitude":5.9052,
+    "geom:longitude":120.9569,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7148,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kulase"
+    ],
+    "name:unk_x_variant":[
+        "Kulasi"
+    ],
+    "qs:name":"Kulase",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957824,
+        "gp:id":1175958,
+        "qs:id":137316
+    },
+    "wof:country":"PH",
+    "wof:created":1469051131,
+    "wof:geomhash":"c6d46636ee871a83d812013e95eb4fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698271,
+            "locality_id":890416381,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890416381,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Kulase",
+    "wof:parent_id":1108698271,
+    "wof:placetype":"locality",
+    "wof:population":7148,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9569,
+    5.9052,
+    120.9569,
+    5.9052
+],
+  "geometry": {"coordinates":[120.9569,5.9052],"type":"Point"}
+}

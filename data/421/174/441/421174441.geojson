@@ -1,0 +1,75 @@
+{
+  "id": 421174441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.968399,14.586573,120.968399,14.586573",
+    "geom:latitude":14.586573,
+    "geom:longitude":120.968399,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Port Area",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"National Capital Region",
+    "qs:photos":147,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":147,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1325162,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1188422,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":288,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1188422,
+        "qs:id":1325162,
+        "wd:id":"Q21021064"
+    },
+    "wof:country":"PH",
+    "wof:created":1459009032,
+    "wof:geomhash":"ac6258e5e11332d5ac6447afeab87289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421174441,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":421174441,
+    "wof:lastmodified":1533169689,
+    "wof:name":"Port Area",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.968399,
+    14.586573,
+    120.968399,
+    14.586573
+],
+  "geometry": {"coordinates":[120.96839900000001,14.586573],"type":"Point"}
+}

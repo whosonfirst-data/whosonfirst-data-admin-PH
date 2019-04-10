@@ -1,0 +1,70 @@
+{
+  "id": 1259788081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.91417,12.97722,123.91417,12.97722",
+    "geom:latitude":12.97722,
+    "geom:longitude":123.91417,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Rizal",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691625,
+    "gn:latitude":12.97722,
+    "gn:longitude":123.91417,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Rizal",
+    "gn:population":7577,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Rizal"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691625
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"060bd43797f07be00f012c5e9b28c7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259788081,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259788081,
+    "wof:lastmodified":1537677579,
+    "wof:name":"Rizal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":7577,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.91417,
+    12.97722,
+    123.91417,
+    12.97722
+],
+  "geometry": {"coordinates":[123.91417,12.97722],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343656723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5883,10.9234,122.5883,10.9234",
+    "geom:latitude":10.9234,
+    "geom:longitude":122.5883,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63031000.0",
+    "gn:asciiname":"Amiroy",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731040,
+    "gn:latitude":10.9234,
+    "gn:longitude":122.5883,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Amiroy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Amiroy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731040
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7f72c78b23250b204f2db452f80c44f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698481,
+            "locality_id":1343656723,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1343656723,
+    "wof:lastmodified":1537678711,
+    "wof:name":"Amiroy",
+    "wof:parent_id":1108698481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5883,
+    10.9234,
+    122.5883,
+    10.9234
+],
+  "geometry": {"coordinates":[122.5883,10.9234],"type":"Point"}
+}

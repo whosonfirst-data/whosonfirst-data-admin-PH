@@ -1,0 +1,72 @@
+{
+  "id": 890452459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11667,8.83333,125.11667,8.83333",
+    "geom:latitude":8.83333,
+    "geom:longitude":125.11667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":70516,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mariano"
+    ],
+    "qs:name":"Mariano",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":607,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108697649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700980,
+        "gp:id":1182453,
+        "qs:id":134856,
+        "wd:id":"Q568979",
+        "wk:page":"Mariano"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052818,
+    "wof:geomhash":"a1b199d43fb39e4e5be34b96828565c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697649,
+            "locality_id":890452459,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":890452459,
+    "wof:lastmodified":1527734188,
+    "wof:name":"Mariano",
+    "wof:parent_id":1108697649,
+    "wof:placetype":"locality",
+    "wof:population":70516,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11667,
+    8.83333,
+    125.11667,
+    8.83333
+],
+  "geometry": {"coordinates":[125.11667,8.83333],"type":"Point"}
+}

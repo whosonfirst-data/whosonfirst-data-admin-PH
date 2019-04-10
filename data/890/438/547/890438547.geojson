@@ -1,0 +1,68 @@
+{
+  "id": 890438547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85,10.96667,124.85,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":124.85,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":50016,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Burauen"
+    ],
+    "qs:name":"Burauen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108697119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722482,
+        "qs:id":1031342
+    },
+    "wof:country":"PH",
+    "wof:created":1469052200,
+    "wof:geomhash":"da035386334dc5dea3c3699bbf77ecdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697119,
+            "localadmin_id":890438547,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":890438547,
+    "wof:lastmodified":1505343565,
+    "wof:name":"Burauen",
+    "wof:parent_id":1108697119,
+    "wof:placetype":"localadmin",
+    "wof:population":50016,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85,
+    10.96667,
+    124.85,
+    10.96667
+],
+  "geometry": {"coordinates":[124.84999999999999,10.96667],"type":"Point"}
+}

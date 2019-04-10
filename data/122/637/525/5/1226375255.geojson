@@ -1,0 +1,72 @@
+{
+  "id": 1226375255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.03333,10.6,123.03333,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":123.03333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64520000.0",
+    "gn:asciiname":"Blumentritt",
+    "gn:country_code":"PH",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724583,
+    "gn:latitude":10.6,
+    "gn:longitude":123.03333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Blumentritt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Blumentritt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724583
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"95861283f79dd393a92c73b53fb9efbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699649,
+            "locality_id":1226375255,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1226375255,
+    "wof:lastmodified":1537678523,
+    "wof:name":"Blumentritt",
+    "wof:parent_id":1108699649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.03333,
+    10.6,
+    123.03333,
+    10.6
+],
+  "geometry": {"coordinates":[123.03333000000001,10.6],"type":"Point"}
+}

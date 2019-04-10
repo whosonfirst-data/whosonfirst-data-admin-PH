@@ -1,0 +1,69 @@
+{
+  "id": 890452609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.71667,8.25,125.71667,8.25",
+    "geom:latitude":8.25,
+    "geom:longitude":125.71667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2875,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Binucayan"
+    ],
+    "qs:name":"Binucayan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676217,
+        1108697951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724860,
+        "gp:id":91421617,
+        "qs:id":135680
+    },
+    "wof:country":"PH",
+    "wof:created":1469052823,
+    "wof:geomhash":"7ddc6f7103cdca425e0978b17237ec94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697951,
+            "locality_id":890452609,
+            "region_id":85676217
+        }
+    ],
+    "wof:id":890452609,
+    "wof:lastmodified":1505343646,
+    "wof:name":"Binucayan",
+    "wof:parent_id":1108697951,
+    "wof:placetype":"locality",
+    "wof:population":2875,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.71667,
+    8.25,
+    125.71667,
+    8.25
+],
+  "geometry": {"coordinates":[125.71666999999999,8.25],"type":"Point"}
+}

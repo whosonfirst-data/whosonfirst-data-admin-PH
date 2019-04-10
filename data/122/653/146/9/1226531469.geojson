@@ -1,0 +1,76 @@
+{
+  "id": 1226531469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.007,7.5289,123.007,7.5289",
+    "geom:latitude":7.5289,
+    "geom:longitude":123.007,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"ZSI",
+    "gn:admin3_code":"98301000.0",
+    "gn:asciiname":"Lapirawan",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707295,
+    "gn:latitude":7.5289,
+    "gn:longitude":123.007,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lapirawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lapirawan"
+    ],
+    "name:und_x_variant":[
+        "Lapirauan",
+        "Lapidauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108696631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707295
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8a914899cd3b927d117f03293fc115b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696631,
+            "locality_id":1226531469,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":1226531469,
+    "wof:lastmodified":1537678021,
+    "wof:name":"Lapirawan",
+    "wof:parent_id":1108696631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.007,
+    7.5289,
+    123.007,
+    7.5289
+],
+  "geometry": {"coordinates":[123.00700000000001,7.5289],"type":"Point"}
+}

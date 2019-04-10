@@ -1,0 +1,72 @@
+{
+  "id": 1260112881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2057,10.9479,123.2057,10.9479",
+    "geom:latitude":10.9479,
+    "geom:longitude":123.2057,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64504000.0",
+    "gn:asciiname":"Hacienda Monatero",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301350,
+    "gn:latitude":10.9479,
+    "gn:longitude":123.2057,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Monatero",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Monatero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301350
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2796703e20043800ea55c443c97ac4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697179,
+            "locality_id":1260112881,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1260112881,
+    "wof:lastmodified":1537679055,
+    "wof:name":"Hacienda Monatero",
+    "wof:parent_id":1108697179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2057,
+    10.9479,
+    123.2057,
+    10.9479
+],
+  "geometry": {"coordinates":[123.20569999999999,10.9479],"type":"Point"}
+}

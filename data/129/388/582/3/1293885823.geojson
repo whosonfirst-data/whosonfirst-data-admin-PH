@@ -1,0 +1,78 @@
+{
+  "id": 1293885823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.67761,18.08962,121.67761,18.08962",
+    "geom:latitude":18.08962,
+    "geom:longitude":121.67761,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21513000.0",
+    "gn:asciiname":"Basao",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726470,
+    "gn:latitude":18.08962,
+    "gn:longitude":121.67761,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Basao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Basao"
+    ],
+    "name:fil_x_variant":[
+        "Tagao"
+    ],
+    "name:und_x_variant":[
+        "Tagao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726470
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d33125c9423fb6e9a63dbd8a22bcbfde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697619,
+            "locality_id":1293885823,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1293885823,
+    "wof:lastmodified":1537678575,
+    "wof:name":"Basao",
+    "wof:parent_id":1108697619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.67761000000002,
+    18.08962,
+    121.67761000000002,
+    18.08962
+],
+  "geometry": {"coordinates":[121.67761000000002,18.08962],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226084253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5007,13.3897,122.5007,13.3897",
+    "geom:latitude":13.3897,
+    "geom:longitude":122.5007,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45642000.0",
+    "gn:asciiname":"Tayuman Ibaba",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682564,
+    "gn:latitude":13.3897,
+    "gn:longitude":122.5007,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tayuman Ibaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tayuman Ibaba"
+    ],
+    "name:fil_x_variant":[
+        "Tayuman Ibabang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682564
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8ba638354bb1c48bd06c4c92a1ccfa2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699163,
+            "locality_id":1226084253,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1226084253,
+    "wof:lastmodified":1537677320,
+    "wof:name":"Tayuman Ibaba",
+    "wof:parent_id":1108699163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5007,
+    13.3897,
+    122.5007,
+    13.3897
+],
+  "geometry": {"coordinates":[122.50069999999999,13.3897],"type":"Point"}
+}

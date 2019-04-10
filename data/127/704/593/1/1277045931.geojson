@@ -1,0 +1,72 @@
+{
+  "id": 1277045931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.86937,6.54833,121.86937,6.54833",
+    "geom:latitude":6.54833,
+    "geom:longitude":121.86937,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"150704000.0",
+    "gn:asciiname":"Port Holland",
+    "gn:country_code":"PH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692865,
+    "gn:latitude":6.54833,
+    "gn:longitude":121.86937,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Port Holland",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Port Holland"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675955,
+        1108698325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692865
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9572e3e0103c4caa18558c6cf4ffafa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698325,
+            "locality_id":1277045931,
+            "region_id":85675955
+        }
+    ],
+    "wof:id":1277045931,
+    "wof:lastmodified":1537677612,
+    "wof:name":"Port Holland",
+    "wof:parent_id":1108698325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.86937,
+    6.54833,
+    121.86937,
+    6.54833
+],
+  "geometry": {"coordinates":[121.86937,6.54833],"type":"Point"}
+}

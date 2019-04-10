@@ -1,0 +1,68 @@
+{
+  "id": 890431555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.55944,8.37083,124.55944,8.37083",
+    "geom:latitude":8.37083,
+    "geom:longitude":124.55944,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2980,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tagpangi"
+    ],
+    "qs:name":"Taypano",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676323,
+        1108697181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684361,
+        "qs:id":276824
+    },
+    "wof:country":"PH",
+    "wof:created":1469051896,
+    "wof:geomhash":"08fcd4176492d128f44092abe1404471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697181,
+            "locality_id":890431555,
+            "region_id":85676323
+        }
+    ],
+    "wof:id":890431555,
+    "wof:lastmodified":1505343524,
+    "wof:name":"Taypano",
+    "wof:parent_id":1108697181,
+    "wof:placetype":"locality",
+    "wof:population":2980,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.55944,
+    8.37083,
+    124.55944,
+    8.37083
+],
+  "geometry": {"coordinates":[124.55944,8.37083],"type":"Point"}
+}

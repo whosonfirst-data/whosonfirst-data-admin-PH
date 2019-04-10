@@ -1,0 +1,76 @@
+{
+  "id": 1242597877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5679,9.1077,123.5679,9.1077",
+    "geom:latitude":9.1077,
+    "geom:longitude":123.5679,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76103000.0",
+    "gn:asciiname":"Cangmunag",
+    "gn:country_code":"PH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719175,
+    "gn:latitude":9.1077,
+    "gn:longitude":123.5679,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cangmunag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cangmunag"
+    ],
+    "name:und_x_variant":[
+        "Canmunag",
+        "Cangmonag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719175
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"96a4adce7e203cc9e08f42b105e077a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698035,
+            "locality_id":1242597877,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1242597877,
+    "wof:lastmodified":1537678355,
+    "wof:name":"Cangmunag",
+    "wof:parent_id":1108698035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5679,
+    9.1077,
+    123.5679,
+    9.1077
+],
+  "geometry": {"coordinates":[123.56789999999999,9.1077],"type":"Point"}
+}

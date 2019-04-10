@@ -1,0 +1,72 @@
+{
+  "id": 1193124211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.18333,7.13333,125.18333,7.13333",
+    "geom:latitude":7.13333,
+    "geom:longitude":125.18333,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"124706000.0",
+    "gn:asciiname":"Mappit",
+    "gn:country_code":"PH",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701240,
+    "gn:latitude":7.13333,
+    "gn:longitude":125.18333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mappit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mappit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108698245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701240
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9d0066bc29a7ef1488a2f52221e7d9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698245,
+            "locality_id":1193124211,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":1193124211,
+    "wof:lastmodified":1537677849,
+    "wof:name":"Mappit",
+    "wof:parent_id":1108698245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.18333,
+    7.13333,
+    125.18333,
+    7.13333
+],
+  "geometry": {"coordinates":[125.18333,7.13333],"type":"Point"}
+}

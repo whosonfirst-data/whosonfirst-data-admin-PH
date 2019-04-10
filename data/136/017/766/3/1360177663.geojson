@@ -1,0 +1,72 @@
+{
+  "id": 1360177663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8358,13.0804,123.8358,13.0804",
+    "geom:latitude":13.0804,
+    "geom:longitude":123.8358,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50511000.0",
+    "gn:asciiname":"Malobago",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702572,
+    "gn:latitude":13.0804,
+    "gn:longitude":123.8358,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malobago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malobago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702572
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"99d04f4a6940da189acc6a7dd63934df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698355,
+            "locality_id":1360177663,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1360177663,
+    "wof:lastmodified":1537677887,
+    "wof:name":"Malobago",
+    "wof:parent_id":1108698355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8358,
+    13.0804,
+    123.8358,
+    13.0804
+],
+  "geometry": {"coordinates":[123.83580000000001,13.0804],"type":"Point"}
+}

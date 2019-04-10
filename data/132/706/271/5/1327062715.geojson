@@ -1,0 +1,75 @@
+{
+  "id": 1327062715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0381,10.8691,121.0381,10.8691",
+    "geom:latitude":10.8691,
+    "geom:longitude":121.0381,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175314000.0",
+    "gn:asciiname":"Los Angeles",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705544,
+    "gn:latitude":10.8691,
+    "gn:longitude":121.0381,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Los Angeles",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Los Angeles"
+    ],
+    "name:und_x_variant":[
+        "Batobato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108698647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705544
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"79d99656487440516b3d0add5a276fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698647,
+            "locality_id":1327062715,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1327062715,
+    "wof:lastmodified":1537677971,
+    "wof:name":"Los Angeles",
+    "wof:parent_id":1108698647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0381,
+    10.8691,
+    121.0381,
+    10.8691
+],
+  "geometry": {"coordinates":[121.0381,10.8691],"type":"Point"}
+}

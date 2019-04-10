@@ -1,0 +1,83 @@
+{
+  "id": 421182291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.96444,11.92611,121.96444,11.92611",
+    "geom:latitude":11.92611,
+    "geom:longitude":121.96444,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Union"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1680259,
+    "qs:gn_pop":0,
+    "qs:name":"Union",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Western Visayas",
+    "qs:photos":4987,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4987,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":898573,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199964,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680262,
+        "gp:id":1199964,
+        "qs:id":898573,
+        "qs_pg:id":133929
+    },
+    "wof:country":"PH",
+    "wof:created":1459009325,
+    "wof:geomhash":"134d16d17dce8b579b5eb82f7f9522fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698299,
+            "locality_id":421182291,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":421182291,
+    "wof:lastmodified":1509410025,
+    "wof:name":"Union",
+    "wof:parent_id":1108698299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.96444,
+    11.92611,
+    121.96444,
+    11.92611
+],
+  "geometry": {"coordinates":[121.96444,11.92611],"type":"Point"}
+}

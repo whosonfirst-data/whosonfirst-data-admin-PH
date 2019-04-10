@@ -1,0 +1,84 @@
+{
+  "id": 1125849355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4232,10.57716,123.4232,10.57716",
+    "geom:latitude":10.57716,
+    "geom:longitude":123.4232,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2150,
+    "gn:population":2150,
+    "iso:country":"PH",
+    "lbl:latitude":10.57716,
+    "lbl:longitude":123.4232,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Agpangi"
+    ],
+    "name:unk_x_variant":[
+        "Agpange"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1731943,
+    "qs_pg:gn_pop":2150,
+    "qs_pg:name":"Agpangi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88578,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731943,
+        "qs_pg:id":88578
+    },
+    "wof:country":"PH",
+    "wof:created":1497293317,
+    "wof:geomhash":"e584e5e5e4b34116e5fabc5c3c2d9ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697215,
+            "locality_id":1125849355,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125849355,
+    "wof:lastmodified":1509395830,
+    "wof:name":"Agpangi",
+    "wof:parent_id":1108697215,
+    "wof:placetype":"locality",
+    "wof:population":2150,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4232,
+    10.57716,
+    123.4232,
+    10.57716
+],
+  "geometry": {"coordinates":[123.42319999999999,10.57716],"type":"Point"}
+}

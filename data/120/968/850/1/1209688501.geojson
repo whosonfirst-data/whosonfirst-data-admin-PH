@@ -1,0 +1,66 @@
+{
+  "id": 1209688501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2299,17.266,121.2299,17.266",
+    "geom:latitude":17.266,
+    "geom:longitude":121.2299,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143214000.0",
+    "gn:asciiname":"Lubo",
+    "gn:country_code":"PH",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705403,
+    "gn:latitude":17.266,
+    "gn:longitude":121.2299,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lubo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lubo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705403
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5e78b2240fb654d5ca9f0977a02a6039",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209688501
+        }
+    ],
+    "wof:id":1209688501,
+    "wof:lastmodified":1537677966,
+    "wof:name":"Lubo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2299,
+    17.266,
+    121.2299,
+    17.266
+],
+  "geometry": {"coordinates":[121.2299,17.266],"type":"Point"}
+}

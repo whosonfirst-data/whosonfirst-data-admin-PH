@@ -1,0 +1,69 @@
+{
+  "id": 890437817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.46617,18.33493,121.46617,18.33493",
+    "geom:latitude":18.33493,
+    "geom:longitude":121.46617,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2834,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Guiddam"
+    ],
+    "qs:name":"Guiddam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712537,
+        "gp:id":1185608,
+        "qs:id":135322
+    },
+    "wof:country":"PH",
+    "wof:created":1469052167,
+    "wof:geomhash":"928fa8f814b3721341b4b6408f1b9e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696555,
+            "locality_id":890437817,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890437817,
+    "wof:lastmodified":1505343562,
+    "wof:name":"Guiddam",
+    "wof:parent_id":1108696555,
+    "wof:placetype":"locality",
+    "wof:population":2834,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.46617,
+    18.33493,
+    121.46617,
+    18.33493
+],
+  "geometry": {"coordinates":[121.46617000000001,18.33493],"type":"Point"}
+}

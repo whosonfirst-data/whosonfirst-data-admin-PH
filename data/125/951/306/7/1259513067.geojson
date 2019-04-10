@@ -1,0 +1,72 @@
+{
+  "id": 1259513067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4621,10.74065,123.4621,10.74065",
+    "geom:latitude":10.74065,
+    "geom:longitude":123.4621,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64529000.0",
+    "gn:asciiname":"Hacienda San Lorenzo",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7452354,
+    "gn:latitude":10.74065,
+    "gn:longitude":123.4621,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda San Lorenzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7452354
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ce44f1cd969cd279230e504f7413b636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699745,
+            "locality_id":1259513067,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1259513067,
+    "wof:lastmodified":1537678948,
+    "wof:name":"Hacienda San Lorenzo",
+    "wof:parent_id":1108699745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4621,
+    10.74065,
+    123.4621,
+    10.74065
+],
+  "geometry": {"coordinates":[123.46210000000001,10.74065],"type":"Point"}
+}

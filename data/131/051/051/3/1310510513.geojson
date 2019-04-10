@@ -1,0 +1,71 @@
+{
+  "id": 1310510513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5,9.16667,123.5,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":123.5,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:asciiname":"Sundugan Point",
+    "gn:country_code":"PH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1886801,
+    "gn:latitude":9.16667,
+    "gn:longitude":123.5,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sundugan Point",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sundugan Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108699231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1886801
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b9b8e1533cc1da68418e936534ce9b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699231,
+            "locality_id":1310510513,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1310510513,
+    "wof:lastmodified":1537678757,
+    "wof:name":"Sundugan Point",
+    "wof:parent_id":1108699231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5,
+    9.16667,
+    123.5,
+    9.16667
+],
+  "geometry": {"coordinates":[123.5,9.16667],"type":"Point"}
+}

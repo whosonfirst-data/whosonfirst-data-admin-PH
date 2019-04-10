@@ -1,0 +1,65 @@
+{
+  "id": 1344230349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73333,5.45,120.73333,5.45",
+    "geom:latitude":5.45,
+    "geom:longitude":120.73333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Tapaan",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682984,
+    "gn:latitude":5.45,
+    "gn:longitude":120.73333,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Tapaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682984
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"01d7c8b7f2a0dc8c55fcb50f4509a614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1344230349,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344230349,
+    "wof:lastmodified":1536628823,
+    "wof:name":"Tapaan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73333,
+    5.45,
+    120.73333,
+    5.45
+],
+  "geometry": {"coordinates":[120.73333,5.45],"type":"Point"}
+}

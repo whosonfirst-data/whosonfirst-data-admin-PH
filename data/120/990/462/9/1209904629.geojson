@@ -1,0 +1,72 @@
+{
+  "id": 1209904629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.83333,8.88333,124.83333,8.88333",
+    "geom:latitude":8.88333,
+    "geom:longitude":124.83333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"104322000.0",
+    "gn:asciiname":"La Caral",
+    "gn:country_code":"PH",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708227,
+    "gn:latitude":8.88333,
+    "gn:longitude":124.83333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"La Caral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "La Caral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108699081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708227
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"973e5054d86309fa86d1662e133c9f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699081,
+            "locality_id":1209904629,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":1209904629,
+    "wof:lastmodified":1537678047,
+    "wof:name":"La Caral",
+    "wof:parent_id":1108699081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.83333,
+    8.88333,
+    124.83333,
+    8.88333
+],
+  "geometry": {"coordinates":[124.83333,8.88333],"type":"Point"}
+}

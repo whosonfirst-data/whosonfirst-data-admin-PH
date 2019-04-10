@@ -1,0 +1,71 @@
+{
+  "id": 890443093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6,15.71667,121.6,15.71667",
+    "geom:latitude":15.71667,
+    "geom:longitude":121.6,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":34958,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Baler"
+    ],
+    "qs:name":"Baler",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":4885,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676065,
+        1108696827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728266,
+        "qs:id":371864,
+        "wd:id":"Q1552846",
+        "wk:page":"Baler"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052399,
+    "wof:geomhash":"656d9dd7f52a6d5a79ea205ee93cb121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696827,
+            "localadmin_id":890443093,
+            "region_id":85676065
+        }
+    ],
+    "wof:id":890443093,
+    "wof:lastmodified":1527787070,
+    "wof:name":"Baler",
+    "wof:parent_id":1108696827,
+    "wof:placetype":"localadmin",
+    "wof:population":34958,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6,
+    15.71667,
+    121.6,
+    15.71667
+],
+  "geometry": {"coordinates":[121.59999999999999,15.71667],"type":"Point"}
+}

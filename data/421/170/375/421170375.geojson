@@ -1,0 +1,74 @@
+{
+  "id": 421170375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.04861,14.43139,121.04861,14.43139",
+    "geom:latitude":14.43139,
+    "geom:longitude":121.04861,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1716463,
+    "qs:gn_pop":0,
+    "qs:name":"Cupang",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"National Capital Region",
+    "qs:photos":141,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":141,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":245648,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1170554,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716463,
+        "gp:id":1170554,
+        "qs:id":245648
+    },
+    "wof:country":"PH",
+    "wof:created":1459008850,
+    "wof:geomhash":"a2feecb7762ccddbf2e58ef41d7c1b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421170375,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":421170375,
+    "wof:lastmodified":1533169689,
+    "wof:name":"Cupang",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.04861,
+    14.43139,
+    121.04861,
+    14.43139
+],
+  "geometry": {"coordinates":[121.04861,14.43139],"type":"Point"}
+}

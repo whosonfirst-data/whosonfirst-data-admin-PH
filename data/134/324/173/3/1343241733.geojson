@@ -1,0 +1,68 @@
+{
+  "id": 1343241733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.28917,6.01167,125.28917,6.01167",
+    "geom:latitude":6.01167,
+    "geom:longitude":125.28917,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"M9",
+    "gn:admin3_code":"128006000.0",
+    "gn:asciiname":"Male",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702872,
+    "gn:latitude":6.01167,
+    "gn:longitude":125.28917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Male",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Male"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702872
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b55ef15ad184298b215286e892bde18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343241733,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343241733,
+    "wof:lastmodified":1537677896,
+    "wof:name":"Male",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.28917,
+    6.01167,
+    125.28917,
+    6.01167
+],
+  "geometry": {"coordinates":[125.28917,6.01167],"type":"Point"}
+}

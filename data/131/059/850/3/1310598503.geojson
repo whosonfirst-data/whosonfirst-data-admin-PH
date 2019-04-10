@@ -1,0 +1,72 @@
+{
+  "id": 1310598503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2008,10.6352,122.2008,10.6352",
+    "geom:latitude":10.6352,
+    "geom:longitude":122.2008,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63030000.0",
+    "gn:asciiname":"Palaca",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696377,
+    "gn:latitude":10.6352,
+    "gn:longitude":122.2008,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palaca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696377
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2c3dbd2d416e37c926e68d3f0c8ebaf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698469,
+            "locality_id":1310598503,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1310598503,
+    "wof:lastmodified":1537677711,
+    "wof:name":"Palaca",
+    "wof:parent_id":1108698469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2008,
+    10.6352,
+    122.2008,
+    10.6352
+],
+  "geometry": {"coordinates":[122.2008,10.6352],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209419567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.647,13.483,123.647,13.483",
+    "geom:latitude":13.483,
+    "geom:longitude":123.647,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50518000.0",
+    "gn:asciiname":"Sogod",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685916,
+    "gn:latitude":13.483,
+    "gn:longitude":123.647,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sogod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sogod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685916
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d4ceee13df8e475e4c81604489a30c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209419567
+        }
+    ],
+    "wof:id":1209419567,
+    "wof:lastmodified":1537677411,
+    "wof:name":"Sogod",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.647,
+    13.483,
+    123.647,
+    13.483
+],
+  "geometry": {"coordinates":[123.64700000000001,13.483],"type":"Point"}
+}

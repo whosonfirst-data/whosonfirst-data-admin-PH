@@ -1,0 +1,79 @@
+{
+  "id": 1242825541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91056,13.89247,121.91056,13.89247",
+    "geom:latitude":13.89247,
+    "geom:longitude":121.91056,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45601000.0",
+    "gn:asciiname":"Kinagunan Ilaya",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711100,
+    "gn:latitude":13.89247,
+    "gn:longitude":121.91056,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kinagunan Ilaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kinagunan Ilaya"
+    ],
+    "name:fil_x_variant":[
+        "Ilayang Kinagunan"
+    ],
+    "name:und_x_variant":[
+        "Quinagunan",
+        "Kinagunan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711100
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5bb15eb5132a5d727a82986ce6803b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698715,
+            "locality_id":1242825541,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1242825541,
+    "wof:lastmodified":1537678128,
+    "wof:name":"Kinagunan Ilaya",
+    "wof:parent_id":1108698715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91056,
+    13.89247,
+    121.91056,
+    13.89247
+],
+  "geometry": {"coordinates":[121.91056,13.89247],"type":"Point"}
+}

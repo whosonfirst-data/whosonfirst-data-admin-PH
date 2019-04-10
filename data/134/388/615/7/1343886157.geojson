@@ -1,0 +1,75 @@
+{
+  "id": 1343886157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.327,10.7481,119.327,10.7481",
+    "geom:latitude":10.7481,
+    "geom:longitude":119.327,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175319000.0",
+    "gn:asciiname":"Binga",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688999,
+    "gn:latitude":10.7481,
+    "gn:longitude":119.327,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Binga"
+    ],
+    "name:und_x_variant":[
+        "San Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688999
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2a0bc289f0cc508d5edd429a540cb912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699325,
+            "locality_id":1343886157,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1343886157,
+    "wof:lastmodified":1537677501,
+    "wof:name":"Binga",
+    "wof:parent_id":1108699325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.327,
+    10.7481,
+    119.327,
+    10.7481
+],
+  "geometry": {"coordinates":[119.327,10.7481],"type":"Point"}
+}

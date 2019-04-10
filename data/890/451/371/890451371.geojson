@@ -1,0 +1,72 @@
+{
+  "id": 890451371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.316,11.7196,122.316,11.7196",
+    "geom:latitude":11.7196,
+    "geom:longitude":122.316,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3181,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dungon"
+    ],
+    "name:unk_x_variant":[
+        "Dongon"
+    ],
+    "qs:name":"Dungon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714427,
+        "gp:id":1184704,
+        "qs:id":87869
+    },
+    "wof:country":"PH",
+    "wof:created":1469052776,
+    "wof:geomhash":"fb5ca6cea8c2a207214122a2c605197e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698681,
+            "locality_id":890451371,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":890451371,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Dungon",
+    "wof:parent_id":1108698681,
+    "wof:placetype":"locality",
+    "wof:population":3181,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.316,
+    11.7196,
+    122.316,
+    11.7196
+],
+  "geometry": {"coordinates":[122.316,11.7196],"type":"Point"}
+}

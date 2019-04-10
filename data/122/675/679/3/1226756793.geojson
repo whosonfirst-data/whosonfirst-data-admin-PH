@@ -1,0 +1,79 @@
+{
+  "id": 1226756793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5209,16.8592,120.5209,16.8592",
+    "geom:latitude":16.8592,
+    "geom:longitude":120.5209,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12931000.0",
+    "gn:asciiname":"Pagogo",
+    "gn:country_code":"PH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696551,
+    "gn:latitude":16.8592,
+    "gn:longitude":120.5209,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pagogo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pagogo"
+    ],
+    "name:fil_x_variant":[
+        "Pagago"
+    ],
+    "name:und_x_variant":[
+        "Pagago",
+        "Pagogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108696633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696551
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f19348826d198456c9acdfd260dccf90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696633,
+            "locality_id":1226756793,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1226756793,
+    "wof:lastmodified":1537677717,
+    "wof:name":"Pagogo",
+    "wof:parent_id":1108696633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5209,
+    16.8592,
+    120.5209,
+    16.8592
+],
+  "geometry": {"coordinates":[120.5209,16.8592],"type":"Point"}
+}

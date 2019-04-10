@@ -1,0 +1,66 @@
+{
+  "id": 1209026657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9,9.65,123.9,9.65",
+    "geom:latitude":9.65,
+    "geom:longitude":123.9,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71205000.0",
+    "gn:asciiname":"Campatok",
+    "gn:country_code":"PH",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719621,
+    "gn:latitude":9.65,
+    "gn:longitude":123.9,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Campatok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Campatok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719621
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4b8e440888b27fcd6654858bd4bcb4dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209026657
+        }
+    ],
+    "wof:id":1209026657,
+    "wof:lastmodified":1537678369,
+    "wof:name":"Campatok",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9,
+    9.65,
+    123.9,
+    9.65
+],
+  "geometry": {"coordinates":[123.90000000000001,9.65],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890433011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5687,18.0875,120.5687,18.0875",
+    "geom:latitude":18.0875,
+    "geom:longitude":120.5687,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2219,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bil-Loca"
+    ],
+    "qs:name":"Bil-Loca",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725250,
+        "gp:id":1171356,
+        "qs:id":88287
+    },
+    "wof:country":"PH",
+    "wof:created":1469051963,
+    "wof:geomhash":"d560bfca6145c9df9dfed6636e9eaa0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696933,
+            "locality_id":890433011,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":890433011,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Bil-Loca",
+    "wof:parent_id":1108696933,
+    "wof:placetype":"locality",
+    "wof:population":2219,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5687,
+    18.0875,
+    120.5687,
+    18.0875
+],
+  "geometry": {"coordinates":[120.56870000000001,18.0875],"type":"Point"}
+}

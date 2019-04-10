@@ -1,0 +1,73 @@
+{
+  "id": 890444145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.74361,12.25324,123.74361,12.25324",
+    "geom:latitude":12.25324,
+    "geom:longitude":123.74361,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3658,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Armenia"
+    ],
+    "name:unk_x_variant":[
+        "Arminia"
+    ],
+    "qs:name":"Armenia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730159,
+        "gp:id":1159710,
+        "qs:id":1033059,
+        "wk:page":"Armenia"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052453,
+    "wof:geomhash":"bcdf6df6ac7a788426ce8b0473001f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699829,
+            "locality_id":890444145,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":890444145,
+    "wof:lastmodified":1513814054,
+    "wof:name":"Armenia",
+    "wof:parent_id":1108699829,
+    "wof:placetype":"locality",
+    "wof:population":3658,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.74361,
+    12.25324,
+    123.74361,
+    12.25324
+],
+  "geometry": {"coordinates":[123.74361,12.25324],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125848247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.72325,18.04279,121.72325,18.04279",
+    "geom:latitude":18.04279,
+    "geom:longitude":121.72325,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2471,
+    "gn:population":2471,
+    "iso:country":"PH",
+    "lbl:latitude":18.04279,
+    "lbl:longitude":121.72325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Calaogan"
+    ],
+    "name:fil_x_variant":[
+        "Calaoagan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1720573,
+    "qs_pg:gn_pop":2471,
+    "qs_pg:name":"Calaoagan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88105,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720573,
+        "qs_pg:id":88105
+    },
+    "wof:country":"PH",
+    "wof:created":1497293265,
+    "wof:geomhash":"30408ffca44860424da4900ce4e8ea23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697619,
+            "locality_id":1125848247,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1125848247,
+    "wof:lastmodified":1509395761,
+    "wof:name":"Calaoagan",
+    "wof:parent_id":1108697619,
+    "wof:placetype":"locality",
+    "wof:population":2471,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.72325,
+    18.04279,
+    121.72325,
+    18.04279
+],
+  "geometry": {"coordinates":[121.72324999999999,18.04279],"type":"Point"}
+}

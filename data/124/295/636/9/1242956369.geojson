@@ -1,0 +1,78 @@
+{
+  "id": 1242956369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21472,5.98111,121.21472,5.98111",
+    "geom:latitude":5.98111,
+    "geom:longitude":121.21472,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156607000.0",
+    "gn:asciiname":"Pananaw",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1695693,
+    "gn:latitude":5.98111,
+    "gn:longitude":121.21472,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pananaw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siit",
+        "Sait Lake",
+        "Seit Lake",
+        "Panamao",
+        "Panamaw",
+        "Pananaw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695693
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6d452b061aea30cb330b0e37513ef642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698767,
+            "locality_id":1242956369,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1242956369,
+    "wof:lastmodified":1537677693,
+    "wof:name":"Pananaw",
+    "wof:parent_id":1108698767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21472,
+    5.98111,
+    121.21472,
+    5.98111
+],
+  "geometry": {"coordinates":[121.21472,5.98111],"type":"Point"}
+}

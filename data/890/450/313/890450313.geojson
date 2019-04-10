@@ -1,0 +1,72 @@
+{
+  "id": 890450313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4453,10.0631,123.4453,10.0631",
+    "geom:latitude":10.0631,
+    "geom:longitude":123.4453,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5245,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tapon"
+    ],
+    "qs:name":"Tapon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":501,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682913,
+        "gp:id":1196091,
+        "qs:id":86430,
+        "wd:id":"Q7684726",
+        "wk:page":"Tapon"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052734,
+    "wof:geomhash":"1eacca83858ed1f6e4ad3c4718a14b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697543,
+            "locality_id":890450313,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890450313,
+    "wof:lastmodified":1527792962,
+    "wof:name":"Tapon",
+    "wof:parent_id":1108697543,
+    "wof:placetype":"locality",
+    "wof:population":5245,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4453,
+    10.0631,
+    123.4453,
+    10.0631
+],
+  "geometry": {"coordinates":[123.4453,10.0631],"type":"Point"}
+}

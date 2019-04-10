@@ -1,0 +1,75 @@
+{
+  "id": 1293592631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44128,17.07674,120.44128,17.07674",
+    "geom:latitude":17.07674,
+    "geom:longitude":120.44128,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12924000.0",
+    "gn:asciiname":"Pilar",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693830,
+    "gn:latitude":17.07674,
+    "gn:longitude":120.44128,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pilar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pilar-Baybay"
+    ],
+    "name:fil_x_variant":[
+        "Pilar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693830
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"45b94d3ff5d2113ab07badaefbdbe981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699347,
+            "locality_id":1293592631,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1293592631,
+    "wof:lastmodified":1537677641,
+    "wof:name":"Pilar",
+    "wof:parent_id":1108699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44128,
+    17.07674,
+    120.44128,
+    17.07674
+],
+  "geometry": {"coordinates":[120.44128000000001,17.07674],"type":"Point"}
+}

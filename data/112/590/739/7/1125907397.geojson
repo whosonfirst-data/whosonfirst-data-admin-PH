@@ -1,0 +1,81 @@
+{
+  "id": 1125907397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.06957,6.68614,124.06957,6.68614",
+    "geom:latitude":6.68614,
+    "geom:longitude":124.06957,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2537,
+    "gn:population":2537,
+    "iso:country":"PH",
+    "lbl:latitude":6.68614,
+    "lbl:longitude":124.06957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Purikay"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1692367,
+    "qs_pg:gn_pop":2537,
+    "qs_pg:name":"Puricay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1032335,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676183,
+        1108698037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692367,
+        "qs_pg:id":1032335
+    },
+    "wof:country":"PH",
+    "wof:created":1497296032,
+    "wof:geomhash":"3d3015d5065ddb1d9eb745e8ca945a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698037,
+            "locality_id":1125907397,
+            "region_id":85676183
+        }
+    ],
+    "wof:id":1125907397,
+    "wof:lastmodified":1509399842,
+    "wof:name":"Puricay",
+    "wof:parent_id":1108698037,
+    "wof:placetype":"locality",
+    "wof:population":2537,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.06957,
+    6.68614,
+    124.06957,
+    6.68614
+],
+  "geometry": {"coordinates":[124.06957,6.68614],"type":"Point"}
+}

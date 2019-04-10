@@ -1,0 +1,79 @@
+{
+  "id": 1327336949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.01584,16.11201,120.01584,16.11201",
+    "geom:latitude":16.11201,
+    "geom:longitude":120.01584,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15542000.0",
+    "gn:asciiname":"Cabatuan",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721715,
+    "gn:latitude":16.11201,
+    "gn:longitude":120.01584,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabatuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabatuan"
+    ],
+    "name:und_x_variant":[
+        "Cabanan",
+        "Cabuan",
+        "Cabuaan",
+        "Cabutaan",
+        "Cabatuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721715
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"29248b1bae340d22842f6e03399ade9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696591,
+            "locality_id":1327336949,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1327336949,
+    "wof:lastmodified":1537678435,
+    "wof:name":"Cabatuan",
+    "wof:parent_id":1108696591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.01584,
+    16.11201,
+    120.01584,
+    16.11201
+],
+  "geometry": {"coordinates":[120.01584,16.11201],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310399911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7543,11.2196,123.7543,11.2196",
+    "geom:latitude":11.2196,
+    "geom:longitude":123.7543,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72209000.0",
+    "gn:asciiname":"Tamiao",
+    "gn:country_code":"PH",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683482,
+    "gn:latitude":11.2196,
+    "gn:longitude":123.7543,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tamiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tamiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683482
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"50ac50b071ce36e80b01a3192c85a310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696891,
+            "locality_id":1310399911,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1310399911,
+    "wof:lastmodified":1537677345,
+    "wof:name":"Tamiao",
+    "wof:parent_id":1108696891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7543,
+    11.2196,
+    123.7543,
+    11.2196
+],
+  "geometry": {"coordinates":[123.7543,11.2196],"type":"Point"}
+}

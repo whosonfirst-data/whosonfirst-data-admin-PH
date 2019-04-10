@@ -1,0 +1,66 @@
+{
+  "id": 890415773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.21667,8.16667,124.21667,8.16667",
+    "geom:latitude":8.16667,
+    "geom:longitude":124.21667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":265032,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mantampay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676317,
+        1108697749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701472,
+        "gp:id":1182125,
+        "qs:id":134889
+    },
+    "wof:country":"PH",
+    "wof:created":1469051102,
+    "wof:geomhash":"37f0b5d8ab4da70275b7ba93001f95eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697749,
+            "locality_id":890415773,
+            "region_id":85676317
+        }
+    ],
+    "wof:id":890415773,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Mantampay",
+    "wof:parent_id":1108697749,
+    "wof:placetype":"locality",
+    "wof:population":265032,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.21667,
+    8.16667,
+    124.21667,
+    8.16667
+],
+  "geometry": {"coordinates":[124.21666999999999,8.16667],"type":"Point"}
+}

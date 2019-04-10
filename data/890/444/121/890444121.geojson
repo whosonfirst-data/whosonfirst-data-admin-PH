@@ -1,0 +1,69 @@
+{
+  "id": 890444121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.25917,7.44083,124.25917,7.44083",
+    "geom:latitude":7.44083,
+    "geom:longitude":124.25917,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7754,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bugasan Sur"
+    ],
+    "qs:name":"Bugasan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108698429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723318,
+        "gp:id":1189465,
+        "qs:id":1032992
+    },
+    "wof:country":"PH",
+    "wof:created":1469052451,
+    "wof:geomhash":"52119f0518fd448ce472ac56765adef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698429,
+            "locality_id":890444121,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890444121,
+    "wof:lastmodified":1505343597,
+    "wof:name":"Bugasan",
+    "wof:parent_id":1108698429,
+    "wof:placetype":"locality",
+    "wof:population":7754,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.25917,
+    7.44083,
+    124.25917,
+    7.44083
+],
+  "geometry": {"coordinates":[124.25917,7.44083],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890415853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.73556,5.93389,124.73556,5.93389",
+    "geom:latitude":5.93389,
+    "geom:longitude":124.73556,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3450,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maan"
+    ],
+    "qs:name":"Maan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108698659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704800,
+        "gp:id":1179619,
+        "qs:id":135020
+    },
+    "wof:country":"PH",
+    "wof:created":1469051108,
+    "wof:geomhash":"cbdd649e26b5f6e7a1ac0b1d19ec58ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698659,
+            "locality_id":890415853,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":890415853,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Maan",
+    "wof:parent_id":1108698659,
+    "wof:placetype":"locality",
+    "wof:population":3450,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.73556,
+    5.93389,
+    124.73556,
+    5.93389
+],
+  "geometry": {"coordinates":[124.73556000000001,5.93389],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125986439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5763,18.4726,120.5763,18.4726",
+    "geom:latitude":18.4726,
+    "geom:longitude":120.5763,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3465,
+    "gn:population":3465,
+    "iso:country":"PH",
+    "lbl:latitude":18.4726,
+    "lbl:longitude":120.5763,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Davila"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1715335,
+    "qs_pg:gn_pop":3465,
+    "qs_pg:name":"Davila",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277227,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715335,
+        "qs_pg:id":277227
+    },
+    "wof:country":"PH",
+    "wof:created":1497298831,
+    "wof:geomhash":"ee9515cacad5b0de03e966b4e05bd38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698833,
+            "locality_id":1125986439,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1125986439,
+    "wof:lastmodified":1509405092,
+    "wof:name":"Davila",
+    "wof:parent_id":1108698833,
+    "wof:placetype":"locality",
+    "wof:population":3465,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5763,
+    18.4726,
+    120.5763,
+    18.4726
+],
+  "geometry": {"coordinates":[120.5763,18.4726],"type":"Point"}
+}

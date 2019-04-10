@@ -1,0 +1,78 @@
+{
+  "id": 1125269587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.06667,10.35,123.06667,10.35",
+    "geom:latitude":10.35,
+    "geom:longitude":123.06667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":62659,
+    "gn:population":62659,
+    "iso:country":"PH",
+    "lbl:latitude":10.35,
+    "lbl:longitude":123.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1708218,
+    "qs_pg:gn_pop":62659,
+    "qs_pg:name":"La Castellana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":903643,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708218,
+        "qs_pg:id":903643
+    },
+    "wof:country":"PH",
+    "wof:created":1497042067,
+    "wof:geomhash":"e59206f01722aec726b568e168c2db60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697941,
+            "localadmin_id":1125269587,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125269587,
+    "wof:lastmodified":1509386984,
+    "wof:name":"La Castellana",
+    "wof:parent_id":1108697941,
+    "wof:placetype":"localadmin",
+    "wof:population":62659,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.06667,
+    10.35,
+    123.06667,
+    10.35
+],
+  "geometry": {"coordinates":[123.06667,10.35],"type":"Point"}
+}

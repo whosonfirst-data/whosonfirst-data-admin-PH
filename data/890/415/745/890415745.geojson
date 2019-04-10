@@ -1,0 +1,68 @@
+{
+  "id": 890415745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.19167,8.16139,124.19167,8.16139",
+    "geom:latitude":8.16139,
+    "geom:longitude":124.19167,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5540,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Maria Cristina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108698097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700988,
+        "gp:id":1171915,
+        "qs:id":134857,
+        "wk:page":"Maria Christina"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051100,
+    "wof:geomhash":"cb263a7a4bf03213318624eafb021f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698097,
+            "locality_id":890415745,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":890415745,
+    "wof:lastmodified":1527727260,
+    "wof:name":"Maria Cristina",
+    "wof:parent_id":1108698097,
+    "wof:placetype":"locality",
+    "wof:population":5540,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.19167,
+    8.16139,
+    124.19167,
+    8.16139
+],
+  "geometry": {"coordinates":[124.19167,8.16139],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209118763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6556,17.7369,121.6556,17.7369",
+    "geom:latitude":17.7369,
+    "geom:longitude":121.6556,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21504000.0",
+    "gn:asciiname":"Barung",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726537,
+    "gn:latitude":17.7369,
+    "gn:longitude":121.6556,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Barung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Barung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726537
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7243fca146a2497533626be642f5bf52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209118763
+        }
+    ],
+    "wof:id":1209118763,
+    "wof:lastmodified":1537678577,
+    "wof:name":"Barung",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6556,
+    17.7369,
+    121.6556,
+    17.7369
+],
+  "geometry": {"coordinates":[121.65560000000001,17.7369],"type":"Point"}
+}

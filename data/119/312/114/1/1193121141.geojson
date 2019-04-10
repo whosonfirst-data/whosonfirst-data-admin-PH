@@ -1,0 +1,72 @@
+{
+  "id": 1193121141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5943,7.9491,123.5943,7.9491",
+    "geom:latitude":7.9491,
+    "geom:longitude":123.5943,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97302000.0",
+    "gn:asciiname":"Romarato",
+    "gn:country_code":"PH",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958532,
+    "gn:latitude":7.9491,
+    "gn:longitude":123.5943,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Romarato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Romarato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108696727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958532
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"abc5afa559e0b8c18e599d0c0368228a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696727,
+            "locality_id":1193121141,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1193121141,
+    "wof:lastmodified":1537678787,
+    "wof:name":"Romarato",
+    "wof:parent_id":1108696727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5943,
+    7.9491,
+    123.5943,
+    7.9491
+],
+  "geometry": {"coordinates":[123.5943,7.9491],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226362685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1065,9.5972,124.1065,9.5972",
+    "geom:latitude":9.5972,
+    "geom:longitude":124.1065,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71227000.0",
+    "gn:asciiname":"Nagsulay",
+    "gn:country_code":"PH",
+    "gn:dem":49,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698636,
+    "gn:latitude":9.5972,
+    "gn:longitude":124.1065,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nagsulay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nagsulay"
+    ],
+    "name:und_x_variant":[
+        "Bagsulay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698636
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2b393023f48a9aeda22cea534e653b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698085,
+            "locality_id":1226362685,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1226362685,
+    "wof:lastmodified":1537677778,
+    "wof:name":"Nagsulay",
+    "wof:parent_id":1108698085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1065,
+    9.5972,
+    124.1065,
+    9.5972
+],
+  "geometry": {"coordinates":[124.1065,9.5972],"type":"Point"}
+}

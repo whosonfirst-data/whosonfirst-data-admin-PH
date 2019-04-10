@@ -1,0 +1,75 @@
+{
+  "id": 1327027269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0004,10.7321,122.0004,10.7321",
+    "geom:latitude":10.7321,
+    "geom:longitude":122.0004,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60608000.0",
+    "gn:asciiname":"Buhang",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723195,
+    "gn:latitude":10.7321,
+    "gn:longitude":122.0004,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buhang"
+    ],
+    "name:und_x_variant":[
+        "Bujang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108697705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723195
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d4f4cde44b6cb07dae7d171df1823563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697705,
+            "locality_id":1327027269,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1327027269,
+    "wof:lastmodified":1537678481,
+    "wof:name":"Buhang",
+    "wof:parent_id":1108697705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0004,
+    10.7321,
+    122.0004,
+    10.7321
+],
+  "geometry": {"coordinates":[122.0004,10.7321],"type":"Point"}
+}

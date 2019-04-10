@@ -1,0 +1,72 @@
+{
+  "id": 890432923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0184,10.55976,123.0184,10.55976",
+    "geom:latitude":10.55976,
+    "geom:longitude":123.0184,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3809,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cansilayan"
+    ],
+    "name:unk_x_variant":[
+        "Cancilayan"
+    ],
+    "qs:name":"Cansilayan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719343,
+        "gp:id":91424810,
+        "qs:id":88062
+    },
+    "wof:country":"PH",
+    "wof:created":1469051960,
+    "wof:geomhash":"4de94cd3114ea4e42ca1273fa4e87043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699649,
+            "locality_id":890432923,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890432923,
+    "wof:lastmodified":1505343532,
+    "wof:name":"Cansilayan",
+    "wof:parent_id":1108699649,
+    "wof:placetype":"locality",
+    "wof:population":3809,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0184,
+    10.55976,
+    123.0184,
+    10.55976
+],
+  "geometry": {"coordinates":[123.0184,10.55976],"type":"Point"}
+}

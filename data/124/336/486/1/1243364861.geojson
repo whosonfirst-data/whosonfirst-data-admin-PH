@@ -1,0 +1,76 @@
+{
+  "id": 1243364861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37434,14.85474,120.37434,14.85474",
+    "geom:latitude":14.85474,
+    "geom:longitude":120.37434,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"07",
+    "gn:admin3_code":"30804000.0",
+    "gn:asciiname":"Balsic",
+    "gn:country_code":"PH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727843,
+    "gn:latitude":14.85474,
+    "gn:longitude":120.37434,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balsic",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balsic"
+    ],
+    "name:und_x_variant":[
+        "Talsic",
+        "Tasic"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676093,
+        1108697491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727843
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cdbbb5c18af3bb613af2d9e204995d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697491,
+            "locality_id":1243364861,
+            "region_id":85676093
+        }
+    ],
+    "wof:id":1243364861,
+    "wof:lastmodified":1537678619,
+    "wof:name":"Balsic",
+    "wof:parent_id":1108697491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37434,
+    14.85474,
+    120.37434,
+    14.85474
+],
+  "geometry": {"coordinates":[120.37434,14.85474],"type":"Point"}
+}

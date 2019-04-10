@@ -1,0 +1,84 @@
+{
+  "id": 1125939253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.0456,12.6643,125.0456,12.6643",
+    "geom:latitude":12.6643,
+    "geom:longitude":125.0456,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3002,
+    "gn:population":3002,
+    "iso:country":"PH",
+    "lbl:latitude":12.6643,
+    "lbl:longitude":125.0456,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Cabodiongan"
+    ],
+    "name:unk_x_variant":[
+        "Cabadiangan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1722020,
+    "qs_pg:gn_pop":3002,
+    "qs_pg:name":"Cabodiongan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":135532,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676209,
+        1108698641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722020,
+        "qs_pg:id":135532
+    },
+    "wof:country":"PH",
+    "wof:created":1497297065,
+    "wof:geomhash":"81824b9c0689b3178becd49cca9e180a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698641,
+            "locality_id":1125939253,
+            "region_id":85676209
+        }
+    ],
+    "wof:id":1125939253,
+    "wof:lastmodified":1509401984,
+    "wof:name":"Cabodiongan",
+    "wof:parent_id":1108698641,
+    "wof:placetype":"locality",
+    "wof:population":3002,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.0456,
+    12.6643,
+    125.0456,
+    12.6643
+],
+  "geometry": {"coordinates":[125.04559999999999,12.6643],"type":"Point"}
+}

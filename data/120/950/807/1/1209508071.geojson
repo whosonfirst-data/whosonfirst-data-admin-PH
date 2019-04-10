@@ -1,0 +1,66 @@
+{
+  "id": 1209508071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2287,12.8422,123.2287,12.8422",
+    "geom:latitude":12.8422,
+    "geom:longitude":123.2287,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54107000.0",
+    "gn:asciiname":"Manapao",
+    "gn:country_code":"PH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374246,
+    "gn:latitude":12.8422,
+    "gn:longitude":123.2287,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manapao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manapao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374246
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ecc0c1b6e431ba03e17488d8e9db091e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209508071
+        }
+    ],
+    "wof:id":1209508071,
+    "wof:lastmodified":1537678836,
+    "wof:name":"Manapao",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2287,
+    12.8422,
+    123.2287,
+    12.8422
+],
+  "geometry": {"coordinates":[123.2287,12.8422],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360091877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0648,15.2897,120.0648,15.2897",
+    "geom:latitude":15.2897,
+    "geom:longitude":120.0648,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37101000.0",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"PH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689268,
+    "gn:latitude":15.2897,
+    "gn:longitude":120.0648,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Juan",
+    "gn:population":5034,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Juan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689268
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6aa056b4ea355d82e21a23a0a89eee5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697065,
+            "locality_id":1360091877,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1360091877,
+    "wof:lastmodified":1537677509,
+    "wof:name":"San Juan",
+    "wof:parent_id":1108697065,
+    "wof:placetype":"locality",
+    "wof:population":5034,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0648,
+    15.2897,
+    120.0648,
+    15.2897
+],
+  "geometry": {"coordinates":[120.06480000000001,15.2897],"type":"Point"}
+}

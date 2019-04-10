@@ -1,0 +1,84 @@
+{
+  "id": 1125847825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4932,10.9357,122.4932,10.9357",
+    "geom:latitude":10.9357,
+    "geom:longitude":122.4932,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2476,
+    "gn:population":2476,
+    "iso:country":"PH",
+    "lbl:latitude":10.9357,
+    "lbl:longitude":122.4932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Gines-Patay"
+    ],
+    "name:unk_x_variant":[
+        "Gines"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1712883,
+    "qs_pg:gn_pop":2476,
+    "qs_pg:name":"Gines-Patay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87793,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712883,
+        "qs_pg:id":87793
+    },
+    "wof:country":"PH",
+    "wof:created":1497293247,
+    "wof:geomhash":"59cc25a2bf1ad2f5e9682e06a06c0963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697811,
+            "locality_id":1125847825,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1125847825,
+    "wof:lastmodified":1509395738,
+    "wof:name":"Gines-Patay",
+    "wof:parent_id":1108697811,
+    "wof:placetype":"locality",
+    "wof:population":2476,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4932,
+    10.9357,
+    122.4932,
+    10.9357
+],
+  "geometry": {"coordinates":[122.4932,10.9357],"type":"Point"}
+}

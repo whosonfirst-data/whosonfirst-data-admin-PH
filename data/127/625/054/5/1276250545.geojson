@@ -1,0 +1,72 @@
+{
+  "id": 1276250545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.679,10.5139,122.679,10.5139",
+    "geom:latitude":10.5139,
+    "geom:longitude":122.679,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"J3",
+    "gn:admin3_code":"67905000.0",
+    "gn:asciiname":"Malanay",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301075,
+    "gn:latitude":10.5139,
+    "gn:longitude":122.679,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malanay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malanay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675999,
+        1108697837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301075
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"41ddac4a488fbd1a5106e1c8ee3ca65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697837,
+            "locality_id":1276250545,
+            "region_id":85675999
+        }
+    ],
+    "wof:id":1276250545,
+    "wof:lastmodified":1537679052,
+    "wof:name":"Malanay",
+    "wof:parent_id":1108697837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.679,
+    10.5139,
+    122.679,
+    10.5139
+],
+  "geometry": {"coordinates":[122.679,10.5139],"type":"Point"}
+}

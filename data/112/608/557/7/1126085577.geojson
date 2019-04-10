@@ -1,0 +1,92 @@
+{
+  "id": 1126085577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.01667,14.56667,121.01667,14.56667",
+    "geom:latitude":14.56667,
+    "geom:longitude":121.01667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"PH",
+    "lbl:latitude":14.56667,
+    "lbl:longitude":121.01667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1725624,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bel-Air Two",
+    "qs_pg:name_adm0":"Philippines",
+    "qs_pg:name_adm1":"National Capital Region",
+    "qs_pg:photos":4945,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":22,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":4945,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":492699,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424934,
+    "qs_pg:woe_id":1163331,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424934,
+    "woe:name_adm0":"Philippines",
+    "woe:name_adm1":"National Capital Region",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191569,
+        1159397249,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725624,
+        "gp:id":1163331,
+        "qs_pg:id":492699
+    },
+    "wof:country":"PH",
+    "wof:created":1497312729,
+    "wof:geomhash":"27fc232d5490f3ff6bb23afe143a2ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1159397249,
+            "neighbourhood_id":1126085577,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1126085577,
+    "wof:lastmodified":1534379404,
+    "wof:name":"Bel-Air Two",
+    "wof:parent_id":1159397249,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[
+        85902771
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.01667,
+    14.56667,
+    121.01667,
+    14.56667
+],
+  "geometry": {"coordinates":[121.01667,14.56667],"type":"Point"}
+}

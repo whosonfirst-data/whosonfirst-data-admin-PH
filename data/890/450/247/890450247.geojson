@@ -1,0 +1,71 @@
+{
+  "id": 890450247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.57252,9.99625,123.57252,9.99625",
+    "geom:latitude":9.99625,
+    "geom:longitude":123.57252,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2310,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Tubud"
+    ],
+    "qs:name":"Tubod",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681138,
+        "gp:id":1197366,
+        "qs:id":86357,
+        "wk:page":"Tubod"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052731,
+    "wof:geomhash":"b544a7290ccbdb3324ad6c708db98a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699475,
+            "locality_id":890450247,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890450247,
+    "wof:lastmodified":1527792964,
+    "wof:name":"Tubod",
+    "wof:parent_id":1108699475,
+    "wof:placetype":"locality",
+    "wof:population":2310,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.57252,
+    9.99625,
+    123.57252,
+    9.99625
+],
+  "geometry": {"coordinates":[123.57252,9.99625],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226326431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3477,8.4766,123.3477,8.4766",
+    "geom:latitude":8.4766,
+    "geom:longitude":123.3477,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97202000.0",
+    "gn:asciiname":"Sangkol",
+    "gn:country_code":"PH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689879,
+    "gn:latitude":8.4766,
+    "gn:longitude":123.3477,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sangkol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sangkol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108697507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689879
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fa79caa69dc1781357388e258e2f3237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697507,
+            "locality_id":1226326431,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1226326431,
+    "wof:lastmodified":1537677531,
+    "wof:name":"Sangkol",
+    "wof:parent_id":1108697507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3477,
+    8.4766,
+    123.3477,
+    8.4766
+],
+  "geometry": {"coordinates":[123.3477,8.4766],"type":"Point"}
+}

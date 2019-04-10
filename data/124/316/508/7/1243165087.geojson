@@ -1,0 +1,70 @@
+{
+  "id": 1243165087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.77722,13.23528,123.77722,13.23528",
+    "geom:latitude":13.23528,
+    "geom:longitude":123.77722,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50516000.0",
+    "gn:asciiname":"Santo Domingo",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1687744,
+    "gn:latitude":13.23528,
+    "gn:longitude":123.77722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santo Domingo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108699417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687744,
+        "wk:page":"Santo_Domingo%2C_Albay"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1e9b8ee40fa07048a79a3c5e83e37228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699417,
+            "locality_id":1243165087,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1243165087,
+    "wof:lastmodified":1537570364,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1108699417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.77722,
+    13.23528,
+    123.77722,
+    13.23528
+],
+  "geometry": {"coordinates":[123.77722,13.23528],"type":"Point"}
+}

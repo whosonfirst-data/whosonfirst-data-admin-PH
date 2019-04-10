@@ -1,0 +1,75 @@
+{
+  "id": 1276767367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8032,12.0811,123.8032,12.0811",
+    "geom:latitude":12.0811,
+    "geom:longitude":123.8032,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54121000.0",
+    "gn:asciiname":"Palobandera",
+    "gn:country_code":"PH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696034,
+    "gn:latitude":12.0811,
+    "gn:longitude":123.8032,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palobandera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palobandera"
+    ],
+    "name:und_x_variant":[
+        "Palabandera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108697479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696034
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"45ca3a0898a45d3a97b765e1ce0743ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697479,
+            "locality_id":1276767367,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1276767367,
+    "wof:lastmodified":1537677700,
+    "wof:name":"Palobandera",
+    "wof:parent_id":1108697479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8032,
+    12.0811,
+    123.8032,
+    12.0811
+],
+  "geometry": {"coordinates":[123.8032,12.0811],"type":"Point"}
+}

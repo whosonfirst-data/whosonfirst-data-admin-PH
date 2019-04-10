@@ -1,0 +1,63 @@
+{
+  "id": 1209666497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09497,14.184,121.09497,14.184",
+    "geom:latitude":14.184,
+    "geom:longitude":121.09497,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"43405000.0",
+    "gn:asciiname":"Monterey",
+    "gn:country_code":"PH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8572341,
+    "gn:latitude":14.184,
+    "gn:longitude":121.09497,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Monterey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572341
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e519bc154f0867dc49c36565901bc9f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209666497
+        }
+    ],
+    "wof:id":1209666497,
+    "wof:lastmodified":1536280079,
+    "wof:name":"Monterey",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09497,
+    14.184,
+    121.09497,
+    14.184
+],
+  "geometry": {"coordinates":[121.09497,14.184],"type":"Point"}
+}

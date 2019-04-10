@@ -1,0 +1,74 @@
+{
+  "id": 1293770773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6475,7.05278,124.6475,7.05278",
+    "geom:latitude":7.05278,
+    "geom:longitude":124.6475,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"124712000.0",
+    "gn:asciiname":"Calawag",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720451,
+    "gn:latitude":7.05278,
+    "gn:longitude":124.6475,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calawag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalawag",
+        "Calawag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108698871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720451
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5957ad21f19669dfca23d91036433b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698871,
+            "locality_id":1293770773,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":1293770773,
+    "wof:lastmodified":1537678396,
+    "wof:name":"Calawag",
+    "wof:parent_id":1108698871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6475,
+    7.05278,
+    124.6475,
+    7.05278
+],
+  "geometry": {"coordinates":[124.64749999999999,7.05278],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209510159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.01,8.92278,125.01,8.92278",
+    "geom:latitude":8.92278,
+    "geom:longitude":125.01,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"104319000.0",
+    "gn:asciiname":"Tambagan",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683646,
+    "gn:latitude":8.92278,
+    "gn:longitude":125.01,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tambagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683646
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e6d23c4846a8be4991c6c1cd31c5dafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209510159
+        }
+    ],
+    "wof:id":1209510159,
+    "wof:lastmodified":1536284907,
+    "wof:name":"Tambagan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.01,
+    8.92278,
+    125.01,
+    8.92278
+],
+  "geometry": {"coordinates":[125.01000000000001,8.92278],"type":"Point"}
+}

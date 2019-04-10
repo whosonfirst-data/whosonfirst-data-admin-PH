@@ -1,0 +1,71 @@
+{
+  "id": 890415875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45089,15.88438,120.45089,15.88438",
+    "geom:latitude":15.88438,
+    "geom:longitude":120.45089,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":8877,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Lepa"
+    ],
+    "qs:name":"Lepa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706836,
+        "gp:id":1158657,
+        "qs:id":135085,
+        "wk:page":"Lepa"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051109,
+    "wof:geomhash":"cbee69e877d93bbe7ccc4958b24c06c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698297,
+            "locality_id":890415875,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890415875,
+    "wof:lastmodified":1527727237,
+    "wof:name":"Lepa",
+    "wof:parent_id":1108698297,
+    "wof:placetype":"locality",
+    "wof:population":8877,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45089,
+    15.88438,
+    120.45089,
+    15.88438
+],
+  "geometry": {"coordinates":[120.45089,15.88438],"type":"Point"}
+}

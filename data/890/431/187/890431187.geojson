@@ -1,0 +1,69 @@
+{
+  "id": 890431187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.22865,8.53556,126.22865,8.53556",
+    "geom:latitude":8.53556,
+    "geom:longitude":126.22865,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3344,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Unidad"
+    ],
+    "qs:name":"Unidad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676243,
+        1108696913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680276,
+        "gp:id":1198072,
+        "qs:id":133934
+    },
+    "wof:country":"PH",
+    "wof:created":1469051881,
+    "wof:geomhash":"441456624cdeb307f2dad5011bf94e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696913,
+            "locality_id":890431187,
+            "region_id":85676243
+        }
+    ],
+    "wof:id":890431187,
+    "wof:lastmodified":1505343522,
+    "wof:name":"Unidad",
+    "wof:parent_id":1108696913,
+    "wof:placetype":"locality",
+    "wof:population":3344,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.22865,
+    8.53556,
+    126.22865,
+    8.53556
+],
+  "geometry": {"coordinates":[126.22865,8.53556],"type":"Point"}
+}

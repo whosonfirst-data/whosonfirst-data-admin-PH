@@ -1,0 +1,69 @@
+{
+  "id": 890434585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1148,10.7602,123.1148,10.7602",
+    "geom:latitude":10.7602,
+    "geom:longitude":123.1148,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4640,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kapitan Ramon"
+    ],
+    "qs:name":"Capitan Ramon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1965308,
+        "gp:id":1173510,
+        "qs:id":137349
+    },
+    "wof:country":"PH",
+    "wof:created":1469052031,
+    "wof:geomhash":"c047a2f8dc1803faab6a16e5a012fbd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699495,
+            "locality_id":890434585,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890434585,
+    "wof:lastmodified":1505343542,
+    "wof:name":"Capitan Ramon",
+    "wof:parent_id":1108699495,
+    "wof:placetype":"locality",
+    "wof:population":4640,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1148,
+    10.7602,
+    123.1148,
+    10.7602
+],
+  "geometry": {"coordinates":[123.1148,10.7602],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242699331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7036,11.2729,122.7036,11.2729",
+    "geom:latitude":11.2729,
+    "geom:longitude":122.7036,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61904000.0",
+    "gn:asciiname":"Janguslab",
+    "gn:country_code":"PH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710295,
+    "gn:latitude":11.2729,
+    "gn:longitude":122.7036,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Janguslab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Janguslab"
+    ],
+    "name:und_x_variant":[
+        "Janguslub"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108697547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710295
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1b63f0848805902c52e10c56bf8ee567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697547,
+            "locality_id":1242699331,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1242699331,
+    "wof:lastmodified":1537678108,
+    "wof:name":"Janguslab",
+    "wof:parent_id":1108697547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7036,
+    11.2729,
+    122.7036,
+    11.2729
+],
+  "geometry": {"coordinates":[122.70359999999999,11.2729],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360106377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6539,11.3656,122.6539,11.3656",
+    "geom:latitude":11.3656,
+    "geom:longitude":122.6539,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61902000.0",
+    "gn:asciiname":"Kindyuya",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708678,
+    "gn:latitude":11.3656,
+    "gn:longitude":122.6539,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kindyuya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kindyuya"
+    ],
+    "name:und_x_variant":[
+        "Kinayuya",
+        "Quinayuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108697533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708678
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f777470ea8ff5b8b8bd0f691d77c4585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697533,
+            "locality_id":1360106377,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1360106377,
+    "wof:lastmodified":1537678060,
+    "wof:name":"Kindyuya",
+    "wof:parent_id":1108697533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6539,
+    11.3656,
+    122.6539,
+    11.3656
+],
+  "geometry": {"coordinates":[122.65389999999999,11.3656],"type":"Point"}
+}

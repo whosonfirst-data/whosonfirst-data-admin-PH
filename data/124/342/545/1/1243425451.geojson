@@ -1,0 +1,74 @@
+{
+  "id": 1243425451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81167,8.42278,125.81167,8.42278",
+    "geom:latitude":8.42278,
+    "geom:longitude":125.81167,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"03",
+    "gn:admin3_code":"160311000.0",
+    "gn:asciiname":"Buena Gracia",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723493,
+    "gn:latitude":8.42278,
+    "gn:longitude":125.81167,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buena Gracia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buena Garcia",
+        "Buena Gracia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676217,
+        1108699625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723493
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dcccaf7dff72a3917e20ab63d7217d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699625,
+            "locality_id":1243425451,
+            "region_id":85676217
+        }
+    ],
+    "wof:id":1243425451,
+    "wof:lastmodified":1537678490,
+    "wof:name":"Buena Gracia",
+    "wof:parent_id":1108699625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81167,
+    8.42278,
+    125.81167,
+    8.42278
+],
+  "geometry": {"coordinates":[125.81167000000001,8.42278],"type":"Point"}
+}

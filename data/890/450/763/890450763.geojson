@@ -1,0 +1,68 @@
+{
+  "id": 890450763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.96833,6.285,124.96833,6.285",
+    "geom:latitude":6.285,
+    "geom:longitude":124.96833,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6550,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Polongding"
+    ],
+    "qs:name":"Polonoling",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693069,
+        "qs:id":86948
+    },
+    "wof:country":"PH",
+    "wof:created":1469052752,
+    "wof:geomhash":"7adb377e7c1b4ee1ec3c904f75183399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699813,
+            "locality_id":890450763,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890450763,
+    "wof:lastmodified":1505343636,
+    "wof:name":"Polonoling",
+    "wof:parent_id":1108699813,
+    "wof:placetype":"locality",
+    "wof:population":6550,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.96833,
+    6.285,
+    124.96833,
+    6.285
+],
+  "geometry": {"coordinates":[124.96832999999999,6.285],"type":"Point"}
+}

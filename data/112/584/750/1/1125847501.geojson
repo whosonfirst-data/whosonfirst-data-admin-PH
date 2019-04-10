@@ -1,0 +1,75 @@
+{
+  "id": 1125847501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.42333,6.09056,124.42333,6.09056",
+    "geom:latitude":6.09056,
+    "geom:longitude":124.42333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3437,
+    "gn:population":3437,
+    "iso:country":"PH",
+    "lbl:latitude":6.09056,
+    "lbl:longitude":124.42333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Mindupok"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1699582,
+    "qs_pg:gn_pop":3437,
+    "qs_pg:name":"Mindupok",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87216,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699582,
+        "qs_pg:id":87216
+    },
+    "wof:country":"PH",
+    "wof:created":1497293236,
+    "wof:geomhash":"7d206a2d57ec5776c7e100a7006aecdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125847501,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125847501,
+    "wof:lastmodified":1509395724,
+    "wof:name":"Mindupok",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3437,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.42333,
+    6.09056,
+    124.42333,
+    6.09056
+],
+  "geometry": {"coordinates":[124.42333000000001,6.09056],"type":"Point"}
+}

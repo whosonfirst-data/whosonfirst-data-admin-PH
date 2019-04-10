@@ -1,0 +1,65 @@
+{
+  "id": 1243262211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.05,13.05,124.05,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":124.05,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Cagpandan",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720964,
+    "gn:latitude":13.05,
+    "gn:longitude":124.05,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Cagpandan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cagpandan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720964
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bc90c802118a2c99fc3eea563a3b6530",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243262211,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243262211,
+    "wof:lastmodified":1537678410,
+    "wof:name":"Cagpandan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.05,
+    13.05,
+    124.05,
+    13.05
+],
+  "geometry": {"coordinates":[124.05,13.05],"type":"Point"}
+}

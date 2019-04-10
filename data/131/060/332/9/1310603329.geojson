@@ -1,0 +1,72 @@
+{
+  "id": 1310603329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.05,18.28333,122.05,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":122.05,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21514000.0",
+    "gn:asciiname":"Patricio",
+    "gn:country_code":"PH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694326,
+    "gn:latitude":18.28333,
+    "gn:longitude":122.05,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Patricio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Patricio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694326
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"969527f91e2eb5fbdfd0197286dce6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697665,
+            "locality_id":1310603329,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1310603329,
+    "wof:lastmodified":1537677655,
+    "wof:name":"Patricio",
+    "wof:parent_id":1108697665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.05,
+    18.28333,
+    122.05,
+    18.28333
+],
+  "geometry": {"coordinates":[122.05,18.28333],"type":"Point"}
+}

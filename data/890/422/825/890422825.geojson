@@ -1,0 +1,69 @@
+{
+  "id": 890422825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.58389,6.89861,124.58389,6.89861",
+    "geom:latitude":6.89861,
+    "geom:longitude":124.58389,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2758,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Miteb"
+    ],
+    "qs:name":"Mileb",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108699563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699703,
+        "gp:id":91421472,
+        "qs:id":558732
+    },
+    "wof:country":"PH",
+    "wof:created":1469051466,
+    "wof:geomhash":"0c2a136081e3ed05266d5320c4631ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699563,
+            "locality_id":890422825,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890422825,
+    "wof:lastmodified":1505343472,
+    "wof:name":"Mileb",
+    "wof:parent_id":1108699563,
+    "wof:placetype":"locality",
+    "wof:population":2758,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.58389,
+    6.89861,
+    124.58389,
+    6.89861
+],
+  "geometry": {"coordinates":[124.58389,6.89861],"type":"Point"}
+}

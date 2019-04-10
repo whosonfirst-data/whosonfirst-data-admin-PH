@@ -1,0 +1,71 @@
+{
+  "id": 1209516223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94784,15.47588,120.94784,15.47588",
+    "geom:latitude":15.47588,
+    "geom:longitude":120.94784,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34903000.0",
+    "gn:asciiname":"San Josef Sur",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689390,
+    "gn:latitude":15.47588,
+    "gn:longitude":120.94784,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Josef Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Josef"
+    ],
+    "name:und_x_variant":[
+        "San Jose",
+        "San Joseph",
+        "San Josef Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689390
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9eca5515d3fc86e2c4f478007d0d977e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209516223
+        }
+    ],
+    "wof:id":1209516223,
+    "wof:lastmodified":1537677514,
+    "wof:name":"San Josef Sur",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94784,
+    15.47588,
+    120.94784,
+    15.47588
+],
+  "geometry": {"coordinates":[120.94784,15.47588],"type":"Point"}
+}

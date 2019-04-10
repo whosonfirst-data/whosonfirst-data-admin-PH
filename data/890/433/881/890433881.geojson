@@ -1,0 +1,75 @@
+{
+  "id": 890433881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0873,9.6314,123.0873,9.6314",
+    "geom:latitude":9.6314,
+    "geom:longitude":123.0873,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2904,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tamiso"
+    ],
+    "name:fil_x_variant":[
+        "Tamisu"
+    ],
+    "name:unk_x_variant":[
+        "T. Real"
+    ],
+    "qs:name":"Tamiso",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        890451429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683467,
+        "gp:id":1195689,
+        "qs:id":134071
+    },
+    "wof:country":"PH",
+    "wof:created":1469051998,
+    "wof:geomhash":"3c6adcd929bff62df31cb1d5c4191bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890451429,
+            "locality_id":890433881,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890433881,
+    "wof:lastmodified":1505343538,
+    "wof:name":"Tamiso",
+    "wof:parent_id":890451429,
+    "wof:placetype":"locality",
+    "wof:population":2904,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0873,
+    9.6314,
+    123.0873,
+    9.6314
+],
+  "geometry": {"coordinates":[123.0873,9.6314],"type":"Point"}
+}

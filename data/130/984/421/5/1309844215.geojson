@@ -1,0 +1,69 @@
+{
+  "id": 1309844215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9989,14.6293,120.9989,14.6293",
+    "geom:latitude":14.6293,
+    "geom:longitude":120.9989,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"F2",
+    "gn:asciiname":"Santa Mesa Heights",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7607848,
+    "gn:latitude":14.6293,
+    "gn:longitude":120.9989,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Santa Mesa Heights",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Santa Mesa Heights"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7607848
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6bb5e96e7ac8707d2ef7615a817b375b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1309844215,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1309844215,
+    "wof:lastmodified":1537679000,
+    "wof:name":"Santa Mesa Heights",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9989,
+    14.6293,
+    120.9989,
+    14.6293
+],
+  "geometry": {"coordinates":[120.99890000000001,14.6293],"type":"Point"}
+}

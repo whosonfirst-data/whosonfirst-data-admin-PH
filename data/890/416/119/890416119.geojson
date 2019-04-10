@@ -1,0 +1,72 @@
+{
+  "id": 890416119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.25139,8.27611,125.25139,8.27611",
+    "geom:latitude":8.27611,
+    "geom:longitude":125.25139,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2168,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Busdi"
+    ],
+    "name:unk_x_variant":[
+        "Busde"
+    ],
+    "qs:name":"Busdi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108698301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722307,
+        "gp:id":1166003,
+        "qs:id":135541
+    },
+    "wof:country":"PH",
+    "wof:created":1469051120,
+    "wof:geomhash":"11631fe8d93afc9c6c9f116afe09a3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698301,
+            "locality_id":890416119,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":890416119,
+    "wof:lastmodified":1505343430,
+    "wof:name":"Busdi",
+    "wof:parent_id":1108698301,
+    "wof:placetype":"locality",
+    "wof:population":2168,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.25139,
+    8.27611,
+    125.25139,
+    8.27611
+],
+  "geometry": {"coordinates":[125.25139,8.27611],"type":"Point"}
+}

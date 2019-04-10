@@ -1,0 +1,78 @@
+{
+  "id": 1343274559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7977,17.40784,121.7977,17.40784",
+    "geom:latitude":17.40784,
+    "geom:longitude":121.7977,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23106000.0",
+    "gn:asciiname":"Garita",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713170,
+    "gn:latitude":17.40784,
+    "gn:longitude":121.7977,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Garita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Garita"
+    ],
+    "name:fil_x_variant":[
+        "Gariga"
+    ],
+    "name:und_x_variant":[
+        "Gariga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713170
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f49bd5e995c2613b674a4fe5ae2e2435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697151,
+            "locality_id":1343274559,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1343274559,
+    "wof:lastmodified":1537678188,
+    "wof:name":"Garita",
+    "wof:parent_id":1108697151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7977,
+    17.40784,
+    121.7977,
+    17.40784
+],
+  "geometry": {"coordinates":[121.79770000000001,17.40784],"type":"Point"}
+}

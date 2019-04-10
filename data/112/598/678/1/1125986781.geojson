@@ -1,0 +1,81 @@
+{
+  "id": 1125986781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.41583,6.9675,125.41583,6.9675",
+    "geom:latitude":6.9675,
+    "geom:longitude":125.41583,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7298,
+    "gn:population":7298,
+    "iso:country":"PH",
+    "lbl:latitude":6.9675,
+    "lbl:longitude":125.41583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Baracaton"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1726844,
+    "qs_pg:gn_pop":7298,
+    "qs_pg:name":"Baracatan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":277384,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108699345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726844,
+        "qs_pg:id":277384
+    },
+    "wof:country":"PH",
+    "wof:created":1497298850,
+    "wof:geomhash":"c6f8565db7db630db9963b03fac0f9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699345,
+            "locality_id":1125986781,
+            "region_id":85676253
+        }
+    ],
+    "wof:id":1125986781,
+    "wof:lastmodified":1509405115,
+    "wof:name":"Baracatan",
+    "wof:parent_id":1108699345,
+    "wof:placetype":"locality",
+    "wof:population":7298,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.41583,
+    6.9675,
+    125.41583,
+    6.9675
+],
+  "geometry": {"coordinates":[125.41583,6.9675],"type":"Point"}
+}

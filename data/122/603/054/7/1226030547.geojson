@@ -1,0 +1,75 @@
+{
+  "id": 1226030547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.96171,10.36527,123.96171,10.36527",
+    "geom:latitude":10.36527,
+    "geom:longitude":123.96171,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72219000.0",
+    "gn:asciiname":"Tugbongan",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680961,
+    "gn:latitude":10.36527,
+    "gn:longitude":123.96171,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tugbongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tugbongan"
+    ],
+    "name:und_x_variant":[
+        "Tubongan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676287,
+        1108697383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680961
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"43093d9be9604f8970314291580eb57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697383,
+            "locality_id":1226030547,
+            "region_id":85676287
+        }
+    ],
+    "wof:id":1226030547,
+    "wof:lastmodified":1537677278,
+    "wof:name":"Tugbongan",
+    "wof:parent_id":1108697383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.96171,
+    10.36527,
+    123.96171,
+    10.36527
+],
+  "geometry": {"coordinates":[123.96171,10.36527],"type":"Point"}
+}

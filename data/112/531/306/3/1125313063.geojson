@@ -1,0 +1,80 @@
+{
+  "id": 1125313063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.10139,8.15778,124.10139,8.15778",
+    "geom:latitude":8.15778,
+    "geom:longitude":124.10139,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":0,
+    "iso:country":"PH",
+    "lbl:latitude":8.15778,
+    "lbl:longitude":124.10139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Municipality of Kauswagan"
+    ],
+    "name:unk_x_variant":[
+        "Kauswagan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":6569492,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Municipality of Kauswagan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1245203,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6569492,
+        "qs_pg:id":1245203
+    },
+    "wof:country":"PH",
+    "wof:created":1497044118,
+    "wof:geomhash":"e206c98230eee49133bba4cc744e548e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697907,
+            "localadmin_id":1125313063,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1125313063,
+    "wof:lastmodified":1509387933,
+    "wof:name":"Municipality of Kauswagan",
+    "wof:parent_id":1108697907,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.10139,
+    8.15778,
+    124.10139,
+    8.15778
+],
+  "geometry": {"coordinates":[124.10138999999999,8.15778],"type":"Point"}
+}

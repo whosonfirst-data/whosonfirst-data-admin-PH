@@ -1,0 +1,72 @@
+{
+  "id": 1243568101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69,16.9946,120.69,16.9946",
+    "geom:latitude":16.9946,
+    "geom:longitude":120.69,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12908000.0",
+    "gn:asciiname":"Lekew",
+    "gn:country_code":"PH",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612780,
+    "gn:latitude":16.9946,
+    "gn:longitude":120.69,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lekew",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lekew"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108697349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612780
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fed50b4a8097dcb19ae0f12b60016fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697349,
+            "locality_id":1243568101,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1243568101,
+    "wof:lastmodified":1537679007,
+    "wof:name":"Lekew",
+    "wof:parent_id":1108697349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69,
+    16.9946,
+    120.69,
+    16.9946
+],
+  "geometry": {"coordinates":[120.69,16.9946],"type":"Point"}
+}

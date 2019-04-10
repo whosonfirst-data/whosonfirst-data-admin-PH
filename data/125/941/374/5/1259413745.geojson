@@ -1,0 +1,72 @@
+{
+  "id": 1259413745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.90771,12.18477,119.90771,12.18477",
+    "geom:latitude":12.18477,
+    "geom:longitude":119.90771,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175307000.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688672,
+    "gn:latitude":12.18477,
+    "gn:longitude":119.90771,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Rafael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688672
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cb85138ad600558dc0ea78e016f2d37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697141,
+            "locality_id":1259413745,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1259413745,
+    "wof:lastmodified":1537677490,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1108697141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.90771,
+    12.18477,
+    119.90771,
+    12.18477
+],
+  "geometry": {"coordinates":[119.90770999999999,12.18477],"type":"Point"}
+}

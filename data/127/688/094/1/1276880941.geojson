@@ -1,0 +1,78 @@
+{
+  "id": 1276880941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3677,17.845,121.3677,17.845",
+    "geom:latitude":17.845,
+    "geom:longitude":121.3677,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21521000.0",
+    "gn:asciiname":"Nambalan",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698392,
+    "gn:latitude":17.845,
+    "gn:longitude":121.3677,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nambalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nambalan"
+    ],
+    "name:fil_x_variant":[
+        "Nambaban"
+    ],
+    "name:und_x_variant":[
+        "Nambaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108699017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698392
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"419f91a73eb05198700281fa31dcdd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699017,
+            "locality_id":1276880941,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1276880941,
+    "wof:lastmodified":1537677771,
+    "wof:name":"Nambalan",
+    "wof:parent_id":1108699017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3677,
+    17.845,
+    121.3677,
+    17.845
+],
+  "geometry": {"coordinates":[121.3677,17.845],"type":"Point"}
+}

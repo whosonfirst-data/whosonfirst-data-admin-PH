@@ -1,0 +1,68 @@
+{
+  "id": 890431763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.78417,8.78278,124.78417,8.78278",
+    "geom:latitude":8.78278,
+    "geom:longitude":124.78417,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2781,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mambay-an"
+    ],
+    "qs:name":"Mambayaan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676249,
+        1108696845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702318,
+        "qs:id":277069
+    },
+    "wof:country":"PH",
+    "wof:created":1469051912,
+    "wof:geomhash":"8e4419347d4f8c759fc49fe612afaed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696845,
+            "locality_id":890431763,
+            "region_id":85676249
+        }
+    ],
+    "wof:id":890431763,
+    "wof:lastmodified":1505343525,
+    "wof:name":"Mambayaan",
+    "wof:parent_id":1108696845,
+    "wof:placetype":"locality",
+    "wof:population":2781,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.78417,
+    8.78278,
+    124.78417,
+    8.78278
+],
+  "geometry": {"coordinates":[124.78417,8.78278],"type":"Point"}
+}

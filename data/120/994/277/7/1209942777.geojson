@@ -1,0 +1,67 @@
+{
+  "id": 1209942777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0606,14.5384,121.0606,14.5384",
+    "geom:latitude":14.5384,
+    "geom:longitude":121.0606,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137600000",
+    "gn:admin3_code":"137602000.0",
+    "gn:asciiname":"Pembo",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091224,
+    "gn:latitude":14.5384,
+    "gn:longitude":121.0606,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pembo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091224
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8410dcef7e77fe28d4bf8894def45c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1209942777,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1209942777,
+    "wof:lastmodified":1536387749,
+    "wof:name":"Pembo",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0606,
+    14.5384,
+    121.0606,
+    14.5384
+],
+  "geometry": {"coordinates":[121.06059999999999,14.5384],"type":"Point"}
+}

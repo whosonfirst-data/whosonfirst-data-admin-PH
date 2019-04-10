@@ -1,0 +1,68 @@
+{
+  "id": 890432677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85,12.28333,124.85,12.28333",
+    "geom:latitude":12.28333,
+    "geom:longitude":124.85,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":13404,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Silvino Lobos"
+    ],
+    "qs:name":"Silvino Lobos",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676209,
+        1108699499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686437,
+        "qs:id":86566
+    },
+    "wof:country":"PH",
+    "wof:created":1469051950,
+    "wof:geomhash":"f95cadbb0227c5ee1a10c47e7c51ba8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699499,
+            "localadmin_id":890432677,
+            "region_id":85676209
+        }
+    ],
+    "wof:id":890432677,
+    "wof:lastmodified":1505343531,
+    "wof:name":"Silvino Lobos",
+    "wof:parent_id":1108699499,
+    "wof:placetype":"localadmin",
+    "wof:population":13404,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85,
+    12.28333,
+    124.85,
+    12.28333
+],
+  "geometry": {"coordinates":[124.84999999999999,12.28333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890451205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.44111,6.94833,124.44111,6.94833",
+    "geom:latitude":6.94833,
+    "geom:longitude":124.44111,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2608,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kitango"
+    ],
+    "qs:name":"Kitango",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108699633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708608,
+        "gp:id":1160419,
+        "qs:id":87619
+    },
+    "wof:country":"PH",
+    "wof:created":1469052769,
+    "wof:geomhash":"c559e27cb2ab687dc7f0f0a45b108ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699633,
+            "locality_id":890451205,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":890451205,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Kitango",
+    "wof:parent_id":1108699633,
+    "wof:placetype":"locality",
+    "wof:population":2608,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.44111,
+    6.94833,
+    124.44111,
+    6.94833
+],
+  "geometry": {"coordinates":[124.44110999999999,6.94833],"type":"Point"}
+}

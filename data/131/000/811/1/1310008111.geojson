@@ -1,0 +1,79 @@
+{
+  "id": 1310008111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.84404,17.24453,121.84404,17.24453",
+    "geom:latitude":17.24453,
+    "geom:longitude":121.84404,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23137000.0",
+    "gn:asciiname":"Bayabu I",
+    "gn:country_code":"PH",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725876,
+    "gn:latitude":17.24453,
+    "gn:longitude":121.84404,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bayabu I",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bayabu I"
+    ],
+    "name:fil_x_variant":[
+        "Bayasu",
+        "Bayabu"
+    ],
+    "name:und_x_variant":[
+        "Bayabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108696595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725876
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d757a626f464a06d98fb3da4f68ffd38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696595,
+            "locality_id":1310008111,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1310008111,
+    "wof:lastmodified":1537678559,
+    "wof:name":"Bayabu I",
+    "wof:parent_id":1108696595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.84404,
+    17.24452999999999,
+    121.84404,
+    17.24452999999999
+],
+  "geometry": {"coordinates":[121.84404000000001,17.24452999999999],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1210025505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5906,17.2535,120.5906,17.2535",
+    "geom:latitude":17.2535,
+    "geom:longitude":120.5906,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12917000.0",
+    "gn:asciiname":"Lancuas",
+    "gn:country_code":"PH",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707648,
+    "gn:latitude":17.2535,
+    "gn:longitude":120.5906,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lancuas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lancuas"
+    ],
+    "name:fil_x_variant":[
+        "Lancuay"
+    ],
+    "name:und_x_variant":[
+        "Lancuay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707648
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"283b8d5e28f9e68272a40cf4f4bd4aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699131,
+            "locality_id":1210025505,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1210025505,
+    "wof:lastmodified":1537678032,
+    "wof:name":"Lancuas",
+    "wof:parent_id":1108699131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5906,
+    17.2535,
+    120.5906,
+    17.2535
+],
+  "geometry": {"coordinates":[120.59059999999999,17.2535],"type":"Point"}
+}

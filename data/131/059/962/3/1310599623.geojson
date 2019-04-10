@@ -1,0 +1,76 @@
+{
+  "id": 1310599623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1456,14.0033,124.1456,14.0033",
+    "geom:latitude":14.0033,
+    "geom:longitude":124.1456,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"52004000.0",
+    "gn:asciiname":"Canburo",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719726,
+    "gn:latitude":14.0033,
+    "gn:longitude":124.1456,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Canburo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Canburo"
+    ],
+    "name:und_x_variant":[
+        "Camporo",
+        "Camboro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108697275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719726
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"42a6d8086a4077164c3182750356d58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697275,
+            "locality_id":1310599623,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":1310599623,
+    "wof:lastmodified":1537678373,
+    "wof:name":"Canburo",
+    "wof:parent_id":1108697275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1456,
+    14.0033,
+    124.1456,
+    14.0033
+],
+  "geometry": {"coordinates":[124.1456,14.0033],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327062703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9692,11.1408,120.9692,11.1408",
+    "geom:latitude":11.1408,
+    "geom:longitude":120.9692,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175302000.0",
+    "gn:asciiname":"Villasol",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679844,
+    "gn:latitude":11.1408,
+    "gn:longitude":120.9692,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villasol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Villasol"
+    ],
+    "name:und_x_variant":[
+        "Viallasol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108696577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679844
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"249c3ec4a67f3007fd89cd0e6d20ccc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696577,
+            "locality_id":1327062703,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1327062703,
+    "wof:lastmodified":1537677243,
+    "wof:name":"Villasol",
+    "wof:parent_id":1108696577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9692,
+    11.1408,
+    120.9692,
+    11.1408
+],
+  "geometry": {"coordinates":[120.9692,11.1408],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125269593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.91667,11.85,124.91667,11.85",
+    "geom:latitude":11.85,
+    "geom:longitude":124.91667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":89240,
+    "gn:population":89240,
+    "iso:country":"PH",
+    "lbl:latitude":11.85,
+    "lbl:longitude":124.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Catbalogan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1717912,
+    "qs_pg:gn_pop":89240,
+    "qs_pg:name":"City of Catbalogan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":903648,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108697329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717912,
+        "qs_pg:id":903648
+    },
+    "wof:country":"PH",
+    "wof:created":1497042067,
+    "wof:geomhash":"1eb0b55f8e78223ed44c7928d9758bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697329,
+            "localadmin_id":1125269593,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1125269593,
+    "wof:lastmodified":1514618121,
+    "wof:name":"City of Catbalogan",
+    "wof:parent_id":1108697329,
+    "wof:placetype":"localadmin",
+    "wof:population":89240,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.91667,
+    11.85,
+    124.91667,
+    11.85
+],
+  "geometry": {"coordinates":[124.91667,11.85],"type":"Point"}
+}

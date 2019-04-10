@@ -1,0 +1,72 @@
+{
+  "id": 1242779115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7329,15.0163,120.7329,15.0163",
+    "geom:latitude":15.0163,
+    "geom:longitude":120.7329,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35418000.0",
+    "gn:asciiname":"Polo",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693091,
+    "gn:latitude":15.0163,
+    "gn:longitude":120.7329,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Polo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Polo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693091
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7605205433cd1d9ae934447c1bb66da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699315,
+            "locality_id":1242779115,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1242779115,
+    "wof:lastmodified":1537677619,
+    "wof:name":"Polo",
+    "wof:parent_id":1108699315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7329,
+    15.0163,
+    120.7329,
+    15.0163
+],
+  "geometry": {"coordinates":[120.7329,15.0163],"type":"Point"}
+}

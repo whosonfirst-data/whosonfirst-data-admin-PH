@@ -1,0 +1,72 @@
+{
+  "id": 1259878229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2445,12.8756,123.2445,12.8756",
+    "geom:latitude":12.8756,
+    "geom:longitude":123.2445,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54107000.0",
+    "gn:asciiname":"Ilaya",
+    "gn:country_code":"PH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7374251,
+    "gn:latitude":12.8756,
+    "gn:longitude":123.2445,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ilaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ilaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108697361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7374251
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"64d400da6e7053228fbe3be385e89378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697361,
+            "locality_id":1259878229,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1259878229,
+    "wof:lastmodified":1537678836,
+    "wof:name":"Ilaya",
+    "wof:parent_id":1108697361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2445,
+    12.8756,
+    123.2445,
+    12.8756
+],
+  "geometry": {"coordinates":[123.2445,12.8756],"type":"Point"}
+}

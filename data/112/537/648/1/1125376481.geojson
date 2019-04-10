@@ -1,0 +1,84 @@
+{
+  "id": 1125376481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4583,8.0172,123.4583,8.0172",
+    "geom:latitude":8.0172,
+    "geom:longitude":123.4583,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":25272,
+    "gn:population":25272,
+    "iso:country":"PH",
+    "lbl:latitude":8.0172,
+    "lbl:longitude":123.4583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Municipality of Ramon Magsaysay"
+    ],
+    "name:unk_x_variant":[
+        "Liargo"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1691910,
+    "qs_pg:gn_pop":25272,
+    "qs_pg:name":"Municipality of Ramon Magsaysay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":371526,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691910,
+        "qs_pg:id":371526
+    },
+    "wof:country":"PH",
+    "wof:created":1497047776,
+    "wof:geomhash":"81679f65a8bb3e053896ad868df9e20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699003,
+            "localadmin_id":1125376481,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1125376481,
+    "wof:lastmodified":1509389471,
+    "wof:name":"Municipality of Ramon Magsaysay",
+    "wof:parent_id":1108699003,
+    "wof:placetype":"localadmin",
+    "wof:population":25272,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4583,
+    8.0172,
+    123.4583,
+    8.0172
+],
+  "geometry": {"coordinates":[123.45829999999999,8.0172],"type":"Point"}
+}

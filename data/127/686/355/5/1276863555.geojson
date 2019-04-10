@@ -1,0 +1,72 @@
+{
+  "id": 1276863555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5897,11.3272,122.5897,11.3272",
+    "geom:latitude":11.3272,
+    "geom:longitude":122.5897,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61903000.0",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"PH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689075,
+    "gn:latitude":11.3272,
+    "gn:longitude":122.5897,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Martin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Martin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108697533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689075
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"48239592f089d08b0110d3327098798e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697533,
+            "locality_id":1276863555,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1276863555,
+    "wof:lastmodified":1537677503,
+    "wof:name":"San Martin",
+    "wof:parent_id":1108697533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5897,
+    11.3272,
+    122.5897,
+    11.3272
+],
+  "geometry": {"coordinates":[122.58969999999999,11.3272],"type":"Point"}
+}

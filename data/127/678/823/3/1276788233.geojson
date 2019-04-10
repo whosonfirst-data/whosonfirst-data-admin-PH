@@ -1,0 +1,77 @@
+{
+  "id": 1276788233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5145,10.4329,122.5145,10.4329",
+    "geom:latitude":10.4329,
+    "geom:longitude":122.5145,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"J3",
+    "gn:admin3_code":"67903000.0",
+    "gn:asciiname":"Binbanan",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725041,
+    "gn:latitude":10.4329,
+    "gn:longitude":122.5145,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binbanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Binanbana"
+    ],
+    "name:und_x_variant":[
+        "Nabinbinan",
+        "Binanbana",
+        "Binbanan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675999,
+        1108698679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725041
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"de6e5ccc8f785526316cef538f939bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698679,
+            "locality_id":1276788233,
+            "region_id":85675999
+        }
+    ],
+    "wof:id":1276788233,
+    "wof:lastmodified":1537678535,
+    "wof:name":"Binbanan",
+    "wof:parent_id":1108698679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5145,
+    10.4329,
+    122.5145,
+    10.4329
+],
+  "geometry": {"coordinates":[122.5145,10.4329],"type":"Point"}
+}

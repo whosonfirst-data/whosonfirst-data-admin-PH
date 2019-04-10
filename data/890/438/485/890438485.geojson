@@ -1,0 +1,71 @@
+{
+  "id": 890438485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0265,5.2057,120.0265,5.2057",
+    "geom:latitude":5.2057,
+    "geom:longitude":120.0265,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":450346,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Tawi-Tawi"
+    ],
+    "qs:name":"Province of Tawi-Tawi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682671,
+        "gp:id":2346725,
+        "qs:id":1030964,
+        "wd:id":"Q6518355",
+        "wk:page":"Legislative district of Tawi-Tawi"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052196,
+    "wof:geomhash":"71f52dfe4c830a2b682bea35e48be1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890438485,
+            "region_id":85675929
+        }
+    ],
+    "wof:id":890438485,
+    "wof:lastmodified":1527735420,
+    "wof:name":"Province of Tawi-Tawi",
+    "wof:parent_id":85675929,
+    "wof:placetype":"county",
+    "wof:population":450346,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0265,
+    5.2057,
+    120.0265,
+    5.2057
+],
+  "geometry": {"coordinates":[120.0265,5.2057],"type":"Point"}
+}

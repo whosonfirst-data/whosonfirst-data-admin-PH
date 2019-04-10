@@ -1,0 +1,72 @@
+{
+  "id": 1243450991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.55,9.21667,123.55,9.21667",
+    "geom:latitude":9.21667,
+    "geom:longitude":123.55,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76106000.0",
+    "gn:asciiname":"Cangisad",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719183,
+    "gn:latitude":9.21667,
+    "gn:longitude":123.55,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cangisad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cangisad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719183
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6fcba2676cae30701d3bfda6fb5a03c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698661,
+            "locality_id":1243450991,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1243450991,
+    "wof:lastmodified":1537678355,
+    "wof:name":"Cangisad",
+    "wof:parent_id":1108698661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.55,
+    9.21667,
+    123.55,
+    9.21667
+],
+  "geometry": {"coordinates":[123.55,9.21667],"type":"Point"}
+}

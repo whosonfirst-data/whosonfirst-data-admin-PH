@@ -1,0 +1,70 @@
+{
+  "id": 890430303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1,11.41667,123.1,11.41667",
+    "geom:latitude":11.41667,
+    "geom:longitude":123.1,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":18032,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Batad"
+    ],
+    "qs:name":"Batad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726334,
+        "qs:id":88328,
+        "wk:page":"Batad"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051847,
+    "wof:geomhash":"b36e9b1fd18e332c135358548c37289a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696935,
+            "localadmin_id":890430303,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890430303,
+    "wof:lastmodified":1527729739,
+    "wof:name":"Batad",
+    "wof:parent_id":1108696935,
+    "wof:placetype":"localadmin",
+    "wof:population":18032,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1,
+    11.41667,
+    123.1,
+    11.41667
+],
+  "geometry": {"coordinates":[123.09999999999999,11.41667],"type":"Point"}
+}

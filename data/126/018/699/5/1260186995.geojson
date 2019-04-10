@@ -1,0 +1,72 @@
+{
+  "id": 1260186995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4352,13.4111,123.4352,13.4111",
+    "geom:latitude":13.4111,
+    "geom:longitude":123.4352,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51716000.0",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688188,
+    "gn:latitude":13.4111,
+    "gn:longitude":123.4352,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Elena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688188
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b999e83636d634b36422b053f7e43b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697777,
+            "locality_id":1260186995,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1260186995,
+    "wof:lastmodified":1537677474,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":1108697777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4352,
+    13.4111,
+    123.4352,
+    13.4111
+],
+  "geometry": {"coordinates":[123.43519999999999,13.4111],"type":"Point"}
+}

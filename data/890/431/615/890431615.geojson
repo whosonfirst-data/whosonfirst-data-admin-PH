@@ -1,0 +1,71 @@
+{
+  "id": 890431615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0383,13.6181,123.0383,13.6181",
+    "geom:latitude":13.6181,
+    "geom:longitude":123.0383,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2149,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "San Ramon"
+    ],
+    "qs:name":"San Ramon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688611,
+        "gp:id":1191773,
+        "qs:id":276875,
+        "wk:page":"San Ram\u00f3n"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051900,
+    "wof:geomhash":"31b9cca6c12498b47b8bf06aa49e4f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698761,
+            "locality_id":890431615,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890431615,
+    "wof:lastmodified":1527735416,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1108698761,
+    "wof:placetype":"locality",
+    "wof:population":2149,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0383,
+    13.6181,
+    123.0383,
+    13.6181
+],
+  "geometry": {"coordinates":[123.03830000000001,13.6181],"type":"Point"}
+}

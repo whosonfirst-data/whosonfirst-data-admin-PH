@@ -1,0 +1,75 @@
+{
+  "id": 1327261637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9014,11.8674,119.9014,11.8674",
+    "geom:latitude":11.8674,
+    "geom:longitude":119.9014,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175322000.0",
+    "gn:asciiname":"Kabel-Kabel",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709869,
+    "gn:latitude":11.8674,
+    "gn:longitude":119.9014,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kabel-Kabel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kabel-Kabel"
+    ],
+    "name:und_x_variant":[
+        "Kabul Kabul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709869
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3b8330760cf09204ae8e56d48cf869c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697407,
+            "locality_id":1327261637,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1327261637,
+    "wof:lastmodified":1537678096,
+    "wof:name":"Kabel-Kabel",
+    "wof:parent_id":1108697407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9014,
+    11.8674,
+    119.9014,
+    11.8674
+],
+  "geometry": {"coordinates":[119.9014,11.8674],"type":"Point"}
+}

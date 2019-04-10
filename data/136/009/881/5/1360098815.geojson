@@ -1,0 +1,72 @@
+{
+  "id": 1360098815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8685,15.9404,119.8685,15.9404",
+    "geom:latitude":15.9404,
+    "geom:longitude":119.8685,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15519000.0",
+    "gn:asciiname":"Hermosa",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711827,
+    "gn:latitude":15.9404,
+    "gn:longitude":119.8685,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hermosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hermosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711827
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f6c84c1e89f3c465effc5c1795a11acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698649,
+            "locality_id":1360098815,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1360098815,
+    "wof:lastmodified":1537678149,
+    "wof:name":"Hermosa",
+    "wof:parent_id":1108698649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8685,
+    15.9404,
+    119.8685,
+    15.9404
+],
+  "geometry": {"coordinates":[119.8685,15.9404],"type":"Point"}
+}

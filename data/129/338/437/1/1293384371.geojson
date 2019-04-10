@@ -1,0 +1,74 @@
+{
+  "id": 1293384371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.85556,7.56472,122.85556,7.56472",
+    "geom:latitude":7.56472,
+    "geom:longitude":122.85556,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"ZSI",
+    "gn:admin3_code":"98311000.0",
+    "gn:asciiname":"Carilao",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708410,
+    "gn:latitude":7.56472,
+    "gn:longitude":122.85556,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Carilao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurilao",
+        "Carilao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675963,
+        1108698847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708410
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"12af329278858d33fbeec1d973de30f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698847,
+            "locality_id":1293384371,
+            "region_id":85675963
+        }
+    ],
+    "wof:id":1293384371,
+    "wof:lastmodified":1537678052,
+    "wof:name":"Carilao",
+    "wof:parent_id":1108698847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.85556,
+    7.56472,
+    122.85556,
+    7.56472
+],
+  "geometry": {"coordinates":[122.85556,7.56472],"type":"Point"}
+}

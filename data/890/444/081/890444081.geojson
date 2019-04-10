@@ -1,0 +1,71 @@
+{
+  "id": 890444081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4045,16.8441,120.4045,16.8441",
+    "geom:latitude":16.8441,
+    "geom:longitude":120.4045,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2552,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Cantoria"
+    ],
+    "qs:name":"Cantoria",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108698161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718848,
+        "gp:id":1168817,
+        "qs:id":1032924,
+        "wk:page":"Cantoria"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052450,
+    "wof:geomhash":"24e071f9b051517802a2912148054290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698161,
+            "locality_id":890444081,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":890444081,
+    "wof:lastmodified":1527782135,
+    "wof:name":"Cantoria",
+    "wof:parent_id":1108698161,
+    "wof:placetype":"locality",
+    "wof:population":2552,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4045,
+    16.8441,
+    120.4045,
+    16.8441
+],
+  "geometry": {"coordinates":[120.4045,16.8441],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310585081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5218,8.0901,123.5218,8.0901",
+    "geom:latitude":8.0901,
+    "geom:longitude":123.5218,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97328000.0",
+    "gn:asciiname":"Gabunan",
+    "gn:country_code":"PH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713443,
+    "gn:latitude":8.0901,
+    "gn:longitude":123.5218,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gabunan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gabunan"
+    ],
+    "name:und_x_variant":[
+        "Gabunon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713443
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"016043f956d87d6ae3c68beef7ce75c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699655,
+            "locality_id":1310585081,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1310585081,
+    "wof:lastmodified":1537678198,
+    "wof:name":"Gabunan",
+    "wof:parent_id":1108699655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5218,
+    8.0901,
+    123.5218,
+    8.0901
+],
+  "geometry": {"coordinates":[123.5218,8.0901],"type":"Point"}
+}

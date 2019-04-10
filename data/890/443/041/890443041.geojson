@@ -1,0 +1,71 @@
+{
+  "id": 890443041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1,6.63333,122.1,6.63333",
+    "geom:latitude":6.63333,
+    "geom:longitude":122.1,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":63615,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lamitan"
+    ],
+    "qs:name":"Lamitan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":1576,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675955,
+        1108697989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707763,
+        "qs:id":371746,
+        "wd:id":"Q1714",
+        "wk:page":"Lamitan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052396,
+    "wof:geomhash":"43fd6fe49dd11ac7c2f467877d4def98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697989,
+            "localadmin_id":890443041,
+            "region_id":85675955
+        }
+    ],
+    "wof:id":890443041,
+    "wof:lastmodified":1527787059,
+    "wof:name":"Lamitan",
+    "wof:parent_id":1108697989,
+    "wof:placetype":"localadmin",
+    "wof:population":63615,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1,
+    6.63333,
+    122.1,
+    6.63333
+],
+  "geometry": {"coordinates":[122.09999999999999,6.63333],"type":"Point"}
+}

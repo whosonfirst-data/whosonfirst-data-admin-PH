@@ -1,0 +1,74 @@
+{
+  "id": 1309685475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.09889,7.88861,124.09889,7.88861",
+    "geom:latitude":7.88861,
+    "geom:longitude":124.09889,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35",
+    "gn:admin3_code":"153613000.0",
+    "gn:asciiname":"Pindolonan",
+    "gn:country_code":"PH",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694066,
+    "gn:latitude":7.88861,
+    "gn:longitude":124.09889,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pindolonan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pindalunan",
+        "Pindolonan",
+        "Pendolonan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676169,
+        1108696749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694066
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"acd7ea385efa4d8cb27bd3e30ab50eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696749,
+            "locality_id":1309685475,
+            "region_id":85676169
+        }
+    ],
+    "wof:id":1309685475,
+    "wof:lastmodified":1537677647,
+    "wof:name":"Pindolonan",
+    "wof:parent_id":1108696749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.09889,
+    7.88861,
+    124.09889,
+    7.88861
+],
+  "geometry": {"coordinates":[124.09889,7.88861],"type":"Point"}
+}

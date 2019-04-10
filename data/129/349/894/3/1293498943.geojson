@@ -1,0 +1,74 @@
+{
+  "id": 1293498943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.22917,14.91417,120.22917,14.91417",
+    "geom:latitude":14.91417,
+    "geom:longitude":120.22917,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37114000.0",
+    "gn:asciiname":"Aninguay",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730648,
+    "gn:latitude":14.91417,
+    "gn:longitude":120.22917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ani\u00f1guay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aningoay",
+        "Ani\u00f1guay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676361,
+        1108699545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730648
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"02b589a46c55694b9368a2a063ee3d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699545,
+            "locality_id":1293498943,
+            "region_id":85676361
+        }
+    ],
+    "wof:id":1293498943,
+    "wof:lastmodified":1537678701,
+    "wof:name":"Aninguay",
+    "wof:parent_id":1108699545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.22917,
+    14.91417,
+    120.22917,
+    14.91417
+],
+  "geometry": {"coordinates":[120.22917,14.91417],"type":"Point"}
+}

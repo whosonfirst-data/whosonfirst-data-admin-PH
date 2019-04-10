@@ -1,0 +1,72 @@
+{
+  "id": 890432929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6574,10.1299,123.6574,10.1299",
+    "geom:latitude":10.1299,
+    "geom:longitude":123.6574,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":6994,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Can-asujan"
+    ],
+    "name:unk_x_variant":[
+        "Kanasujan"
+    ],
+    "qs:name":"Can-asujan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719410,
+        "gp:id":91798230,
+        "qs:id":88065
+    },
+    "wof:country":"PH",
+    "wof:created":1469051960,
+    "wof:geomhash":"a83f7febd80bd6fd637120fd0a9ff778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697281,
+            "locality_id":890432929,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890432929,
+    "wof:lastmodified":1505343532,
+    "wof:name":"Can-asujan",
+    "wof:parent_id":1108697281,
+    "wof:placetype":"locality",
+    "wof:population":6994,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6574,
+    10.1299,
+    123.6574,
+    10.1299
+],
+  "geometry": {"coordinates":[123.6574,10.1299],"type":"Point"}
+}

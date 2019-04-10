@@ -1,0 +1,71 @@
+{
+  "id": 890415151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9384,12.089,123.9384,12.089",
+    "geom:latitude":12.089,
+    "geom:longitude":123.9384,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2537,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Pe\u00f1a"
+    ],
+    "qs:name":"Pe\u00f1a",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":354,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694092,
+        "gp:id":1187505,
+        "qs:id":86997,
+        "wk:page":"Pe\u00f1a"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051076,
+    "wof:geomhash":"a62f3680da493b59de0e16bd9aa8f256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698737,
+            "locality_id":890415151,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":890415151,
+    "wof:lastmodified":1527727236,
+    "wof:name":"Pe\u00f1a",
+    "wof:parent_id":1108698737,
+    "wof:placetype":"locality",
+    "wof:population":2537,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9384,
+    12.089,
+    123.9384,
+    12.089
+],
+  "geometry": {"coordinates":[123.9384,12.089],"type":"Point"}
+}

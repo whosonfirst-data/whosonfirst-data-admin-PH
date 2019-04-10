@@ -1,0 +1,72 @@
+{
+  "id": 1293773019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5549,8.0647,123.5549,8.0647",
+    "geom:latitude":8.0647,
+    "geom:longitude":123.5549,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97328000.0",
+    "gn:asciiname":"Balucot",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727801,
+    "gn:latitude":8.0647,
+    "gn:longitude":123.5549,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balucot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balucot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727801
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"298c500fb88aad641d78939b43ec50a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699655,
+            "locality_id":1293773019,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1293773019,
+    "wof:lastmodified":1537678618,
+    "wof:name":"Balucot",
+    "wof:parent_id":1108699655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5549,
+    8.0647,
+    123.5549,
+    8.0647
+],
+  "geometry": {"coordinates":[123.5549,8.0647],"type":"Point"}
+}

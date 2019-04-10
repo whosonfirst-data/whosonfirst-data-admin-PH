@@ -1,0 +1,77 @@
+{
+  "id": 1193012647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3025,9.6505,124.3025,9.6505",
+    "geom:latitude":9.6505,
+    "geom:longitude":124.3025,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71222000.0",
+    "gn:asciiname":"Abijilan",
+    "gn:country_code":"PH",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732428,
+    "gn:latitude":9.6505,
+    "gn:longitude":124.3025,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Abijilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Abijilan"
+    ],
+    "name:und_x_variant":[
+        "Abihilan",
+        "Abijilan",
+        "Abihilam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732428
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a8c71ab1c3de24a0b4c575c67b5f84e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697615,
+            "locality_id":1193012647,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1193012647,
+    "wof:lastmodified":1537678752,
+    "wof:name":"Abijilan",
+    "wof:parent_id":1108697615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3025,
+    9.6505,
+    124.3025,
+    9.6505
+],
+  "geometry": {"coordinates":[124.30249999999999,9.6505],"type":"Point"}
+}

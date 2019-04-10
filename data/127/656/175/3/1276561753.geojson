@@ -1,0 +1,72 @@
+{
+  "id": 1276561753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36499,15.84949,120.36499,15.84949",
+    "geom:latitude":15.84949,
+    "geom:longitude":120.36499,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15545000.0",
+    "gn:asciiname":"Duplac",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714045,
+    "gn:latitude":15.84949,
+    "gn:longitude":120.36499,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Duplac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Duplac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714045
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fbffe35b4d37e38378605a094de0bff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699825,
+            "locality_id":1276561753,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1276561753,
+    "wof:lastmodified":1537678212,
+    "wof:name":"Duplac",
+    "wof:parent_id":1108699825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36499,
+    15.84949,
+    120.36499,
+    15.84949
+],
+  "geometry": {"coordinates":[120.36499000000001,15.84949],"type":"Point"}
+}

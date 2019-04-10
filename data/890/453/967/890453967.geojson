@@ -1,0 +1,68 @@
+{
+  "id": 890453967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.53333,6.31667,124.53333,6.31667",
+    "geom:latitude":6.31667,
+    "geom:longitude":124.53333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":73880,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Surallah"
+    ],
+    "qs:name":"Surallah",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685231,
+        "qs:id":86514
+    },
+    "wof:country":"PH",
+    "wof:created":1469052880,
+    "wof:geomhash":"ea91d2ae6704a821bace69ffb3521184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699577,
+            "localadmin_id":890453967,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890453967,
+    "wof:lastmodified":1505343654,
+    "wof:name":"Surallah",
+    "wof:parent_id":1108699577,
+    "wof:placetype":"localadmin",
+    "wof:population":73880,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.53333,
+    6.31667,
+    124.53333,
+    6.31667
+],
+  "geometry": {"coordinates":[124.53333000000001,6.31667],"type":"Point"}
+}

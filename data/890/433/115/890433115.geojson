@@ -1,0 +1,68 @@
+{
+  "id": 890433115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.72889,7.80444,124.72889,7.80444",
+    "geom:latitude":7.80444,
+    "geom:longitude":124.72889,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2728,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bangahan"
+    ],
+    "qs:name":"Bangahan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108697883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727358,
+        "qs:id":135814
+    },
+    "wof:country":"PH",
+    "wof:created":1469051967,
+    "wof:geomhash":"8881875568da5c70f55a5352d88cf7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697883,
+            "locality_id":890433115,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":890433115,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Bangahan",
+    "wof:parent_id":1108697883,
+    "wof:placetype":"locality",
+    "wof:population":2728,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.72889,
+    7.80444,
+    124.72889,
+    7.80444
+],
+  "geometry": {"coordinates":[124.72889000000001,7.80444],"type":"Point"}
+}

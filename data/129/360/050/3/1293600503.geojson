@@ -1,0 +1,75 @@
+{
+  "id": 1293600503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61175,15.24376,120.61175,15.24376",
+    "geom:latitude":15.24376,
+    "geom:longitude":120.61175,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35409000.0",
+    "gn:asciiname":"Sapang Balen",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687293,
+    "gn:latitude":15.24376,
+    "gn:longitude":120.61175,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sapang Balen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sapang Balem"
+    ],
+    "name:fil_x_variant":[
+        "Sapangbalen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687293
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9dc6497653cf460a5d43f2f833042a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698185,
+            "locality_id":1293600503,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1293600503,
+    "wof:lastmodified":1537677443,
+    "wof:name":"Sapang Balen",
+    "wof:parent_id":1108698185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61175,
+    15.24376,
+    120.61175,
+    15.24376
+],
+  "geometry": {"coordinates":[120.61175,15.24376],"type":"Point"}
+}

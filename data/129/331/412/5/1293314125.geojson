@@ -1,0 +1,72 @@
+{
+  "id": 1293314125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3146,10.79785,122.3146,10.79785",
+    "geom:latitude":10.79785,
+    "geom:longitude":122.3146,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63046000.0",
+    "gn:asciiname":"Nagba",
+    "gn:country_code":"PH",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1698790,
+    "gn:latitude":10.79785,
+    "gn:longitude":122.3146,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nagba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nagba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698790
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"39a92a86d222f52ce638e7f3f8122306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699789,
+            "locality_id":1293314125,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1293314125,
+    "wof:lastmodified":1537677784,
+    "wof:name":"Nagba",
+    "wof:parent_id":1108699789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3146,
+    10.79785,
+    122.3146,
+    10.79785
+],
+  "geometry": {"coordinates":[122.3146,10.79785],"type":"Point"}
+}

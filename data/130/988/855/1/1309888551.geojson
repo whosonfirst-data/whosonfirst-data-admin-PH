@@ -1,0 +1,78 @@
+{
+  "id": 1309888551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1805,17.3972,121.1805,17.3972",
+    "geom:latitude":17.3972,
+    "geom:longitude":121.1805,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143208000.0",
+    "gn:asciiname":"Maxillay",
+    "gn:country_code":"PH",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700108,
+    "gn:latitude":17.3972,
+    "gn:longitude":121.1805,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maxillay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maxillay"
+    ],
+    "name:fil_x_variant":[
+        "Bulen"
+    ],
+    "name:und_x_variant":[
+        "Bulen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108698825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700108
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"81fc91ab7d5efcf8ad470f49c9319ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698825,
+            "locality_id":1309888551,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1309888551,
+    "wof:lastmodified":1537677819,
+    "wof:name":"Maxillay",
+    "wof:parent_id":1108698825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1805,
+    17.3972,
+    121.1805,
+    17.3972
+],
+  "geometry": {"coordinates":[121.18049999999999,17.3972],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260159325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.98333,8.0,123.98333,8.0",
+    "geom:latitude":8.0,
+    "geom:longitude":123.98333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103521000.0",
+    "gn:asciiname":"Bayabao",
+    "gn:country_code":"PH",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725912,
+    "gn:latitude":8.0,
+    "gn:longitude":123.98333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bayabao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bayabao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108699679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725912
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5070a5b0cc342f2d3c7a2fc804fbd3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699679,
+            "locality_id":1260159325,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1260159325,
+    "wof:lastmodified":1537678561,
+    "wof:name":"Bayabao",
+    "wof:parent_id":1108699679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.98333,
+    8.0,
+    123.98333,
+    8.0
+],
+  "geometry": {"coordinates":[123.98333,8.0],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293028987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.8965,9.1882,122.8965,9.1882",
+    "geom:latitude":9.1882,
+    "geom:longitude":122.8965,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74618000.0",
+    "gn:asciiname":"Maloconan",
+    "gn:country_code":"PH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702551,
+    "gn:latitude":9.1882,
+    "gn:longitude":122.8965,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maloconan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maloconan"
+    ],
+    "name:und_x_variant":[
+        "Moloconan",
+        "San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702551
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c2febca94e050be7838c7d59f4c95c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699343,
+            "locality_id":1293028987,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1293028987,
+    "wof:lastmodified":1537677886,
+    "wof:name":"Maloconan",
+    "wof:parent_id":1108699343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.8965,
+    9.1882,
+    122.8965,
+    9.1882
+],
+  "geometry": {"coordinates":[122.8965,9.1882],"type":"Point"}
+}

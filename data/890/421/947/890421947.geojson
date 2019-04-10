@@ -1,0 +1,66 @@
+{
+  "id": 890421947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5631,6.2282,120.5631,6.2282",
+    "geom:latitude":6.2282,
+    "geom:longitude":120.5631,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3192,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pandan Niog"
+    ],
+    "name:unk_x_variant":[
+        "Pangdan"
+    ],
+    "qs:name":"Pandan Niog",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695506,
+        "gp:id":1200003,
+        "qs:id":134647
+    },
+    "wof:country":"PH",
+    "wof:created":1469051419,
+    "wof:geomhash":"61359665185cecabdaa612b2dcbea29a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":890421947
+        }
+    ],
+    "wof:id":890421947,
+    "wof:lastmodified":1505343466,
+    "wof:name":"Pandan Niog",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3192,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5631,
+    6.2282,
+    120.5631,
+    6.2282
+],
+  "geometry": {"coordinates":[120.56310000000001,6.2282],"type":"Point"}
+}

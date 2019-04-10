@@ -1,0 +1,78 @@
+{
+  "id": 1293896137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60616,16.96721,121.60616,16.96721",
+    "geom:latitude":16.96721,
+    "geom:longitude":121.60616,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23103000.0",
+    "gn:asciiname":"Macatal",
+    "gn:country_code":"PH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704322,
+    "gn:latitude":16.96721,
+    "gn:longitude":121.60616,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Macatal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Macatal"
+    ],
+    "name:fil_x_variant":[
+        "Macalal"
+    ],
+    "name:und_x_variant":[
+        "Macalal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108696723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704322
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"138bc333bb3d685f109d9b606fa745e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696723,
+            "locality_id":1293896137,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1293896137,
+    "wof:lastmodified":1537677935,
+    "wof:name":"Macatal",
+    "wof:parent_id":1108696723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60616,
+    16.96721,
+    121.60616,
+    16.96721
+],
+  "geometry": {"coordinates":[121.60616,16.96721],"type":"Point"}
+}

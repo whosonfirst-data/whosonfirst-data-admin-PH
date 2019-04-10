@@ -1,0 +1,66 @@
+{
+  "id": 890430717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.36667,11.7,122.36667,11.7",
+    "geom:latitude":11.7,
+    "geom:longitude":122.36667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2000,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Brgy. Tinigao, Kalibo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108697881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681830,
+        "gp:id":1172533,
+        "qs:id":134007
+    },
+    "wof:country":"PH",
+    "wof:created":1469051863,
+    "wof:geomhash":"55193f513bcdc5105d4d30ec799a65a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697881,
+            "locality_id":890430717,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":890430717,
+    "wof:lastmodified":1505343520,
+    "wof:name":"Brgy. Tinigao, Kalibo",
+    "wof:parent_id":1108697881,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.36667,
+    11.7,
+    122.36667,
+    11.7
+],
+  "geometry": {"coordinates":[122.36667,11.7],"type":"Point"}
+}

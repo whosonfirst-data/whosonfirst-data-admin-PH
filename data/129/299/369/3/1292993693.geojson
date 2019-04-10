@@ -1,0 +1,75 @@
+{
+  "id": 1292993693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8749,11.9724,123.8749,11.9724",
+    "geom:latitude":11.9724,
+    "geom:longitude":123.8749,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54117000.0",
+    "gn:asciiname":"Matubinao",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700233,
+    "gn:latitude":11.9724,
+    "gn:longitude":123.8749,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Matubinao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Matubinao"
+    ],
+    "name:und_x_variant":[
+        "Matubina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700233
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8a8909ad648f29b1c1ad4bbea0b82802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698915,
+            "locality_id":1292993693,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1292993693,
+    "wof:lastmodified":1537677822,
+    "wof:name":"Matubinao",
+    "wof:parent_id":1108698915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8749,
+    11.9724,
+    123.8749,
+    11.9724
+],
+  "geometry": {"coordinates":[123.8749,11.9724],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890441801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.93917,12.73889,123.93917,12.73889",
+    "geom:latitude":12.73889,
+    "geom:longitude":123.93917,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2675,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Goroyan"
+    ],
+    "qs:name":"Guruyan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712097,
+        "gp:id":91427146,
+        "qs:id":135307
+    },
+    "wof:country":"PH",
+    "wof:created":1469052337,
+    "wof:geomhash":"1718e3111034e8ac52c69f516c6d7297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697107,
+            "locality_id":890441801,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":890441801,
+    "wof:lastmodified":1505343584,
+    "wof:name":"Guruyan",
+    "wof:parent_id":1108697107,
+    "wof:placetype":"locality",
+    "wof:population":2675,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.93917,
+    12.73889,
+    123.93917,
+    12.73889
+],
+  "geometry": {"coordinates":[123.93917,12.73889],"type":"Point"}
+}

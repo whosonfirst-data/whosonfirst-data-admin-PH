@@ -1,0 +1,69 @@
+{
+  "id": 890444101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.49889,10.7,122.49889,10.7",
+    "geom:latitude":10.7,
+    "geom:longitude":122.49889,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3856,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cagbang"
+    ],
+    "qs:name":"Cagbang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721049,
+        "gp:id":91420890,
+        "qs:id":1032964
+    },
+    "wof:country":"PH",
+    "wof:created":1469052450,
+    "wof:geomhash":"7c1c610ff3ef1da53d64c1e7107c9b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698711,
+            "locality_id":890444101,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890444101,
+    "wof:lastmodified":1505343597,
+    "wof:name":"Cagbang",
+    "wof:parent_id":1108698711,
+    "wof:placetype":"locality",
+    "wof:population":3856,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.49889,
+    10.7,
+    122.49889,
+    10.7
+],
+  "geometry": {"coordinates":[122.49889,10.7],"type":"Point"}
+}

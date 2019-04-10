@@ -1,0 +1,77 @@
+{
+  "id": 1260213539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3926,10.9549,123.3926,10.9549",
+    "geom:latitude":10.9549,
+    "geom:longitude":123.3926,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64523000.0",
+    "gn:asciiname":"Himogaan",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711694,
+    "gn:latitude":10.9549,
+    "gn:longitude":123.3926,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Himogaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Himogaan"
+    ],
+    "name:fil_x_variant":[
+        "Himogaan Bayan"
+    ],
+    "name:und_x_variant":[
+        "Hinogoan",
+        "Himugaan",
+        "Himugan",
+        "Himoga-an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711694
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5aa3e5af2abb00f45a18222e628eea1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1260213539,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260213539,
+    "wof:lastmodified":1537678146,
+    "wof:name":"Himogaan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3926,
+    10.9549,
+    123.3926,
+    10.9549
+],
+  "geometry": {"coordinates":[123.3926,10.9549],"type":"Point"}
+}

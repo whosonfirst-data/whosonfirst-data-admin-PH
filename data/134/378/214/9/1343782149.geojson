@@ -1,0 +1,75 @@
+{
+  "id": 1343782149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3353,9.4832,123.3353,9.4832",
+    "geom:latitude":9.4832,
+    "geom:longitude":123.3353,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72240000.0",
+    "gn:asciiname":"Cabangcalan",
+    "gn:country_code":"PH",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721868,
+    "gn:latitude":9.4832,
+    "gn:longitude":123.3353,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabangcalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabangcalan"
+    ],
+    "name:und_x_variant":[
+        "Cabangahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721868
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"943c2d40ade36a3601c4bdca06eb6aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699409,
+            "locality_id":1343782149,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1343782149,
+    "wof:lastmodified":1537678440,
+    "wof:name":"Cabangcalan",
+    "wof:parent_id":1108699409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3353,
+    9.4832,
+    123.3353,
+    9.4832
+],
+  "geometry": {"coordinates":[123.3353,9.4832],"type":"Point"}
+}

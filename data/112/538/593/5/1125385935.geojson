@@ -1,0 +1,81 @@
+{
+  "id": 1125385935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89836,14.12975,120.89836,14.12975",
+    "geom:latitude":14.12975,
+    "geom:longitude":120.89836,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":26796,
+    "gn:population":26796,
+    "iso:country":"PH",
+    "lbl:latitude":14.12975,
+    "lbl:longitude":120.89836,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Mendez-Nu\u00f1ez"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1699859,
+    "qs_pg:gn_pop":26796,
+    "qs_pg:name":"Mendez-Nu\u00f1ez",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1031113,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108698459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699859,
+        "qs_pg:id":1031113
+    },
+    "wof:country":"PH",
+    "wof:created":1497048376,
+    "wof:geomhash":"081fafdb7ffea7ce60442f3ed261f16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698459,
+            "localadmin_id":1125385935,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1125385935,
+    "wof:lastmodified":1509389718,
+    "wof:name":"Mendez-Nu\u00f1ez",
+    "wof:parent_id":1108698459,
+    "wof:placetype":"localadmin",
+    "wof:population":26796,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89836,
+    14.12975,
+    120.89836,
+    14.12975
+],
+  "geometry": {"coordinates":[120.89836,14.12975],"type":"Point"}
+}

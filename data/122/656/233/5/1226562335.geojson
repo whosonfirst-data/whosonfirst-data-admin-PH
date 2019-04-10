@@ -1,0 +1,65 @@
+{
+  "id": 1226562335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.91667,10.21667,123.91667,10.21667",
+    "geom:latitude":10.21667,
+    "geom:longitude":123.91667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:asciiname":"Luton",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704891,
+    "gn:latitude":10.21667,
+    "gn:longitude":123.91667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Luton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Luton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704891
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"42301fb41b4c214890bcf9ce6a5d8c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226562335,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226562335,
+    "wof:lastmodified":1537677952,
+    "wof:name":"Luton",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.91667,
+    10.21667,
+    123.91667,
+    10.21667
+],
+  "geometry": {"coordinates":[123.91667,10.21667],"type":"Point"}
+}

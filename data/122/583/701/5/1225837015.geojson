@@ -1,0 +1,72 @@
+{
+  "id": 1225837015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0235,10.9105,122.0235,10.9105",
+    "geom:latitude":10.9105,
+    "geom:longitude":122.0235,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60612000.0",
+    "gn:asciiname":"Manzanilla",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701365,
+    "gn:latitude":10.9105,
+    "gn:longitude":122.0235,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manzanilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Manzanilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108698841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701365
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c59c2357cbf8c3c0204fb91efa287ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698841,
+            "locality_id":1225837015,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1225837015,
+    "wof:lastmodified":1537677853,
+    "wof:name":"Manzanilla",
+    "wof:parent_id":1108698841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0235,
+    10.9105,
+    122.0235,
+    10.9105
+],
+  "geometry": {"coordinates":[122.0235,10.9105],"type":"Point"}
+}

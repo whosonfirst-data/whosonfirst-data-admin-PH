@@ -1,0 +1,81 @@
+{
+  "id": 1125331593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7,14.31667,121.7,14.31667",
+    "geom:latitude":14.31667,
+    "geom:longitude":121.7,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":58568,
+    "gn:population":58568,
+    "iso:country":"PH",
+    "lbl:latitude":14.31667,
+    "lbl:longitude":121.7,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Mauban"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1700180,
+    "qs_pg:gn_pop":58568,
+    "qs_pg:name":"Mauban",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":371636,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700180,
+        "qs_pg:id":371636
+    },
+    "wof:country":"PH",
+    "wof:created":1497045163,
+    "wof:geomhash":"e75b8d3e96d87312e715c67e633a151e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698441,
+            "localadmin_id":1125331593,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1125331593,
+    "wof:lastmodified":1509388397,
+    "wof:name":"Mauban",
+    "wof:parent_id":1108698441,
+    "wof:placetype":"localadmin",
+    "wof:population":58568,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7,
+    14.31667,
+    121.7,
+    14.31667
+],
+  "geometry": {"coordinates":[121.7,14.31667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890415717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5235,18.1159,120.5235,18.1159",
+    "geom:latitude":18.1159,
+    "geom:longitude":120.5235,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2778,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nagbacalan"
+    ],
+    "name:fil_x_variant":[
+        "Nagbakalan"
+    ],
+    "name:unk_x_variant":[
+        "Nagbakalan"
+    ],
+    "qs:name":"Nagbacalan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698783,
+        "gp:id":91424115,
+        "qs:id":134776
+    },
+    "wof:country":"PH",
+    "wof:created":1469051099,
+    "wof:geomhash":"018b97972a168b48f43bcbf82239dd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698807,
+            "locality_id":890415717,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":890415717,
+    "wof:lastmodified":1505343427,
+    "wof:name":"Nagbacalan",
+    "wof:parent_id":1108698807,
+    "wof:placetype":"locality",
+    "wof:population":2778,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5235,
+    18.1159,
+    120.5235,
+    18.1159
+],
+  "geometry": {"coordinates":[120.5235,18.1159],"type":"Point"}
+}

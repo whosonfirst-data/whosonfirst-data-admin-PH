@@ -1,0 +1,65 @@
+{
+  "id": 890451309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8131,11.1943,123.8131,11.1943",
+    "geom:latitude":11.1943,
+    "geom:longitude":123.8131,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3396,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hilantagaan"
+    ],
+    "name:unk_x_variant":[
+        "Gilantagaan"
+    ],
+    "qs:name":"Hilantagaan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712949,
+        "qs:id":87795
+    },
+    "wof:country":"PH",
+    "wof:created":1469052773,
+    "wof:geomhash":"5399dae27d5c18b34f392f5ec03bac58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":890451309
+        }
+    ],
+    "wof:id":890451309,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Hilantagaan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3396,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8131,
+    11.1943,
+    123.8131,
+    11.1943
+],
+  "geometry": {"coordinates":[123.81310000000001,11.1943],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310515203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28008,15.81181,120.28008,15.81181",
+    "geom:latitude":15.81181,
+    "geom:longitude":120.28008,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15527000.0",
+    "gn:asciiname":"Bogtong Silag",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724410,
+    "gn:latitude":15.81181,
+    "gn:longitude":120.28008,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bogtong Silag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Butong-Silag"
+    ],
+    "name:und_x_variant":[
+        "Silag",
+        "Bugtong-Silag",
+        "Butong-Silag",
+        "Bogtong Silag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724410
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fe636c1bb11770348259013a4ea63e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698353,
+            "locality_id":1310515203,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1310515203,
+    "wof:lastmodified":1537678518,
+    "wof:name":"Bogtong Silag",
+    "wof:parent_id":1108698353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28008,
+    15.81181,
+    120.28008,
+    15.81181
+],
+  "geometry": {"coordinates":[120.28008,15.81181],"type":"Point"}
+}

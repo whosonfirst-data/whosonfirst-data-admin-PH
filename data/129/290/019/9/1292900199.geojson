@@ -1,0 +1,75 @@
+{
+  "id": 1292900199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.01667,10.53333,124.01667,10.53333",
+    "geom:latitude":10.53333,
+    "geom:longitude":124.01667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72223000.0",
+    "gn:asciiname":"Taboc",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684935,
+    "gn:latitude":10.53333,
+    "gn:longitude":124.01667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Taboc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Taboc"
+    ],
+    "name:und_x_variant":[
+        "Tabok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684935
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dd42aafa70d585b26bd353f7a8030685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697433,
+            "locality_id":1292900199,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1292900199,
+    "wof:lastmodified":1537677385,
+    "wof:name":"Taboc",
+    "wof:parent_id":1108697433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.01667,
+    10.53333,
+    124.01667,
+    10.53333
+],
+  "geometry": {"coordinates":[124.01667,10.53333],"type":"Point"}
+}

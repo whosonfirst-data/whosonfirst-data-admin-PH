@@ -1,0 +1,75 @@
+{
+  "id": 1209959067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1793,14.7735,122.1793,14.7735",
+    "geom:latitude":14.7735,
+    "geom:longitude":122.1793,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45632000.0",
+    "gn:asciiname":"Patnanongan North",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694368,
+    "gn:latitude":14.7735,
+    "gn:longitude":122.1793,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Patnanongan North",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Patnanongan North"
+    ],
+    "name:fil_x_variant":[
+        "Patnanungan Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694368
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c260f53a948032b7946a433d3f51c237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698839,
+            "locality_id":1209959067,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1209959067,
+    "wof:lastmodified":1537677656,
+    "wof:name":"Patnanongan North",
+    "wof:parent_id":1108698839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1793,
+    14.7735,
+    122.1793,
+    14.7735
+],
+  "geometry": {"coordinates":[122.1793,14.7735],"type":"Point"}
+}

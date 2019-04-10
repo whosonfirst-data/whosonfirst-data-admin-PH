@@ -1,0 +1,68 @@
+{
+  "id": 890451109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.9675,7.16778,124.9675,7.16778",
+    "geom:latitude":7.16778,
+    "geom:longitude":124.9675,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4489,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Linao"
+    ],
+    "qs:name":"Linao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108698427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706272,
+        "qs:id":87500
+    },
+    "wof:country":"PH",
+    "wof:created":1469052765,
+    "wof:geomhash":"63cc91163761137a17b142470b6157f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698427,
+            "locality_id":890451109,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":890451109,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Linao",
+    "wof:parent_id":1108698427,
+    "wof:placetype":"locality",
+    "wof:population":4489,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.9675,
+    7.16778,
+    124.9675,
+    7.16778
+],
+  "geometry": {"coordinates":[124.9675,7.16778],"type":"Point"}
+}

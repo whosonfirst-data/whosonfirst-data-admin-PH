@@ -1,0 +1,69 @@
+{
+  "id": 1344157813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78664,14.83404,120.78664,14.83404",
+    "geom:latitude":14.83404,
+    "geom:longitude":120.78664,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"31416000.0",
+    "gn:asciiname":"Poblacion",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8341805,
+    "gn:latitude":14.83404,
+    "gn:longitude":120.78664,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Poblacion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135,
+        1108698809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8341805
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"075095c168f17ea47a72d315e2b87f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698809,
+            "locality_id":1344157813,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":1344157813,
+    "wof:lastmodified":1536735246,
+    "wof:name":"Poblacion",
+    "wof:parent_id":1108698809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78664,
+    14.83404,
+    120.78664,
+    14.83404
+],
+  "geometry": {"coordinates":[120.78664000000001,14.83404],"type":"Point"}
+}

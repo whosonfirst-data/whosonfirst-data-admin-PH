@@ -1,0 +1,72 @@
+{
+  "id": 1343265229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2284,15.9908,120.2284,15.9908",
+    "geom:latitude":15.9908,
+    "geom:longitude":120.2284,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15515000.0",
+    "gn:asciiname":"Banaga",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727611,
+    "gn:latitude":15.9908,
+    "gn:longitude":120.2284,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Banaga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Banaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727611
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"55d207d8a61f420252d7a883debbbae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698099,
+            "locality_id":1343265229,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1343265229,
+    "wof:lastmodified":1537678611,
+    "wof:name":"Banaga",
+    "wof:parent_id":1108698099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2284,
+    15.9908,
+    120.2284,
+    15.9908
+],
+  "geometry": {"coordinates":[120.22839999999999,15.9908],"type":"Point"}
+}

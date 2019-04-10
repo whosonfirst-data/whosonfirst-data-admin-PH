@@ -1,0 +1,66 @@
+{
+  "id": 1209593951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17028,8.0775,125.17028,8.0775",
+    "geom:latitude":8.0775,
+    "geom:longitude":125.17028,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"101312000.0",
+    "gn:asciiname":"Paiwig",
+    "gn:country_code":"PH",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6569809,
+    "gn:latitude":8.0775,
+    "gn:longitude":125.17028,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Paiwig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Paiwig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6569809
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"737fba38337dc1cfc2063c9be4bd434d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209593951
+        }
+    ],
+    "wof:id":1209593951,
+    "wof:lastmodified":1537678823,
+    "wof:name":"Paiwig",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17028,
+    8.0775,
+    125.17028,
+    8.0775
+],
+  "geometry": {"coordinates":[125.17028000000001,8.0775],"type":"Point"}
+}

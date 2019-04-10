@@ -1,0 +1,81 @@
+{
+  "id": 1125849147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1367,9.4779,123.1367,9.4779",
+    "geom:latitude":9.4779,
+    "geom:longitude":123.1367,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4688,
+    "gn:population":4688,
+    "iso:country":"PH",
+    "lbl:latitude":9.4779,
+    "lbl:longitude":123.1367,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Azagra"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1729830,
+    "qs_pg:gn_pop":4688,
+    "qs_pg:name":"Azagra",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88484,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729830,
+        "qs_pg:id":88484
+    },
+    "wof:country":"PH",
+    "wof:created":1497293309,
+    "wof:geomhash":"e6d59a153c784784cd9b2c39265837b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698763,
+            "locality_id":1125849147,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1125849147,
+    "wof:lastmodified":1509395819,
+    "wof:name":"Azagra",
+    "wof:parent_id":1108698763,
+    "wof:placetype":"locality",
+    "wof:population":4688,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1367,
+    9.4779,
+    123.1367,
+    9.4779
+],
+  "geometry": {"coordinates":[123.1367,9.4779],"type":"Point"}
+}

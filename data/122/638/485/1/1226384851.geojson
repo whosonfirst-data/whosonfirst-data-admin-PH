@@ -1,0 +1,72 @@
+{
+  "id": 1226384851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.007,14.2923,121.007,14.2923",
+    "geom:latitude":14.2923,
+    "geom:longitude":121.007,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42123000.0",
+    "gn:asciiname":"Poblacion III",
+    "gn:country_code":"PH",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7405377,
+    "gn:latitude":14.2923,
+    "gn:longitude":121.007,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Poblacion III",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Poblacion III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7405377
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6ed47b7a03bdcaa41a1cfad7f3f7d57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697623,
+            "locality_id":1226384851,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1226384851,
+    "wof:lastmodified":1537678842,
+    "wof:name":"Poblacion III",
+    "wof:parent_id":1108697623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.007,
+    14.2923,
+    121.007,
+    14.2923
+],
+  "geometry": {"coordinates":[121.00700000000001,14.2923],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890450259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8323,12.8122,120.8323,12.8122",
+    "geom:latitude":12.8122,
+    "geom:longitude":120.8323,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2402,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Tuban"
+    ],
+    "qs:name":"Tuban",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":975,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108699061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681249,
+        "gp:id":91464763,
+        "qs:id":86362,
+        "wk:page":"Tuban"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052732,
+    "wof:geomhash":"991c2578ed01c8a9305ebed53c7108b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699061,
+            "locality_id":890450259,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":890450259,
+    "wof:lastmodified":1527792961,
+    "wof:name":"Tuban",
+    "wof:parent_id":1108699061,
+    "wof:placetype":"locality",
+    "wof:population":2402,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8323,
+    12.8122,
+    120.8323,
+    12.8122
+],
+  "geometry": {"coordinates":[120.8323,12.8122],"type":"Point"}
+}

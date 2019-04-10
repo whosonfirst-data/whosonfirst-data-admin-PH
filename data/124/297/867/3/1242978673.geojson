@@ -1,0 +1,78 @@
+{
+  "id": 1242978673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.83314,17.49715,121.83314,17.49715",
+    "geom:latitude":17.49715,
+    "geom:longitude":121.83314,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23133000.0",
+    "gn:asciiname":"Simanu Norte",
+    "gn:country_code":"PH",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686408,
+    "gn:latitude":17.49715,
+    "gn:longitude":121.83314,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Simanu Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Simanu Norte"
+    ],
+    "name:fil_x_variant":[
+        "Simanu"
+    ],
+    "name:und_x_variant":[
+        "Simanu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686408
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"985c9d6dc1140e5112fe6e939c706944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699289,
+            "locality_id":1242978673,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1242978673,
+    "wof:lastmodified":1537677423,
+    "wof:name":"Simanu Norte",
+    "wof:parent_id":1108699289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.83314,
+    17.49715,
+    121.83314,
+    17.49715
+],
+  "geometry": {"coordinates":[121.83314,17.49715],"type":"Point"}
+}

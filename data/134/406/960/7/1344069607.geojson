@@ -1,0 +1,75 @@
+{
+  "id": 1344069607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.79722,17.4675,121.79722,17.4675",
+    "geom:latitude":17.4675,
+    "geom:longitude":121.79722,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23133000.0",
+    "gn:asciiname":"San Pablo",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688814,
+    "gn:latitude":17.4675,
+    "gn:longitude":121.79722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Auitan",
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688814,
+        "wk:page":"San_Pablo%2C_Isabela"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0d5eb5a5a59866e4fc8f2069feb40a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699385,
+            "locality_id":1344069607,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1344069607,
+    "wof:lastmodified":1537677495,
+    "wof:name":"San Pablo",
+    "wof:parent_id":1108699385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.79722,
+    17.4675,
+    121.79722,
+    17.4675
+],
+  "geometry": {"coordinates":[121.79722,17.4675],"type":"Point"}
+}

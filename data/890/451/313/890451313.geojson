@@ -1,0 +1,72 @@
+{
+  "id": 890451313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7437,17.7104,121.7437,17.7104",
+    "geom:latitude":17.7104,
+    "geom:longitude":121.7437,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2639,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gammad"
+    ],
+    "name:unk_x_variant":[
+        "Gammad Norte"
+    ],
+    "qs:name":"Gammad",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713296,
+        "gp:id":1172875,
+        "qs:id":87812
+    },
+    "wof:country":"PH",
+    "wof:created":1469052773,
+    "wof:geomhash":"929ad1dbe88e4dfdd96b77dcdda73910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697745,
+            "locality_id":890451313,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890451313,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Gammad",
+    "wof:parent_id":1108697745,
+    "wof:placetype":"locality",
+    "wof:population":2639,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7437,
+    17.7104,
+    121.7437,
+    17.7104
+],
+  "geometry": {"coordinates":[121.7437,17.7104],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243277717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49628,16.24829,120.49628,16.24829",
+    "geom:latitude":16.24829,
+    "geom:longitude":120.49628,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13312000.0",
+    "gn:asciiname":"Cuenca",
+    "gn:country_code":"PH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716617,
+    "gn:latitude":16.24829,
+    "gn:longitude":120.49628,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cuenca",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cuenca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716617
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cafe819bb17e9d6d24f22f6eb0a54349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699043,
+            "locality_id":1243277717,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1243277717,
+    "wof:lastmodified":1537678282,
+    "wof:name":"Cuenca",
+    "wof:parent_id":1108699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49628,
+    16.24829,
+    120.49628,
+    16.24829
+],
+  "geometry": {"coordinates":[120.49628,16.24829],"type":"Point"}
+}

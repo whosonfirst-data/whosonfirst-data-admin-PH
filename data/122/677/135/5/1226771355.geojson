@@ -1,0 +1,72 @@
+{
+  "id": 1226771355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.08333,11.41667,123.08333,11.41667",
+    "geom:latitude":11.41667,
+    "geom:longitude":123.08333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63009000.0",
+    "gn:asciiname":"Calangag",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720625,
+    "gn:latitude":11.41667,
+    "gn:longitude":123.08333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cala\u00f1gag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cala\u00f1gag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720625
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"978bdfc5c0572e0e6b2264ce116210bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696935,
+            "locality_id":1226771355,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1226771355,
+    "wof:lastmodified":1537678400,
+    "wof:name":"Calangag",
+    "wof:parent_id":1108696935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.08333,
+    11.41667,
+    123.08333,
+    11.41667
+],
+  "geometry": {"coordinates":[123.08333,11.41667],"type":"Point"}
+}

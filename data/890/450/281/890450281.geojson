@@ -1,0 +1,73 @@
+{
+  "id": 890450281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3389,12.5546,123.3389,12.5546",
+    "geom:latitude":12.5546,
+    "geom:longitude":123.3389,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2294,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Tigbao"
+    ],
+    "name:unk_x_variant":[
+        "Tigbaw"
+    ],
+    "qs:name":"Tigbao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682262,
+        "qs:id":86401,
+        "wk:page":"Tigbao"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052733,
+    "wof:geomhash":"cf5a5dd33640ddab982a198295a69459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696709,
+            "locality_id":890450281,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":890450281,
+    "wof:lastmodified":1527792961,
+    "wof:name":"Tigbao",
+    "wof:parent_id":1108696709,
+    "wof:placetype":"locality",
+    "wof:population":2294,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3389,
+    12.5546,
+    123.3389,
+    12.5546
+],
+  "geometry": {"coordinates":[123.3389,12.5546],"type":"Point"}
+}

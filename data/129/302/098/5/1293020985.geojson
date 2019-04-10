@@ -1,0 +1,72 @@
+{
+  "id": 1293020985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3447,9.7027,123.3447,9.7027",
+    "geom:latitude":9.7027,
+    "geom:longitude":123.3447,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72203000.0",
+    "gn:asciiname":"Ponong",
+    "gn:country_code":"PH",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692999,
+    "gn:latitude":9.7027,
+    "gn:longitude":123.3447,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ponong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ponong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692999
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c632753923f21d3a635e32177cabb8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698287,
+            "locality_id":1293020985,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1293020985,
+    "wof:lastmodified":1537677615,
+    "wof:name":"Ponong",
+    "wof:parent_id":1108698287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3447,
+    9.7027,
+    123.3447,
+    9.7027
+],
+  "geometry": {"coordinates":[123.3447,9.7027],"type":"Point"}
+}

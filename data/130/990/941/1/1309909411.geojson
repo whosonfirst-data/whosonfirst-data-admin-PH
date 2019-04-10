@@ -1,0 +1,75 @@
+{
+  "id": 1309909411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6614,18.1391,120.6614,18.1391",
+    "geom:latitude":18.1391,
+    "geom:longitude":120.6614,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12821000.0",
+    "gn:asciiname":"Santa Tomas",
+    "gn:country_code":"PH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687510,
+    "gn:latitude":18.1391,
+    "gn:longitude":120.6614,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Tomas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Tomas"
+    ],
+    "name:fil_x_variant":[
+        "Santo Tomas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108699453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687510
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"37fe118b5a6dea8441026eed3ccd0707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699453,
+            "locality_id":1309909411,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1309909411,
+    "wof:lastmodified":1537677451,
+    "wof:name":"Santa Tomas",
+    "wof:parent_id":1108699453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6614,
+    18.1391,
+    120.6614,
+    18.1391
+],
+  "geometry": {"coordinates":[120.6614,18.1391],"type":"Point"}
+}

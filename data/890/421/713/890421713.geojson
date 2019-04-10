@@ -1,0 +1,72 @@
+{
+  "id": 890421713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.8155,16.2076,119.8155,16.2076",
+    "geom:latitude":16.2076,
+    "geom:longitude":119.8155,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2112,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ranao"
+    ],
+    "name:unk_x_variant":[
+        "Ronao"
+    ],
+    "qs:name":"Ranao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691899,
+        "gp:id":1189166,
+        "qs:id":276933
+    },
+    "wof:country":"PH",
+    "wof:created":1469051405,
+    "wof:geomhash":"8e2537fa5d04f7bbbfac298b23b54ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696881,
+            "locality_id":890421713,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890421713,
+    "wof:lastmodified":1505343465,
+    "wof:name":"Ranao",
+    "wof:parent_id":1108696881,
+    "wof:placetype":"locality",
+    "wof:population":2112,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.8155,
+    16.2076,
+    119.8155,
+    16.2076
+],
+  "geometry": {"coordinates":[119.8155,16.2076],"type":"Point"}
+}

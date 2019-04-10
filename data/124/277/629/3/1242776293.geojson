@@ -1,0 +1,72 @@
+{
+  "id": 1242776293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.2801,13.8446,124.2801,13.8446",
+    "geom:latitude":13.8446,
+    "geom:longitude":124.2801,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"52010000.0",
+    "gn:asciiname":"Sagrada",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691105,
+    "gn:latitude":13.8446,
+    "gn:longitude":124.2801,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sagrada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sagrada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108699859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691105
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"930e52ed3ad3d5dbf8452f118bd3598b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699859,
+            "locality_id":1242776293,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":1242776293,
+    "wof:lastmodified":1537677566,
+    "wof:name":"Sagrada",
+    "wof:parent_id":1108699859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.2801,
+    13.8446,
+    124.2801,
+    13.8446
+],
+  "geometry": {"coordinates":[124.2801,13.8446],"type":"Point"}
+}

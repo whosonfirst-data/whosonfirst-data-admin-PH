@@ -1,0 +1,75 @@
+{
+  "id": 1125792215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.46661,6.05772,124.46661,6.05772",
+    "geom:latitude":6.05772,
+    "geom:longitude":124.46661,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3212,
+    "gn:population":3212,
+    "iso:country":"PH",
+    "lbl:latitude":6.05772,
+    "lbl:longitude":124.46661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Mabay"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1704644,
+    "qs_pg:gn_pop":3212,
+    "qs_pg:name":"Mabay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":135011,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704644,
+        "qs_pg:id":135011
+    },
+    "wof:country":"PH",
+    "wof:created":1497290907,
+    "wof:geomhash":"0dda038b79232958e7b691cbac053b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125792215,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125792215,
+    "wof:lastmodified":1509392415,
+    "wof:name":"Mabay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3212,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.46661,
+    6.05772,
+    124.46661,
+    6.05772
+],
+  "geometry": {"coordinates":[124.46661,6.05772],"type":"Point"}
+}

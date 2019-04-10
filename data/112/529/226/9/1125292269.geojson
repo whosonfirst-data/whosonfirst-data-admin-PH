@@ -1,0 +1,79 @@
+{
+  "id": 1125292269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.06667,14.53333,121.06667,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":121.06667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":644473,
+    "gn:population":644473,
+    "iso:country":"PH",
+    "lbl:latitude":14.53333,
+    "lbl:longitude":121.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Tagig"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1684309,
+    "qs_pg:gn_pop":644473,
+    "qs_pg:name":"Taguig",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":86486,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684309,
+        "qs_pg:id":86486
+    },
+    "wof:country":"PH",
+    "wof:created":1497042978,
+    "wof:geomhash":"ed98ab70181e35476b82b8279c74bc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "localadmin_id":1125292269,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1125292269,
+    "wof:lastmodified":1533169687,
+    "wof:name":"Taguig",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"localadmin",
+    "wof:population":644473,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.06667,
+    14.53333,
+    121.06667,
+    14.53333
+],
+  "geometry": {"coordinates":[121.06667,14.53333],"type":"Point"}
+}

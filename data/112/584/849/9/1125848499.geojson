@@ -1,0 +1,81 @@
+{
+  "id": 1125848499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6588,13.3356,120.6588,13.3356",
+    "geom:latitude":13.3356,
+    "geom:longitude":120.6588,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4486,
+    "gn:population":4486,
+    "iso:country":"PH",
+    "lbl:latitude":13.3356,
+    "lbl:longitude":120.6588,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Cabacao"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1722053,
+    "qs_pg:gn_pop":4486,
+    "qs_pg:name":"Cabacao",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88157,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108696551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722053,
+        "qs_pg:id":88157
+    },
+    "wof:country":"PH",
+    "wof:created":1497293278,
+    "wof:geomhash":"466bf2e91d1c56ac6025a9d322c04632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696551,
+            "locality_id":1125848499,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":1125848499,
+    "wof:lastmodified":1509395782,
+    "wof:name":"Cabacao",
+    "wof:parent_id":1108696551,
+    "wof:placetype":"locality",
+    "wof:population":4486,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6588,
+    13.3356,
+    120.6588,
+    13.3356
+],
+  "geometry": {"coordinates":[120.6588,13.3356],"type":"Point"}
+}

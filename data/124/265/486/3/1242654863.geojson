@@ -1,0 +1,75 @@
+{
+  "id": 1242654863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56333,6.43028,125.56333,6.43028",
+    "geom:latitude":6.43028,
+    "geom:longitude":125.56333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"P3",
+    "gn:admin3_code":"118603000.0",
+    "gn:asciiname":"Taguloy",
+    "gn:country_code":"PH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684271,
+    "gn:latitude":6.43028,
+    "gn:longitude":125.56333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Taguloy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Taguloy"
+    ],
+    "name:und_x_variant":[
+        "Tagoloy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108698315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684271
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6cc7b071593c1513ea8821ea4528335c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698315,
+            "locality_id":1242654863,
+            "region_id":85676253
+        }
+    ],
+    "wof:id":1242654863,
+    "wof:lastmodified":1537677366,
+    "wof:name":"Taguloy",
+    "wof:parent_id":1108698315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56333,
+    6.43028,
+    125.56333,
+    6.43028
+],
+  "geometry": {"coordinates":[125.56332999999999,6.43028],"type":"Point"}
+}

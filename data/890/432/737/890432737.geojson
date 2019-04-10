@@ -1,0 +1,70 @@
+{
+  "id": 890432737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.08333,14.58333,121.08333,14.58333",
+    "geom:latitude":14.58333,
+    "geom:longitude":121.08333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":617301,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Lungsod ng Pasig"
+    ],
+    "qs:name":"Pasig",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":4834,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694584,
+        "qs:id":87027,
+        "wd:id":"Q1624",
+        "wk:page":"Pasig"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051952,
+    "wof:geomhash":"f99cdd3d9e20afd8d964b933fd442004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432737,
+            "region_id":85676407
+        }
+    ],
+    "wof:id":890432737,
+    "wof:lastmodified":1527793032,
+    "wof:name":"Pasig",
+    "wof:parent_id":85676407,
+    "wof:placetype":"county",
+    "wof:population":617301,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.08333,
+    14.58333,
+    121.08333,
+    14.58333
+],
+  "geometry": {"coordinates":[121.08333,14.58333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125847715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.63,6.52333,124.63,6.52333",
+    "geom:latitude":6.52333,
+    "geom:longitude":124.63,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2601,
+    "gn:population":2601,
+    "iso:country":"PH",
+    "lbl:latitude":6.52333,
+    "lbl:longitude":124.63,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Lapuz"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1707248,
+    "qs_pg:gn_pop":2601,
+    "qs_pg:name":"Lapuz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87559,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108698675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707248,
+        "qs_pg:id":87559
+    },
+    "wof:country":"PH",
+    "wof:created":1497293243,
+    "wof:geomhash":"e1f1e8d302c3a2678ce6755672c0dc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698675,
+            "locality_id":1125847715,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":1125847715,
+    "wof:lastmodified":1509395733,
+    "wof:name":"Lapuz",
+    "wof:parent_id":1108698675,
+    "wof:placetype":"locality",
+    "wof:population":2601,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.63,
+    6.52333,
+    124.63,
+    6.52333
+],
+  "geometry": {"coordinates":[124.63,6.52333],"type":"Point"}
+}

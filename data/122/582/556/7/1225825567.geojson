@@ -1,0 +1,74 @@
+{
+  "id": 1225825567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68,7.12417,125.68,7.12417",
+    "geom:latitude":7.12417,
+    "geom:longitude":125.68,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"112317000.0",
+    "gn:asciiname":"Quinawitnan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692042,
+    "gn:latitude":7.12417,
+    "gn:longitude":125.68,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Quinawitnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quinawitnon",
+        "Quinawitnan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108696733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692042
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3b385b9526776e78f02f5c2900e45d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696733,
+            "locality_id":1225825567,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":1225825567,
+    "wof:lastmodified":1537677589,
+    "wof:name":"Quinawitnan",
+    "wof:parent_id":1108696733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68,
+    7.12417,
+    125.68,
+    7.12417
+],
+  "geometry": {"coordinates":[125.68000000000001,7.12417],"type":"Point"}
+}

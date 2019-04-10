@@ -1,0 +1,69 @@
+{
+  "id": 890417819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.34477,13.95523,121.34477,13.95523",
+    "geom:latitude":13.95523,
+    "geom:longitude":121.34477,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":14870,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lusacan"
+    ],
+    "qs:name":"Lusacan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704959,
+        "gp:id":1179487,
+        "qs:id":1032558
+    },
+    "wof:country":"PH",
+    "wof:created":1469051221,
+    "wof:geomhash":"0bc63d6a634dce3c59aaa2cf551bc4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699723,
+            "locality_id":890417819,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890417819,
+    "wof:lastmodified":1505343441,
+    "wof:name":"Lusacan",
+    "wof:parent_id":1108699723,
+    "wof:placetype":"locality",
+    "wof:population":14870,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.34477,
+    13.95523,
+    121.34477,
+    13.95523
+],
+  "geometry": {"coordinates":[121.34477,13.95523],"type":"Point"}
+}

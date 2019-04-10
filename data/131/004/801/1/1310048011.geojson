@@ -1,0 +1,76 @@
+{
+  "id": 1310048011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36341,13.83141,121.36341,13.83141",
+    "geom:latitude":13.83141,
+    "geom:longitude":121.36341,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41023000.0",
+    "gn:asciiname":"Sico Dos",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686667,
+    "gn:latitude":13.83141,
+    "gn:longitude":121.36341,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sico Dos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sico Dos"
+    ],
+    "name:und_x_variant":[
+        "Sico II",
+        "Sico Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686667
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d858df255fce8e743cc88cbf0ecf8f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699223,
+            "locality_id":1310048011,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1310048011,
+    "wof:lastmodified":1537677429,
+    "wof:name":"Sico Dos",
+    "wof:parent_id":1108699223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36341000000002,
+    13.83141,
+    121.36341000000002,
+    13.83141
+],
+  "geometry": {"coordinates":[121.36341000000002,13.83141],"type":"Point"}
+}

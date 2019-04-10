@@ -1,0 +1,78 @@
+{
+  "id": 890434403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70045,15.39833,120.70045,15.39833",
+    "geom:latitude":15.39833,
+    "geom:longitude":120.70045,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4809,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Camillas"
+    ],
+    "name:fil_x_variant":[
+        "Comillas",
+        "Cornillas"
+    ],
+    "name:unk_x_variant":[
+        "Camillas"
+    ],
+    "qs:name":"Comillas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":776,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717075,
+        "gp:id":1187079,
+        "qs:id":135427,
+        "wk:page":"Comillas"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052023,
+    "wof:geomhash":"a505ad2cd5aec03825f83aa5103c6091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697953,
+            "locality_id":890434403,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":890434403,
+    "wof:lastmodified":1527792949,
+    "wof:name":"Comillas",
+    "wof:parent_id":1108697953,
+    "wof:placetype":"locality",
+    "wof:population":4809,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70045,
+    15.39833,
+    120.70045,
+    15.39833
+],
+  "geometry": {"coordinates":[120.70045,15.39833],"type":"Point"}
+}

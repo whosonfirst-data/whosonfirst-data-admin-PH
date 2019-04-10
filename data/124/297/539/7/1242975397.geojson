@@ -1,0 +1,75 @@
+{
+  "id": 1242975397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6756,14.3153,122.6756,14.3153",
+    "geom:latitude":14.3153,
+    "geom:longitude":122.6756,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51605000.0",
+    "gn:asciiname":"Pinagapuan",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693717,
+    "gn:latitude":14.3153,
+    "gn:longitude":122.6756,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pinagapuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pinagapuan"
+    ],
+    "name:und_x_variant":[
+        "Pinagapugan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676017,
+        1108697845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693717
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0f1710440a542e6ebb5e8a2c030420ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697845,
+            "locality_id":1242975397,
+            "region_id":85676017
+        }
+    ],
+    "wof:id":1242975397,
+    "wof:lastmodified":1537677638,
+    "wof:name":"Pinagapuan",
+    "wof:parent_id":1108697845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6756,
+    14.3153,
+    122.6756,
+    14.3153
+],
+  "geometry": {"coordinates":[122.6756,14.3153],"type":"Point"}
+}

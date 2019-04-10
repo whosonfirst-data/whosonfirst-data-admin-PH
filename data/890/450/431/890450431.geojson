@@ -1,0 +1,69 @@
+{
+  "id": 890450431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81444,6.24389,124.81444,6.24389",
+    "geom:latitude":6.24389,
+    "geom:longitude":124.81444,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2838,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sinolon"
+    ],
+    "qs:name":"Sinolon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686164,
+        "gp:id":1193778,
+        "qs:id":86551
+    },
+    "wof:country":"PH",
+    "wof:created":1469052738,
+    "wof:geomhash":"e23d23312fe2a09068c429c983f8ac6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699577,
+            "locality_id":890450431,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890450431,
+    "wof:lastmodified":1505343634,
+    "wof:name":"Sinolon",
+    "wof:parent_id":1108699577,
+    "wof:placetype":"locality",
+    "wof:population":2838,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81444,
+    6.24389,
+    124.81444,
+    6.24389
+],
+  "geometry": {"coordinates":[124.81444,6.24389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890421929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1923,13.4333,123.1923,13.4333",
+    "geom:latitude":13.4333,
+    "geom:longitude":123.1923,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2338,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Salingogan"
+    ],
+    "name:unk_x_variant":[
+        "Salingogon"
+    ],
+    "qs:name":"Salingogan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690869,
+        "gp:id":1189890,
+        "qs:id":134418
+    },
+    "wof:country":"PH",
+    "wof:created":1469051419,
+    "wof:geomhash":"43523e0ae614c3d02b2f146744565dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698483,
+            "locality_id":890421929,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890421929,
+    "wof:lastmodified":1505343466,
+    "wof:name":"Salingogan",
+    "wof:parent_id":1108698483,
+    "wof:placetype":"locality",
+    "wof:population":2338,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1923,
+    13.4333,
+    123.1923,
+    13.4333
+],
+  "geometry": {"coordinates":[123.1923,13.4333],"type":"Point"}
+}

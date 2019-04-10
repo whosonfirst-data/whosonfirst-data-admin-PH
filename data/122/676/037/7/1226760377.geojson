@@ -1,0 +1,75 @@
+{
+  "id": 1226760377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65748,16.9458,121.65748,16.9458",
+    "geom:latitude":16.9458,
+    "geom:longitude":121.65748,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23107000.0",
+    "gn:asciiname":"Macalaoat",
+    "gn:country_code":"PH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704407,
+    "gn:latitude":16.9458,
+    "gn:longitude":121.65748,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Macalaoat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Macalaot"
+    ],
+    "name:fil_x_variant":[
+        "Macalaoat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704407
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"50d773d56e6a25d93893927ed3781eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697165,
+            "locality_id":1226760377,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1226760377,
+    "wof:lastmodified":1537677937,
+    "wof:name":"Macalaoat",
+    "wof:parent_id":1108697165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65748,
+    16.9458,
+    121.65748,
+    16.9458
+],
+  "geometry": {"coordinates":[121.65748000000001,16.9458],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343245397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8733,5.5773,120.8733,5.5773",
+    "geom:latitude":5.5773,
+    "geom:longitude":120.8733,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156612000.0",
+    "gn:asciiname":"Manta",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701495,
+    "gn:latitude":5.5773,
+    "gn:longitude":120.8733,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108699463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701495
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"817c5c48dae9908b0f6c1ad03485559a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699463,
+            "locality_id":1343245397,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1343245397,
+    "wof:lastmodified":1537677856,
+    "wof:name":"Manta",
+    "wof:parent_id":1108699463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8733,
+    5.5773,
+    120.8733,
+    5.5773
+],
+  "geometry": {"coordinates":[120.8733,5.5773],"type":"Point"}
+}

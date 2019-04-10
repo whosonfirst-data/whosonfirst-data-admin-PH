@@ -1,0 +1,72 @@
+{
+  "id": 1276232447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8205,11.9158,123.8205,11.9158",
+    "geom:latitude":11.9158,
+    "geom:longitude":123.8205,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54117000.0",
+    "gn:asciiname":"Libjo",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706644,
+    "gn:latitude":11.9158,
+    "gn:longitude":123.8205,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Libjo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Libjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706644
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7586a5498accb41dbb9f5a20d4f1085a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698915,
+            "locality_id":1276232447,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1276232447,
+    "wof:lastmodified":1537678004,
+    "wof:name":"Libjo",
+    "wof:parent_id":1108698915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8205,
+    11.9158,
+    123.8205,
+    11.9158
+],
+  "geometry": {"coordinates":[123.8205,11.9158],"type":"Point"}
+}

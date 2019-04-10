@@ -1,0 +1,75 @@
+{
+  "id": 1225865023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7145,10.49436,123.7145,10.49436",
+    "geom:latitude":10.49436,
+    "geom:longitude":123.7145,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72208000.0",
+    "gn:asciiname":"Pontol",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693039,
+    "gn:latitude":10.49436,
+    "gn:longitude":123.7145,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pontol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pontol"
+    ],
+    "name:und_x_variant":[
+        "Pondol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693039
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"518450ebc2d158eccba5e7cf3e8628f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696805,
+            "locality_id":1225865023,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1225865023,
+    "wof:lastmodified":1537677617,
+    "wof:name":"Pontol",
+    "wof:parent_id":1108696805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7145,
+    10.49436,
+    123.7145,
+    10.49436
+],
+  "geometry": {"coordinates":[123.7145,10.49436],"type":"Point"}
+}

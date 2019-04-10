@@ -1,0 +1,68 @@
+{
+  "id": 1209100461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.78722,10.58361,123.78722,10.58361",
+    "geom:latitude":10.58361,
+    "geom:longitude":123.78722,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72206000.0",
+    "gn:asciiname":"Manguiao",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701727,
+    "gn:latitude":10.58361,
+    "gn:longitude":123.78722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Manguiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangiao",
+        "Manguiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701727
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0861878b239b596724c63911bd2986c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209100461
+        }
+    ],
+    "wof:id":1209100461,
+    "wof:lastmodified":1537677863,
+    "wof:name":"Manguiao",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.78722,
+    10.58361,
+    123.78722,
+    10.58361
+],
+  "geometry": {"coordinates":[123.78722,10.58361],"type":"Point"}
+}

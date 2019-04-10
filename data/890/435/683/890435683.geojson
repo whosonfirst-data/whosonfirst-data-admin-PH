@@ -1,0 +1,72 @@
+{
+  "id": 890435683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.18333,13.61667,123.18333,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":123.18333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":147197,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Lungsod ng Naga"
+    ],
+    "name:unk_x_variant":[
+        "Naga"
+    ],
+    "qs:name":"Naga City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698822,
+        "qs:id":87172,
+        "wk:page":"Naga City"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052077,
+    "wof:geomhash":"3d4a573c2aa245debd0a323f18e6cbd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890435683,
+            "region_id":85676345
+        }
+    ],
+    "wof:id":890435683,
+    "wof:lastmodified":1527793051,
+    "wof:name":"Naga City",
+    "wof:parent_id":85676345,
+    "wof:placetype":"county",
+    "wof:population":147197,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.18333,
+    13.61667,
+    123.18333,
+    13.61667
+],
+  "geometry": {"coordinates":[123.18333,13.61667],"type":"Point"}
+}

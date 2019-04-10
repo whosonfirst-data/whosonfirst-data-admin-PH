@@ -1,0 +1,75 @@
+{
+  "id": 1344246973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6112,12.0747,124.6112,12.0747",
+    "geom:latitude":12.0747,
+    "geom:longitude":124.6112,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86003000.0",
+    "gn:asciiname":"Cabellero",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721929,
+    "gn:latitude":12.0747,
+    "gn:longitude":124.6112,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabellero",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabellero"
+    ],
+    "name:fil_x_variant":[
+        "Caballero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108697221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721929
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"45e2d551b9a6c58e5c2a52a1334d91fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697221,
+            "locality_id":1344246973,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1344246973,
+    "wof:lastmodified":1537678442,
+    "wof:name":"Cabellero",
+    "wof:parent_id":1108697221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6112,
+    12.0747,
+    124.6112,
+    12.0747
+],
+  "geometry": {"coordinates":[124.6112,12.0747],"type":"Point"}
+}

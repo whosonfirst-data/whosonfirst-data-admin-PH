@@ -1,0 +1,75 @@
+{
+  "id": 1310398591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0161,11.7803,124.0161,11.7803",
+    "geom:latitude":11.7803,
+    "geom:longitude":124.0161,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54109000.0",
+    "gn:asciiname":"Masbaranon",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700717,
+    "gn:latitude":11.7803,
+    "gn:longitude":124.0161,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Masbaranon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Masbaranon"
+    ],
+    "name:und_x_variant":[
+        "Masbarano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108697579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700717
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"361aa1567499d202a89da5d2a7c7500d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697579,
+            "locality_id":1310398591,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1310398591,
+    "wof:lastmodified":1537677836,
+    "wof:name":"Masbaranon",
+    "wof:parent_id":1108697579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0161,
+    11.7803,
+    124.0161,
+    11.7803
+],
+  "geometry": {"coordinates":[124.01609999999999,11.7803],"type":"Point"}
+}

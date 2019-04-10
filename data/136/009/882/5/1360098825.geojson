@@ -1,0 +1,72 @@
+{
+  "id": 1360098825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28333,15.96667,120.28333,15.96667",
+    "geom:latitude":15.96667,
+    "geom:longitude":120.28333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15513000.0",
+    "gn:asciiname":"Parayan",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694705,
+    "gn:latitude":15.96667,
+    "gn:longitude":120.28333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Parayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Parayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676365,
+        1108697017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694705
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5111b86b3323ed0a25684bfb49a74e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697017,
+            "locality_id":1360098825,
+            "region_id":85676365
+        }
+    ],
+    "wof:id":1360098825,
+    "wof:lastmodified":1537677666,
+    "wof:name":"Parayan",
+    "wof:parent_id":1108697017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28333,
+    15.96667,
+    120.28333,
+    15.96667
+],
+  "geometry": {"coordinates":[120.28333000000001,15.96667],"type":"Point"}
+}

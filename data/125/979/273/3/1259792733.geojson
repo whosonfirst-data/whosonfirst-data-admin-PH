@@ -1,0 +1,76 @@
+{
+  "id": 1259792733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5388,17.9273,120.5388,17.9273",
+    "geom:latitude":17.9273,
+    "geom:longitude":120.5388,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12819000.0",
+    "gn:asciiname":"Barbar",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726723,
+    "gn:latitude":17.9273,
+    "gn:longitude":120.5388,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Barbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Barbar"
+    ],
+    "name:und_x_variant":[
+        "Barbara",
+        "Barbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726723
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"66770b7c8031446a336029147c874511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696773,
+            "locality_id":1259792733,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1259792733,
+    "wof:lastmodified":1537678582,
+    "wof:name":"Barbar",
+    "wof:parent_id":1108696773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5388,
+    17.9273,
+    120.5388,
+    17.9273
+],
+  "geometry": {"coordinates":[120.53879999999999,17.9273],"type":"Point"}
+}

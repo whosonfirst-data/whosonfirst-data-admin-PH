@@ -1,0 +1,84 @@
+{
+  "id": 1125848167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.415,11.5551,124.415,11.5551",
+    "geom:latitude":11.5551,
+    "geom:longitude":124.415,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3174,
+    "gn:population":3174,
+    "iso:country":"PH",
+    "lbl:latitude":11.5551,
+    "lbl:longitude":124.415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Caraycaray"
+    ],
+    "name:unk_x_variant":[
+        "Caraycary"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1718448,
+    "qs_pg:gn_pop":3174,
+    "qs_pg:name":"Caraycaray",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88036,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676187,
+        1108698569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718448,
+        "qs_pg:id":88036
+    },
+    "wof:country":"PH",
+    "wof:created":1497293261,
+    "wof:geomhash":"e851c6a4ba92a11a4e68ffa27ecad263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698569,
+            "locality_id":1125848167,
+            "region_id":85676187
+        }
+    ],
+    "wof:id":1125848167,
+    "wof:lastmodified":1509395756,
+    "wof:name":"Caraycaray",
+    "wof:parent_id":1108698569,
+    "wof:placetype":"locality",
+    "wof:population":3174,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.415,
+    11.5551,
+    124.415,
+    11.5551
+],
+  "geometry": {"coordinates":[124.41500000000001,11.5551],"type":"Point"}
+}

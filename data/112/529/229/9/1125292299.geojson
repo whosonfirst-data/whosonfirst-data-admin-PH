@@ -1,0 +1,81 @@
+{
+  "id": 1125292299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13333,10.4,125.13333,10.4",
+    "geom:latitude":10.4,
+    "geom:longitude":125.13333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":26520,
+    "gn:population":26520,
+    "iso:country":"PH",
+    "lbl:latitude":10.4,
+    "lbl:longitude":125.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Hinunangan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1711597,
+    "qs_pg:gn_pop":26520,
+    "qs_pg:name":"Hinunangan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":87739,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108697729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711597,
+        "qs_pg:id":87739
+    },
+    "wof:country":"PH",
+    "wof:created":1497042979,
+    "wof:geomhash":"901bb7489077196ab11aad80b7e7c334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697729,
+            "localadmin_id":1125292299,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1125292299,
+    "wof:lastmodified":1509387556,
+    "wof:name":"Hinunangan",
+    "wof:parent_id":1108697729,
+    "wof:placetype":"localadmin",
+    "wof:population":26520,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13333,
+    10.4,
+    125.13333,
+    10.4
+],
+  "geometry": {"coordinates":[125.13333,10.4],"type":"Point"}
+}

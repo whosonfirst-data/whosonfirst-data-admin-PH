@@ -1,0 +1,68 @@
+{
+  "id": 890452383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41409,15.80411,120.41409,15.80411",
+    "geom:latitude":15.80411,
+    "geom:longitude":120.41409,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2779,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tanolong"
+    ],
+    "qs:name":"Tanolong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683066,
+        "qs:id":134050
+    },
+    "wof:country":"PH",
+    "wof:created":1469052815,
+    "wof:geomhash":"63a9edf3a6a4a120cdb10e4c3e8f07cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696969,
+            "locality_id":890452383,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890452383,
+    "wof:lastmodified":1505343645,
+    "wof:name":"Tanolong",
+    "wof:parent_id":1108696969,
+    "wof:placetype":"locality",
+    "wof:population":2779,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41409,
+    15.80411,
+    120.41409,
+    15.80411
+],
+  "geometry": {"coordinates":[120.41409,15.80411],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1125898499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.40083,13.83028,121.40083,13.83028",
+    "geom:latitude":13.83028,
+    "geom:longitude":121.40083,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPLA3",
+    "gn:gn_pop":0,
+    "iso:country":"PH",
+    "lbl:latitude":13.83028,
+    "lbl:longitude":121.40083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Bolboc"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPLA3",
+    "qs_pg:gn_id":1689303,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Juan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1027112,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689303,
+        "qs_pg:id":1027112
+    },
+    "wof:country":"PH",
+    "wof:created":1497295697,
+    "wof:geomhash":"93e2ebdd60985401485826487912566a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699223,
+            "locality_id":1125898499,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1125898499,
+    "wof:lastmodified":1509399265,
+    "wof:name":"San Juan",
+    "wof:parent_id":1108699223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.40083,
+    13.83028,
+    121.40083,
+    13.83028
+],
+  "geometry": {"coordinates":[121.40083,13.83028],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193048861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.808,9.9859,122.808,9.9859",
+    "geom:latitude":9.9859,
+    "geom:longitude":122.808,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64515000.0",
+    "gn:asciiname":"Kamugao",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719533,
+    "gn:latitude":9.9859,
+    "gn:longitude":122.808,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kamugao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Camugao"
+    ],
+    "name:und_x_variant":[
+        "Camagoo",
+        "Kamugao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719533
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a1331cbd9ececc1973d672fbc7bce719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697861,
+            "locality_id":1193048861,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1193048861,
+    "wof:lastmodified":1537678367,
+    "wof:name":"Kamugao",
+    "wof:parent_id":1108697861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.808,
+    9.9859,
+    122.808,
+    9.9859
+],
+  "geometry": {"coordinates":[122.80800000000001,9.9859],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209156933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1253,13.9691,121.1253,13.9691",
+    "geom:latitude":13.9691,
+    "geom:longitude":121.1253,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41014000.0",
+    "gn:asciiname":"San Salvador",
+    "gn:country_code":"PH",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688450,
+    "gn:latitude":13.9691,
+    "gn:longitude":121.1253,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Salvador",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Salvador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688450
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0f1c3649ec828e294a6ecd40b27a11e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209156933
+        }
+    ],
+    "wof:id":1209156933,
+    "wof:lastmodified":1537677481,
+    "wof:name":"San Salvador",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1253,
+    13.9691,
+    121.1253,
+    13.9691
+],
+  "geometry": {"coordinates":[121.1253,13.9691],"type":"Point"}
+}

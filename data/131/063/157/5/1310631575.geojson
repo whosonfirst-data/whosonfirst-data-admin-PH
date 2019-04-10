@@ -1,0 +1,72 @@
+{
+  "id": 1310631575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2121,9.1831,123.2121,9.1831",
+    "geom:latitude":9.1831,
+    "geom:longitude":123.2121,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74609000.0",
+    "gn:asciiname":"Balayagtuco",
+    "gn:country_code":"PH",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728338,
+    "gn:latitude":9.1831,
+    "gn:longitude":123.2121,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balayagtuco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balayagtuco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108697461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728338
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"803bb1b978ab819dd7788bd3dcd9a939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697461,
+            "locality_id":1310631575,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1310631575,
+    "wof:lastmodified":1537678635,
+    "wof:name":"Balayagtuco",
+    "wof:parent_id":1108697461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2121,
+    9.1831,
+    123.2121,
+    9.1831
+],
+  "geometry": {"coordinates":[123.21210000000001,9.1831],"type":"Point"}
+}

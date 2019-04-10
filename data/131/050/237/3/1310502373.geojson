@@ -1,0 +1,72 @@
+{
+  "id": 1310502373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92449,15.43516,120.92449,15.43516",
+    "geom:latitude":15.43516,
+    "geom:longitude":120.92449,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34928000.0",
+    "gn:asciiname":"San Josep",
+    "gn:country_code":"PH",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541646,
+    "gn:latitude":15.43516,
+    "gn:longitude":120.92449,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Josep",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santo Josep"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541646
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"76be3ff34f3f631d9bf538c38212c69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699399,
+            "locality_id":1310502373,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1310502373,
+    "wof:lastmodified":1537679087,
+    "wof:name":"San Josep",
+    "wof:parent_id":1108699399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92449,
+    15.43516,
+    120.92449,
+    15.43516
+],
+  "geometry": {"coordinates":[120.92449000000001,15.43516],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259669519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.66,9.1791,123.66,9.1791",
+    "geom:latitude":9.1791,
+    "geom:longitude":123.66,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76104000.0",
+    "gn:asciiname":"Sawang",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687096,
+    "gn:latitude":9.1791,
+    "gn:longitude":123.66,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687096
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e417242f77d5ee7b343492c56ed3c35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698397,
+            "locality_id":1259669519,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1259669519,
+    "wof:lastmodified":1537677438,
+    "wof:name":"Sawang",
+    "wof:parent_id":1108698397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.66,
+    9.1791,
+    123.66,
+    9.1791
+],
+  "geometry": {"coordinates":[123.66,9.1791],"type":"Point"}
+}

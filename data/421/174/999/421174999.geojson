@@ -1,0 +1,82 @@
+{
+  "id": 421174999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59923,15.44397,120.59923,15.44397",
+    "geom:latitude":15.44397,
+    "geom:longitude":120.59923,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "San Miguel"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1688949,
+    "qs:gn_pop":18582,
+    "qs:name":"San Miguel",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Luzon",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":911909,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1191423,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108699699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688949,
+        "gp:id":1191423,
+        "qs:id":911909
+    },
+    "wof:country":"PH",
+    "wof:created":1459009051,
+    "wof:geomhash":"5e71e9cb61e7411b3129fc1e1d5da4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699699,
+            "locality_id":421174999,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":421174999,
+    "wof:lastmodified":1505340622,
+    "wof:name":"San Miguel",
+    "wof:parent_id":1108699699,
+    "wof:placetype":"locality",
+    "wof:population":18582,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59923,
+    15.44397,
+    120.59923,
+    15.44397
+],
+  "geometry": {"coordinates":[120.59923000000001,15.44397],"type":"Point"}
+}

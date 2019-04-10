@@ -1,0 +1,72 @@
+{
+  "id": 1243243073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.24694,6.30556,125.24694,6.30556",
+    "geom:latitude":6.30556,
+    "geom:longitude":125.24694,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"M9",
+    "gn:admin3_code":"128007000.0",
+    "gn:asciiname":"Plain 2",
+    "gn:country_code":"PH",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1978567,
+    "gn:latitude":6.30556,
+    "gn:longitude":125.24694,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Plain 2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Plain 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108698323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1978567
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e7011eabfe4025355b61c91004b71cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698323,
+            "locality_id":1243243073,
+            "region_id":85676253
+        }
+    ],
+    "wof:id":1243243073,
+    "wof:lastmodified":1537678809,
+    "wof:name":"Plain 2",
+    "wof:parent_id":1108698323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.24694,
+    6.30556,
+    125.24694,
+    6.30556
+],
+  "geometry": {"coordinates":[125.24694,6.30556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193134587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.05,11.15,122.05,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":122.05,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60609000.0",
+    "gn:asciiname":"Pascuala",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694600,
+    "gn:latitude":11.15,
+    "gn:longitude":122.05,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pascuala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pascuala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108698025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694600
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c6facd3ea9df40caf4d056b020dd5646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698025,
+            "locality_id":1193134587,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1193134587,
+    "wof:lastmodified":1537677663,
+    "wof:name":"Pascuala",
+    "wof:parent_id":1108698025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.05,
+    11.15,
+    122.05,
+    11.15
+],
+  "geometry": {"coordinates":[122.05,11.15],"type":"Point"}
+}

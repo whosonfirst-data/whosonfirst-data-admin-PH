@@ -1,0 +1,74 @@
+{
+  "id": 1259918161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95,14.66667,120.95,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":120.95,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137500000",
+    "gn:admin3_code":"137503000.0",
+    "gn:asciiname":"Navotas",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1697846,
+    "gn:latitude":14.66667,
+    "gn:longitude":120.95,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Navotas",
+    "gn:population":249463,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lungsod ng Navotas"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697846,
+        "wk:page":"Navotas"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d92ade3365f3b7237509c7c26ef1fb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1259918161,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":1259918161,
+    "wof:lastmodified":1537677754,
+    "wof:name":"Navotas",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:population":249463,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95,
+    14.66667,
+    120.95,
+    14.66667
+],
+  "geometry": {"coordinates":[120.95,14.66667],"type":"Point"}
+}

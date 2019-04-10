@@ -1,0 +1,68 @@
+{
+  "id": 890432917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,10.66667,123.95,10.66667",
+    "geom:latitude":10.66667,
+    "geom:longitude":123.95,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":27908,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Catmon"
+    ],
+    "qs:name":"Catmon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717852,
+        "qs:id":88002
+    },
+    "wof:country":"PH",
+    "wof:created":1469051960,
+    "wof:geomhash":"7e6514fbd8623c355c6507a40ef808c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697335,
+            "localadmin_id":890432917,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890432917,
+    "wof:lastmodified":1505343532,
+    "wof:name":"Catmon",
+    "wof:parent_id":1108697335,
+    "wof:placetype":"localadmin",
+    "wof:population":27908,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    10.66667,
+    123.95,
+    10.66667
+],
+  "geometry": {"coordinates":[123.95,10.66667],"type":"Point"}
+}

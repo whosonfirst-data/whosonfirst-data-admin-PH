@@ -1,0 +1,72 @@
+{
+  "id": 1225942719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6892,13.8049,123.6892,13.8049",
+    "geom:latitude":13.8049,
+    "geom:longitude":123.6892,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51729000.0",
+    "gn:asciiname":"Bantogan",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726978,
+    "gn:latitude":13.8049,
+    "gn:longitude":123.6892,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bantogan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bantogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726978
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c08502a41d049e334b562a101a6558a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697613,
+            "locality_id":1225942719,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1225942719,
+    "wof:lastmodified":1537678591,
+    "wof:name":"Bantogan",
+    "wof:parent_id":1108697613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6892,
+    13.8049,
+    123.6892,
+    13.8049
+],
+  "geometry": {"coordinates":[123.6892,13.8049],"type":"Point"}
+}

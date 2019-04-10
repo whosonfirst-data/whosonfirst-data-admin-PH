@@ -1,0 +1,74 @@
+{
+  "id": 1225882759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89892,14.17319,120.89892,14.17319",
+    "geom:latitude":14.17319,
+    "geom:longitude":120.89892,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42110000.0",
+    "gn:asciiname":"Buna Lejos Primero y Segundo",
+    "gn:country_code":"PH",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724183,
+    "gn:latitude":14.17319,
+    "gn:longitude":120.89892,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buna Lejos Primero y Segundo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buna Lejos",
+        "Bona Lejos",
+        "Buna Lejos Primero y Segundo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724183
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"98aa44bacad704619ae4c2db1004f3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697765,
+            "locality_id":1225882759,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1225882759,
+    "wof:lastmodified":1537678512,
+    "wof:name":"Buna Lejos Primero y Segundo",
+    "wof:parent_id":1108697765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89892,
+    14.17319,
+    120.89892,
+    14.17319
+],
+  "geometry": {"coordinates":[120.89892,14.17319],"type":"Point"}
+}

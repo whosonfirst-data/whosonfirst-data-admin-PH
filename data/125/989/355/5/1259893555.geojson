@@ -1,0 +1,69 @@
+{
+  "id": 1259893555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68,15.9674,120.68,15.9674",
+    "geom:latitude":15.9674,
+    "geom:longitude":120.68,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15539000.0",
+    "gn:asciiname":"Paitan",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374594,
+    "gn:latitude":15.9674,
+    "gn:longitude":120.68,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Paitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374594
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"954981058915c3278bc8e1595fd446ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699391,
+            "locality_id":1259893555,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1259893555,
+    "wof:lastmodified":1536764920,
+    "wof:name":"Paitan",
+    "wof:parent_id":1108699391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68,
+    15.9674,
+    120.68,
+    15.9674
+],
+  "geometry": {"coordinates":[120.68000000000001,15.9674],"type":"Point"}
+}

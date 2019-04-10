@@ -1,0 +1,66 @@
+{
+  "id": 1209315425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64102,15.76704,120.64102,15.76704",
+    "geom:latitude":15.76704,
+    "geom:longitude":120.64102,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34906000.0",
+    "gn:asciiname":"Malbeg",
+    "gn:country_code":"PH",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702906,
+    "gn:latitude":15.76704,
+    "gn:longitude":120.64102,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malbeg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malbeg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702906
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c03ba7f1c5c7cd63992f73a2854ed619",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209315425
+        }
+    ],
+    "wof:id":1209315425,
+    "wof:lastmodified":1537677897,
+    "wof:name":"Malbeg",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64102,
+    15.76704,
+    120.64102,
+    15.76704
+],
+  "geometry": {"coordinates":[120.64102,15.76704],"type":"Point"}
+}

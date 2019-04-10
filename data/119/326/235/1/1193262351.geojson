@@ -1,0 +1,72 @@
+{
+  "id": 1193262351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3569,8.5167,123.3569,8.5167",
+    "geom:latitude":8.5167,
+    "geom:longitude":123.3569,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97210000.0",
+    "gn:asciiname":"Sinaman",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686293,
+    "gn:latitude":8.5167,
+    "gn:longitude":123.3569,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sinaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sinaman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686293
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"161624034650cc008a1c7d072a161929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698925,
+            "locality_id":1193262351,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1193262351,
+    "wof:lastmodified":1537677421,
+    "wof:name":"Sinaman",
+    "wof:parent_id":1108698925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3569,
+    8.5167,
+    123.3569,
+    8.5167
+],
+  "geometry": {"coordinates":[123.3569,8.5167],"type":"Point"}
+}

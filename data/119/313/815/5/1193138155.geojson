@@ -1,0 +1,72 @@
+{
+  "id": 1193138155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1,15.03333,120.1,15.03333",
+    "geom:latitude":15.03333,
+    "geom:longitude":120.1,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37112000.0",
+    "gn:asciiname":"Lara",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707241,
+    "gn:latitude":15.03333,
+    "gn:longitude":120.1,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108699279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707241
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0a6e9120b332e85d0710a8bf82f645f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699279,
+            "locality_id":1193138155,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1193138155,
+    "wof:lastmodified":1537678020,
+    "wof:name":"Lara",
+    "wof:parent_id":1108699279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1,
+    15.03333,
+    120.1,
+    15.03333
+],
+  "geometry": {"coordinates":[120.09999999999999,15.03333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1125848053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4335,9.6783,122.4335,9.6783",
+    "geom:latitude":9.6783,
+    "geom:longitude":122.4335,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3363,
+    "gn:population":3363,
+    "iso:country":"PH",
+    "lbl:latitude":9.6783,
+    "lbl:longitude":122.4335,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Cayhagan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1717550,
+    "qs_pg:gn_pop":3363,
+    "qs_pg:name":"Cayhagan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87988,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717550,
+        "qs_pg:id":87988
+    },
+    "wof:country":"PH",
+    "wof:created":1497293256,
+    "wof:geomhash":"798cd1444f4cdcd7b842e795245d870f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699513,
+            "locality_id":1125848053,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125848053,
+    "wof:lastmodified":1509395749,
+    "wof:name":"Cayhagan",
+    "wof:parent_id":1108699513,
+    "wof:placetype":"locality",
+    "wof:population":3363,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4335,
+    9.6783,
+    122.4335,
+    9.6783
+],
+  "geometry": {"coordinates":[122.4335,9.6783],"type":"Point"}
+}

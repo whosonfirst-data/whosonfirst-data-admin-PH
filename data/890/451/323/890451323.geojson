@@ -1,0 +1,66 @@
+{
+  "id": 890451323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3376,11.5956,123.3376,11.5956",
+    "geom:latitude":11.5956,
+    "geom:longitude":123.3376,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2189,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Gabi"
+    ],
+    "qs:name":"Gabi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":133,
+    "wof:belongsto":[
+        102191569,
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713478,
+        "qs:id":87819,
+        "wk:page":"Gabi"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052773,
+    "wof:geomhash":"16de43a5afc4f32964070b697e2163f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":890451323
+        }
+    ],
+    "wof:id":890451323,
+    "wof:lastmodified":1527792938,
+    "wof:name":"Gabi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2189,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3376,
+    11.5956,
+    123.3376,
+    11.5956
+],
+  "geometry": {"coordinates":[123.33759999999999,11.5956],"type":"Point"}
+}

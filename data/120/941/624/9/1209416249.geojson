@@ -1,0 +1,66 @@
+{
+  "id": 1209416249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9661,15.7156,119.9661,15.7156",
+    "geom:latitude":15.7156,
+    "geom:longitude":119.9661,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37113000.0",
+    "gn:asciiname":"Danac",
+    "gn:country_code":"PH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564361,
+    "gn:latitude":15.7156,
+    "gn:longitude":119.9661,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Danac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Danac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564361
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"66fea46ad121ba5ed635a14f9feb84d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209416249
+        }
+    ],
+    "wof:id":1209416249,
+    "wof:lastmodified":1537678979,
+    "wof:name":"Danac",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9661,
+    15.7156,
+    119.9661,
+    15.7156
+],
+  "geometry": {"coordinates":[119.9661,15.7156],"type":"Point"}
+}

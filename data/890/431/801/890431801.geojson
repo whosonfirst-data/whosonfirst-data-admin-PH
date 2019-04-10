@@ -1,0 +1,66 @@
+{
+  "id": 890431801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.22139,6.17222,125.22139,6.17222",
+    "geom:latitude":6.17222,
+    "geom:longitude":125.22139,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":8476,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Katangawan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676313,
+        1108697635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709119,
+        "gp:id":1176228,
+        "qs:id":277135
+    },
+    "wof:country":"PH",
+    "wof:created":1469051916,
+    "wof:geomhash":"90983794f0a5d28fe5cd9ef790ca6151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697635,
+            "locality_id":890431801,
+            "region_id":85676313
+        }
+    ],
+    "wof:id":890431801,
+    "wof:lastmodified":1505343526,
+    "wof:name":"Katangawan",
+    "wof:parent_id":1108697635,
+    "wof:placetype":"locality",
+    "wof:population":8476,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.22139,
+    6.17222,
+    125.22139,
+    6.17222
+],
+  "geometry": {"coordinates":[125.22139,6.17222],"type":"Point"}
+}

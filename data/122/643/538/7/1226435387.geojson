@@ -1,0 +1,75 @@
+{
+  "id": 1226435387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7975,13.8344,123.7975,13.8344",
+    "geom:latitude":13.8344,
+    "geom:longitude":123.7975,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51711000.0",
+    "gn:asciiname":"Tabgon",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684993,
+    "gn:latitude":13.8344,
+    "gn:longitude":123.7975,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tabgon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tabgon"
+    ],
+    "name:und_x_variant":[
+        "Tabiguian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684993
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"24ccbb7fe6bcbc9597f41a8740c57c52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697273,
+            "locality_id":1226435387,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1226435387,
+    "wof:lastmodified":1537677387,
+    "wof:name":"Tabgon",
+    "wof:parent_id":1108697273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7975,
+    13.8344,
+    123.7975,
+    13.8344
+],
+  "geometry": {"coordinates":[123.7975,13.8344],"type":"Point"}
+}

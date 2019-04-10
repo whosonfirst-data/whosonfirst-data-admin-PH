@@ -1,0 +1,68 @@
+{
+  "id": 890451201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.105,7.57444,125.105,7.57444",
+    "geom:latitude":7.57444,
+    "geom:longitude":125.105,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2205,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kitubo"
+    ],
+    "qs:name":"Kitobo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108697929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708595,
+        "qs:id":87617
+    },
+    "wof:country":"PH",
+    "wof:created":1469052768,
+    "wof:geomhash":"f308935993572b8f3077d117d72cafc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697929,
+            "locality_id":890451201,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":890451201,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Kitobo",
+    "wof:parent_id":1108697929,
+    "wof:placetype":"locality",
+    "wof:population":2205,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.105,
+    7.57444,
+    125.105,
+    7.57444
+],
+  "geometry": {"coordinates":[125.105,7.57444],"type":"Point"}
+}

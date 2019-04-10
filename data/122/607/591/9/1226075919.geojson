@@ -1,0 +1,72 @@
+{
+  "id": 1226075919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1703,10.9412,123.1703,10.9412",
+    "geom:latitude":10.9412,
+    "geom:longitude":123.1703,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64518000.0",
+    "gn:asciiname":"Hacienda Sicaba Onson",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428581,
+    "gn:latitude":10.9412,
+    "gn:longitude":123.1703,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Sicaba Onson",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Sicaba Onson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108698341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428581
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c9c2f92902fdb02411706470ee8f0246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698341,
+            "locality_id":1226075919,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1226075919,
+    "wof:lastmodified":1537678927,
+    "wof:name":"Hacienda Sicaba Onson",
+    "wof:parent_id":1108698341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1703,
+    10.9412,
+    123.1703,
+    10.9412
+],
+  "geometry": {"coordinates":[123.1703,10.9412],"type":"Point"}
+}

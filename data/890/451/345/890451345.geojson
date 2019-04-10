@@ -1,0 +1,71 @@
+{
+  "id": 890451345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59804,17.03655,121.59804,17.03655",
+    "geom:latitude":17.03655,
+    "geom:longitude":121.59804,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2136,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Eden"
+    ],
+    "qs:name":"Eden",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":659,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713959,
+        "gp:id":1172392,
+        "qs:id":87845,
+        "wk:page":"Eden"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052775,
+    "wof:geomhash":"c322607627560e39c15f67e0bc9a1afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699247,
+            "locality_id":890451345,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":890451345,
+    "wof:lastmodified":1527792941,
+    "wof:name":"Eden",
+    "wof:parent_id":1108699247,
+    "wof:placetype":"locality",
+    "wof:population":2136,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59804,
+    17.03655,
+    121.59804,
+    17.03655
+],
+  "geometry": {"coordinates":[121.59804,17.03655],"type":"Point"}
+}

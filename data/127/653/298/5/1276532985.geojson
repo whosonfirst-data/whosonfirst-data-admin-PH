@@ -1,0 +1,76 @@
+{
+  "id": 1276532985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.86139,10.13389,124.86139,10.13389",
+    "geom:latitude":10.13389,
+    "geom:longitude":124.86139,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86407000.0",
+    "gn:asciiname":"Asuncion",
+    "gn:country_code":"PH",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730023,
+    "gn:latitude":10.13389,
+    "gn:longitude":124.86139,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Asuncion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Asuncion"
+    ],
+    "name:fil_x_variant":[
+        "Pacu",
+        "Paco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108698181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730023
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d50ed45f287bf5bdaa8f6d0c47b96c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698181,
+            "locality_id":1276532985,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1276532985,
+    "wof:lastmodified":1537678684,
+    "wof:name":"Asuncion",
+    "wof:parent_id":1108698181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.86139,
+    10.13389,
+    124.86139,
+    10.13389
+],
+  "geometry": {"coordinates":[124.86139,10.13389],"type":"Point"}
+}

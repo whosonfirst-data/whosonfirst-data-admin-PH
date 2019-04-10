@@ -1,0 +1,73 @@
+{
+  "id": 1277071799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.83333,11.0,122.83333,11.0",
+    "geom:latitude":11.0,
+    "geom:longitude":122.83333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:asciiname":"Zona Sur",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679362,
+    "gn:latitude":11.0,
+    "gn:longitude":122.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Zona Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banate",
+        "Zona Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679362
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fbd25201fa9edc4c560ef4c5a505ccc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696865,
+            "locality_id":1277071799,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1277071799,
+    "wof:lastmodified":1537677230,
+    "wof:name":"Zona Sur",
+    "wof:parent_id":1108696865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.83333,
+    11.0,
+    122.83333,
+    11.0
+],
+  "geometry": {"coordinates":[122.83333,11.0],"type":"Point"}
+}

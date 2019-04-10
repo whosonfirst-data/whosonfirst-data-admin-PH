@@ -1,0 +1,108 @@
+{
+  "id": 85902797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":7529902.213616,
+    "geom:bbox":"124.075518,12.74336,124.075518,12.74336",
+    "geom:latitude":12.74336,
+    "geom:longitude":124.075518,
+    "gn:latitude":12.71219,
+    "gn:longitude":124.03247,
+    "iso:country":"PH",
+    "lbl:latitude":12.74336,
+    "lbl:longitude":124.075518,
+    "mps:latitude":12.701971,
+    "mps:longitude":124.038391,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "San Juan"
+    ],
+    "name:fil_x_preferred":[
+        "San Juan"
+    ],
+    "name:unk_x_variant":[
+        "San Juan"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"05",
+    "qs:gn_name":"San Juan",
+    "qs:local_max":29,
+    "qs:local_sum":29,
+    "qs:localhoods":1,
+    "qs:name":"San Juan",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Bicol Region",
+    "qs:name_adm2":"Sorsogon",
+    "qs:name_local":"Irosin",
+    "qs:photo_max":28,
+    "qs:photo_sum":29,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424934,
+    "qs:woe_adm1":23424720,
+    "qs:woe_adm2":2346711,
+    "qs:woe_lau":0,
+    "qs:woe_local":1199248,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1108697113,
+        85676035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689230,
+        "gp:id":1191125,
+        "qs:id":287974
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f837f223991b737d3c23c24b5b6794ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697113,
+            "locality_id":-1,
+            "neighbourhood_id":85902797,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":85902797,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531935942,
+    "wof:name":"San Juan",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.075518,
+    12.74336,
+    124.075518,
+    12.74336
+],
+  "geometry": {"coordinates":[124.075518,12.74336],"type":"Point"}
+}

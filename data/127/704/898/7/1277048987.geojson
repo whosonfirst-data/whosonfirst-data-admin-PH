@@ -1,0 +1,78 @@
+{
+  "id": 1277048987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.81944,4.92389,119.81944,4.92389",
+    "geom:latitude":4.92389,
+    "geom:longitude":119.81944,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"157004000.0",
+    "gn:asciiname":"Tongusong",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681481,
+    "gn:latitude":4.92389,
+    "gn:longitude":119.81944,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tongusong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tungusung",
+        "Tonguson",
+        "Tong Gusung",
+        "Tong Gusong",
+        "Tungusong",
+        "Tongusong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675929,
+        1108699501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681481
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"606f6cbf797a2585e85cea9ea2d10208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699501,
+            "locality_id":1277048987,
+            "region_id":85675929
+        }
+    ],
+    "wof:id":1277048987,
+    "wof:lastmodified":1537677292,
+    "wof:name":"Tongusong",
+    "wof:parent_id":1108699501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.81944,
+    4.92389,
+    119.81944,
+    4.92389
+],
+  "geometry": {"coordinates":[119.81944,4.92389],"type":"Point"}
+}

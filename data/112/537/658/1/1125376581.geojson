@@ -1,0 +1,81 @@
+{
+  "id": 1125376581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.13333,13.81667,120.13333,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":120.13333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":26749,
+    "gn:population":26749,
+    "iso:country":"PH",
+    "lbl:latitude":13.81667,
+    "lbl:longitude":120.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Lubang"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1705454,
+    "qs_pg:gn_pop":26749,
+    "qs_pg:name":"Lubang",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":371716,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108698133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705454,
+        "qs_pg:id":371716
+    },
+    "wof:country":"PH",
+    "wof:created":1497047782,
+    "wof:geomhash":"0dedf66b1c936b2ef5ca8e7ca87ed97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698133,
+            "localadmin_id":1125376581,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":1125376581,
+    "wof:lastmodified":1509389475,
+    "wof:name":"Lubang",
+    "wof:parent_id":1108698133,
+    "wof:placetype":"localadmin",
+    "wof:population":26749,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.13333,
+    13.81667,
+    120.13333,
+    13.81667
+],
+  "geometry": {"coordinates":[120.13333,13.81667],"type":"Point"}
+}

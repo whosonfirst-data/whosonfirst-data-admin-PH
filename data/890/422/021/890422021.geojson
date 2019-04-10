@@ -1,0 +1,72 @@
+{
+  "id": 890422021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5838,12.9168,123.5838,12.9168",
+    "geom:latitude":12.9168,
+    "geom:longitude":123.5838,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2167,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dangcalan"
+    ],
+    "name:unk_x_variant":[
+        "Dancalan"
+    ],
+    "qs:name":"Dangcalan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715719,
+        "gp:id":1171122,
+        "qs:id":135419
+    },
+    "wof:country":"PH",
+    "wof:created":1469051424,
+    "wof:geomhash":"f068057ea2fea84023ec1575bb9e686e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697525,
+            "locality_id":890422021,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":890422021,
+    "wof:lastmodified":1505343467,
+    "wof:name":"Dangcalan",
+    "wof:parent_id":1108697525,
+    "wof:placetype":"locality",
+    "wof:population":2167,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5838,
+    12.9168,
+    123.5838,
+    12.9168
+],
+  "geometry": {"coordinates":[123.5838,12.9168],"type":"Point"}
+}

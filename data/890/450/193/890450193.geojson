@@ -1,0 +1,68 @@
+{
+  "id": 890450193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6578,9.2393,124.6578,9.2393",
+    "geom:latitude":9.2393,
+    "geom:longitude":124.6578,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4930,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Yumbing"
+    ],
+    "qs:name":"Yumbing",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676225,
+        1108698331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679446,
+        "qs:id":86286
+    },
+    "wof:country":"PH",
+    "wof:created":1469052729,
+    "wof:geomhash":"fbc188c5e6840c31a561b5e1ae184600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698331,
+            "locality_id":890450193,
+            "region_id":85676225
+        }
+    ],
+    "wof:id":890450193,
+    "wof:lastmodified":1505343632,
+    "wof:name":"Yumbing",
+    "wof:parent_id":1108698331,
+    "wof:placetype":"locality",
+    "wof:population":4930,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6578,
+    9.2393,
+    124.6578,
+    9.2393
+],
+  "geometry": {"coordinates":[124.65779999999999,9.2393],"type":"Point"}
+}

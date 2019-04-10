@@ -1,0 +1,69 @@
+{
+  "id": 890416177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7566,13.1993,123.7566,13.1993",
+    "geom:latitude":13.1993,
+    "geom:longitude":123.7566,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":14510,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bigaa"
+    ],
+    "qs:name":"Bigaa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725397,
+        "gp:id":1163541,
+        "qs:id":135706
+    },
+    "wof:country":"PH",
+    "wof:created":1469051122,
+    "wof:geomhash":"4d243ef747711aad4c36795039edc08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698043,
+            "locality_id":890416177,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":890416177,
+    "wof:lastmodified":1505343430,
+    "wof:name":"Bigaa",
+    "wof:parent_id":1108698043,
+    "wof:placetype":"locality",
+    "wof:population":14510,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7566,
+    13.1993,
+    123.7566,
+    13.1993
+],
+  "geometry": {"coordinates":[123.75660000000001,13.1993],"type":"Point"}
+}

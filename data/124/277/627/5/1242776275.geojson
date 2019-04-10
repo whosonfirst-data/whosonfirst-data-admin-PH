@@ -1,0 +1,72 @@
+{
+  "id": 1242776275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.86667,12.8,123.86667,12.8",
+    "geom:latitude":12.8,
+    "geom:longitude":123.86667,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56211000.0",
+    "gn:asciiname":"Gibalon",
+    "gn:country_code":"PH",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712996,
+    "gn:latitude":12.8,
+    "gn:longitude":123.86667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gibalon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gibalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108698233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712996
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a2c8c286ac6de13f4aa803f0bab8a1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698233,
+            "locality_id":1242776275,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1242776275,
+    "wof:lastmodified":1537678183,
+    "wof:name":"Gibalon",
+    "wof:parent_id":1108698233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.86667,
+    12.8,
+    123.86667,
+    12.8
+],
+  "geometry": {"coordinates":[123.86667,12.8],"type":"Point"}
+}

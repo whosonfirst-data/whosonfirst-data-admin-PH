@@ -1,0 +1,71 @@
+{
+  "id": 890416181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97667,14.25083,120.97667,14.25083",
+    "geom:latitude":14.25083,
+    "geom:longitude":120.97667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4232,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Biga"
+    ],
+    "qs:name":"Biga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108699493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725404,
+        "gp:id":91425442,
+        "qs:id":135707,
+        "wk:page":"Biga"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051122,
+    "wof:geomhash":"2447008c768e79fd63077d1f599d6fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699493,
+            "locality_id":890416181,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":890416181,
+    "wof:lastmodified":1527792802,
+    "wof:name":"Biga",
+    "wof:parent_id":1108699493,
+    "wof:placetype":"locality",
+    "wof:population":4232,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97667,
+    14.25083,
+    120.97667,
+    14.25083
+],
+  "geometry": {"coordinates":[120.97667,14.25083],"type":"Point"}
+}

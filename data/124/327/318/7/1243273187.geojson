@@ -1,0 +1,78 @@
+{
+  "id": 1243273187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4396,17.917,120.4396,17.917",
+    "geom:latitude":17.917,
+    "geom:longitude":120.4396,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12803000.0",
+    "gn:asciiname":"Lubec",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705887,
+    "gn:latitude":17.917,
+    "gn:longitude":120.4396,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lubec",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lubec"
+    ],
+    "name:fil_x_variant":[
+        "Lobit"
+    ],
+    "name:und_x_variant":[
+        "Lobit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705887
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8e41b96613c9325f7b80031336968df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696773,
+            "locality_id":1243273187,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1243273187,
+    "wof:lastmodified":1537677982,
+    "wof:name":"Lubec",
+    "wof:parent_id":1108696773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4396,
+    17.917,
+    120.4396,
+    17.917
+],
+  "geometry": {"coordinates":[120.4396,17.917],"type":"Point"}
+}

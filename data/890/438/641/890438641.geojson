@@ -1,0 +1,68 @@
+{
+  "id": 890438641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.045,7.01028,125.045,7.01028",
+    "geom:latitude":7.01028,
+    "geom:longitude":125.045,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2494,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kalasuyan"
+    ],
+    "qs:name":"Kalaisan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108697925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709668,
+        "qs:id":1032758
+    },
+    "wof:country":"PH",
+    "wof:created":1469052203,
+    "wof:geomhash":"4737ba23fe19df9eae5218081c712110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697925,
+            "locality_id":890438641,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":890438641,
+    "wof:lastmodified":1505343566,
+    "wof:name":"Kalaisan",
+    "wof:parent_id":1108697925,
+    "wof:placetype":"locality",
+    "wof:population":2494,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.045,
+    7.01028,
+    125.045,
+    7.01028
+],
+  "geometry": {"coordinates":[125.045,7.01028],"type":"Point"}
+}

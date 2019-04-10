@@ -1,0 +1,75 @@
+{
+  "id": 1242699349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3431,11.5438,122.3431,11.5438",
+    "geom:latitude":11.5438,
+    "geom:longitude":122.3431,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60402000.0",
+    "gn:asciiname":"Bulajan",
+    "gn:country_code":"PH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692616,
+    "gn:latitude":11.5438,
+    "gn:longitude":122.3431,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bulajan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bulajan"
+    ],
+    "name:und_x_variant":[
+        "Pulajan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108696875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692616
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c743f3ecdceab968833bf475601b55cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696875,
+            "locality_id":1242699349,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1242699349,
+    "wof:lastmodified":1537677605,
+    "wof:name":"Bulajan",
+    "wof:parent_id":1108696875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3431,
+    11.5438,
+    122.3431,
+    11.5438
+],
+  "geometry": {"coordinates":[122.34310000000001,11.5438],"type":"Point"}
+}

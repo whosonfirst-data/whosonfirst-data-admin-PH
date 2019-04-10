@@ -1,0 +1,75 @@
+{
+  "id": 1310099847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2953,7.7098,123.2953,7.7098",
+    "geom:latitude":7.7098,
+    "geom:longitude":123.2953,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97324000.0",
+    "gn:asciiname":"Mati",
+    "gn:country_code":"PH",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700358,
+    "gn:latitude":7.7098,
+    "gn:longitude":123.2953,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mati"
+    ],
+    "name:und_x_variant":[
+        "Mate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108697537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700358
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f752811fc99b0b99edc48555e4b93ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697537,
+            "locality_id":1310099847,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1310099847,
+    "wof:lastmodified":1537677826,
+    "wof:name":"Mati",
+    "wof:parent_id":1108697537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2953,
+    7.7098,
+    123.2953,
+    7.7098
+],
+  "geometry": {"coordinates":[123.2953,7.7098],"type":"Point"}
+}

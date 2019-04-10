@@ -1,0 +1,75 @@
+{
+  "id": 1193229401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.85344,14.92239,121.85344,14.92239",
+    "geom:latitude":14.92239,
+    "geom:longitude":121.85344,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45631000.0",
+    "gn:asciiname":"Calasumanga",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709670,
+    "gn:latitude":14.92239,
+    "gn:longitude":121.85344,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Calasumanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calasumanga"
+    ],
+    "name:fil_x_variant":[
+        "Kalasumanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709670
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f724be2bfd7a957a77bbd780c3c6ff44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698805,
+            "locality_id":1193229401,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1193229401,
+    "wof:lastmodified":1537678090,
+    "wof:name":"Calasumanga",
+    "wof:parent_id":1108698805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.85344,
+    14.92239,
+    121.85344,
+    14.92239
+],
+  "geometry": {"coordinates":[121.85344000000001,14.92239],"type":"Point"}
+}

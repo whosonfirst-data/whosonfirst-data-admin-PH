@@ -1,0 +1,68 @@
+{
+  "id": 890436301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26667,15.73333,120.26667,15.73333",
+    "geom:latitude":15.73333,
+    "geom:longitude":120.26667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":65931,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mangatarem"
+    ],
+    "qs:name":"Mangatarem",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701823,
+        "qs:id":87316
+    },
+    "wof:country":"PH",
+    "wof:created":1469052106,
+    "wof:geomhash":"3d3e4cfb527ab9df94d6ae99256e55cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698353,
+            "localadmin_id":890436301,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890436301,
+    "wof:lastmodified":1505343552,
+    "wof:name":"Mangatarem",
+    "wof:parent_id":1108698353,
+    "wof:placetype":"localadmin",
+    "wof:population":65931,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26667,
+    15.73333,
+    120.26667,
+    15.73333
+],
+  "geometry": {"coordinates":[120.26667,15.73333],"type":"Point"}
+}

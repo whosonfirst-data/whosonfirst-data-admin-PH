@@ -1,0 +1,81 @@
+{
+  "id": 1125866733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5151,10.0475,124.5151,10.0475",
+    "geom:latitude":10.0475,
+    "geom:longitude":124.5151,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2270,
+    "gn:population":2270,
+    "iso:country":"PH",
+    "lbl:latitude":10.0475,
+    "lbl:longitude":124.5151,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Union"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1680266,
+    "qs_pg:gn_pop":2270,
+    "qs_pg:name":"Union",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":133930,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680266,
+        "qs_pg:id":133930
+    },
+    "wof:country":"PH",
+    "wof:created":1497294080,
+    "wof:geomhash":"8ccca4a097a752e3bc04acbb5010e645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699817,
+            "locality_id":1125866733,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1125866733,
+    "wof:lastmodified":1509397032,
+    "wof:name":"Union",
+    "wof:parent_id":1108699817,
+    "wof:placetype":"locality",
+    "wof:population":2270,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5151,
+    10.0475,
+    124.5151,
+    10.0475
+],
+  "geometry": {"coordinates":[124.5151,10.0475],"type":"Point"}
+}

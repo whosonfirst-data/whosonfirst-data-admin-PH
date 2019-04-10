@@ -1,0 +1,72 @@
+{
+  "id": 1226493613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97149,14.32,120.97149,14.32",
+    "geom:latitude":14.32,
+    "geom:longitude":120.97149,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42106000.0",
+    "gn:asciiname":"San Simon",
+    "gn:country_code":"PH",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8610520,
+    "gn:latitude":14.32,
+    "gn:longitude":120.97149,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Simon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barangay Siete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108697453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8610520
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f17f896efc08e90e9f64ae9c0c46b2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697453,
+            "locality_id":1226493613,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1226493613,
+    "wof:lastmodified":1537679088,
+    "wof:name":"San Simon",
+    "wof:parent_id":1108697453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97149,
+    14.32,
+    120.97149,
+    14.32
+],
+  "geometry": {"coordinates":[120.97149,14.32],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243446339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2031,10.637,122.2031,10.637",
+    "geom:latitude":10.637,
+    "geom:longitude":122.2031,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63030000.0",
+    "gn:asciiname":"Cabunacan",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684788,
+    "gn:latitude":10.637,
+    "gn:longitude":122.2031,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabunacan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabunacan"
+    ],
+    "name:und_x_variant":[
+        "Tabunacan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684788
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"132d80a8a1527aaf63ebab9f33b0d092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698469,
+            "locality_id":1243446339,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1243446339,
+    "wof:lastmodified":1537677381,
+    "wof:name":"Cabunacan",
+    "wof:parent_id":1108698469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2031,
+    10.637,
+    122.2031,
+    10.637
+],
+  "geometry": {"coordinates":[122.20310000000001,10.637],"type":"Point"}
+}

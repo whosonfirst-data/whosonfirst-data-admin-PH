@@ -1,0 +1,72 @@
+{
+  "id": 1259803709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.98,9.8202,123.98,9.8202",
+    "geom:latitude":9.8202,
+    "geom:longitude":123.98,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71213000.0",
+    "gn:asciiname":"Catigbian",
+    "gn:country_code":"PH",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534390,
+    "gn:latitude":9.8202,
+    "gn:longitude":123.98,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Catigbian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Catigbian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534390
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"71bb0bf052c02f4cc6a2d2c13ef3fffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697333,
+            "locality_id":1259803709,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1259803709,
+    "wof:lastmodified":1537679085,
+    "wof:name":"Catigbian",
+    "wof:parent_id":1108697333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.98,
+    9.8202,
+    123.98,
+    9.8202
+],
+  "geometry": {"coordinates":[123.98,9.8202],"type":"Point"}
+}

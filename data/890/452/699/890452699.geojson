@@ -1,0 +1,69 @@
+{
+  "id": 890452699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85444,7.81194,124.85444,7.81194",
+    "geom:latitude":7.81194,
+    "geom:longitude":124.85444,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3380,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Adtuyon"
+    ],
+    "qs:name":"Adtugan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108698783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732223,
+        "gp:id":1158108,
+        "qs:id":136117
+    },
+    "wof:country":"PH",
+    "wof:created":1469052826,
+    "wof:geomhash":"edc863f8b363f09edd329259825a413a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698783,
+            "locality_id":890452699,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":890452699,
+    "wof:lastmodified":1505343647,
+    "wof:name":"Adtugan",
+    "wof:parent_id":1108698783,
+    "wof:placetype":"locality",
+    "wof:population":3380,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85444,
+    7.81194,
+    124.85444,
+    7.81194
+],
+  "geometry": {"coordinates":[124.85444,7.81194],"type":"Point"}
+}

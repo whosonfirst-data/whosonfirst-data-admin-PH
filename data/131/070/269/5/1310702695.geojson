@@ -1,0 +1,76 @@
+{
+  "id": 1310702695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00993,15.49505,121.00993,15.49505",
+    "geom:latitude":15.49505,
+    "geom:longitude":121.00993,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34903000.0",
+    "gn:asciiname":"Magasawang-Alibangbang",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703990,
+    "gn:latitude":15.49505,
+    "gn:longitude":121.00993,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Magasawang-Alibangbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Magasawang-Alibangbang"
+    ],
+    "name:und_x_variant":[
+        "Magasawang-Alibanbang",
+        "Magasawang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        890443085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703990
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"709456681a084aee454bee77e11ec7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890443085,
+            "locality_id":1310702695,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1310702695,
+    "wof:lastmodified":1537677926,
+    "wof:name":"Magasawang-Alibangbang",
+    "wof:parent_id":890443085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00993,
+    15.49505,
+    121.00993,
+    15.49505
+],
+  "geometry": {"coordinates":[121.00993,15.49505],"type":"Point"}
+}

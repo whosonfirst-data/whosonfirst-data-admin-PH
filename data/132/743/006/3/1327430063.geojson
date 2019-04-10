@@ -1,0 +1,71 @@
+{
+  "id": 1327430063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1,12.61667,124.1,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":124.1,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Catmon",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717840,
+    "gn:latitude":12.61667,
+    "gn:longitude":124.1,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Catmon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Catmon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108698433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717840
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9fc77901d954ac75b7b917fab8457294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698433,
+            "locality_id":1327430063,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1327430063,
+    "wof:lastmodified":1537678313,
+    "wof:name":"Catmon",
+    "wof:parent_id":1108698433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1,
+    12.61667,
+    124.1,
+    12.61667
+],
+  "geometry": {"coordinates":[124.09999999999999,12.61667],"type":"Point"}
+}

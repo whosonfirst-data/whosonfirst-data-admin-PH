@@ -1,0 +1,78 @@
+{
+  "id": 1226514949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2266,17.6007,121.2266,17.6007",
+    "geom:latitude":17.6007,
+    "geom:longitude":121.2266,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143201000.0",
+    "gn:asciiname":"Tawang",
+    "gn:country_code":"PH",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682691,
+    "gn:latitude":17.6007,
+    "gn:longitude":121.2266,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tawang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tawang"
+    ],
+    "name:fil_x_variant":[
+        "Tawan"
+    ],
+    "name:und_x_variant":[
+        "Tawan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108696823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682691
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"901eff96eb6716696c577f92f3836e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696823,
+            "locality_id":1226514949,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1226514949,
+    "wof:lastmodified":1537677323,
+    "wof:name":"Tawang",
+    "wof:parent_id":1108696823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2266,
+    17.6007,
+    121.2266,
+    17.6007
+],
+  "geometry": {"coordinates":[121.2266,17.6007],"type":"Point"}
+}

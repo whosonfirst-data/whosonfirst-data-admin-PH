@@ -1,0 +1,69 @@
+{
+  "id": 890430513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36306,5.91972,121.36306,5.91972",
+    "geom:latitude":5.91972,
+    "geom:longitude":121.36306,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2323,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kalang"
+    ],
+    "qs:name":"Kalang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108697885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957866,
+        "gp:id":1173517,
+        "qs:id":137317
+    },
+    "wof:country":"PH",
+    "wof:created":1469051855,
+    "wof:geomhash":"41bce15e0f761ac6692de801e26c302b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697885,
+            "locality_id":890430513,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890430513,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Kalang",
+    "wof:parent_id":1108697885,
+    "wof:placetype":"locality",
+    "wof:population":2323,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36306,
+    5.91972,
+    121.36306,
+    5.91972
+],
+  "geometry": {"coordinates":[121.36306,5.91972],"type":"Point"}
+}

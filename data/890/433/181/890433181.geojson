@@ -1,0 +1,69 @@
+{
+  "id": 890433181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.75,17.45,121.75,17.45",
+    "geom:latitude":17.45,
+    "geom:longitude":121.75,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2559,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Mozzozin"
+    ],
+    "qs:name":"Mozzozzin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699167,
+        "gp:id":1183733,
+        "qs:id":134783
+    },
+    "wof:country":"PH",
+    "wof:created":1469051970,
+    "wof:geomhash":"34289c01cd923aa80a822c6add75dd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699385,
+            "locality_id":890433181,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":890433181,
+    "wof:lastmodified":1505343534,
+    "wof:name":"Mozzozzin",
+    "wof:parent_id":1108699385,
+    "wof:placetype":"locality",
+    "wof:population":2559,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.75,
+    17.45,
+    121.75,
+    17.45
+],
+  "geometry": {"coordinates":[121.75,17.45],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293285395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5964,13.2274,123.5964,13.2274",
+    "geom:latitude":13.2274,
+    "geom:longitude":123.5964,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50504000.0",
+    "gn:asciiname":"Bublusan",
+    "gn:country_code":"PH",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723621,
+    "gn:latitude":13.2274,
+    "gn:longitude":123.5964,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bublusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bublusan"
+    ],
+    "name:und_x_variant":[
+        "Bubulusan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723621
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4e552f234a15b149c256a911fdf5b3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698083,
+            "locality_id":1293285395,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1293285395,
+    "wof:lastmodified":1537678494,
+    "wof:name":"Bublusan",
+    "wof:parent_id":1108698083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5964,
+    13.2274,
+    123.5964,
+    13.2274
+],
+  "geometry": {"coordinates":[123.5964,13.2274],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1125848893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5543,15.7162,120.5543,15.7162",
+    "geom:latitude":15.7162,
+    "geom:longitude":120.5543,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5145,
+    "gn:population":5145,
+    "iso:country":"PH",
+    "lbl:latitude":15.7162,
+    "lbl:longitude":120.5543,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Baquero Norte"
+    ],
+    "name:fil_x_variant":[
+        "Baquero"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1726865,
+    "qs_pg:gn_pop":5145,
+    "qs_pg:name":"Baquero Norte",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":88355,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108698497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726865,
+        "qs_pg:id":88355
+    },
+    "wof:country":"PH",
+    "wof:created":1497293298,
+    "wof:geomhash":"c24faaedc35a976952f867ce31496f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698497,
+            "locality_id":1125848893,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1125848893,
+    "wof:lastmodified":1509395806,
+    "wof:name":"Baquero Norte",
+    "wof:parent_id":1108698497,
+    "wof:placetype":"locality",
+    "wof:population":5145,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5543,
+    15.7162,
+    120.5543,
+    15.7162
+],
+  "geometry": {"coordinates":[120.5543,15.7162],"type":"Point"}
+}

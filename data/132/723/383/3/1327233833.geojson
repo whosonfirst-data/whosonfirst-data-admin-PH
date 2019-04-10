@@ -1,0 +1,75 @@
+{
+  "id": 1327233833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4078,18.8549,121.4078,18.8549",
+    "geom:latitude":18.8549,
+    "geom:longitude":121.4078,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21505000.0",
+    "gn:asciiname":"Sarongan",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685762,
+    "gn:latitude":18.8549,
+    "gn:longitude":121.4078,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sarongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sarongan"
+    ],
+    "name:fil_x_variant":[
+        "Sorongan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108698595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685762
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cbad05729ab92cebd39d23f102dd3256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698595,
+            "locality_id":1327233833,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1327233833,
+    "wof:lastmodified":1537677407,
+    "wof:name":"Sarongan",
+    "wof:parent_id":1108698595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4078,
+    18.8549,
+    121.4078,
+    18.8549
+],
+  "geometry": {"coordinates":[121.40779999999999,18.8549],"type":"Point"}
+}

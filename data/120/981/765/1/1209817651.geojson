@@ -1,0 +1,78 @@
+{
+  "id": 1209817651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.67276,17.81096,121.67276,17.81096",
+    "geom:latitude":17.81096,
+    "geom:longitude":121.67276,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21504000.0",
+    "gn:asciiname":"Palayag",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728341,
+    "gn:latitude":17.81096,
+    "gn:longitude":121.67276,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palayag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palayag"
+    ],
+    "name:fil_x_variant":[
+        "Balayag"
+    ],
+    "name:und_x_variant":[
+        "Balayag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728341
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d25753bd0f00bd86e900d25449543f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696665,
+            "locality_id":1209817651,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1209817651,
+    "wof:lastmodified":1537678635,
+    "wof:name":"Palayag",
+    "wof:parent_id":1108696665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.67276,
+    17.81096,
+    121.67276,
+    17.81096
+],
+  "geometry": {"coordinates":[121.67276,17.81096],"type":"Point"}
+}

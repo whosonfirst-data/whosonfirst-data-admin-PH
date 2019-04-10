@@ -1,0 +1,102 @@
+{
+  "id": 85902773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000266,
+    "geom:area_square_m":3179758.681789,
+    "geom:bbox":"121.100534668,14.6792537338,121.120534668,14.697224531",
+    "geom:latitude":14.688412,
+    "geom:longitude":121.111089,
+    "gn:id":"",
+    "iso:country":"PH",
+    "lbl:latitude":14.687224,
+    "lbl:longitude":121.110535,
+    "mps:latitude":14.6892,
+    "mps:longitude":121.111279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Camp Murphy"
+    ],
+    "name:unk_x_variant":[
+        "Camp Murphy"
+    ],
+    "qs:gn_adm0_cc":"PH",
+    "qs:gn_id":0,
+    "qs:gn_local":1701668,
+    "qs:gn_nam_loc":"Manila",
+    "qs:gn_namadm1":"03",
+    "qs:local_max":16494,
+    "qs:local_sum":96824,
+    "qs:localhoods":16,
+    "qs:name":"Camp Murphy",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"National Capital Region",
+    "qs:name_adm2":"Metropolitan Manila",
+    "qs:name_local":"Manila",
+    "qs:photo_max":6,
+    "qs:photo_sum":6,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424934,
+    "qs:woe_adm1":23424718,
+    "qs:woe_adm2":2346760,
+    "qs:woe_lau":0,
+    "qs:woe_local":1199477,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191569,
+        1159397279,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1168148,
+        "qs:id":1168284
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2a3eac9b4d2369c94c853e009ca3aaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1159397279,
+            "neighbourhood_id":85902773,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":85902773,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1532556616,
+    "wof:name":"Camp Murphy",
+    "wof:parent_id":1159397279,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.10053466800025,
+    14.67925373382532,
+    121.12053466800029,
+    14.69722453104995
+],
+  "geometry": {"coordinates":[[[121.11650941235024,14.67925373382532],[121.11292856646776,14.67925373382532],[121.10069704103455,14.68557592996544],[121.10053466800025,14.68722453105006],[121.10072681519608,14.68917543427037],[121.101295872675,14.69105136537372],[121.10221997187716,14.69278023338025],[121.10346360018832,14.6942955988618],[121.10497896567006,14.69553922717314],[121.10670783367658,14.69646332637519],[121.10858376478001,14.69703238385421],[121.11053466800024,14.69722453104995],[121.11248557122053,14.69703238385421],[121.11436150232362,14.69646332637519],[121.11609037033043,14.69553922717314],[121.11760573581205,14.6942955988618],[121.11884936412332,14.69278023338025],[121.11977346332526,14.69105136537372],[121.12034252080417,14.68917543427037],[121.12053466800029,14.68722453105006],[121.12034252080417,14.68527362783011],[121.11977346332526,14.68339769672642],[121.11884936412332,14.68166882871988],[121.11760573581205,14.68015346323817],[121.11650941235024,14.67925373382532]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209444739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.133,10.3438,123.133,10.3438",
+    "geom:latitude":10.3438,
+    "geom:longitude":123.133,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64517000.0",
+    "gn:asciiname":"Buraguac",
+    "gn:country_code":"PH",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722491,
+    "gn:latitude":10.3438,
+    "gn:longitude":123.133,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buraguac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buraguac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722491
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"79c8920b619700b2ca56a187ad618f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209444739
+        }
+    ],
+    "wof:id":1209444739,
+    "wof:lastmodified":1537678457,
+    "wof:name":"Buraguac",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.133,
+    10.3438,
+    123.133,
+    10.3438
+],
+  "geometry": {"coordinates":[123.133,10.3438],"type":"Point"}
+}

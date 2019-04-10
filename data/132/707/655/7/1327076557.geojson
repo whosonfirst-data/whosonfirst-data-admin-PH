@@ -1,0 +1,75 @@
+{
+  "id": 1327076557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1201,13.755,121.1201,13.755",
+    "geom:latitude":13.755,
+    "geom:longitude":121.1201,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41005000.0",
+    "gn:asciiname":"Tulo",
+    "gn:country_code":"PH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681588,
+    "gn:latitude":13.755,
+    "gn:longitude":121.1201,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tulo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tulo"
+    ],
+    "name:fil_x_variant":[
+        "Tolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108696939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681588
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9b733415b23345afde6e81f23acab577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696939,
+            "locality_id":1327076557,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1327076557,
+    "wof:lastmodified":1537677295,
+    "wof:name":"Tulo",
+    "wof:parent_id":1108696939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1201,
+    13.755,
+    121.1201,
+    13.755
+],
+  "geometry": {"coordinates":[121.12009999999999,13.755],"type":"Point"}
+}

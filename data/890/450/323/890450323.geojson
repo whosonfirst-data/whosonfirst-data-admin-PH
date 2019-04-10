@@ -1,0 +1,75 @@
+{
+  "id": 890450323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.02915,18.28907,122.02915,18.28907",
+    "geom:latitude":18.28907,
+    "geom:longitude":122.02915,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2548,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tapel"
+    ],
+    "name:fil_x_variant":[
+        "Tapal"
+    ],
+    "name:unk_x_variant":[
+        "Tapal"
+    ],
+    "qs:name":"Tapel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682958,
+        "gp:id":1162842,
+        "qs:id":86435
+    },
+    "wof:country":"PH",
+    "wof:created":1469052735,
+    "wof:geomhash":"812f88fc4eb296b03a58f8a7cebcf7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697665,
+            "locality_id":890450323,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890450323,
+    "wof:lastmodified":1505343633,
+    "wof:name":"Tapel",
+    "wof:parent_id":1108697665,
+    "wof:placetype":"locality",
+    "wof:population":2548,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.02915,
+    18.28907,
+    122.02915,
+    18.28907
+],
+  "geometry": {"coordinates":[122.02915,18.28907],"type":"Point"}
+}

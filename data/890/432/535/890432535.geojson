@@ -1,0 +1,71 @@
+{
+  "id": 890432535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.734,18.0576,120.734,18.0576",
+    "geom:latitude":18.0576,
+    "geom:longitude":120.734,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2392,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Barong"
+    ],
+    "qs:name":"Barong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726608,
+        "gp:id":1162594,
+        "qs:id":135780,
+        "wk:page":"Barong"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051944,
+    "wof:geomhash":"ab24cffc100befa5750a1309f4120454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698621,
+            "locality_id":890432535,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":890432535,
+    "wof:lastmodified":1527793032,
+    "wof:name":"Barong",
+    "wof:parent_id":1108698621,
+    "wof:placetype":"locality",
+    "wof:population":2392,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.734,
+    18.0576,
+    120.734,
+    18.0576
+],
+  "geometry": {"coordinates":[120.73399999999999,18.0576],"type":"Point"}
+}

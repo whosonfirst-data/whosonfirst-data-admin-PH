@@ -1,0 +1,81 @@
+{
+  "id": 1125909235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6257,17.5849,120.6257,17.5849",
+    "geom:latitude":17.5849,
+    "geom:longitude":120.6257,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2223,
+    "gn:population":2223,
+    "iso:country":"PH",
+    "lbl:latitude":17.5849,
+    "lbl:longitude":120.6257,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Angad"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1730773,
+    "qs_pg:gn_pop":2223,
+    "qs_pg:name":"Angad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1033069,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108696879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730773,
+        "qs_pg:id":1033069
+    },
+    "wof:country":"PH",
+    "wof:created":1497296087,
+    "wof:geomhash":"b66d337e411da0b20a9bce6d0f544aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696879,
+            "locality_id":1125909235,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1125909235,
+    "wof:lastmodified":1509399995,
+    "wof:name":"Angad",
+    "wof:parent_id":1108696879,
+    "wof:placetype":"locality",
+    "wof:population":2223,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6257,
+    17.5849,
+    120.6257,
+    17.5849
+],
+  "geometry": {"coordinates":[120.62569999999999,17.5849],"type":"Point"}
+}

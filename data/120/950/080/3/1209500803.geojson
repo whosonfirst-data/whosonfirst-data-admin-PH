@@ -1,0 +1,66 @@
+{
+  "id": 1209500803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.96751,10.77617,123.96751,10.77617",
+    "geom:latitude":10.77617,
+    "geom:longitude":123.96751,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72247000.0",
+    "gn:asciiname":"Tagda",
+    "gn:country_code":"PH",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684456,
+    "gn:latitude":10.77617,
+    "gn:longitude":123.96751,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tagda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684456
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a3270bef68b20964d0028952a3728bf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209500803
+        }
+    ],
+    "wof:id":1209500803,
+    "wof:lastmodified":1537677371,
+    "wof:name":"Tagda",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.96751,
+    10.77617,
+    123.96751,
+    10.77617
+],
+  "geometry": {"coordinates":[123.96751,10.77617],"type":"Point"}
+}

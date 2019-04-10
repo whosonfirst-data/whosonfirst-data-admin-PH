@@ -1,0 +1,72 @@
+{
+  "id": 1259976931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0208,11.2338,123.0208,11.2338",
+    "geom:latitude":11.2338,
+    "geom:longitude":123.0208,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63044000.0",
+    "gn:asciiname":"Cabura",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721314,
+    "gn:latitude":11.2338,
+    "gn:longitude":123.0208,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721314
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2c97bd57b769687098ed0af0fa38853e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699449,
+            "locality_id":1259976931,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1259976931,
+    "wof:lastmodified":1537678422,
+    "wof:name":"Cabura",
+    "wof:parent_id":1108699449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0208,
+    11.2338,
+    123.0208,
+    11.2338
+],
+  "geometry": {"coordinates":[123.02079999999999,11.2338],"type":"Point"}
+}

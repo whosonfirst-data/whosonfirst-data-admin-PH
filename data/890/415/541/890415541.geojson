@@ -1,0 +1,71 @@
+{
+  "id": 890415541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5851,15.5367,120.5851,15.5367",
+    "geom:latitude":15.5367,
+    "geom:longitude":120.5851,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2268,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Sinait"
+    ],
+    "qs:name":"Sinait",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1038,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108699699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686319,
+        "gp:id":1170997,
+        "qs:id":134182,
+        "wk:page":"Sinait"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051092,
+    "wof:geomhash":"2674ca679cf6dbcc55cbea2101e78c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699699,
+            "locality_id":890415541,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":890415541,
+    "wof:lastmodified":1527727242,
+    "wof:name":"Sinait",
+    "wof:parent_id":1108699699,
+    "wof:placetype":"locality",
+    "wof:population":2268,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5851,
+    15.5367,
+    120.5851,
+    15.5367
+],
+  "geometry": {"coordinates":[120.5851,15.5367],"type":"Point"}
+}

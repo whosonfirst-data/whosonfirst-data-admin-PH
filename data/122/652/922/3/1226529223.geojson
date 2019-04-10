@@ -1,0 +1,72 @@
+{
+  "id": 1226529223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.67004,7.60377,124.67004,7.60377",
+    "geom:latitude":7.60377,
+    "geom:longitude":124.67004,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:asciiname":"Taupon",
+    "gn:country_code":"PH",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682708,
+    "gn:latitude":7.60377,
+    "gn:longitude":124.67004,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Taupon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taukan",
+        "Taupon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108696883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682708
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e282f7a194e81d1b197ab1643b1a14d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696883,
+            "locality_id":1226529223,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":1226529223,
+    "wof:lastmodified":1537677323,
+    "wof:name":"Taupon",
+    "wof:parent_id":1108696883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.67004,
+    7.60377,
+    124.67004,
+    7.60377
+],
+  "geometry": {"coordinates":[124.67004,7.60377],"type":"Point"}
+}

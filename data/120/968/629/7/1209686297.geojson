@@ -1,0 +1,66 @@
+{
+  "id": 1209686297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.76667,5.5,120.76667,5.5",
+    "geom:latitude":5.5,
+    "geom:longitude":120.76667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156618000.0",
+    "gn:asciiname":"Mimul",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699687,
+    "gn:latitude":5.5,
+    "gn:longitude":120.76667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mimul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mimul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699687
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"75fea25b1b7ddc8af8c6452aa446fe86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209686297
+        }
+    ],
+    "wof:id":1209686297,
+    "wof:lastmodified":1537677808,
+    "wof:name":"Mimul",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.76667,
+    5.5,
+    120.76667,
+    5.5
+],
+  "geometry": {"coordinates":[120.76667,5.5],"type":"Point"}
+}

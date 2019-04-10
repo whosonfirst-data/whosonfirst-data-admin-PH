@@ -1,0 +1,81 @@
+{
+  "id": 1309778673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12804,16.95176,121.12804,16.95176",
+    "geom:latitude":16.95176,
+    "geom:longitude":121.12804,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"142701000.0",
+    "gn:asciiname":"Cambuio",
+    "gn:country_code":"PH",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719713,
+    "gn:latitude":16.95176,
+    "gn:longitude":121.12804,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cambuio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cambuio"
+    ],
+    "name:fil_x_variant":[
+        "Kambulo",
+        "Cambulo",
+        "Cambola"
+    ],
+    "name:und_x_variant":[
+        "Cambulo",
+        "Cambola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108696867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719713
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a034e97484b9f93d1e839a8ef92ebc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696867,
+            "locality_id":1309778673,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1309778673,
+    "wof:lastmodified":1537678372,
+    "wof:name":"Cambuio",
+    "wof:parent_id":1108696867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12803999999998,
+    16.95176,
+    121.12803999999998,
+    16.95176
+],
+  "geometry": {"coordinates":[121.12803999999998,16.95176],"type":"Point"}
+}

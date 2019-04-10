@@ -1,0 +1,74 @@
+{
+  "id": 1326815029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.15028,11.31222,125.15028,11.31222",
+    "geom:latitude":11.31222,
+    "geom:longitude":125.15028,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86002000.0",
+    "gn:asciiname":"Burgos",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722447,
+    "gn:latitude":11.31222,
+    "gn:longitude":125.15028,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Burgos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liruan",
+        "Burgos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108696927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722447
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dc6183ea102758184da69970f1d59a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696927,
+            "locality_id":1326815029,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1326815029,
+    "wof:lastmodified":1537678456,
+    "wof:name":"Burgos",
+    "wof:parent_id":1108696927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.15028,
+    11.31222,
+    125.15028,
+    11.31222
+],
+  "geometry": {"coordinates":[125.15028,11.31222],"type":"Point"}
+}

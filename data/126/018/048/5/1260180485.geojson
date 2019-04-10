@@ -1,0 +1,74 @@
+{
+  "id": 1260180485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.77917,12.87583,123.77917,12.87583",
+    "geom:latitude":12.87583,
+    "geom:longitude":123.77917,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56206000.0",
+    "gn:asciiname":"Solangbuaya",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690968,
+    "gn:latitude":12.87583,
+    "gn:longitude":123.77917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Solangbuaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salangbuaya",
+        "Solangbuaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690968
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d56abb924e25b5cdcbe2dde702281fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697315,
+            "locality_id":1260180485,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1260180485,
+    "wof:lastmodified":1537677562,
+    "wof:name":"Solangbuaya",
+    "wof:parent_id":1108697315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.77917,
+    12.87583,
+    123.77917,
+    12.87583
+],
+  "geometry": {"coordinates":[123.77916999999999,12.87583],"type":"Point"}
+}

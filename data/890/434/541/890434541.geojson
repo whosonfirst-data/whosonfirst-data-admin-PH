@@ -1,0 +1,68 @@
+{
+  "id": 890434541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0583,10.84014,123.0583,10.84014",
+    "geom:latitude":10.84014,
+    "geom:longitude":123.0583,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2598,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Alacaygan"
+    ],
+    "qs:name":"Alacaygan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731733,
+        "qs:id":136110
+    },
+    "wof:country":"PH",
+    "wof:created":1469052029,
+    "wof:geomhash":"0be2b4a60470ebb8aa26fe5e900afac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697569,
+            "locality_id":890434541,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890434541,
+    "wof:lastmodified":1505343542,
+    "wof:name":"Alacaygan",
+    "wof:parent_id":1108697569,
+    "wof:placetype":"locality",
+    "wof:population":2598,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0583,
+    10.84014,
+    123.0583,
+    10.84014
+],
+  "geometry": {"coordinates":[123.0583,10.84014],"type":"Point"}
+}

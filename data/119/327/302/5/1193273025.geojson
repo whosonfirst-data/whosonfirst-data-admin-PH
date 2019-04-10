@@ -1,0 +1,74 @@
+{
+  "id": 1193273025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.76083,11.6075,122.76083,11.6075",
+    "geom:latitude":11.6075,
+    "geom:longitude":122.76083,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:asciiname":"Dumolog",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714109,
+    "gn:latitude":11.6075,
+    "gn:longitude":122.76083,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Dumolog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dumolog"
+    ],
+    "name:und_x_variant":[
+        "Dumulog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        890415145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714109
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"156c99465480be64c54d1c3c2b2392fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415145,
+            "locality_id":1193273025,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1193273025,
+    "wof:lastmodified":1537678214,
+    "wof:name":"Dumolog",
+    "wof:parent_id":890415145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.76083,
+    11.6075,
+    122.76083,
+    11.6075
+],
+  "geometry": {"coordinates":[122.76083,11.6075],"type":"Point"}
+}

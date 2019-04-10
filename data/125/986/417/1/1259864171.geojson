@@ -1,0 +1,76 @@
+{
+  "id": 1259864171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.9691,10.5726,124.9691,10.5726",
+    "geom:latitude":10.5726,
+    "geom:longitude":124.9691,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83731000.0",
+    "gn:asciiname":"Hibabaguan",
+    "gn:country_code":"PH",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711808,
+    "gn:latitude":10.5726,
+    "gn:longitude":124.9691,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hibabaguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hibabaguan"
+    ],
+    "name:und_x_variant":[
+        "Hibagwan",
+        "Hibabaguan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108698261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711808
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8ef660b55609ae7455671ee3ba042524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698261,
+            "locality_id":1259864171,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1259864171,
+    "wof:lastmodified":1537678149,
+    "wof:name":"Hibabaguan",
+    "wof:parent_id":1108698261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.9691,
+    10.5726,
+    124.9691,
+    10.5726
+],
+  "geometry": {"coordinates":[124.9691,10.5726],"type":"Point"}
+}

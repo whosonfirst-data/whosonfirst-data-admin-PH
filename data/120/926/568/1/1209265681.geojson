@@ -1,0 +1,66 @@
+{
+  "id": 1209265681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4016,14.1597,121.4016,14.1597",
+    "geom:latitude":14.1597,
+    "geom:longitude":121.4016,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"43417000.0",
+    "gn:asciiname":"Lagulo",
+    "gn:country_code":"PH",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708036,
+    "gn:latitude":14.1597,
+    "gn:longitude":121.4016,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lagulo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lagulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708036
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6ad7d809cbbde0b50bc7a2ab69bad984",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209265681
+        }
+    ],
+    "wof:id":1209265681,
+    "wof:lastmodified":1537678042,
+    "wof:name":"Lagulo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4016,
+    14.1597,
+    121.4016,
+    14.1597
+],
+  "geometry": {"coordinates":[121.4016,14.1597],"type":"Point"}
+}

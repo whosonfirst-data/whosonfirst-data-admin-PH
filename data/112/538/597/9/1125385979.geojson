@@ -1,0 +1,88 @@
+{
+  "id": 1125385979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-04",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98333,15.28333,120.98333,15.28333",
+    "geom:latitude":15.28333,
+    "geom:longitude":120.98333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":101168,
+    "gn:population":101168,
+    "iso:country":"PH",
+    "lbl:latitude":15.28333,
+    "lbl:longitude":120.98333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Lungsod ng Gapan"
+    ],
+    "name:fil_x_variant":[
+        "Gapan"
+    ],
+    "name:unk_x_variant":[
+        "Gapan City"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1713227,
+    "qs_pg:gn_pop":101168,
+    "qs_pg:name":"City of Gapan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1031267,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713227,
+        "qs_pg:id":1031267
+    },
+    "wof:country":"PH",
+    "wof:created":1497048379,
+    "wof:geomhash":"5b17fd04c46be0871fe148e7b95ee773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697611,
+            "localadmin_id":1125385979,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1125385979,
+    "wof:lastmodified":1514618160,
+    "wof:name":"City of Gapan",
+    "wof:parent_id":1108697611,
+    "wof:placetype":"localadmin",
+    "wof:population":101168,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98333,
+    15.28333,
+    120.98333,
+    15.28333
+],
+  "geometry": {"coordinates":[120.98333,15.28333],"type":"Point"}
+}

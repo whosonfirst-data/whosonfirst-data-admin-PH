@@ -1,0 +1,79 @@
+{
+  "id": 421200767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4187,14.02,121.4187,14.02",
+    "geom:latitude":14.02,
+    "geom:longitude":121.4187,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Pinagdanglayan"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1693690,
+    "qs:gn_pop":0,
+    "qs:name":"Pinamalayan",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Mimaropa",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":894364,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199650,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108697245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693690,
+        "gp:id":1199650,
+        "qs:id":894364
+    },
+    "wof:country":"PH",
+    "wof:created":1459010038,
+    "wof:geomhash":"da7cd4cadb9c90c13e773ba33c4b6752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697245,
+            "locality_id":421200767,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":421200767,
+    "wof:lastmodified":1501221507,
+    "wof:name":"Pinamalayan",
+    "wof:parent_id":1108697245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4187,
+    14.02,
+    121.4187,
+    14.02
+],
+  "geometry": {"coordinates":[121.4187,14.02],"type":"Point"}
+}

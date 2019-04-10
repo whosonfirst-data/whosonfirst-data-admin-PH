@@ -1,0 +1,78 @@
+{
+  "id": 1243357829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5387,10.7542,124.5387,10.7542",
+    "geom:latitude":10.7542,
+    "geom:longitude":124.5387,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72236000.0",
+    "gn:asciiname":"Monserrat",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699251,
+    "gn:latitude":10.7542,
+    "gn:longitude":124.5387,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Monserrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Montserrat"
+    ],
+    "name:fil_x_preferred":[
+        "Monserrat"
+    ],
+    "name:und_x_variant":[
+        "Montserrat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699251
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"27914ce37fdb4ac5496345d3c6c7fdf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698607,
+            "locality_id":1243357829,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1243357829,
+    "wof:lastmodified":1537677796,
+    "wof:name":"Monserrat",
+    "wof:parent_id":1108698607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5387,
+    10.7542,
+    124.5387,
+    10.7542
+],
+  "geometry": {"coordinates":[124.53870000000001,10.7542],"type":"Point"}
+}

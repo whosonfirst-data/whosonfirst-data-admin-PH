@@ -1,0 +1,75 @@
+{
+  "id": 1125900835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9626,16.4072,119.9626,16.4072",
+    "geom:latitude":16.4072,
+    "geom:longitude":119.9626,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"LCTY",
+    "gn:gn_pop":2199,
+    "gn:population":2199,
+    "iso:country":"PH",
+    "lbl:latitude":16.4072,
+    "lbl:longitude":119.9626,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Dewey"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"LCTY",
+    "qs_pg:gn_id":1715106,
+    "qs_pg:gn_pop":2199,
+    "qs_pg:name":"Dewey",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":135408,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715106,
+        "qs_pg:id":135408
+    },
+    "wof:country":"PH",
+    "wof:created":1497295795,
+    "wof:geomhash":"97c6c71d6bed68348f000f05aa6c5aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1125900835,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125900835,
+    "wof:lastmodified":1509399391,
+    "wof:name":"Dewey",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2199,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9626,
+    16.4072,
+    119.9626,
+    16.4072
+],
+  "geometry": {"coordinates":[119.96259999999999,16.4072],"type":"Point"}
+}

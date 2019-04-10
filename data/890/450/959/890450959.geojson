@@ -1,0 +1,71 @@
+{
+  "id": 890450959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6148,13.2268,123.6148,13.2268",
+    "geom:latitude":13.2268,
+    "geom:longitude":123.6148,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3725,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Masaraway"
+    ],
+    "name:unk_x_variant":[
+        "Masarawag"
+    ],
+    "qs:name":"Masaraway",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108697689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700733,
+        "qs:id":87261
+    },
+    "wof:country":"PH",
+    "wof:created":1469052760,
+    "wof:geomhash":"75c3771732c2aa7ffb8095d0d82f4779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697689,
+            "locality_id":890450959,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":890450959,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Masaraway",
+    "wof:parent_id":1108697689,
+    "wof:placetype":"locality",
+    "wof:population":3725,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6148,
+    13.2268,
+    123.6148,
+    13.2268
+],
+  "geometry": {"coordinates":[123.6148,13.2268],"type":"Point"}
+}

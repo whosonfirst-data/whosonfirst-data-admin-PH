@@ -1,0 +1,72 @@
+{
+  "id": 1193046001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.01667,12.4,121.01667,12.4",
+    "geom:latitude":12.4,
+    "geom:longitude":121.01667,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"175110000.0",
+    "gn:asciiname":"Buslugan",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722283,
+    "gn:latitude":12.4,
+    "gn:longitude":121.01667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buslugan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buslugan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108699215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722283
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0918dfee543b6b18688e6df74358bbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699215,
+            "locality_id":1193046001,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":1193046001,
+    "wof:lastmodified":1537678452,
+    "wof:name":"Buslugan",
+    "wof:parent_id":1108699215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.01667,
+    12.4,
+    121.01667,
+    12.4
+],
+  "geometry": {"coordinates":[121.01667,12.4],"type":"Point"}
+}

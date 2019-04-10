@@ -1,0 +1,76 @@
+{
+  "id": 1276141781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.3653,11.5187,124.3653,11.5187",
+    "geom:latitude":11.5187,
+    "geom:longitude":124.3653,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83713000.0",
+    "gn:asciiname":"Villalon",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679887,
+    "gn:latitude":11.5187,
+    "gn:longitude":124.3653,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villalon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Villalon"
+    ],
+    "name:und_x_variant":[
+        "Vilalon",
+        "Villalon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108697231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679887
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6b00bb836a2b0a94e8cc01fe34e33391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697231,
+            "locality_id":1276141781,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1276141781,
+    "wof:lastmodified":1537677245,
+    "wof:name":"Villalon",
+    "wof:parent_id":1108697231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.3653,
+    11.5187,
+    124.3653,
+    11.5187
+],
+  "geometry": {"coordinates":[124.3653,11.5187],"type":"Point"}
+}

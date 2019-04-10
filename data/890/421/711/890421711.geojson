@@ -1,0 +1,68 @@
+{
+  "id": 890421711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.58278,8.96028,117.58278,8.96028",
+    "geom:latitude":8.96028,
+    "geom:longitude":117.58278,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3548,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ransang"
+    ],
+    "qs:name":"Ransang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691872,
+        "qs:id":276932
+    },
+    "wof:country":"PH",
+    "wof:created":1469051404,
+    "wof:geomhash":"5b86e06a352da2fdfd3692469dc9b5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699025,
+            "locality_id":890421711,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":890421711,
+    "wof:lastmodified":1505343465,
+    "wof:name":"Ransang",
+    "wof:parent_id":1108699025,
+    "wof:placetype":"locality",
+    "wof:population":3548,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.58278,
+    8.96028,
+    117.58278,
+    8.96028
+],
+  "geometry": {"coordinates":[117.58278,8.96028],"type":"Point"}
+}

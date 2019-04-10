@@ -1,0 +1,74 @@
+{
+  "id": 1210004691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.45,7.3,125.45,7.3",
+    "geom:latitude":7.3,
+    "geom:longitude":125.45,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"112402000.0",
+    "gn:asciiname":"Mongon",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699329,
+    "gn:latitude":7.3,
+    "gn:longitude":125.45,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mongon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangon",
+        "Mongon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699329
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"80165371e529272578352fa497c48d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":1210004691,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":1210004691,
+    "wof:lastmodified":1537677798,
+    "wof:name":"Mongon",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.45,
+    7.3,
+    125.45,
+    7.3
+],
+  "geometry": {"coordinates":[125.45,7.3],"type":"Point"}
+}

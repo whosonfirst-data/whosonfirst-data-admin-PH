@@ -1,0 +1,77 @@
+{
+  "id": 890451461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.81065,17.70541,121.81065,17.70541",
+    "geom:latitude":17.70541,
+    "geom:longitude":121.81065,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2364,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Aggugadan"
+    ],
+    "name:fil_x_variant":[
+        "Aggugaddan",
+        "Aggugadaan",
+        "Aggugaddah"
+    ],
+    "name:unk_x_variant":[
+        "Aggugaddah"
+    ],
+    "qs:name":"Aggugaddan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108698851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732070,
+        "gp:id":1158252,
+        "qs:id":88583
+    },
+    "wof:country":"PH",
+    "wof:created":1469052780,
+    "wof:geomhash":"32852eb22e1cf5371dd87457f46634e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698851,
+            "locality_id":890451461,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":890451461,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Aggugaddan",
+    "wof:parent_id":1108698851,
+    "wof:placetype":"locality",
+    "wof:population":2364,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.81065,
+    17.70541,
+    121.81065,
+    17.70541
+],
+  "geometry": {"coordinates":[121.81065,17.70541],"type":"Point"}
+}

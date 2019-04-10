@@ -1,0 +1,76 @@
+{
+  "id": 1327026633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1009,9.5932,124.1009,9.5932",
+    "geom:latitude":9.5932,
+    "geom:longitude":124.1009,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71227000.0",
+    "gn:asciiname":"Macalingan",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704390,
+    "gn:latitude":9.5932,
+    "gn:longitude":124.1009,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Macalingan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Macalingan"
+    ],
+    "name:und_x_variant":[
+        "Makalingan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704390
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"54eb928d3e934174602f33fc5da39f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698085,
+            "locality_id":1327026633,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1327026633,
+    "wof:lastmodified":1537677936,
+    "wof:name":"Macalingan",
+    "wof:parent_id":1108698085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1009,
+    9.5932,
+    124.1009,
+    9.5932
+],
+  "geometry": {"coordinates":[124.1009,9.5932],"type":"Point"}
+}

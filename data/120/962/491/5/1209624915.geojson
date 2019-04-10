@@ -1,0 +1,63 @@
+{
+  "id": 1209624915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.27111,8.24639,124.27111,8.24639",
+    "geom:latitude":8.24639,
+    "geom:longitude":124.27111,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103504000.0",
+    "gn:asciiname":"Tiparat",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681744,
+    "gn:latitude":8.24639,
+    "gn:longitude":124.27111,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tiparat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681744
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"67fb72e181a8f6c5d9ce46abe86b41e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209624915
+        }
+    ],
+    "wof:id":1209624915,
+    "wof:lastmodified":1536281388,
+    "wof:name":"Tiparat",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.27111,
+    8.24639,
+    124.27111,
+    8.24639
+],
+  "geometry": {"coordinates":[124.27110999999999,8.24639],"type":"Point"}
+}

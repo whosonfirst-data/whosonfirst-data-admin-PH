@@ -1,0 +1,78 @@
+{
+  "id": 1226659759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48697,17.07153,120.48697,17.07153",
+    "geom:latitude":17.07153,
+    "geom:longitude":120.48697,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12924000.0",
+    "gn:asciiname":"Ken Fermin",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692230,
+    "gn:latitude":17.07153,
+    "gn:longitude":120.48697,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ken Fermin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Quenfermin"
+    ],
+    "name:fil_x_variant":[
+        "Ken Fermin"
+    ],
+    "name:und_x_variant":[
+        "Ken Fepmin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692230
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0cb65dbc28d27fdca35a3359fb4fe595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699347,
+            "locality_id":1226659759,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1226659759,
+    "wof:lastmodified":1537677595,
+    "wof:name":"Ken Fermin",
+    "wof:parent_id":1108699347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48697,
+    17.07153,
+    120.48697,
+    17.07153
+],
+  "geometry": {"coordinates":[120.48697,17.07153],"type":"Point"}
+}

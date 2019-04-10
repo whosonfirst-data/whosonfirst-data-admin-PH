@@ -1,0 +1,73 @@
+{
+  "id": 890432761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26667,14.83333,120.26667,14.83333",
+    "geom:latitude":14.83333,
+    "geom:longitude":120.26667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":220326,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        ": Lungsod ng Olongapo"
+    ],
+    "name:unk_x_variant":[
+        "Olongapo"
+    ],
+    "qs:name":"Olongapo City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wd:wordcount":5248,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697172,
+        "qs:id":87127,
+        "wd:id":"Q56759",
+        "wk:page":"Olongapo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051953,
+    "wof:geomhash":"f7d3b293d004f724358a17327712c167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432761,
+            "region_id":85676361
+        }
+    ],
+    "wof:id":890432761,
+    "wof:lastmodified":1527793040,
+    "wof:name":"Olongapo City",
+    "wof:parent_id":85676361,
+    "wof:placetype":"county",
+    "wof:population":220326,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26667,
+    14.83333,
+    120.26667,
+    14.83333
+],
+  "geometry": {"coordinates":[120.26667,14.83333],"type":"Point"}
+}

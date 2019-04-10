@@ -1,0 +1,68 @@
+{
+  "id": 890452631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.05,7.03333,125.05,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":125.05,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2231,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Batasan"
+    ],
+    "qs:name":"Batasan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108697925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726251,
+        "qs:id":135748
+    },
+    "wof:country":"PH",
+    "wof:created":1469052824,
+    "wof:geomhash":"cab137ebe9d7dcddf0da0ba402cb913b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697925,
+            "locality_id":890452631,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":890452631,
+    "wof:lastmodified":1505343646,
+    "wof:name":"Batasan",
+    "wof:parent_id":1108697925,
+    "wof:placetype":"locality",
+    "wof:population":2231,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.05,
+    7.03333,
+    125.05,
+    7.03333
+],
+  "geometry": {"coordinates":[125.05,7.03333],"type":"Point"}
+}

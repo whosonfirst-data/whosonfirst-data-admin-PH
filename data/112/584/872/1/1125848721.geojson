@@ -1,0 +1,84 @@
+{
+  "id": 1125848721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7217,10.0116,122.7217,10.0116",
+    "geom:latitude":10.0116,
+    "geom:longitude":122.7217,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4464,
+    "gn:population":4464,
+    "iso:country":"PH",
+    "lbl:latitude":10.0116,
+    "lbl:longitude":122.7217,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bocana"
+    ],
+    "name:unk_x_variant":[
+        "Bocania"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1724500,
+    "qs_pg:gn_pop":4464,
+    "qs_pg:name":"Bocana",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724500,
+        "qs_pg:id":88259
+    },
+    "wof:country":"PH",
+    "wof:created":1497293291,
+    "wof:geomhash":"05ad8236d9e6b5e3eba54ce8f36b155c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697753,
+            "locality_id":1125848721,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1125848721,
+    "wof:lastmodified":1509395795,
+    "wof:name":"Bocana",
+    "wof:parent_id":1108697753,
+    "wof:placetype":"locality",
+    "wof:population":4464,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7217,
+    10.0116,
+    122.7217,
+    10.0116
+],
+  "geometry": {"coordinates":[122.7217,10.0116],"type":"Point"}
+}

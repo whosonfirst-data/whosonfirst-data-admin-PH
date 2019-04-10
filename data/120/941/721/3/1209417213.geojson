@@ -1,0 +1,66 @@
+{
+  "id": 1209417213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.78605,17.8827,121.78605,17.8827",
+    "geom:latitude":17.8827,
+    "geom:longitude":121.78605,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21506000.0",
+    "gn:asciiname":"Gabut",
+    "gn:country_code":"PH",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713437,
+    "gn:latitude":17.8827,
+    "gn:longitude":121.78605,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gabut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Gabut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713437
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"571d44133ea39e4feb2126f7215a8973",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209417213
+        }
+    ],
+    "wof:id":1209417213,
+    "wof:lastmodified":1537678197,
+    "wof:name":"Gabut",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.78605,
+    17.8827,
+    121.78605,
+    17.8827
+],
+  "geometry": {"coordinates":[121.78605,17.8827],"type":"Point"}
+}

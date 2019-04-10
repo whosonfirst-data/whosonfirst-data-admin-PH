@@ -1,0 +1,72 @@
+{
+  "id": 1277118929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6508,13.2949,122.6508,13.2949",
+    "geom:latitude":13.2949,
+    "geom:longitude":122.6508,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45640000.0",
+    "gn:asciiname":"Banco",
+    "gn:country_code":"PH",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727439,
+    "gn:latitude":13.2949,
+    "gn:longitude":122.6508,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Banco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Banco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727439
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"aefb67cdbd7a0746fd0fe757d559953d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699109,
+            "locality_id":1277118929,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1277118929,
+    "wof:lastmodified":1537678606,
+    "wof:name":"Banco",
+    "wof:parent_id":1108699109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6508,
+    13.2949,
+    122.6508,
+    13.2949
+],
+  "geometry": {"coordinates":[122.6508,13.2949],"type":"Point"}
+}

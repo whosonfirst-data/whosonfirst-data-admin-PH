@@ -1,0 +1,72 @@
+{
+  "id": 1327127919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7351,7.9753,123.7351,7.9753",
+    "geom:latitude":7.9753,
+    "geom:longitude":123.7351,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103509000.0",
+    "gn:asciiname":"Matampay",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958509,
+    "gn:latitude":7.9753,
+    "gn:longitude":123.7351,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Matampay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Matampay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958509
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"77db13ef1f83144db9fa1363d99f14ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697983,
+            "locality_id":1327127919,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1327127919,
+    "wof:lastmodified":1537678786,
+    "wof:name":"Matampay",
+    "wof:parent_id":1108697983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7351,
+    7.9753,
+    123.7351,
+    7.9753
+],
+  "geometry": {"coordinates":[123.7351,7.9753],"type":"Point"}
+}

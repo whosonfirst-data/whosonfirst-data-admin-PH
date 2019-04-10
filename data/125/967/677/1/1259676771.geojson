@@ -1,0 +1,73 @@
+{
+  "id": 1259676771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4757,12.488,123.4757,12.488",
+    "geom:latitude":12.488,
+    "geom:longitude":123.4757,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54102000.0",
+    "gn:asciiname":"Lahong",
+    "gn:country_code":"PH",
+    "gn:dem":0,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707991,
+    "gn:latitude":12.488,
+    "gn:longitude":123.4757,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lahong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lahong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707991
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b5098986329f3230245036180d52d24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696825,
+            "locality_id":1259676771,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1259676771,
+    "wof:lastmodified":1537678041,
+    "wof:name":"Lahong",
+    "wof:parent_id":1108696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4757,
+    12.488,
+    123.4757,
+    12.488
+],
+  "geometry": {"coordinates":[123.4757,12.488],"type":"Point"}
+}

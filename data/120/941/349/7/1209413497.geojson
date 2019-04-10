@@ -1,0 +1,66 @@
+{
+  "id": 1209413497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3289,13.4237,123.3289,13.4237",
+    "geom:latitude":13.4237,
+    "geom:longitude":123.3289,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51723000.0",
+    "gn:asciiname":"La Purisima",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707261,
+    "gn:latitude":13.4237,
+    "gn:longitude":123.3289,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"La Purisima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "La Purisima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707261
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c7bef115c3eb54a02231dc63722830db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209413497
+        }
+    ],
+    "wof:id":1209413497,
+    "wof:lastmodified":1537678020,
+    "wof:name":"La Purisima",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3289,
+    13.4237,
+    123.3289,
+    13.4237
+],
+  "geometry": {"coordinates":[123.3289,13.4237],"type":"Point"}
+}

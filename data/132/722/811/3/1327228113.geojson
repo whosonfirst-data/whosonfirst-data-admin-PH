@@ -1,0 +1,72 @@
+{
+  "id": 1327228113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3978,9.6724,123.3978,9.6724",
+    "geom:latitude":9.6724,
+    "geom:longitude":123.3978,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72229000.0",
+    "gn:asciiname":"Palaypay",
+    "gn:country_code":"PH",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696160,
+    "gn:latitude":9.6724,
+    "gn:longitude":123.3978,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palaypay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palaypay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696160
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a35d8af82168f70ce0a3a3aa95a7a735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698287,
+            "locality_id":1327228113,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1327228113,
+    "wof:lastmodified":1537677704,
+    "wof:name":"Palaypay",
+    "wof:parent_id":1108698287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3978,
+    9.6724,
+    123.3978,
+    9.6724
+],
+  "geometry": {"coordinates":[123.3978,9.6724],"type":"Point"}
+}

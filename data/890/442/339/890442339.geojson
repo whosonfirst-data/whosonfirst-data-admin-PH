@@ -1,0 +1,68 @@
+{
+  "id": 890442339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9435,11.0924,123.9435,11.0924",
+    "geom:latitude":11.0924,
+    "geom:longitude":123.9435,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3391,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hagnaya"
+    ],
+    "qs:name":"Hagnaya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711991,
+        "qs:id":277173
+    },
+    "wof:country":"PH",
+    "wof:created":1469052359,
+    "wof:geomhash":"e196fb34c327582be5e51dd23a17d690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699311,
+            "locality_id":890442339,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890442339,
+    "wof:lastmodified":1505343587,
+    "wof:name":"Hagnaya",
+    "wof:parent_id":1108699311,
+    "wof:placetype":"locality",
+    "wof:population":3391,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9435,
+    11.0924,
+    123.9435,
+    11.0924
+],
+  "geometry": {"coordinates":[123.9435,11.0924],"type":"Point"}
+}

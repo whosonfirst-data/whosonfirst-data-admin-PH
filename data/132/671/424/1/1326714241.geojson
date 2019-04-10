@@ -1,0 +1,75 @@
+{
+  "id": 1326714241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.19,8.5327,123.19,8.5327",
+    "geom:latitude":8.5327,
+    "geom:longitude":123.19,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:asciiname":"Dohinog",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714539,
+    "gn:latitude":8.5327,
+    "gn:longitude":123.19,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dohinog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dohinog"
+    ],
+    "name:und_x_variant":[
+        "Dohinob",
+        "Doninoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714539
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3badc9b3f7cc1e7cf474a58ace418b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698955,
+            "locality_id":1326714241,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1326714241,
+    "wof:lastmodified":1537678225,
+    "wof:name":"Dohinog",
+    "wof:parent_id":1108698955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.19,
+    8.5327,
+    123.19,
+    8.5327
+],
+  "geometry": {"coordinates":[123.19,8.5327],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310318947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32972,15.95722,120.32972,15.95722",
+    "geom:latitude":15.95722,
+    "geom:longitude":120.32972,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15532000.0",
+    "gn:asciiname":"Baldog",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728283,
+    "gn:latitude":15.95722,
+    "gn:longitude":120.32972,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baldog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Baldog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728283
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c7e3335d60c37df8621762617f199fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699125,
+            "locality_id":1310318947,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1310318947,
+    "wof:lastmodified":1537678633,
+    "wof:name":"Baldog",
+    "wof:parent_id":1108699125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32972,
+    15.95722,
+    120.32972,
+    15.95722
+],
+  "geometry": {"coordinates":[120.32971999999999,15.95722],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226163083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0102,9.9091,124.0102,9.9091",
+    "geom:latitude":9.9091,
+    "geom:longitude":124.0102,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71245000.0",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"PH",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7443228,
+    "gn:latitude":9.9091,
+    "gn:longitude":124.0102,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buenos Aires"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7443228
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7e6232c034b2647cf1646715d321de9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699777,
+            "locality_id":1226163083,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1226163083,
+    "wof:lastmodified":1537678940,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":1108699777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0102,
+    9.9091,
+    124.0102,
+    9.9091
+],
+  "geometry": {"coordinates":[124.0102,9.9091],"type":"Point"}
+}

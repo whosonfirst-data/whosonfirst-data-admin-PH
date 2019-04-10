@@ -1,0 +1,77 @@
+{
+  "id": 1125849045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1415,12.9821,124.1415,12.9821",
+    "geom:latitude":12.9821,
+    "geom:longitude":124.1415,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3158,
+    "gn:population":3158,
+    "iso:country":"PH",
+    "lbl:latitude":12.9821,
+    "lbl:longitude":124.1415,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bagacay"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1729278,
+    "qs_pg:gn_pop":3158,
+    "qs_pg:name":"Bagacay",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88455,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729278,
+        "qs_pg:id":88455
+    },
+    "wof:country":"PH",
+    "wof:created":1497293304,
+    "wof:geomhash":"871662e45eaee59ce804477eb8c7bdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1125849045,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125849045,
+    "wof:lastmodified":1509395813,
+    "wof:name":"Bagacay",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":3158,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1415,
+    12.9821,
+    124.1415,
+    12.9821
+],
+  "geometry": {"coordinates":[124.14149999999999,12.9821],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360173853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5708,7.8723,123.5708,7.8723",
+    "geom:latitude":7.8723,
+    "geom:longitude":123.5708,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97330000.0",
+    "gn:asciiname":"Camanga",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958491,
+    "gn:latitude":7.8723,
+    "gn:longitude":123.5708,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Camanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Camanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958491
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"35f13b16e76ac69b43b26d03502e3fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699801,
+            "locality_id":1360173853,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1360173853,
+    "wof:lastmodified":1537678786,
+    "wof:name":"Camanga",
+    "wof:parent_id":1108699801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5708,
+    7.8723,
+    123.5708,
+    7.8723
+],
+  "geometry": {"coordinates":[123.57080000000001,7.8723],"type":"Point"}
+}

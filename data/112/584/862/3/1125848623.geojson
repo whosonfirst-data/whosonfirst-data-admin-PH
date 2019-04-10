@@ -1,0 +1,81 @@
+{
+  "id": 1125848623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11278,8.04583,125.11278,8.04583",
+    "geom:latitude":8.04583,
+    "geom:longitude":125.11278,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4218,
+    "gn:population":4218,
+    "iso:country":"PH",
+    "lbl:latitude":8.04583,
+    "lbl:longitude":125.11278,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bugcaon"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1723294,
+    "qs_pg:gn_pop":4218,
+    "qs_pg:name":"Bugcaon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88210,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676221,
+        1108697995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723294,
+        "qs_pg:id":88210
+    },
+    "wof:country":"PH",
+    "wof:created":1497293285,
+    "wof:geomhash":"e8f46fc9f1e4e1c0acc24dd19a734b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697995,
+            "locality_id":1125848623,
+            "region_id":85676221
+        }
+    ],
+    "wof:id":1125848623,
+    "wof:lastmodified":1509395789,
+    "wof:name":"Bugcaon",
+    "wof:parent_id":1108697995,
+    "wof:placetype":"locality",
+    "wof:population":4218,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11278,
+    8.04583,
+    125.11278,
+    8.04583
+],
+  "geometry": {"coordinates":[125.11278,8.04583],"type":"Point"}
+}

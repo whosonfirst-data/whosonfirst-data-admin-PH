@@ -1,0 +1,72 @@
+{
+  "id": 1242805861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5575,13.2325,120.5575,13.2325",
+    "geom:latitude":13.2325,
+    "geom:longitude":120.5575,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"175106000.0",
+    "gn:asciiname":"Tuguilan",
+    "gn:country_code":"PH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680925,
+    "gn:latitude":13.2325,
+    "gn:longitude":120.5575,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tuguilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tuguilan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108698333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680925
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b37d46925e0944d1c3bb57e2295ce993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698333,
+            "locality_id":1242805861,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":1242805861,
+    "wof:lastmodified":1537677276,
+    "wof:name":"Tuguilan",
+    "wof:parent_id":1108698333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5575,
+    13.2325,
+    120.5575,
+    13.2325
+],
+  "geometry": {"coordinates":[120.5575,13.2325],"type":"Point"}
+}

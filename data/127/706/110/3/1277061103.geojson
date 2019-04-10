@@ -1,0 +1,72 @@
+{
+  "id": 1277061103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3724,12.2684,125.3724,12.2684",
+    "geom:latitude":12.2684,
+    "geom:longitude":125.3724,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"82601000.0",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"PH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688620,
+    "gn:latitude":12.2684,
+    "gn:longitude":125.3724,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Ramon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Ramon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676191,
+        1108696711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688620
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cc64e6895437fdf4e9ee20b794ccf20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696711,
+            "locality_id":1277061103,
+            "region_id":85676191
+        }
+    ],
+    "wof:id":1277061103,
+    "wof:lastmodified":1537677488,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1108696711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3724,
+    12.2684,
+    125.3724,
+    12.2684
+],
+  "geometry": {"coordinates":[125.3724,12.2684],"type":"Point"}
+}

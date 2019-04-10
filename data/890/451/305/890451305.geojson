@@ -1,0 +1,68 @@
+{
+  "id": 890451305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.11667,11.35,125.11667,11.35",
+    "geom:latitude":11.35,
+    "geom:longitude":125.11667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2504,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Guirang"
+    ],
+    "qs:name":"Guirang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108696927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712239,
+        "qs:id":87768
+    },
+    "wof:country":"PH",
+    "wof:created":1469052773,
+    "wof:geomhash":"94cb68daf413848f9948e6580e33ae3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696927,
+            "locality_id":890451305,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":890451305,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Guirang",
+    "wof:parent_id":1108696927,
+    "wof:placetype":"locality",
+    "wof:population":2504,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.11667,
+    11.35,
+    125.11667,
+    11.35
+],
+  "geometry": {"coordinates":[125.11667,11.35],"type":"Point"}
+}

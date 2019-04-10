@@ -1,0 +1,75 @@
+{
+  "id": 1276590635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.90491,14.00358,121.90491,14.00358",
+    "geom:latitude":14.00358,
+    "geom:longitude":121.90491,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45603000.0",
+    "gn:asciiname":"Balugohin",
+    "gn:country_code":"PH",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727756,
+    "gn:latitude":14.00358,
+    "gn:longitude":121.90491,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balugohin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balugohin"
+    ],
+    "name:und_x_variant":[
+        "Balogohin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108696719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727756
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e7fdad7a14dad9bdbf8cf6027426321b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696719,
+            "locality_id":1276590635,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1276590635,
+    "wof:lastmodified":1537678616,
+    "wof:name":"Balugohin",
+    "wof:parent_id":1108696719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.90491000000002,
+    14.00358,
+    121.90491000000002,
+    14.00358
+],
+  "geometry": {"coordinates":[121.90491000000002,14.00358],"type":"Point"}
+}

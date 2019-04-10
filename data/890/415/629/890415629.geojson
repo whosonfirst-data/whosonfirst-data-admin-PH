@@ -1,0 +1,71 @@
+{
+  "id": 890415629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3419,14.1213,121.3419,14.1213",
+    "geom:latitude":14.1213,
+    "geom:longitude":121.3419,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2278,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Santa Catalina"
+    ],
+    "qs:name":"Santa Catalina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":238,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        890432695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688359,
+        "gp:id":1192250,
+        "qs:id":134288,
+        "wk:page":"Santa Catalina"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051096,
+    "wof:geomhash":"694751b6ea14cce369e7875de9c89e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432695,
+            "locality_id":890415629,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":890415629,
+    "wof:lastmodified":1527727237,
+    "wof:name":"Santa Catalina",
+    "wof:parent_id":890432695,
+    "wof:placetype":"locality",
+    "wof:population":2278,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3419,
+    14.1213,
+    121.3419,
+    14.1213
+],
+  "geometry": {"coordinates":[121.3419,14.1213],"type":"Point"}
+}

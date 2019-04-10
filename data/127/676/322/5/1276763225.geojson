@@ -1,0 +1,69 @@
+{
+  "id": 1276763225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.96904,15.27783,120.96904,15.27783",
+    "geom:latitude":15.27783,
+    "geom:longitude":120.96904,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34908000.0",
+    "gn:asciiname":"Balante",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435034,
+    "gn:latitude":15.27783,
+    "gn:longitude":120.96904,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balante",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435034
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1e908c8804af3e90871c9914f480fbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697611,
+            "locality_id":1276763225,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1276763225,
+    "wof:lastmodified":1536700065,
+    "wof:name":"Balante",
+    "wof:parent_id":1108697611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.96904,
+    15.27783,
+    120.96904,
+    15.27783
+],
+  "geometry": {"coordinates":[120.96904000000001,15.27783],"type":"Point"}
+}

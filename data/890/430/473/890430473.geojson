@@ -1,0 +1,74 @@
+{
+  "id": 890430473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.25,7.21667,124.25,7.21667",
+    "geom:latitude":7.21667,
+    "geom:longitude":124.25,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":179519,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Lungsod ng Kutabato"
+    ],
+    "name:unk_x_variant":[
+        "Cotabato"
+    ],
+    "qs:name":"Cotabato City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":3204,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716770,
+        "gp:id":2346709,
+        "qs:id":87955,
+        "wd:id":"Q726993",
+        "wk:page":"Cotabato City"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051854,
+    "wof:geomhash":"2f2bc2957af47de6d793600c9375da9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890430473,
+            "region_id":85676305
+        }
+    ],
+    "wof:id":890430473,
+    "wof:lastmodified":1527729742,
+    "wof:name":"Cotabato City",
+    "wof:parent_id":85676305,
+    "wof:placetype":"county",
+    "wof:population":179519,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.25,
+    7.21667,
+    124.25,
+    7.21667
+],
+  "geometry": {"coordinates":[124.25,7.21667],"type":"Point"}
+}

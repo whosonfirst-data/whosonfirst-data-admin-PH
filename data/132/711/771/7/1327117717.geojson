@@ -1,0 +1,74 @@
+{
+  "id": 1327117717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.04639,6.03083,121.04639,6.03083",
+    "geom:latitude":6.03083,
+    "geom:longitude":121.04639,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156611000.0",
+    "gn:asciiname":"Panding",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695459,
+    "gn:latitude":6.03083,
+    "gn:longitude":121.04639,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Panding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danding",
+        "Panding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108697831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695459
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ac22f54439e2940c7e121e7a4b8bfff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697831,
+            "locality_id":1327117717,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1327117717,
+    "wof:lastmodified":1537677688,
+    "wof:name":"Panding",
+    "wof:parent_id":1108697831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.04639,
+    6.03083,
+    121.04639,
+    6.03083
+],
+  "geometry": {"coordinates":[121.04639,6.03083],"type":"Point"}
+}

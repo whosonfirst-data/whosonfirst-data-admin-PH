@@ -1,0 +1,73 @@
+{
+  "id": 890433167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00667,6.03556,121.00667,6.03556",
+    "geom:latitude":6.03556,
+    "geom:longitude":121.00667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":10039,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Anuling"
+    ],
+    "qs:name":"Anuling",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730467,
+        "gp:id":1195176,
+        "qs:id":136031,
+        "qs_pg:id":136030
+    },
+    "wof:country":"PH",
+    "wof:created":1469051969,
+    "wof:geomhash":"10c0e20876ee44413b5a437075050fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698837,
+            "locality_id":890433167,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":890433167,
+    "wof:lastmodified":1509410047,
+    "wof:name":"Anuling",
+    "wof:parent_id":1108698837,
+    "wof:placetype":"locality",
+    "wof:population":10039,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00667,
+    6.03556,
+    121.00667,
+    6.03556
+],
+  "geometry": {"coordinates":[121.00667,6.03556],"type":"Point"}
+}

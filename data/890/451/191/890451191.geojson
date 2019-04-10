@@ -1,0 +1,72 @@
+{
+  "id": 890451191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.04591,12.40484,121.04591,12.40484",
+    "geom:latitude":12.40484,
+    "geom:longitude":121.04591,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3359,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "La Curva"
+    ],
+    "name:unk_x_variant":[
+        "Curva"
+    ],
+    "qs:name":"La Curva",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676153,
+        1108699215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708191,
+        "gp:id":1160550,
+        "qs:id":87599
+    },
+    "wof:country":"PH",
+    "wof:created":1469052768,
+    "wof:geomhash":"1e87732787445987899c84b991e8ddb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699215,
+            "locality_id":890451191,
+            "region_id":85676153
+        }
+    ],
+    "wof:id":890451191,
+    "wof:lastmodified":1505343638,
+    "wof:name":"La Curva",
+    "wof:parent_id":1108699215,
+    "wof:placetype":"locality",
+    "wof:population":3359,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.04591,
+    12.40484,
+    121.04591,
+    12.40484
+],
+  "geometry": {"coordinates":[121.04591000000001,12.40484],"type":"Point"}
+}

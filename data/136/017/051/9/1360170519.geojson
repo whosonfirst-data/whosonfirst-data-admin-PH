@@ -1,0 +1,72 @@
+{
+  "id": 1360170519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.46667,10.08333,123.46667,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":123.46667,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72224000.0",
+    "gn:asciiname":"Panlaan",
+    "gn:country_code":"PH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695069,
+    "gn:latitude":10.08333,
+    "gn:longitude":123.46667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Panlaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Panlaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695069
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9b73077a542fdb29e901ad5c68e2107d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697543,
+            "locality_id":1360170519,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1360170519,
+    "wof:lastmodified":1537677677,
+    "wof:name":"Panlaan",
+    "wof:parent_id":1108697543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.46667,
+    10.08333,
+    123.46667,
+    10.08333
+],
+  "geometry": {"coordinates":[123.46666999999999,10.08333],"type":"Point"}
+}

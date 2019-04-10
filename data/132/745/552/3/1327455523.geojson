@@ -1,0 +1,72 @@
+{
+  "id": 1327455523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7,11.25,122.7,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":122.7,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61904000.0",
+    "gn:asciiname":"Agsalay",
+    "gn:country_code":"PH",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731932,
+    "gn:latitude":11.25,
+    "gn:longitude":122.7,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Agsalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Agsalay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108697547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731932
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"43fdc16d3bfa11a48b29b785da856ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697547,
+            "locality_id":1327455523,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1327455523,
+    "wof:lastmodified":1537678737,
+    "wof:name":"Agsalay",
+    "wof:parent_id":1108697547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7,
+    11.25,
+    122.7,
+    11.25
+],
+  "geometry": {"coordinates":[122.7,11.25],"type":"Point"}
+}

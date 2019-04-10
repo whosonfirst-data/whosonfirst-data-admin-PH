@@ -1,0 +1,76 @@
+{
+  "id": 1259603403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.11629,10.02249,124.11629,10.02249",
+    "geom:latitude":10.02249,
+    "geom:longitude":124.11629,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71224000.0",
+    "gn:asciiname":"Liloan Norte",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706395,
+    "gn:latitude":10.02249,
+    "gn:longitude":124.11629,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Liloan Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Liloan"
+    ],
+    "name:und_x_variant":[
+        "Liloan",
+        "Liloan Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706395
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"38e1675ca785d0a13691d76a66e0eac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697761,
+            "locality_id":1259603403,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1259603403,
+    "wof:lastmodified":1537677996,
+    "wof:name":"Liloan Norte",
+    "wof:parent_id":1108697761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.11629,
+    10.02249,
+    124.11629,
+    10.02249
+],
+  "geometry": {"coordinates":[124.11629000000001,10.02249],"type":"Point"}
+}

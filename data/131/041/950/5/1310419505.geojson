@@ -1,0 +1,81 @@
+{
+  "id": 1310419505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5165,17.4921,120.5165,17.4921",
+    "geom:latitude":17.4921,
+    "geom:longitude":120.5165,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12914000.0",
+    "gn:asciiname":"Balasiw",
+    "gn:country_code":"PH",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728399,
+    "gn:latitude":17.4921,
+    "gn:longitude":120.5165,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balasiw",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balasiw"
+    ],
+    "name:fil_x_variant":[
+        "Bal-lasiw",
+        "Bal-lisiw",
+        "Ballasio"
+    ],
+    "name:und_x_variant":[
+        "Ballasio",
+        "Bal-lisiw"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108698555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728399
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a78634fa2343ea18826b0ac87240af29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698555,
+            "locality_id":1310419505,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1310419505,
+    "wof:lastmodified":1537678637,
+    "wof:name":"Balasiw",
+    "wof:parent_id":1108698555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5165,
+    17.4921,
+    120.5165,
+    17.4921
+],
+  "geometry": {"coordinates":[120.51649999999999,17.4921],"type":"Point"}
+}

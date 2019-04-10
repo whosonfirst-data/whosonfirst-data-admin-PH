@@ -1,0 +1,72 @@
+{
+  "id": 890434003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2349,13.9258,121.2349,13.9258",
+    "geom:latitude":13.9258,
+    "geom:longitude":121.2349,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2222,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Celestio"
+    ],
+    "name:fil_x_variant":[
+        "San Celestino"
+    ],
+    "qs:name":"San Celestio",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        890432817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690198,
+        "gp:id":91427968,
+        "qs:id":134361
+    },
+    "wof:country":"PH",
+    "wof:created":1469052006,
+    "wof:geomhash":"8590d0c26bc0f58810c6a3cd65bdd994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432817,
+            "locality_id":890434003,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":890434003,
+    "wof:lastmodified":1505343538,
+    "wof:name":"San Celestio",
+    "wof:parent_id":890432817,
+    "wof:placetype":"locality",
+    "wof:population":2222,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2349,
+    13.9258,
+    121.2349,
+    13.9258
+],
+  "geometry": {"coordinates":[121.2349,13.9258],"type":"Point"}
+}

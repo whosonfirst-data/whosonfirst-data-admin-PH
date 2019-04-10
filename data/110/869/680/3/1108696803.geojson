@@ -1,0 +1,66 @@
+{
+  "id": 1108696803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000273,
+    "geom:area_square_m":3266156.952772,
+    "geom:bbox":"120.900855952,14.8287400196,120.920546564,14.8529728014",
+    "geom:latitude":14.840957,
+    "geom:longitude":120.90999,
+    "iso:country":"PH",
+    "lbl:latitude":14.841197,
+    "lbl:longitude":120.909841,
+    "meso:admin_1":"BULACAN",
+    "meso:admin_1r":"CENTRAL LUZON REGION",
+    "meso:diss_me":"BALAGTAS (BIGAA)BULACAN",
+    "meso:gadm_admn2":"Guiguinto",
+    "meso:gadm_hasc_":"PH.BU.GI",
+    "meso:gaul_adm2_":"Bocaue",
+    "meso:mps_x":120.909841,
+    "meso:mps_y":14.841197,
+    "meso:name_local":"Balagtas (bigaa)",
+    "meso:source":"AOTM",
+    "mps:latitude":14.841197,
+    "mps:longitude":120.909841,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PH",
+    "wof:created":1474495255,
+    "wof:geomhash":"949f51a4cafc16c39924a5da5deaa949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696803,
+            "region_id":85676135
+        }
+    ],
+    "wof:id":1108696803,
+    "wof:lastmodified":1512516842,
+    "wof:name":"Balagtas (bigaa)",
+    "wof:parent_id":85676135,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90085595168954,
+    14.82874001962174,
+    120.92054656402836,
+    14.85297280139153
+],
+  "geometry": {"coordinates":[[[120.91969572973339,14.84816346108198],[120.92054656402836,14.84689014487302],[120.91108075965911,14.83004640297579],[120.91103411710678,14.83003194062706],[120.90465528412199,14.82874001962174],[120.90085595168954,14.83862003665731],[120.90901429640694,14.85297280139153],[120.91969572973339,14.84816346108198]]],"type":"Polygon"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360112771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0525,10.3225,123.0525,10.3225",
+    "geom:latitude":10.3225,
+    "geom:longitude":123.0525,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64517000.0",
+    "gn:asciiname":"Camandog",
+    "gn:country_code":"PH",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416760,
+    "gn:latitude":10.3225,
+    "gn:longitude":123.0525,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Camandog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Camandog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416760
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"22e072e37960a6a05b387b7aecff12ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697941,
+            "locality_id":1360112771,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1360112771,
+    "wof:lastmodified":1537678861,
+    "wof:name":"Camandog",
+    "wof:parent_id":1108697941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0525,
+    10.3225,
+    123.0525,
+    10.3225
+],
+  "geometry": {"coordinates":[123.05249999999999,10.3225],"type":"Point"}
+}

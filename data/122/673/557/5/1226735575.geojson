@@ -1,0 +1,75 @@
+{
+  "id": 1226735575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.27821,9.7457,124.27821,9.7457",
+    "geom:latitude":9.7457,
+    "geom:longitude":124.27821,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71240000.0",
+    "gn:asciiname":"Cambuyo",
+    "gn:country_code":"PH",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719708,
+    "gn:latitude":9.7457,
+    "gn:longitude":124.27821,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cambuyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cambuyo"
+    ],
+    "name:und_x_variant":[
+        "Kambuyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719708
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"be0934f868534d83da13d3bd7016dd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699483,
+            "locality_id":1226735575,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1226735575,
+    "wof:lastmodified":1537678372,
+    "wof:name":"Cambuyo",
+    "wof:parent_id":1108699483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.27821000000002,
+    9.7457,
+    124.27821000000002,
+    9.7457
+],
+  "geometry": {"coordinates":[124.27821000000002,9.7457],"type":"Point"}
+}

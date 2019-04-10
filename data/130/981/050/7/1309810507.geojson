@@ -1,0 +1,72 @@
+{
+  "id": 1309810507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1002,15.0987,120.1002,15.0987",
+    "geom:latitude":15.0987,
+    "geom:longitude":120.1002,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37110000.0",
+    "gn:asciiname":"Gorongoro",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712723,
+    "gn:latitude":15.0987,
+    "gn:longitude":120.1002,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Gorongoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gorongoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108699143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712723
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"31aaae9fd7de3454005c25e4828cdab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699143,
+            "locality_id":1309810507,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1309810507,
+    "wof:lastmodified":1537678175,
+    "wof:name":"Gorongoro",
+    "wof:parent_id":1108699143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1002,
+    15.0987,
+    120.1002,
+    15.0987
+],
+  "geometry": {"coordinates":[120.1002,15.0987],"type":"Point"}
+}

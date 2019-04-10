@@ -1,0 +1,70 @@
+{
+  "id": 890455999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.11667,7.78333,124.11667,7.78333",
+    "geom:latitude":7.78333,
+    "geom:longitude":124.11667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":22004,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Ganassi"
+    ],
+    "qs:name":"Ganassi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676169,
+        1108698221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713272,
+        "qs:id":558753,
+        "wk:page":"Ganassi"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052988,
+    "wof:geomhash":"b8cac4aa31932087d8add41c31fb5a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698221,
+            "localadmin_id":890455999,
+            "region_id":85676169
+        }
+    ],
+    "wof:id":890455999,
+    "wof:lastmodified":1527734191,
+    "wof:name":"Ganassi",
+    "wof:parent_id":1108698221,
+    "wof:placetype":"localadmin",
+    "wof:population":22004,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.11667,
+    7.78333,
+    124.11667,
+    7.78333
+],
+  "geometry": {"coordinates":[124.11667,7.78333],"type":"Point"}
+}

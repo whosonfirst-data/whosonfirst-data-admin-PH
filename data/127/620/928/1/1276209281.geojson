@@ -1,0 +1,72 @@
+{
+  "id": 1276209281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86264,16.59198,120.86264,16.59198",
+    "geom:latitude":16.59198,
+    "geom:longitude":120.86264,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"141107000.0",
+    "gn:asciiname":"Bocao",
+    "gn:country_code":"PH",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427201,
+    "gn:latitude":16.59198,
+    "gn:longitude":120.86264,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bocao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bocao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676111,
+        1108697865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427201
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1cd56f377ff3d2115655f78937266098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697865,
+            "locality_id":1276209281,
+            "region_id":85676111
+        }
+    ],
+    "wof:id":1276209281,
+    "wof:lastmodified":1537678913,
+    "wof:name":"Bocao",
+    "wof:parent_id":1108697865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86263999999998,
+    16.59198,
+    120.86263999999998,
+    16.59198
+],
+  "geometry": {"coordinates":[120.86263999999998,16.59198],"type":"Point"}
+}

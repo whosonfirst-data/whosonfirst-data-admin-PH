@@ -1,0 +1,69 @@
+{
+  "id": 1343238657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.12778,6.2975,125.12778,6.2975",
+    "geom:latitude":6.2975,
+    "geom:longitude":125.12778,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126312000.0",
+    "gn:asciiname":"Matutum",
+    "gn:country_code":"PH",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700194,
+    "gn:latitude":6.2975,
+    "gn:longitude":125.12778,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Matutum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108698933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700194
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cd3529a629a0aeb4955b3eb72a591c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698933,
+            "locality_id":1343238657,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":1343238657,
+    "wof:lastmodified":1537063687,
+    "wof:name":"Matutum",
+    "wof:parent_id":1108698933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.12778,
+    6.2975,
+    125.12778,
+    6.2975
+],
+  "geometry": {"coordinates":[125.12778,6.2975],"type":"Point"}
+}

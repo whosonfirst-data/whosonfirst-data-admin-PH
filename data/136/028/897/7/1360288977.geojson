@@ -1,0 +1,72 @@
+{
+  "id": 1360288977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36689,17.56018,120.36689,17.56018",
+    "geom:latitude":17.56018,
+    "geom:longitude":120.36689,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12934000.0",
+    "gn:asciiname":"Tamag",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683687,
+    "gn:latitude":17.56018,
+    "gn:longitude":120.36689,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tamag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tamag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683687
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"55c4943e3c2da615da31140482066056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699341,
+            "locality_id":1360288977,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1360288977,
+    "wof:lastmodified":1537677351,
+    "wof:name":"Tamag",
+    "wof:parent_id":1108699341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36688999999998,
+    17.56018,
+    120.36688999999998,
+    17.56018
+],
+  "geometry": {"coordinates":[120.36688999999998,17.56018],"type":"Point"}
+}

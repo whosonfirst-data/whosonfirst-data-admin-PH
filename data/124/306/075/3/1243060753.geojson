@@ -1,0 +1,74 @@
+{
+  "id": 1243060753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1,13.5,123.1,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":123.1,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51732000.0",
+    "gn:asciiname":"Maragni",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701151,
+    "gn:latitude":13.5,
+    "gn:longitude":123.1,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Marag\u00f1i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maranghi",
+        "Marag\u00f1i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701151
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5713b0ff5f5ae6fd0e9b74f5d68876ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698823,
+            "locality_id":1243060753,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1243060753,
+    "wof:lastmodified":1537677847,
+    "wof:name":"Maragni",
+    "wof:parent_id":1108698823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1,
+    13.5,
+    123.1,
+    13.5
+],
+  "geometry": {"coordinates":[123.09999999999999,13.5],"type":"Point"}
+}

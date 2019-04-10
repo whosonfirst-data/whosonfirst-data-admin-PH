@@ -1,0 +1,86 @@
+{
+  "id": 421200217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1211,12.6171,122.1211,12.6171",
+    "geom:latitude":12.6171,
+    "geom:longitude":122.1211,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Carmen"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Carman"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1718324,
+    "qs:gn_pop":2677,
+    "qs:name":"Carmen",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Mimaropa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1295010,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199991,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718324,
+        "gp:id":1199991,
+        "qs:id":1295010
+    },
+    "wof:country":"PH",
+    "wof:created":1459010015,
+    "wof:geomhash":"868f2a807203414270625d094966044d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421200217,
+            "region_id":85676007
+        }
+    ],
+    "wof:id":421200217,
+    "wof:lastmodified":1505340767,
+    "wof:name":"Carmen",
+    "wof:parent_id":85676007,
+    "wof:placetype":"locality",
+    "wof:population":2677,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1211,
+    12.6171,
+    122.1211,
+    12.6171
+],
+  "geometry": {"coordinates":[122.1211,12.6171],"type":"Point"}
+}

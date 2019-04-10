@@ -1,0 +1,76 @@
+{
+  "id": 1242790411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9014,16.3158,120.9014,16.3158",
+    "geom:latitude":16.3158,
+    "geom:longitude":120.9014,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"48",
+    "gn:admin3_code":"25010000.0",
+    "gn:asciiname":"Amelong Labeng",
+    "gn:country_code":"PH",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708318,
+    "gn:latitude":16.3158,
+    "gn:longitude":120.9014,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Amelong Labeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Amelong Labeng"
+    ],
+    "name:und_x_variant":[
+        "Labbeng",
+        "Labeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108697915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708318
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d2d51432345f818d71fb691d1657a441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697915,
+            "locality_id":1242790411,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":1242790411,
+    "wof:lastmodified":1537678050,
+    "wof:name":"Amelong Labeng",
+    "wof:parent_id":1108697915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9014,
+    16.3158,
+    120.9014,
+    16.3158
+],
+  "geometry": {"coordinates":[120.9014,16.3158],"type":"Point"}
+}

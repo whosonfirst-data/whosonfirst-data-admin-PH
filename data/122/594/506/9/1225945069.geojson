@@ -1,0 +1,72 @@
+{
+  "id": 1225945069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5228,15.7092,121.5228,15.7092",
+    "geom:latitude":15.7092,
+    "geom:longitude":121.5228,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"G8",
+    "gn:admin3_code":"37708000.0",
+    "gn:asciiname":"Real",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418916,
+    "gn:latitude":15.7092,
+    "gn:longitude":121.5228,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Real",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Real"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676065,
+        1108699239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418916
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"60b18ffdd8ad520fac6f581ef07d4d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699239,
+            "locality_id":1225945069,
+            "region_id":85676065
+        }
+    ],
+    "wof:id":1225945069,
+    "wof:lastmodified":1537678871,
+    "wof:name":"Real",
+    "wof:parent_id":1108699239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5228,
+    15.7092,
+    121.5228,
+    15.7092
+],
+  "geometry": {"coordinates":[121.5228,15.7092],"type":"Point"}
+}

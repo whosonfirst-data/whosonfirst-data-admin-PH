@@ -1,0 +1,71 @@
+{
+  "id": 890421789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4202,11.2612,122.4202,11.2612",
+    "geom:latitude":11.2612,
+    "geom:longitude":122.4202,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2085,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Da-an Sur"
+    ],
+    "name:unk_x_variant":[
+        "Da-an"
+    ],
+    "qs:name":"Da-an Sur",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108699689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716365,
+        "qs:id":87941
+    },
+    "wof:country":"PH",
+    "wof:created":1469051408,
+    "wof:geomhash":"c02b2575788bd08e54d84a6c2e8e6bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699689,
+            "locality_id":890421789,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":890421789,
+    "wof:lastmodified":1505343465,
+    "wof:name":"Da-an Sur",
+    "wof:parent_id":1108699689,
+    "wof:placetype":"locality",
+    "wof:population":2085,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4202,
+    11.2612,
+    122.4202,
+    11.2612
+],
+  "geometry": {"coordinates":[122.42019999999999,11.2612],"type":"Point"}
+}

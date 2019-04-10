@@ -1,0 +1,74 @@
+{
+  "id": 1293592633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32861,16.58333,120.32861,16.58333",
+    "geom:latitude":16.58333,
+    "geom:longitude":120.32861,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13314000.0",
+    "gn:asciiname":"Sevilla Centro",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686936,
+    "gn:latitude":16.58333,
+    "gn:longitude":120.32861,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sevilla Centro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sevilla",
+        "Sevilla Centro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686936
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"96a82d70342e9e891d9ff016e718cf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699151,
+            "locality_id":1293592633,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1293592633,
+    "wof:lastmodified":1537677434,
+    "wof:name":"Sevilla Centro",
+    "wof:parent_id":1108699151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32861,
+    16.58333,
+    120.32861,
+    16.58333
+],
+  "geometry": {"coordinates":[120.32861,16.58333],"type":"Point"}
+}

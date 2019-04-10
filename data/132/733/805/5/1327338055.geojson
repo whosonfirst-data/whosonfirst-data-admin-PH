@@ -1,0 +1,72 @@
+{
+  "id": 1327338055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.80083,12.96306,123.80083,12.96306",
+    "geom:latitude":12.96306,
+    "geom:longitude":123.80083,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"56206000.0",
+    "gn:asciiname":"Mayon",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699971,
+    "gn:latitude":12.96306,
+    "gn:longitude":123.80083,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mayon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mayon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676035,
+        1108697315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699971
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b75572e8883fd69c536545593dbd46bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697315,
+            "locality_id":1327338055,
+            "region_id":85676035
+        }
+    ],
+    "wof:id":1327338055,
+    "wof:lastmodified":1537677815,
+    "wof:name":"Mayon",
+    "wof:parent_id":1108697315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.80083,
+    12.96306,
+    123.80083,
+    12.96306
+],
+  "geometry": {"coordinates":[123.80083,12.96306],"type":"Point"}
+}

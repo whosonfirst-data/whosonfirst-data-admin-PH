@@ -1,0 +1,74 @@
+{
+  "id": 890432629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7885,18.31863,120.7885,18.31863",
+    "geom:latitude":18.31863,
+    "geom:longitude":120.7885,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":31407,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bayan ng Vintar"
+    ],
+    "name:fil_x_variant":[
+        "Vintar"
+    ],
+    "qs:name":"Vintar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":1685,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108699881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679818,
+        "qs:id":86302,
+        "wd:id":"Q39694",
+        "wk:page":"Vintar"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051947,
+    "wof:geomhash":"45955e9104cf18536f6d87dfc5f214af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699881,
+            "localadmin_id":890432629,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":890432629,
+    "wof:lastmodified":1527793034,
+    "wof:name":"Vintar",
+    "wof:parent_id":1108699881,
+    "wof:placetype":"localadmin",
+    "wof:population":31407,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7885,
+    18.31863,
+    120.7885,
+    18.31863
+],
+  "geometry": {"coordinates":[120.7885,18.31863],"type":"Point"}
+}

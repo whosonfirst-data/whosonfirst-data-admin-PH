@@ -1,0 +1,71 @@
+{
+  "id": 890431967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.8348,10.446,122.8348,10.446",
+    "geom:latitude":10.446,
+    "geom:longitude":122.8348,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2577,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Bagumbayan"
+    ],
+    "qs:name":"Bagumbayan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728902,
+        "gp:id":1160684,
+        "qs:id":277406,
+        "wk:page":"Bagumbayan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051922,
+    "wof:geomhash":"9f0074c44b7cf104a0886e0aa81f90e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699865,
+            "locality_id":890431967,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890431967,
+    "wof:lastmodified":1527735415,
+    "wof:name":"Bagumbayan",
+    "wof:parent_id":1108699865,
+    "wof:placetype":"locality",
+    "wof:population":2577,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.8348,
+    10.446,
+    122.8348,
+    10.446
+],
+  "geometry": {"coordinates":[122.8348,10.446],"type":"Point"}
+}

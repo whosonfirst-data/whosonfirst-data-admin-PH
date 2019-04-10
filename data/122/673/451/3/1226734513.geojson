@@ -1,0 +1,72 @@
+{
+  "id": 1226734513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.78333,11.3,124.78333,11.3",
+    "geom:latitude":11.3,
+    "geom:longitude":124.78333,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83706000.0",
+    "gn:asciiname":"Roosevelt",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691517,
+    "gn:latitude":11.3,
+    "gn:longitude":124.78333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Roosevelt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Roosevelt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108696921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691517
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b42d840d3cce616bce286d02474d6150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696921,
+            "locality_id":1226734513,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1226734513,
+    "wof:lastmodified":1537677576,
+    "wof:name":"Roosevelt",
+    "wof:parent_id":1108696921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.78333,
+    11.3,
+    124.78333,
+    11.3
+],
+  "geometry": {"coordinates":[124.78333000000001,11.3],"type":"Point"}
+}

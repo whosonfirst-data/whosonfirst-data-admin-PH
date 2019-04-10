@@ -1,0 +1,72 @@
+{
+  "id": 1343599675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4494,14.4245,121.4494,14.4245",
+    "geom:latitude":14.4245,
+    "geom:longitude":121.4494,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"43429000.0",
+    "gn:asciiname":"Mendiola",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425464,
+    "gn:latitude":14.4245,
+    "gn:longitude":121.4494,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mendiola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mendiola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108699509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425464
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d2fd3b7c139e6fc2ca58070272f6e308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699509,
+            "locality_id":1343599675,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":1343599675,
+    "wof:lastmodified":1537678897,
+    "wof:name":"Mendiola",
+    "wof:parent_id":1108699509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4494,
+    14.4245,
+    121.4494,
+    14.4245
+],
+  "geometry": {"coordinates":[121.4494,14.4245],"type":"Point"}
+}

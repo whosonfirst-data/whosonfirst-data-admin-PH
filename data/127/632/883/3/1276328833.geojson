@@ -1,0 +1,69 @@
+{
+  "id": 1276328833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.44583,7.66389,123.44583,7.66389",
+    "geom:latitude":7.66389,
+    "geom:longitude":123.44583,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97325000.0",
+    "gn:asciiname":"Pantad",
+    "gn:country_code":"PH",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958379,
+    "gn:latitude":7.66389,
+    "gn:longitude":123.44583,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pantad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958379
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"833515793b6a9cd3caa70488bf376727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699291,
+            "locality_id":1276328833,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1276328833,
+    "wof:lastmodified":1536785145,
+    "wof:name":"Pantad",
+    "wof:parent_id":1108699291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.44583,
+    7.66389,
+    123.44583,
+    7.66389
+],
+  "geometry": {"coordinates":[123.44583,7.66389],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260083609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6593,18.3373,120.6593,18.3373",
+    "geom:latitude":18.3373,
+    "geom:longitude":120.6593,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12817000.0",
+    "gn:asciiname":"Karusikis",
+    "gn:country_code":"PH",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709165,
+    "gn:latitude":18.3373,
+    "gn:longitude":120.6593,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Karusikis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Karusikis"
+    ],
+    "name:fil_x_variant":[
+        "Karusiquis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709165
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0be031502cddbdf7d6b6ce77cbb6501d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698833,
+            "locality_id":1260083609,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1260083609,
+    "wof:lastmodified":1537678075,
+    "wof:name":"Karusikis",
+    "wof:parent_id":1108698833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6593,
+    18.3373,
+    120.6593,
+    18.3373
+],
+  "geometry": {"coordinates":[120.6593,18.3373],"type":"Point"}
+}

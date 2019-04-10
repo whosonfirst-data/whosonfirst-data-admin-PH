@@ -1,0 +1,72 @@
+{
+  "id": 1343455899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1378,11.4096,123.1378,11.4096",
+    "geom:latitude":11.4096,
+    "geom:longitude":123.1378,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63009000.0",
+    "gn:asciiname":"Banban",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727503,
+    "gn:latitude":11.4096,
+    "gn:longitude":123.1378,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Banban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Banban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727503
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b8ac8640854d3932e53db1af0b0533af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696935,
+            "locality_id":1343455899,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1343455899,
+    "wof:lastmodified":1537678608,
+    "wof:name":"Banban",
+    "wof:parent_id":1108696935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1378,
+    11.4096,
+    123.1378,
+    11.4096
+],
+  "geometry": {"coordinates":[123.1378,11.4096],"type":"Point"}
+}

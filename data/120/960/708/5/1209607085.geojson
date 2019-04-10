@@ -1,0 +1,66 @@
+{
+  "id": 1209607085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.701,10.809,122.701,10.809",
+    "geom:latitude":10.809,
+    "geom:longitude":122.701,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63018000.0",
+    "gn:asciiname":"Dacutan",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716311,
+    "gn:latitude":10.809,
+    "gn:longitude":122.701,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dacutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dacutan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716311
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e11a9c0b9a3fd6e331928c179367ba6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209607085
+        }
+    ],
+    "wof:id":1209607085,
+    "wof:lastmodified":1537678273,
+    "wof:name":"Dacutan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.701,
+    10.809,
+    122.701,
+    10.809
+],
+  "geometry": {"coordinates":[122.70099999999999,10.809],"type":"Point"}
+}

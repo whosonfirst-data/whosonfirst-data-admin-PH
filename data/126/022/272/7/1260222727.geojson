@@ -1,0 +1,75 @@
+{
+  "id": 1260222727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61667,14.3,121.61667,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":121.61667,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45638000.0",
+    "gn:asciiname":"Lupas",
+    "gn:country_code":"PH",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704991,
+    "gn:latitude":14.3,
+    "gn:longitude":121.61667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lupas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lupas"
+    ],
+    "name:und_x_variant":[
+        "Lopas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704991
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"64e96fe076f96d2383b8152de3a75090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698441,
+            "locality_id":1260222727,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1260222727,
+    "wof:lastmodified":1537677954,
+    "wof:name":"Lupas",
+    "wof:parent_id":1108698441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61667,
+    14.3,
+    121.61667,
+    14.3
+],
+  "geometry": {"coordinates":[121.61667,14.3],"type":"Point"}
+}

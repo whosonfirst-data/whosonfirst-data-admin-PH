@@ -1,0 +1,75 @@
+{
+  "id": 1310033711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4195,10.50886,123.4195,10.50886",
+    "geom:latitude":10.50886,
+    "geom:longitude":123.4195,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64524000.0",
+    "gn:asciiname":"Hacienda Bascona",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726447,
+    "gn:latitude":10.50886,
+    "gn:longitude":123.4195,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Basco\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Basco\u00f1a"
+    ],
+    "name:fil_x_variant":[
+        "Basconia Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726447
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b362260f74a1a5fa32a76f7759e44fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699123,
+            "locality_id":1310033711,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1310033711,
+    "wof:lastmodified":1537678574,
+    "wof:name":"Hacienda Bascona",
+    "wof:parent_id":1108699123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4195,
+    10.50886,
+    123.4195,
+    10.50886
+],
+  "geometry": {"coordinates":[123.4195,10.50886],"type":"Point"}
+}

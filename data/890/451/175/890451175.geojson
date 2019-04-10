@@ -1,0 +1,72 @@
+{
+  "id": 890451175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5338,10.79754,123.5338,10.79754",
+    "geom:latitude":10.79754,
+    "geom:longitude":123.5338,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3039,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "La\u00f1gub"
+    ],
+    "name:unk_x_variant":[
+        "Langud"
+    ],
+    "qs:name":"La\u00f1gub",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707513,
+        "gp:id":1177528,
+        "qs:id":87575
+    },
+    "wof:country":"PH",
+    "wof:created":1469052767,
+    "wof:geomhash":"748b9d6be239c3c1839fb79962948495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697575,
+            "locality_id":890451175,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890451175,
+    "wof:lastmodified":1505343638,
+    "wof:name":"La\u00f1gub",
+    "wof:parent_id":1108697575,
+    "wof:placetype":"locality",
+    "wof:population":3039,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5338,
+    10.79754,
+    123.5338,
+    10.79754
+],
+  "geometry": {"coordinates":[123.5338,10.79754],"type":"Point"}
+}

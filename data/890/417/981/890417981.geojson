@@ -1,0 +1,66 @@
+{
+  "id": 890417981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.07,15.06222,120.07,15.06222",
+    "geom:latitude":15.06222,
+    "geom:longitude":120.07,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":14981,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Poblacion, San Felipe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108699143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690086,
+        "gp:id":1199732,
+        "qs:id":276908
+    },
+    "wof:country":"PH",
+    "wof:created":1469051229,
+    "wof:geomhash":"a1c582c2d0777d492aacac1728e4e1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699143,
+            "locality_id":890417981,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":890417981,
+    "wof:lastmodified":1505343442,
+    "wof:name":"Poblacion, San Felipe",
+    "wof:parent_id":1108699143,
+    "wof:placetype":"locality",
+    "wof:population":14981,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.07,
+    15.06222,
+    120.07,
+    15.06222
+],
+  "geometry": {"coordinates":[120.06999999999999,15.06222],"type":"Point"}
+}

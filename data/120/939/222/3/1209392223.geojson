@@ -1,0 +1,66 @@
+{
+  "id": 1209392223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7638,6.9316,125.7638,6.9316",
+    "geom:latitude":6.9316,
+    "geom:longitude":125.7638,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"112317000.0",
+    "gn:asciiname":"Del Campo",
+    "gn:country_code":"PH",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715214,
+    "gn:latitude":6.9316,
+    "gn:longitude":125.7638,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Del Campo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Del Campo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715214
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"32ed53ede71143287d4f1d0291eaa507",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209392223
+        }
+    ],
+    "wof:id":1209392223,
+    "wof:lastmodified":1537678240,
+    "wof:name":"Del Campo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7638,
+    6.9316,
+    125.7638,
+    6.9316
+],
+  "geometry": {"coordinates":[125.7638,6.9316],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242707581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.4812,10.9651,119.4812,10.9651",
+    "geom:latitude":10.9651,
+    "geom:longitude":119.4812,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175320000.0",
+    "gn:asciiname":"Polarican",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692577,
+    "gn:latitude":10.9651,
+    "gn:longitude":119.4812,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Polarican",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Polarican"
+    ],
+    "name:und_x_variant":[
+        "Palarican",
+        "Pularaguin",
+        "Pulariquen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692577
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"719aa7134f208a3a26a83227800a5fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699709,
+            "locality_id":1242707581,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1242707581,
+    "wof:lastmodified":1537677604,
+    "wof:name":"Polarican",
+    "wof:parent_id":1108699709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.4812,
+    10.9651,
+    119.4812,
+    10.9651
+],
+  "geometry": {"coordinates":[119.4812,10.9651],"type":"Point"}
+}

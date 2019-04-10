@@ -1,0 +1,78 @@
+{
+  "id": 1125987213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2775,7.32556,122.2775,7.32556",
+    "geom:latitude":7.32556,
+    "geom:longitude":122.2775,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3710,
+    "gn:population":3710,
+    "iso:country":"PH",
+    "lbl:latitude":7.32556,
+    "lbl:longitude":122.2775,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1957465,
+    "qs_pg:gn_pop":3710,
+    "qs_pg:name":"Mangusu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277721,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108699889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957465,
+        "qs_pg:id":277721
+    },
+    "wof:country":"PH",
+    "wof:created":1497298871,
+    "wof:geomhash":"60e5dac8edf7804dba6c1418b7293a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699889,
+            "locality_id":1125987213,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1125987213,
+    "wof:lastmodified":1509405153,
+    "wof:name":"Mangusu",
+    "wof:parent_id":1108699889,
+    "wof:placetype":"locality",
+    "wof:population":3710,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2775,
+    7.32556,
+    122.2775,
+    7.32556
+],
+  "geometry": {"coordinates":[122.2775,7.32556],"type":"Point"}
+}

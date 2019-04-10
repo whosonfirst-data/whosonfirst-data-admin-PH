@@ -1,0 +1,69 @@
+{
+  "id": 1293190005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.443,7.8355,123.443,7.8355",
+    "geom:latitude":7.8355,
+    "geom:longitude":123.443,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97322000.0",
+    "gn:asciiname":"Bulatok",
+    "gn:country_code":"PH",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958469,
+    "gn:latitude":7.8355,
+    "gn:longitude":123.443,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bulatok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        890429639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958469
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e38caf34f715b72baa22b59754b716df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890429639,
+            "locality_id":1293190005,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1293190005,
+    "wof:lastmodified":1536719324,
+    "wof:name":"Bulatok",
+    "wof:parent_id":890429639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.443,
+    7.8355,
+    123.443,
+    7.8355
+],
+  "geometry": {"coordinates":[123.443,7.8355],"type":"Point"}
+}

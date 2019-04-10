@@ -1,0 +1,71 @@
+{
+  "id": 890434059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9285,15.246,120.9285,15.246",
+    "geom:latitude":15.246,
+    "geom:longitude":120.9285,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":10776,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Pulo"
+    ],
+    "qs:name":"Pulo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":52,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692549,
+        "gp:id":1188656,
+        "qs:id":134505,
+        "wk:page":"Pulo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052008,
+    "wof:geomhash":"0a9eb2c63adf27b480491921b1c17bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699187,
+            "locality_id":890434059,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890434059,
+    "wof:lastmodified":1527792948,
+    "wof:name":"Pulo",
+    "wof:parent_id":1108699187,
+    "wof:placetype":"locality",
+    "wof:population":10776,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9285,
+    15.246,
+    120.9285,
+    15.246
+],
+  "geometry": {"coordinates":[120.9285,15.246],"type":"Point"}
+}

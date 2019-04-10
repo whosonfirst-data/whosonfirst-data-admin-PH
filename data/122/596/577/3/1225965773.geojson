@@ -1,0 +1,76 @@
+{
+  "id": 1225965773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.29501,11.39881,122.29501,11.39881",
+    "geom:latitude":11.39881,
+    "geom:longitude":122.29501,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60409000.0",
+    "gn:asciiname":"Luctuga",
+    "gn:country_code":"PH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705269,
+    "gn:latitude":11.39881,
+    "gn:longitude":122.29501,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Luctuga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Luctuga"
+    ],
+    "name:und_x_variant":[
+        "Luktoga",
+        "Luctoga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108698059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705269
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7e3a56fab5c38ae402f50386a270706a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698059,
+            "locality_id":1225965773,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1225965773,
+    "wof:lastmodified":1537677962,
+    "wof:name":"Luctuga",
+    "wof:parent_id":1108698059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.29501,
+    11.39881,
+    122.29501,
+    11.39881
+],
+  "geometry": {"coordinates":[122.29501,11.39881],"type":"Point"}
+}

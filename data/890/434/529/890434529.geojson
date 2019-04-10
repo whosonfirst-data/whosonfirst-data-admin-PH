@@ -1,0 +1,71 @@
+{
+  "id": 890434529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1622,13.5286,123.1622,13.5286",
+    "geom:latitude":13.5286,
+    "geom:longitude":123.1622,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5018,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Antipolo"
+    ],
+    "qs:name":"Antipolo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":3130,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730508,
+        "gp:id":91428218,
+        "qs:id":136040,
+        "wk:page":"Antipolo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052028,
+    "wof:geomhash":"6670aaef32773e272db2ea23ff5fb736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698483,
+            "locality_id":890434529,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890434529,
+    "wof:lastmodified":1527792946,
+    "wof:name":"Antipolo",
+    "wof:parent_id":1108698483,
+    "wof:placetype":"locality",
+    "wof:population":5018,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1622,
+    13.5286,
+    123.1622,
+    13.5286
+],
+  "geometry": {"coordinates":[123.1622,13.5286],"type":"Point"}
+}

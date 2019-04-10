@@ -1,0 +1,71 @@
+{
+  "id": 890415935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.55151,12.22564,123.55151,12.22564",
+    "geom:latitude":12.22564,
+    "geom:longitude":123.55151,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3089,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hamoraon"
+    ],
+    "name:unk_x_variant":[
+        "Jamoraon"
+    ],
+    "qs:name":"Hamoraon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710320,
+        "qs:id":135244
+    },
+    "wof:country":"PH",
+    "wof:created":1469051112,
+    "wof:geomhash":"ba3aa3dc2089f17e4b6bc7e77e19219a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698477,
+            "locality_id":890415935,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":890415935,
+    "wof:lastmodified":1505343429,
+    "wof:name":"Hamoraon",
+    "wof:parent_id":1108698477,
+    "wof:placetype":"locality",
+    "wof:population":3089,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.55151,
+    12.22564,
+    123.55151,
+    12.22564
+],
+  "geometry": {"coordinates":[123.55150999999999,12.22564],"type":"Point"}
+}

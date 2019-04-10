@@ -1,0 +1,72 @@
+{
+  "id": 890432571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.005,11.1619,124.005,11.1619",
+    "geom:latitude":11.1619,
+    "geom:longitude":124.005,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2154,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Panognawan"
+    ],
+    "name:unk_x_variant":[
+        "Panugnawan"
+    ],
+    "qs:name":"Panognawan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694898,
+        "gp:id":1186856,
+        "qs:id":134624
+    },
+    "wof:country":"PH",
+    "wof:created":1469051945,
+    "wof:geomhash":"7b8e213e91e6355169a4da98e1864e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697415,
+            "locality_id":890432571,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890432571,
+    "wof:lastmodified":1505343530,
+    "wof:name":"Panognawan",
+    "wof:parent_id":1108697415,
+    "wof:placetype":"locality",
+    "wof:population":2154,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.005,
+    11.1619,
+    124.005,
+    11.1619
+],
+  "geometry": {"coordinates":[124.005,11.1619],"type":"Point"}
+}

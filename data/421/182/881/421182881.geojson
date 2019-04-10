@@ -1,0 +1,82 @@
+{
+  "id": 421182881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09444,5.91,121.09444,5.91",
+    "geom:latitude":5.91,
+    "geom:longitude":121.09444,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Talipaw"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1957660,
+    "qs:gn_pop":5977,
+    "qs:name":"Talipaw",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Autonomous Region in Muslim Mindanao",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":956577,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199893,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108699637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1957660,
+        "gp:id":1199893,
+        "qs:id":956577
+    },
+    "wof:country":"PH",
+    "wof:created":1459009350,
+    "wof:geomhash":"7b6e562a02298522469538e85d7f514e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699637,
+            "locality_id":421182881,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":421182881,
+    "wof:lastmodified":1505340667,
+    "wof:name":"Talipaw",
+    "wof:parent_id":1108699637,
+    "wof:placetype":"locality",
+    "wof:population":5977,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09444,
+    5.91,
+    121.09444,
+    5.91
+],
+  "geometry": {"coordinates":[121.09444000000001,5.91],"type":"Point"}
+}

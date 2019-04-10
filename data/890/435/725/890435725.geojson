@@ -1,0 +1,69 @@
+{
+  "id": 890435725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.31667,14.01667,122.31667,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":122.31667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":76996,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calauag"
+    ],
+    "qs:name":"Calauag",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":1691,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720475,
+        "qs:id":1031316,
+        "wd:id":"Q103833",
+        "wk:page":"Calauag"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052078,
+    "wof:geomhash":"7b332020a26f6cef7b72b38e3042f378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "localadmin_id":890435725,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890435725,
+    "wof:lastmodified":1527793047,
+    "wof:name":"Calauag",
+    "wof:parent_id":85676161,
+    "wof:placetype":"localadmin",
+    "wof:population":76996,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.31667,
+    14.01667,
+    122.31667,
+    14.01667
+],
+  "geometry": {"coordinates":[122.31667,14.01667],"type":"Point"}
+}

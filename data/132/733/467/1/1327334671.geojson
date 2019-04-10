@@ -1,0 +1,74 @@
+{
+  "id": 1327334671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5,15.8,121.5,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":121.5,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"G8",
+    "gn:admin3_code":"37707000.0",
+    "gn:asciiname":"Canal",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719476,
+    "gn:latitude":15.8,
+    "gn:longitude":121.5,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Canal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilongots",
+        "Canal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676065,
+        1108698393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719476
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"831128a9f39019f3ddaa5aa52bd926c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698393,
+            "locality_id":1327334671,
+            "region_id":85676065
+        }
+    ],
+    "wof:id":1327334671,
+    "wof:lastmodified":1537678365,
+    "wof:name":"Canal",
+    "wof:parent_id":1108698393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5,
+    15.8,
+    121.5,
+    15.8
+],
+  "geometry": {"coordinates":[121.5,15.8],"type":"Point"}
+}

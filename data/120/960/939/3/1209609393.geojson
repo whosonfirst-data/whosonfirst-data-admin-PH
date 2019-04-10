@@ -1,0 +1,66 @@
+{
+  "id": 1209609393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3048,9.5139,123.3048,9.5139",
+    "geom:latitude":9.5139,
+    "geom:longitude":123.3048,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72240000.0",
+    "gn:asciiname":"Binlayan",
+    "gn:country_code":"PH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724961,
+    "gn:latitude":9.5139,
+    "gn:longitude":123.3048,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binlayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Binlayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724961
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3eab4462b436e58c9cfdc66f2df9ba3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209609393
+        }
+    ],
+    "wof:id":1209609393,
+    "wof:lastmodified":1537678533,
+    "wof:name":"Binlayan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3048,
+    9.5139,
+    123.3048,
+    9.5139
+],
+  "geometry": {"coordinates":[123.3048,9.5139],"type":"Point"}
+}

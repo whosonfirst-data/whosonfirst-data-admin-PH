@@ -1,0 +1,76 @@
+{
+  "id": 1225928607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.1764,10.5577,125.1764,10.5577",
+    "geom:latitude":10.5577,
+    "geom:longitude":125.1764,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86416000.0",
+    "gn:asciiname":"Lagome",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708086,
+    "gn:latitude":10.5577,
+    "gn:longitude":125.1764,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lagome",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lagome"
+    ],
+    "name:und_x_variant":[
+        "Lagoma",
+        "Lagome"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108699491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708086
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9b321610624a40224fab3304261a0eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699491,
+            "locality_id":1225928607,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1225928607,
+    "wof:lastmodified":1537678043,
+    "wof:name":"Lagome",
+    "wof:parent_id":1108699491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.1764,
+    10.5577,
+    125.1764,
+    10.5577
+],
+  "geometry": {"coordinates":[125.1764,10.5577],"type":"Point"}
+}

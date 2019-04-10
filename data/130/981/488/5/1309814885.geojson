@@ -1,0 +1,77 @@
+{
+  "id": 1309814885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0456,15.142,120.0456,15.142",
+    "geom:latitude":15.142,
+    "geom:longitude":120.0456,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37102000.0",
+    "gn:asciiname":"Camiing",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719689,
+    "gn:latitude":15.142,
+    "gn:longitude":120.0456,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Camiing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Camiing"
+    ],
+    "name:und_x_variant":[
+        "Apare",
+        "Aparri",
+        "Camiing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719689
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1d8e7e652a5919c5a6f84eb80045bff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697155,
+            "locality_id":1309814885,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1309814885,
+    "wof:lastmodified":1537678372,
+    "wof:name":"Camiing",
+    "wof:parent_id":1108697155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0456,
+    15.142,
+    120.0456,
+    15.142
+],
+  "geometry": {"coordinates":[120.04559999999999,15.142],"type":"Point"}
+}

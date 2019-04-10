@@ -1,0 +1,80 @@
+{
+  "id": 1276457253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.598,18.3892,120.598,18.3892",
+    "geom:latitude":18.3892,
+    "geom:longitude":120.598,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12817000.0",
+    "gn:asciiname":"Caruan",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718300,
+    "gn:latitude":18.3892,
+    "gn:longitude":120.598,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Caruan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Carawan"
+    ],
+    "name:fil_x_variant":[
+        "Caruan",
+        "Caroan"
+    ],
+    "name:und_x_variant":[
+        "Caroan",
+        "Caruan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108698833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718300
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dff36cde929f9854be6d0b5389ca66f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698833,
+            "locality_id":1276457253,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1276457253,
+    "wof:lastmodified":1537678326,
+    "wof:name":"Caruan",
+    "wof:parent_id":1108698833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.598,
+    18.3892,
+    120.598,
+    18.3892
+],
+  "geometry": {"coordinates":[120.598,18.3892],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310343541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.2228,10.4269,125.2228,10.4269",
+    "geom:latitude":10.4269,
+    "geom:longitude":125.2228,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688842,
+    "gn:latitude":10.4269,
+    "gn:longitude":125.2228,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688842
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2be08c2e0394259c456a82fba1b71174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":1310343541,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310343541,
+    "wof:lastmodified":1537677496,
+    "wof:name":"San Pablo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.2228,
+    10.4269,
+    125.2228,
+    10.4269
+],
+  "geometry": {"coordinates":[125.22280000000001,10.4269],"type":"Point"}
+}

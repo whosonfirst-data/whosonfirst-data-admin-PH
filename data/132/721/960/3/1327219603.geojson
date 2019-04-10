@@ -1,0 +1,72 @@
+{
+  "id": 1327219603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4063,9.6316,123.4063,9.6316",
+    "geom:latitude":9.6316,
+    "geom:longitude":123.4063,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72212000.0",
+    "gn:asciiname":"Kansumap-ang",
+    "gn:country_code":"PH",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709320,
+    "gn:latitude":9.6316,
+    "gn:longitude":123.4063,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kansumap-ang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kansumap-ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709320
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"007a87da80312c7926e82ade669ae310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697041,
+            "locality_id":1327219603,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1327219603,
+    "wof:lastmodified":1537678080,
+    "wof:name":"Kansumap-ang",
+    "wof:parent_id":1108697041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4063,
+    9.6316,
+    123.4063,
+    9.6316
+],
+  "geometry": {"coordinates":[123.4063,9.6316],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343700059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3664,13.8273,122.3664,13.8273",
+    "geom:latitude":13.8273,
+    "geom:longitude":122.3664,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45622000.0",
+    "gn:asciiname":"Cauayan",
+    "gn:country_code":"PH",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717616,
+    "gn:latitude":13.8273,
+    "gn:longitude":122.3664,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cauayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cawayan"
+    ],
+    "name:und_x_variant":[
+        "Cauayan Ibaba",
+        "Cawayan Ibaba",
+        "Cawayan Ilaya",
+        "Cauayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717616
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b3fb1c9d0278b06accd279db5422d7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698121,
+            "locality_id":1343700059,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1343700059,
+    "wof:lastmodified":1537678307,
+    "wof:name":"Cauayan",
+    "wof:parent_id":1108698121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3664,
+    13.8273,
+    122.3664,
+    13.8273
+],
+  "geometry": {"coordinates":[122.3664,13.8273],"type":"Point"}
+}

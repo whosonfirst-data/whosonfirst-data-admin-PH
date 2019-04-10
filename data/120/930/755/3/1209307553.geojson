@@ -1,0 +1,66 @@
+{
+  "id": 1209307553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.877,13.8102,123.877,13.8102",
+    "geom:latitude":13.8102,
+    "geom:longitude":123.877,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51711000.0",
+    "gn:asciiname":"Paniman",
+    "gn:country_code":"PH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695131,
+    "gn:latitude":13.8102,
+    "gn:longitude":123.877,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Paniman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Paniman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695131
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7846ac7b2914d6be7a68e035184dd178",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209307553
+        }
+    ],
+    "wof:id":1209307553,
+    "wof:lastmodified":1537677678,
+    "wof:name":"Paniman",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.877,
+    13.8102,
+    123.877,
+    13.8102
+],
+  "geometry": {"coordinates":[123.877,13.8102],"type":"Point"}
+}

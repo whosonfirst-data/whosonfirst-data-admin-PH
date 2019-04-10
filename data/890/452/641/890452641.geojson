@@ -1,0 +1,69 @@
+{
+  "id": 890452641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81452,14.95282,120.81452,14.95282",
+    "geom:latitude":14.95282,
+    "geom:longitude":120.81452,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":9214,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Balucog"
+    ],
+    "qs:name":"Balucuc",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727795,
+        "gp:id":1192930,
+        "qs:id":135838
+    },
+    "wof:country":"PH",
+    "wof:created":1469052824,
+    "wof:geomhash":"e183c5f543e2b8cde65f58377a3642c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699315,
+            "locality_id":890452641,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":890452641,
+    "wof:lastmodified":1505343646,
+    "wof:name":"Balucuc",
+    "wof:parent_id":1108699315,
+    "wof:placetype":"locality",
+    "wof:population":9214,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81452,
+    14.95282,
+    120.81452,
+    14.95282
+],
+  "geometry": {"coordinates":[120.81452,14.95282],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890437021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.96751,14.13938,120.96751,14.13938",
+    "geom:latitude":14.13938,
+    "geom:longitude":120.96751,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7021,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malabag"
+    ],
+    "qs:name":"Malabag",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108699493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703383,
+        "qs:id":1032492
+    },
+    "wof:country":"PH",
+    "wof:created":1469052135,
+    "wof:geomhash":"bf4db7b7e4f4c59b0adf9cb9eb060ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699493,
+            "locality_id":890437021,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":890437021,
+    "wof:lastmodified":1505343557,
+    "wof:name":"Malabag",
+    "wof:parent_id":1108699493,
+    "wof:placetype":"locality",
+    "wof:population":7021,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.96751,
+    14.13938,
+    120.96751,
+    14.13938
+],
+  "geometry": {"coordinates":[120.96751,14.13938],"type":"Point"}
+}

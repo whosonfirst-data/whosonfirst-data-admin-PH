@@ -1,0 +1,75 @@
+{
+  "id": 1193012633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0223,10.4826,124.0223,10.4826",
+    "geom:latitude":10.4826,
+    "geom:longitude":124.0223,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72223000.0",
+    "gn:asciiname":"Maslong",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700621,
+    "gn:latitude":10.4826,
+    "gn:longitude":124.0223,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maslong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Maslong"
+    ],
+    "name:fil_x_variant":[
+        "Maslog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700621
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"81de8f448fce4d4362ff4de0de2f18a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697433,
+            "locality_id":1193012633,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1193012633,
+    "wof:lastmodified":1537677833,
+    "wof:name":"Maslong",
+    "wof:parent_id":1108697433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0223,
+    10.4826,
+    124.0223,
+    10.4826
+],
+  "geometry": {"coordinates":[124.0223,10.4826],"type":"Point"}
+}

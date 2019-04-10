@@ -1,0 +1,76 @@
+{
+  "id": 1260001173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.107,10.8516,122.107,10.8516",
+    "geom:latitude":10.8516,
+    "geom:longitude":122.107,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60614000.0",
+    "gn:asciiname":"Cabiawan",
+    "gn:country_code":"PH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721635,
+    "gn:latitude":10.8516,
+    "gn:longitude":122.107,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabiawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabiawan"
+    ],
+    "name:und_x_variant":[
+        "Cabiaun",
+        "Cabiauan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721635
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"071e93d105ce8ec949ea845c2f92deaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699309,
+            "locality_id":1260001173,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1260001173,
+    "wof:lastmodified":1537678433,
+    "wof:name":"Cabiawan",
+    "wof:parent_id":1108699309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.107,
+    10.8516,
+    122.107,
+    10.8516
+],
+  "geometry": {"coordinates":[122.107,10.8516],"type":"Point"}
+}

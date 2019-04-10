@@ -1,0 +1,69 @@
+{
+  "id": 1327143535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54046,16.06093,120.54046,16.06093",
+    "geom:latitude":16.06093,
+    "geom:longitude":120.54046,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15548000.0",
+    "gn:asciiname":"Turko",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462168,
+    "gn:latitude":16.06093,
+    "gn:longitude":120.54046,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Turko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462168
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"55c72aa8c6db86169741ca6cb0afd509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698001,
+            "locality_id":1327143535,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1327143535,
+    "wof:lastmodified":1537094586,
+    "wof:name":"Turko",
+    "wof:parent_id":1108698001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54046,
+    16.06093,
+    120.54046,
+    16.06093
+],
+  "geometry": {"coordinates":[120.54046,16.06093],"type":"Point"}
+}

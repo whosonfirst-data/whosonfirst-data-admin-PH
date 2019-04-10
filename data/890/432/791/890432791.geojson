@@ -1,0 +1,73 @@
+{
+  "id": 890432791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0193,14.5548,121.0193,14.5548",
+    "geom:latitude":14.5548,
+    "geom:longitude":121.0193,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":529039,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fil_x_preferred":[
+        "Makati"
+    ],
+    "name:fil_x_variant":[
+        "Lungsod ng Makati"
+    ],
+    "name:unk_x_variant":[
+        "San Pedro Makati"
+    ],
+    "qs:name":"Makati City",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703415,
+        "qs:id":87369
+    },
+    "wof:country":"PH",
+    "wof:created":1469051954,
+    "wof:geomhash":"98b89ae6f25a41121ed39a2e334223ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432791,
+            "region_id":85676413
+        }
+    ],
+    "wof:id":890432791,
+    "wof:lastmodified":1505343531,
+    "wof:name":"Makati City",
+    "wof:parent_id":85676413,
+    "wof:placetype":"county",
+    "wof:population":529039,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0193,
+    14.5548,
+    121.0193,
+    14.5548
+],
+  "geometry": {"coordinates":[121.0193,14.5548],"type":"Point"}
+}

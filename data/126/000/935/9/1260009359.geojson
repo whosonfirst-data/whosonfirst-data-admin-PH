@@ -1,0 +1,72 @@
+{
+  "id": 1260009359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1817,10.9908,123.1817,10.9908",
+    "geom:latitude":10.9908,
+    "geom:longitude":123.1817,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64504000.0",
+    "gn:asciiname":"Mambugaong",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301324,
+    "gn:latitude":10.9908,
+    "gn:longitude":123.1817,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mambugaong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mambugaong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108698341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301324
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f800892dc79d196cc0f5c88a34e165e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698341,
+            "locality_id":1260009359,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1260009359,
+    "wof:lastmodified":1537679054,
+    "wof:name":"Mambugaong",
+    "wof:parent_id":1108698341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1817,
+    10.9908,
+    123.1817,
+    10.9908
+],
+  "geometry": {"coordinates":[123.18170000000001,10.9908],"type":"Point"}
+}

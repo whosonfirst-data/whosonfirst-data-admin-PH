@@ -1,0 +1,69 @@
+{
+  "id": 890422183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.44222,9.80889,125.44222,9.80889",
+    "geom:latitude":9.80889,
+    "geom:longitude":125.44222,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2075,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabua"
+    ],
+    "qs:name":"Mabua",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676239,
+        1108699573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704515,
+        "gp:id":1179842,
+        "qs:id":1032542
+    },
+    "wof:country":"PH",
+    "wof:created":1469051431,
+    "wof:geomhash":"00e5e4ae3e31473c72e808cccacb6916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699573,
+            "locality_id":890422183,
+            "region_id":85676239
+        }
+    ],
+    "wof:id":890422183,
+    "wof:lastmodified":1505343468,
+    "wof:name":"Mabua",
+    "wof:parent_id":1108699573,
+    "wof:placetype":"locality",
+    "wof:population":2075,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.44222,
+    9.80889,
+    125.44222,
+    9.80889
+],
+  "geometry": {"coordinates":[125.44222000000001,9.80889],"type":"Point"}
+}

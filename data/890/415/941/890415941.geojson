@@ -1,0 +1,68 @@
+{
+  "id": 890415941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7475,10.89333,122.7475,10.89333",
+    "geom:latitude":10.89333,
+    "geom:longitude":122.7475,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2239,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Jalauod"
+    ],
+    "qs:name":"Jalaud",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710347,
+        "qs:id":135247
+    },
+    "wof:country":"PH",
+    "wof:created":1469051113,
+    "wof:geomhash":"3ba18a68cb4f78e12006da10b9f77b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696915,
+            "locality_id":890415941,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890415941,
+    "wof:lastmodified":1505343429,
+    "wof:name":"Jalaud",
+    "wof:parent_id":1108696915,
+    "wof:placetype":"locality",
+    "wof:population":2239,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7475,
+    10.89333,
+    122.7475,
+    10.89333
+],
+  "geometry": {"coordinates":[122.7475,10.89333],"type":"Point"}
+}

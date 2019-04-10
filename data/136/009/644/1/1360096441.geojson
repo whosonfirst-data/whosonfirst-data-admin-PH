@@ -1,0 +1,72 @@
+{
+  "id": 1360096441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9478,15.3694,119.9478,15.3694",
+    "geom:latitude":15.3694,
+    "geom:longitude":119.9478,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37105000.0",
+    "gn:asciiname":"Lanao",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7556250,
+    "gn:latitude":15.3694,
+    "gn:longitude":119.9478,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lanao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lanao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7556250
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9ae1fc2875fb1fc074533da6c0d7bb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697741,
+            "locality_id":1360096441,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1360096441,
+    "wof:lastmodified":1537678977,
+    "wof:name":"Lanao",
+    "wof:parent_id":1108697741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9478,
+    15.3694,
+    119.9478,
+    15.3694
+],
+  "geometry": {"coordinates":[119.9478,15.3694],"type":"Point"}
+}

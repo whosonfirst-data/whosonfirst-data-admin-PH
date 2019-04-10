@@ -1,0 +1,72 @@
+{
+  "id": 1276335437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71256,15.0088,120.71256,15.0088",
+    "geom:latitude":15.0088,
+    "geom:longitude":120.71256,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35421000.0",
+    "gn:asciiname":"San Matias",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689041,
+    "gn:latitude":15.0088,
+    "gn:longitude":120.71256,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Matias",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Matias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108696753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689041
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"54557492350fa1fdadbc58c6f88f077a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696753,
+            "locality_id":1276335437,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1276335437,
+    "wof:lastmodified":1537677502,
+    "wof:name":"San Matias",
+    "wof:parent_id":1108696753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71256,
+    15.0088,
+    120.71256,
+    15.0088
+],
+  "geometry": {"coordinates":[120.71256,15.0088],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1343365861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68931,14.85033,120.68931,14.85033",
+    "geom:latitude":14.85033,
+    "geom:longitude":120.68931,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35412000.0",
+    "gn:asciiname":"Puti",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432991,
+    "gn:latitude":14.85033,
+    "gn:longitude":120.68931,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Puti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108698413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432991
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e553b83bb9ba4d5c5634610bb4d4dfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698413,
+            "locality_id":1343365861,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1343365861,
+    "wof:lastmodified":1536881979,
+    "wof:name":"Puti",
+    "wof:parent_id":1108698413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68931,
+    14.85033,
+    120.68931,
+    14.85033
+],
+  "geometry": {"coordinates":[120.68931000000001,14.85033],"type":"Point"}
+}

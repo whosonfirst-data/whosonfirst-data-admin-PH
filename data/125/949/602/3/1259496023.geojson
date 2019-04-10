@@ -1,0 +1,81 @@
+{
+  "id": 1259496023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3564,16.6322,121.3564,16.6322",
+    "geom:latitude":16.6322,
+    "geom:longitude":121.3564,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"48",
+    "gn:admin3_code":"25006000.0",
+    "gn:asciiname":"Balete",
+    "gn:country_code":"PH",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728015,
+    "gn:latitude":16.6322,
+    "gn:longitude":121.3564,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balete",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balete"
+    ],
+    "name:fil_x_variant":[
+        "Balite",
+        "Baleti"
+    ],
+    "name:und_x_variant":[
+        "Baleti",
+        "Balete",
+        "Balite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676083,
+        1108697471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728015
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"53017a69047bb78f795273e4aafaacdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697471,
+            "locality_id":1259496023,
+            "region_id":85676083
+        }
+    ],
+    "wof:id":1259496023,
+    "wof:lastmodified":1537678625,
+    "wof:name":"Balete",
+    "wof:parent_id":1108697471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3564,
+    16.6322,
+    121.3564,
+    16.6322
+],
+  "geometry": {"coordinates":[121.35639999999999,16.6322],"type":"Point"}
+}

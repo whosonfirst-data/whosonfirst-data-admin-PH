@@ -1,0 +1,72 @@
+{
+  "id": 1243052689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5266,10.8898,124.5266,10.8898",
+    "geom:latitude":10.8898,
+    "geom:longitude":124.5266,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83736000.0",
+    "gn:asciiname":"Mahalit",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703625,
+    "gn:latitude":10.8898,
+    "gn:longitude":124.5266,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mahalit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mahalit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108698465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703625
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0ec960c8f59e72b258a7642c16b21af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698465,
+            "locality_id":1243052689,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1243052689,
+    "wof:lastmodified":1537677916,
+    "wof:name":"Mahalit",
+    "wof:parent_id":1108698465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5266,
+    10.8898,
+    124.5266,
+    10.8898
+],
+  "geometry": {"coordinates":[124.5266,10.8898],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260083597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68,17.15861,120.68,17.15861",
+    "geom:latitude":17.15861,
+    "geom:longitude":120.68,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12915000.0",
+    "gn:asciiname":"Nalideg",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702808,
+    "gn:latitude":17.15861,
+    "gn:longitude":120.68,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nalideg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malideg",
+        "Nalideg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108698997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702808
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a4c0549604ba54284c34c25835c5070b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698997,
+            "locality_id":1260083597,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1260083597,
+    "wof:lastmodified":1537677895,
+    "wof:name":"Nalideg",
+    "wof:parent_id":1108698997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68,
+    17.15861,
+    120.68,
+    17.15861
+],
+  "geometry": {"coordinates":[120.68000000000001,17.15861],"type":"Point"}
+}

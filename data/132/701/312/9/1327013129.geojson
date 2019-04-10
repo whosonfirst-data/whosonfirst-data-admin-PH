@@ -1,0 +1,76 @@
+{
+  "id": 1327013129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3497,5.91705,121.3497,5.91705",
+    "geom:latitude":5.91705,
+    "geom:longitude":121.3497,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156604000.0",
+    "gn:asciiname":"Sukuban",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685437,
+    "gn:latitude":5.91705,
+    "gn:longitude":121.3497,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sukuban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sukuban"
+    ],
+    "name:und_x_variant":[
+        "Susuban",
+        "Sucuban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108697885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685437
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4a678f587cc921d847af206c3f8cb702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697885,
+            "locality_id":1327013129,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1327013129,
+    "wof:lastmodified":1537677399,
+    "wof:name":"Sukuban",
+    "wof:parent_id":1108697885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3497,
+    5.91705,
+    121.3497,
+    5.91705
+],
+  "geometry": {"coordinates":[121.3497,5.91705],"type":"Point"}
+}

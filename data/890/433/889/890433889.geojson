@@ -1,0 +1,71 @@
+{
+  "id": 890433889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28455,15.87746,120.28455,15.87746",
+    "geom:latitude":15.87746,
+    "geom:longitude":120.28455,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5767,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Tamayo"
+    ],
+    "qs:name":"Tamayo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":25,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683663,
+        "gp:id":1195550,
+        "qs:id":134082,
+        "wk:page":"Tamayo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051999,
+    "wof:geomhash":"6ae49b761ab45750ca0ae4e005d61737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699125,
+            "locality_id":890433889,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890433889,
+    "wof:lastmodified":1527792951,
+    "wof:name":"Tamayo",
+    "wof:parent_id":1108699125,
+    "wof:placetype":"locality",
+    "wof:population":5767,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28455,
+    15.87746,
+    120.28455,
+    15.87746
+],
+  "geometry": {"coordinates":[120.28455,15.87746],"type":"Point"}
+}

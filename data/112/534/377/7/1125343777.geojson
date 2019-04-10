@@ -1,0 +1,81 @@
+{
+  "id": 1125343777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91667,15.85,120.91667,15.85",
+    "geom:latitude":15.85,
+    "geom:longitude":120.91667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":38778,
+    "gn:population":38778,
+    "iso:country":"PH",
+    "lbl:latitude":15.85,
+    "lbl:longitude":120.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Lupao"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1704995,
+    "qs_pg:gn_pop":38778,
+    "qs_pg:name":"Lupao",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":275158,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704995,
+        "qs_pg:id":275158
+    },
+    "wof:country":"PH",
+    "wof:created":1497045807,
+    "wof:geomhash":"0e9b9c0ff638e670e398348e13422ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698163,
+            "localadmin_id":1125343777,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1125343777,
+    "wof:lastmodified":1509388724,
+    "wof:name":"Lupao",
+    "wof:parent_id":1108698163,
+    "wof:placetype":"localadmin",
+    "wof:population":38778,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91667,
+    15.85,
+    120.91667,
+    15.85
+],
+  "geometry": {"coordinates":[120.91667,15.85],"type":"Point"}
+}

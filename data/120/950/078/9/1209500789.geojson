@@ -1,0 +1,68 @@
+{
+  "id": 1209500789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.65,10.28333,123.65,10.28333",
+    "geom:latitude":10.28333,
+    "geom:longitude":123.65,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72237000.0",
+    "gn:asciiname":"Bulangan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722976,
+    "gn:latitude":10.28333,
+    "gn:longitude":123.65,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bulangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulongan",
+        "Bulangan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722976
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"70dde56edfe61e4d8536f6ff0373c92e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209500789
+        }
+    ],
+    "wof:id":1209500789,
+    "wof:lastmodified":1537678473,
+    "wof:name":"Bulangan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.65,
+    10.28333,
+    123.65,
+    10.28333
+],
+  "geometry": {"coordinates":[123.65000000000001,10.28333],"type":"Point"}
+}

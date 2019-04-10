@@ -1,0 +1,72 @@
+{
+  "id": 1327138897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9438,11.852,123.9438,11.852",
+    "geom:latitude":11.852,
+    "geom:longitude":123.9438,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54117000.0",
+    "gn:asciiname":"Nauco",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1697925,
+    "gn:latitude":11.852,
+    "gn:longitude":123.9438,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Nauco",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nauco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108697579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1697925
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5267cd801a75e9c304d25c1fdb6e89cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697579,
+            "locality_id":1327138897,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1327138897,
+    "wof:lastmodified":1537677756,
+    "wof:name":"Nauco",
+    "wof:parent_id":1108697579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9438,
+    11.852,
+    123.9438,
+    11.852
+],
+  "geometry": {"coordinates":[123.9438,11.852],"type":"Point"}
+}

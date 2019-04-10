@@ -1,0 +1,66 @@
+{
+  "id": 1209032905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0645,10.4513,123.0645,10.4513",
+    "geom:latitude":10.4513,
+    "geom:longitude":123.0645,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64502000.0",
+    "gn:asciiname":"Hacienda Nakalang",
+    "gn:country_code":"PH",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8301299,
+    "gn:latitude":10.4513,
+    "gn:longitude":123.0645,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Nakalang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Nakalang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8301299
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7b223aad2881e92440f8444b1847f454",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209032905
+        }
+    ],
+    "wof:id":1209032905,
+    "wof:lastmodified":1537679054,
+    "wof:name":"Hacienda Nakalang",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0645,
+    10.4513,
+    123.0645,
+    10.4513
+],
+  "geometry": {"coordinates":[123.0645,10.4513],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260185829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31667,16.65,120.31667,16.65",
+    "geom:latitude":16.65,
+    "geom:longitude":120.31667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13314000.0",
+    "gn:asciiname":"Dalumpinas Oeste",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715926,
+    "gn:latitude":16.65,
+    "gn:longitude":120.31667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dalumpinas Oeste",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalumpinas",
+        "Dalumpinas Oeste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715926
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a587761605ef0aa63fe1c295271e69cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699151,
+            "locality_id":1260185829,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1260185829,
+    "wof:lastmodified":1537678262,
+    "wof:name":"Dalumpinas Oeste",
+    "wof:parent_id":1108699151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31667,
+    16.65,
+    120.31667,
+    16.65
+],
+  "geometry": {"coordinates":[120.31667,16.65],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890430029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.25,10.76667,122.25,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":122.25,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":29556,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Igbaras"
+    ],
+    "qs:name":"Igbaras",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711288,
+        "qs:id":87737
+    },
+    "wof:country":"PH",
+    "wof:created":1469051837,
+    "wof:geomhash":"c62bd3fa36a06fa872fae88c9616aad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697743,
+            "localadmin_id":890430029,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890430029,
+    "wof:lastmodified":1505343516,
+    "wof:name":"Igbaras",
+    "wof:parent_id":1108697743,
+    "wof:placetype":"localadmin",
+    "wof:population":29556,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.25,
+    10.76667,
+    122.25,
+    10.76667
+],
+  "geometry": {"coordinates":[122.25,10.76667],"type":"Point"}
+}

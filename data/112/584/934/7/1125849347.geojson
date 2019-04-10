@@ -1,0 +1,77 @@
+{
+  "id": 1125849347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.83333,12.81667,123.83333,12.81667",
+    "geom:latitude":12.81667,
+    "geom:longitude":123.83333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2552,
+    "gn:population":2552,
+    "iso:country":"PH",
+    "lbl:latitude":12.81667,
+    "lbl:longitude":123.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Aguada"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1731892,
+    "qs_pg:gn_pop":2552,
+    "qs_pg:name":"Aguada",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88577,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731892,
+        "qs_pg:id":88577
+    },
+    "wof:country":"PH",
+    "wof:created":1497293317,
+    "wof:geomhash":"7f7111d96a5b8afce22de0b6429a1cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1125849347,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1125849347,
+    "wof:lastmodified":1509395829,
+    "wof:name":"Aguada",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2552,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.83333,
+    12.81667,
+    123.83333,
+    12.81667
+],
+  "geometry": {"coordinates":[123.83333,12.81667],"type":"Point"}
+}

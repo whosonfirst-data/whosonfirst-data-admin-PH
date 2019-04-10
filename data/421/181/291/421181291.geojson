@@ -1,0 +1,79 @@
+{
+  "id": 421181291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4443,17.3257,120.4443,17.3257",
+    "geom:latitude":17.3257,
+    "geom:longitude":120.4443,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "San Nicolas"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1688861,
+    "qs:gn_pop":0,
+    "qs:name":"San Nicolas",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Ilocos Region",
+    "qs:photos":35,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":35,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":484812,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199778,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688861,
+        "gp:id":1199778,
+        "qs:id":484812
+    },
+    "wof:country":"PH",
+    "wof:created":1459009291,
+    "wof:geomhash":"573278e6f17c5be45d171f5baf6c362b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699139,
+            "locality_id":421181291,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":421181291,
+    "wof:lastmodified":1501221496,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":1108699139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4443,
+    17.3257,
+    120.4443,
+    17.3257
+],
+  "geometry": {"coordinates":[120.4443,17.3257],"type":"Point"}
+}

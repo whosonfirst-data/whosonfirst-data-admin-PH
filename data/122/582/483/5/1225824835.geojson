@@ -1,0 +1,73 @@
+{
+  "id": 1225824835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.68083,5.96889,124.68083,5.96889",
+    "geom:latitude":5.96889,
+    "geom:longitude":124.68083,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"M9",
+    "gn:admin3_code":"128003000.0",
+    "gn:asciiname":"Kandulay",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719233,
+    "gn:latitude":5.96889,
+    "gn:longitude":124.68083,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kandulay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Candulay",
+        "Kandulay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108698659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719233
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a7f16ff723dfaf339e40fe2bc010c4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698659,
+            "locality_id":1225824835,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":1225824835,
+    "wof:lastmodified":1537678357,
+    "wof:name":"Kandulay",
+    "wof:parent_id":1108698659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.68083,
+    5.96889,
+    124.68083,
+    5.96889
+],
+  "geometry": {"coordinates":[124.68083,5.96889],"type":"Point"}
+}

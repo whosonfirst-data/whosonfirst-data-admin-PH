@@ -1,0 +1,65 @@
+{
+  "id": 890432521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.37278,7.89139,123.37278,7.89139",
+    "geom:latitude":7.89139,
+    "geom:longitude":123.37278,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2666,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Danlugan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        890429639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958457,
+        "qs:id":137325
+    },
+    "wof:country":"PH",
+    "wof:created":1469051944,
+    "wof:geomhash":"f9cd1feb49f0d54dff126e11d94af76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890429639,
+            "locality_id":890432521,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":890432521,
+    "wof:lastmodified":1505343530,
+    "wof:name":"Danlugan",
+    "wof:parent_id":890429639,
+    "wof:placetype":"locality",
+    "wof:population":2666,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.37278,
+    7.89139,
+    123.37278,
+    7.89139
+],
+  "geometry": {"coordinates":[123.37278000000001,7.89139],"type":"Point"}
+}

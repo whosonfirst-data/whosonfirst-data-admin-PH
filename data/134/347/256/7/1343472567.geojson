@@ -1,0 +1,75 @@
+{
+  "id": 1343472567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6177,18.274,120.6177,18.274",
+    "geom:latitude":18.274,
+    "geom:longitude":120.6177,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12802000.0",
+    "gn:asciiname":"Tepang",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681714,
+    "gn:latitude":18.274,
+    "gn:longitude":120.6177,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tepang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tepang"
+    ],
+    "name:fil_x_variant":[
+        "Tippang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681714
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"355d20aeac0b40fd5c46bb682018017b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696739,
+            "locality_id":1343472567,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1343472567,
+    "wof:lastmodified":1537677300,
+    "wof:name":"Tepang",
+    "wof:parent_id":1108696739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6177,
+    18.274,
+    120.6177,
+    18.274
+],
+  "geometry": {"coordinates":[120.6177,18.274],"type":"Point"}
+}

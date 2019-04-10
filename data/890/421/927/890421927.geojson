@@ -1,0 +1,78 @@
+{
+  "id": 890421927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61454,16.86906,121.61454,16.86906",
+    "geom:latitude":16.86906,
+    "geom:longitude":121.61454,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":8110,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Salinungan Proper"
+    ],
+    "name:fil_x_preferred":[
+        "Salinungan"
+    ],
+    "name:fil_x_variant":[
+        "Salinongan"
+    ],
+    "name:unk_x_variant":[
+        "Salinongan"
+    ],
+    "qs:name":"Salinungan Proper",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690866,
+        "gp:id":91423939,
+        "qs:id":134417
+    },
+    "wof:country":"PH",
+    "wof:created":1469051418,
+    "wof:geomhash":"9c40becbdb5701bf1d8309bede380a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699257,
+            "locality_id":890421927,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":890421927,
+    "wof:lastmodified":1505343466,
+    "wof:name":"Salinungan Proper",
+    "wof:parent_id":1108699257,
+    "wof:placetype":"locality",
+    "wof:population":8110,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61454,
+    16.86906,
+    121.61454,
+    16.86906
+],
+  "geometry": {"coordinates":[121.61454000000001,16.86906],"type":"Point"}
+}

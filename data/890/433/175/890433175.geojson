@@ -1,0 +1,74 @@
+{
+  "id": 890433175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7336,12.5492,123.7336,12.5492",
+    "geom:latitude":12.5492,
+    "geom:longitude":123.7336,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2209,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Luna"
+    ],
+    "name:unk_x_variant":[
+        "Antonio Luna"
+    ],
+    "qs:name":"Luna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":727,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108699193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730479,
+        "gp:id":1159489,
+        "qs:id":136037,
+        "wk:page":"Luna"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051970,
+    "wof:geomhash":"471aee62eaf10c91cda14c1793353f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699193,
+            "locality_id":890433175,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":890433175,
+    "wof:lastmodified":1527792954,
+    "wof:name":"Luna",
+    "wof:parent_id":1108699193,
+    "wof:placetype":"locality",
+    "wof:population":2209,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7336,
+    12.5492,
+    123.7336,
+    12.5492
+],
+  "geometry": {"coordinates":[123.7336,12.5492],"type":"Point"}
+}

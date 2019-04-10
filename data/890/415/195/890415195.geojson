@@ -1,0 +1,74 @@
+{
+  "id": 890415195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5065,8.3867,123.5065,8.3867",
+    "geom:latitude":8.3867,
+    "geom:longitude":123.5065,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":10625,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municipality of Mutia"
+    ],
+    "name:unk_x_variant":[
+        "Mutia"
+    ],
+    "qs:name":"Municipality of Mutia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699030,
+        "qs:id":87200,
+        "wd:id":"Q6518436",
+        "wk:page":"Legislative districts of Zamboanga del Norte"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051078,
+    "wof:geomhash":"d2ed5d37e475f65ab8be2881a8d52a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698523,
+            "localadmin_id":890415195,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":890415195,
+    "wof:lastmodified":1527727236,
+    "wof:name":"Municipality of Mutia",
+    "wof:parent_id":1108698523,
+    "wof:placetype":"localadmin",
+    "wof:population":10625,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5065,
+    8.3867,
+    123.5065,
+    8.3867
+],
+  "geometry": {"coordinates":[123.5065,8.3867],"type":"Point"}
+}

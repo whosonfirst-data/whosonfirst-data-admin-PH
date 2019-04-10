@@ -1,0 +1,75 @@
+{
+  "id": 1343599687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.81602,14.29668,121.81602,14.29668",
+    "geom:latitude":14.29668,
+    "geom:longitude":121.81602,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45627000.0",
+    "gn:asciiname":"Calamias",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720667,
+    "gn:latitude":14.29668,
+    "gn:longitude":121.81602,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calamias",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calamias"
+    ],
+    "name:und_x_variant":[
+        "Calamlas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720667
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"de78a3ebe01df5ac4e94e215c32b500e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698653,
+            "locality_id":1343599687,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1343599687,
+    "wof:lastmodified":1537678401,
+    "wof:name":"Calamias",
+    "wof:parent_id":1108698653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.81602,
+    14.29668,
+    121.81602,
+    14.29668
+],
+  "geometry": {"coordinates":[121.81601999999999,14.29668],"type":"Point"}
+}

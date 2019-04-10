@@ -1,0 +1,81 @@
+{
+  "id": 1209816725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60297,15.59442,120.60297,15.59442",
+    "geom:latitude":15.59442,
+    "geom:longitude":120.60297,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36906000.0",
+    "gn:asciiname":"Matayumcab",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700378,
+    "gn:latitude":15.59442,
+    "gn:longitude":120.60297,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Matayumcab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Matayungcab"
+    ],
+    "name:fil_x_variant":[
+        "Matayuncab",
+        "Matayumcab"
+    ],
+    "name:und_x_variant":[
+        "Matayuncab",
+        "Matayungcab",
+        "Matayumcab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108697639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700378
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"43e6ba167d401cce6914a465557e7730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697639,
+            "locality_id":1209816725,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1209816725,
+    "wof:lastmodified":1537677827,
+    "wof:name":"Matayumcab",
+    "wof:parent_id":1108697639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60297,
+    15.59442,
+    120.60297,
+    15.59442
+],
+  "geometry": {"coordinates":[120.60297,15.59442],"type":"Point"}
+}

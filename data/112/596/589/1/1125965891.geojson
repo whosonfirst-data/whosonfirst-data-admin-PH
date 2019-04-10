@@ -1,0 +1,84 @@
+{
+  "id": 1125965891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63333,16.98333,121.63333,16.98333",
+    "geom:latitude":16.98333,
+    "geom:longitude":121.63333,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2216,
+    "gn:population":2216,
+    "iso:country":"PH",
+    "lbl:latitude":16.98333,
+    "lbl:longitude":121.63333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bacnor"
+    ],
+    "name:unk_x_variant":[
+        "Bacnor East"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1729596,
+    "qs_pg:gn_pop":2216,
+    "qs_pg:name":"Bacnor",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277417,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108696723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729596,
+        "qs_pg:id":277417
+    },
+    "wof:country":"PH",
+    "wof:created":1497297976,
+    "wof:geomhash":"88eaf339d0824f2fb8c6753d5ed75454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696723,
+            "locality_id":1125965891,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1125965891,
+    "wof:lastmodified":1509403652,
+    "wof:name":"Bacnor",
+    "wof:parent_id":1108696723,
+    "wof:placetype":"locality",
+    "wof:population":2216,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63333,
+    16.98333,
+    121.63333,
+    16.98333
+],
+  "geometry": {"coordinates":[121.63333,16.98333],"type":"Point"}
+}

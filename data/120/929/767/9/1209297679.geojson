@@ -1,0 +1,66 @@
+{
+  "id": 1209297679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.4,7.11667,124.4,7.11667",
+    "geom:latitude":7.11667,
+    "geom:longitude":124.4,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"153814000.0",
+    "gn:asciiname":"Matilac",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700326,
+    "gn:latitude":7.11667,
+    "gn:longitude":124.4,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Matilac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Matilac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700326
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"949852a360282de751c79224288c1ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209297679
+        }
+    ],
+    "wof:id":1209297679,
+    "wof:lastmodified":1537677825,
+    "wof:name":"Matilac",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.4,
+    7.11667,
+    124.4,
+    7.11667
+],
+  "geometry": {"coordinates":[124.40000000000001,7.11667],"type":"Point"}
+}

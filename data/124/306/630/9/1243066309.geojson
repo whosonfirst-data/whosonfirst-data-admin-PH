@@ -1,0 +1,72 @@
+{
+  "id": 1243066309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4493,13.9617,123.4493,13.9617",
+    "geom:latitude":13.9617,
+    "geom:longitude":123.4493,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51717000.0",
+    "gn:asciiname":"Mapid",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701261,
+    "gn:latitude":13.9617,
+    "gn:longitude":123.4493,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mapid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mapid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701261
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"143eaf6a7c2dd60713df4995694d521e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697977,
+            "locality_id":1243066309,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1243066309,
+    "wof:lastmodified":1537677850,
+    "wof:name":"Mapid",
+    "wof:parent_id":1108697977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4493,
+    13.9617,
+    123.4493,
+    13.9617
+],
+  "geometry": {"coordinates":[123.44929999999999,13.9617],"type":"Point"}
+}

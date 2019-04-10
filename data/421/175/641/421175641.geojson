@@ -1,0 +1,74 @@
+{
+  "id": 421175641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0668,14.5679,121.0668,14.5679",
+    "geom:latitude":14.5679,
+    "geom:longitude":121.0668,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1729033,
+    "qs:gn_pop":0,
+    "qs:name":"Bagong Ilog",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"National Capital Region",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":383881,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1160543,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1159397243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729033,
+        "gp:id":1160543,
+        "qs:id":383881
+    },
+    "wof:country":"PH",
+    "wof:created":1459009074,
+    "wof:geomhash":"c3b9ab994956b409a419fa0bb7e98c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421175641,
+            "region_id":1159397243
+        }
+    ],
+    "wof:id":421175641,
+    "wof:lastmodified":1533169689,
+    "wof:name":"Bagong Ilog",
+    "wof:parent_id":1159397243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0668,
+    14.5679,
+    121.0668,
+    14.5679
+],
+  "geometry": {"coordinates":[121.0668,14.5679],"type":"Point"}
+}

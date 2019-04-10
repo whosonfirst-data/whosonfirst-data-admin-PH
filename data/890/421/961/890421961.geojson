@@ -1,0 +1,72 @@
+{
+  "id": 890421961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0484,9.9711,124.0484,9.9711",
+    "geom:latitude":9.9711,
+    "geom:longitude":124.0484,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2226,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Nahawan"
+    ],
+    "name:unk_x_variant":[
+        "Nahauan"
+    ],
+    "qs:name":"Nahawan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1698561,
+        "gp:id":1197919,
+        "qs:id":134770
+    },
+    "wof:country":"PH",
+    "wof:created":1469051420,
+    "wof:geomhash":"58ccd660cd1729d7d005c19c7ab9bdc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697353,
+            "locality_id":890421961,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890421961,
+    "wof:lastmodified":1505343466,
+    "wof:name":"Nahawan",
+    "wof:parent_id":1108697353,
+    "wof:placetype":"locality",
+    "wof:population":2226,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0484,
+    9.9711,
+    124.0484,
+    9.9711
+],
+  "geometry": {"coordinates":[124.0484,9.9711],"type":"Point"}
+}

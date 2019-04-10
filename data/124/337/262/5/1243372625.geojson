@@ -1,0 +1,72 @@
+{
+  "id": 1243372625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8669,15.875,120.8669,15.875",
+    "geom:latitude":15.875,
+    "geom:longitude":120.8669,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15544000.0",
+    "gn:asciiname":"Bongar",
+    "gn:country_code":"PH",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724082,
+    "gn:latitude":15.875,
+    "gn:longitude":120.8669,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bongar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bongar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724082
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"38a8744556e4a199f81121c23962e81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698163,
+            "locality_id":1243372625,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1243372625,
+    "wof:lastmodified":1537678509,
+    "wof:name":"Bongar",
+    "wof:parent_id":1108698163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8669,
+    15.875,
+    120.8669,
+    15.875
+],
+  "geometry": {"coordinates":[120.8669,15.875],"type":"Point"}
+}

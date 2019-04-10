@@ -1,0 +1,75 @@
+{
+  "id": 1327118289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1502,8.5219,123.1502,8.5219",
+    "geom:latitude":8.5219,
+    "geom:longitude":123.1502,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97207000.0",
+    "gn:asciiname":"Dopane",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6759462,
+    "gn:latitude":8.5219,
+    "gn:longitude":123.1502,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dopane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dopane"
+    ],
+    "name:und_x_variant":[
+        "Bayo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6759462
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"27deb52955fc3185e4b5030f7156c3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698369,
+            "locality_id":1327118289,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1327118289,
+    "wof:lastmodified":1537678829,
+    "wof:name":"Dopane",
+    "wof:parent_id":1108698369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1502,
+    8.5219,
+    123.1502,
+    8.5219
+],
+  "geometry": {"coordinates":[123.1502,8.5219],"type":"Point"}
+}

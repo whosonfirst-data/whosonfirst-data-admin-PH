@@ -1,0 +1,65 @@
+{
+  "id": 1209899473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.11667,5.01667,120.11667,5.01667",
+    "geom:latitude":5.01667,
+    "geom:longitude":120.11667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"72",
+    "gn:asciiname":"Bannaran",
+    "gn:country_code":"PH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727123,
+    "gn:latitude":5.01667,
+    "gn:longitude":120.11667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Bannaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bannaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727123
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"35580d479a70809bf2a492df4dfcdd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209899473,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209899473,
+    "wof:lastmodified":1537678596,
+    "wof:name":"Bannaran",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.11667,
+    5.01667,
+    120.11667,
+    5.01667
+],
+  "geometry": {"coordinates":[120.11667,5.01667],"type":"Point"}
+}

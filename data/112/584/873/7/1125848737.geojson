@@ -1,0 +1,84 @@
+{
+  "id": 1125848737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9279,16.4202,119.9279,16.4202",
+    "geom:latitude":16.4202,
+    "geom:longitude":119.9279,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3298,
+    "gn:population":3298,
+    "iso:country":"PH",
+    "lbl:latitude":16.4202,
+    "lbl:longitude":119.9279,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Binabalian Ricor"
+    ],
+    "name:unk_x_variant":[
+        "Binabalian"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1725210,
+    "qs_pg:gn_pop":3298,
+    "qs_pg:name":"Binabalian Ricor",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88283,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725210,
+        "qs_pg:id":88283
+    },
+    "wof:country":"PH",
+    "wof:created":1497293292,
+    "wof:geomhash":"714b85665556191f605714032a4bf4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698649,
+            "locality_id":1125848737,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1125848737,
+    "wof:lastmodified":1509395796,
+    "wof:name":"Binabalian Ricor",
+    "wof:parent_id":1108698649,
+    "wof:placetype":"locality",
+    "wof:population":3298,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9279,
+    16.4202,
+    119.9279,
+    16.4202
+],
+  "geometry": {"coordinates":[119.92789999999999,16.4202],"type":"Point"}
+}

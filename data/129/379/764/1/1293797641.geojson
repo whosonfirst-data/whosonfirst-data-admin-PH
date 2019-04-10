@@ -1,0 +1,79 @@
+{
+  "id": 1293797641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3454,16.7747,120.3454,16.7747",
+    "geom:latitude":16.7747,
+    "geom:longitude":120.3454,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13303000.0",
+    "gn:asciiname":"Ubbog",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680471,
+    "gn:latitude":16.7747,
+    "gn:longitude":120.3454,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ubbog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ubbog"
+    ],
+    "name:fil_x_variant":[
+        "Ubbug"
+    ],
+    "name:und_x_variant":[
+        "Ubbug",
+        "Ubbog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108696745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680471
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"247cc0175b2bf2536a8ec3f16b49d605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696745,
+            "locality_id":1293797641,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1293797641,
+    "wof:lastmodified":1537677264,
+    "wof:name":"Ubbog",
+    "wof:parent_id":1108696745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3454,
+    16.7747,
+    120.3454,
+    16.7747
+],
+  "geometry": {"coordinates":[120.3454,16.7747],"type":"Point"}
+}

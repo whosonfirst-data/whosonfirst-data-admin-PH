@@ -1,0 +1,72 @@
+{
+  "id": 1310706455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4,13.56667,123.4,13.56667",
+    "geom:latitude":13.56667,
+    "geom:longitude":123.4,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51725000.0",
+    "gn:asciiname":"America",
+    "gn:country_code":"PH",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1731065,
+    "gn:latitude":13.56667,
+    "gn:longitude":123.4,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"America",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "America"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731065
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"790886a845cede3ec83691f0e525e6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698889,
+            "locality_id":1310706455,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1310706455,
+    "wof:lastmodified":1537678712,
+    "wof:name":"America",
+    "wof:parent_id":1108698889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4,
+    13.56667,
+    123.4,
+    13.56667
+],
+  "geometry": {"coordinates":[123.40000000000001,13.56667],"type":"Point"}
+}

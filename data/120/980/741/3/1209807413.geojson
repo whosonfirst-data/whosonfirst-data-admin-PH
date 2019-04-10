@@ -1,0 +1,75 @@
+{
+  "id": 1209807413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0479,10.5701,122.0479,10.5701",
+    "geom:latitude":10.5701,
+    "geom:longitude":122.0479,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63040000.0",
+    "gn:asciiname":"San Pedro West",
+    "gn:country_code":"PH",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688778,
+    "gn:latitude":10.5701,
+    "gn:longitude":122.0479,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Pedro West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Pedro West"
+    ],
+    "name:und_x_variant":[
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688778
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7990f2182e2634f87f1ca0d68c43827a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699195,
+            "locality_id":1209807413,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1209807413,
+    "wof:lastmodified":1537677494,
+    "wof:name":"San Pedro West",
+    "wof:parent_id":1108699195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0479,
+    10.5701,
+    122.0479,
+    10.5701
+],
+  "geometry": {"coordinates":[122.0479,10.5701],"type":"Point"}
+}

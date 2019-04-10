@@ -1,0 +1,66 @@
+{
+  "id": 1209307533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.51639,12.45889,123.51639,12.45889",
+    "geom:latitude":12.45889,
+    "geom:longitude":123.51639,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54102000.0",
+    "gn:asciiname":"Bagapayong",
+    "gn:country_code":"PH",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1966422,
+    "gn:latitude":12.45889,
+    "gn:longitude":123.51639,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bagapayong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bagapayong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1966422
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3efd3ca9c034a18e81ea9630b925b754",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209307533
+        }
+    ],
+    "wof:id":1209307533,
+    "wof:lastmodified":1537678802,
+    "wof:name":"Bagapayong",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.51639,
+    12.45889,
+    123.51639,
+    12.45889
+],
+  "geometry": {"coordinates":[123.51639,12.45889],"type":"Point"}
+}

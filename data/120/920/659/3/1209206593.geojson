@@ -1,0 +1,66 @@
+{
+  "id": 1209206593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91731,11.88058,121.91731,11.88058",
+    "geom:latitude":11.88058,
+    "geom:longitude":121.91731,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60412000.0",
+    "gn:asciiname":"Habana",
+    "gn:country_code":"PH",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7406073,
+    "gn:latitude":11.88058,
+    "gn:longitude":121.91731,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Habana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Habana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7406073
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"12cbf743a49ef1d3276d8e9fcf6b9530",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209206593
+        }
+    ],
+    "wof:id":1209206593,
+    "wof:lastmodified":1537678845,
+    "wof:name":"Habana",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91731,
+    11.88058,
+    121.91731,
+    11.88058
+],
+  "geometry": {"coordinates":[121.91731,11.88058],"type":"Point"}
+}

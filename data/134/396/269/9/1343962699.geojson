@@ -1,0 +1,72 @@
+{
+  "id": 1343962699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2619,13.272,123.2619,13.272",
+    "geom:latitude":13.272,
+    "geom:longitude":123.2619,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51703000.0",
+    "gn:asciiname":"Payak",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425132,
+    "gn:latitude":13.272,
+    "gn:longitude":123.2619,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Payak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Payak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108696945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425132
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"852b3af88ff55f8589077475343fb2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696945,
+            "locality_id":1343962699,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1343962699,
+    "wof:lastmodified":1537678890,
+    "wof:name":"Payak",
+    "wof:parent_id":1108696945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2619,
+    13.272,
+    123.2619,
+    13.272
+],
+  "geometry": {"coordinates":[123.2619,13.272],"type":"Point"}
+}

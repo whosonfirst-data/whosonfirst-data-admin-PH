@@ -1,0 +1,66 @@
+{
+  "id": 890452391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.68333,13.93333,121.68333,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":121.68333,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4473,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Talipan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683911,
+        "gp:id":1158884,
+        "qs:id":134098
+    },
+    "wof:country":"PH",
+    "wof:created":1469052815,
+    "wof:geomhash":"a81ae58b53128f33a323b78cd5bdeb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698729,
+            "locality_id":890452391,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890452391,
+    "wof:lastmodified":1505343645,
+    "wof:name":"Talipan",
+    "wof:parent_id":1108698729,
+    "wof:placetype":"locality",
+    "wof:population":4473,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.68333,
+    13.93333,
+    121.68333,
+    13.93333
+],
+  "geometry": {"coordinates":[121.68333,13.93333],"type":"Point"}
+}

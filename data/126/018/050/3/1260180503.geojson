@@ -1,0 +1,74 @@
+{
+  "id": 1260180503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.45389,12.47333,123.45389,12.47333",
+    "geom:latitude":12.47333,
+    "geom:longitude":123.45389,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54102000.0",
+    "gn:asciiname":"Docol",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714313,
+    "gn:latitude":12.47333,
+    "gn:longitude":123.45389,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Docol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ducol",
+        "Docol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714313
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bff3fcfab0da209eeec51d6f0cb5e10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696825,
+            "locality_id":1260180503,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1260180503,
+    "wof:lastmodified":1537678219,
+    "wof:name":"Docol",
+    "wof:parent_id":1108696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.45389,
+    12.47333,
+    123.45389,
+    12.47333
+],
+  "geometry": {"coordinates":[123.45389,12.47333],"type":"Point"}
+}

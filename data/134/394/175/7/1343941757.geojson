@@ -1,0 +1,75 @@
+{
+  "id": 1343941757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3372,8.5822,123.3372,8.5822",
+    "geom:latitude":8.5822,
+    "geom:longitude":123.3372,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97202000.0",
+    "gn:asciiname":"Mipotak",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1699513,
+    "gn:latitude":8.5822,
+    "gn:longitude":123.3372,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mipotak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mipotak"
+    ],
+    "name:und_x_variant":[
+        "Miputak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108697507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1699513
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e8867ab72d16400a8131845b2618694a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697507,
+            "locality_id":1343941757,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1343941757,
+    "wof:lastmodified":1537677804,
+    "wof:name":"Mipotak",
+    "wof:parent_id":1108697507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3372,
+    8.5822,
+    123.3372,
+    8.5822
+],
+  "geometry": {"coordinates":[123.3372,8.5822],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259456321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8755,7.7027,123.8755,7.7027",
+    "geom:latitude":7.7027,
+    "geom:longitude":123.8755,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35",
+    "gn:admin3_code":"153635000.0",
+    "gn:asciiname":"Maganding",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958587,
+    "gn:latitude":7.7027,
+    "gn:longitude":123.8755,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maganding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maganding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676169,
+        1108699559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958587
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d7b8cbf17bb2b18e64952872e8f1031d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699559,
+            "locality_id":1259456321,
+            "region_id":85676169
+        }
+    ],
+    "wof:id":1259456321,
+    "wof:lastmodified":1537678788,
+    "wof:name":"Maganding",
+    "wof:parent_id":1108699559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8755,
+    7.7027,
+    123.8755,
+    7.7027
+],
+  "geometry": {"coordinates":[123.8755,7.7027],"type":"Point"}
+}

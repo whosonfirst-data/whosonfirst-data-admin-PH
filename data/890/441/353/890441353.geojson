@@ -1,0 +1,74 @@
+{
+  "id": 890441353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7379,10.23078,123.7379,10.23078",
+    "geom:latitude":10.23078,
+    "geom:longitude":123.7379,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4063,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Pangdan"
+    ],
+    "name:unk_x_variant":[
+        "Pandan"
+    ],
+    "qs:name":"Pangdan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1044,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108698537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695330,
+        "gp:id":1186530,
+        "qs:id":276994,
+        "wk:page":"Pangdan"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052320,
+    "wof:geomhash":"81c0511bcbf526be1518ef509f3d1345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698537,
+            "locality_id":890441353,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890441353,
+    "wof:lastmodified":1527727226,
+    "wof:name":"Pangdan",
+    "wof:parent_id":1108698537,
+    "wof:placetype":"locality",
+    "wof:population":4063,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7379,
+    10.23078,
+    123.7379,
+    10.23078
+],
+  "geometry": {"coordinates":[123.7379,10.23078],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259778705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.458,11.7038,124.458,11.7038",
+    "geom:latitude":11.7038,
+    "geom:longitude":124.458,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"H9",
+    "gn:admin3_code":"87806000.0",
+    "gn:asciiname":"Ungale",
+    "gn:country_code":"PH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680294,
+    "gn:latitude":11.7038,
+    "gn:longitude":124.458,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ungale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "U\u00f1gale"
+    ],
+    "name:fil_x_preferred":[
+        "Ungale"
+    ],
+    "name:und_x_variant":[
+        "U\u00f1gale",
+        "Ungala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676187,
+        1108697909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680294
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cf273cdea2bfe72bb923279e72b4db73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697909,
+            "locality_id":1259778705,
+            "region_id":85676187
+        }
+    ],
+    "wof:id":1259778705,
+    "wof:lastmodified":1537677257,
+    "wof:name":"Ungale",
+    "wof:parent_id":1108697909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.458,
+    11.7038,
+    124.458,
+    11.7038
+],
+  "geometry": {"coordinates":[124.458,11.7038],"type":"Point"}
+}

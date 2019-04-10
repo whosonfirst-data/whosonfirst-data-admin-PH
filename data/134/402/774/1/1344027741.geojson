@@ -1,0 +1,75 @@
+{
+  "id": 1344027741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8874,16.9169,120.8874,16.9169",
+    "geom:latitude":16.9169,
+    "geom:longitude":120.8874,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"144402000.0",
+    "gn:asciiname":"Mabaay",
+    "gn:country_code":"PH",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700100,
+    "gn:latitude":16.9169,
+    "gn:longitude":120.8874,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabaay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mabaay"
+    ],
+    "name:fil_x_variant":[
+        "Mayabay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676079,
+        1108696961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700100
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8d358d46e529e4f7aa5d61dd809d8ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696961,
+            "locality_id":1344027741,
+            "region_id":85676079
+        }
+    ],
+    "wof:id":1344027741,
+    "wof:lastmodified":1537677819,
+    "wof:name":"Mabaay",
+    "wof:parent_id":1108696961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8874,
+    16.9169,
+    120.8874,
+    16.9169
+],
+  "geometry": {"coordinates":[120.8874,16.9169],"type":"Point"}
+}

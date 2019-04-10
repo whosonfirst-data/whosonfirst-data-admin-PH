@@ -1,0 +1,72 @@
+{
+  "id": 1326931617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6949,15.5791,120.6949,15.5791",
+    "geom:latitude":15.5791,
+    "geom:longitude":120.6949,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36917000.0",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688374,
+    "gn:latitude":15.5791,
+    "gn:longitude":120.6949,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Barbara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Barbara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676097,
+        1108699855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688374
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"640a73675740ef3ec5f8bb454c669ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699855,
+            "locality_id":1326931617,
+            "region_id":85676097
+        }
+    ],
+    "wof:id":1326931617,
+    "wof:lastmodified":1537677479,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":1108699855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6949,
+    15.5791,
+    120.6949,
+    15.5791
+],
+  "geometry": {"coordinates":[120.6949,15.5791],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293276217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3381,7.8761,123.3381,7.8761",
+    "geom:latitude":7.8761,
+    "geom:longitude":123.3381,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"66",
+    "gn:admin3_code":"97322000.0",
+    "gn:asciiname":"Lapidian",
+    "gn:country_code":"PH",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1958459,
+    "gn:latitude":7.8761,
+    "gn:longitude":123.3381,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lapidian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        890429639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1958459
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3578c3edaca22378cbf967f2d8ca3f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890429639,
+            "locality_id":1293276217,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1293276217,
+    "wof:lastmodified":1537088441,
+    "wof:name":"Lapidian",
+    "wof:parent_id":890429639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3381,
+    7.8761,
+    123.3381,
+    7.8761
+],
+  "geometry": {"coordinates":[123.3381,7.8761],"type":"Point"}
+}

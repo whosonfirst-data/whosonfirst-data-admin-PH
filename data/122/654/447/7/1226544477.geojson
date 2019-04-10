@@ -1,0 +1,66 @@
+{
+  "id": 1226544477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3734,12.5407,123.3734,12.5407",
+    "geom:latitude":12.5407,
+    "geom:longitude":123.3734,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54101000.0",
+    "gn:asciiname":"Colorado",
+    "gn:country_code":"PH",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717110,
+    "gn:latitude":12.5407,
+    "gn:longitude":123.3734,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Colorado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Colorado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717110
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fc3bc217f122300b49eb8555b37f6a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226544477,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226544477,
+    "wof:lastmodified":1537678295,
+    "wof:name":"Colorado",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3734,
+    12.5407,
+    123.3734,
+    12.5407
+],
+  "geometry": {"coordinates":[123.3734,12.5407],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310199299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.40313,9.99181,123.40313,9.99181",
+    "geom:latitude":9.99181,
+    "geom:longitude":123.40313,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72239000.0",
+    "gn:asciiname":"Palanas",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1696294,
+    "gn:latitude":9.99181,
+    "gn:longitude":123.40313,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Palanas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palanas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696294
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a1db94ceefeb880edd536e3ff0d3ba53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696607,
+            "locality_id":1310199299,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1310199299,
+    "wof:lastmodified":1537677708,
+    "wof:name":"Palanas",
+    "wof:parent_id":1108696607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.40313,
+    9.99181,
+    123.40313,
+    9.99181
+],
+  "geometry": {"coordinates":[123.40313,9.99181],"type":"Point"}
+}

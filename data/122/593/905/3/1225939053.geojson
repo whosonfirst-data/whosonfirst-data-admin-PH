@@ -1,0 +1,75 @@
+{
+  "id": 1225939053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.74361,11.59083,122.74361,11.59083",
+    "geom:latitude":11.59083,
+    "geom:longitude":122.74361,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61914000.0",
+    "gn:asciiname":"Tanque",
+    "gn:country_code":"PH",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683056,
+    "gn:latitude":11.59083,
+    "gn:longitude":122.74361,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tanque",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tanque"
+    ],
+    "name:und_x_variant":[
+        "Tangue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        890415145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683056
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7c13c8b4996b2fc34f4467c3e8202beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890415145,
+            "locality_id":1225939053,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":1225939053,
+    "wof:lastmodified":1537677332,
+    "wof:name":"Tanque",
+    "wof:parent_id":890415145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.74361,
+    11.59083,
+    122.74361,
+    11.59083
+],
+  "geometry": {"coordinates":[122.74361,11.59083],"type":"Point"}
+}

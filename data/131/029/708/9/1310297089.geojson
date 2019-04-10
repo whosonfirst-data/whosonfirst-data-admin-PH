@@ -1,0 +1,76 @@
+{
+  "id": 1310297089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.35,10.76945,122.35,10.76945",
+    "geom:latitude":10.76945,
+    "geom:longitude":122.35,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63028000.0",
+    "gn:asciiname":"Lonoc-Binolbog",
+    "gn:country_code":"PH",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705688,
+    "gn:latitude":10.76945,
+    "gn:longitude":122.35,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lonoc-Binolbog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lonoc-Binolbog"
+    ],
+    "name:und_x_variant":[
+        "Binolbog",
+        "Lonoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705688
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"78c27f5572791f0aa6ccc0eb7b2bfcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699789,
+            "locality_id":1310297089,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1310297089,
+    "wof:lastmodified":1537677975,
+    "wof:name":"Lonoc-Binolbog",
+    "wof:parent_id":1108699789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.35,
+    10.76945,
+    122.35,
+    10.76945
+],
+  "geometry": {"coordinates":[122.34999999999999,10.76945],"type":"Point"}
+}

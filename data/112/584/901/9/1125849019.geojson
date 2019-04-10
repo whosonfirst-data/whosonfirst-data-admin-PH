@@ -1,0 +1,81 @@
+{
+  "id": 1125849019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2396,8.0063,123.2396,8.0063",
+    "geom:latitude":8.0063,
+    "geom:longitude":123.2396,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2691,
+    "gn:population":2691,
+    "iso:country":"PH",
+    "lbl:latitude":8.0063,
+    "lbl:longitude":123.2396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Balagon"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1728590,
+    "qs_pg:gn_pop":2691,
+    "qs_pg:name":"Balagon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":88429,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675967,
+        1108698473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728590,
+        "qs_pg:id":88429
+    },
+    "wof:country":"PH",
+    "wof:created":1497293304,
+    "wof:geomhash":"b757dc9dec03717345b0b8f3d978d850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698473,
+            "locality_id":1125849019,
+            "region_id":85675967
+        }
+    ],
+    "wof:id":1125849019,
+    "wof:lastmodified":1509395811,
+    "wof:name":"Balagon",
+    "wof:parent_id":1108698473,
+    "wof:placetype":"locality",
+    "wof:population":2691,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2396,
+    8.0063,
+    123.2396,
+    8.0063
+],
+  "geometry": {"coordinates":[123.2396,8.0063],"type":"Point"}
+}

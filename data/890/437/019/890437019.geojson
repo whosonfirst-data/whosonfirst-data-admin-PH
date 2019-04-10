@@ -1,0 +1,69 @@
+{
+  "id": 890437019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35913,15.98154,120.35913,15.98154",
+    "geom:latitude":15.98154,
+    "geom:longitude":120.35913,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3618,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malabago"
+    ],
+    "qs:name":"Malabago",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108697209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703372,
+        "gp:id":1170380,
+        "qs:id":1032491
+    },
+    "wof:country":"PH",
+    "wof:created":1469052135,
+    "wof:geomhash":"ceec1ce5408fef7a58ff58b10bd94e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697209,
+            "locality_id":890437019,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890437019,
+    "wof:lastmodified":1505343557,
+    "wof:name":"Malabago",
+    "wof:parent_id":1108697209,
+    "wof:placetype":"locality",
+    "wof:population":3618,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35913,
+    15.98154,
+    120.35913,
+    15.98154
+],
+  "geometry": {"coordinates":[120.35912999999999,15.98154],"type":"Point"}
+}

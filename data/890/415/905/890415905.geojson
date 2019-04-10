@@ -1,0 +1,69 @@
+{
+  "id": 890415905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7422,11.422,122.7422,11.422",
+    "geom:latitude":11.422,
+    "geom:longitude":122.7422,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2302,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lacaron"
+    ],
+    "qs:name":"Lacaron",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108697441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708220,
+        "gp:id":1166935,
+        "qs:id":135145
+    },
+    "wof:country":"PH",
+    "wof:created":1469051110,
+    "wof:geomhash":"d8e0099bf18b0ad2417ffbddbb6b0700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697441,
+            "locality_id":890415905,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":890415905,
+    "wof:lastmodified":1505343428,
+    "wof:name":"Lacaron",
+    "wof:parent_id":1108697441,
+    "wof:placetype":"locality",
+    "wof:population":2302,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7422,
+    11.422,
+    122.7422,
+    11.422
+],
+  "geometry": {"coordinates":[122.7422,11.422],"type":"Point"}
+}

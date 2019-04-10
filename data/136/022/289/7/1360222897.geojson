@@ -1,0 +1,74 @@
+{
+  "id": 1360222897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75389,14.32194,120.75389,14.32194",
+    "geom:latitude":14.32194,
+    "geom:longitude":120.75389,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42115000.0",
+    "gn:asciiname":"Sapa",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687216,
+    "gn:latitude":14.32194,
+    "gn:longitude":120.75389,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sapo",
+        "Sapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676127,
+        1108698551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687216
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"798f719a2c3162eacba22ee31493b61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698551,
+            "locality_id":1360222897,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1360222897,
+    "wof:lastmodified":1537677441,
+    "wof:name":"Sapa",
+    "wof:parent_id":1108698551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75388999999998,
+    14.32194,
+    120.75388999999998,
+    14.32194
+],
+  "geometry": {"coordinates":[120.75388999999998,14.32194],"type":"Point"}
+}

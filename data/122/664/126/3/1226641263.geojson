@@ -1,0 +1,77 @@
+{
+  "id": 1226641263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.03444,8.01333,124.03444,8.01333",
+    "geom:latitude":8.01333,
+    "geom:longitude":124.03444,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103514000.0",
+    "gn:asciiname":"Tankal",
+    "gn:country_code":"PH",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683168,
+    "gn:latitude":8.01333,
+    "gn:longitude":124.03444,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tankal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tankal"
+    ],
+    "name:und_x_variant":[
+        "Tangcal",
+        "Tangkal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108699679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683168,
+        "wk:page":"Tangcal%2C_Lanao_del_Norte"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"be4dba4717014ca6d513b318b2bd1895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699679,
+            "locality_id":1226641263,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1226641263,
+    "wof:lastmodified":1537677335,
+    "wof:name":"Tankal",
+    "wof:parent_id":1108699679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.03444,
+    8.01333,
+    124.03444,
+    8.01333
+],
+  "geometry": {"coordinates":[124.03444,8.01333],"type":"Point"}
+}

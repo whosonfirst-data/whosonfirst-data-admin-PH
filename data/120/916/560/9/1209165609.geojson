@@ -1,0 +1,65 @@
+{
+  "id": 1209165609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9745,13.5174,120.9745,13.5174",
+    "geom:latitude":13.5174,
+    "geom:longitude":120.9745,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:asciiname":"Sinandigan",
+    "gn:country_code":"PH",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390553,
+    "gn:latitude":13.5174,
+    "gn:longitude":120.9745,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sinandigan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sinandigan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390553
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4d12277946e2b0d13b0faa199b2d90d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209165609
+        }
+    ],
+    "wof:id":1209165609,
+    "wof:lastmodified":1537678838,
+    "wof:name":"Sinandigan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9745,
+    13.5174,
+    120.9745,
+    13.5174
+],
+  "geometry": {"coordinates":[120.97450000000001,13.5174],"type":"Point"}
+}

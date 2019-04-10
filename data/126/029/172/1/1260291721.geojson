@@ -1,0 +1,82 @@
+{
+  "id": 1260291721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8857,15.6551,120.8857,15.6551",
+    "geom:latitude":15.6551,
+    "geom:longitude":120.8857,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34929000.0",
+    "gn:asciiname":"Malayantoc",
+    "gn:country_code":"PH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702942,
+    "gn:latitude":15.6551,
+    "gn:longitude":120.8857,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malayantoc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malayatoc"
+    ],
+    "name:fil_x_variant":[
+        "Malayantok",
+        "Malayantoc"
+    ],
+    "name:und_x_variant":[
+        "Malayatoc",
+        "Malayantok",
+        "Malayantoc",
+        "Mayantoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702942
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"41efd55a135ae28137f044085f2744a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699421,
+            "locality_id":1260291721,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1260291721,
+    "wof:lastmodified":1537677898,
+    "wof:name":"Malayantoc",
+    "wof:parent_id":1108699421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8857,
+    15.6551,
+    120.8857,
+    15.6551
+],
+  "geometry": {"coordinates":[120.8857,15.6551],"type":"Point"}
+}

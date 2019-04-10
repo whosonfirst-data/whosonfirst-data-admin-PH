@@ -1,0 +1,71 @@
+{
+  "id": 890442951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5,16.85,120.5,16.85",
+    "geom:latitude":16.85,
+    "geom:longitude":120.5,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":16334,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "San Rafael"
+    ],
+    "qs:name":"Sudipen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":403,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685533,
+        "qs:id":371460,
+        "wd:id":"Q40557",
+        "wk:page":"Sudipen"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052390,
+    "wof:geomhash":"d10317c45224588dce090182a88bec7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699547,
+            "localadmin_id":890442951,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":890442951,
+    "wof:lastmodified":1527792857,
+    "wof:name":"Sudipen",
+    "wof:parent_id":1108699547,
+    "wof:placetype":"localadmin",
+    "wof:population":16334,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5,
+    16.85,
+    120.5,
+    16.85
+],
+  "geometry": {"coordinates":[120.5,16.85],"type":"Point"}
+}

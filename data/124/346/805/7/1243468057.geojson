@@ -1,0 +1,78 @@
+{
+  "id": 1243468057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.07764,16.07322,120.07764,16.07322",
+    "geom:latitude":16.07322,
+    "geom:longitude":120.07764,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15542000.0",
+    "gn:asciiname":"Casinoro",
+    "gn:country_code":"PH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716779,
+    "gn:latitude":16.07322,
+    "gn:longitude":120.07764,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Casinoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Casinoro"
+    ],
+    "name:und_x_variant":[
+        "Matalaquitic",
+        "Cocinero",
+        "Cosinero",
+        "Cosinoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716779
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0890b03f8b05d514fa43914c918ab9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699543,
+            "locality_id":1243468057,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1243468057,
+    "wof:lastmodified":1537678286,
+    "wof:name":"Casinoro",
+    "wof:parent_id":1108699543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.07764,
+    16.07322000000001,
+    120.07764,
+    16.07322000000001
+],
+  "geometry": {"coordinates":[120.07764,16.07322000000001],"type":"Point"}
+}

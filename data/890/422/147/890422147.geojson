@@ -1,0 +1,74 @@
+{
+  "id": 890422147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7349,7.8742,123.7349,7.8742",
+    "geom:latitude":7.8742,
+    "geom:longitude":123.7349,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":46874,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Municipality of Kapatagan"
+    ],
+    "name:unk_x_variant":[
+        "Kapatagan"
+    ],
+    "qs:name":"Municipality of Kapatagan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":346,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108697897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709250,
+        "qs:id":1031199,
+        "wd:id":"Q274215",
+        "wk:page":"Lala, Lanao del Norte"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051430,
+    "wof:geomhash":"073d9444b16a495e67ffd1e218d128f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697897,
+            "localadmin_id":890422147,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":890422147,
+    "wof:lastmodified":1527727165,
+    "wof:name":"Municipality of Kapatagan",
+    "wof:parent_id":1108697897,
+    "wof:placetype":"localadmin",
+    "wof:population":46874,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7349,
+    7.8742,
+    123.7349,
+    7.8742
+],
+  "geometry": {"coordinates":[123.7349,7.8742],"type":"Point"}
+}

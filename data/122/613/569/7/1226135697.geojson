@@ -1,0 +1,72 @@
+{
+  "id": 1226135697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8654,11.9035,123.8654,11.9035",
+    "geom:latitude":11.9035,
+    "geom:longitude":123.8654,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54117000.0",
+    "gn:asciiname":"Daraga",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715508,
+    "gn:latitude":11.9035,
+    "gn:longitude":123.8654,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Daraga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Daraga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715508
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"44d6818f7d9df231d472a9dc782c1b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698915,
+            "locality_id":1226135697,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1226135697,
+    "wof:lastmodified":1537678249,
+    "wof:name":"Daraga",
+    "wof:parent_id":1108698915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8654,
+    11.9035,
+    123.8654,
+    11.9035
+],
+  "geometry": {"coordinates":[123.86539999999999,11.9035],"type":"Point"}
+}

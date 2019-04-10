@@ -1,0 +1,121 @@
+{
+  "id": 85902775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":33358825.425359,
+    "geom:bbox":"120.896354,14.477141,120.896354,14.477141",
+    "geom:latitude":14.477141,
+    "geom:longitude":120.896354,
+    "gn:latitude":14.48806,
+    "gn:longitude":120.89528,
+    "iso:country":"PH",
+    "lbl:latitude":14.477141,
+    "lbl:longitude":120.896354,
+    "mps:latitude":14.482879,
+    "mps:longitude":120.897354,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "Ca\u00f1acao Bay"
+    ],
+    "name:fil_x_preferred":[
+        "Ca\u00f1acao"
+    ],
+    "name:spa_x_preferred":[
+        "Bah\u00eda de Ca\u00f1acao"
+    ],
+    "name:und_x_colloquial":[
+        "Canacao",
+        "Canyacao"
+    ],
+    "name:und_x_preferred":[
+        "Ca\u00f1acao"
+    ],
+    "name:unk_x_variant":[
+        "Ca\u00f1acao"
+    ],
+    "qs:gn_adm0_cc":"PH",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1717641,
+    "qs:gn_nam_loc":"Cavite City, Cavite, Calabarzon, PH",
+    "qs:gn_namadm1":"40",
+    "qs:gn_name":"Ca\u00f1acao",
+    "qs:local_max":1181,
+    "qs:local_sum":1181,
+    "qs:localhoods":1,
+    "qs:name":"Ca\u00f1acao",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Calabarzon",
+    "qs:name_adm2":"Cavite",
+    "qs:name_local":"Cavite City",
+    "qs:photo_max":341,
+    "qs:photo_sum":1181,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":35,
+    "qs:woe_adm0":23424934,
+    "qs:woe_adm1":23424717,
+    "qs:woe_adm2":2346675,
+    "qs:woe_lau":0,
+    "qs:woe_local":1199077,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":170,
+    "wof:belongs_to":[],
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719508,
+        "gp:id":1168253,
+        "qs:id":427029,
+        "wd:id":"Q5055560"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b1220c014bbb30f9799fd4f6a599e3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85902775,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85902775,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1534379405,
+    "wof:name":"Ca\u00f1acao",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[
+        1126105187
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.896354,
+    14.477141,
+    120.896354,
+    14.477141
+],
+  "geometry": {"coordinates":[120.896354,14.477141],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259871565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0345,11.7412,122.0345,11.7412",
+    "geom:latitude":11.7412,
+    "geom:longitude":122.0345,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60611000.0",
+    "gn:asciiname":"Dayong",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714001,
+    "gn:latitude":11.7412,
+    "gn:longitude":122.0345,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dayong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dayong"
+    ],
+    "name:und_x_variant":[
+        "Duyang",
+        "Duyong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108698775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714001
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1e534dfa83c773f5c0c13726b20d2d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698775,
+            "locality_id":1259871565,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1259871565,
+    "wof:lastmodified":1537678211,
+    "wof:name":"Dayong",
+    "wof:parent_id":1108698775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0345,
+    11.7412,
+    122.0345,
+    11.7412
+],
+  "geometry": {"coordinates":[122.03449999999999,11.7412],"type":"Point"}
+}

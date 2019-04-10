@@ -1,0 +1,66 @@
+{
+  "id": 1209184633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09583,6.08639,121.09583,6.08639",
+    "geom:latitude":6.08639,
+    "geom:longitude":121.09583,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156611000.0",
+    "gn:asciiname":"Igasan",
+    "gn:country_code":"PH",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711308,
+    "gn:latitude":6.08639,
+    "gn:longitude":121.09583,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Igasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Igasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711308
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8773b28687b881fd72924ad674b46d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209184633
+        }
+    ],
+    "wof:id":1209184633,
+    "wof:lastmodified":1537678135,
+    "wof:name":"Igasan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09583,
+    6.08639,
+    121.09583,
+    6.08639
+],
+  "geometry": {"coordinates":[121.09583000000001,6.08639],"type":"Point"}
+}

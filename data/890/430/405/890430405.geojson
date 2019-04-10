@@ -1,0 +1,67 @@
+{
+  "id": 890430405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81543,7.45099,125.81543,7.45099",
+    "geom:latitude":7.45099,
+    "geom:longitude":125.81543,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":847440,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Davao Province"
+    ],
+    "qs:name":"Province of Davao del Norte",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715347,
+        "qs:id":87901
+    },
+    "wof:country":"PH",
+    "wof:created":1469051851,
+    "wof:geomhash":"f9361446a187ee3960c2c747535ead0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890430405,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":890430405,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Province of Davao del Norte",
+    "wof:parent_id":85676231,
+    "wof:placetype":"county",
+    "wof:population":847440,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81543,
+    7.45099,
+    125.81543,
+    7.45099
+],
+  "geometry": {"coordinates":[125.81543000000001,7.45099],"type":"Point"}
+}

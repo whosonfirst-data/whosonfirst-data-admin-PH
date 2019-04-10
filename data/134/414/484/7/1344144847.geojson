@@ -1,0 +1,74 @@
+{
+  "id": 1344144847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.31028,6.43167,125.31028,6.43167",
+    "geom:latitude":6.43167,
+    "geom:longitude":125.31028,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"25",
+    "gn:asciiname":"Cogon-Malalag",
+    "gn:country_code":"PH",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717270,
+    "gn:latitude":6.43167,
+    "gn:longitude":125.31028,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cogon-Malalag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cogon-Malalag"
+    ],
+    "name:und_x_variant":[
+        "Cogon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676253,
+        1108698323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1717270
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d7b4bc64c96cac2b0e93671c20ed3daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698323,
+            "locality_id":1344144847,
+            "region_id":85676253
+        }
+    ],
+    "wof:id":1344144847,
+    "wof:lastmodified":1537678300,
+    "wof:name":"Cogon-Malalag",
+    "wof:parent_id":1108698323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.31028,
+    6.43167,
+    125.31028,
+    6.43167
+],
+  "geometry": {"coordinates":[125.31028000000001,6.43167],"type":"Point"}
+}

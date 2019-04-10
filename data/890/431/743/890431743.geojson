@@ -1,0 +1,69 @@
+{
+  "id": 890431743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.39944,8.95722,125.39944,8.95722",
+    "geom:latitude":8.95722,
+    "geom:longitude":125.39944,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3570,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Matabao"
+    ],
+    "qs:name":"Matabao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676213,
+        1108697077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700547,
+        "gp:id":1158332,
+        "qs:id":277046
+    },
+    "wof:country":"PH",
+    "wof:created":1469051911,
+    "wof:geomhash":"799cbc014ca9f57dfcede4809b203182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697077,
+            "locality_id":890431743,
+            "region_id":85676213
+        }
+    ],
+    "wof:id":890431743,
+    "wof:lastmodified":1505343525,
+    "wof:name":"Matabao",
+    "wof:parent_id":1108697077,
+    "wof:placetype":"locality",
+    "wof:population":3570,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.39944,
+    8.95722,
+    125.39944,
+    8.95722
+],
+  "geometry": {"coordinates":[125.39944,8.95722],"type":"Point"}
+}

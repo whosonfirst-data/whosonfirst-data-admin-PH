@@ -1,0 +1,68 @@
+{
+  "id": 890433061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.98333,9.75,123.98333,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":123.98333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":18733,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balilihan"
+    ],
+    "qs:name":"Balilihan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108696839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728135,
+        "qs:id":88420
+    },
+    "wof:country":"PH",
+    "wof:created":1469051965,
+    "wof:geomhash":"36f40ea7848155df8c7602b75fa35750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696839,
+            "localadmin_id":890433061,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":890433061,
+    "wof:lastmodified":1505343533,
+    "wof:name":"Balilihan",
+    "wof:parent_id":1108696839,
+    "wof:placetype":"localadmin",
+    "wof:population":18733,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.98333,
+    9.75,
+    123.98333,
+    9.75
+],
+  "geometry": {"coordinates":[123.98333,9.75],"type":"Point"}
+}

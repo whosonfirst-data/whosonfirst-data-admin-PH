@@ -1,0 +1,72 @@
+{
+  "id": 1226272313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.66833,11.27389,119.66833,11.27389",
+    "geom:latitude":11.27389,
+    "geom:longitude":119.66833,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175313000.0",
+    "gn:asciiname":"Pinamalayan",
+    "gn:country_code":"PH",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693619,
+    "gn:latitude":11.27389,
+    "gn:longitude":119.66833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pinamalayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pinamalayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108698647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693619
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1943611cf660346f710d743caa8c8788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698647,
+            "locality_id":1226272313,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1226272313,
+    "wof:lastmodified":1537677635,
+    "wof:name":"Pinamalayan",
+    "wof:parent_id":1108698647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.66833,
+    11.27389,
+    119.66833,
+    11.27389
+],
+  "geometry": {"coordinates":[119.66833,11.27389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343967125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3419,16.3042,120.3419,16.3042",
+    "geom:latitude":16.3042,
+    "geom:longitude":120.3419,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13301000.0",
+    "gn:asciiname":"Baybay",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725788,
+    "gn:latitude":16.3042,
+    "gn:longitude":120.3419,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baybay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Baybay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108696571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725788
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b498bdd64a2550ed17e40a2132f7a7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696571,
+            "locality_id":1343967125,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1343967125,
+    "wof:lastmodified":1537678557,
+    "wof:name":"Baybay",
+    "wof:parent_id":1108696571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3419,
+    16.3042,
+    120.3419,
+    16.3042
+],
+  "geometry": {"coordinates":[120.3419,16.3042],"type":"Point"}
+}

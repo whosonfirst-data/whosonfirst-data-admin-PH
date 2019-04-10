@@ -1,0 +1,68 @@
+{
+  "id": 890432965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.93333,11.83333,121.93333,11.83333",
+    "geom:latitude":11.83333,
+    "geom:longitude":121.93333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":15985,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buruanga"
+    ],
+    "qs:name":"Buruanga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108697135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722366,
+        "qs:id":88168
+    },
+    "wof:country":"PH",
+    "wof:created":1469051961,
+    "wof:geomhash":"2a37217f6112780bfd8c938589b6edd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697135,
+            "localadmin_id":890432965,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":890432965,
+    "wof:lastmodified":1505343532,
+    "wof:name":"Buruanga",
+    "wof:parent_id":1108697135,
+    "wof:placetype":"localadmin",
+    "wof:population":15985,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.93333,
+    11.83333,
+    121.93333,
+    11.83333
+],
+  "geometry": {"coordinates":[121.93333,11.83333],"type":"Point"}
+}

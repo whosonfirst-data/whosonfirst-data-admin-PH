@@ -1,0 +1,71 @@
+{
+  "id": 890440463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39057,15.98814,120.39057,15.98814",
+    "geom:latitude":15.98814,
+    "geom:longitude":120.39057,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2347,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Songuil"
+    ],
+    "name:unk_x_variant":[
+        "Sanquil"
+    ],
+    "qs:name":"Sonquil",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688692,
+        "qs:id":134296
+    },
+    "wof:country":"PH",
+    "wof:created":1469052278,
+    "wof:geomhash":"9453b790b1c8de1e0f6ef90bfa843dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699339,
+            "locality_id":890440463,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890440463,
+    "wof:lastmodified":1505343577,
+    "wof:name":"Sonquil",
+    "wof:parent_id":1108699339,
+    "wof:placetype":"locality",
+    "wof:population":2347,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39057,
+    15.98814,
+    120.39057,
+    15.98814
+],
+  "geometry": {"coordinates":[120.39057,15.98814],"type":"Point"}
+}

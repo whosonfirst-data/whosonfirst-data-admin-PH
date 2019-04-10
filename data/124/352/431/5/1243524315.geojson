@@ -1,0 +1,75 @@
+{
+  "id": 1243524315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12064,16.81256,121.12064,16.81256",
+    "geom:latitude":16.81256,
+    "geom:longitude":121.12064,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"142704000.0",
+    "gn:asciiname":"Banaao",
+    "gn:country_code":"PH",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727571,
+    "gn:latitude":16.81256,
+    "gn:longitude":121.12064,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Banaao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Banao"
+    ],
+    "name:fil_x_variant":[
+        "Banaao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108697971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727571
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"572430134c83a0d9035db539376e64ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697971,
+            "locality_id":1243524315,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1243524315,
+    "wof:lastmodified":1537678610,
+    "wof:name":"Banaao",
+    "wof:parent_id":1108697971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12064,
+    16.81256,
+    121.12064,
+    16.81256
+],
+  "geometry": {"coordinates":[121.12063999999999,16.81256],"type":"Point"}
+}

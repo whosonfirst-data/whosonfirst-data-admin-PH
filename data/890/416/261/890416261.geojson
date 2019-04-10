@@ -1,0 +1,69 @@
+{
+  "id": 890416261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.41667,10.68333,122.41667,10.68333",
+    "geom:latitude":10.68333,
+    "geom:longitude":122.41667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2362,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Atabayan"
+    ],
+    "qs:name":"Atabayan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730010,
+        "gp:id":1162587,
+        "qs:id":135990
+    },
+    "wof:country":"PH",
+    "wof:created":1469051126,
+    "wof:geomhash":"dd73a4ae2b2329338b886b6ae4d68710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699727,
+            "locality_id":890416261,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890416261,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Atabayan",
+    "wof:parent_id":1108699727,
+    "wof:placetype":"locality",
+    "wof:population":2362,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.41667,
+    10.68333,
+    122.41667,
+    10.68333
+],
+  "geometry": {"coordinates":[122.41667,10.68333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259967637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38333,5.4,125.38333,5.4",
+    "geom:latitude":5.4,
+    "geom:longitude":125.38333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"P3",
+    "gn:admin3_code":"118605000.0",
+    "gn:asciiname":"Balut Island",
+    "gn:country_code":"PH",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727703,
+    "gn:latitude":5.4,
+    "gn:longitude":125.38333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balut Island",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balut Island"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727703
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c900fbd3f49d06ac1be4990605ac3e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":1259967637,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":1259967637,
+    "wof:lastmodified":1537678615,
+    "wof:name":"Balut Island",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38333,
+    5.4,
+    125.38333,
+    5.4
+],
+  "geometry": {"coordinates":[125.38333,5.4],"type":"Point"}
+}

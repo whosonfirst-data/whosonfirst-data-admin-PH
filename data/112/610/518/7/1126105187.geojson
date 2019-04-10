@@ -1,0 +1,114 @@
+{
+  "id": 1126105187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89528,14.48806,120.89528,14.48806",
+    "geom:latitude":14.48806,
+    "geom:longitude":120.89528,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":14.48806,
+    "gn:longitude":120.89528,
+    "iso:country":"PH",
+    "lbl:latitude":14.48806,
+    "lbl:longitude":120.89528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Ca\u00f1acao Bay"
+    ],
+    "name:fil_x_preferred":[
+        "Ca\u00f1acao"
+    ],
+    "name:spa_x_preferred":[
+        "Bah\u00eda de Ca\u00f1acao"
+    ],
+    "name:und_x_colloquial":[
+        "Canacao",
+        "Canyacao"
+    ],
+    "name:und_x_preferred":[
+        "Ca\u00f1acao"
+    ],
+    "name:unk_x_variant":[
+        "Ca\u00f1acao"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1719508,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ca\u00f1acao",
+    "qs_pg:name_adm0":"Philippines",
+    "qs_pg:name_adm1":"Calabarzon",
+    "qs_pg:photos":968,
+    "qs_pg:photos_1k":196,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":968,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":427029,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424934,
+    "qs_pg:woe_id":1168253,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424934,
+    "woe:name_adm0":"Philippines",
+    "woe:name_adm1":"Calabarzon",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85676127,
+        102191569,
+        85632509,
+        1108698605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719508,
+        "gp:id":1168253,
+        "qs:id":427029,
+        "qs_pg:id":427029,
+        "wd:id":"Q5055560"
+    },
+    "wof:country":"PH",
+    "wof:created":1497316798,
+    "wof:geomhash":"eae8a3b43ca9dad68b481c28c8375eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698605,
+            "locality_id":-1,
+            "neighbourhood_id":1126105187,
+            "region_id":85676127
+        }
+    ],
+    "wof:id":1126105187,
+    "wof:lastmodified":1534379405,
+    "wof:name":"Ca\u00f1acao",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85902775
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89528,
+    14.48806,
+    120.89528,
+    14.48806
+],
+  "geometry": {"coordinates":[120.89528,14.48806],"type":"Point"}
+}

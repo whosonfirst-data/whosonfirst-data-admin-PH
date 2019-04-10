@@ -1,0 +1,75 @@
+{
+  "id": 1243087771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8425,9.8224,123.8425,9.8224",
+    "geom:latitude":9.8224,
+    "geom:longitude":123.8425,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71230000.0",
+    "gn:asciiname":"Cantam-is",
+    "gn:country_code":"PH",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718894,
+    "gn:latitude":9.8224,
+    "gn:longitude":123.8425,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cantam-is",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cantam-is"
+    ],
+    "name:und_x_variant":[
+        "Cantam-is Bag-o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108698117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718894
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"133e942cfe6f9ce422c62f6c26531e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698117,
+            "locality_id":1243087771,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1243087771,
+    "wof:lastmodified":1537678344,
+    "wof:name":"Cantam-is",
+    "wof:parent_id":1108698117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8425,
+    9.8224,
+    123.8425,
+    9.8224
+],
+  "geometry": {"coordinates":[123.8425,9.8224],"type":"Point"}
+}

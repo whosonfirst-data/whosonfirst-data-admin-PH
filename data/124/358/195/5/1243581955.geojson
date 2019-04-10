@@ -1,0 +1,72 @@
+{
+  "id": 1243581955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1408,10.87444,123.1408,10.87444",
+    "geom:latitude":10.87444,
+    "geom:longitude":123.1408,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64518000.0",
+    "gn:asciiname":"Hacienda Paz",
+    "gn:country_code":"PH",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7429391,
+    "gn:latitude":10.87444,
+    "gn:longitude":123.1408,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Paz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hacienda Paz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108698341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7429391
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6654d5dffacc298210e1210fc8d36f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698341,
+            "locality_id":1243581955,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1243581955,
+    "wof:lastmodified":1537678930,
+    "wof:name":"Hacienda Paz",
+    "wof:parent_id":1108698341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1408,
+    10.87444,
+    123.1408,
+    10.87444
+],
+  "geometry": {"coordinates":[123.1408,10.87444],"type":"Point"}
+}

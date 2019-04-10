@@ -1,0 +1,80 @@
+{
+  "id": 1209728175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7098,18.3336,121.7098,18.3336",
+    "geom:latitude":18.3336,
+    "geom:longitude":121.7098,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21505000.0",
+    "gn:asciiname":"Dodan",
+    "gn:country_code":"PH",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714548,
+    "gn:latitude":18.3336,
+    "gn:longitude":121.7098,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dodan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dodan"
+    ],
+    "name:fil_x_variant":[
+        "Dodon",
+        "Barrio Dodan"
+    ],
+    "name:und_x_variant":[
+        "Barrio Dodan",
+        "Dodon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108696697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714548
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"560ac472c981733637ae3516705d9c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696697,
+            "locality_id":1209728175,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1209728175,
+    "wof:lastmodified":1537678225,
+    "wof:name":"Dodan",
+    "wof:parent_id":1108696697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7098,
+    18.3336,
+    121.7098,
+    18.3336
+],
+  "geometry": {"coordinates":[121.7098,18.3336],"type":"Point"}
+}

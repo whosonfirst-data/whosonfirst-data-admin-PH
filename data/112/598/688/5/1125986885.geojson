@@ -1,0 +1,81 @@
+{
+  "id": 1125986885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.5191,13.6226,122.5191,13.6226",
+    "geom:latitude":13.6226,
+    "geom:longitude":122.5191,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4342,
+    "gn:population":4342,
+    "iso:country":"PH",
+    "lbl:latitude":13.6226,
+    "lbl:longitude":122.5191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Abuyon"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1732304,
+    "qs_pg:gn_pop":4342,
+    "qs_pg:name":"Abuyon",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277450,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108699277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732304,
+        "qs_pg:id":277450
+    },
+    "wof:country":"PH",
+    "wof:created":1497298855,
+    "wof:geomhash":"74d5473943d80ae29459f9de07c31791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699277,
+            "locality_id":1125986885,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1125986885,
+    "wof:lastmodified":1509405123,
+    "wof:name":"Abuyon",
+    "wof:parent_id":1108699277,
+    "wof:placetype":"locality",
+    "wof:population":4342,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.5191,
+    13.6226,
+    122.5191,
+    13.6226
+],
+  "geometry": {"coordinates":[122.51909999999999,13.6226],"type":"Point"}
+}

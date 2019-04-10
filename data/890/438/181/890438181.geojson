@@ -1,0 +1,68 @@
+{
+  "id": 890438181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4,11.11667,122.4,11.11667",
+    "geom:latitude":11.11667,
+    "geom:longitude":122.4,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":64760,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lambunao"
+    ],
+    "qs:name":"Lambunao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707801,
+        "qs:id":87581
+    },
+    "wof:country":"PH",
+    "wof:created":1469052183,
+    "wof:geomhash":"92e5f7c0134615d430a37900da4202cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697987,
+            "localadmin_id":890438181,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890438181,
+    "wof:lastmodified":1505343563,
+    "wof:name":"Lambunao",
+    "wof:parent_id":1108697987,
+    "wof:placetype":"localadmin",
+    "wof:population":64760,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4,
+    11.11667,
+    122.4,
+    11.11667
+],
+  "geometry": {"coordinates":[122.40000000000001,11.11667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890443059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.15,11.46667,123.15,11.46667",
+    "geom:latitude":11.46667,
+    "geom:longitude":123.15,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":37999,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Estancia"
+    ],
+    "qs:name":"Estancia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":464,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108697585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713738,
+        "qs:id":371792,
+        "wd:id":"Q613739",
+        "wk:page":"Estancia"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052397,
+    "wof:geomhash":"62db04e1d9b11ba98be9ce40431110ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697585,
+            "localadmin_id":890443059,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890443059,
+    "wof:lastmodified":1527787069,
+    "wof:name":"Estancia",
+    "wof:parent_id":1108697585,
+    "wof:placetype":"localadmin",
+    "wof:population":37999,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.15,
+    11.46667,
+    123.15,
+    11.46667
+],
+  "geometry": {"coordinates":[123.15000000000001,11.46667],"type":"Point"}
+}

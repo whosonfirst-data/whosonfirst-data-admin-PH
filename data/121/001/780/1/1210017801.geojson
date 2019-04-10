@@ -1,0 +1,72 @@
+{
+  "id": 1210017801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65,15.0,120.65,15.0",
+    "geom:latitude":15.0,
+    "geom:longitude":120.65,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35404000.0",
+    "gn:asciiname":"Suban",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685600,
+    "gn:latitude":15.0,
+    "gn:longitude":120.65,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Suban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Suban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685600
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5e96b5ef4202c042120c1157c0d9ce0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699393,
+            "locality_id":1210017801,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1210017801,
+    "wof:lastmodified":1537677404,
+    "wof:name":"Suban",
+    "wof:parent_id":1108699393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65,
+    15.0,
+    120.65,
+    15.0
+],
+  "geometry": {"coordinates":[120.65000000000001,15.0],"type":"Point"}
+}

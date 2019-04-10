@@ -1,0 +1,69 @@
+{
+  "id": 1243314635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.06667,13.85,121.06667,13.85",
+    "geom:latitude":13.85,
+    "geom:longitude":121.06667,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41022000.0",
+    "gn:asciiname":"Latanauan",
+    "gn:country_code":"PH",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707152,
+    "gn:latitude":13.85,
+    "gn:longitude":121.06667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Latanauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108699205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707152
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f4ebb5878cfd307b1c4ca46225d4e77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699205,
+            "locality_id":1243314635,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1243314635,
+    "wof:lastmodified":1536994920,
+    "wof:name":"Latanauan",
+    "wof:parent_id":1108699205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.06667,
+    13.85,
+    121.06667,
+    13.85
+],
+  "geometry": {"coordinates":[121.06667,13.85],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260131041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89655,13.90159,120.89655,13.90159",
+    "geom:latitude":13.90159,
+    "geom:longitude":120.89655,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41012000.0",
+    "gn:asciiname":"Tubigan",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681207,
+    "gn:latitude":13.90159,
+    "gn:longitude":120.89655,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tubigan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cruz",
+        "Tubigon",
+        "Tubigan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676131,
+        1108698045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681207
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"90a6ab1ee83377087b2b99c057961c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698045,
+            "locality_id":1260131041,
+            "region_id":85676131
+        }
+    ],
+    "wof:id":1260131041,
+    "wof:lastmodified":1537677285,
+    "wof:name":"Tubigan",
+    "wof:parent_id":1108698045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89655,
+    13.90159,
+    120.89655,
+    13.90159
+],
+  "geometry": {"coordinates":[120.89655,13.90159],"type":"Point"}
+}

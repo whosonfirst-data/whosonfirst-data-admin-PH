@@ -1,0 +1,76 @@
+{
+  "id": 890455971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7925,15.5232,120.7925,15.5232",
+    "geom:latitude":15.5232,
+    "geom:longitude":120.7925,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3753,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santa Maria"
+    ],
+    "qs:name":"Santa Maria",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"geonames",
+    "wd:wordcount":1180,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108698079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688017,
+        "gp:id":91464838,
+        "qs:id":558671,
+        "qs_pg:id":371474,
+        "wd:id":"Q111019",
+        "wk:page":"Santa Maria"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052987,
+    "wof:geomhash":"502c41a79840250ee1a62cc73efd3bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698079,
+            "locality_id":890455971,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":890455971,
+    "wof:lastmodified":1527734193,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":1108698079,
+    "wof:placetype":"locality",
+    "wof:population":3753,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7925,
+    15.5232,
+    120.7925,
+    15.5232
+],
+  "geometry": {"coordinates":[120.7925,15.5232],"type":"Point"}
+}

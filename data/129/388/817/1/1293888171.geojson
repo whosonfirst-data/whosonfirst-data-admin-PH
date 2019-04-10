@@ -1,0 +1,76 @@
+{
+  "id": 1293888171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2096,13.391,123.2096,13.391",
+    "geom:latitude":13.391,
+    "geom:longitude":123.2096,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51706000.0",
+    "gn:asciiname":"Burobod",
+    "gn:country_code":"PH",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1722518,
+    "gn:latitude":13.391,
+    "gn:longitude":123.2096,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Burobod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Burobod"
+    ],
+    "name:und_x_variant":[
+        "Borabod",
+        "Burabod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1722518
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"71decde8290afd9246971d75bed56424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697099,
+            "locality_id":1293888171,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1293888171,
+    "wof:lastmodified":1537678459,
+    "wof:name":"Burobod",
+    "wof:parent_id":1108697099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2096,
+    13.391,
+    123.2096,
+    13.391
+],
+  "geometry": {"coordinates":[123.20959999999999,13.391],"type":"Point"}
+}

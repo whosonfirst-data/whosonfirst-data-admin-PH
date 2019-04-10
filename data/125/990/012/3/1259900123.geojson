@@ -1,0 +1,72 @@
+{
+  "id": 1259900123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.63333,10.36667,123.63333,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":123.63333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72251000.0",
+    "gn:asciiname":"Awihao",
+    "gn:country_code":"PH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1729889,
+    "gn:latitude":10.36667,
+    "gn:longitude":123.63333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Awihao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Awihao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1729889
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fd9dbb7c012e5a17e907aebefd18f2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699747,
+            "locality_id":1259900123,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1259900123,
+    "wof:lastmodified":1537678680,
+    "wof:name":"Awihao",
+    "wof:parent_id":1108699747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.63333,
+    10.36667,
+    123.63333,
+    10.36667
+],
+  "geometry": {"coordinates":[123.63333,10.36667],"type":"Point"}
+}

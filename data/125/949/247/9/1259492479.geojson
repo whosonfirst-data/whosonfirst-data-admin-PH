@@ -1,0 +1,72 @@
+{
+  "id": 1259492479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5,16.2,120.5,16.2",
+    "geom:latitude":16.2,
+    "geom:longitude":120.5,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15541000.0",
+    "gn:asciiname":"Cabaruan",
+    "gn:country_code":"PH",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721769,
+    "gn:latitude":16.2,
+    "gn:longitude":120.5,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabaruan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabaruan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721769
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"396c7c6f3fda0b7ac0bbe0517b367f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699043,
+            "locality_id":1259492479,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1259492479,
+    "wof:lastmodified":1537678437,
+    "wof:name":"Cabaruan",
+    "wof:parent_id":1108699043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5,
+    16.2,
+    120.5,
+    16.2
+],
+  "geometry": {"coordinates":[120.5,16.2],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242586663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5126,17.4426,120.5126,17.4426",
+    "geom:latitude":17.4426,
+    "geom:longitude":120.5126,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12914000.0",
+    "gn:asciiname":"Cadoog",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691595,
+    "gn:latitude":17.4426,
+    "gn:longitude":120.5126,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cadoog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Rizal"
+    ],
+    "name:fil_x_variant":[
+        "Codoog",
+        "Cadoog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108698555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691595
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c04b49d19944e8bebff3a6f592686ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698555,
+            "locality_id":1242586663,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1242586663,
+    "wof:lastmodified":1537677578,
+    "wof:name":"Cadoog",
+    "wof:parent_id":1108698555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5126,
+    17.4426,
+    120.5126,
+    17.4426
+],
+  "geometry": {"coordinates":[120.51260000000001,17.4426],"type":"Point"}
+}

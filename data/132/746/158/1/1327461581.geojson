@@ -1,0 +1,76 @@
+{
+  "id": 1327461581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2005,9.4101,123.2005,9.4101",
+    "geom:latitude":9.4101,
+    "geom:longitude":123.2005,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74617000.0",
+    "gn:asciiname":"Basak",
+    "gn:country_code":"PH",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726518,
+    "gn:latitude":9.4101,
+    "gn:longitude":123.2005,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Basak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Basak"
+    ],
+    "name:und_x_variant":[
+        "Basac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108699211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726518,
+        "wk:page":"Basak,_Negros_Oriental"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2f099bf95abebc6f2646187f4f57685a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699211,
+            "locality_id":1327461581,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1327461581,
+    "wof:lastmodified":1537678577,
+    "wof:name":"Basak",
+    "wof:parent_id":1108699211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2005,
+    9.4101,
+    123.2005,
+    9.4101
+],
+  "geometry": {"coordinates":[123.20050000000001,9.4101],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890434339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1792,13.5101,123.1792,13.5101",
+    "geom:latitude":13.5101,
+    "geom:longitude":123.1792,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3373,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hobo"
+    ],
+    "name:unk_x_variant":[
+        "Ubo"
+    ],
+    "qs:name":"Hobo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":1920,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711558,
+        "gp:id":1174270,
+        "qs:id":135283,
+        "wd:id":"Q843281",
+        "wk:page":"Hobo"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052021,
+    "wof:geomhash":"a1b5bd0e802f19d6e0559b79d6910935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698483,
+            "locality_id":890434339,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890434339,
+    "wof:lastmodified":1527792943,
+    "wof:name":"Hobo",
+    "wof:parent_id":1108698483,
+    "wof:placetype":"locality",
+    "wof:population":3373,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1792,
+    13.5101,
+    123.1792,
+    13.5101
+],
+  "geometry": {"coordinates":[123.17919999999999,13.5101],"type":"Point"}
+}

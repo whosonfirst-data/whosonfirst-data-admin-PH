@@ -1,0 +1,72 @@
+{
+  "id": 890433815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2178,13.6222,122.2178,13.6222",
+    "geom:latitude":13.6222,
+    "geom:longitude":122.2178,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2646,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tuhian"
+    ],
+    "name:unk_x_variant":[
+        "Tuquian"
+    ],
+    "qs:name":"Tuhian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108697323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680913,
+        "gp:id":1197566,
+        "qs:id":133962
+    },
+    "wof:country":"PH",
+    "wof:created":1469051996,
+    "wof:geomhash":"8d0d34d80871f7760b349bf78e3c14cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697323,
+            "locality_id":890433815,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":890433815,
+    "wof:lastmodified":1505343537,
+    "wof:name":"Tuhian",
+    "wof:parent_id":1108697323,
+    "wof:placetype":"locality",
+    "wof:population":2646,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2178,
+    13.6222,
+    122.2178,
+    13.6222
+],
+  "geometry": {"coordinates":[122.2178,13.6222],"type":"Point"}
+}

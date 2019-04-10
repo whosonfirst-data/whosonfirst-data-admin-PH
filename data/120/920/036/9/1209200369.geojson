@@ -1,0 +1,66 @@
+{
+  "id": 1209200369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.0709,10.0332,124.0709,10.0332",
+    "geom:latitude":10.0332,
+    "geom:longitude":124.0709,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71224000.0",
+    "gn:asciiname":"Luyo",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704853,
+    "gn:latitude":10.0332,
+    "gn:longitude":124.0709,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Luyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Luyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704853
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8817657d4b04d7607937a608c2080f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209200369
+        }
+    ],
+    "wof:id":1209200369,
+    "wof:lastmodified":1537677950,
+    "wof:name":"Luyo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.0709,
+    10.0332,
+    124.0709,
+    10.0332
+],
+  "geometry": {"coordinates":[124.07089999999999,10.0332],"type":"Point"}
+}

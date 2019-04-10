@@ -1,0 +1,72 @@
+{
+  "id": 1243385219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0348,10.9027,122.0348,10.9027",
+    "geom:latitude":10.9027,
+    "geom:longitude":122.0348,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60612000.0",
+    "gn:asciiname":"Villa-galed",
+    "gn:country_code":"PH",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679918,
+    "gn:latitude":10.9027,
+    "gn:longitude":122.0348,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villa-galed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Villa-galed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108698841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679918
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5fc4c89eead3a0fa3a8e555056840f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698841,
+            "locality_id":1243385219,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1243385219,
+    "wof:lastmodified":1537677246,
+    "wof:name":"Villa-galed",
+    "wof:parent_id":1108698841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0348,
+    10.9027,
+    122.0348,
+    10.9027
+],
+  "geometry": {"coordinates":[122.0348,10.9027],"type":"Point"}
+}

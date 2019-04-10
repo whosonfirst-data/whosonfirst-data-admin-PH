@@ -1,0 +1,73 @@
+{
+  "id": 1344030493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6035,17.465,120.6035,17.465",
+    "geom:latitude":17.465,
+    "geom:longitude":120.6035,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140121000.0",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"PH",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1689635,
+    "gn:latitude":17.465,
+    "gn:longitude":120.6035,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Isidro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108699179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689635,
+        "wk:page":"San_Isidro%2C_Abra"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"49c094319128ed69b1c6449b97136451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699179,
+            "locality_id":1344030493,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1344030493,
+    "wof:lastmodified":1537677522,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108699179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6035,
+    17.465,
+    120.6035,
+    17.465
+],
+  "geometry": {"coordinates":[120.6035,17.465],"type":"Point"}
+}

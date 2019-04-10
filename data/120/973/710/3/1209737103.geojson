@@ -1,0 +1,72 @@
+{
+  "id": 1209737103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.75,11.2,122.75,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":122.75,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63035000.0",
+    "gn:asciiname":"Tagobong",
+    "gn:country_code":"PH",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684390,
+    "gn:latitude":11.2,
+    "gn:longitude":122.75,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tagobong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagobong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684390
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8ef6911f973a85544a7ab7c0ca450dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698827,
+            "locality_id":1209737103,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1209737103,
+    "wof:lastmodified":1537677369,
+    "wof:name":"Tagobong",
+    "wof:parent_id":1108698827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.75,
+    11.2,
+    122.75,
+    11.2
+],
+  "geometry": {"coordinates":[122.75,11.2],"type":"Point"}
+}

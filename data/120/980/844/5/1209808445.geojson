@@ -1,0 +1,72 @@
+{
+  "id": 1209808445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.85,14.2,122.85,14.2",
+    "geom:latitude":14.2,
+    "geom:longitude":122.85,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51606000.0",
+    "gn:asciiname":"Mananos",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702106,
+    "gn:latitude":14.2,
+    "gn:longitude":122.85,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mananos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mananos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676017,
+        1108697961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702106
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"14f9da89a12a1ddd10956c045448b948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697961,
+            "locality_id":1209808445,
+            "region_id":85676017
+        }
+    ],
+    "wof:id":1209808445,
+    "wof:lastmodified":1537677873,
+    "wof:name":"Mananos",
+    "wof:parent_id":1108697961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.85,
+    14.2,
+    122.85,
+    14.2
+],
+  "geometry": {"coordinates":[122.84999999999999,14.2],"type":"Point"}
+}

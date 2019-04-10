@@ -1,0 +1,78 @@
+{
+  "id": 1259455663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.19704,16.70327,121.19704,16.70327",
+    "geom:latitude":16.70327,
+    "geom:longitude":121.19704,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"142705000.0",
+    "gn:asciiname":"Delan",
+    "gn:country_code":"PH",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715232,
+    "gn:latitude":16.70327,
+    "gn:longitude":121.19704,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Delan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Delan"
+    ],
+    "name:fil_x_variant":[
+        "Delah"
+    ],
+    "name:und_x_variant":[
+        "Delah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108697991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715232
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"627a24a301990627a0fdbb6523cd320e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697991,
+            "locality_id":1259455663,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1259455663,
+    "wof:lastmodified":1537678241,
+    "wof:name":"Delan",
+    "wof:parent_id":1108697991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.19704,
+    16.70327,
+    121.19704,
+    16.70327
+],
+  "geometry": {"coordinates":[121.19704,16.70327],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890432671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.165,7.53611,122.165,7.53611",
+    "geom:latitude":7.53611,
+    "geom:longitude":122.165,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":17916,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Municipality of Siraway"
+    ],
+    "qs:name":"Siraway",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108699517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686048,
+        "qs:id":86563
+    },
+    "wof:country":"PH",
+    "wof:created":1469051949,
+    "wof:geomhash":"fabf925281881bf35fec24924c0b663e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699517,
+            "localadmin_id":890432671,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":890432671,
+    "wof:lastmodified":1505343531,
+    "wof:name":"Siraway",
+    "wof:parent_id":1108699517,
+    "wof:placetype":"localadmin",
+    "wof:population":17916,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.165,
+    7.53611,
+    122.165,
+    7.53611
+],
+  "geometry": {"coordinates":[122.16500000000001,7.53611],"type":"Point"}
+}

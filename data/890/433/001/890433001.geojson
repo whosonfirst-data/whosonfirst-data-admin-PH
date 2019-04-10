@@ -1,0 +1,71 @@
+{
+  "id": 890433001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.05,9.86667,123.05,9.86667",
+    "geom:latitude":9.86667,
+    "geom:longitude":123.05,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":38689,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bindoy"
+    ],
+    "qs:name":"Bindoy",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":305,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108696729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725030,
+        "qs:id":88267,
+        "wd:id":"Q194916",
+        "wk:page":"Bindoy"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051963,
+    "wof:geomhash":"72a67d778d5ea1b06e108778afd2f550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696729,
+            "localadmin_id":890433001,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890433001,
+    "wof:lastmodified":1527792953,
+    "wof:name":"Bindoy",
+    "wof:parent_id":1108696729,
+    "wof:placetype":"localadmin",
+    "wof:population":38689,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.05,
+    9.86667,
+    123.05,
+    9.86667
+],
+  "geometry": {"coordinates":[123.05,9.86667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310308419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9539,16.0806,119.9539,16.0806",
+    "geom:latitude":16.0806,
+    "geom:longitude":119.9539,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15523000.0",
+    "gn:asciiname":"Tagudin",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684321,
+    "gn:latitude":16.0806,
+    "gn:longitude":119.9539,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tagudin",
+    "gn:population":3052,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tagudin"
+    ],
+    "name:und_x_variant":[
+        "Taguding",
+        "Tagudin"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684321
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3aae9859fb8df4a0bc48e9cac536f772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698195,
+            "locality_id":1310308419,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1310308419,
+    "wof:lastmodified":1537677368,
+    "wof:name":"Tagudin",
+    "wof:parent_id":1108698195,
+    "wof:placetype":"locality",
+    "wof:population":3052,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9539,
+    16.0806,
+    119.9539,
+    16.0806
+],
+  "geometry": {"coordinates":[119.9539,16.0806],"type":"Point"}
+}

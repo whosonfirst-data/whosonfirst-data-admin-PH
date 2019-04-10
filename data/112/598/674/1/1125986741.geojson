@@ -1,0 +1,81 @@
+{
+  "id": 1125986741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0414,15.6602,121.0414,15.6602",
+    "geom:latitude":15.6602,
+    "geom:longitude":121.0414,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":3962,
+    "gn:population":3962,
+    "iso:country":"PH",
+    "lbl:latitude":15.6602,
+    "lbl:longitude":121.0414,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Bicos"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1725428,
+    "qs_pg:gn_pop":3962,
+    "qs_pg:name":"Bicos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":277362,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108699023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725428,
+        "qs_pg:id":277362
+    },
+    "wof:country":"PH",
+    "wof:created":1497298848,
+    "wof:geomhash":"6a1b82a2281c9e2d1a78e4537085faa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699023,
+            "locality_id":1125986741,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1125986741,
+    "wof:lastmodified":1509405114,
+    "wof:name":"Bicos",
+    "wof:parent_id":1108699023,
+    "wof:placetype":"locality",
+    "wof:population":3962,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0414,
+    15.6602,
+    121.0414,
+    15.6602
+],
+  "geometry": {"coordinates":[121.0414,15.6602],"type":"Point"}
+}

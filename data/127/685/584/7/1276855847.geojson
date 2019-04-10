@@ -1,0 +1,73 @@
+{
+  "id": 1276855847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.7476,10.8614,124.7476,10.8614",
+    "geom:latitude":10.8614,
+    "geom:longitude":124.7476,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83703000.0",
+    "gn:asciiname":"Buac",
+    "gn:country_code":"PH",
+    "gn:dem":50,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723750,
+    "gn:latitude":10.8614,
+    "gn:longitude":124.7476,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buac",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Buac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676197,
+        1108696597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723750
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d329e1ee4a5613fded8447221e9a6d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696597,
+            "locality_id":1276855847,
+            "region_id":85676197
+        }
+    ],
+    "wof:id":1276855847,
+    "wof:lastmodified":1537678498,
+    "wof:name":"Buac",
+    "wof:parent_id":1108696597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.7476,
+    10.8614,
+    124.7476,
+    10.8614
+],
+  "geometry": {"coordinates":[124.74760000000001,10.8614],"type":"Point"}
+}

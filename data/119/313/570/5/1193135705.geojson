@@ -1,0 +1,72 @@
+{
+  "id": 1193135705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.85,13.8,123.85,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":123.85,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51711000.0",
+    "gn:asciiname":"Tabog",
+    "gn:country_code":"PH",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684922,
+    "gn:latitude":13.8,
+    "gn:longitude":123.85,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tabog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tabog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684922
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"13b91d217f18b17129542cf4b07f1065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697273,
+            "locality_id":1193135705,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1193135705,
+    "wof:lastmodified":1537677384,
+    "wof:name":"Tabog",
+    "wof:parent_id":1108697273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.85,
+    13.8,
+    123.85,
+    13.8
+],
+  "geometry": {"coordinates":[123.84999999999999,13.8],"type":"Point"}
+}

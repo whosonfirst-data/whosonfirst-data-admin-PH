@@ -1,0 +1,75 @@
+{
+  "id": 1276904543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0409,11.8004,120.0409,11.8004",
+    "geom:latitude":11.8004,
+    "geom:longitude":120.0409,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175322000.0",
+    "gn:asciiname":"Tangyab",
+    "gn:country_code":"PH",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732399,
+    "gn:latitude":11.8004,
+    "gn:longitude":120.0409,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tangyab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tangyab"
+    ],
+    "name:und_x_variant":[
+        "Abod-Abod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732399
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bbffe0b4bb0eb4eb0b0d7278352dad1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697407,
+            "locality_id":1276904543,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1276904543,
+    "wof:lastmodified":1537678752,
+    "wof:name":"Tangyab",
+    "wof:parent_id":1108697407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0409,
+    11.8004,
+    120.0409,
+    11.8004
+],
+  "geometry": {"coordinates":[120.04089999999999,11.8004],"type":"Point"}
+}

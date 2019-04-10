@@ -1,0 +1,75 @@
+{
+  "id": 1343247835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.33879,10.04198,124.33879,10.04198",
+    "geom:latitude":10.04198,
+    "geom:longitude":124.33879,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71244000.0",
+    "gn:asciiname":"Mabuhay Cabigohan",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721617,
+    "gn:latitude":10.04198,
+    "gn:longitude":124.33879,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabuhay Cabigohan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cabicohan",
+        "Cabigohan",
+        "Mabuhay-Cabiguhan",
+        "Mabuhay Cabigohan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721617
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9bdc6c54b4ad3cdfd5d13cb69548a5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699761,
+            "locality_id":1343247835,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1343247835,
+    "wof:lastmodified":1537678432,
+    "wof:name":"Mabuhay Cabigohan",
+    "wof:parent_id":1108699761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.33879,
+    10.04198,
+    124.33879,
+    10.04198
+],
+  "geometry": {"coordinates":[124.33879,10.04198],"type":"Point"}
+}

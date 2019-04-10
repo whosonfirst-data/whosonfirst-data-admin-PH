@@ -1,0 +1,72 @@
+{
+  "id": 1243553021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0785,13.9035,123.0785,13.9035",
+    "geom:latitude":13.9035,
+    "geom:longitude":123.0785,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51607000.0",
+    "gn:asciiname":"Magaras",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704000,
+    "gn:latitude":13.9035,
+    "gn:longitude":123.0785,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Magaras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Magaras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676017,
+        1108696931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704000
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"189cb720450d3ebb6f0bbe2a85787082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696931,
+            "locality_id":1243553021,
+            "region_id":85676017
+        }
+    ],
+    "wof:id":1243553021,
+    "wof:lastmodified":1537677926,
+    "wof:name":"Magaras",
+    "wof:parent_id":1108696931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0785,
+    13.9035,
+    123.0785,
+    13.9035
+],
+  "geometry": {"coordinates":[123.07850000000001,13.9035],"type":"Point"}
+}

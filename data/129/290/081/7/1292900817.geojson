@@ -1,0 +1,75 @@
+{
+  "id": 1292900817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.93917,11.23778,122.93917,11.23778",
+    "geom:latitude":11.23778,
+    "geom:longitude":122.93917,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63027000.0",
+    "gn:asciiname":"Sepanton",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1684784,
+    "gn:latitude":11.23778,
+    "gn:longitude":122.93917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sepanton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taburan",
+        "Tabunan",
+        "Sepanton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108698047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1684784
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"08175bdde0048b561e53272ecb9cc5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698047,
+            "locality_id":1292900817,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1292900817,
+    "wof:lastmodified":1537677380,
+    "wof:name":"Sepanton",
+    "wof:parent_id":1108698047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.93917,
+    11.23778,
+    122.93917,
+    11.23778
+],
+  "geometry": {"coordinates":[122.93917,11.23778],"type":"Point"}
+}

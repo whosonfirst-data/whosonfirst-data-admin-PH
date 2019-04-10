@@ -1,0 +1,72 @@
+{
+  "id": 890451157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0354,10.487,122.0354,10.487",
+    "geom:latitude":10.487,
+    "geom:longitude":122.0354,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2571,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lawigan"
+    ],
+    "name:unk_x_variant":[
+        "Lauigan"
+    ],
+    "qs:name":"Lawigan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707076,
+        "gp:id":1195483,
+        "qs:id":87552
+    },
+    "wof:country":"PH",
+    "wof:created":1469052767,
+    "wof:geomhash":"0a5fdf04bf3b47663757d7ebf365ad9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699195,
+            "locality_id":890451157,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":890451157,
+    "wof:lastmodified":1505343638,
+    "wof:name":"Lawigan",
+    "wof:parent_id":1108699195,
+    "wof:placetype":"locality",
+    "wof:population":2571,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0354,
+    10.487,
+    122.0354,
+    10.487
+],
+  "geometry": {"coordinates":[122.0354,10.487],"type":"Point"}
+}

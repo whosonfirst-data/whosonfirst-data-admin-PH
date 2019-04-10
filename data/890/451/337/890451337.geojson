@@ -1,0 +1,71 @@
+{
+  "id": 890451337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.7016,9.06289,117.7016,9.06289",
+    "geom:latitude":9.06289,
+    "geom:longitude":117.7016,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5262,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eraan"
+    ],
+    "name:unk_x_variant":[
+        "Iraan"
+    ],
+    "qs:name":"Eraan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108699025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713839,
+        "qs:id":87840
+    },
+    "wof:country":"PH",
+    "wof:created":1469052775,
+    "wof:geomhash":"37da34c1a59242ff91025d32f2bff230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699025,
+            "locality_id":890451337,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":890451337,
+    "wof:lastmodified":1505343639,
+    "wof:name":"Eraan",
+    "wof:parent_id":1108699025,
+    "wof:placetype":"locality",
+    "wof:population":5262,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.7016,
+    9.06289,
+    117.7016,
+    9.06289
+],
+  "geometry": {"coordinates":[117.7016,9.06289],"type":"Point"}
+}

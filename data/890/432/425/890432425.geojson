@@ -1,0 +1,77 @@
+{
+  "id": 890432425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4738,13.6017,123.4738,13.6017",
+    "geom:latitude":13.6017,
+    "geom:longitude":123.4738,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2494,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Salvacion"
+    ],
+    "name:unk_x_variant":[
+        "Mabalodbalod Giganoy"
+    ],
+    "qs:name":"Salvacion",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:elevation":550.0,
+    "wd:latitude":"-12.836111111",
+    "wd:longitude":"-71.361111111",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690700,
+        "gp:id":1189979,
+        "qs:id":134396,
+        "wk:page":"Salvaci\u00f3n"
+    },
+    "wof:country":"PH",
+    "wof:created":1469051940,
+    "wof:geomhash":"7499b77b291c256f251079a73610a76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698601,
+            "locality_id":890432425,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":890432425,
+    "wof:lastmodified":1527793033,
+    "wof:name":"Salvacion",
+    "wof:parent_id":1108698601,
+    "wof:placetype":"locality",
+    "wof:population":2494,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4738,
+    13.6017,
+    123.4738,
+    13.6017
+],
+  "geometry": {"coordinates":[123.4738,13.6017],"type":"Point"}
+}

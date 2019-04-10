@@ -1,0 +1,75 @@
+{
+  "id": 1242678623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.19083,14.94289,120.19083,14.94289",
+    "geom:latitude":14.94289,
+    "geom:longitude":120.19083,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"64",
+    "gn:admin3_code":"37104000.0",
+    "gn:asciiname":"Talugtong",
+    "gn:country_code":"PH",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683719,
+    "gn:latitude":14.94289,
+    "gn:longitude":120.19083,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Talugtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Talugtong"
+    ],
+    "name:und_x_variant":[
+        "Talugtog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108697317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683719
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2eaa7ca804e5564827dc665aa6cabd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697317,
+            "locality_id":1242678623,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":1242678623,
+    "wof:lastmodified":1537677351,
+    "wof:name":"Talugtong",
+    "wof:parent_id":1108697317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.19083,
+    14.94289,
+    120.19083,
+    14.94289
+],
+  "geometry": {"coordinates":[120.19083000000001,14.94289],"type":"Point"}
+}

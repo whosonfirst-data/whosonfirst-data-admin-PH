@@ -1,0 +1,72 @@
+{
+  "id": 1243349161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.23333,10.0,124.23333,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":124.23333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71218000.0",
+    "gn:asciiname":"Tipolo",
+    "gn:country_code":"PH",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681731,
+    "gn:latitude":10.0,
+    "gn:longitude":124.23333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tipolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tipolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681731
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"44065b9ab0d839a5e0f4b6de16483aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697435,
+            "locality_id":1243349161,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1243349161,
+    "wof:lastmodified":1537677300,
+    "wof:name":"Tipolo",
+    "wof:parent_id":1108697435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.23333,
+    10.0,
+    124.23333,
+    10.0
+],
+  "geometry": {"coordinates":[124.23333,10.0],"type":"Point"}
+}

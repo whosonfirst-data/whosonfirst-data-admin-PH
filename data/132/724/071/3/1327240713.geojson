@@ -1,0 +1,81 @@
+{
+  "id": 1327240713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.555,18.0968,120.555,18.0968",
+    "geom:latitude":18.0968,
+    "geom:longitude":120.555,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12805000.0",
+    "gn:asciiname":"Balaygat",
+    "gn:country_code":"PH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728222,
+    "gn:latitude":18.0968,
+    "gn:longitude":120.555,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balaygat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balaygat"
+    ],
+    "name:fil_x_variant":[
+        "Baleygat",
+        "Baligat",
+        "Balayga"
+    ],
+    "name:und_x_variant":[
+        "Baligat",
+        "Balayga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108696933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728222
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6e9209480696b0d4483aab8548208cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696933,
+            "locality_id":1327240713,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1327240713,
+    "wof:lastmodified":1537678631,
+    "wof:name":"Balaygat",
+    "wof:parent_id":1108696933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.555,
+    18.0968,
+    120.555,
+    18.0968
+],
+  "geometry": {"coordinates":[120.55500000000001,18.0968],"type":"Point"}
+}

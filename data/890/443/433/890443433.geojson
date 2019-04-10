@@ -1,0 +1,68 @@
+{
+  "id": 890443433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.55,13.21667,123.55,13.21667",
+    "geom:latitude":13.21667,
+    "geom:longitude":123.55,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":1190823,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Albay Province"
+    ],
+    "qs:name":"Province of Albay",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731616,
+        "gp:id":2346660,
+        "qs:id":1027450
+    },
+    "wof:country":"PH",
+    "wof:created":1469052424,
+    "wof:geomhash":"be0042e213f01ac209403eb0b25b189a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890443433,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":890443433,
+    "wof:lastmodified":1505343593,
+    "wof:name":"Province of Albay",
+    "wof:parent_id":85676011,
+    "wof:placetype":"county",
+    "wof:population":1190823,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.55,
+    13.21667,
+    123.55,
+    13.21667
+],
+  "geometry": {"coordinates":[123.55,13.21667],"type":"Point"}
+}

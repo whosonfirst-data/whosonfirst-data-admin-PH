@@ -1,0 +1,74 @@
+{
+  "id": 1343341193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.03389,7.06167,125.03389,7.06167",
+    "geom:latitude":7.06167,
+    "geom:longitude":125.03389,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"124704000.0",
+    "gn:asciiname":"Sikitan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687005,
+    "gn:latitude":7.06167,
+    "gn:longitude":125.03389,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sikitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekitan",
+        "Sikitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676179,
+        1108697925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687005
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"97528dd01d3b019c4e4a91d462b6069a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697925,
+            "locality_id":1343341193,
+            "region_id":85676179
+        }
+    ],
+    "wof:id":1343341193,
+    "wof:lastmodified":1537677436,
+    "wof:name":"Sikitan",
+    "wof:parent_id":1108697925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.03389,
+    7.06167,
+    125.03389,
+    7.06167
+],
+  "geometry": {"coordinates":[125.03389,7.06167],"type":"Point"}
+}

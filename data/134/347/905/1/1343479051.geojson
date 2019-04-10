@@ -1,0 +1,73 @@
+{
+  "id": 1343479051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95,7.76667,123.95,7.76667",
+    "geom:latitude":7.76667,
+    "geom:longitude":123.95,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103515000.0",
+    "gn:asciiname":"Mapialupa",
+    "gn:country_code":"PH",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701262,
+    "gn:latitude":7.76667,
+    "gn:longitude":123.95,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mapialupa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mapialuoa",
+        "Mapialupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108698683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701262
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5bffd4a388c024b79a305860afcbbb5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698683,
+            "locality_id":1343479051,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1343479051,
+    "wof:lastmodified":1537677850,
+    "wof:name":"Mapialupa",
+    "wof:parent_id":1108698683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95,
+    7.76667,
+    123.95,
+    7.76667
+],
+  "geometry": {"coordinates":[123.95,7.76667],"type":"Point"}
+}

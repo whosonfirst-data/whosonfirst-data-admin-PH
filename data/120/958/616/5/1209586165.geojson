@@ -1,0 +1,65 @@
+{
+  "id": 1209586165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21667,6.0,121.21667,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":121.21667,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:asciiname":"Caduayan",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721149,
+    "gn:latitude":6.0,
+    "gn:longitude":121.21667,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Caduayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Caduayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721149
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b663d68f312683561cb7981b0f6cfa0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209586165
+        }
+    ],
+    "wof:id":1209586165,
+    "wof:lastmodified":1537678416,
+    "wof:name":"Caduayan",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21667,
+    6.0,
+    121.21667,
+    6.0
+],
+  "geometry": {"coordinates":[121.21666999999999,6.0],"type":"Point"}
+}

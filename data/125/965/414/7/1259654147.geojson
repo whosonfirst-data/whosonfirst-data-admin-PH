@@ -1,0 +1,72 @@
+{
+  "id": 1259654147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8253,5.5299,120.8253,5.5299",
+    "geom:latitude":5.5299,
+    "geom:longitude":120.8253,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156612000.0",
+    "gn:asciiname":"Sablay",
+    "gn:country_code":"PH",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691284,
+    "gn:latitude":5.5299,
+    "gn:longitude":120.8253,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sablay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sablay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108699463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691284
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"1acd380497ab76873c5986321df29d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699463,
+            "locality_id":1259654147,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1259654147,
+    "wof:lastmodified":1537677571,
+    "wof:name":"Sablay",
+    "wof:parent_id":1108699463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8253,
+    5.5299,
+    120.8253,
+    5.5299
+],
+  "geometry": {"coordinates":[120.8253,5.5299],"type":"Point"}
+}

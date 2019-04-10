@@ -1,0 +1,87 @@
+{
+  "id": 421178779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3064,10.2264,123.3064,10.2264",
+    "geom:latitude":10.2264,
+    "geom:longitude":123.3064,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Basak"
+    ],
+    "name:ita_x_preferred":[
+        "Basak"
+    ],
+    "name:unk_x_variant":[
+        "Basac"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1726513,
+    "qs:gn_pop":3705,
+    "qs:name":"Basak",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Visayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":135770,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1198882,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726513,
+        "gp:id":1198882,
+        "qs:id":135770
+    },
+    "wof:country":"PH",
+    "wof:created":1459009193,
+    "wof:geomhash":"648bcb6a71c21cdb17d4baef1cbd46e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421178779,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":421178779,
+    "wof:lastmodified":1527717723,
+    "wof:name":"Basak",
+    "wof:parent_id":85675945,
+    "wof:placetype":"locality",
+    "wof:population":3705,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3064,
+    10.2264,
+    123.3064,
+    10.2264
+],
+  "geometry": {"coordinates":[123.3064,10.2264],"type":"Point"}
+}

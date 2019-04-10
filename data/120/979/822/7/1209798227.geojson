@@ -1,0 +1,75 @@
+{
+  "id": 1209798227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9833,16.75,120.9833,16.75",
+    "geom:latitude":16.75,
+    "geom:longitude":120.9833,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"142710000.0",
+    "gn:asciiname":"Calaban",
+    "gn:country_code":"PH",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720795,
+    "gn:latitude":16.75,
+    "gn:longitude":120.9833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calaban"
+    ],
+    "name:fil_x_variant":[
+        "Binablayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676077,
+        1108697735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720795
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b77e03bb01d9317421222a2f999e195c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697735,
+            "locality_id":1209798227,
+            "region_id":85676077
+        }
+    ],
+    "wof:id":1209798227,
+    "wof:lastmodified":1537678405,
+    "wof:name":"Calaban",
+    "wof:parent_id":1108697735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9833,
+    16.75,
+    120.9833,
+    16.75
+],
+  "geometry": {"coordinates":[120.9833,16.75],"type":"Point"}
+}

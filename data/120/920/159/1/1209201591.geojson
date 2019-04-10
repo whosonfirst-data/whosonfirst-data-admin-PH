@@ -1,0 +1,66 @@
+{
+  "id": 1209201591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.81667,7.15,124.81667,7.15",
+    "geom:latitude":7.15,
+    "geom:longitude":124.81667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"124703000.0",
+    "gn:asciiname":"Tual",
+    "gn:country_code":"PH",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681288,
+    "gn:latitude":7.15,
+    "gn:longitude":124.81667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tual",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681288
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e3bb9fd2c5b8718caad2d84a360535c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209201591
+        }
+    ],
+    "wof:id":1209201591,
+    "wof:lastmodified":1537677287,
+    "wof:name":"Tual",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.81667,
+    7.15,
+    124.81667,
+    7.15
+],
+  "geometry": {"coordinates":[124.81667,7.15],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243192469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.53333,9.21667,123.53333,9.21667",
+    "geom:latitude":9.21667,
+    "geom:longitude":123.53333,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76106000.0",
+    "gn:asciiname":"Panlautan",
+    "gn:country_code":"PH",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695057,
+    "gn:latitude":9.21667,
+    "gn:longitude":123.53333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Panlautan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Panlautan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695057
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c615d2271df4f5d1cde5d47ce3c029f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698661,
+            "locality_id":1243192469,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1243192469,
+    "wof:lastmodified":1537677677,
+    "wof:name":"Panlautan",
+    "wof:parent_id":1108698661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.53333,
+    9.21667,
+    123.53333,
+    9.21667
+],
+  "geometry": {"coordinates":[123.53333000000001,9.21667],"type":"Point"}
+}

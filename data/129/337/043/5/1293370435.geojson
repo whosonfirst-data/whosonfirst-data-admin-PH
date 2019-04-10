@@ -1,0 +1,75 @@
+{
+  "id": 1293370435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.38278,5.56722,125.38278,5.56722",
+    "geom:latitude":5.56722,
+    "geom:longitude":125.38278,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"P3",
+    "gn:admin3_code":"118602000.0",
+    "gn:asciiname":"Pagubas",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1701178,
+    "gn:latitude":5.56722,
+    "gn:longitude":125.38278,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pagubas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pagubas"
+    ],
+    "name:und_x_variant":[
+        "Marabinwang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        1108810255,
+        1108697839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1701178
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7619eb454adda9c6ac981ce5c4aa08df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697839,
+            "locality_id":1293370435,
+            "region_id":1108810255
+        }
+    ],
+    "wof:id":1293370435,
+    "wof:lastmodified":1537677848,
+    "wof:name":"Pagubas",
+    "wof:parent_id":1108697839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.38278,
+    5.56722,
+    125.38278,
+    5.56722
+],
+  "geometry": {"coordinates":[125.38278,5.56722],"type":"Point"}
+}

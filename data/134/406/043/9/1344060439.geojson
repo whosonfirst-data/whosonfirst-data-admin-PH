@@ -1,0 +1,72 @@
+{
+  "id": 1344060439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5126,16.9189,120.5126,16.9189",
+    "geom:latitude":16.9189,
+    "geom:longitude":120.5126,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12933000.0",
+    "gn:asciiname":"Godel",
+    "gn:country_code":"PH",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612763,
+    "gn:latitude":16.9189,
+    "gn:longitude":120.5126,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Godel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Godel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612763
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6a721cdf6cb5b26bc9f3f3f2588322c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699547,
+            "locality_id":1344060439,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1344060439,
+    "wof:lastmodified":1537679006,
+    "wof:name":"Godel",
+    "wof:parent_id":1108699547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5126,
+    16.9189,
+    120.5126,
+    16.9189
+],
+  "geometry": {"coordinates":[120.51260000000001,16.9189],"type":"Point"}
+}

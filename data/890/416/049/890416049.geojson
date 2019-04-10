@@ -1,0 +1,72 @@
+{
+  "id": 890416049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.7479,11.4379,122.7479,11.4379",
+    "geom:latitude":11.4379,
+    "geom:longitude":122.7479,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2801,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Capaga"
+    ],
+    "name:unk_x_variant":[
+        "Capagab"
+    ],
+    "qs:name":"Capaga",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675989,
+        1108698793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718774,
+        "gp:id":1168892,
+        "qs:id":135475
+    },
+    "wof:country":"PH",
+    "wof:created":1469051117,
+    "wof:geomhash":"536077b0243c86e9346ea4b10d0e8bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698793,
+            "locality_id":890416049,
+            "region_id":85675989
+        }
+    ],
+    "wof:id":890416049,
+    "wof:lastmodified":1505343429,
+    "wof:name":"Capaga",
+    "wof:parent_id":1108698793,
+    "wof:placetype":"locality",
+    "wof:population":2801,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.7479,
+    11.4379,
+    122.7479,
+    11.4379
+],
+  "geometry": {"coordinates":[122.7479,11.4379],"type":"Point"}
+}

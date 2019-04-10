@@ -1,0 +1,84 @@
+{
+  "id": 1125282111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6,14.98333,120.6,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":120.6,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":109854,
+    "gn:population":109854,
+    "iso:country":"PH",
+    "lbl:latitude":14.98333,
+    "lbl:longitude":120.6,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Guagua"
+    ],
+    "name:spa_x_preferred":[
+        "Guagua de la Pampanga"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1712628,
+    "qs_pg:gn_pop":109854,
+    "qs_pg:name":"Guagua",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1027314,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108699393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712628,
+        "qs_pg:id":1027314
+    },
+    "wof:country":"PH",
+    "wof:created":1497042542,
+    "wof:geomhash":"3ab87482ed41fd495e485c8c7cc5fb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699393,
+            "localadmin_id":1125282111,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1125282111,
+    "wof:lastmodified":1509387319,
+    "wof:name":"Guagua",
+    "wof:parent_id":1108699393,
+    "wof:placetype":"localadmin",
+    "wof:population":109854,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6,
+    14.98333,
+    120.6,
+    14.98333
+],
+  "geometry": {"coordinates":[120.59999999999999,14.98333],"type":"Point"}
+}

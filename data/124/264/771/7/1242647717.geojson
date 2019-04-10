@@ -1,0 +1,75 @@
+{
+  "id": 1242647717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.315,7.02556,124.315,7.02556",
+    "geom:latitude":7.02556,
+    "geom:longitude":124.315,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"153807000.0",
+    "gn:asciiname":"Dinaig",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1714781,
+    "gn:latitude":7.02556,
+    "gn:longitude":124.315,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dinaig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ara Rancheria",
+        "Dinaig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676173,
+        1108697487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714781,
+        "wk:page":"Dinaig"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b6761342663e7f7b03fac6253b4fa170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697487,
+            "locality_id":1242647717,
+            "region_id":85676173
+        }
+    ],
+    "wof:id":1242647717,
+    "wof:lastmodified":1537678231,
+    "wof:name":"Dinaig",
+    "wof:parent_id":1108697487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.315,
+    7.02556,
+    124.315,
+    7.02556
+],
+  "geometry": {"coordinates":[124.315,7.02556],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343842609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.00944,11.21,125.00944,11.21",
+    "geom:latitude":11.21,
+    "geom:longitude":125.00944,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83747000.0",
+    "gn:asciiname":"Sagahan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691132,
+    "gn:latitude":11.21,
+    "gn:longitude":125.00944,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sagahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagcahan",
+        "Sagkahan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676341,
+        1108697785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1691132
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"438a46a2c08537b3ad47f3cfc9eb4bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697785,
+            "locality_id":1343842609,
+            "region_id":85676341
+        }
+    ],
+    "wof:id":1343842609,
+    "wof:lastmodified":1537677567,
+    "wof:name":"Sagahan",
+    "wof:parent_id":1108697785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.00943999999998,
+    11.21,
+    125.00943999999998,
+    11.21
+],
+  "geometry": {"coordinates":[125.00943999999998,11.21],"type":"Point"}
+}

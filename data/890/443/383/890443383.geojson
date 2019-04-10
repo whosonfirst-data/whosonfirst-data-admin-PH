@@ -1,0 +1,68 @@
+{
+  "id": 890443383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.96667,10.51667,121.96667,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":121.96667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":28975,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tobias Fornier"
+    ],
+    "qs:name":"Dao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715646,
+        "qs:id":1027370
+    },
+    "wof:country":"PH",
+    "wof:created":1469052422,
+    "wof:geomhash":"4361db26d3175b6a0ca16927f9091abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699743,
+            "localadmin_id":890443383,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":890443383,
+    "wof:lastmodified":1505343593,
+    "wof:name":"Dao",
+    "wof:parent_id":1108699743,
+    "wof:placetype":"localadmin",
+    "wof:population":28975,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.96667,
+    10.51667,
+    121.96667,
+    10.51667
+],
+  "geometry": {"coordinates":[121.96666999999999,10.51667],"type":"Point"}
+}

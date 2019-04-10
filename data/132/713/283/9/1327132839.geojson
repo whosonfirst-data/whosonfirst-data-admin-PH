@@ -1,0 +1,72 @@
+{
+  "id": 1327132839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.50972,12.45833,123.50972,12.45833",
+    "geom:latitude":12.45833,
+    "geom:longitude":123.50972,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54102000.0",
+    "gn:asciiname":"Malbug",
+    "gn:country_code":"PH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702888,
+    "gn:latitude":12.45833,
+    "gn:longitude":123.50972,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malbug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malbug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702888
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ca70707a3dff329effcc9c16cd7ecd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696825,
+            "locality_id":1327132839,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1327132839,
+    "wof:lastmodified":1537677897,
+    "wof:name":"Malbug",
+    "wof:parent_id":1108696825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.50972,
+    12.45833,
+    123.50972,
+    12.45833
+],
+  "geometry": {"coordinates":[123.50972,12.45833],"type":"Point"}
+}

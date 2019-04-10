@@ -1,0 +1,75 @@
+{
+  "id": 1209845433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0496,10.462,123.0496,10.462",
+    "geom:latitude":10.462,
+    "geom:longitude":123.0496,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64502000.0",
+    "gn:asciiname":"Mallum",
+    "gn:country_code":"PH",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703541,
+    "gn:latitude":10.462,
+    "gn:longitude":123.0496,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mallum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mallum"
+    ],
+    "name:fil_x_variant":[
+        "Mailum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108696787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703541
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a19457e3068667075d33f022dc8dea11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696787,
+            "locality_id":1209845433,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1209845433,
+    "wof:lastmodified":1537677914,
+    "wof:name":"Mallum",
+    "wof:parent_id":1108696787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0496,
+    10.462,
+    123.0496,
+    10.462
+],
+  "geometry": {"coordinates":[123.0496,10.462],"type":"Point"}
+}

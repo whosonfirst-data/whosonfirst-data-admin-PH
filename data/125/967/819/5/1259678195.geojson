@@ -1,0 +1,76 @@
+{
+  "id": 1259678195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.24833,8.51222,123.24833,8.51222",
+    "geom:latitude":8.51222,
+    "geom:longitude":123.24833,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"97211000.0",
+    "gn:asciiname":"President Manuel Acuna Roxas",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692786,
+    "gn:latitude":8.51222,
+    "gn:longitude":123.24833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"President Manuel Acu\u00f1a Roxas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "President Manuel Roxas",
+        "President Roxas",
+        "President Manuel Acu\u00f1a Roxas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675961,
+        1108698955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692786,
+        "wk:page":"President_Manuel_A._Roxas%2C_Zamboanga_del_Norte"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0a644472fd5fb238da1219d9b7e6f785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698955,
+            "locality_id":1259678195,
+            "region_id":85675961
+        }
+    ],
+    "wof:id":1259678195,
+    "wof:lastmodified":1537677609,
+    "wof:name":"President Manuel Acuna Roxas",
+    "wof:parent_id":1108698955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.24833,
+    8.51222,
+    123.24833,
+    8.51222
+],
+  "geometry": {"coordinates":[123.24833,8.51222],"type":"Point"}
+}

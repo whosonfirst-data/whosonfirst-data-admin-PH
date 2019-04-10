@@ -1,0 +1,75 @@
+{
+  "id": 1293193669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.6093,12.088,123.6093,12.088",
+    "geom:latitude":12.088,
+    "geom:longitude":123.6093,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54112000.0",
+    "gn:asciiname":"Borongon",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723887,
+    "gn:latitude":12.088,
+    "gn:longitude":123.6093,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Borongon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Borongon"
+    ],
+    "name:und_x_variant":[
+        "Borangon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723887
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"434b4bfcd6f501aedf2293eab34e1c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698477,
+            "locality_id":1293193669,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1293193669,
+    "wof:lastmodified":1537678502,
+    "wof:name":"Borongon",
+    "wof:parent_id":1108698477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.6093,
+    12.088,
+    123.6093,
+    12.088
+],
+  "geometry": {"coordinates":[123.6093,12.088],"type":"Point"}
+}

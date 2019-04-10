@@ -1,0 +1,72 @@
+{
+  "id": 1293422435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0764,10.7353,123.0764,10.7353",
+    "geom:latitude":10.7353,
+    "geom:longitude":123.0764,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64528000.0",
+    "gn:asciiname":"Hacienda Cabiayar",
+    "gn:country_code":"PH",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721633,
+    "gn:latitude":10.7353,
+    "gn:longitude":123.0764,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hacienda Cabiayar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cabiayan Hacienda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721633
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b4ad2befc3afa3b3bde4e18a38fffa1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699649,
+            "locality_id":1293422435,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1293422435,
+    "wof:lastmodified":1537678432,
+    "wof:name":"Hacienda Cabiayar",
+    "wof:parent_id":1108699649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0764,
+    10.7353,
+    123.0764,
+    10.7353
+],
+  "geometry": {"coordinates":[123.07640000000001,10.7353],"type":"Point"}
+}

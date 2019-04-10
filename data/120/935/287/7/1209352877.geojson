@@ -1,0 +1,66 @@
+{
+  "id": 1209352877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.90417,14.35083,120.90417,14.35083",
+    "geom:latitude":14.35083,
+    "geom:longitude":120.90417,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42108000.0",
+    "gn:asciiname":"Santiago",
+    "gn:country_code":"PH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687814,
+    "gn:latitude":14.35083,
+    "gn:longitude":120.90417,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santiago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Santiago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687814
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"65b3cc7ff05cfd79b00847c08fa0d926",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209352877
+        }
+    ],
+    "wof:id":1209352877,
+    "wof:lastmodified":1537677462,
+    "wof:name":"Santiago",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90417,
+    14.35083,
+    120.90417,
+    14.35083
+],
+  "geometry": {"coordinates":[120.90416999999999,14.35083],"type":"Point"}
+}

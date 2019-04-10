@@ -1,0 +1,76 @@
+{
+  "id": 890440467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52,16.1227,120.52,16.1227",
+    "geom:latitude":16.1227,
+    "geom:longitude":120.52,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3230,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Palguyod"
+    ],
+    "name:fil_x_variant":[
+        "Palugyog",
+        "Palguyog"
+    ],
+    "name:unk_x_variant":[
+        "Palugyog"
+    ],
+    "qs:name":"Palguyod",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696141,
+        "gp:id":1185998,
+        "qs:id":134678
+    },
+    "wof:country":"PH",
+    "wof:created":1469052278,
+    "wof:geomhash":"0e5ce831b3c99c99a0b8adc6e3b6c3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698951,
+            "locality_id":890440467,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890440467,
+    "wof:lastmodified":1505343577,
+    "wof:name":"Palguyod",
+    "wof:parent_id":1108698951,
+    "wof:placetype":"locality",
+    "wof:population":3230,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52,
+    16.1227,
+    120.52,
+    16.1227
+],
+  "geometry": {"coordinates":[120.52,16.1227],"type":"Point"}
+}

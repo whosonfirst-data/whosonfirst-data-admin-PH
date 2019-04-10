@@ -1,0 +1,66 @@
+{
+  "id": 1108699177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000964,
+    "geom:area_square_m":11362835.531408,
+    "geom:bbox":"120.379863797,17.5965446556,120.427520082,17.6286301812",
+    "geom:latitude":17.613774,
+    "geom:longitude":120.399748,
+    "iso:country":"PH",
+    "lbl:latitude":17.613741,
+    "lbl:longitude":120.394528,
+    "meso:admin_1":"ILOCOS SUR",
+    "meso:admin_1r":"ILOCOS REGION",
+    "meso:diss_me":"SAN ILDEFONSOILOCOS SUR",
+    "meso:gadm_admn2":"San Ildefonso",
+    "meso:gadm_hasc_":"PH.IS.SI",
+    "meso:gaul_adm2_":"San Ildefonso",
+    "meso:mps_x":120.394528,
+    "meso:mps_y":17.613741,
+    "meso:name_local":"San Ildefonso",
+    "meso:source":"AOTM",
+    "mps:latitude":17.613741,
+    "mps:longitude":120.394528,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"PH",
+    "wof:created":1474496911,
+    "wof:geomhash":"199b68b94052efacc6ab2cab7bed9ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699177,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1108699177,
+    "wof:lastmodified":1512516865,
+    "wof:name":"San Ildefonso",
+    "wof:parent_id":85676061,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3798637974049,
+    17.59654465562874,
+    120.42752008209581,
+    17.62863018119294
+],
+  "geometry": {"coordinates":[[[120.38143550135241,17.62278208273624],[120.38515806100146,17.62823001888475],[120.39115507613234,17.62863018119294],[120.40110909905658,17.62224905848095],[120.40789734903299,17.62623735301242],[120.40870328353495,17.62649208798791],[120.41308906530817,17.62574270489792],[120.41797347677691,17.62646892738009],[120.42752008209581,17.61610587237309],[120.4157821613462,17.60812584312364],[120.41384855925402,17.60504557889692],[120.40663422496685,17.60439981851062],[120.40136186229533,17.60569687218252],[120.39686769712713,17.59859985986544],[120.38126162270585,17.59654465562874],[120.37986379740489,17.60696212434827],[120.38107317965844,17.60984441590188],[120.38295989669592,17.61182211673434],[120.38143550135241,17.62278208273624]]],"type":"Polygon"}
+}

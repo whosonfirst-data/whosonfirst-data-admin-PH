@@ -1,0 +1,72 @@
+{
+  "id": 890417831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.932,15.6998,119.932,15.6998",
+    "geom:latitude":15.6998,
+    "geom:longitude":119.932,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5767,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lucapon"
+    ],
+    "name:unk_x_variant":[
+        "Lacapon"
+    ],
+    "qs:name":"Lucapon",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108699357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705376,
+        "gp:id":1197867,
+        "qs:id":1032614
+    },
+    "wof:country":"PH",
+    "wof:created":1469051222,
+    "wof:geomhash":"6940a7f2f9bb4b53bc64bd4ef02ba05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699357,
+            "locality_id":890417831,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":890417831,
+    "wof:lastmodified":1505343441,
+    "wof:name":"Lucapon",
+    "wof:parent_id":1108699357,
+    "wof:placetype":"locality",
+    "wof:population":5767,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.932,
+    15.6998,
+    119.932,
+    15.6998
+],
+  "geometry": {"coordinates":[119.932,15.6998],"type":"Point"}
+}

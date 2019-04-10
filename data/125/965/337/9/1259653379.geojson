@@ -1,0 +1,75 @@
+{
+  "id": 1259653379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5997,17.49,120.5997,17.49",
+    "geom:latitude":17.49,
+    "geom:longitude":120.5997,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"01",
+    "gn:admin3_code":"140121000.0",
+    "gn:asciiname":"Dalimag Norte",
+    "gn:country_code":"PH",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1715985,
+    "gn:latitude":17.49,
+    "gn:longitude":120.5997,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dalimag Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dalimag Norte"
+    ],
+    "name:fil_x_preferred":[
+        "Dalimag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676039,
+        1108698865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1715985
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"866e707d5ad38d942d9a502233622df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698865,
+            "locality_id":1259653379,
+            "region_id":85676039
+        }
+    ],
+    "wof:id":1259653379,
+    "wof:lastmodified":1537678264,
+    "wof:name":"Dalimag Norte",
+    "wof:parent_id":1108698865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5997,
+    17.49,
+    120.5997,
+    17.49
+],
+  "geometry": {"coordinates":[120.5997,17.49],"type":"Point"}
+}

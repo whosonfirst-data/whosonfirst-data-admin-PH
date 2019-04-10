@@ -1,0 +1,76 @@
+{
+  "id": 1209228317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3392,16.3873,120.3392,16.3873",
+    "geom:latitude":16.3873,
+    "geom:longitude":120.3392,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13302000.0",
+    "gn:asciiname":"Santo Rosario West",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687556,
+    "gn:latitude":16.3873,
+    "gn:longitude":120.3392,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santo Rosario West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Santo Rosario West"
+    ],
+    "name:fil_x_preferred":[
+        "Santo Rosario Oeste"
+    ],
+    "name:fil_x_variant":[
+        "Santo Rosario"
+    ],
+    "name:und_x_variant":[
+        "Santo Rosario",
+        "Santo Rosario Oeste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687556
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2d65326c10a66ba4f1433422d3a30ad4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209228317
+        }
+    ],
+    "wof:id":1209228317,
+    "wof:lastmodified":1537677453,
+    "wof:name":"Santo Rosario West",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3392,
+    16.3873,
+    120.3392,
+    16.3873
+],
+  "geometry": {"coordinates":[120.33920000000001,16.3873],"type":"Point"}
+}

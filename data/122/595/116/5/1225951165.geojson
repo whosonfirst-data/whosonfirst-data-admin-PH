@@ -1,0 +1,75 @@
+{
+  "id": 1225951165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1035,15.597,121.1035,15.597",
+    "geom:latitude":15.597,
+    "geom:longitude":121.1035,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34919000.0",
+    "gn:asciiname":"Mataas na Pampang",
+    "gn:country_code":"PH",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1700561,
+    "gn:latitude":15.597,
+    "gn:longitude":121.1035,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mataas na Pampang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mataas na Pampang"
+    ],
+    "name:fil_x_variant":[
+        "Mataas na Pangpang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676101,
+        1108697629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700561
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ce51f22df9c8869855ff424396419400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697629,
+            "locality_id":1225951165,
+            "region_id":85676101
+        }
+    ],
+    "wof:id":1225951165,
+    "wof:lastmodified":1537677832,
+    "wof:name":"Mataas na Pampang",
+    "wof:parent_id":1108697629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1035,
+    15.597,
+    121.1035,
+    15.597
+],
+  "geometry": {"coordinates":[121.1035,15.597],"type":"Point"}
+}

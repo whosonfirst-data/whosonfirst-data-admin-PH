@@ -1,0 +1,76 @@
+{
+  "id": 1293290997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.68401,12.33014,123.68401,12.33014",
+    "geom:latitude":12.33014,
+    "geom:longitude":123.68401,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54113000.0",
+    "gn:asciiname":"Loyong Catongan",
+    "gn:country_code":"PH",
+    "gn:dem":24,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705488,
+    "gn:latitude":12.33014,
+    "gn:longitude":123.68401,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Loyong Catongan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Loyong Catongan"
+    ],
+    "name:und_x_variant":[
+        "Luyong Catungan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108698487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705488
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9e2266f6b5304907bce6a9745c5d8285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698487,
+            "locality_id":1293290997,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1293290997,
+    "wof:lastmodified":1537677969,
+    "wof:name":"Loyong Catongan",
+    "wof:parent_id":1108698487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.68401,
+    12.33014,
+    123.68401,
+    12.33014
+],
+  "geometry": {"coordinates":[123.68401,12.33014],"type":"Point"}
+}

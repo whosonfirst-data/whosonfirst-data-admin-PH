@@ -1,0 +1,81 @@
+{
+  "id": 1344159245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.78044,17.44384,121.78044,17.44384",
+    "geom:latitude":17.44384,
+    "geom:longitude":121.78044,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23133000.0",
+    "gn:asciiname":"Calamagui",
+    "gn:country_code":"PH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713373,
+    "gn:latitude":17.44384,
+    "gn:longitude":121.78044,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calamagui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calamagi"
+    ],
+    "name:fil_x_variant":[
+        "Calamagui",
+        "Galamagui",
+        "Alamagui"
+    ],
+    "name:und_x_variant":[
+        "Galamagui",
+        "Alamagui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108699385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1713373
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"87a52ff85e6346ca9095d2d89e2a6fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699385,
+            "locality_id":1344159245,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1344159245,
+    "wof:lastmodified":1537678195,
+    "wof:name":"Calamagui",
+    "wof:parent_id":1108699385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.78043999999998,
+    17.44384,
+    121.78043999999998,
+    17.44384
+],
+  "geometry": {"coordinates":[121.78043999999998,17.44384],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1277083477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71423,15.89949,120.71423,15.89949",
+    "geom:latitude":15.89949,
+    "geom:longitude":120.71423,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15507000.0",
+    "gn:asciiname":"Mauban",
+    "gn:country_code":"PH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374590,
+    "gn:latitude":15.89949,
+    "gn:longitude":120.71423,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mauban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374590
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ee0f3a96176743a44202695c0d0c586b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696859,
+            "locality_id":1277083477,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1277083477,
+    "wof:lastmodified":1536766898,
+    "wof:name":"Mauban",
+    "wof:parent_id":1108696859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71423,
+    15.89949,
+    120.71423,
+    15.89949
+],
+  "geometry": {"coordinates":[120.71423,15.89949],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1209165619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00706,14.19539,121.00706,14.19539",
+    "geom:latitude":14.19539,
+    "geom:longitude":121.00706,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42118000.0",
+    "gn:asciiname":"Hoyo",
+    "gn:country_code":"PH",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8572320,
+    "gn:latitude":14.19539,
+    "gn:longitude":121.00706,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Hoyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572320
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5063ceac085710d35e42e472f73fb8d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209165619
+        }
+    ],
+    "wof:id":1209165619,
+    "wof:lastmodified":1536295757,
+    "wof:name":"Hoyo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00706,
+    14.19539,
+    121.00706,
+    14.19539
+],
+  "geometry": {"coordinates":[121.00706,14.19539],"type":"Point"}
+}

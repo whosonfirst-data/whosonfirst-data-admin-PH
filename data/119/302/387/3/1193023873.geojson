@@ -1,0 +1,72 @@
+{
+  "id": 1193023873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91264,16.88685,121.91264,16.88685",
+    "geom:latitude":16.88685,
+    "geom:longitude":121.91264,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23120000.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"PH",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7417464,
+    "gn:latitude":16.88685,
+    "gn:longitude":121.91264,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Pedro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108697341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7417464
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7358d6c97f00d6ff3b20ef52f62d9160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697341,
+            "locality_id":1193023873,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1193023873,
+    "wof:lastmodified":1537678864,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1108697341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91264,
+    16.88685,
+    121.91264,
+    16.88685
+],
+  "geometry": {"coordinates":[121.91264,16.88685],"type":"Point"}
+}

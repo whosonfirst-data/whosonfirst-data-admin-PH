@@ -1,0 +1,66 @@
+{
+  "id": 1209327245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.62483,17.06492,121.62483,17.06492",
+    "geom:latitude":17.06492,
+    "geom:longitude":121.62483,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23130000.0",
+    "gn:asciiname":"Villanueva",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679866,
+    "gn:latitude":17.06492,
+    "gn:longitude":121.62483,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villanueva",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Villanueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679866
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"913c0c65e5c5a24f3e046abae13c8b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209327245
+        }
+    ],
+    "wof:id":1209327245,
+    "wof:lastmodified":1537677244,
+    "wof:name":"Villanueva",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.62483,
+    17.06492,
+    121.62483,
+    17.06492
+],
+  "geometry": {"coordinates":[121.62483,17.06492],"type":"Point"}
+}

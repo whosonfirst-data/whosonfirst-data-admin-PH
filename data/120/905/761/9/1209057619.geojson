@@ -1,0 +1,65 @@
+{
+  "id": 1209057619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0582,14.612,121.0582,14.612",
+    "geom:latitude":14.612,
+    "geom:longitude":121.0582,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"F2",
+    "gn:asciiname":"Soccorro",
+    "gn:country_code":"PH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091123,
+    "gn:latitude":14.612,
+    "gn:longitude":121.0582,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Soccorro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Soccorro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091123
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fde7b4c5af787a6f42db16a336a912b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209057619
+        }
+    ],
+    "wof:id":1209057619,
+    "wof:lastmodified":1537678832,
+    "wof:name":"Soccorro",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0582,
+    14.612,
+    121.0582,
+    14.612
+],
+  "geometry": {"coordinates":[121.0582,14.612],"type":"Point"}
+}

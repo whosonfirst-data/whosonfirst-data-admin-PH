@@ -1,0 +1,75 @@
+{
+  "id": 1293482877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.88333,14.06667,122.88333,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":122.88333,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51609000.0",
+    "gn:asciiname":"Maisog",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703486,
+    "gn:latitude":14.06667,
+    "gn:longitude":122.88333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Maisog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masogparte",
+        "Maisogparte",
+        "Maisog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676017,
+        1108699321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703486
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bdef55cb7cef69cff2bfd4bfd6b515a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699321,
+            "locality_id":1293482877,
+            "region_id":85676017
+        }
+    ],
+    "wof:id":1293482877,
+    "wof:lastmodified":1537677913,
+    "wof:name":"Maisog",
+    "wof:parent_id":1108699321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.88333,
+    14.06667,
+    122.88333,
+    14.06667
+],
+  "geometry": {"coordinates":[122.88333,14.06667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259987503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.58993,17.19573,121.58993,17.19573",
+    "geom:latitude":17.19573,
+    "geom:longitude":121.58993,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23119000.0",
+    "gn:asciiname":"San Jose Sur",
+    "gn:country_code":"PH",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689363,
+    "gn:latitude":17.19573,
+    "gn:longitude":121.58993,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Jose Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Jose Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676073,
+        1108698625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1689363
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"99fa71d4a0893801ba75d2ebfa3a30c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698625,
+            "locality_id":1259987503,
+            "region_id":85676073
+        }
+    ],
+    "wof:id":1259987503,
+    "wof:lastmodified":1537677513,
+    "wof:name":"San Jose Sur",
+    "wof:parent_id":1108698625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.58993,
+    17.19573,
+    121.58993,
+    17.19573
+],
+  "geometry": {"coordinates":[121.58993,17.19573],"type":"Point"}
+}

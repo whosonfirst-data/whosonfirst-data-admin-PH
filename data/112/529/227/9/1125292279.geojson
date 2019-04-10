@@ -1,0 +1,81 @@
+{
+  "id": 1125292279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.46667,4.78333,119.46667,4.78333",
+    "geom:latitude":4.78333,
+    "geom:longitude":119.46667,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":61287,
+    "gn:population":33000,
+    "iso:country":"PH",
+    "lbl:latitude":4.78333,
+    "lbl:longitude":119.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sitangkay"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1686005,
+    "qs_pg:gn_pop":61287,
+    "qs_pg:name":"Sitangkai",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":86557,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675929,
+        1108698667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686005,
+        "qs_pg:id":86557
+    },
+    "wof:country":"PH",
+    "wof:created":1497042979,
+    "wof:geomhash":"062134d39e6318d06eaf76efd61e23cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698667,
+            "localadmin_id":1125292279,
+            "region_id":85675929
+        }
+    ],
+    "wof:id":1125292279,
+    "wof:lastmodified":1509387556,
+    "wof:name":"Sitangkai",
+    "wof:parent_id":1108698667,
+    "wof:placetype":"localadmin",
+    "wof:population":33000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.46667,
+    4.78333,
+    119.46667,
+    4.78333
+],
+  "geometry": {"coordinates":[119.46666999999999,4.78333],"type":"Point"}
+}

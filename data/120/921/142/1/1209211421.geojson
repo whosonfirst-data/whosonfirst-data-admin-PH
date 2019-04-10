@@ -1,0 +1,66 @@
+{
+  "id": 1209211421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.4166,9.6715,123.4166,9.6715",
+    "geom:latitude":9.6715,
+    "geom:longitude":123.4166,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72212000.0",
+    "gn:asciiname":"Libo",
+    "gn:country_code":"PH",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706624,
+    "gn:latitude":9.6715,
+    "gn:longitude":123.4166,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Libo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Libo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706624
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c7008c0a61b736393e66ff3e599a1460",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209211421
+        }
+    ],
+    "wof:id":1209211421,
+    "wof:lastmodified":1537678003,
+    "wof:name":"Libo",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.4166,
+    9.6715,
+    123.4166,
+    9.6715
+],
+  "geometry": {"coordinates":[123.4166,9.6715],"type":"Point"}
+}

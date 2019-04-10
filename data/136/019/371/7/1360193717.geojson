@@ -1,0 +1,72 @@
+{
+  "id": 1360193717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4488,17.8785,120.4488,17.8785",
+    "geom:latitude":17.8785,
+    "geom:longitude":120.4488,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12930000.0",
+    "gn:asciiname":"Santa Cruz West",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630251,
+    "gn:latitude":17.8785,
+    "gn:longitude":120.4488,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Cruz West",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Santa Cruz West"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108699505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630251
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"603fbbba60a5987aac77dd43038b3bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699505,
+            "locality_id":1360193717,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1360193717,
+    "wof:lastmodified":1537679029,
+    "wof:name":"Santa Cruz West",
+    "wof:parent_id":1108699505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4488,
+    17.8785,
+    120.4488,
+    17.8785
+],
+  "geometry": {"coordinates":[120.44880000000001,17.8785],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421189451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.279521,14.822681,120.279521,14.822681",
+    "geom:latitude":14.822681,
+    "geom:longitude":120.279521,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Olongapo City",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Luzon",
+    "qs:photos":2918,
+    "qs:photos_1k":591,
+    "qs:photos_9k":13,
+    "qs:photos_9r":11,
+    "qs:photos_all":2918,
+    "qs:photos_sr":19,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1112817,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199575,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676361,
+        1108698693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1199575,
+        "qs:id":1112817
+    },
+    "wof:country":"PH",
+    "wof:created":1459009625,
+    "wof:geomhash":"8b35288cad580e30dd8b2a1e0869c867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698693,
+            "locality_id":421189451,
+            "region_id":85676361
+        }
+    ],
+    "wof:id":421189451,
+    "wof:lastmodified":1500080431,
+    "wof:name":"Olongapo City",
+    "wof:parent_id":1108698693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.279521,
+    14.822681,
+    120.279521,
+    14.822681
+],
+  "geometry": {"coordinates":[120.279521,14.822681],"type":"Point"}
+}

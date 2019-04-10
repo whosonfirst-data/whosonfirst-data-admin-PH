@@ -1,0 +1,76 @@
+{
+  "id": 1276894337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.95961,9.68698,123.95961,9.68698",
+    "geom:latitude":9.68698,
+    "geom:longitude":123.95961,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71241000.0",
+    "gn:asciiname":"Abucay Norte",
+    "gn:country_code":"PH",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1732343,
+    "gn:latitude":9.68698,
+    "gn:longitude":123.95961,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Abucay Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abucay North"
+    ],
+    "name:und_x_variant":[
+        "Abucay North",
+        "Abucay Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1732343
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ba259809c4c2b86c00db84dd334de2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697389,
+            "locality_id":1276894337,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1276894337,
+    "wof:lastmodified":1537678750,
+    "wof:name":"Abucay Norte",
+    "wof:parent_id":1108697389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.95961,
+    9.68698,
+    123.95961,
+    9.68698
+],
+  "geometry": {"coordinates":[123.95961,9.68698],"type":"Point"}
+}

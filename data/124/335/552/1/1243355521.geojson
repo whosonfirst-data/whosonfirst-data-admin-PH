@@ -1,0 +1,72 @@
+{
+  "id": 1243355521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.0467,10.4883,122.0467,10.4883",
+    "geom:latitude":10.4883,
+    "geom:longitude":122.0467,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63040000.0",
+    "gn:asciiname":"Talos",
+    "gn:country_code":"PH",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683751,
+    "gn:latitude":10.4883,
+    "gn:longitude":122.0467,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Talos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Talos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683751
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"754460322fea72f99c706b9964589057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699195,
+            "locality_id":1243355521,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1243355521,
+    "wof:lastmodified":1537677352,
+    "wof:name":"Talos",
+    "wof:parent_id":1108699195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.0467,
+    10.4883,
+    122.0467,
+    10.4883
+],
+  "geometry": {"coordinates":[122.0467,10.4883],"type":"Point"}
+}

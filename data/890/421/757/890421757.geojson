@@ -1,0 +1,68 @@
+{
+  "id": 890421757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.46667,17.15,121.46667,17.15",
+    "geom:latitude":17.15,
+    "geom:longitude":121.46667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":20525,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Paracales"
+    ],
+    "qs:name":"Paracelis",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676079,
+        1108698815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694808,
+        "qs:id":87030
+    },
+    "wof:country":"PH",
+    "wof:created":1469051407,
+    "wof:geomhash":"875e70871a5538b1ad590f45d6d06500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698815,
+            "localadmin_id":890421757,
+            "region_id":85676079
+        }
+    ],
+    "wof:id":890421757,
+    "wof:lastmodified":1505343465,
+    "wof:name":"Paracelis",
+    "wof:parent_id":1108698815,
+    "wof:placetype":"localadmin",
+    "wof:population":20525,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.46667,
+    17.15,
+    121.46667,
+    17.15
+],
+  "geometry": {"coordinates":[121.46666999999999,17.15],"type":"Point"}
+}

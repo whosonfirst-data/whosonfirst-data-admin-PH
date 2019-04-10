@@ -1,0 +1,68 @@
+{
+  "id": 890451385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.31722,8.25111,124.31722,8.25111",
+    "geom:latitude":8.25111,
+    "geom:longitude":124.31722,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4349,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Dikilan"
+    ],
+    "qs:name":"Digkilaan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676317,
+        1108697749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714964,
+        "qs:id":87888
+    },
+    "wof:country":"PH",
+    "wof:created":1469052777,
+    "wof:geomhash":"8848b1a6cfab720cb33ab3f9968b794b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697749,
+            "locality_id":890451385,
+            "region_id":85676317
+        }
+    ],
+    "wof:id":890451385,
+    "wof:lastmodified":1505343640,
+    "wof:name":"Digkilaan",
+    "wof:parent_id":1108697749,
+    "wof:placetype":"locality",
+    "wof:population":4349,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.31722,
+    8.25111,
+    124.31722,
+    8.25111
+],
+  "geometry": {"coordinates":[124.31722000000001,8.25111],"type":"Point"}
+}

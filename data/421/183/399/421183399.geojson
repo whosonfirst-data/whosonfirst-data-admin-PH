@@ -1,0 +1,84 @@
+{
+  "id": 421183399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.17611,9.20889,126.17611,9.20889",
+    "geom:latitude":9.20889,
+    "geom:longitude":126.17611,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Tigao"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1682304,
+    "qs:gn_pop":2077,
+    "qs:name":"Tigao",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Caraga",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1294994,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199922,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":676,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676243,
+        1108697397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682304,
+        "gp:id":1199922,
+        "qs:id":1294994,
+        "wd:id":"Q155568"
+    },
+    "wof:country":"PH",
+    "wof:created":1459009368,
+    "wof:geomhash":"cbdde8b2c16572fa2b01b2a3c165214e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697397,
+            "locality_id":421183399,
+            "region_id":85676243
+        }
+    ],
+    "wof:id":421183399,
+    "wof:lastmodified":1527716488,
+    "wof:name":"Tigao",
+    "wof:parent_id":1108697397,
+    "wof:placetype":"locality",
+    "wof:population":2077,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.17611,
+    9.20889,
+    126.17611,
+    9.20889
+],
+  "geometry": {"coordinates":[126.17610999999999,9.20889],"type":"Point"}
+}

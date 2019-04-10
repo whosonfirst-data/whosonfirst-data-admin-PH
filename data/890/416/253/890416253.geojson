@@ -1,0 +1,72 @@
+{
+  "id": 890416253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3775,14.3413,121.3775,14.3413",
+    "geom:latitude":14.3413,
+    "geom:longitude":121.3775,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2984,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bagumbong"
+    ],
+    "name:fil_x_variant":[
+        "Bagombong"
+    ],
+    "qs:name":"Bagombong",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676141,
+        1108698627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728882,
+        "gp:id":91424228,
+        "qs:id":135913
+    },
+    "wof:country":"PH",
+    "wof:created":1469051126,
+    "wof:geomhash":"fd040260b92be1b441b8f823e8cb6fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698627,
+            "locality_id":890416253,
+            "region_id":85676141
+        }
+    ],
+    "wof:id":890416253,
+    "wof:lastmodified":1505343431,
+    "wof:name":"Bagombong",
+    "wof:parent_id":1108698627,
+    "wof:placetype":"locality",
+    "wof:population":2984,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3775,
+    14.3413,
+    121.3775,
+    14.3413
+],
+  "geometry": {"coordinates":[121.3775,14.3413],"type":"Point"}
+}

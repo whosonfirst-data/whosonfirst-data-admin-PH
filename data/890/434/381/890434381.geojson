@@ -1,0 +1,71 @@
+{
+  "id": 890434381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.1138,12.5747,122.1138,12.5747",
+    "geom:latitude":12.5747,
+    "geom:longitude":122.1138,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2271,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dobdoban"
+    ],
+    "name:unk_x_variant":[
+        "Dubduban"
+    ],
+    "qs:name":"Dobdoban",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676007,
+        1108698655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714557,
+        "qs:id":135387
+    },
+    "wof:country":"PH",
+    "wof:created":1469052022,
+    "wof:geomhash":"6bf28434862cf1afa30a8e398ddb3816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698655,
+            "locality_id":890434381,
+            "region_id":85676007
+        }
+    ],
+    "wof:id":890434381,
+    "wof:lastmodified":1505343541,
+    "wof:name":"Dobdoban",
+    "wof:parent_id":1108698655,
+    "wof:placetype":"locality",
+    "wof:population":2271,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.1138,
+    12.5747,
+    122.1138,
+    12.5747
+],
+  "geometry": {"coordinates":[122.1138,12.5747],"type":"Point"}
+}

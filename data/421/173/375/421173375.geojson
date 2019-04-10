@@ -1,0 +1,89 @@
+{
+  "id": 421173375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.2447,12.5686,123.2447,12.5686",
+    "geom:latitude":12.5686,
+    "geom:longitude":123.2447,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Matungog"
+    ],
+    "name:fil_x_variant":[
+        "Matnog"
+    ],
+    "name:unk_x_variant":[
+        "Matongog"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1700253,
+    "qs:gn_pop":0,
+    "qs:name":"Matnog",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Bicol Region",
+    "qs:photos":154,
+    "qs:photos_1k":31,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":154,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":288000,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199511,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1700269,
+        "gp:id":1199511,
+        "qs:id":288000,
+        "qs_pg:id":371626
+    },
+    "wof:country":"PH",
+    "wof:created":1459008980,
+    "wof:geomhash":"dfc5b8974135d67a3ad2de5b436c966c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696709,
+            "locality_id":421173375,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":421173375,
+    "wof:lastmodified":1509410022,
+    "wof:name":"Matnog",
+    "wof:parent_id":1108696709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.2447,
+    12.5686,
+    123.2447,
+    12.5686
+],
+  "geometry": {"coordinates":[123.24469999999999,12.5686],"type":"Point"}
+}

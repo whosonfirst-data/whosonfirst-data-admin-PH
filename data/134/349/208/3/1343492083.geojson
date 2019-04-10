@@ -1,0 +1,67 @@
+{
+  "id": 1343492083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.98333,10.55,119.98333,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":119.98333,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:asciiname":"Tandol",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683278,
+    "gn:latitude":10.55,
+    "gn:longitude":119.98333,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Tandol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tandol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683278
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e6062c84fc76d81591e2f99890a85640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343492083,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343492083,
+    "wof:lastmodified":1537677339,
+    "wof:name":"Tandol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.98333,
+    10.55,
+    119.98333,
+    10.55
+],
+  "geometry": {"coordinates":[119.98333,10.55],"type":"Point"}
+}

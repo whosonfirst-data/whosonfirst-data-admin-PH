@@ -1,0 +1,72 @@
+{
+  "id": 890450887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.03164,16.08532,120.03164,16.08532",
+    "geom:latitude":16.08532,
+    "geom:longitude":120.03164,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2826,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Paitan Este"
+    ],
+    "name:unk_x_variant":[
+        "San Pedro Martir Paitan"
+    ],
+    "qs:name":"Paitan Este",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108699543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696428,
+        "gp:id":91423666,
+        "qs:id":87094
+    },
+    "wof:country":"PH",
+    "wof:created":1469052757,
+    "wof:geomhash":"a01a24532012ac6dc35307ef2a529c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699543,
+            "locality_id":890450887,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890450887,
+    "wof:lastmodified":1505343637,
+    "wof:name":"Paitan Este",
+    "wof:parent_id":1108699543,
+    "wof:placetype":"locality",
+    "wof:population":2826,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.03164,
+    16.08532,
+    120.03164,
+    16.08532
+],
+  "geometry": {"coordinates":[120.03164,16.08532],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360083443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1075,13.6387,123.1075,13.6387",
+    "geom:latitude":13.6387,
+    "geom:longitude":123.1075,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51726000.0",
+    "gn:asciiname":"Cagboga",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721027,
+    "gn:latitude":13.6387,
+    "gn:longitude":123.1075,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cagboga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cagboga"
+    ],
+    "name:und_x_variant":[
+        "Cagbugna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721027
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8a47e93a7ec0760c503741a1797f93bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698761,
+            "locality_id":1360083443,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1360083443,
+    "wof:lastmodified":1537678412,
+    "wof:name":"Cagboga",
+    "wof:parent_id":1108698761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1075,
+    13.6387,
+    123.1075,
+    13.6387
+],
+  "geometry": {"coordinates":[123.1075,13.6387],"type":"Point"}
+}

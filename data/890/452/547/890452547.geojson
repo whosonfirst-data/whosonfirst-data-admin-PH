@@ -1,0 +1,71 @@
+{
+  "id": 890452547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.98333,10.51667,123.98333,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":123.98333,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2307,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kabungahan"
+    ],
+    "name:unk_x_variant":[
+        "Cabungahan"
+    ],
+    "qs:name":"Kabungahan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108697433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709859,
+        "qs:id":135215
+    },
+    "wof:country":"PH",
+    "wof:created":1469052821,
+    "wof:geomhash":"29101535ca84e82ddae6ef97080b22f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697433,
+            "locality_id":890452547,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890452547,
+    "wof:lastmodified":1505343646,
+    "wof:name":"Kabungahan",
+    "wof:parent_id":1108697433,
+    "wof:placetype":"locality",
+    "wof:population":2307,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.98333,
+    10.51667,
+    123.98333,
+    10.51667
+],
+  "geometry": {"coordinates":[123.98333,10.51667],"type":"Point"}
+}

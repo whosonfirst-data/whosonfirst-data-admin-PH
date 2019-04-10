@@ -1,0 +1,72 @@
+{
+  "id": 1226234309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1052,11.2924,123.1052,11.2924",
+    "geom:latitude":11.2924,
+    "geom:longitude":123.1052,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63038000.0",
+    "gn:asciiname":"Tiabas",
+    "gn:country_code":"PH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1682451,
+    "gn:latitude":11.2924,
+    "gn:longitude":123.1052,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tiabas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tiabas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108699129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1682451
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e90b3a8e70884cd56337bd4819cca304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699129,
+            "locality_id":1226234309,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1226234309,
+    "wof:lastmodified":1537677318,
+    "wof:name":"Tiabas",
+    "wof:parent_id":1108699129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1052,
+    11.2924,
+    123.1052,
+    11.2924
+],
+  "geometry": {"coordinates":[123.1052,11.2924],"type":"Point"}
+}

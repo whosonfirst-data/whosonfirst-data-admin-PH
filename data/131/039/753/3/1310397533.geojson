@@ -1,0 +1,74 @@
+{
+  "id": 1310397533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.42861,10.79861,122.42861,10.79861",
+    "geom:latitude":10.79861,
+    "geom:longitude":122.42861,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63002000.0",
+    "gn:asciiname":"Binalod",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725131,
+    "gn:latitude":10.79861,
+    "gn:longitude":122.42861,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Binalod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Binalud",
+        "Binalod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675993,
+        1108696637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1725131
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"cf0f0008607ae3a3a61499d7552599ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696637,
+            "locality_id":1310397533,
+            "region_id":85675993
+        }
+    ],
+    "wof:id":1310397533,
+    "wof:lastmodified":1537678537,
+    "wof:name":"Binalod",
+    "wof:parent_id":1108696637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.42861,
+    10.79861,
+    122.42861,
+    10.79861
+],
+  "geometry": {"coordinates":[122.42861000000001,10.79861],"type":"Point"}
+}

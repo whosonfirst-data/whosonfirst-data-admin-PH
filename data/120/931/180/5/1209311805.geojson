@@ -1,0 +1,70 @@
+{
+  "id": 1209311805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.6395,10.8329,122.6395,10.8329",
+    "geom:latitude":10.8329,
+    "geom:longitude":122.6395,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63047000.0",
+    "gn:asciiname":"Balud",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727790,
+    "gn:latitude":10.8329,
+    "gn:longitude":122.6395,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balud"
+    ],
+    "name:und_x_variant":[
+        "Balod",
+        "Balud Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727790
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"434ab8b02a37892d481d7efbe9635489",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209311805
+        }
+    ],
+    "wof:id":1209311805,
+    "wof:lastmodified":1537678618,
+    "wof:name":"Balud",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.6395,
+    10.8329,
+    122.6395,
+    10.8329
+],
+  "geometry": {"coordinates":[122.6395,10.8329],"type":"Point"}
+}

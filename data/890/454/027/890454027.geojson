@@ -1,0 +1,68 @@
+{
+  "id": 890454027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.77889,6.53556,124.77889,6.53556",
+    "geom:latitude":6.53556,
+    "geom:longitude":124.77889,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2153,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Libas"
+    ],
+    "qs:name":"Libas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676263,
+        1108699683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1706736,
+        "qs:id":135078
+    },
+    "wof:country":"PH",
+    "wof:created":1469052882,
+    "wof:geomhash":"bb5ec06046872002fceb70b5c63ad6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699683,
+            "locality_id":890454027,
+            "region_id":85676263
+        }
+    ],
+    "wof:id":890454027,
+    "wof:lastmodified":1505343654,
+    "wof:name":"Libas",
+    "wof:parent_id":1108699683,
+    "wof:placetype":"locality",
+    "wof:population":2153,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.77889,
+    6.53556,
+    124.77889,
+    6.53556
+],
+  "geometry": {"coordinates":[124.77889,6.53556],"type":"Point"}
+}

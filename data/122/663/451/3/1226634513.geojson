@@ -1,0 +1,71 @@
+{
+  "id": 1226634513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9325,7.765,125.9325,7.765",
+    "geom:latitude":7.765,
+    "geom:longitude":125.9325,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"43",
+    "gn:asciiname":"Camansa",
+    "gn:country_code":"PH",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719870,
+    "gn:latitude":7.765,
+    "gn:longitude":125.9325,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Camansa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Camansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676235,
+        1108699323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719870
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"35c3a68ae2f9316fcb92647bc81bbc97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699323,
+            "locality_id":1226634513,
+            "region_id":85676235
+        }
+    ],
+    "wof:id":1226634513,
+    "wof:lastmodified":1537678377,
+    "wof:name":"Camansa",
+    "wof:parent_id":1108699323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9325,
+    7.765,
+    125.9325,
+    7.765
+],
+  "geometry": {"coordinates":[125.9325,7.765],"type":"Point"}
+}

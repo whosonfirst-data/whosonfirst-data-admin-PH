@@ -1,0 +1,74 @@
+{
+  "id": 1259379479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.11611,10.08333,124.11611,10.08333",
+    "geom:latitude":10.08333,
+    "geom:longitude":124.11611,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71209000.0",
+    "gn:asciiname":"Buenavista",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1723383,
+    "gn:latitude":10.08333,
+    "gn:longitude":124.11611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buenavista",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buenavista Norte",
+        "Buenavista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108697079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1723383
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9b5e5e085457ef261741b92a60a3ce06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697079,
+            "locality_id":1259379479,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1259379479,
+    "wof:lastmodified":1537678486,
+    "wof:name":"Buenavista",
+    "wof:parent_id":1108697079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.11611,
+    10.08333,
+    124.11611,
+    10.08333
+],
+  "geometry": {"coordinates":[124.11611000000001,10.08333],"type":"Point"}
+}

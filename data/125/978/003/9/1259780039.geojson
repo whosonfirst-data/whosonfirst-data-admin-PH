@@ -1,0 +1,75 @@
+{
+  "id": 1259780039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9101,11.0184,123.9101,11.0184",
+    "geom:latitude":11.0184,
+    "geom:longitude":123.9101,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72243000.0",
+    "gn:asciiname":"Anpog",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1730868,
+    "gn:latitude":11.0184,
+    "gn:longitude":123.9101,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Anpog",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Anpog"
+    ],
+    "name:und_x_variant":[
+        "Anapog"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730868
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"11522340f9d2852d632cf952b1e0b8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699311,
+            "locality_id":1259780039,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1259780039,
+    "wof:lastmodified":1537678707,
+    "wof:name":"Anpog",
+    "wof:parent_id":1108699311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9101,
+    11.0184,
+    123.9101,
+    11.0184
+],
+  "geometry": {"coordinates":[123.9101,11.0184],"type":"Point"}
+}

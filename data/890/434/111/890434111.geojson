@@ -1,0 +1,71 @@
+{
+  "id": 890434111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.9236,10.1785,122.9236,10.1785",
+    "geom:latitude":10.1785,
+    "geom:longitude":122.9236,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":9137,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Payao"
+    ],
+    "qs:name":"Payao",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108697713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1694209,
+        "gp:id":1168266,
+        "qs:id":134586,
+        "wk:page":"Payao"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052011,
+    "wof:geomhash":"4bfffb3e5d16014c66e963a41ca6c96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697713,
+            "locality_id":890434111,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":890434111,
+    "wof:lastmodified":1527792945,
+    "wof:name":"Payao",
+    "wof:parent_id":1108697713,
+    "wof:placetype":"locality",
+    "wof:population":9137,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.9236,
+    10.1785,
+    122.9236,
+    10.1785
+],
+  "geometry": {"coordinates":[122.92359999999999,10.1785],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276336943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6842,16.3597,121.6842,16.3597",
+    "geom:latitude":16.3597,
+    "geom:longitude":121.6842,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"68",
+    "gn:admin3_code":"25704000.0",
+    "gn:asciiname":"Villahemosa Norte",
+    "gn:country_code":"PH",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679898,
+    "gn:latitude":16.3597,
+    "gn:longitude":121.6842,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Villahemosa Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Villahemosa Norte"
+    ],
+    "name:fil_x_variant":[
+        "Villa Hermosa Norte",
+        "Villahermosa",
+        "Villahemosa"
+    ],
+    "name:und_x_variant":[
+        "Villahermosa",
+        "Villahemosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676089,
+        1108698223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679898
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"f5c2d97630139de3859d83d627f36a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698223,
+            "locality_id":1276336943,
+            "region_id":85676089
+        }
+    ],
+    "wof:id":1276336943,
+    "wof:lastmodified":1537677245,
+    "wof:name":"Villahemosa Norte",
+    "wof:parent_id":1108698223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6842,
+    16.3597,
+    121.6842,
+    16.3597
+],
+  "geometry": {"coordinates":[121.6842,16.3597],"type":"Point"}
+}

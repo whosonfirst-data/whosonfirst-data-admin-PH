@@ -1,0 +1,68 @@
+{
+  "id": 890421895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17278,5.81167,125.17278,5.81167",
+    "geom:latitude":5.81167,
+    "geom:longitude":125.17278,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":4903,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Taluya"
+    ],
+    "qs:name":"Taluya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108697655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683690,
+        "qs:id":134083
+    },
+    "wof:country":"PH",
+    "wof:created":1469051417,
+    "wof:geomhash":"9722e55e0ec707119b6c4b637840cb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697655,
+            "locality_id":890421895,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":890421895,
+    "wof:lastmodified":1505343466,
+    "wof:name":"Taluya",
+    "wof:parent_id":1108697655,
+    "wof:placetype":"locality",
+    "wof:population":4903,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17278,
+    5.81167,
+    125.17278,
+    5.81167
+],
+  "geometry": {"coordinates":[125.17278,5.81167],"type":"Point"}
+}

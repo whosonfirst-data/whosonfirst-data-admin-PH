@@ -1,0 +1,73 @@
+{
+  "id": 1293490997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54733,15.77899,120.54733,15.77899",
+    "geom:latitude":15.77899,
+    "geom:longitude":120.54733,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15510000.0",
+    "gn:asciiname":"Poponto",
+    "gn:country_code":"PH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692923,
+    "gn:latitude":15.77899,
+    "gn:longitude":120.54733,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Poponto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Popon",
+        "Poponto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108696965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1692923
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dd9ffc64735bc03dea5b4d232e7f1278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696965,
+            "locality_id":1293490997,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1293490997,
+    "wof:lastmodified":1537677613,
+    "wof:name":"Poponto",
+    "wof:parent_id":1108696965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54733,
+    15.77899,
+    120.54733,
+    15.77899
+],
+  "geometry": {"coordinates":[120.54733,15.77899],"type":"Point"}
+}

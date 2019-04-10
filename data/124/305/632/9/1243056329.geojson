@@ -1,0 +1,72 @@
+{
+  "id": 1243056329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.8512,8.2227,123.8512,8.2227",
+    "geom:latitude":8.2227,
+    "geom:longitude":123.8512,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104205000.0",
+    "gn:asciiname":"Lupagan",
+    "gn:country_code":"PH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705001,
+    "gn:latitude":8.2227,
+    "gn:longitude":123.8512,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lupagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lupagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108697357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705001
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2bf0501da28defbc213adf2f2bc40ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697357,
+            "locality_id":1243056329,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1243056329,
+    "wof:lastmodified":1537677955,
+    "wof:name":"Lupagan",
+    "wof:parent_id":1108697357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.8512,
+    8.2227,
+    123.8512,
+    8.2227
+],
+  "geometry": {"coordinates":[123.85120000000001,8.2227],"type":"Point"}
+}

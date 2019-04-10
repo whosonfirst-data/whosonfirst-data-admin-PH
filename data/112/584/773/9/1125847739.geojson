@@ -1,0 +1,84 @@
+{
+  "id": 1125847739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.1852,10.584,125.1852,10.584",
+    "geom:latitude":10.584,
+    "geom:longitude":125.1852,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2019,
+    "gn:population":2019,
+    "iso:country":"PH",
+    "lbl:latitude":10.584,
+    "lbl:longitude":125.1852,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fil_x_preferred":[
+        "Hingatungan"
+    ],
+    "name:unk_x_variant":[
+        "Hinatungan"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1711635,
+    "qs_pg:gn_pop":2019,
+    "qs_pg:name":"Hingatungan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":87741,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108699491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711635,
+        "qs_pg:id":87741
+    },
+    "wof:country":"PH",
+    "wof:created":1497293244,
+    "wof:geomhash":"061d523cc10e77e3d06f98b44c7f7bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699491,
+            "locality_id":1125847739,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1125847739,
+    "wof:lastmodified":1509395734,
+    "wof:name":"Hingatungan",
+    "wof:parent_id":1108699491,
+    "wof:placetype":"locality",
+    "wof:population":2019,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.1852,
+    10.584,
+    125.1852,
+    10.584
+],
+  "geometry": {"coordinates":[125.18519999999999,10.584],"type":"Point"}
+}

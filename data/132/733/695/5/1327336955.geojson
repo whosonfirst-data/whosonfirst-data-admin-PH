@@ -1,0 +1,74 @@
+{
+  "id": 1327336955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33333,16.61667,120.33333,16.61667",
+    "geom:latitude":16.61667,
+    "geom:longitude":120.33333,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"13314000.0",
+    "gn:asciiname":"Santiago Norte",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1687791,
+    "gn:latitude":16.61667,
+    "gn:longitude":120.33333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santiago Norte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santiago",
+        "Santiago Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1687791
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"09723a584cc4f39e474c6ea9fcdba5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699151,
+            "locality_id":1327336955,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":1327336955,
+    "wof:lastmodified":1537677461,
+    "wof:name":"Santiago Norte",
+    "wof:parent_id":1108699151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33333,
+    16.61667000000001,
+    120.33333,
+    16.61667000000001
+],
+  "geometry": {"coordinates":[120.33333,16.61667000000001],"type":"Point"}
+}

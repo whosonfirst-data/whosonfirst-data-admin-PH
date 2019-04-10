@@ -1,0 +1,72 @@
+{
+  "id": 1327422277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.81667,7.8,123.81667,7.8",
+    "geom:latitude":7.8,
+    "geom:longitude":123.81667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103519000.0",
+    "gn:asciiname":"Kalain",
+    "gn:country_code":"PH",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709730,
+    "gn:latitude":7.8,
+    "gn:longitude":123.81667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kalain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Kalain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108699441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709730
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"6bff993910a4e7ee1b015d279c66dbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699441,
+            "locality_id":1327422277,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1327422277,
+    "wof:lastmodified":1537678092,
+    "wof:name":"Kalain",
+    "wof:parent_id":1108699441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.81667,
+    7.8,
+    123.81667,
+    7.8
+],
+  "geometry": {"coordinates":[123.81667,7.8],"type":"Point"}
+}

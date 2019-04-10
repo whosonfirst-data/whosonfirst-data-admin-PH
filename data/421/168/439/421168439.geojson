@@ -1,0 +1,83 @@
+{
+  "id": 421168439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4808,12.2188,125.4808,12.2188",
+    "geom:latitude":12.2188,
+    "geom:longitude":125.4808,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fil_x_preferred":[
+        "Alugan"
+    ],
+    "name:unk_x_variant":[
+        "Alugon"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1731248,
+    "qs:gn_pop":2131,
+    "qs:name":"Alugan",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Eastern Visayas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1294766,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1198774,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1731248,
+        "gp:id":1198774,
+        "qs:id":1294766
+    },
+    "wof:country":"PH",
+    "wof:created":1459008765,
+    "wof:geomhash":"d8350edca49483d09b56be32a8ae76c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "locality_id":421168439,
+            "region_id":85676191
+        }
+    ],
+    "wof:id":421168439,
+    "wof:lastmodified":1505340590,
+    "wof:name":"Alugan",
+    "wof:parent_id":85676191,
+    "wof:placetype":"locality",
+    "wof:population":2131,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4808,
+    12.2188,
+    125.4808,
+    12.2188
+],
+  "geometry": {"coordinates":[125.4808,12.2188],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890434505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4004,16.2867,120.4004,16.2867",
+    "geom:latitude":16.2867,
+    "geom:longitude":120.4004,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2120,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bail"
+    ],
+    "qs:name":"Bail",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":6541,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676119,
+        1108699435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1728792,
+        "gp:id":1197884,
+        "qs:id":135894,
+        "wd:id":"Q162351",
+        "wk:page":"Bail"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052027,
+    "wof:geomhash":"7ee4177b01834d3b4b7d531186b37a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699435,
+            "locality_id":890434505,
+            "region_id":85676119
+        }
+    ],
+    "wof:id":890434505,
+    "wof:lastmodified":1527792942,
+    "wof:name":"Bail",
+    "wof:parent_id":1108699435,
+    "wof:placetype":"locality",
+    "wof:population":2120,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4004,
+    16.2867,
+    120.4004,
+    16.2867
+],
+  "geometry": {"coordinates":[120.4004,16.2867],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360189191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.16901,11.90827,123.16901,11.90827",
+    "geom:latitude":11.90827,
+    "geom:longitude":123.16901,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54103000.0",
+    "gn:asciiname":"Calumpang",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720061,
+    "gn:latitude":11.90827,
+    "gn:longitude":123.16901,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calumpang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Calumpang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676029,
+        1108696857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720061
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"823dca814d999d36ca9aa74b3e8b4a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696857,
+            "locality_id":1360189191,
+            "region_id":85676029
+        }
+    ],
+    "wof:id":1360189191,
+    "wof:lastmodified":1537678384,
+    "wof:name":"Calumpang",
+    "wof:parent_id":1108696857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.16901,
+    11.90827,
+    123.16901,
+    11.90827
+],
+  "geometry": {"coordinates":[123.16901,11.90827],"type":"Point"}
+}

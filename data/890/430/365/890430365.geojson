@@ -1,0 +1,70 @@
+{
+  "id": 890430365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.36417,11.69583,122.36417,11.69583",
+    "geom:latitude":11.69583,
+    "geom:longitude":122.36417,
+    "gn:country":"PH",
+    "gn:fcode":"AREA",
+    "gn:pop":2000,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Andagaw"
+    ],
+    "qs:name":"Brgy. Andagao, Kalibo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108697881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730818,
+        "gp:id":1172533,
+        "qs:id":88515
+    },
+    "wof:country":"PH",
+    "wof:created":1469051849,
+    "wof:geomhash":"841d6f370392f9893746f3598cd9b170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697881,
+            "locality_id":890430365,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":890430365,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Brgy. Andagao, Kalibo",
+    "wof:parent_id":1108697881,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.36417,
+    11.69583,
+    122.36417,
+    11.69583
+],
+  "geometry": {"coordinates":[122.36417,11.69583],"type":"Point"}
+}

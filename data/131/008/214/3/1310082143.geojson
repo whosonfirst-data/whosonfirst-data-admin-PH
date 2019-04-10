@@ -1,0 +1,77 @@
+{
+  "id": 1310082143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.29806,6.03556,125.29806,6.03556",
+    "geom:latitude":6.03556,
+    "geom:longitude":125.29806,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"M9",
+    "gn:admin3_code":"128006000.0",
+    "gn:asciiname":"Lun Grande",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705046,
+    "gn:latitude":6.03556,
+    "gn:longitude":125.29806,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lun Grande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lun Grande"
+    ],
+    "name:und_x_variant":[
+        "Lun",
+        "Lun Masla",
+        "Lun Masala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676259,
+        1108698295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1705046
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"683411c6ed21e521f56b4478b539b5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698295,
+            "locality_id":1310082143,
+            "region_id":85676259
+        }
+    ],
+    "wof:id":1310082143,
+    "wof:lastmodified":1537677956,
+    "wof:name":"Lun Grande",
+    "wof:parent_id":1108698295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.29806,
+    6.03556,
+    125.29806,
+    6.03556
+],
+  "geometry": {"coordinates":[125.29806000000001,6.03556],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421168609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0639,15.1135,120.0639,15.1135",
+    "geom:latitude":15.1135,
+    "geom:longitude":120.0639,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Maloma"
+    ],
+    "qs:gn_country":"PH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1702539,
+    "qs:gn_pop":4430,
+    "qs:name":"Maloma",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Luzon",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1294905,
+    "qs:woe_adm0":23424934,
+    "qs:woe_id":1199454,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676113,
+        1108699143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702539,
+        "gp:id":1199454,
+        "qs:id":1294905
+    },
+    "wof:country":"PH",
+    "wof:created":1459008770,
+    "wof:geomhash":"bd38d230e6c2423aecdc18f6b08c46bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699143,
+            "locality_id":421168609,
+            "region_id":85676113
+        }
+    ],
+    "wof:id":421168609,
+    "wof:lastmodified":1527716099,
+    "wof:name":"Maloma",
+    "wof:parent_id":1108699143,
+    "wof:placetype":"locality",
+    "wof:population":4430,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0639,
+    15.1135,
+    120.0639,
+    15.1135
+],
+  "geometry": {"coordinates":[120.0639,15.1135],"type":"Point"}
+}

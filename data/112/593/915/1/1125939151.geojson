@@ -1,0 +1,81 @@
+{
+  "id": 1125939151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.3053,13.2362,123.3053,13.2362",
+    "geom:latitude":13.2362,
+    "geom:longitude":123.3053,
+    "gn:gn_country":"PH",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2561,
+    "gn:population":2561,
+    "iso:country":"PH",
+    "lbl:latitude":13.2362,
+    "lbl:longitude":123.3053,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Makabugos"
+    ],
+    "qs_pg:aaroncc":"PH",
+    "qs_pg:gn_country":"PH",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1704434,
+    "qs_pg:gn_pop":2561,
+    "qs_pg:name":"Macabugos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":135003,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676011,
+        1108698073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704434,
+        "qs_pg:id":135003
+    },
+    "wof:country":"PH",
+    "wof:created":1497297062,
+    "wof:geomhash":"c7c6fd580ec5d1b49e2ab4409dfae3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698073,
+            "locality_id":1125939151,
+            "region_id":85676011
+        }
+    ],
+    "wof:id":1125939151,
+    "wof:lastmodified":1509401976,
+    "wof:name":"Macabugos",
+    "wof:parent_id":1108698073,
+    "wof:placetype":"locality",
+    "wof:population":2561,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.3053,
+    13.2362,
+    123.3053,
+    13.2362
+],
+  "geometry": {"coordinates":[123.3053,13.2362],"type":"Point"}
+}

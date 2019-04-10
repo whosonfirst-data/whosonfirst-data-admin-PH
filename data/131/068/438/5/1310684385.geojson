@@ -1,0 +1,75 @@
+{
+  "id": 1310684385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.07806,6.04639,121.07806,6.04639",
+    "geom:latitude":6.04639,
+    "geom:longitude":121.07806,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156611000.0",
+    "gn:asciiname":"Kabbon-Takas",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709922,
+    "gn:latitude":6.04639,
+    "gn:longitude":121.07806,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kabbon-Takas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabun-Takas",
+        "Kabbun Takas",
+        "Kabbon-Takas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675975,
+        1108698837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709922
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"55f44e8e5e08e8adbb21f58a729fd84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698837,
+            "locality_id":1310684385,
+            "region_id":85675975
+        }
+    ],
+    "wof:id":1310684385,
+    "wof:lastmodified":1537678098,
+    "wof:name":"Kabbon-Takas",
+    "wof:parent_id":1108698837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.07806,
+    6.04639,
+    121.07806,
+    6.04639
+],
+  "geometry": {"coordinates":[121.07805999999999,6.04639],"type":"Point"}
+}

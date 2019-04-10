@@ -1,0 +1,75 @@
+{
+  "id": 1276552075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5332,13.6203,123.5332,13.6203",
+    "geom:latitude":13.6203,
+    "geom:longitude":123.5332,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:admin3_code":"51731000.0",
+    "gn:asciiname":"Huyonhuyon",
+    "gn:country_code":"PH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711453,
+    "gn:latitude":13.6203,
+    "gn:longitude":123.5332,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Huyonhuyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Huyonhuyon"
+    ],
+    "name:und_x_variant":[
+        "Hoyonhoyon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108698601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711453
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4acb561cc9160c3b2981778847c81609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698601,
+            "locality_id":1276552075,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1276552075,
+    "wof:lastmodified":1537678139,
+    "wof:name":"Huyonhuyon",
+    "wof:parent_id":1108698601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5332,
+    13.6203,
+    123.5332,
+    13.6203
+],
+  "geometry": {"coordinates":[123.53319999999999,13.6203],"type":"Point"}
+}

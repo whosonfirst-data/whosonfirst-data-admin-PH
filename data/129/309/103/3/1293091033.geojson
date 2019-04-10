@@ -1,0 +1,79 @@
+{
+  "id": 1293091033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.6739,12.0339,124.6739,12.0339",
+    "geom:latitude":12.0339,
+    "geom:longitude":124.6739,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"86016000.0",
+    "gn:asciiname":"Sorsogon",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1685756,
+    "gn:latitude":12.0339,
+    "gn:longitude":124.6739,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sorsogon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sorsogon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u0441\u043e\u0433\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Solsogon",
+        "Sorsogon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676201,
+        1108699379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1685756
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"0f36f3a9c34fd4bdd56807a377d26754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699379,
+            "locality_id":1293091033,
+            "region_id":85676201
+        }
+    ],
+    "wof:id":1293091033,
+    "wof:lastmodified":1537677407,
+    "wof:name":"Sorsogon",
+    "wof:parent_id":1108699379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.6739,
+    12.0339,
+    124.6739,
+    12.0339
+],
+  "geometry": {"coordinates":[124.6739,12.0339],"type":"Point"}
+}

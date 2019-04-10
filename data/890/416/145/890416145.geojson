@@ -1,0 +1,72 @@
+{
+  "id": 890416145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.08511,11.4969,122.08511,11.4969",
+    "geom:latitude":11.4969,
+    "geom:longitude":122.08511,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":3017,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bitadton"
+    ],
+    "name:unk_x_variant":[
+        "Bitadtun"
+    ],
+    "qs:name":"Bitadton",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108697405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724747,
+        "gp:id":1191215,
+        "qs:id":135665
+    },
+    "wof:country":"PH",
+    "wof:created":1469051121,
+    "wof:geomhash":"89626147e9fbbf1ba4b60d151c217f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697405,
+            "locality_id":890416145,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":890416145,
+    "wof:lastmodified":1505343430,
+    "wof:name":"Bitadton",
+    "wof:parent_id":1108697405,
+    "wof:placetype":"locality",
+    "wof:population":3017,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.08511,
+    11.4969,
+    122.08511,
+    11.4969
+],
+  "geometry": {"coordinates":[122.08511,11.4969],"type":"Point"}
+}

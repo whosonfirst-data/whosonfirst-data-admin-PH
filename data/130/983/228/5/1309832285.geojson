@@ -1,0 +1,72 @@
+{
+  "id": 1309832285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1111,9.4861,123.1111,9.4861",
+    "geom:latitude":9.4861,
+    "geom:longitude":123.1111,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"74616000.0",
+    "gn:asciiname":"Basang",
+    "gn:country_code":"PH",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726475,
+    "gn:latitude":9.4861,
+    "gn:longitude":123.1111,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Basang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Basang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108698763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726475
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"216a8be324d20273b48efb5892cc39bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698763,
+            "locality_id":1309832285,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":1309832285,
+    "wof:lastmodified":1537678575,
+    "wof:name":"Basang",
+    "wof:parent_id":1108698763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1111,
+    9.4861,
+    123.1111,
+    9.4861
+],
+  "geometry": {"coordinates":[123.11109999999999,9.4861],"type":"Point"}
+}

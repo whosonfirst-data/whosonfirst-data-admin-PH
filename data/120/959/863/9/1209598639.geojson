@@ -1,0 +1,66 @@
+{
+  "id": 1209598639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8745,5.9544,120.8745,5.9544",
+    "geom:latitude":5.9544,
+    "geom:longitude":120.8745,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"156609000.0",
+    "gn:asciiname":"Malopa",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702518,
+    "gn:latitude":5.9544,
+    "gn:longitude":120.8745,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malopa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Malopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702518
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"b98da276684bddb89a0f39ffebe8f58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209598639
+        }
+    ],
+    "wof:id":1209598639,
+    "wof:lastmodified":1537677885,
+    "wof:name":"Malopa",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8745,
+    5.9544,
+    120.8745,
+    5.9544
+],
+  "geometry": {"coordinates":[120.8745,5.9544],"type":"Point"}
+}

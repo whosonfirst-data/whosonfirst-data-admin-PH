@@ -1,0 +1,72 @@
+{
+  "id": 1193216425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2184,13.7316,122.2184,13.7316",
+    "geom:latitude":13.7316,
+    "geom:longitude":122.2184,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45625000.0",
+    "gn:asciiname":"Malabahay",
+    "gn:country_code":"PH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703362,
+    "gn:latitude":13.7316,
+    "gn:longitude":122.2184,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malabahay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malabahay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703362
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"dec27c41a0b9fd39d85602967f175d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698653,
+            "locality_id":1193216425,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1193216425,
+    "wof:lastmodified":1537677908,
+    "wof:name":"Malabahay",
+    "wof:parent_id":1108698653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2184,
+    13.7316,
+    122.2184,
+    13.7316
+],
+  "geometry": {"coordinates":[122.2184,13.7316],"type":"Point"}
+}

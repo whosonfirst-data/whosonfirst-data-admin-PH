@@ -1,0 +1,75 @@
+{
+  "id": 1243070041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.48515,17.68191,121.48515,17.68191",
+    "geom:latitude":17.68191,
+    "geom:longitude":121.48515,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21528000.0",
+    "gn:asciiname":"Malumin",
+    "gn:country_code":"PH",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702454,
+    "gn:latitude":17.68191,
+    "gn:longitude":121.48515,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Malumin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Malummin"
+    ],
+    "name:fil_x_variant":[
+        "Malumin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108699763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702454
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"3ccc3f8d39e2af7305a824b2d9154436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699763,
+            "locality_id":1243070041,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1243070041,
+    "wof:lastmodified":1537677884,
+    "wof:name":"Malumin",
+    "wof:parent_id":1108699763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.48515,
+    17.68191000000001,
+    121.48515,
+    17.68191000000001
+],
+  "geometry": {"coordinates":[121.48515,17.68191000000001],"type":"Point"}
+}

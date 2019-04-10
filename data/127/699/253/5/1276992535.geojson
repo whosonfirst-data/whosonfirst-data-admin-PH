@@ -1,0 +1,76 @@
+{
+  "id": 1276992535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47199,14.97207,120.47199,14.97207",
+    "geom:latitude":14.97207,
+    "geom:longitude":120.47199,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35406000.0",
+    "gn:asciiname":"Pabanlag",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1695068,
+    "gn:latitude":14.97207,
+    "gn:longitude":120.47199,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pabanlag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Pabanlag"
+    ],
+    "name:und_x_variant":[
+        "Panlag",
+        "Pabanlag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676107,
+        1108697595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695068
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"468a1fffdb67507f83635ead5799d9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697595,
+            "locality_id":1276992535,
+            "region_id":85676107
+        }
+    ],
+    "wof:id":1276992535,
+    "wof:lastmodified":1537677677,
+    "wof:name":"Pabanlag",
+    "wof:parent_id":1108697595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47199,
+    14.97207,
+    120.47199,
+    14.97207
+],
+  "geometry": {"coordinates":[120.47199000000001,14.97207],"type":"Point"}
+}

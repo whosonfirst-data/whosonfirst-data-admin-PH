@@ -1,0 +1,80 @@
+{
+  "id": 1260292709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65085,18.07679,121.65085,18.07679",
+    "geom:latitude":18.07679,
+    "geom:longitude":121.65085,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21513000.0",
+    "gn:asciiname":"Casicallan Sur",
+    "gn:country_code":"PH",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1718163,
+    "gn:latitude":18.07679,
+    "gn:longitude":121.65085,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Casicallan Sur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Casicallan"
+    ],
+    "name:fil_x_variant":[
+        "Casicallan Sur",
+        "Cacicallan"
+    ],
+    "name:und_x_variant":[
+        "Cacicallan",
+        "Casicallan Sur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676047,
+        1108697619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1718163
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"2e7ec54b9ce080faf34fbaaf51d26f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697619,
+            "locality_id":1260292709,
+            "region_id":85676047
+        }
+    ],
+    "wof:id":1260292709,
+    "wof:lastmodified":1537678322,
+    "wof:name":"Casicallan Sur",
+    "wof:parent_id":1108697619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65085,
+    18.07679,
+    121.65085,
+    18.07679
+],
+  "geometry": {"coordinates":[121.65085000000001,18.07679],"type":"Point"}
+}

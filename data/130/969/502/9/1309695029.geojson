@@ -1,0 +1,73 @@
+{
+  "id": 1309695029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.19583,17.50861,121.19583,17.50861",
+    "geom:latitude":17.50861,
+    "geom:longitude":121.19583,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"143201000.0",
+    "gn:asciiname":"Dusoc",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714014,
+    "gn:latitude":17.50861,
+    "gn:longitude":121.19583,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dusoc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dosoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676269,
+        1108696823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714014
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"de5793ea96e02b2a4647150f15652649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696823,
+            "locality_id":1309695029,
+            "region_id":85676269
+        }
+    ],
+    "wof:id":1309695029,
+    "wof:lastmodified":1537678211,
+    "wof:name":"Dusoc",
+    "wof:parent_id":1108696823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.19583,
+    17.50861,
+    121.19583,
+    17.50861
+],
+  "geometry": {"coordinates":[121.19583,17.50861],"type":"Point"}
+}

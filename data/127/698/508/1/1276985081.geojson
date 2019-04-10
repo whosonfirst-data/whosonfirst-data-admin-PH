@@ -1,0 +1,72 @@
+{
+  "id": 1276985081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.1489,13.6017,124.1489,13.6017",
+    "geom:latitude":13.6017,
+    "geom:longitude":124.1489,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"19",
+    "gn:admin3_code":"52008000.0",
+    "gn:asciiname":"Jose Rizal",
+    "gn:country_code":"PH",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710101,
+    "gn:latitude":13.6017,
+    "gn:longitude":124.1489,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Jose Rizal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Jose Rizal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676025,
+        1108699107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1710101
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fc029929e5a91648503ae0dfa997899b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699107,
+            "locality_id":1276985081,
+            "region_id":85676025
+        }
+    ],
+    "wof:id":1276985081,
+    "wof:lastmodified":1537678103,
+    "wof:name":"Jose Rizal",
+    "wof:parent_id":1108699107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.1489,
+    13.6017,
+    124.1489,
+    13.6017
+],
+  "geometry": {"coordinates":[124.1489,13.6017],"type":"Point"}
+}

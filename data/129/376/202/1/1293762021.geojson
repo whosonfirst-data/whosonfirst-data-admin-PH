@@ -1,0 +1,75 @@
+{
+  "id": 1293762021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9331,7.9218,123.9331,7.9218",
+    "geom:latitude":7.9218,
+    "geom:longitude":123.9331,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"103518000.0",
+    "gn:asciiname":"Karkam",
+    "gn:country_code":"PH",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1709177,
+    "gn:latitude":7.9218,
+    "gn:longitude":123.9331,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Karkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karkam"
+    ],
+    "name:und_x_variant":[
+        "Karkum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676165,
+        1108699679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1709177
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"46f1c48ceb58b7afa8aaf6a28b6c24c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699679,
+            "locality_id":1293762021,
+            "region_id":85676165
+        }
+    ],
+    "wof:id":1293762021,
+    "wof:lastmodified":1537678076,
+    "wof:name":"Karkam",
+    "wof:parent_id":1108699679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9331,
+    7.9218,
+    123.9331,
+    7.9218
+],
+  "geometry": {"coordinates":[123.9331,7.9218],"type":"Point"}
+}

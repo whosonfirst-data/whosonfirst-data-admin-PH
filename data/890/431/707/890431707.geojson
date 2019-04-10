@@ -1,0 +1,69 @@
+{
+  "id": 890431707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.02418,7.0107,126.02418,7.0107",
+    "geom:latitude":7.0107,
+    "geom:longitude":126.02418,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2878,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Panikian"
+    ],
+    "qs:name":"Panikian",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676255,
+        1108696871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695144,
+        "gp:id":91427671,
+        "qs:id":276982
+    },
+    "wof:country":"PH",
+    "wof:created":1469051909,
+    "wof:geomhash":"52f1fe72f0fb9227a887970a643ed38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696871,
+            "locality_id":890431707,
+            "region_id":85676255
+        }
+    ],
+    "wof:id":890431707,
+    "wof:lastmodified":1505343525,
+    "wof:name":"Panikian",
+    "wof:parent_id":1108696871,
+    "wof:placetype":"locality",
+    "wof:population":2878,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.02418,
+    7.0107,
+    126.02418,
+    7.0107
+],
+  "geometry": {"coordinates":[126.02418,7.0107],"type":"Point"}
+}

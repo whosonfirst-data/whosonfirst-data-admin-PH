@@ -1,0 +1,72 @@
+{
+  "id": 1310002599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26278,10.30083,125.26278,10.30083",
+    "geom:latitude":10.30083,
+    "geom:longitude":125.26278,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86401000.0",
+    "gn:asciiname":"Mahalo",
+    "gn:country_code":"PH",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1703624,
+    "gn:latitude":10.30083,
+    "gn:longitude":125.26278,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mahalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Mahalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676203,
+        1108696667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1703624
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"092aef0dbb648f926544a3ad06026a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696667,
+            "locality_id":1310002599,
+            "region_id":85676203
+        }
+    ],
+    "wof:id":1310002599,
+    "wof:lastmodified":1537677916,
+    "wof:name":"Mahalo",
+    "wof:parent_id":1108696667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26278,
+    10.30083,
+    125.26278,
+    10.30083
+],
+  "geometry": {"coordinates":[125.26278000000001,10.30083],"type":"Point"}
+}

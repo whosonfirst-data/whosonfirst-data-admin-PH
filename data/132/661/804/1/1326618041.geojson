@@ -1,0 +1,75 @@
+{
+  "id": 1326618041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7937,7.4908,125.7937,7.4908",
+    "geom:latitude":7.4908,
+    "geom:longitude":125.7937,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"112319000.0",
+    "gn:asciiname":"Cuambugan",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716676,
+    "gn:latitude":7.4908,
+    "gn:longitude":125.7937,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cuambugan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cuambugan"
+    ],
+    "name:fil_x_variant":[
+        "Cuambogan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676231,
+        1108699621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716676
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d1e2c2d3fed08a435622a6ba7a1d2e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699621,
+            "locality_id":1326618041,
+            "region_id":85676231
+        }
+    ],
+    "wof:id":1326618041,
+    "wof:lastmodified":1537678284,
+    "wof:name":"Cuambugan",
+    "wof:parent_id":1108699621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7937,
+    7.4908,
+    125.7937,
+    7.4908
+],
+  "geometry": {"coordinates":[125.7937,7.4908],"type":"Point"}
+}

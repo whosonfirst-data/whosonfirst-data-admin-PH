@@ -1,0 +1,111 @@
+{
+  "id": 85771823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":128456388.853284,
+    "geom:bbox":"123.897868,10.309569,123.897868,10.309569",
+    "geom:latitude":10.309569,
+    "geom:longitude":123.897868,
+    "gn:latitude":10.3,
+    "gn:longitude":123.88333,
+    "iso:country":"PH",
+    "lbl:latitude":10.309569,
+    "lbl:longitude":123.897868,
+    "mps:latitude":10.306456,
+    "mps:longitude":123.894781,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "San Nicolas"
+    ],
+    "name:unk_x_variant":[
+        "San Nicolas"
+    ],
+    "qs:gn_adm0_cc":"PH",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":1717512,
+    "qs:gn_nam_loc":"Cebu, Cebu, Central Visayas, PH",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"San Nicolas",
+    "qs:local_max":11700,
+    "qs:local_sum":11700,
+    "qs:localhoods":1,
+    "qs:name":"San Nicolas",
+    "qs:name_adm0":"Philippines",
+    "qs:name_adm1":"Central Visayas",
+    "qs:name_adm2":"Cebu",
+    "qs:name_local":"Cebu",
+    "qs:photo_max":2041,
+    "qs:photo_sum":11700,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":250,
+    "qs:woe_adm0":23424934,
+    "qs:woe_adm1":23424721,
+    "qs:woe_adm2":2346676,
+    "qs:woe_lau":0,
+    "qs:woe_local":1199079,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675939,
+        102191569,
+        85632509,
+        890432909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688858,
+        "gp:id":1191557,
+        "qs:id":484769
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"9acf4727fffa8ee8393971b7f0ee85cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432909,
+            "locality_id":-1,
+            "neighbourhood_id":85771823,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":85771823,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379405,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[
+        1126069381
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.897868,
+    10.309569,
+    123.897868,
+    10.309569
+],
+  "geometry": {"coordinates":[123.897868,10.309569],"type":"Point"}
+}

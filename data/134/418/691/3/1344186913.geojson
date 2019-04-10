@@ -1,0 +1,73 @@
+{
+  "id": 1344186913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.0953,10.63735,123.0953,10.63735",
+    "geom:latitude":10.63735,
+    "geom:longitude":123.0953,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64520000.0",
+    "gn:asciiname":"Granada",
+    "gn:country_code":"PH",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1712693,
+    "gn:latitude":10.63735,
+    "gn:longitude":123.0953,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Granada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Granada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675951,
+        1108699649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1712693,
+        "wk:page":"Granada,_Bacolod"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"aeb0a02583a7343cdff5b849fdfcb113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699649,
+            "locality_id":1344186913,
+            "region_id":85675951
+        }
+    ],
+    "wof:id":1344186913,
+    "wof:lastmodified":1537678174,
+    "wof:name":"Granada",
+    "wof:parent_id":1108699649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.0953,
+    10.63735,
+    123.0953,
+    10.63735
+],
+  "geometry": {"coordinates":[123.09529999999999,10.63735],"type":"Point"}
+}

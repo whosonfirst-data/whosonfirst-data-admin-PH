@@ -1,0 +1,72 @@
+{
+  "id": 1193146165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.94485,16.38741,119.94485,16.38741",
+    "geom:latitude":16.38741,
+    "geom:longitude":119.94485,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15514000.0",
+    "gn:asciiname":"Salud",
+    "gn:country_code":"PH",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690777,
+    "gn:latitude":16.38741,
+    "gn:longitude":119.94485,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Salud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1690777
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"caee204ffb17b8d192377e50d79bce2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698649,
+            "locality_id":1193146165,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":1193146165,
+    "wof:lastmodified":1537677557,
+    "wof:name":"Salud",
+    "wof:parent_id":1108698649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.94485,
+    16.38741,
+    119.94485,
+    16.38741
+],
+  "geometry": {"coordinates":[119.94485,16.38741],"type":"Point"}
+}

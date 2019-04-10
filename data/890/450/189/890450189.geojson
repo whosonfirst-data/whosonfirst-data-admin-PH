@@ -1,0 +1,70 @@
+{
+  "id": 890450189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.9443,16.3871,119.9443,16.3871",
+    "geom:latitude":16.3871,
+    "geom:longitude":119.9443,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":7391,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Zaragoza"
+    ],
+    "qs:name":"Zaragoza",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123,
+        1108698649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679386,
+        "gp:id":1189949,
+        "qs:id":86284,
+        "wk:page":"Zaragoza"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052729,
+    "wof:geomhash":"84e368bee9d9d2f5e9093ca32800a1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698649,
+            "locality_id":890450189,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890450189,
+    "wof:lastmodified":1513814064,
+    "wof:name":"Zaragoza",
+    "wof:parent_id":1108698649,
+    "wof:placetype":"locality",
+    "wof:population":7391,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.9443,
+    16.3871,
+    119.9443,
+    16.3871
+],
+  "geometry": {"coordinates":[119.9443,16.3871],"type":"Point"}
+}

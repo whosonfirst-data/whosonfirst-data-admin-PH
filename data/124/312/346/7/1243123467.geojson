@@ -1,0 +1,72 @@
+{
+  "id": 1243123467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.8303,13.92699,121.8303,13.92699",
+    "geom:latitude":13.92699,
+    "geom:longitude":121.8303,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45629000.0",
+    "gn:asciiname":"Duhat",
+    "gn:country_code":"PH",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714283,
+    "gn:latitude":13.92699,
+    "gn:longitude":121.8303,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Duhat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Duhat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676161,
+        1108698715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714283
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8bc6bfdc41a8756ef8add6d7749f5c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698715,
+            "locality_id":1243123467,
+            "region_id":85676161
+        }
+    ],
+    "wof:id":1243123467,
+    "wof:lastmodified":1537678218,
+    "wof:name":"Duhat",
+    "wof:parent_id":1108698715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.8303,
+    13.92699,
+    121.8303,
+    13.92699
+],
+  "geometry": {"coordinates":[121.83029999999999,13.92699],"type":"Point"}
+}

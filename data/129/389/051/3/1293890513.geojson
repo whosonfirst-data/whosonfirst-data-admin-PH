@@ -1,0 +1,79 @@
+{
+  "id": 1293890513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5736,15.9235,121.5736,15.9235",
+    "geom:latitude":15.9235,
+    "geom:longitude":121.5736,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"G8",
+    "gn:admin3_code":"37706000.0",
+    "gn:asciiname":"Ditale",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714617,
+    "gn:latitude":15.9235,
+    "gn:longitude":121.5736,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Ditale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Ditale"
+    ],
+    "name:fil_x_variant":[
+        "Ditali",
+        "Ilongot"
+    ],
+    "name:und_x_variant":[
+        "Ilongot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676065,
+        1108697503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1714617
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5e50244c5724b8d3b7211b43f79ee389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697503,
+            "locality_id":1293890513,
+            "region_id":85676065
+        }
+    ],
+    "wof:id":1293890513,
+    "wof:lastmodified":1537678227,
+    "wof:name":"Ditale",
+    "wof:parent_id":1108697503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5736,
+    15.9235,
+    121.5736,
+    15.9235
+],
+  "geometry": {"coordinates":[121.5736,15.9235],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890416099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9525,10.74139,123.9525,10.74139",
+    "geom:latitude":10.74139,
+    "geom:longitude":123.9525,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":2859,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kabalawan"
+    ],
+    "qs:name":"Cabalawan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721953,
+        "qs:id":135528
+    },
+    "wof:country":"PH",
+    "wof:created":1469051119,
+    "wof:geomhash":"01d5a5119f5e40123df2c7424d312da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699529,
+            "locality_id":890416099,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890416099,
+    "wof:lastmodified":1505343430,
+    "wof:name":"Cabalawan",
+    "wof:parent_id":1108699529,
+    "wof:placetype":"locality",
+    "wof:population":2859,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9525,
+    10.74139,
+    123.9525,
+    10.74139
+],
+  "geometry": {"coordinates":[123.9525,10.74139],"type":"Point"}
+}

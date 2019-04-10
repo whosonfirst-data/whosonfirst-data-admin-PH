@@ -1,0 +1,68 @@
+{
+  "id": 890432753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33333,15.91667,120.33333,15.91667",
+    "geom:latitude":15.91667,
+    "geom:longitude":120.33333,
+    "gn:country":"PH",
+    "gn:fcode":"ADM2",
+    "gn:pop":2645395,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Pangasian"
+    ],
+    "qs:name":"Province of Pangasinan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1695357,
+        "gp:id":2346705,
+        "qs:id":87050
+    },
+    "wof:country":"PH",
+    "wof:created":1469051953,
+    "wof:geomhash":"d0ae2843b44506a9d5be5b1c83f60a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":890432753,
+            "region_id":85676123
+        }
+    ],
+    "wof:id":890432753,
+    "wof:lastmodified":1505343531,
+    "wof:name":"Province of Pangasinan",
+    "wof:parent_id":85676123,
+    "wof:placetype":"county",
+    "wof:population":2645395,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33333,
+    15.91667,
+    120.33333,
+    15.91667
+],
+  "geometry": {"coordinates":[120.33333,15.91667],"type":"Point"}
+}

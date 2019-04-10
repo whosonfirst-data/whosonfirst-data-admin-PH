@@ -1,0 +1,60 @@
+{
+  "id": 890422175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.81667,10.45,122.81667,10.45",
+    "geom:latitude":10.45,
+    "geom:longitude":122.81667,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":19839,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pacol",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1696814,
+        "gp:id":91465368,
+        "qs:id":1032413
+    },
+    "wof:country":"PH",
+    "wof:created":1469051430,
+    "wof:geomhash":"bfe914570ea8a32fba1ca20d04aedbd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":890422175
+        }
+    ],
+    "wof:id":890422175,
+    "wof:lastmodified":1505343468,
+    "wof:name":"Pacol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":19839,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.81667,
+    10.45,
+    122.81667,
+    10.45
+],
+  "geometry": {"coordinates":[122.81667,10.45],"type":"Point"}
+}

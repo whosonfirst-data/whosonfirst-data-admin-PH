@@ -1,0 +1,72 @@
+{
+  "id": 1310489939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.76667,8.28333,123.76667,8.28333",
+    "geom:latitude":8.28333,
+    "geom:longitude":123.76667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104214000.0",
+    "gn:asciiname":"Baton",
+    "gn:country_code":"PH",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1726110,
+    "gn:latitude":8.28333,
+    "gn:longitude":123.76667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baton",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Baton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675971,
+        1108699503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1726110
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8babe6933fe5fd374b258d0ffb276d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699503,
+            "locality_id":1310489939,
+            "region_id":85675971
+        }
+    ],
+    "wof:id":1310489939,
+    "wof:lastmodified":1537678565,
+    "wof:name":"Baton",
+    "wof:parent_id":1108699503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.76667,
+    8.28333,
+    123.76667,
+    8.28333
+],
+  "geometry": {"coordinates":[123.76667,8.28333],"type":"Point"}
+}

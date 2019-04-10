@@ -1,0 +1,70 @@
+{
+  "id": 890441553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.81667,10.6,123.81667,10.6",
+    "geom:latitude":10.6,
+    "geom:longitude":123.81667,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":43348,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Asturias"
+    ],
+    "qs:name":"Asturias",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":5479,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1730034,
+        "qs:id":88501,
+        "wk:page":"Asturias"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052328,
+    "wof:geomhash":"3c61add5e1992d20ef5d9b4b9048857f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696715,
+            "localadmin_id":890441553,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":890441553,
+    "wof:lastmodified":1527727231,
+    "wof:name":"Asturias",
+    "wof:parent_id":1108696715,
+    "wof:placetype":"localadmin",
+    "wof:population":43348,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.81667,
+    10.6,
+    123.81667,
+    10.6
+],
+  "geometry": {"coordinates":[123.81667,10.6],"type":"Point"}
+}

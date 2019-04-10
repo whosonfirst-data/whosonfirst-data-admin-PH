@@ -1,0 +1,72 @@
+{
+  "id": 1310225285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.5474,10.1076,123.5474,10.1076",
+    "geom:latitude":10.1076,
+    "geom:longitude":123.5474,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72210000.0",
+    "gn:asciiname":"Bagacay",
+    "gn:country_code":"PH",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7426972,
+    "gn:latitude":10.1076,
+    "gn:longitude":123.5474,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bagacay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bagacay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108696907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7426972
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"d12b98cc49241256d81dec8722a4c0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696907,
+            "locality_id":1310225285,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1310225285,
+    "wof:lastmodified":1537678906,
+    "wof:name":"Bagacay",
+    "wof:parent_id":1108696907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.5474,
+    10.1076,
+    123.5474,
+    10.1076
+],
+  "geometry": {"coordinates":[123.5474,10.1076],"type":"Point"}
+}

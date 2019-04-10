@@ -1,0 +1,75 @@
+{
+  "id": 1242791419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73189,18.32374,120.73189,18.32374",
+    "geom:latitude":18.32374,
+    "geom:longitude":120.73189,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"12823000.0",
+    "gn:asciiname":"Tamdagan",
+    "gn:country_code":"PH",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1683488,
+    "gn:latitude":18.32374,
+    "gn:longitude":120.73189,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tamdagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tamdagan"
+    ],
+    "name:fil_x_variant":[
+        "Dimamaga and Tamdagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676057,
+        1108699881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1683488
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"c655df582f8811050879a4c117b0d51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699881,
+            "locality_id":1242791419,
+            "region_id":85676057
+        }
+    ],
+    "wof:id":1242791419,
+    "wof:lastmodified":1537677345,
+    "wof:name":"Tamdagan",
+    "wof:parent_id":1108699881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73189,
+    18.32374,
+    120.73189,
+    18.32374
+],
+  "geometry": {"coordinates":[120.73189000000001,18.32374],"type":"Point"}
+}

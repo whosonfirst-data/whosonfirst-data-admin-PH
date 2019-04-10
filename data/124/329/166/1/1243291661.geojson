@@ -1,0 +1,72 @@
+{
+  "id": 1243291661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2666,12.012,120.2666,12.012",
+    "geom:latitude":12.012,
+    "geom:longitude":120.2666,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"49",
+    "gn:admin3_code":"175309000.0",
+    "gn:asciiname":"Calindo",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720293,
+    "gn:latitude":12.012,
+    "gn:longitude":120.2666,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calindo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Calindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676003,
+        1108697393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1720293
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"4a23876bb1789682558e3e27ad7ab018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697393,
+            "locality_id":1243291661,
+            "region_id":85676003
+        }
+    ],
+    "wof:id":1243291661,
+    "wof:lastmodified":1537678391,
+    "wof:name":"Calindo",
+    "wof:parent_id":1108697393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2666,
+    12.012,
+    120.2666,
+    12.012
+],
+  "geometry": {"coordinates":[120.2666,12.012],"type":"Point"}
+}

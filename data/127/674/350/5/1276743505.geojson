@@ -1,0 +1,74 @@
+{
+  "id": 1276743505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.47444,7.01806,125.47444,7.01806",
+    "geom:latitude":7.01806,
+    "geom:longitude":125.47444,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"112402000.0",
+    "gn:asciiname":"Mampangi",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1702236,
+    "gn:latitude":7.01806,
+    "gn:longitude":125.47444,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mampangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marapangi",
+        "Mampangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676309,
+        1108698611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1702236
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"7ac04ed5b362363ef9bc53790f2e1728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698611,
+            "locality_id":1276743505,
+            "region_id":85676309
+        }
+    ],
+    "wof:id":1276743505,
+    "wof:lastmodified":1537677877,
+    "wof:name":"Mampangi",
+    "wof:parent_id":1108698611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.47444,
+    7.01806,
+    125.47444,
+    7.01806
+],
+  "geometry": {"coordinates":[125.47444,7.01806],"type":"Point"}
+}

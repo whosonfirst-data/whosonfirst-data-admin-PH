@@ -1,0 +1,75 @@
+{
+  "id": 1226234301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.3178,11.5553,122.3178,11.5553",
+    "geom:latitude":11.5553,
+    "geom:longitude":122.3178,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60403000.0",
+    "gn:asciiname":"Toralba",
+    "gn:country_code":"PH",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681401,
+    "gn:latitude":11.5553,
+    "gn:longitude":122.3178,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Toralba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Toralba"
+    ],
+    "name:und_x_variant":[
+        "Torralba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675981,
+        1108696875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681401
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"93f784c64202b24af831ae45c560da91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108696875,
+            "locality_id":1226234301,
+            "region_id":85675981
+        }
+    ],
+    "wof:id":1226234301,
+    "wof:lastmodified":1537677289,
+    "wof:name":"Toralba",
+    "wof:parent_id":1108696875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.3178,
+    11.5553,
+    122.3178,
+    11.5553
+],
+  "geometry": {"coordinates":[122.31780000000001,11.5553],"type":"Point"}
+}

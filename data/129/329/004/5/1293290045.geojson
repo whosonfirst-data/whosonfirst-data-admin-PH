@@ -1,0 +1,75 @@
+{
+  "id": 1293290045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.71372,11.0558,125.71372,11.0558",
+    "geom:latitude":11.0558,
+    "geom:longitude":125.71372,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"82609000.0",
+    "gn:asciiname":"Cagdara-O",
+    "gn:country_code":"PH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1721016,
+    "gn:latitude":11.0558,
+    "gn:longitude":125.71372,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cagdara-O",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Cagdarao"
+    ],
+    "name:fil_x_variant":[
+        "Cagdara-O"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676191,
+        1108697693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1721016
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8f4fb3ae3ae7830f9bf1b9ffa68347cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697693,
+            "locality_id":1293290045,
+            "region_id":85676191
+        }
+    ],
+    "wof:id":1293290045,
+    "wof:lastmodified":1537678412,
+    "wof:name":"Cagdara-O",
+    "wof:parent_id":1108697693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.71372,
+    11.0558,
+    125.71372,
+    11.0558
+],
+  "geometry": {"coordinates":[125.71372,11.0558],"type":"Point"}
+}

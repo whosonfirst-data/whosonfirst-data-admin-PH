@@ -1,0 +1,66 @@
+{
+  "id": 1209152767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.2523,14.7703,122.2523,14.7703",
+    "geom:latitude":14.7703,
+    "geom:longitude":122.2523,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45632000.0",
+    "gn:asciiname":"Sangil",
+    "gn:country_code":"PH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300926,
+    "gn:latitude":14.7703,
+    "gn:longitude":122.2523,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sangil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sangil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300926
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"5b85d28dfbcc05374083ed324dd74cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209152767
+        }
+    ],
+    "wof:id":1209152767,
+    "wof:lastmodified":1537679050,
+    "wof:name":"Sangil",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.2523,
+    14.7703,
+    122.2523,
+    14.7703
+],
+  "geometry": {"coordinates":[122.25230000000001,14.7703],"type":"Point"}
+}

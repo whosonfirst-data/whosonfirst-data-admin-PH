@@ -1,0 +1,74 @@
+{
+  "id": 1293312795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.59833,9.28889,123.59833,9.28889",
+    "geom:latitude":9.28889,
+    "geom:longitude":123.59833,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"76102000.0",
+    "gn:asciiname":"Cangmalalag",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1719180,
+    "gn:latitude":9.28889,
+    "gn:longitude":123.59833,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cangmalalag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangmalalag",
+        "Cangmalalag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675947,
+        1108698015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1719180
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"e87e47ad74744b30dfbb305e6f90b272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698015,
+            "locality_id":1293312795,
+            "region_id":85675947
+        }
+    ],
+    "wof:id":1293312795,
+    "wof:lastmodified":1537678355,
+    "wof:name":"Cangmalalag",
+    "wof:parent_id":1108698015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.59833,
+    9.28889,
+    123.59833,
+    9.28889
+],
+  "geometry": {"coordinates":[123.59833,9.28889],"type":"Point"}
+}

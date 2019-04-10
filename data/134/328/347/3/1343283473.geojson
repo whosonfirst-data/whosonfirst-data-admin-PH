@@ -1,0 +1,75 @@
+{
+  "id": 1343283473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.08081,11.32061,122.08081,11.32061",
+    "geom:latitude":11.32061,
+    "geom:longitude":122.08081,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60617000.0",
+    "gn:asciiname":"Tono",
+    "gn:country_code":"PH",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681452,
+    "gn:latitude":11.32061,
+    "gn:longitude":122.08081,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tono",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Tono"
+    ],
+    "name:und_x_variant":[
+        "Tuno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675985,
+        1108699725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1681452
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"852243a88cbff47efd1ef66c227178a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699725,
+            "locality_id":1343283473,
+            "region_id":85675985
+        }
+    ],
+    "wof:id":1343283473,
+    "wof:lastmodified":1537677291,
+    "wof:name":"Tono",
+    "wof:parent_id":1108699725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.08081,
+    11.32061,
+    122.08081,
+    11.32061
+],
+  "geometry": {"coordinates":[122.08081,11.32061],"type":"Point"}
+}

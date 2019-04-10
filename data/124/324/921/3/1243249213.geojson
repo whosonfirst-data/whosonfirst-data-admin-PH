@@ -1,0 +1,72 @@
+{
+  "id": 1243249213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.9474,10.9337,123.9474,10.9337",
+    "geom:latitude":10.9337,
+    "geom:longitude":123.9474,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72243000.0",
+    "gn:asciiname":"Sili",
+    "gn:country_code":"PH",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1686493,
+    "gn:latitude":10.9337,
+    "gn:longitude":123.9474,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Sili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1686493
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"ac40d97b88bc60f7eb6828cd23718da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699311,
+            "locality_id":1243249213,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1243249213,
+    "wof:lastmodified":1537677425,
+    "wof:name":"Sili",
+    "wof:parent_id":1108699311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.9474,
+    10.9337,
+    123.9474,
+    10.9337
+],
+  "geometry": {"coordinates":[123.9474,10.9337],"type":"Point"}
+}

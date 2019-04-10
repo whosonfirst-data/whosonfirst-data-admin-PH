@@ -1,0 +1,75 @@
+{
+  "id": 1276330765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.7959,10.6926,123.7959,10.6926",
+    "geom:latitude":10.6926,
+    "geom:longitude":123.7959,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72252000.0",
+    "gn:asciiname":"Bolobolo",
+    "gn:country_code":"PH",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1724268,
+    "gn:latitude":10.6926,
+    "gn:longitude":123.7959,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Bolobolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Bolobolo"
+    ],
+    "name:und_x_variant":[
+        "Molobolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675939,
+        1108699793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1724268
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"759de6d426c160465ccd3dbd23c74080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699793,
+            "locality_id":1276330765,
+            "region_id":85675939
+        }
+    ],
+    "wof:id":1276330765,
+    "wof:lastmodified":1537678514,
+    "wof:name":"Bolobolo",
+    "wof:parent_id":1108699793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.7959,
+    10.6926,
+    123.7959,
+    10.6926
+],
+  "geometry": {"coordinates":[123.7959,10.6926],"type":"Point"}
+}

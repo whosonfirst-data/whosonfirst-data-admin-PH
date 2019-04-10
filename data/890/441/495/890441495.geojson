@@ -1,0 +1,70 @@
+{
+  "id": 890441495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93368,9.21612,125.93368,9.21612",
+    "geom:latitude":9.21612,
+    "geom:longitude":125.93368,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:pop":15029,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fil_x_preferred":[
+        "Madrid"
+    ],
+    "qs:name":"Madrid",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":16398,
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676243,
+        1108698225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1704130,
+        "qs:id":87414,
+        "wk:page":"Madrid"
+    },
+    "wof:country":"PH",
+    "wof:created":1469052325,
+    "wof:geomhash":"3a46d24ce432378cbb734ec98412dc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698225,
+            "localadmin_id":890441495,
+            "region_id":85676243
+        }
+    ],
+    "wof:id":890441495,
+    "wof:lastmodified":1527727234,
+    "wof:name":"Madrid",
+    "wof:parent_id":1108698225,
+    "wof:placetype":"localadmin",
+    "wof:population":15029,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93368,
+    9.21612,
+    125.93368,
+    9.21612
+],
+  "geometry": {"coordinates":[125.93368,9.21612],"type":"Point"}
+}

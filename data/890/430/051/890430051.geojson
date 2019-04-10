@@ -1,0 +1,72 @@
+{
+  "id": 890430051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.321,10.2726,123.321,10.2726",
+    "geom:latitude":10.2726,
+    "geom:longitude":123.321,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
+    "gn:pop":5209,
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Hibaiyo"
+    ],
+    "name:unk_x_variant":[
+        "Jibayo"
+    ],
+    "qs:name":"Hibaiyo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675945,
+        1108697677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1711807,
+        "gp:id":1174081,
+        "qs:id":87748
+    },
+    "wof:country":"PH",
+    "wof:created":1469051838,
+    "wof:geomhash":"a4d9585cc12a9038afb5e7ebf880d234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697677,
+            "locality_id":890430051,
+            "region_id":85675945
+        }
+    ],
+    "wof:id":890430051,
+    "wof:lastmodified":1505343516,
+    "wof:name":"Hibaiyo",
+    "wof:parent_id":1108697677,
+    "wof:placetype":"locality",
+    "wof:population":5209,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.321,
+    10.2726,
+    123.321,
+    10.2726
+],
+  "geometry": {"coordinates":[123.321,10.2726],"type":"Point"}
+}

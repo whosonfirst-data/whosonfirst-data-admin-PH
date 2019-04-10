@@ -1,0 +1,77 @@
+{
+  "id": 1276680081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.654,10.687,122.654,10.687",
+    "geom:latitude":10.687,
+    "geom:longitude":122.654,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"J3",
+    "gn:admin3_code":"67901000.0",
+    "gn:asciiname":"San Rogue",
+    "gn:country_code":"PH",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688460,
+    "gn:latitude":10.687,
+    "gn:longitude":122.654,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Rogue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "San Rogue"
+    ],
+    "name:und_x_variant":[
+        "San Roque-Buenavista",
+        "San Roque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675999,
+        1108697081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1688460,
+        "wk:page":"Buenavista%2C_Guimaras"
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"8cd2ade9ff652dd20868380b4e67bc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697081,
+            "locality_id":1276680081,
+            "region_id":85675999
+        }
+    ],
+    "wof:id":1276680081,
+    "wof:lastmodified":1537677482,
+    "wof:name":"San Rogue",
+    "wof:parent_id":1108697081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.654,
+    10.687,
+    122.654,
+    10.687
+],
+  "geometry": {"coordinates":[122.654,10.687],"type":"Point"}
+}

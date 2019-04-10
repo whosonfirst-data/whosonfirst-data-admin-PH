@@ -1,0 +1,74 @@
+{
+  "id": 1243087761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.32709,10.06077,124.32709,10.06077",
+    "geom:latitude":10.06077,
+    "geom:longitude":124.32709,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71244000.0",
+    "gn:asciiname":"Kinan-oan",
+    "gn:country_code":"PH",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1708702,
+    "gn:latitude":10.06077,
+    "gn:longitude":124.32709,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Kinan-oan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinanuan",
+        "Kinanoan",
+        "Kinan-oan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85675933,
+        1108699761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1708702
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"a257c9a0577240f9e13143f1ad3767c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108699761,
+            "locality_id":1243087761,
+            "region_id":85675933
+        }
+    ],
+    "wof:id":1243087761,
+    "wof:lastmodified":1537678061,
+    "wof:name":"Kinan-oan",
+    "wof:parent_id":1108699761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.32708999999998,
+    10.06077,
+    124.32708999999998,
+    10.06077
+],
+  "geometry": {"coordinates":[124.32708999999998,10.06077],"type":"Point"}
+}

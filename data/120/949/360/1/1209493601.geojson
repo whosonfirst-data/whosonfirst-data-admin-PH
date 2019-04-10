@@ -1,0 +1,66 @@
+{
+  "id": 1209493601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.03694,8.88417,125.03694,8.88417",
+    "geom:latitude":8.88417,
+    "geom:longitude":125.03694,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"104308000.0",
+    "gn:asciiname":"Dagulos",
+    "gn:country_code":"PH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716209,
+    "gn:latitude":8.88417,
+    "gn:longitude":125.03694,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dagulos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Dagulos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1716209
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"41c9d2ac4233060982052ac8473a389b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209493601
+        }
+    ],
+    "wof:id":1209493601,
+    "wof:lastmodified":1537678270,
+    "wof:name":"Dagulos",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.03694,
+    8.88417,
+    125.03694,
+    8.88417
+],
+  "geometry": {"coordinates":[125.03694,8.88417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343951173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"123.1245,13.728,123.1245,13.728",
+    "geom:latitude":13.728,
+    "geom:longitude":123.1245,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"16",
+    "gn:asciiname":"Balonnay",
+    "gn:country_code":"PH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727863,
+    "gn:latitude":13.728,
+    "gn:longitude":123.1245,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Balonnay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Balonnay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676021,
+        1108697191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1727863
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"917c409a4fa37f0818074a0cb9d21941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108697191,
+            "locality_id":1343951173,
+            "region_id":85676021
+        }
+    ],
+    "wof:id":1343951173,
+    "wof:lastmodified":1537678619,
+    "wof:name":"Balonnay",
+    "wof:parent_id":1108697191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    123.1245,
+    13.728,
+    123.1245,
+    13.728
+],
+  "geometry": {"coordinates":[123.1245,13.728],"type":"Point"}
+}

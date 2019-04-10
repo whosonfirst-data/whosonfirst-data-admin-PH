@@ -1,0 +1,65 @@
+{
+  "id": 1209026127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"122.4206,10.8844,122.4206,10.8844",
+    "geom:latitude":10.8844,
+    "geom:longitude":122.4206,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:asciiname":"Lanag",
+    "gn:country_code":"PH",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707697,
+    "gn:latitude":10.8844,
+    "gn:longitude":122.4206,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Lanag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fil_x_preferred":[
+        "Lanag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707697
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"bea26e1ef9e787c2c3a6059b74d2b449",
+    "wof:hierarchy":[
+        {
+            "country_id":85632509,
+            "locality_id":1209026127
+        }
+    ],
+    "wof:id":1209026127,
+    "wof:lastmodified":1537678033,
+    "wof:name":"Lanag",
+    "wof:parent_id":85632509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    122.4206,
+    10.8844,
+    122.4206,
+    10.8844
+],
+  "geometry": {"coordinates":[122.42059999999999,10.8844],"type":"Point"}
+}

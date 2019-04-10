@@ -1,0 +1,74 @@
+{
+  "id": 1276445633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51667,17.41667,120.51667,17.41667",
+    "geom:latitude":17.41667,
+    "geom:longitude":120.51667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"12913000.0",
+    "gn:asciiname":"Vandrel",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680082,
+    "gn:latitude":17.41667,
+    "gn:longitude":120.51667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Vandrel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
+    "iso:country":"PH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vanrell",
+        "Vandrel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632509,
+        85676061,
+        1108698555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1680082
+    },
+    "wof:country":"PH",
+    "wof:geomhash":"fb1c6c490c44b9a21c3f58312bf34dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632509,
+            "county_id":1108698555,
+            "locality_id":1276445633,
+            "region_id":85676061
+        }
+    ],
+    "wof:id":1276445633,
+    "wof:lastmodified":1537677251,
+    "wof:name":"Vandrel",
+    "wof:parent_id":1108698555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ph",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51667,
+    17.41667,
+    120.51667,
+    17.41667
+],
+  "geometry": {"coordinates":[120.51667,17.41667],"type":"Point"}
+}
