@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3266156.952772,
+    "geom:area_square_m":3266156.952775,
     "geom:bbox":"120.900855952,14.8287400196,120.920546564,14.8529728014",
     "geom:latitude":14.840957,
     "geom:longitude":120.90999,
     "iso:country":"PH",
+    "label:eng_x_preferred_longname":[
+        "Balagtas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.841197,
     "lbl:longitude":120.909841,
     "meso:admin_1":"BULACAN",
@@ -26,6 +32,9 @@
     "mps:longitude":120.909841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Balagtas (bigaa)"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -47,8 +56,8 @@
         }
     ],
     "wof:id":1108696803,
-    "wof:lastmodified":1512516842,
-    "wof:name":"Balagtas (bigaa)",
+    "wof:lastmodified":1555220373,
+    "wof:name":"Balagtas",
     "wof:parent_id":85676135,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

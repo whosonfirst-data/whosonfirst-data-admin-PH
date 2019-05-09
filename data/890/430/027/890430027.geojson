@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005666,
-    "geom:area_square_m":68841914.448871,
+    "geom:area_square_m":68841914.448879,
     "geom:bbox":"122.49405671,10.677916527,122.598557652,10.7808573733",
     "geom:latitude":10.72466,
     "geom:longitude":122.551666,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":387836,
     "iso:country":"PH",
+    "label:eng_x_preferred_longname":[
+        "Iloilo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.725825,
     "lbl:longitude":122.555258,
     "meso:admin_1":"ILOILO",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":890430027,
-    "wof:lastmodified":1527729741,
+    "wof:lastmodified":1555220349,
     "wof:name":"Iloilo City",
     "wof:parent_id":85676299,
     "wof:placetype":"county",

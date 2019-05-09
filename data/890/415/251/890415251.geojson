@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003243,
-    "geom:area_square_m":39571545.834349,
+    "geom:area_square_m":39571545.834392,
     "geom:bbox":"123.247415546,9.26404063532,123.312080383,9.32620161096",
     "geom:latitude":9.296595,
     "geom:longitude":123.279332,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":113781,
     "iso:country":"PH",
+    "label:eng_x_preferred_longname":[
+        "Dumaguete Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.297387,
     "lbl:longitude":123.279947,
     "meso:admin_1":"NEGROS ORIENTAL",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890415251,
-    "wof:lastmodified":1527727238,
+    "wof:lastmodified":1555220348,
     "wof:name":"Dumaguete City",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

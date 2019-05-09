@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015745,
-    "geom:area_square_m":188866904.52048,
+    "geom:area_square_m":188866904.520325,
     "geom:bbox":"121.226682769,13.9725037331,121.410601492,14.1426214937",
     "geom:latitude":14.052005,
     "geom:longitude":121.323598,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":242913,
     "iso:country":"PH",
+    "label:eng_x_preferred_longname":[
+        "San Pablo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.061813,
     "lbl:longitude":121.332687,
     "meso:admin_1":"LAGUNA",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":890432695,
-    "wof:lastmodified":1527793036,
+    "wof:lastmodified":1555220349,
     "wof:name":"San Pablo City",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

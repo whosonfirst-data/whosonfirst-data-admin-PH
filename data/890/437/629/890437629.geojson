@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015696,
-    "geom:area_square_m":189604903.45474,
+    "geom:area_square_m":189604903.454701,
     "geom:bbox":"123.487726848,12.2449203794,123.639308918,12.4561621939",
     "geom:latitude":12.33647,
     "geom:longitude":123.564062,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":768939,
     "iso:country":"PH",
+    "label:eng_x_preferred_longname":[
+        "Province of Masbate Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.308547,
     "lbl:longitude":123.565205,
     "meso:admin_1":"MASBATE",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890437629,
-    "wof:lastmodified":1512517872,
+    "wof:lastmodified":1555220349,
     "wof:name":"Province of Masbate",
     "wof:parent_id":85676029,
     "wof:placetype":"county",
