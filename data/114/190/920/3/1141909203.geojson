@@ -23,17 +23,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09ac\u09be\u09b2\u0995\u09c7\u099f"
     ],
-    "name:chi_x_preferred":[
-        "\u4e09\u6295\u65af\u5c07\u8ecd\u5e02"
-    ],
     "name:dan_x_preferred":[
+        "General Santos"
+    ],
+    "name:deu_x_preferred":[
         "General Santos"
     ],
     "name:diq_x_preferred":[
         "General Santos"
     ],
-    "name:dut_x_preferred":[
-        "General Santos"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ad\u03bd\u03b5\u03c1\u03b1\u03bb \u03a3\u03ac\u03bd\u03c4\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "General Santos"
@@ -41,17 +41,14 @@
     "name:epo_x_preferred":[
         "General Santos"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0631\u0627\u0644 \u0633\u0627\u0646\u062a\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "General Santos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "General Santos"
-    ],
-    "name:ger_x_preferred":[
-        "General Santos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03ad\u03bd\u03b5\u03c1\u03b1\u03bb \u03a3\u03ac\u03bd\u03c4\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0aa8\u0ab0\u0ab2 \u0ab8\u0ac7\u0a82\u0aa8\u0acd\u0a9f\u0acb\u0ab8"
@@ -89,7 +86,10 @@
     "name:mar_x_preferred":[
         "\u091c\u0928\u0930\u0932 \u0938\u0948\u0902\u091f\u094b\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "General Santos"
+    ],
+    "name:nld_x_preferred":[
         "General Santos"
     ],
     "name:nob_x_preferred":[
@@ -103,9 +103,6 @@
     ],
     "name:pam_x_preferred":[
         "General Santos Lakanbalen"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0646\u0631\u0627\u0644 \u0633\u0627\u0646\u062a\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "General Santos"
@@ -151,6 +148,9 @@
     ],
     "name:war_x_preferred":[
         "General Santos"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6295\u65af\u5c07\u8ecd\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Philippines",
@@ -271,7 +271,7 @@
         }
     ],
     "wof:id":1141909203,
-    "wof:lastmodified":1514496339,
+    "wof:lastmodified":1561778899,
     "wof:name":"General Santos",
     "wof:parent_id":1108697635,
     "wof:placetype":"locality",

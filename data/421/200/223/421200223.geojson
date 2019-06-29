@@ -24,20 +24,20 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u09b0\u09bf\u0995\u09bf\u09a8\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5229\u91d1\u7d0d"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Marikina"
     ],
     "name:dan_x_preferred":[
         "Marikina"
     ],
+    "name:deu_x_preferred":[
+        "Marikina"
+    ],
     "name:diq_x_preferred":[
         "Marikina"
     ],
-    "name:dut_x_preferred":[
-        "Marikina"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b9\u03ba\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Marikina"
@@ -48,14 +48,8 @@
     "name:fin_x_preferred":[
         "Marikina"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Marikina"
-    ],
-    "name:ger_x_preferred":[
-        "Marikina"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03b9\u03ba\u03af\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a82\u0ab0\u0ac0\u0a95\u0ac0\u0aa8\u0abe"
@@ -93,13 +87,16 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0930\u093f\u0915\u093f\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Marikina"
     ],
     "name:nan_x_preferred":[
         "Marikina"
     ],
     "name:nau_x_preferred":[
+        "Marikina"
+    ],
+    "name:nld_x_preferred":[
         "Marikina"
     ],
     "name:nob_x_preferred":[
@@ -159,6 +156,9 @@
     "name:war_x_preferred":[
         "Marikina"
     ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5229\u91d1\u7d0d"
+    ],
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1700925,
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":421200223,
-    "wof:lastmodified":1532556668,
+    "wof:lastmodified":1561778719,
     "wof:name":"Marikina",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

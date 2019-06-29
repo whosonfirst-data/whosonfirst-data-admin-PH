@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219893,
-    "geom:area_square_m":2668044398.40141,
+    "geom:area_square_m":2668044398.400099,
     "geom:bbox":"121.34122467,10.414610863,122.332880821,12.122083664",
     "geom:latitude":11.106025,
     "geom:longitude":122.073988,
@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "Antique"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u8482\u514b\u7701"
-    ],
     "name:dan_x_preferred":[
         "Antique"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Antique"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c4\u03af\u03ba"
     ],
     "name:eng_x_preferred":[
         "Antique"
@@ -59,17 +59,14 @@
     "name:epo_x_preferred":[
         "Antiko"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Antique"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Antique"
-    ],
-    "name:ger_x_preferred":[
-        "Antique"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03c4\u03af\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0acd\u0a9f\u0abf\u0a95"
@@ -104,16 +101,19 @@
     "name:lit_x_preferred":[
         "Antik\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u043a\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0901\u091f\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u043a\u0435"
+    ],
+    "name:msa_x_preferred":[
         "Wilayah Antique"
     ],
     "name:nan_x_preferred":[
+        "Antique"
+    ],
+    "name:nld_x_preferred":[
         "Antique"
     ],
     "name:nob_x_preferred":[
@@ -127,9 +127,6 @@
     ],
     "name:pam_x_preferred":[
         "Antique"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0646\u062a\u06cc\u06a9"
     ],
     "name:pol_x_preferred":[
         "Antique"
@@ -178,6 +175,9 @@
     ],
     "name:war_x_preferred":[
         "Antique"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u8482\u514b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -313,7 +313,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553814813,
+    "wof:lastmodified":1561778493,
     "wof:name":"Antique",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

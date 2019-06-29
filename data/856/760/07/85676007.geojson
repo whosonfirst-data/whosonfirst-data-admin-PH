@@ -47,17 +47,17 @@
     "name:ceb_x_preferred":[
         "Romblon"
     ],
-    "name:chi_x_preferred":[
-        "\u6717\u5e03\u9686\u7701"
-    ],
     "name:dan_x_preferred":[
         "Romblon"
     ],
     "name:deu_x_preferred":[
         "Provinz Romblon"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Romblon"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bc\u03c0\u03bb\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Romblon"
@@ -73,15 +73,6 @@
     ],
     "name:fra_x_preferred":[
         "Romblon"
-    ],
-    "name:fre_x_preferred":[
-        "Romblon"
-    ],
-    "name:ger_x_preferred":[
-        "Romblon"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03cc\u03bc\u03c0\u03bb\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0acb\u0aae\u0acd\u0aac\u0acd\u0ab2\u0acb\u0aa8"
@@ -116,17 +107,14 @@
     "name:lit_x_preferred":[
         "Romblonas"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u043e\u043c\u0431\u043b\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u094b\u092e\u092c\u0932\u094b\u0928"
     ],
-    "name:may_x_preferred":[
-        "Romblon"
-    ],
     "name:mkd_x_preferred":[
         "\u0420\u043e\u043c\u0431\u043b\u043e\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Romblon"
     ],
     "name:nan_x_preferred":[
         "Romblon"
@@ -148,9 +136,6 @@
     ],
     "name:pam_x_preferred":[
         "Romblon"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u0648\u0645\u0628\u0644\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Romblon"
@@ -342,7 +327,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550521,
+    "wof:lastmodified":1561778487,
     "wof:name":"Romblon",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

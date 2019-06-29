@@ -34,13 +34,10 @@
     "name:ceb_x_preferred":[
         "Angeles"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u592e\u5415\u5b8b"
-    ],
     "name:deu_x_preferred":[
         "Angeles"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Central Luzon"
     ],
     "name:eng_x_preferred":[
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Keski-Luzon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Lu\u00e7on centrale"
-    ],
-    "name:ger_x_preferred":[
-        "Central Luzon"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u0932\u0942\u091c\u093c\u094b\u0928"
@@ -85,11 +79,14 @@
     "name:lit_x_preferred":[
         "Centrinis Lusonas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u041b\u0443\u0437\u043e\u043d"
     ],
     "name:nan_x_preferred":[
         "Gitnang Luzon"
+    ],
+    "name:nld_x_preferred":[
+        "Central Luzon"
     ],
     "name:nob_x_preferred":[
         "Central Luzon"
@@ -135,6 +132,9 @@
     ],
     "name:war_x_preferred":[
         "Butnga nga Luzon"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u592e\u5415\u5b8b"
     ],
     "qs:a0":"Philippines",
     "qs:a0_lc":"PH",
@@ -190,7 +190,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550566,
+    "wof:lastmodified":1561778476,
     "wof:name":"Angeles",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

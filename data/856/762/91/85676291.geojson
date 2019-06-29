@@ -25,9 +25,6 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u0648 \u0644\u0627\u0628\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u054e\u056b\u057d\u0561\u0580\u0575\u0561"
-    ],
     "name:bcl_x_preferred":[
         "Lapu-Lapu"
     ],
@@ -40,13 +37,10 @@
     "name:ceb_x_preferred":[
         "Lapulapu"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u7c73\u6c99\u9122"
-    ],
     "name:deu_x_preferred":[
         "Lapu-Lapu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Central Visayas"
     ],
     "name:ell_x_preferred":[
@@ -64,17 +58,17 @@
     "name:fra_x_preferred":[
         "Lapu-Lapu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Visayas centrales"
-    ],
-    "name:ger_x_preferred":[
-        "Central Visayas"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u0935\u093f\u0938\u093e\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u054e\u056b\u057d\u0561\u0580\u0575\u0561"
     ],
     "name:ilo_x_preferred":[
         "Lapu-Lapu"
@@ -100,11 +94,11 @@
     "name:lit_x_preferred":[
         "Centriniai Visajai"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0438 \u0412\u0438\u0441\u0430\u0438"
-    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3e\u0d2a\u0d41 \u0d32\u0d3e\u0d2a\u0d41"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0438 \u0412\u0438\u0441\u0430\u0438"
     ],
     "name:mon_x_preferred":[
         "\u041b\u0430\u043f\u0443 \u041b\u0430\u043f\u0443"
@@ -117,6 +111,9 @@
     ],
     "name:nld_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:nld_x_variant":[
+        "Central Visayas"
     ],
     "name:nno_x_preferred":[
         "Lapu-Lapu"
@@ -180,6 +177,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u666e\u62c9\u666e"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u7c73\u6c99\u9122"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -295,7 +295,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550557,
+    "wof:lastmodified":1561778478,
     "wof:name":"Lapu-Lapu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

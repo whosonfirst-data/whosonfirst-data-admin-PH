@@ -23,17 +23,17 @@
     "name:ben_x_preferred":[
         "\u099f\u09be\u09b0\u09b2\u09be\u0995 \u09b6\u09b9\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u6253\u62c9\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Tarlac"
+    ],
+    "name:deu_x_preferred":[
+        "Tarlac City"
     ],
     "name:diq_x_preferred":[
         "Tarlac City"
     ],
-    "name:dut_x_preferred":[
-        "Tarlac City"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03c1\u03bb\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tarlac City"
@@ -44,14 +44,8 @@
     "name:fin_x_preferred":[
         "Tarlac City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tarlac"
-    ],
-    "name:ger_x_preferred":[
-        "Tarlac City"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03c1\u03bb\u03ac\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abe\u0ab0\u0ab2\u0ac7\u0a95 \u0ab6\u0ab9\u0ac7\u0ab0"
@@ -92,11 +86,14 @@
     "name:mar_x_preferred":[
         "\u091f\u093e\u0930\u0932\u0945\u0915 \u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Tarlac City"
     ],
     "name:nan_x_preferred":[
         "Tarlac Chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Tarlac City"
     ],
     "name:nob_x_preferred":[
         "Tarlac By"
@@ -154,6 +151,9 @@
     ],
     "name:war_x_preferred":[
         "Syudad han Tarlac"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u62c9\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Philippines",
@@ -294,7 +294,7 @@
         }
     ],
     "wof:id":421168915,
-    "wof:lastmodified":1514496730,
+    "wof:lastmodified":1561778693,
     "wof:name":"Tarlac",
     "wof:parent_id":1108699699,
     "wof:placetype":"locality",

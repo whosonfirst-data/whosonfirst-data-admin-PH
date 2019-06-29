@@ -22,17 +22,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09cd\u09a6\u09be\u0989"
     ],
-    "name:chi_x_preferred":[
-        "\u66fc\u9054\u7dad\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Mandaue"
+    ],
+    "name:deu_x_preferred":[
+        "Mandaue City"
     ],
     "name:diq_x_preferred":[
         "Mandaue"
     ],
-    "name:dut_x_preferred":[
-        "Mandaue"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03cc\u03b5"
     ],
     "name:eng_x_preferred":[
         "Mandaue"
@@ -43,14 +43,8 @@
     "name:fin_x_preferred":[
         "Mandaue"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mandaue"
-    ],
-    "name:ger_x_preferred":[
-        "Mandaue City"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03c4\u03cc\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a82\u0aa1\u0abe\u0aaf\u0ac1\u0a8f"
@@ -88,7 +82,10 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0902\u0921\u093e\u092f\u0942\u090f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Mandaue"
+    ],
+    "name:nld_x_preferred":[
         "Mandaue"
     ],
     "name:nob_x_preferred":[
@@ -106,7 +103,7 @@
     "name:por_x_preferred":[
         "Mandaue"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mandaue"
     ],
     "name:rus_x_preferred":[
@@ -150,6 +147,9 @@
     ],
     "name:war_x_preferred":[
         "Mandaue"
+    ],
+    "name:zho_x_preferred":[
+        "\u66fc\u9054\u7dad\u5e02"
     ],
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPL",
@@ -198,7 +198,7 @@
         }
     ],
     "wof:id":421178075,
-    "wof:lastmodified":1553816367,
+    "wof:lastmodified":1561778723,
     "wof:name":"Mandaue City",
     "wof:parent_id":1108698349,
     "wof:placetype":"locality",

@@ -22,19 +22,13 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u054e\u056b\u057d\u0561\u0580\u0575\u0561"
-    ],
     "name:bcl_x_preferred":[
         "Rehiyon Sentral na Visayas"
     ],
     "name:cat_x_preferred":[
         "Visayas Centrals"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u7c73\u6c99\u9122"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Central Visayas"
     ],
     "name:eng_x_preferred":[
@@ -46,17 +40,17 @@
     "name:fin_x_preferred":[
         "Keski-Visayas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Visayas centrales"
-    ],
-    "name:ger_x_preferred":[
-        "Central Visayas"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u0935\u093f\u0938\u093e\u092f\u093e"
     ],
     "name:hrv_x_preferred":[
         "Sredi\u0161nji Visayas"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u054e\u056b\u057d\u0561\u0580\u0575\u0561"
     ],
     "name:ilo_x_preferred":[
         "Tengnga a Visayas"
@@ -79,11 +73,14 @@
     "name:lit_x_preferred":[
         "Centriniai Visajai"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0438 \u0412\u0438\u0441\u0430\u0438"
     ],
     "name:nan_x_preferred":[
         "Gitnang Visayas"
+    ],
+    "name:nld_x_preferred":[
+        "Central Visayas"
     ],
     "name:oci_x_preferred":[
         "Visayas centrala"
@@ -132,6 +129,9 @@
     ],
     "name:war_x_preferred":[
         "Butnga nga Kabisay-an"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u7c73\u6c99\u9122"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -248,7 +248,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550568,
+    "wof:lastmodified":1561778477,
     "wof:name":"Mandaue",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
