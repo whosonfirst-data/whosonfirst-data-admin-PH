@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2017-07-24",
     "geom:area":0.003185,
-    "geom:area_square_m":38094868.876413,
+    "geom:area_square_m":38094868.876425,
     "geom:bbox":"120.896247864,14.6364829132,121.00836726,14.7531223198",
     "geom:latitude":14.694359,
     "geom:longitude":120.939543,
@@ -45,17 +45,11 @@
     "name:ceb_x_preferred":[
         "Malabon"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
-    ],
     "name:deu_x_preferred":[
         "Malabon City"
     ],
     "name:deu_x_variant":[
         "Metro Manila"
-    ],
-    "name:dut_x_preferred":[
-        "National Capital Region"
     ],
     "name:eng_x_preferred":[
         "National Capital Region"
@@ -69,17 +63,17 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0628\u0648\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0627\u0646\u0634\u0647\u0631 \u0645\u0627\u0646\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "Malabon"
     ],
     "name:fra_x_preferred":[
         "Malabon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Grand Manille"
-    ],
-    "name:ger_x_preferred":[
-        "Metro Manila"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u091f\u094d\u0930\u094b \u092e\u0928\u093f\u0932\u093e"
@@ -113,10 +107,10 @@
     "name:lit_x_preferred":[
         "Manilos metropolija"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0435\u0442\u0440\u043e \u041c\u0430\u043d\u0438\u043b\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Metro Manila"
     ],
     "name:nan_x_preferred":[
@@ -124,6 +118,9 @@
     ],
     "name:nld_x_preferred":[
         "Malabon"
+    ],
+    "name:nld_x_variant":[
+        "National Capital Region"
     ],
     "name:nno_x_preferred":[
         "Metro Manila"
@@ -139,9 +136,6 @@
     ],
     "name:pam_x_preferred":[
         "Malabon Lakanbalen"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0627\u0646\u0634\u0647\u0631 \u0645\u0627\u0646\u06cc\u0644"
     ],
     "name:pol_x_preferred":[
         "Malabon"
@@ -198,7 +192,8 @@
         "\u9a6c\u62c9\u7fc1"
     ],
     "name:zho_x_variant":[
-        "\u56fd\u5bb6\u9996\u90fd\u533a"
+        "\u56fd\u5bb6\u9996\u90fd\u533a",
+        "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
     ],
     "qs:a0":"Philippines",
     "qs:a0_lc":"PH",
@@ -254,7 +249,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553814813,
+    "wof:lastmodified":1561778476,
     "wof:name":"Malabon",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -30,11 +30,14 @@
     "name:dan_x_preferred":[
         "Toledo"
     ],
+    "name:deu_x_preferred":[
+        "Toledo City"
+    ],
     "name:diq_x_preferred":[
         "Toledo"
     ],
-    "name:dut_x_preferred":[
-        "Toledo"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03bb\u03ad\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Toledo City"
@@ -45,14 +48,8 @@
     "name:fin_x_preferred":[
         "Toledo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tol\u00e8de"
-    ],
-    "name:ger_x_preferred":[
-        "Toledo City"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03bb\u03ad\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0ab2\u0ac7\u0aa1\u0acb"
@@ -90,11 +87,14 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0932\u0947\u0921\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Toledo"
     ],
     "name:nld_x_preferred":[
         "Toledo City"
+    ],
+    "name:nld_x_variant":[
+        "Toledo"
     ],
     "name:nob_x_preferred":[
         "Toledo"
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":890433771,
-    "wof:lastmodified":1527792953,
+    "wof:lastmodified":1561778754,
     "wof:name":"Toledo",
     "wof:parent_id":1108699747,
     "wof:placetype":"locality",

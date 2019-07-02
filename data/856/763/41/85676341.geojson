@@ -55,16 +55,13 @@
     "name:ces_x_preferred":[
         "Tacloban"
     ],
-    "name:chi_x_preferred":[
-        "\u6771\u7c73\u6c99\u9122"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0430\u043a\u043b\u043e\u043f\u0430\u043d"
     ],
     "name:deu_x_preferred":[
         "Tacloban City"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Eastern Visayas"
     ],
     "name:ell_x_preferred":[
@@ -97,11 +94,8 @@
     "name:fra_x_preferred":[
         "Tacloban"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Visayas orientales"
-    ],
-    "name:ger_x_preferred":[
-        "Eastern Visayas"
     ],
     "name:gla_x_preferred":[
         "Tacloban"
@@ -163,11 +157,11 @@
     "name:lmo_x_preferred":[
         "Tacloban"
     ],
-    "name:mac_x_preferred":[
-        "\u0418\u0441\u0442\u043e\u0447\u043d\u0438 \u0412\u0438\u0441\u0430\u0438"
-    ],
     "name:mkd_x_preferred":[
         "\u0422\u0430\u043a\u043b\u043e\u0431\u0430\u043d"
+    ],
+    "name:mkd_x_variant":[
+        "\u0418\u0441\u0442\u043e\u0447\u043d\u0438 \u0412\u0438\u0441\u0430\u0438"
     ],
     "name:msa_x_preferred":[
         "Bandaraya Tacloban"
@@ -180,6 +174,9 @@
     ],
     "name:nld_x_preferred":[
         "Tacloban"
+    ],
+    "name:nld_x_variant":[
+        "Eastern Visayas"
     ],
     "name:nor_x_preferred":[
         "Tacloban"
@@ -268,6 +265,9 @@
     "name:zho_x_preferred":[
         "\u72ec\u9c81\u4e07\u5e02"
     ],
+    "name:zho_x_variant":[
+        "\u6771\u7c73\u6c99\u9122"
+    ],
     "qs:a0":"Philippines",
     "qs:a0_lc":"PH",
     "qs:a1":"Tacloban",
@@ -322,7 +322,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550568,
+    "wof:lastmodified":1561778476,
     "wof:name":"Tacloban",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

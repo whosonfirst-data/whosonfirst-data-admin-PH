@@ -47,17 +47,17 @@
     "name:ceb_x_preferred":[
         "Sulu"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u797f\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sulu"
     ],
     "name:deu_x_preferred":[
         "Provinz Sulu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Sulu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bb\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Sulu"
@@ -76,15 +76,6 @@
     ],
     "name:fra_x_preferred":[
         "Sulu"
-    ],
-    "name:fre_x_preferred":[
-        "Sulu"
-    ],
-    "name:ger_x_preferred":[
-        "Sulu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03bb\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab2\u0ac1"
@@ -119,14 +110,8 @@
     "name:lit_x_preferred":[
         "Sulu"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0443\u043b\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0932\u0942"
-    ],
-    "name:may_x_preferred":[
-        "Sulu"
     ],
     "name:mkd_x_preferred":[
         "\u0421\u0443\u043b\u0443"
@@ -154,9 +139,6 @@
     ],
     "name:pam_x_preferred":[
         "Sulu"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0644\u0648"
     ],
     "name:pol_x_preferred":[
         "Archipelag Sulu"
@@ -347,7 +329,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550539,
+    "wof:lastmodified":1561778492,
     "wof:name":"Sulu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

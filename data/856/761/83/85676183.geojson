@@ -42,14 +42,14 @@
     "name:cat_x_preferred":[
         "Sultan Kudarat"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u4e39\u5eab\u9054\u62c9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sultan Kudarat"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sultan Kudarat"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bb\u03c4\u03ac\u03bd \u039a\u03bf\u03c5\u03bd\u03c4\u03b1\u03c1\u03ac\u03c4"
     ],
     "name:eng_x_preferred":[
         "Sultan Kudarat"
@@ -57,17 +57,14 @@
     "name:eng_x_variant":[
         "Sultan Kudarat Province"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u0646 \u06a9\u0648\u062f\u0631\u062a"
+    ],
     "name:fin_x_preferred":[
         "Sultan Kudarat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sultan Kudarat"
-    ],
-    "name:ger_x_preferred":[
-        "Sultan Kudarat"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03bb\u03c4\u03ac\u03bd \u039a\u03bf\u03c5\u03bd\u03c4\u03b1\u03c1\u03ac\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab2\u0aa4\u0abe\u0aa8 \u0a95\u0ac1\u0aa6\u0abe\u0ab0\u0abe\u0aa4"
@@ -99,16 +96,19 @@
     "name:lit_x_preferred":[
         "Sultan Kudaratas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0443\u043b\u0442\u0430\u043d \u041a\u0443\u0434\u0430\u0440\u0430\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0932\u094d\u0924\u093e\u0928 \u0915\u0941\u0926\u093e\u0930\u093e\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u043b\u0442\u0430\u043d \u041a\u0443\u0434\u0430\u0440\u0430\u0442"
+    ],
+    "name:msa_x_preferred":[
         "Sultan Kudarat"
     ],
     "name:nan_x_preferred":[
+        "Sultan Kudarat"
+    ],
+    "name:nld_x_preferred":[
         "Sultan Kudarat"
     ],
     "name:nob_x_preferred":[
@@ -119,9 +119,6 @@
     ],
     "name:pam_x_preferred":[
         "Sultan Kudarat"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0637\u0627\u0646 \u06a9\u0648\u062f\u0631\u062a"
     ],
     "name:pol_x_preferred":[
         "Sultan Kudarat"
@@ -167,6 +164,9 @@
     ],
     "name:war_x_preferred":[
         "Sultan Kudarat"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u4e39\u5eab\u9054\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -304,7 +304,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550541,
+    "wof:lastmodified":1561778491,
     "wof:name":"Sultan Kudarat",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

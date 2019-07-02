@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223213,
-    "geom:area_square_m":2674779034.843132,
+    "geom:area_square_m":2674779034.844353,
     "geom:bbox":"121.005422098,13.9725037331,121.598821062,14.5712324019",
     "geom:latitude":14.280003,
     "geom:longitude":121.313689,
@@ -33,9 +33,6 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u063a\u0648\u0646\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Laguna probintzia"
-    ],
     "name:bcl_x_preferred":[
         "Laguna"
     ],
@@ -45,14 +42,14 @@
     "name:cat_x_preferred":[
         "Laguna"
     ],
-    "name:chi_x_preferred":[
-        "\u5167\u6e56\u7701"
-    ],
     "name:dan_x_preferred":[
         "Laguna"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Laguna"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03b3\u03ba\u03bf\u03cd\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Laguna"
@@ -60,20 +57,17 @@
     "name:eng_x_variant":[
         "Laguna Province"
     ],
+    "name:eus_x_preferred":[
+        "Laguna probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06af\u0648\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Laguna"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Laguna"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0\u10d2\u10e3\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Laguna"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03b3\u03ba\u03bf\u03cd\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a97\u0ac1\u0aa8\u0abe"
@@ -96,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0c97\u0cc1\u0ca8\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0\u10d2\u10e3\u10dc\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\uad6c\ub098 \uc8fc"
     ],
@@ -108,16 +105,19 @@
     "name:lit_x_preferred":[
         "Laguna"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0430\u0433\u0443\u043d\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0917\u0941\u0928\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u043d\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Laguna"
     ],
     "name:nan_x_preferred":[
+        "Laguna"
+    ],
+    "name:nld_x_preferred":[
         "Laguna"
     ],
     "name:nob_x_preferred":[
@@ -131,9 +131,6 @@
     ],
     "name:pam_x_preferred":[
         "Laguna"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u06af\u0648\u0646\u0627"
     ],
     "name:pol_x_preferred":[
         "Laguna"
@@ -182,6 +179,9 @@
     ],
     "name:war_x_preferred":[
         "Laguna"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u6e56\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -318,7 +318,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553814813,
+    "wof:lastmodified":1561778490,
     "wof:name":"Laguna",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -24,17 +24,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09cb\u09a8\u09be\u09a6\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f57\u7eb3\u8fbe\u5c14"
-    ],
     "name:dan_x_preferred":[
         "Koronadal"
+    ],
+    "name:deu_x_preferred":[
+        "Koronadal City"
     ],
     "name:diq_x_preferred":[
         "Koronadal"
     ],
-    "name:dut_x_preferred":[
-        "Koronadal"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c1\u03bf\u03bd\u03ac\u03bd\u03c4\u03b1\u03bb"
     ],
     "name:eng_x_preferred":[
         "Koronadal"
@@ -42,14 +42,8 @@
     "name:fin_x_preferred":[
         "Koronadal"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Koronadal"
-    ],
-    "name:ger_x_preferred":[
-        "Koronadal City"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03bf\u03bd\u03ac\u03bd\u03c4\u03b1\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acb\u0aa8\u0abe\u0aa1\u0ab2"
@@ -90,7 +84,10 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u094b\u0928\u0945\u0921\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Koronadal"
+    ],
+    "name:nld_x_preferred":[
         "Koronadal"
     ],
     "name:nob_x_preferred":[
@@ -147,6 +144,9 @@
     "name:war_x_preferred":[
         "Koronadal"
     ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f57\u7eb3\u8fbe\u5c14"
+    ],
     "qs:name":"Koronadal",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -179,7 +179,7 @@
         }
     ],
     "wof:id":890415915,
-    "wof:lastmodified":1527727238,
+    "wof:lastmodified":1561778731,
     "wof:name":"Koronadal",
     "wof:parent_id":1108698933,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248675,
-    "geom:area_square_m":2956903727.764513,
+    "geom:area_square_m":2956903727.76421,
     "geom:bbox":"121.266924974,15.1231568774,122.244251718,16.5215224508",
     "geom:latitude":15.92144,
     "geom:longitude":121.692655,
@@ -38,14 +38,14 @@
     "name:cat_x_preferred":[
         "Aurora"
     ],
-    "name:chi_x_preferred":[
-        "\u5965\u7f57\u62c9\u7701"
-    ],
     "name:dan_x_preferred":[
         "Aurora"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Aurora"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03cc\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Aurora"
@@ -59,17 +59,14 @@
     "name:fao_x_preferred":[
         "Aurora"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Aurora"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Aurora"
-    ],
-    "name:ger_x_preferred":[
-        "Aurora"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03cc\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0acb\u0ab0\u0abe"
@@ -77,13 +74,13 @@
     "name:hin_x_preferred":[
         "\u0914\u0930\u094b\u0930\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
-    "name:ice_x_preferred":[
-        "Aurora"
-    ],
     "name:ilo_x_preferred":[
         "Aurora"
     ],
     "name:ind_x_preferred":[
+        "Aurora"
+    ],
+    "name:isl_x_preferred":[
         "Aurora"
     ],
     "name:ita_x_preferred":[
@@ -113,16 +110,19 @@
     "name:lrc_x_preferred":[
         "\u0622\u0631\u0648\u0631\u0627"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0443\u0440\u043e\u0440\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u094b\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0410\u0443\u0440\u043e\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Aurora"
     ],
     "name:nan_x_preferred":[
+        "Aurora"
+    ],
+    "name:nld_x_preferred":[
         "Aurora"
     ],
     "name:nno_x_preferred":[
@@ -139,9 +139,6 @@
     ],
     "name:pam_x_preferred":[
         "Aurora Province"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0631\u0648\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Aurora"
@@ -187,6 +184,9 @@
     ],
     "name:war_x_preferred":[
         "Aurora"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7f57\u62c9\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -323,7 +323,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553814813,
+    "wof:lastmodified":1561778487,
     "wof:name":"Aurora",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

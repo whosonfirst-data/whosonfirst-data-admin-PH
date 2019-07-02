@@ -18,11 +18,14 @@
     "name:bcl_x_preferred":[
         "Allen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Allen"
     ],
     "name:eng_x_preferred":[
         "Allen"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u06cc\u0646\u060c \u0633\u0627\u0645\u0627\u0631 \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:fil_x_historical":[
         "Minapa-a"
@@ -33,10 +36,7 @@
     "name:fil_x_variant":[
         "Minapa-a"
     ],
-    "name:fre_x_preferred":[
-        "Allen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Allen"
     ],
     "name:ilo_x_preferred":[
@@ -51,14 +51,14 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30ec\u30f3"
     ],
+    "name:nld_x_preferred":[
+        "Allen"
+    ],
     "name:pag_x_preferred":[
         "Allen"
     ],
     "name:pam_x_preferred":[
         "Allen"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u06cc\u0646\u060c \u0633\u0627\u0645\u0627\u0631 \u0634\u0645\u0627\u0644\u06cc"
     ],
     "name:spa_x_preferred":[
         "La Granja"
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":890416317,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1561778748,
     "wof:name":"Allen",
     "wof:parent_id":1108696643,
     "wof:placetype":"locality",

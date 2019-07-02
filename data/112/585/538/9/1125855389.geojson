@@ -34,9 +34,6 @@
     "name:ceb_x_preferred":[
         "Dakbayan sa Bacolod"
     ],
-    "name:chi_x_preferred":[
-        "\u63cf\u6208\u5f8b"
-    ],
     "name:dan_x_preferred":[
         "Bacolod"
     ],
@@ -46,8 +43,8 @@
     "name:diq_x_preferred":[
         "Bacolod"
     ],
-    "name:dut_x_preferred":[
-        "Bacolod"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03ba\u03bf\u03bb\u03bf\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Bacolod City"
@@ -55,20 +52,14 @@
     "name:epo_x_preferred":[
         "Bacolod"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06a9\u0644\u0648\u062f"
+    ],
     "name:fin_x_preferred":[
         "Bacolod"
     ],
     "name:fra_x_preferred":[
         "Bacolod"
-    ],
-    "name:fre_x_preferred":[
-        "Bacolod"
-    ],
-    "name:ger_x_preferred":[
-        "Bacolod"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03ba\u03bf\u03bb\u03bf\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac5\u0a95\u0acb\u0ab2\u0acb\u0aa1"
@@ -115,11 +106,14 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u0915\u094b\u0932\u094b\u0921"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bacolod"
     ],
     "name:nld_x_preferred":[
         "Bacolod City"
+    ],
+    "name:nld_x_variant":[
+        "Bacolod"
     ],
     "name:nob_x_preferred":[
         "Bacolod"
@@ -132,9 +126,6 @@
     ],
     "name:pam_x_preferred":[
         "Bacolod"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u06a9\u0644\u0648\u062f"
     ],
     "name:pol_x_preferred":[
         "Bacolod"
@@ -190,6 +181,9 @@
     "name:war_x_preferred":[
         "Syudad han Bacolod"
     ],
+    "name:zho_x_preferred":[
+        "\u63cf\u6208\u5f8b"
+    ],
     "qs_pg:aaroncc":"PH",
     "qs_pg:gn_country":"PH",
     "qs_pg:gn_fcode":"PPLA2",
@@ -229,7 +223,7 @@
         }
     ],
     "wof:id":1125855389,
-    "wof:lastmodified":1514496176,
+    "wof:lastmodified":1561778762,
     "wof:name":"Bacolod City",
     "wof:parent_id":1108696747,
     "wof:placetype":"locality",

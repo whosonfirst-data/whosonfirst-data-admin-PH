@@ -47,17 +47,17 @@
     "name:ceb_x_preferred":[
         "Rizal"
     ],
-    "name:chi_x_preferred":[
-        "\u9ece\u524e\u7701"
-    ],
     "name:dan_x_preferred":[
         "Rizal"
     ],
     "name:deu_x_preferred":[
         "Provinz Rizal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Rizal"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b9\u03b6\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Rizal"
@@ -73,15 +73,6 @@
     ],
     "name:fra_x_preferred":[
         "Rizal"
-    ],
-    "name:fre_x_preferred":[
-        "Rizal"
-    ],
-    "name:ger_x_preferred":[
-        "Rizal"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03b9\u03b6\u03ac\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0a9d\u0abe\u0ab2"
@@ -113,17 +104,14 @@
     "name:lit_x_preferred":[
         "Rizalis"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0438\u0437\u0430\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u0930\u093f\u092f\u093e\u091d\u0932"
     ],
-    "name:may_x_preferred":[
-        "Rizal"
-    ],
     "name:mkd_x_preferred":[
         "\u0420\u0438\u0437\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Rizal"
     ],
     "name:nan_x_preferred":[
         "Rizal"
@@ -145,9 +133,6 @@
     ],
     "name:pam_x_preferred":[
         "Rizal"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0632\u0627\u0644"
     ],
     "name:pol_x_preferred":[
         "Rizal"
@@ -338,7 +323,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550533,
+    "wof:lastmodified":1561778489,
     "wof:name":"Rizal",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

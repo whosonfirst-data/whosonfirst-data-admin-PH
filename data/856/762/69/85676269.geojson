@@ -41,14 +41,14 @@
     "name:cat_x_preferred":[
         "prov\u00edncia de Kalinga"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u6797\u963f\u7701"
-    ],
     "name:dan_x_preferred":[
         "Kalinga"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kalinga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kalinga"
@@ -56,17 +56,14 @@
     "name:eng_x_variant":[
         "Kalinga Province"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u06cc\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kalingan provinssi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Kalinga"
-    ],
-    "name:ger_x_preferred":[
-        "Kalinga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03af\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ab2\u0abf\u0a82\u0a97\u0abe"
@@ -101,16 +98,19 @@
     "name:lit_x_preferred":[
         "Kalinga"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u043b\u0438\u043d\u0433\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0932\u093f\u0902\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0433\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Kalinga"
     ],
     "name:nan_x_preferred":[
+        "Kalinga"
+    ],
+    "name:nld_x_preferred":[
         "Kalinga"
     ],
     "name:nob_x_preferred":[
@@ -124,9 +124,6 @@
     ],
     "name:pam_x_preferred":[
         "Kalinga"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0644\u06cc\u0646\u06af\u0627"
     ],
     "name:pol_x_preferred":[
         "Kalinga"
@@ -172,6 +169,9 @@
     ],
     "name:war_x_preferred":[
         "Kalinga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6797\u963f\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -305,7 +305,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550559,
+    "wof:lastmodified":1561778477,
     "wof:name":"Kalinga",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

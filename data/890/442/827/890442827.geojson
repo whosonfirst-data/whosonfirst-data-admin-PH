@@ -28,17 +28,17 @@
     "name:ceb_x_preferred":[
         "Dakbayan sa Cotabato"
     ],
-    "name:chi_x_preferred":[
-        "\u54e5\u6253\u5df4\u6258\u5e02"
-    ],
     "name:dan_x_preferred":[
         "Cotabato"
     ],
     "name:deu_x_preferred":[
         "Cotabato"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Cotabato City"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c4\u03b1\u03bc\u03c0\u03ac\u03c4\u03bf \u03a3\u03b9\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Cotabato City"
@@ -46,14 +46,8 @@
     "name:fin_x_preferred":[
         "Cotabato City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cotabato"
-    ],
-    "name:ger_x_preferred":[
-        "Cotabato City"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c4\u03b1\u03bc\u03c0\u03ac\u03c4\u03bf \u03a3\u03b9\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a9f\u0abe\u0aac\u0ac7\u0a9f\u0acb \u0ab6\u0ab9\u0ac7\u0ab0"
@@ -94,7 +88,7 @@
     "name:mar_x_preferred":[
         "\u0915\u094b\u091f\u093e\u092c\u0947\u0924\u094b \u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cotabato City"
     ],
     "name:nld_x_preferred":[
@@ -162,6 +156,9 @@
     ],
     "name:war_x_preferred":[
         "Syudad han Cotabato"
+    ],
+    "name:zho_x_preferred":[
+        "\u54e5\u6253\u5df4\u6258\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Philippines",
@@ -288,7 +285,7 @@
         }
     ],
     "wof:id":890442827,
-    "wof:lastmodified":1527792852,
+    "wof:lastmodified":1561778748,
     "wof:name":"Cotabato",
     "wof:parent_id":1108698663,
     "wof:placetype":"locality",

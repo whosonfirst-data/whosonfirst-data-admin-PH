@@ -7,7 +7,7 @@
     "edtf:inception":"uuuu",
     "edtf:superseded":"2017-07-24",
     "geom:area":0.001184,
-    "geom:area_square_m":14168831.020736,
+    "geom:area_square_m":14168831.020731,
     "geom:bbox":"121.088655783,14.608640926,121.134845055,14.6689002146",
     "geom:latitude":14.638377,
     "geom:longitude":121.112787,
@@ -36,14 +36,8 @@
     "name:cat_x_preferred":[
         "Metro Manila"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
-    ],
     "name:deu_x_preferred":[
         "Metro Manila"
-    ],
-    "name:dut_x_preferred":[
-        "National Capital Region"
     ],
     "name:eng_x_preferred":[
         "National Capital Region"
@@ -54,14 +48,14 @@
     "name:epo_x_preferred":[
         "Manila Metropolo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u0646\u0634\u0647\u0631 \u0645\u0627\u0646\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "Metro Manila"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Grand Manille"
-    ],
-    "name:ger_x_preferred":[
-        "Metro Manila"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u091f\u094d\u0930\u094b \u092e\u0928\u093f\u0932\u093e"
@@ -93,14 +87,17 @@
     "name:lit_x_preferred":[
         "Manilos metropolija"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0435\u0442\u0440\u043e \u041c\u0430\u043d\u0438\u043b\u0430"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Metro Manila"
     ],
     "name:nan_x_preferred":[
         "Kok-ka Si\u00fa-to\u0358 To\u0101-khu"
+    ],
+    "name:nld_x_preferred":[
+        "National Capital Region"
     ],
     "name:nno_x_preferred":[
         "Metro Manila"
@@ -116,9 +113,6 @@
     ],
     "name:pam_x_preferred":[
         "Keragulang Menila"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0644\u0627\u0646\u0634\u0647\u0631 \u0645\u0627\u0646\u06cc\u0644"
     ],
     "name:pol_x_preferred":[
         "Region Sto\u0142eczny"
@@ -173,6 +167,9 @@
     ],
     "name:zho_x_preferred":[
         "\u56fd\u5bb6\u9996\u90fd\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -288,7 +285,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553814813,
+    "wof:lastmodified":1561778476,
     "wof:name":"Marikina",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
