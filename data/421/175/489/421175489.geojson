@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0643\u0648\u064a\u0627\u0646"
+    ],
     "name:bcl_x_preferred":[
         "Meycauayan"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u0995\u09be\u0993\u09af\u09bc\u09be\u09a8"
     ],
     "name:cbk_zam_x_preferred":[
         "Meycauayan"
@@ -22,8 +28,20 @@
     "name:ceb_x_preferred":[
         "Meycauayan"
     ],
+    "name:dan_x_preferred":[
+        "Meycauayan"
+    ],
     "name:deu_x_preferred":[
         "Meycauayan City"
+    ],
+    "name:diq_x_preferred":[
+        "Meycauayan"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03ca\u03ba\u03b1\u03bf\u03c5\u03b1\u03b3\u03b9\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Meycauayan"
     ],
     "name:fil_x_preferred":[
         "Cauayan"
@@ -31,7 +49,19 @@
     "name:fil_x_variant":[
         "San Ildefonso"
     ],
+    "name:fin_x_preferred":[
+        "Meycauayan"
+    ],
     "name:fra_x_preferred":[
+        "Meycauayan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ac7\u0a95\u0acb\u0a85\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0948\u0915\u0948\u0909\u0928\u092f\u093e\u0902"
+    ],
+    "name:hun_x_preferred":[
         "Meycauayan"
     ],
     "name:ilo_x_preferred":[
@@ -40,10 +70,37 @@
     "name:ind_x_preferred":[
         "Kota Meycauayan"
     ],
+    "name:ind_x_variant":[
+        "Meycauayan City"
+    ],
     "name:ita_x_preferred":[
         "Meycauayan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30a4\u30ab\u30a6\u30a2\u30e4\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cc6\u0c95\u0ccc\u0caf\u0caf\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc774\uce74\uc720\uc548"
+    ],
+    "name:lav_x_preferred":[
+        "Meikavajana"
+    ],
+    "name:lit_x_preferred":[
+        "Meikavajanas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u0915\u094d\u092f\u0942\u0905\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Meycauayan"
+    ],
     "name:nld_x_preferred":[
+        "Meycauayan"
+    ],
+    "name:nob_x_preferred":[
         "Meycauayan"
     ],
     "name:pag_x_preferred":[
@@ -58,6 +115,12 @@
     "name:por_x_preferred":[
         "Meycauayan"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0439\u043a\u0430\u0443\u0430\u0439\u0430\u043d"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd9\u0dba\u0d9a\u0dc0\u0dd4\u0dba\u0dd0\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Meycauayan"
     ],
@@ -67,8 +130,23 @@
     "name:szl_x_preferred":[
         "Meycauayan"
     ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc7\u0b95\u0bbe\u0baf\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c47\u0c15\u0c47\u0c35\u0c2f\u0c28\u0c4d"
+    ],
     "name:tgl_x_preferred":[
         "Meycauayan"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e22\u0e4c\u0e01\u0e32\u0e27\u0e32\u0e22\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Meycauayan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0439\u043a\u0430\u0443\u0430\u0439\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "San Ildefonso"
@@ -76,8 +154,14 @@
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0626\u06a9\u0627\u0648\u0627\u06cc\u0627\u0646"
     ],
+    "name:vie_x_preferred":[
+        "Meycauayan"
+    ],
     "name:war_x_preferred":[
         "Meycauayan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5361\u74e6\u5ef6"
     ],
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPL",
@@ -130,7 +214,7 @@
         }
     ],
     "wof:id":421175489,
-    "wof:lastmodified":1527716344,
+    "wof:lastmodified":1563331554,
     "wof:name":"Meycauayan",
     "wof:parent_id":1108698467,
     "wof:placetype":"locality",

@@ -18,14 +18,23 @@
     "name:bcl_x_preferred":[
         "South Upi"
     ],
+    "name:ceb_x_preferred":[
+        "Habagatang Upi"
+    ],
     "name:deu_x_preferred":[
         "South Upi"
+    ],
+    "name:deu_x_variant":[
+        "S\u00fcdupi"
     ],
     "name:eng_x_preferred":[
         "South Upi"
     ],
     "name:fra_x_preferred":[
         "South Upi"
+    ],
+    "name:fra_x_variant":[
+        "Upi du Sud"
     ],
     "name:ilo_x_preferred":[
         "Abagatan nga Upi"
@@ -36,8 +45,17 @@
     "name:ita_x_preferred":[
         "South Upi"
     ],
+    "name:ita_x_variant":[
+        "Upi del Sud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5357\u30a6\u30d4"
+    ],
     "name:nld_x_preferred":[
         "South Upi"
+    ],
+    "name:nld_x_variant":[
+        "Zuid-Upi"
     ],
     "name:pag_x_preferred":[
         "South Upi"
@@ -51,8 +69,14 @@
     "name:swe_x_preferred":[
         "South Upi"
     ],
+    "name:swe_x_variant":[
+        "Sydupi"
+    ],
     "name:tgl_x_preferred":[
         "South Upi"
+    ],
+    "name:tgl_x_variant":[
+        "Timog Upi"
     ],
     "name:unk_x_variant":[
         "Looy"
@@ -60,11 +84,17 @@
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0627\u0648\u067e\u06cc\u060c \u0645\u0627\u06af\u0648\u0626\u0646\u062f\u0627\u0646\u0627\u0624"
     ],
+    "name:urd_x_variant":[
+        "\u062c\u0646\u0648\u0628\u06cc \u0627\u0648\u067e\u06cc"
+    ],
     "name:vie_x_preferred":[
         "Nam Upi"
     ],
     "name:war_x_preferred":[
         "South Upi"
+    ],
+    "name:war_x_variant":[
+        "Salatan nga Upi"
     ],
     "qs:name":"South Upi",
     "qs:photos_9r":0,
@@ -97,7 +127,7 @@
         }
     ],
     "wof:id":890431573,
-    "wof:lastmodified":1561778739,
+    "wof:lastmodified":1563332131,
     "wof:name":"South Upi",
     "wof:parent_id":1108699541,
     "wof:placetype":"locality",

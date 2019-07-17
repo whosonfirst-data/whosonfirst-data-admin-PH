@@ -18,6 +18,9 @@
     "name:bcl_x_preferred":[
         "Romblon"
     ],
+    "name:ceb_x_preferred":[
+        "Romblon"
+    ],
     "name:deu_x_preferred":[
         "Romblon"
     ],
@@ -51,6 +54,9 @@
     "name:pag_x_preferred":[
         "Rombl\u00f3n"
     ],
+    "name:pag_x_variant":[
+        "Romblon"
+    ],
     "name:pam_x_preferred":[
         "Romblon"
     ],
@@ -66,11 +72,17 @@
     "name:tgl_x_preferred":[
         "Romblon"
     ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e23\u0e21\u0e42\u0e1a\u0e25\u0e19"
+    ],
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0431\u043b\u043e\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0645\u0628\u0644\u0648\u0646\u060c \u0631\u0648\u0645\u0628\u0644\u0648\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u0648\u0645\u0628\u0644\u0648\u0646"
     ],
     "name:vie_x_preferred":[
         "Romblon"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":890432545,
-    "wof:lastmodified":1561778758,
+    "wof:lastmodified":1563332931,
     "wof:name":"Romblon",
     "wof:parent_id":1108699031,
     "wof:placetype":"locality",

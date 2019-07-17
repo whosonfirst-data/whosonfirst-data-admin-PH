@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u0633\u0648\u063a\u0648\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0631\u0633\u0648\u0642\u0648\u0646"
+    ],
     "name:bcl_x_preferred":[
         "Sorsogon"
     ],
@@ -92,11 +95,17 @@
     "name:jpn_x_preferred":[
         "\u30bd\u30eb\u30bd\u30b4\u30f3\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30bd\u30eb\u30bd\u30b4\u30f3"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccb\u0cb0\u0ccd\u0cb8\u0ccb\u0c97\u0cbe\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc18c\ub974\uc18c\uace4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc18c\ub974\uc18c\uace4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Sorsogon"
@@ -152,6 +161,9 @@
     "name:spa_x_preferred":[
         "Provincia de Sorsog\u00f3n"
     ],
+    "name:spa_x_variant":[
+        "Sorsog\u00f3n"
+    ],
     "name:swe_x_preferred":[
         "Sorsogon"
     ],
@@ -166,6 +178,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e31\u0e10\u0e17\u0e32\u0e23\u0e32\u0e1a\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e2d\u0e23\u0e4c\u0e42\u0e0b\u0e42\u0e01\u0e19"
     ],
     "name:tur_x_preferred":[
         "Sorsogon"
@@ -329,7 +344,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778486,
+    "wof:lastmodified":1563326830,
     "wof:name":"Sorsogon",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

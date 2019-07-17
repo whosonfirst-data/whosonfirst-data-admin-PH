@@ -25,8 +25,17 @@
     "name:ace_x_preferred":[
         "Propinsi Cebu"
     ],
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0628\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0628\u0648"
+    ],
     "name:bcl_x_preferred":[
         "Cebu"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09ac\u09c1"
     ],
     "name:bre_x_preferred":[
         "Cebu"
@@ -40,26 +49,48 @@
     "name:ceb_x_preferred":[
         "Sugbo"
     ],
+    "name:ces_x_preferred":[
+        "Cebu"
+    ],
     "name:dan_x_preferred":[
         "Cebu"
     ],
     "name:deu_x_preferred":[
         "Provinz Cebu"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b5\u03bc\u03c0\u03bf\u03cd"
+    ],
     "name:eng_x_preferred":[
         "Central Visayas"
     ],
     "name:eng_x_variant":[
-        "Region VII"
+        "Region VII",
+        "Cebu"
     ],
     "name:epo_x_preferred":[
         "Cebuo"
     ],
+    "name:epo_x_variant":[
+        "Provinco Cebuo"
+    ],
+    "name:est_x_preferred":[
+        "Cebu"
+    ],
+    "name:eus_x_preferred":[
+        "Cebu"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0628\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0633\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Cebun provinssi"
+    ],
+    "name:fin_x_variant":[
+        "Cebu"
     ],
     "name:fra_x_preferred":[
         "Cebu"
@@ -67,14 +98,26 @@
     "name:glg_x_preferred":[
         "Ceb\u00fa"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abf\u0aac\u0ac1"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u092c\u0941"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0562\u0578\u0582"
     ],
     "name:ilo_x_preferred":[
         "Cebu"
     ],
     "name:ina_x_preferred":[
         "Provincia Cebu"
+    ],
+    "name:ina_x_variant":[
+        "provincia Cebu"
     ],
     "name:ind_x_preferred":[
         "Cebu"
@@ -85,11 +128,23 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30d6\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30d6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc6\u0cac\u0cc1"
+    ],
     "name:kor_x_preferred":[
         "\uc138\ubd80 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc138\ubd80\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Caebua"
+    ],
+    "name:lav_x_preferred":[
+        "Sebu"
     ],
     "name:lit_x_preferred":[
         "Sebu"
@@ -97,16 +152,25 @@
     "name:mal_x_preferred":[
         "\u0d38\u0d46\u0d2c\u0d42"
     ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u092c\u0942"
+    ],
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0431\u0443"
     ],
     "name:msa_x_preferred":[
         "Cebu"
     ],
+    "name:nan_x_preferred":[
+        "Cebu"
+    ],
     "name:nld_x_preferred":[
         "Cebu"
     ],
     "name:nno_x_preferred":[
+        "Cebu"
+    ],
+    "name:nob_x_preferred":[
         "Cebu"
     ],
     "name:nor_x_preferred":[
@@ -127,8 +191,17 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0431\u0443"
     ],
+    "name:sco_x_preferred":[
+        "Cebu"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dda\u0db6\u0dd6"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Ceb\u00fa"
+    ],
+    "name:spa_x_variant":[
+        "Ceb\u00fa"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0431\u0443"
@@ -136,8 +209,17 @@
     "name:swe_x_preferred":[
         "Cebu"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baa\u0bcd\u0baa\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2c\u0c41"
+    ],
     "name:tgl_x_preferred":[
         "Cebu"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e1a\u0e39"
     ],
     "name:tur_x_preferred":[
         "Cebu"
@@ -153,6 +235,9 @@
     ],
     "name:war_x_preferred":[
         "Sugbo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5bbf\u52a1\u7701"
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05e2\u05d1\u05d5"
@@ -278,7 +363,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1553550567,
+    "wof:lastmodified":1563326801,
     "wof:name":"Cebu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

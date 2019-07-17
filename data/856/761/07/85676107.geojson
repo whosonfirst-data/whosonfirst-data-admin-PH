@@ -29,8 +29,17 @@
     "name:ace_x_preferred":[
         "Propinsi Pampanga"
     ],
+    "name:ace_x_variant":[
+        "Pampanga"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0645\u0628\u0627\u0646\u063a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Pampanga"
+    ],
+    "name:azb_x_preferred":[
+        "\u067e\u0627\u0645\u067e\u0627\u0646\u0642\u0627"
     ],
     "name:bcl_x_preferred":[
         "Pampanga"
@@ -52,6 +61,9 @@
     ],
     "name:deu_x_preferred":[
         "Provinz Pampanga"
+    ],
+    "name:deu_x_variant":[
+        "Pampanga"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bc\u03c0\u03ac\u03bd\u03b3\u03ba\u03b1"
@@ -77,6 +89,9 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0aae\u0acd\u0aaa\u0abe\u0aa8\u0acd\u0a97\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05de\u05e4\u05e0\u05d2\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u093e\u092e\u094d\u092a\u093e\u0902\u0917\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
@@ -89,14 +104,23 @@
     "name:ita_x_preferred":[
         "Provincia di Pampanga"
     ],
+    "name:ita_x_variant":[
+        "Pampanga"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30f3\u30d1\u30f3\u30ac\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d1\u30f3\u30d1\u30f3\u30ac"
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0c82\u0caa\u0cbe\u0c82\u0c97\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\ud31c\ud321\uac00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud31c\ud321\uac00\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Pampanga"
@@ -167,6 +191,9 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e31\u0e21\u0e1b\u0e32\u0e07\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e31\u0e21\u0e1b\u0e31\u0e07\u0e01\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Pampanga"
     ],
@@ -187,6 +214,9 @@
     ],
     "name:zho_x_preferred":[
         "\u90a6\u677f\u7259\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u90a6\u677f\u7259"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -323,7 +353,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778489,
+    "wof:lastmodified":1563326856,
     "wof:name":"Pampanga",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

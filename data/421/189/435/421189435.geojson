@@ -19,6 +19,9 @@
     "name:bcl_x_preferred":[
         "Syudad nin Cotabato"
     ],
+    "name:bcl_x_variant":[
+        "Ciudad nin Cotabato"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09a4\u09be\u09ac\u09be\u09a4\u09cb \u09b6\u09b9\u09b0"
     ],
@@ -58,8 +61,14 @@
     "name:ilo_x_preferred":[
         "Siudad ti Cotabato"
     ],
+    "name:ilo_x_variant":[
+        "Cotabato"
+    ],
     "name:ind_x_preferred":[
         "Kota Cotabato"
+    ],
+    "name:ind_x_variant":[
+        "Cotabato City"
     ],
     "name:ita_x_preferred":[
         "Cotabato"
@@ -76,6 +85,9 @@
     "name:lat_x_preferred":[
         "Cotabato"
     ],
+    "name:lat_x_variant":[
+        "Cotabato City"
+    ],
     "name:lav_x_preferred":[
         "Kotabato"
     ],
@@ -84,6 +96,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u091f\u093e\u092c\u0947\u0924\u094b \u0936\u0939\u0930"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u0442\u0430\u0431\u0430\u0442\u043e"
     ],
     "name:msa_x_preferred":[
         "Cotabato City"
@@ -199,7 +214,7 @@
         }
     ],
     "wof:id":421189435,
-    "wof:lastmodified":1561778711,
+    "wof:lastmodified":1563331518,
     "wof:name":"Cotabato City",
     "wof:parent_id":1108698663,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u0648\u064a\u0644\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0625\u064a\u0644\u0648\u064a\u0644\u0648"
+    ],
     "name:bcl_x_preferred":[
         "Syudad nin Iloilo"
     ],
@@ -65,8 +68,14 @@
     "name:ilo_x_preferred":[
         "Siudad ti Iloilo"
     ],
+    "name:ilo_x_variant":[
+        "Iloilo"
+    ],
     "name:ind_x_preferred":[
         "Kota Iloilo"
+    ],
+    "name:ind_x_variant":[
+        "Iloilo City"
     ],
     "name:ita_x_preferred":[
         "Iloilo"
@@ -85,6 +94,9 @@
     ],
     "name:lat_x_preferred":[
         "Iloilo"
+    ],
+    "name:lat_x_variant":[
+        "Iloilo City"
     ],
     "name:lav_x_preferred":[
         "Iloila"
@@ -142,6 +154,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e42\u0e25\u0e22\u0e42\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e35\u0e42\u0e25\u0e2d\u0e35\u0e42\u0e25"
     ],
     "name:tur_x_preferred":[
         "Iloilo City"
@@ -312,7 +327,7 @@
         }
     ],
     "wof:id":421168539,
-    "wof:lastmodified":1561778693,
+    "wof:lastmodified":1563331335,
     "wof:name":"Iloilo City",
     "wof:parent_id":890430027,
     "wof:placetype":"locality",

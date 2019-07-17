@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0647\u0648\u0644"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0647\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Bohol"
+    ],
     "name:bcl_x_preferred":[
         "Bohol"
     ],
@@ -110,11 +116,17 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30db\u30fc\u30eb\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30dc\u30db\u30fc\u30eb"
+    ],
     "name:kan_x_preferred":[
         "\u0cac\u0cca\u0cb9\u0ccb\u0cb2\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ubcf4\ud640 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcf4\ud640\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Bohol"
@@ -173,6 +185,12 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u0445\u043e\u043b\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u0411\u043e\u0445\u043e\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Bohol"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0ddc\u0dc4\u0ddc\u0dbd\u0dca"
     ],
@@ -196,6 +214,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e2e\u0e2d\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1a\u0e42\u0e2e\u0e25"
     ],
     "name:tur_x_preferred":[
         "Bohol"
@@ -354,7 +375,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778492,
+    "wof:lastmodified":1563326873,
     "wof:name":"Bohol",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

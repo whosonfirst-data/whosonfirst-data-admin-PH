@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0627\u0645\u0628\u0627\u0644\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u0632\u0627\u0645\u0628\u0627\u0644\u0647"
+    ],
     "name:aze_x_preferred":[
         "Zambales"
     ],
@@ -98,11 +101,17 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30d0\u30ec\u30b9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30b5\u30f3\u30d0\u30ec\u30b9"
+    ],
     "name:kan_x_preferred":[
         "\u0c9d\u0c82\u0cac\u0cbe\u0cb2\u0cc6\u0cb8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc0bc\ubc1c\ub808\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0bc\ubc1c\ub808\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Zambales"
@@ -112,6 +121,9 @@
     ],
     "name:lit_x_preferred":[
         "Zambalesas"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0632\u0627\u0645\u0628\u0627\u0644\u0647"
     ],
     "name:mar_x_preferred":[
         "\u091d\u093e\u0902\u092c\u0932\u0947\u0938"
@@ -173,6 +185,9 @@
     "name:tha_x_preferred":[
         "\u0e41\u0e0b\u0e21\u0e1a\u0e32\u0e40\u0e25\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e31\u0e21\u0e1a\u0e32\u0e40\u0e25\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Zambales"
     ],
@@ -187,6 +202,9 @@
     ],
     "name:war_x_preferred":[
         "Zambales"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e09\u63cf\u793c\u58eb\u7701"
     ],
     "name:zho_min_nan_x_preferred":[
         "Zambales"
@@ -329,7 +347,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778491,
+    "wof:lastmodified":1563326868,
     "wof:name":"Zambales",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

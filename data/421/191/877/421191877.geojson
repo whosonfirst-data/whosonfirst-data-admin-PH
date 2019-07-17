@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"124.01667,10.45,124.01667,10.45",
     "geom:latitude":10.45,
     "geom:longitude":124.01667,
@@ -24,8 +25,14 @@
     "name:deu_x_preferred":[
         "Tubigon"
     ],
+    "name:eng_x_preferred":[
+        "Tubigon"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0628\u06cc\u06af\u0646\u060c \u0628\u0648\u0647\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0628\u06cc\u06af\u0646"
     ],
     "name:fil_x_preferred":[
         "Tubigan"
@@ -51,6 +58,9 @@
     "name:pam_x_preferred":[
         "Tubigon"
     ],
+    "name:por_x_preferred":[
+        "Tubigon"
+    ],
     "name:spa_x_preferred":[
         "Tubigon"
     ],
@@ -62,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0628\u06cc\u06af\u0646\u060c \u0628\u0648\u06c1\u0648\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u062a\u0648\u0628\u06cc\u06af\u0646"
     ],
     "name:vie_x_preferred":[
         "Tubigon"
@@ -113,7 +126,7 @@
         }
     ],
     "wof:id":421191877,
-    "wof:lastmodified":1527716383,
+    "wof:lastmodified":1563331592,
     "wof:name":"Tubigon",
     "wof:parent_id":85675939,
     "wof:placetype":"locality",

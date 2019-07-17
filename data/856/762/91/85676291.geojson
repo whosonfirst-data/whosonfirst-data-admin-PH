@@ -25,17 +25,26 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u0648 \u0644\u0627\u0628\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u0633\u0627\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
     "name:bcl_x_preferred":[
         "Lapu-Lapu"
     ],
     "name:cat_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:cat_x_variant":[
+        "Visayas Centrals"
+    ],
     "name:cbk_zam_x_preferred":[
         "Lapu-Lapu"
     ],
     "name:ceb_x_preferred":[
         "Lapulapu"
+    ],
+    "name:ceb_x_variant":[
+        "Tunga-tungang Kabisay-an"
     ],
     "name:deu_x_preferred":[
         "Lapu-Lapu"
@@ -52,8 +61,14 @@
     "name:eng_x_variant":[
         "Region VII"
     ],
+    "name:eus_x_preferred":[
+        "Erdialdeko Bisayak"
+    ],
     "name:fin_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:fin_x_variant":[
+        "Keski-Visayas"
     ],
     "name:fra_x_preferred":[
         "Lapu-Lapu"
@@ -67,6 +82,9 @@
     "name:hrv_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:hrv_x_variant":[
+        "Sredi\u0161nji Visayas"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u054e\u056b\u057d\u0561\u0580\u0575\u0561"
     ],
@@ -76,11 +94,20 @@
     "name:ind_x_preferred":[
         "Lapu-lapu"
     ],
+    "name:ind_x_variant":[
+        "Bisaya Tengah"
+    ],
     "name:ita_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:ita_x_variant":[
+        "Visayas Centrale"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30d7\uff1d\u30e9\u30d7"
+    ],
+    "name:jpn_x_variant":[
+        "\u4e2d\u90e8\u30f4\u30a3\u30b5\u30e4\u5730\u65b9"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0\u10de\u10e3-\u10da\u10d0\u10de\u10e3"
@@ -88,8 +115,14 @@
     "name:kor_x_preferred":[
         "\ub77c\ud478\ub77c\ud478"
     ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\ube44\uc0ac\uc57c\uc2a4 \uc9c0\ubc29"
+    ],
     "name:lat_x_preferred":[
         "Lapulapu"
+    ],
+    "name:lat_x_variant":[
+        "Visayas Media"
     ],
     "name:lit_x_preferred":[
         "Centriniai Visajai"
@@ -127,8 +160,14 @@
     "name:pag_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:pag_x_variant":[
+        "Central Visayas"
+    ],
     "name:pam_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:pam_x_variant":[
+        "Kalibudtang Visayas"
     ],
     "name:pol_x_preferred":[
         "Central Visayas"
@@ -136,8 +175,14 @@
     "name:por_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:por_x_variant":[
+        "Visayas Centrais"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430\u043f\u0443-\u041b\u0430\u043f\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u0412\u0438\u0441\u0430\u0439\u0438"
     ],
     "name:sah_x_preferred":[
         "\u041b\u0430\u043f\u0443-\u041b\u0430\u043f\u0443"
@@ -148,8 +193,14 @@
     "name:spa_x_preferred":[
         "Lapulapu"
     ],
+    "name:spa_x_variant":[
+        "Bisayas Centrales"
+    ],
     "name:swe_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:swe_x_variant":[
+        "Centrala Visayas"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0b9a\u0baf\u0bbe\u0b9a\u0bc1"
@@ -157,11 +208,20 @@
     "name:tgl_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:tgl_x_variant":[
+        "Gitnang Kabisayaan"
+    ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e1b\u0e39-\u0e25\u0e32\u0e1b\u0e39"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e34\u0e15\u0e19\u0e32\u0e07\u0e04\u0e32\u0e1a\u0e35\u0e0b\u0e32\u0e22\u0e32\u0e2d\u0e31\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:tur_x_variant":[
+        "Merkez Visayas"
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0456 \u0412\u0456\u0441\u0430\u0457"
@@ -172,8 +232,14 @@
     "name:vie_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:vie_x_variant":[
+        "Trung Visayas"
+    ],
     "name:war_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e2d\u7dad\u85a9\u4e9e\u65af"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u666e\u62c9\u666e"
@@ -295,7 +361,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778478,
+    "wof:lastmodified":1563326805,
     "wof:name":"Lapu-Lapu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

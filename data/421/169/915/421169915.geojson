@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Sapi-an"
     ],
+    "name:ceb_x_variant":[
+        "Sapian"
+    ],
     "name:deu_x_preferred":[
         "Sapi-an"
     ],
@@ -58,6 +61,9 @@
     "name:tgl_x_preferred":[
         "Sapi-an"
     ],
+    "name:tgl_x_variant":[
+        "Sapian"
+    ],
     "name:unk_x_variant":[
         "Saipan"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Sapian"
+    ],
+    "name:war_x_variant":[
+        "Sapi-an"
     ],
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPL",
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421169915,
-    "wof:lastmodified":1561778702,
+    "wof:lastmodified":1563331410,
     "wof:name":"Sapi-an",
     "wof:parent_id":1108699447,
     "wof:placetype":"locality",

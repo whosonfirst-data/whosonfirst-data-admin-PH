@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0648\u064a \u062a\u0627\u0648\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0648\u06cc \u062a\u0627\u0648\u06cc"
+    ],
     "name:bcl_x_preferred":[
         "Tawi-Tawi"
     ],
@@ -98,11 +101,17 @@
     "name:jpn_x_preferred":[
         "\u30bf\u30a6\u30a4\u30bf\u30a6\u30a4\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30a6\u30a4\u30bf\u30a6\u30a4"
+    ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cbe\u0cb5\u0cbf-\u0ca4\u0cbe\u0cb5\u0cbf"
     ],
     "name:kor_x_preferred":[
         "\ud0c0\uc704\ud0c0\uc704 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc704\ud0c0\uc704\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Tawi-Tawi"
@@ -140,6 +149,9 @@
     "name:oci_x_preferred":[
         "Tawi-Tawi"
     ],
+    "name:pag_x_preferred":[
+        "Tawi-Tawi"
+    ],
     "name:pam_x_preferred":[
         "Tawi-Tawi"
     ],
@@ -175,6 +187,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e30\u0e27\u0e35-\u0e17\u0e30\u0e27\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e32\u0e27\u0e35-\u0e15\u0e32\u0e27\u0e35"
     ],
     "name:tur_x_preferred":[
         "Tawi-Tawi"
@@ -331,7 +346,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778492,
+    "wof:lastmodified":1563326874,
     "wof:name":"Tawi-Tawi",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

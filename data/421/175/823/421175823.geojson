@@ -38,11 +38,17 @@
     "name:cat_x_preferred":[
         "Cebu"
     ],
+    "name:cat_x_variant":[
+        "Ceb\u00fa"
+    ],
     "name:cbk_zam_x_preferred":[
         "Ciudad de Cebu"
     ],
     "name:ceb_x_preferred":[
         "Dakbayan sa Sugbo"
+    ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u0431\u0443"
     ],
     "name:dan_x_preferred":[
         "Cebu City"
@@ -104,14 +110,23 @@
     "name:ilo_x_preferred":[
         "Siudad ti Cebu"
     ],
+    "name:ilo_x_variant":[
+        "Cebu"
+    ],
     "name:ind_x_preferred":[
         "Kota Cebu"
+    ],
+    "name:ind_x_variant":[
+        "Cebu City"
     ],
     "name:ita_x_preferred":[
         "Cebu"
     ],
     "name:jpn_x_preferred":[
         "\u30bb\u30d6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30d6\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0cac\u0cc1 \u0ca8\u0c97\u0cb0"
@@ -142,6 +157,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1005\u102e\u1018\u1030\u1038\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:nan_x_preferred":[
+        "Cebu Chh\u012b"
     ],
     "name:nld_x_preferred":[
         "Cebu City"
@@ -176,6 +194,9 @@
     "name:ron_x_preferred":[
         "Cebu"
     ],
+    "name:ron_x_variant":[
+        "Ceb\u00fa"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0431\u0443"
     ],
@@ -194,6 +215,9 @@
     "name:swe_x_preferred":[
         "Cebu City"
     ],
+    "name:szl_x_preferred":[
+        "Cebu City"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baa\u0bc1 \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
@@ -206,6 +230,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e0b\u0e1a\u0e39\u0e0b\u0e34\u0e15\u0e35\u0e49"
     ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0b\u0e1a\u0e39"
+    ],
     "name:tur_x_preferred":[
         "Cebu City"
     ],
@@ -215,11 +242,17 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0628\u0648 \u0634\u06c1\u0631"
     ],
+    "name:vec_x_preferred":[
+        "Seb\u00f9"
+    ],
     "name:vie_x_preferred":[
         "Cebu"
     ],
     "name:war_x_preferred":[
         "Syudad han Sugbo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5bbf\u52a1\u5e02"
     ],
     "name:yid_x_preferred":[
         "\u05e1\u05e2\u05d1\u05d5"
@@ -374,7 +407,7 @@
         }
     ],
     "wof:id":421175823,
-    "wof:lastmodified":1561778713,
+    "wof:lastmodified":1563331551,
     "wof:name":"Cebu",
     "wof:parent_id":890432909,
     "wof:placetype":"locality",

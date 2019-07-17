@@ -21,11 +21,17 @@
     "name:bcl_x_preferred":[
         "Kalibo"
     ],
+    "name:ceb_x_preferred":[
+        "Kalibo"
+    ],
     "name:deu_x_preferred":[
         "Kalibo"
     ],
     "name:eng_x_preferred":[
         "Kalibo Town"
+    ],
+    "name:eng_x_variant":[
+        "Kalibo"
     ],
     "name:fra_x_preferred":[
         "Kalibo"
@@ -41,6 +47,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30ea\u30dc"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub9ac\ubcf4"
     ],
     "name:msa_x_preferred":[
         "Kalibo"
@@ -69,11 +78,17 @@
     "name:tgl_x_preferred":[
         "Kalibo"
     ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e32\u0e25\u0e35\u0e42\u0e1a"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456\u0431\u043e"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0644\u06cc\u0628\u0648\u060c \u0627\u06a9\u0644\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0627\u0644\u06cc\u0628\u0648"
     ],
     "name:vie_x_preferred":[
         "Kalibo"
@@ -117,7 +132,7 @@
         }
     ],
     "wof:id":890438631,
-    "wof:lastmodified":1561778741,
+    "wof:lastmodified":1563332220,
     "wof:name":"Kalibo (poblacion)",
     "wof:parent_id":1108697881,
     "wof:placetype":"locality",

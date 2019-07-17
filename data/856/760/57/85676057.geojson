@@ -29,8 +29,14 @@
     "name:ace_x_preferred":[
         "Propinsi Ilocos Norte"
     ],
+    "name:ace_x_variant":[
+        "Ilocos Norte"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u0648\u0643\u0648\u0633 \u0646\u0648\u0631\u062a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0632\u0626\u06cc \u0627\u06cc\u0644\u0648\u06a9\u0648\u0633"
     ],
     "name:bcl_x_preferred":[
         "Ilocos Norte"
@@ -89,14 +95,23 @@
     "name:ita_x_preferred":[
         "Provincia di Ilocos Norte"
     ],
+    "name:ita_x_variant":[
+        "Ilocos Norte"
+    ],
     "name:jpn_x_preferred":[
         "\u5317\u30a4\u30ed\u30b3\u30b9\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u5317\u30a4\u30ed\u30b3\u30b9"
     ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb2\u0ccb\u0c95\u0ccb\u0cb8\u0ccd \u0ca8\u0cbe\u0cb0\u0ccd\u0c9f\u0cc6"
     ],
     "name:kor_x_preferred":[
         "\ubd81\uc77c\ub85c\ucf54\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\uc77c\ub85c\ucf54\uc2a4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Ilocos Norte"
@@ -106,6 +121,9 @@
     ],
     "name:lit_x_preferred":[
         "\u0160iaur\u0117s Ilok\u0173 regionas"
+    ],
+    "name:lit_x_variant":[
+        "\u0160iaur\u0117s Ilok\u0173"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0932\u094b\u0915\u094b\u0938 \u0928\u0949\u0930\u094d\u091f\u0947"
@@ -133,6 +151,9 @@
     ],
     "name:pag_x_preferred":[
         "Ilocos Norte"
+    ],
+    "name:pag_x_variant":[
+        "Ilocos ed Baybay"
     ],
     "name:pam_x_preferred":[
         "Ilocos Norte"
@@ -170,6 +191,9 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e25\u0e04\u0e2d\u0e2a \u0e19\u0e2d\u0e23\u0e4c\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e35\u0e25\u0e32\u0e01\u0e31\u0e07\u0e2d\u0e35\u0e42\u0e25\u0e42\u0e04\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Ilocos Norte"
     ],
@@ -190,6 +214,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u4f0a\u7f85\u6208\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u4f0a\u7f85\u6208"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -325,7 +352,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778485,
+    "wof:lastmodified":1563326828,
     "wof:name":"Ilocos Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

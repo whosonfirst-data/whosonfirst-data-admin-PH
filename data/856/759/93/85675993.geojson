@@ -29,8 +29,14 @@
     "name:ace_x_preferred":[
         "Propinsi Iloilo"
     ],
+    "name:ace_x_variant":[
+        "Iloilo"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u0644\u0648\u064a\u0644\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0644\u0648\u0626\u06cc\u0644\u0648"
     ],
     "name:bcl_x_preferred":[
         "Iloilo"
@@ -92,14 +98,23 @@
     "name:ita_x_preferred":[
         "Provincia di Iloilo"
     ],
+    "name:ita_x_variant":[
+        "Iloilo"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30ed\u30a4\u30ed\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a4\u30ed\u30a4\u30ed"
     ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb2\u0ccc\u0cb2\u0ccb"
     ],
     "name:kor_x_preferred":[
         "\uc77c\ub85c\uc77c\ub85c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc77c\ub85c\uc77c\ub85c"
     ],
     "name:lat_x_preferred":[
         "Iloilo"
@@ -155,6 +170,9 @@
     "name:spa_x_preferred":[
         "Provincia de Ilo\u00edlo"
     ],
+    "name:spa_x_variant":[
+        "Ilo\u00edlo"
+    ],
     "name:swe_x_preferred":[
         "Iloilo"
     ],
@@ -169,6 +187,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e42\u0e25\u0e22\u0e42\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e35\u0e42\u0e25\u0e2d\u0e35\u0e42\u0e25"
     ],
     "name:tur_x_preferred":[
         "Iloilo"
@@ -330,7 +351,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778491,
+    "wof:lastmodified":1563326871,
     "wof:name":"Iloilo",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

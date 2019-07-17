@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0648\u0645\u0628\u0644\u0648\u0646"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u0645\u0628\u0644\u0648\u0646"
+    ],
     "name:bcl_x_preferred":[
         "Romblon"
     ],
@@ -92,11 +95,17 @@
     "name:jpn_x_preferred":[
         "\u30ed\u30f3\u30d6\u30ed\u30f3\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30ed\u30f3\u30d6\u30ed\u30f3"
+    ],
     "name:kan_x_preferred":[
         "\u0cb0\u0cca\u0cae\u0ccd\u0cac\u0ccd\u0cb2\u0ccb\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ub86c\ube14\ub860 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub86c\ube14\ub860\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Romblon"
@@ -152,6 +161,9 @@
     "name:spa_x_preferred":[
         "Provincia de Rombl\u00f3n"
     ],
+    "name:spa_x_variant":[
+        "Rombl\u00f3n"
+    ],
     "name:swe_x_preferred":[
         "Romblon"
     ],
@@ -166,6 +178,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e23\u0e2d\u0e21\u0e1a\u0e25\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e23\u0e21\u0e42\u0e1a\u0e25\u0e19"
     ],
     "name:tur_x_preferred":[
         "Romblon"
@@ -327,7 +342,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778487,
+    "wof:lastmodified":1563326838,
     "wof:name":"Romblon",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

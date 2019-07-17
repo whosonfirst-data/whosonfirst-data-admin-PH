@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0648\u064a\u062a\u0647"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u0627\u0648\u06cc\u062a\u0647"
+    ],
     "name:bcl_x_preferred":[
         "Cavite"
     ],
@@ -83,6 +86,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0935\u093f\u0924\u0947 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057e\u056b\u057f\u0565"
+    ],
     "name:ilo_x_preferred":[
         "Cavite"
     ],
@@ -95,11 +101,17 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30f4\u30a3\u30c6\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30f4\u30a3\u30c6"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0caf\u0cbe\u0cb5\u0cc6\u0c9f\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uce74\ube44\ud14c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ube44\ud14c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Cavite"
@@ -146,6 +158,9 @@
     "name:pol_x_preferred":[
         "Cavite"
     ],
+    "name:pol_x_variant":[
+        "Prowincja Cavite"
+    ],
     "name:por_x_preferred":[
         "Cavite"
     ],
@@ -161,8 +176,14 @@
     "name:spa_x_preferred":[
         "Provincia de Cavite"
     ],
+    "name:spa_x_variant":[
+        "Cavite"
+    ],
     "name:swe_x_preferred":[
         "Cavite"
+    ],
+    "name:swe_x_variant":[
+        "Provins Cavite"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0bb5\u0bbf\u0b9f\u0bcd"
@@ -175,6 +196,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e32\u0e27\u0e34\u0e15"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e32\u0e1a\u0e35\u0e40\u0e15"
     ],
     "name:tur_x_preferred":[
         "Cavite"
@@ -332,7 +356,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778489,
+    "wof:lastmodified":1563326851,
     "wof:name":"Cavite",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

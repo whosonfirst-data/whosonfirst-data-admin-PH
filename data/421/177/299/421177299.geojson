@@ -46,6 +46,9 @@
     "name:jpn_x_preferred":[
         "\u30d8\u30cd\u30e9\u30eb\u30c8\u30ea\u30a2\u30b9"
     ],
+    "name:jpn_x_variant":[
+        "\u30d8\u30cd\u30e9\u30eb\u00b7\u30c8\u30ea\u30a2\u30b9"
+    ],
     "name:msa_x_preferred":[
         "General Trias"
     ],
@@ -64,7 +67,13 @@
     "name:pam_x_preferred":[
         "General Trias Lakanbalen"
     ],
+    "name:pam_x_variant":[
+        "General Trias"
+    ],
     "name:pol_x_preferred":[
+        "General Trias"
+    ],
+    "name:spa_x_preferred":[
         "General Trias"
     ],
     "name:swe_x_preferred":[
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":421177299,
-    "wof:lastmodified":1561778720,
+    "wof:lastmodified":1563331673,
     "wof:name":"General Trias",
     "wof:parent_id":1108697637,
     "wof:placetype":"locality",
