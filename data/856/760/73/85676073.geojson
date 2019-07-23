@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Isabela"
     ],
+    "name:ceb_x_preferred":[
+        "Isabela"
+    ],
     "name:dan_x_preferred":[
         "Isabela"
     ],
@@ -86,11 +89,17 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30b5\u30d9\u30e9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30a4\u30b5\u30d9\u30e9"
+    ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb8\u0cbe\u0cac\u0cc6\u0cb2\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\uc774\uc0ac\ubca8\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc0ac\ubca8\ub77c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Isabela"
@@ -154,6 +163,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e0b\u0e32\u0e40\u0e1a\u0e25\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e35\u0e0b\u0e32\u0e40\u0e1a\u0e25\u0e32"
     ],
     "name:tur_x_preferred":[
         "Isabela"
@@ -291,7 +303,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778487,
+    "wof:lastmodified":1563326835,
     "wof:name":"Isabela",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

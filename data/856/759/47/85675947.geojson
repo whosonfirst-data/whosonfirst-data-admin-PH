@@ -29,8 +29,14 @@
     "name:ace_x_preferred":[
         "Propinsi Siquijor"
     ],
+    "name:ace_x_variant":[
+        "Siquijor"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0643\u064a\u062e\u0648\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u06a9\u06cc\u062e\u0648\u0631"
     ],
     "name:bcl_x_preferred":[
         "Siquijor"
@@ -45,6 +51,9 @@
         "Siquijor"
     ],
     "name:ceb_x_preferred":[
+        "Siquijor"
+    ],
+    "name:ces_x_preferred":[
         "Siquijor"
     ],
     "name:dan_x_preferred":[
@@ -89,14 +98,23 @@
     "name:ita_x_preferred":[
         "Provincia di Siquijor"
     ],
+    "name:ita_x_variant":[
+        "Siquijor"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30ad\u30db\u30eb\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b7\u30ad\u30db\u30eb"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0c95\u0ccd\u0cb5\u0cbf\u0c9c\u0cb0\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc2dc\ud0a4\ud638\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc2dc\ud0a4\ud638\ub974\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Siquijor"
@@ -137,6 +155,9 @@
     "name:oci_x_preferred":[
         "Siquijor"
     ],
+    "name:pag_x_preferred":[
+        "Siquijor"
+    ],
     "name:pam_x_preferred":[
         "Siquijor"
     ],
@@ -158,6 +179,9 @@
     "name:spa_x_preferred":[
         "Provincia de Siquijor"
     ],
+    "name:spa_x_variant":[
+        "Siquijor"
+    ],
     "name:swe_x_preferred":[
         "Siquijor"
     ],
@@ -172,6 +196,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e34\u0e01\u0e35\u0e08\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e35\u0e04\u0e35\u0e2e\u0e2d\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Siquijor"
@@ -196,6 +223,9 @@
     ],
     "name:zho_x_preferred":[
         "\u932b\u57fa\u970d\u723e\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u932b\u57fa\u970d\u723e"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -332,7 +362,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778493,
+    "wof:lastmodified":1563326884,
     "wof:name":"Siquijor",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

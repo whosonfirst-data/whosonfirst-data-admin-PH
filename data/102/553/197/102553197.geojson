@@ -41,11 +41,17 @@
     "name:fra_x_variant":[
         "a\u00e9roport international Francisco Bangoy"
     ],
+    "name:glg_x_preferred":[
+        "Aeroporto internacional Francisco Bangoy"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Davao-Francisco Bangoy"
     ],
     "name:ita_x_preferred":[
         "Aeroporto Internazionale di Davao-Francisco Bangoy"
+    ],
+    "name:ita_x_variant":[
+        "aeroporto internazionale Francisco Bangoy"
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30d0\u30aa\u56fd\u969b\u7a7a\u6e2f"
@@ -70,6 +76,15 @@
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Davao-Francisco Bangoy"
+    ],
+    "name:pol_x_variant":[
+        "Port lotniczy Francisco Bangoy"
+    ],
+    "name:por_x_preferred":[
+        "Aeroporto Internacional Francisco Bangoy"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Francisco Bangoy"
     ],
     "name:spa_x_preferred":[
         "Aeropuerto Internacional Francisco Bangoy"
@@ -129,7 +144,7 @@
         }
     ],
     "wof:id":102553197,
-    "wof:lastmodified":1561778430,
+    "wof:lastmodified":1563325925,
     "wof:name":"Francisco Bangoy International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

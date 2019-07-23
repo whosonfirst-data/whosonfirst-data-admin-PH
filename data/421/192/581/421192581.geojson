@@ -23,6 +23,9 @@
     "name:bcl_x_preferred":[
         "Syudad nin Baguio"
     ],
+    "name:bcl_x_variant":[
+        "Baguio"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09c7\u09cb\u0987\u0989"
     ],
@@ -34,6 +37,12 @@
     ],
     "name:ceb_x_preferred":[
         "Dakbayan sa Baguio"
+    ],
+    "name:ceb_x_variant":[
+        "Baguio"
+    ],
+    "name:ces_x_preferred":[
+        "Baguio"
     ],
     "name:dan_x_preferred":[
         "Baguio"
@@ -52,6 +61,12 @@
     ],
     "name:eng_x_preferred":[
         "Baguio City"
+    ],
+    "name:eng_x_variant":[
+        "Baguio"
+    ],
+    "name:epo_x_preferred":[
+        "Baguio"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u06af\u06cc\u0648"
@@ -80,8 +95,14 @@
     "name:ilo_x_preferred":[
         "Ciudad ti Baguio"
     ],
+    "name:ilo_x_variant":[
+        "Baguio"
+    ],
     "name:ind_x_preferred":[
         "Kota Baguio"
+    ],
+    "name:ind_x_variant":[
+        "Baguio City"
     ],
     "name:ita_x_preferred":[
         "Baguio"
@@ -128,6 +149,9 @@
     "name:pag_x_preferred":[
         "Siyudad na Baguio"
     ],
+    "name:pag_x_variant":[
+        "Baguio"
+    ],
     "name:pam_x_preferred":[
         "Baguio Lakanbalen"
     ],
@@ -149,6 +173,9 @@
     "name:swe_x_preferred":[
         "Baguio City"
     ],
+    "name:szl_x_preferred":[
+        "Baguio"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0b95\u0bbf\u0baf\u0bcb"
     ],
@@ -157,6 +184,9 @@
     ],
     "name:tgl_x_preferred":[
         "Lungsod ng Baguio"
+    ],
+    "name:tgl_x_variant":[
+        "Baguio"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e40\u0e01\u0e35\u0e22\u0e27"
@@ -173,11 +203,17 @@
     "name:urd_x_preferred":[
         "\u0628\u0627\u06af\u06cc\u0624"
     ],
+    "name:vec_x_preferred":[
+        "Baguio"
+    ],
     "name:vie_x_preferred":[
         "Baguio"
     ],
     "name:war_x_preferred":[
         "Baguio"
+    ],
+    "name:yue_x_preferred":[
+        "\u78a7\u7464"
     ],
     "name:zho_x_preferred":[
         "\u78a7\u7476\u5e02"
@@ -323,7 +359,7 @@
         }
     ],
     "wof:id":421192581,
-    "wof:lastmodified":1561778695,
+    "wof:lastmodified":1563331348,
     "wof:name":"Baguio City",
     "wof:parent_id":1108696789,
     "wof:placetype":"locality",

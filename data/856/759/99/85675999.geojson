@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u063a\u064a\u0645\u0627\u0631\u0627\u0633"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u06cc\u0645\u0627\u0631\u0627\u0633"
+    ],
     "name:bcl_x_preferred":[
         "Guimaras"
     ],
@@ -98,11 +101,17 @@
     "name:jpn_x_preferred":[
         "\u30ae\u30de\u30e9\u30b9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30ae\u30de\u30e9\u30b9"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0cc1\u0caf\u0cbf\u0cae\u0cbe\u0cb0\u0cb8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uae30\ub9c8\ub77c\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uae30\ub9c8\ub77c\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Gimarasa"
@@ -175,6 +184,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e01\u0e38\u0e22\u0e21\u0e32\u0e23\u0e32\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e35\u0e21\u0e32\u0e23\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Guimaras"
@@ -331,7 +343,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778493,
+    "wof:lastmodified":1563326880,
     "wof:name":"Guimaras",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

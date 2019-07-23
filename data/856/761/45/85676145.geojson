@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0632\u0627\u0644"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0632\u0627\u0644"
+    ],
     "name:bcl_x_preferred":[
         "Rizal"
     ],
@@ -92,11 +95,17 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30b5\u30fc\u30eb\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30ea\u30b5\u30fc\u30eb"
+    ],
     "name:kan_x_preferred":[
         "\u0cb0\u0cbf\u0c9c\u0cbe\u0cb2\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ub9ac\uc0b4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc0b4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Rizala"
@@ -152,6 +161,9 @@
     "name:spa_x_preferred":[
         "Provincia de Rizal"
     ],
+    "name:spa_x_variant":[
+        "Rizal"
+    ],
     "name:swe_x_preferred":[
         "Rizal"
     ],
@@ -166,6 +178,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e34\u0e40\u0e0b\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e35\u0e0b\u0e31\u0e25"
     ],
     "name:tur_x_preferred":[
         "Rizal"
@@ -323,7 +338,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778489,
+    "wof:lastmodified":1563326853,
     "wof:name":"Rizal",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

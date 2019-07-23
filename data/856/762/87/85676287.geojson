@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0633\u0627\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
     "name:bcl_x_preferred":[
         "Rehiyon Sentral na Visayas"
     ],
     "name:cat_x_preferred":[
         "Visayas Centrals"
+    ],
+    "name:ceb_x_preferred":[
+        "Tunga-tungang Kabisay-an"
     ],
     "name:deu_x_preferred":[
         "Central Visayas"
@@ -36,6 +42,9 @@
     ],
     "name:eng_x_variant":[
         "Region VII"
+    ],
+    "name:eus_x_preferred":[
+        "Erdialdeko Bisayak"
     ],
     "name:fin_x_preferred":[
         "Keski-Visayas"
@@ -66,6 +75,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\uc559\ube44\uc0ac\uc57c \uc9c0\ubc29"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\ube44\uc0ac\uc57c\uc2a4 \uc9c0\ubc29"
     ],
     "name:lat_x_preferred":[
         "Visayas Media"
@@ -115,6 +127,9 @@
     "name:tgl_x_preferred":[
         "Gitnang Kabisayaan"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e34\u0e15\u0e19\u0e32\u0e07\u0e04\u0e32\u0e1a\u0e35\u0e0b\u0e32\u0e22\u0e32\u0e2d\u0e31\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Merkez Visayas"
     ],
@@ -129,6 +144,9 @@
     ],
     "name:war_x_preferred":[
         "Butnga nga Kabisay-an"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e2d\u7dad\u85a9\u4e9e\u65af"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u7c73\u6c99\u9122"
@@ -248,7 +266,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778477,
+    "wof:lastmodified":1563326798,
     "wof:name":"Mandaue",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

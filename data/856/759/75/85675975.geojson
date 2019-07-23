@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0644\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0644\u0648"
+    ],
     "name:bcl_x_preferred":[
         "Sulu"
     ],
@@ -95,11 +98,17 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30fc\u30eb\u30fc\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30b9\u30fc\u30eb\u30fc"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc1\u0cb2\u0cc1"
     ],
     "name:kor_x_preferred":[
         "\uc220\ub8e8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc220\ub8e8\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Sulu"
@@ -158,6 +167,9 @@
     "name:spa_x_preferred":[
         "Provincia de Jol\u00f3"
     ],
+    "name:spa_x_variant":[
+        "Sul\u00fa"
+    ],
     "name:swe_x_preferred":[
         "Sulu"
     ],
@@ -173,6 +185,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e39\u0e25\u0e39"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e39\u0e25\u0e39"
+    ],
     "name:tur_x_preferred":[
         "Sulu"
     ],
@@ -187,6 +202,9 @@
     ],
     "name:war_x_preferred":[
         "Sulu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u7984\u7701"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sulu"
@@ -329,7 +347,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778492,
+    "wof:lastmodified":1563326877,
     "wof:name":"Sulu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

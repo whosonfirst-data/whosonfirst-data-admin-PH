@@ -30,8 +30,14 @@
     "name:ace_x_preferred":[
         "Propinsi Laguna"
     ],
+    "name:ace_x_variant":[
+        "Laguna"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u0627\u063a\u0648\u0646\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0642\u0648\u0646\u0627"
     ],
     "name:bcl_x_preferred":[
         "Laguna"
@@ -40,6 +46,9 @@
         "\u09b2\u09c7\u0997\u09c1\u09a8\u09be"
     ],
     "name:cat_x_preferred":[
+        "Laguna"
+    ],
+    "name:ceb_x_preferred":[
         "Laguna"
     ],
     "name:dan_x_preferred":[
@@ -59,6 +68,9 @@
     ],
     "name:eus_x_preferred":[
         "Laguna probintzia"
+    ],
+    "name:eus_x_variant":[
+        "Laguna"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u06af\u0648\u0646\u0627"
@@ -84,8 +96,14 @@
     "name:ita_x_preferred":[
         "Provincia di Laguna"
     ],
+    "name:ita_x_variant":[
+        "Laguna"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30b0\u30ca\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e9\u30b0\u30ca"
     ],
     "name:kan_x_preferred":[
         "\u0cb2\u0c97\u0cc1\u0ca8\u0cbe"
@@ -95,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub77c\uad6c\ub098 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub77c\uad6c\ub098\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Laguna"
@@ -164,6 +185,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e25\u0e32\u0e01\u0e39\u0e19\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e32\u0e01\u0e39\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Laguna"
@@ -318,7 +342,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778490,
+    "wof:lastmodified":1563326864,
     "wof:name":"Laguna",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

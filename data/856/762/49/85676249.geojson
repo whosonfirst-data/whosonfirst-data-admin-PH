@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0627\u0645\u064a\u0633 \u0623\u0648\u0631\u064a\u0627\u0646\u062a\u0627\u0644"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u0648\u063a\u0648 \u0645\u06cc\u0633\u0627\u0645\u06cc"
+    ],
     "name:bcl_x_preferred":[
         "Misamis Oriental"
     ],
@@ -92,11 +95,17 @@
     "name:jpn_x_preferred":[
         "\u6771\u30df\u30b5\u30df\u30b9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u6771\u30df\u30b5\u30df\u30b9"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbf\u0cb8\u0cbe\u0cae\u0cbf\u0cb8\u0ccd \u0c93\u0cb0\u0cbf\u0caf\u0cc6\u0c82\u0c9f\u0cb2\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ub3d9\ubbf8\uc0ac\ubbf8\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ubbf8\uc0ac\ubbf8\uc2a4\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumu Misamisa"
@@ -126,6 +135,9 @@
         "Misamis Oriental"
     ],
     "name:oci_x_preferred":[
+        "Misamis Oriental"
+    ],
+    "name:pag_x_preferred":[
         "Misamis Oriental"
     ],
     "name:pam_x_preferred":[
@@ -160,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e34\u0e0b\u0e32\u0e21\u0e34\u0e2a\u0e42\u0e2d\u0e40\u0e23\u0e35\u0e22\u0e19\u0e17\u0e31\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e35\u0e25\u0e32\u0e07\u0e31\u0e07\u0e21\u0e35\u0e0b\u0e32\u0e21\u0e34\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Misamis Oriental"
@@ -320,7 +335,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778479,
+    "wof:lastmodified":1563326812,
     "wof:name":"Misamis Oriental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

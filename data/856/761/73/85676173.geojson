@@ -44,6 +44,9 @@
     "name:cat_x_preferred":[
         "Maguindanao"
     ],
+    "name:ceb_x_preferred":[
+        "Maguindanao"
+    ],
     "name:dan_x_preferred":[
         "Maguindanao"
     ],
@@ -95,11 +98,17 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ae\u30f3\u30c0\u30ca\u30aa\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30de\u30ae\u30f3\u30c0\u30ca\u30aa"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0c97\u0cc1\u0c82\u0ca6\u0cbe\u0ca8\u0cca"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uae34\ub2e4\ub098\uc624 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\uae34\ub2e4\ub098\uc624\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Magvindanao"
@@ -126,6 +135,9 @@
         "Maguindanao"
     ],
     "name:oci_x_preferred":[
+        "Maguindanao"
+    ],
+    "name:pag_x_preferred":[
         "Maguindanao"
     ],
     "name:pam_x_preferred":[
@@ -160,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e32\u0e01\u0e39\u0e2d\u0e34\u0e19\u0e14\u0e32\u0e40\u0e19\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e32\u0e01\u0e34\u0e19\u0e14\u0e32\u0e40\u0e19\u0e32"
     ],
     "name:tur_x_preferred":[
         "Maguindanao"
@@ -254,7 +269,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778489,
+    "wof:lastmodified":1563326854,
     "wof:name":"Maguindanao",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

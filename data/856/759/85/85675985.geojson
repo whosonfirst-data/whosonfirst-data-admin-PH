@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "Antique"
     ],
+    "name:ceb_x_preferred":[
+        "Antique"
+    ],
     "name:dan_x_preferred":[
         "Antique"
     ],
@@ -86,11 +89,17 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30c6\u30a3\u30fc\u30b1\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30f3\u30c6\u30a3\u30fc\u30b1"
+    ],
     "name:kan_x_preferred":[
         "\u0c86\u0c82\u0c9f\u0cbf\u0c95\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc548\ud2f0\ucf00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc548\ud2f0\ucf00\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Antica"
@@ -157,6 +166,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e19\u0e15\u0e34\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e19\u0e15\u0e35\u0e40\u0e04"
     ],
     "name:tur_x_preferred":[
         "Antique"
@@ -313,7 +325,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778493,
+    "wof:lastmodified":1563326882,
     "wof:name":"Antique",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

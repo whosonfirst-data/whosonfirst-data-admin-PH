@@ -29,14 +29,23 @@
     "name:ace_x_preferred":[
         "Propinsi Nueva Vizcaya"
     ],
+    "name:ace_x_variant":[
+        "Nueva Vizcaya"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u0648\u064a\u0641\u0627 \u0641\u064a\u0632\u0643\u0627\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0626\u0647\u200c\u0648\u0627 \u0648\u06cc\u0632\u06a9\u0627\u06cc\u0627"
     ],
     "name:bcl_x_preferred":[
         "Nueva Vizcaya"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09cd\u09af\u09c1\u09ad\u09be \u09ad\u09bf\u099c\u0995\u09be\u09af\u09bc\u09be"
+    ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c1\u09af\u09bc\u09c7\u09ac\u09be \u09ac\u09bf\u09b8\u09cd\u0995\u09be\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
         "Nueva Vizcaya"
@@ -95,14 +104,23 @@
     "name:ita_x_preferred":[
         "Provincia di Nueva Vizcaya"
     ],
+    "name:ita_x_variant":[
+        "Nueva Vizcaya"
+    ],
     "name:jpn_x_preferred":[
         "\u30cc\u30a8\u30f4\u30a1\u30fb\u30f4\u30a3\u30b9\u30ab\u30e4\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30cc\u30a8\u30f4\u30a1\u30fb\u30f4\u30a3\u30b9\u30ab\u30e4"
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cc1\u0cb5\u0cbe \u0cb5\u0cbf\u0c95\u0cbe\u0caf\u0cbe\u0caf\u0cbe"
     ],
     "name:kor_x_preferred":[
         "\ub204\uc5d0\ubc14\ube44\uc2a4\uce74\uc57c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub204\uc5d0\ubc14\ube44\uc2a4\uce74\uc57c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Nueva Viscaya"
@@ -140,6 +158,9 @@
     "name:pag_x_preferred":[
         "Nueva Vizcaya"
     ],
+    "name:pag_x_variant":[
+        "Balon Vizcaya"
+    ],
     "name:pam_x_preferred":[
         "Nueva Vizcaya"
     ],
@@ -158,6 +179,9 @@
     "name:spa_x_preferred":[
         "Provincia de Nueva Vizcaya"
     ],
+    "name:spa_x_variant":[
+        "Nueva Vizcaya"
+    ],
     "name:swe_x_preferred":[
         "Nueva Vizcaya"
     ],
@@ -172,6 +196,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e19\u0e27\u0e32\u0e27\u0e34\u0e0b\u0e04\u0e32\u0e22\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e19\u0e39\u0e40\u0e27\u0e1a\u0e32\u0e1a\u0e34\u0e0b\u0e04\u0e32\u0e22\u0e32"
     ],
     "name:tur_x_preferred":[
         "Nueva Vizcaya"
@@ -329,7 +356,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778488,
+    "wof:lastmodified":1563326844,
     "wof:name":"Nueva Vizcaya",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

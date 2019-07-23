@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0633\u0627\u064a\u0627 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
     "name:bcl_x_preferred":[
         "Rehiyon Sulnopan na Visayas"
     ],
     "name:cat_x_preferred":[
         "Visayas Occidentals"
+    ],
+    "name:ceb_x_preferred":[
+        "Kasadpang Kabisay-an"
     ],
     "name:deu_x_preferred":[
         "Western Visayas"
@@ -36,6 +42,9 @@
     ],
     "name:eng_x_variant":[
         "Region VI"
+    ],
+    "name:eus_x_preferred":[
+        "Mendebaldeko Bisayak"
     ],
     "name:fin_x_preferred":[
         "L\u00e4nsi-Visayas"
@@ -67,6 +76,9 @@
     "name:kor_x_preferred":[
         "\uc11c\ube44\uc0ac\uc57c \uc9c0\ubc29"
     ],
+    "name:kor_x_variant":[
+        "\uc11c\ube44\uc0ac\uc57c\uc2a4 \uc9c0\ubc29"
+    ],
     "name:lat_x_preferred":[
         "Visayas Occidentalis"
     ],
@@ -80,6 +92,9 @@
         "Kanlurang Visayas"
     ],
     "name:nld_x_preferred":[
+        "Western Visayas"
+    ],
+    "name:nob_x_preferred":[
         "Western Visayas"
     ],
     "name:oci_x_preferred":[
@@ -109,6 +124,9 @@
     "name:tgl_x_preferred":[
         "Kanlurang Kabisayaan"
     ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e31\u0e19\u0e25\u0e39\u0e23\u0e31\u0e07\u0e04\u0e32\u0e1a\u0e35\u0e0b\u0e32\u0e22\u0e32\u0e2d\u0e31\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Bat\u0131 Visayas"
     ],
@@ -123,6 +141,9 @@
     ],
     "name:war_x_preferred":[
         "Katundan nga Kabisay-an"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u7dad\u85a9\u4e9e\u65af"
     ],
     "name:zho_x_preferred":[
         "\u897f\u7c73\u6c99\u9122"
@@ -182,7 +203,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778476,
+    "wof:lastmodified":1563326785,
     "wof:name":"Puerto Princesa",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

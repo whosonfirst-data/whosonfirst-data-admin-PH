@@ -30,8 +30,14 @@
     "name:ace_x_preferred":[
         "Propinsi Samar Utara"
     ],
+    "name:ace_x_variant":[
+        "Samar Bar\u00f4h"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u0627\u0645\u0627\u0631 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0632\u0626\u06cc \u0633\u0627\u0645\u0627\u0631"
     ],
     "name:bcl_x_preferred":[
         "Northern Samar"
@@ -53,6 +59,9 @@
     ],
     "name:deu_x_preferred":[
         "Northern Samar"
+    ],
+    "name:deu_x_variant":[
+        "Nord-Samar"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u03a3\u03b1\u03bc\u03ac\u03c1"
@@ -90,14 +99,23 @@
     "name:ita_x_preferred":[
         "Provincia di Northern Samar"
     ],
+    "name:ita_x_variant":[
+        "Samar Settentrionale"
+    ],
     "name:jpn_x_preferred":[
         "\u5317\u30b5\u30de\u30eb\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u5317\u30b5\u30de\u30eb"
     ],
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0cb8\u0cae\u0cbe\u0cb0\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ubd81\uc0ac\ub9c8\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\uc0ac\ub9c8\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cu Samara"
@@ -126,6 +144,9 @@
     "name:nor_x_preferred":[
         "Northern Samar"
     ],
+    "name:pag_x_preferred":[
+        "Northern Samar"
+    ],
     "name:pam_x_preferred":[
         "Pangulung Samar"
     ],
@@ -147,6 +168,9 @@
     "name:spa_x_preferred":[
         "S\u00e1mar del norte"
     ],
+    "name:spa_x_variant":[
+        "S\u00e1mar del Norte"
+    ],
     "name:swe_x_preferred":[
         "Norra Samar"
     ],
@@ -164,6 +188,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e18\u0e34\u0e23\u0e4c\u0e19 \u0e0b\u0e32\u0e21\u0e32\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e35\u0e25\u0e32\u0e01\u0e31\u0e07\u0e0b\u0e32\u0e21\u0e32\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Kuzey Samar"
@@ -191,6 +218,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u85a9\u99ac\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u85a9\u99ac"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -328,7 +358,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778478,
+    "wof:lastmodified":1563326803,
     "wof:name":"Northern Samar",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

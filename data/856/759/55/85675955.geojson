@@ -26,8 +26,14 @@
     "name:ace_x_preferred":[
         "Propinsi Basilan"
     ],
+    "name:ace_x_variant":[
+        "Basilan"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u064a\u0644\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0627\u0633\u06cc\u0644\u0627\u0646"
     ],
     "name:bcl_x_preferred":[
         "Basilan"
@@ -74,6 +80,9 @@
     "name:fra_x_preferred":[
         "Basilan"
     ],
+    "name:glg_x_preferred":[
+        "Basil\u00e1n"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab8\u0abf\u0ab2\u0aa8"
     ],
@@ -86,20 +95,32 @@
     "name:ina_x_preferred":[
         "Provincia Basilan"
     ],
+    "name:ina_x_variant":[
+        "Basilan"
+    ],
     "name:ind_x_preferred":[
         "Basilan"
     ],
     "name:ita_x_preferred":[
         "Provincia di Basilan"
     ],
+    "name:ita_x_variant":[
+        "Basilan"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30b7\u30e9\u30f3\u5dde"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30b7\u30e9\u30f3"
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cb8\u0cbf\u0cb2\u0cbe\u0ca8\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc2e4\ub780 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc2e4\ub780\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Basilan"
@@ -173,6 +194,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e32\u0e0b\u0e35\u0e25\u0e31\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e0b\u0e35\u0e25\u0e31\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Basilan"
     ],
@@ -188,11 +212,17 @@
     "name:war_x_preferred":[
         "Basilan"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u897f\u5170"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Basilan"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u897f\u5170\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u5df4\u897f\u5170"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -315,7 +345,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778493,
+    "wof:lastmodified":1563326881,
     "wof:name":"Basilan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

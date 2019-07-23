@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Buguias"
     ],
+    "name:ceb_x_preferred":[
+        "Buguias"
+    ],
     "name:deu_x_preferred":[
         "Buguias"
     ],
@@ -73,8 +76,14 @@
     "name:unk_x_variant":[
         "Bugujas"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06af\u0648\u06cc\u0627\u0633"
+    ],
     "name:war_x_preferred":[
         "Buguias"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5409\u4e9e\u65af"
     ],
     "qs_pg:aaroncc":"PH",
     "qs_pg:gn_country":"PH",
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1125848593,
-    "wof:lastmodified":1561778763,
+    "wof:lastmodified":1563333130,
     "wof:name":"Buguias",
     "wof:parent_id":1108697095,
     "wof:placetype":"locality",

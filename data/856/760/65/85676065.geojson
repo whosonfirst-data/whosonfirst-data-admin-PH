@@ -32,10 +32,19 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0631\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0622\u0631\u0648\u0631\u0627"
+    ],
+    "name:bcl_x_preferred":[
+        "Aurora"
+    ],
     "name:ben_x_preferred":[
         "\u0985\u09b0\u09cb\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
+        "Aurora"
+    ],
+    "name:ceb_x_preferred":[
         "Aurora"
     ],
     "name:dan_x_preferred":[
@@ -89,6 +98,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30a6\u30ed\u30e9\u5dde"
     ],
+    "name:jpn_x_variant":[
+        "\u30a2\u30a6\u30ed\u30e9"
+    ],
     "name:kal_x_preferred":[
         "Aurora"
     ],
@@ -97,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc6b0\ub85c\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc6b0\ub85c\ub77c\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Aurora"
@@ -169,6 +184,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e2d\u0e42\u0e23\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e32\u0e42\u0e23\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Aurora"
@@ -323,7 +341,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1561778487,
+    "wof:lastmodified":1563326839,
     "wof:name":"Aurora",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

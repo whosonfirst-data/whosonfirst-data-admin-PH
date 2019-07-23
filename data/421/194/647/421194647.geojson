@@ -31,8 +31,14 @@
     "name:dan_x_preferred":[
         "Angeles City"
     ],
+    "name:dan_x_variant":[
+        "Angeles"
+    ],
     "name:deu_x_preferred":[
         "Angeles City"
+    ],
+    "name:deu_x_variant":[
+        "Angeles"
     ],
     "name:diq_x_preferred":[
         "Angeles"
@@ -43,8 +49,17 @@
     "name:eng_x_preferred":[
         "Angeles City"
     ],
+    "name:eng_x_variant":[
+        "Angeles"
+    ],
+    "name:epo_x_preferred":[
+        "An\u011deleso"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u062c\u0644\u0633\u060c \u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0646\u062c\u0644\u0633"
     ],
     "name:fin_x_preferred":[
         "Angeles"
@@ -64,11 +79,20 @@
     "name:ilo_x_preferred":[
         "Siudad ti Angeles"
     ],
+    "name:ilo_x_variant":[
+        "Angeles"
+    ],
     "name:ind_x_preferred":[
         "Kota Angeles"
     ],
+    "name:ind_x_variant":[
+        "Angeles"
+    ],
     "name:ita_x_preferred":[
         "Citt\u00e0 del Angeles"
+    ],
+    "name:ita_x_variant":[
+        "Angeles"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30d8\u30ec\u30b9"
@@ -100,8 +124,14 @@
     "name:nno_x_preferred":[
         "Angeles City"
     ],
+    "name:nno_x_variant":[
+        "Angeles"
+    ],
     "name:nob_x_preferred":[
         "Angeles City"
+    ],
+    "name:nob_x_variant":[
+        "Angeles"
     ],
     "name:pag_x_preferred":[
         "Angeles"
@@ -109,11 +139,17 @@
     "name:pam_x_preferred":[
         "Angeles Lakanbalen"
     ],
+    "name:pam_x_variant":[
+        "Angeles"
+    ],
     "name:pol_x_preferred":[
         "Angeles"
     ],
     "name:por_x_preferred":[
         "Cidade de Angeles"
+    ],
+    "name:por_x_variant":[
+        "Angeles"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0445\u0435\u043b\u0435\u0441"
@@ -126,6 +162,9 @@
     ],
     "name:swe_x_preferred":[
         "Angeles City"
+    ],
+    "name:swe_x_variant":[
+        "Angeles"
     ],
     "name:tam_x_preferred":[
         "\u0b8f\u0b9e\u0bcd\u0b9a\u0bc6\u0bb2\u0bbf\u0bb8\u0bcd"
@@ -150,6 +189,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0646\u062c\u0644\u0633\u060c \u0641\u0644\u067e\u0627\u0626\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0646\u062c\u0644\u0633"
     ],
     "name:vie_x_preferred":[
         "Angeles"
@@ -207,7 +249,7 @@
         }
     ],
     "wof:id":421194647,
-    "wof:lastmodified":1561778698,
+    "wof:lastmodified":1563331374,
     "wof:name":"Angeles City",
     "wof:parent_id":1108696677,
     "wof:placetype":"locality",

@@ -19,14 +19,23 @@
     "name:bcl_x_preferred":[
         "Santiago City"
     ],
+    "name:bcl_x_variant":[
+        "Santiago"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u0997\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Santiago"
     ],
     "name:dan_x_preferred":[
         "Santiago"
     ],
     "name:deu_x_preferred":[
         "Santiago City"
+    ],
+    "name:deu_x_variant":[
+        "Santiago"
     ],
     "name:diq_x_preferred":[
         "Santiago"
@@ -58,11 +67,17 @@
     "name:hun_x_preferred":[
         "Santiago City"
     ],
+    "name:hun_x_variant":[
+        "Santiago"
+    ],
     "name:ilo_x_preferred":[
         "Santiago"
     ],
     "name:ind_x_preferred":[
         "Santiago City"
+    ],
+    "name:ind_x_variant":[
+        "Santiago"
     ],
     "name:ita_x_preferred":[
         "Santiago"
@@ -97,8 +112,14 @@
     "name:pag_x_preferred":[
         "Siyudad na Santiago"
     ],
+    "name:pag_x_variant":[
+        "Santiago"
+    ],
     "name:pam_x_preferred":[
         "Santiago Lakanbalen"
+    ],
+    "name:pam_x_variant":[
+        "Santiago"
     ],
     "name:pol_x_preferred":[
         "Santiago"
@@ -138,6 +159,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679\u06cc\u0627\u06af\u0648\u060c \u0641\u0644\u067e\u0627\u0626\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679\u06cc\u0627\u06af\u0648"
     ],
     "name:vie_x_preferred":[
         "Santiago"
@@ -193,7 +217,7 @@
         }
     ],
     "wof:id":421197495,
-    "wof:lastmodified":1561778717,
+    "wof:lastmodified":1563331612,
     "wof:name":"Santiago",
     "wof:parent_id":1108697341,
     "wof:placetype":"locality",

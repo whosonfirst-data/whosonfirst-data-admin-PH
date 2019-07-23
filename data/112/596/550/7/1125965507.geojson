@@ -22,6 +22,9 @@
     "name:bcl_x_preferred":[
         "Jaro"
     ],
+    "name:ceb_x_preferred":[
+        "Jaro"
+    ],
     "name:deu_x_preferred":[
         "Jaro"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0691\u0648\u060c \u0644\u06cc\u062a\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0691\u0648"
     ],
     "name:vie_x_preferred":[
         "Jaro"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125965507,
-    "wof:lastmodified":1561778761,
+    "wof:lastmodified":1563333083,
     "wof:name":"Jaro",
     "wof:parent_id":1108697813,
     "wof:placetype":"locality",
