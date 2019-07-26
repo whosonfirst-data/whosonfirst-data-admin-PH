@@ -27,6 +27,9 @@
     "iso:country":"PH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Galam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632509
@@ -36,7 +39,7 @@
         "gn:id":8473579
     },
     "wof:country":"PH",
-    "wof:geomhash":"05bf5b14c16193a52de5e13a388888fb",
+    "wof:geomhash":"b6fb594e219b73fa4d5ac6eacf612727",
     "wof:hierarchy":[
         {
             "country_id":85632509,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1209318023,
-    "wof:lastmodified":1536290796,
+    "wof:lastmodified":1564175354,
     "wof:name":"Galam",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",
@@ -55,9 +58,9 @@
 },
   "bbox": [
     119.90301,
-    16.383210000000002,
+    16.38321,
     119.90301,
-    16.383210000000002
+    16.38321
 ],
   "geometry": {"coordinates":[119.90300999999999,16.38321],"type":"Point"}
 }

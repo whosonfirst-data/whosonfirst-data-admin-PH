@@ -27,6 +27,12 @@
     "iso:country":"PH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galiano"
+    ],
+    "name:deu_x_preferred":[
+        "Galiano"
+    ],
     "name:fil_x_preferred":[
         "Galiano"
     ],
@@ -34,9 +40,24 @@
         "Gallano",
         "Galiauo"
     ],
+    "name:fra_x_preferred":[
+        "Galiano"
+    ],
+    "name:ita_x_preferred":[
+        "Galiano"
+    ],
+    "name:ron_x_preferred":[
+        "Galiano"
+    ],
+    "name:swe_x_preferred":[
+        "Galiano"
+    ],
     "name:und_x_variant":[
         "Galiauo",
         "Gallano",
+        "Galiano"
+    ],
+    "name:war_x_preferred":[
         "Galiano"
     ],
     "src:geom":"geonames",
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1226761405,
-    "wof:lastmodified":1537678194,
+    "wof:lastmodified":1564181205,
     "wof:name":"Galiano",
     "wof:parent_id":1108696703,
     "wof:placetype":"locality",
