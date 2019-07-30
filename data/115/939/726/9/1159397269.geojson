@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003753,
-    "geom:area_square_m":44929916.173288,
+    "geom:area_square_m":44929916.173317,
     "geom:bbox":"120.983335609,14.4385673892,121.057144696,14.5334899436",
     "geom:latitude":14.484555,
     "geom:longitude":121.023311,
@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0646\u0627\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Para\u00f1aque"
+    ],
     "name:bcl_x_preferred":[
         "Para\u00f1aque"
     ],
@@ -32,11 +38,20 @@
     "name:deu_x_preferred":[
         "Para\u00f1aque City"
     ],
+    "name:deu_x_variant":[
+        "Para\u00f1aque"
+    ],
     "name:eng_x_preferred":[
         "Paranaque"
     ],
     "name:epo_x_preferred":[
         "Para\u00f1aque"
+    ],
+    "name:epo_x_variant":[
+        "Paranjako"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u0627\u0646\u06cc\u0627\u06a9\u0647"
     ],
     "name:fin_x_preferred":[
         "Para\u00f1aque"
@@ -44,11 +59,80 @@
     "name:fra_x_preferred":[
         "Para\u00f1aque"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0580\u0561\u0576\u0575\u0561\u056f\u0565"
+    ],
+    "name:ilo_x_preferred":[
+        "Para\u00f1aque"
+    ],
     "name:ind_x_preferred":[
         "Kota Para\u00f1aque"
     ],
+    "name:ind_x_variant":[
+        "Para\u00f1aque"
+    ],
+    "name:ita_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30e9\u30cb\u30e3\u30fc\u30b1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ub77c\ub0d0\ucf00"
+    ],
+    "name:msa_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:nld_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:nor_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:pag_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:pam_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:pol_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:por_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043d\u044c\u044f\u043a\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Para\u00f1aque"
+    ],
     "name:spa_x_preferred":[
         "Para\u00f1aque"
+    ],
+    "name:swe_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:tgl_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:tur_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0631\u0627\u0646\u0627\u06a9\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:war_x_preferred":[
+        "Para\u00f1aque"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7436\u5170\u90a3\u514b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u7d0d\u514b\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PHL",
@@ -164,7 +248,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1533166340,
+    "wof:lastmodified":1564179316,
     "wof:name":"Paranaque",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",
