@@ -11,10 +11,14 @@
     "geom:longitude":123.43191,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2529,
+    "gn:population":2529,
     "iso:country":"PH",
+    "lbl:bbox":"123.41191,12.18345,123.45191,12.22345",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Potot"
     ],
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":1692820,
         "gp:id":1188474,
-        "qs:id":134523
+        "qs_pg:id":134523
     },
     "wof:country":"PH",
     "wof:created":1469051931,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890432183,
-    "wof:lastmodified":1505343528,
+    "wof:lastmodified":1566682247,
     "wof:name":"Potot",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

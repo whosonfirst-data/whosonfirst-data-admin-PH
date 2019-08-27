@@ -11,10 +11,14 @@
     "geom:longitude":121.75385,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2366,
+    "gn:population":2366,
     "iso:country":"PH",
+    "lbl:bbox":"121.73385,17.38382,121.77385,17.42382",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0628\u064a\u0631\u0646\u0627\u0631\u062f\u064a\u0646\u0648"
     ],
@@ -211,7 +215,7 @@
     "wof:concordances":{
         "gn:id":1690233,
         "gp:id":1191135,
-        "qs:id":134379,
+        "qs_pg:id":134379,
         "wk:page":"San Bernardino, California"
     },
     "wof:country":"PH",
@@ -227,7 +231,7 @@
         }
     ],
     "wof:id":890434015,
-    "wof:lastmodified":1564178956,
+    "wof:lastmodified":1566682144,
     "wof:name":"San Bernardino",
     "wof:parent_id":1108699433,
     "wof:placetype":"locality",

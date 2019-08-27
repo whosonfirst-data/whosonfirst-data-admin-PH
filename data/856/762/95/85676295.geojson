@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":10.663288,
     "lbl:longitude":122.998227,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bacolod",
     "mps:latitude":10.657664,
     "mps:longitude":122.995826,
@@ -295,7 +296,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":5862,
     "wof:belongsto":[
         102191569,
@@ -335,7 +336,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326794,
+    "wof:lastmodified":1566679671,
     "wof:name":"Bacolod",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

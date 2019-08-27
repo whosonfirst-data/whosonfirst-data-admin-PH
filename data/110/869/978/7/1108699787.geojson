@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.571747,
     "lbl:longitude":125.563326,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SURIGAO DEL NORTE",
     "meso:admin_1r":"CARAGA",
     "meso:diss_me":"TUBODSURIGAO DEL NORTE",
@@ -32,6 +34,7 @@
     "mps:longitude":125.563326,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tubod"
     ],
@@ -57,7 +60,7 @@
         "Tubod"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108699787,
-    "wof:lastmodified":1564177001,
+    "wof:lastmodified":1566681171,
     "wof:name":"Tubod",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

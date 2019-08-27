@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.052678,
     "lbl:longitude":122.920211,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGROS OCCIDENTAL",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"HIMAMAYLANNEGROS OCCIDENTAL",
@@ -32,6 +34,7 @@
     "mps:longitude":122.920211,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0647\u064a\u0645\u0627\u0645\u0627\u064a\u0644\u0627\u0646"
     ],
@@ -78,7 +81,7 @@
         "Himamaylan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108697713,
-    "wof:lastmodified":1564176992,
+    "wof:lastmodified":1566681168,
     "wof:name":"Himamaylan",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

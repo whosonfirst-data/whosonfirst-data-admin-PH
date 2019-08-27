@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":13.615607,
     "lbl:longitude":123.255628,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Naga",
     "mps:latitude":13.615607,
     "mps:longitude":123.255629,
@@ -330,9 +331,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"5,267",
     "statoids:area_mi":"2,034",
     "statoids:as_of_date":"2010-05-01",
@@ -385,11 +386,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326783,
+    "wof:lastmodified":1566679669,
     "wof:name":"Naga",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1822371,
     "wof:population_rank":12,

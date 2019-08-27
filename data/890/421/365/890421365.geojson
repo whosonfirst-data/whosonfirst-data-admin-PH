@@ -11,10 +11,14 @@
     "geom:longitude":123.36742,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3471,
+    "gn:population":3471,
     "iso:country":"PH",
+    "lbl:bbox":"123.34742,9.75158,123.38742,9.79158",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Valencia"
     ],
@@ -420,7 +424,7 @@
     "wof:concordances":{
         "gn:id":1680111,
         "gp:id":1188239,
-        "qs:id":86315,
+        "qs_pg:id":86315,
         "wd:id":"Q8818",
         "wk:page":"Valencia"
     },
@@ -437,7 +441,7 @@
         }
     ],
     "wof:id":890421365,
-    "wof:lastmodified":1563332260,
+    "wof:lastmodified":1566682033,
     "wof:name":"Valencia",
     "wof:parent_id":1108696613,
     "wof:placetype":"locality",

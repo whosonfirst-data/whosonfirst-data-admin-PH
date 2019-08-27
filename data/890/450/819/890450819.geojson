@@ -11,11 +11,15 @@
     "geom:longitude":120.87051,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7031,
+    "gn:population":7031,
     "iso:country":"PH",
+    "lbl:bbox":"120.85051,14.32745,120.89051,14.36745",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pasong Kawayan"
     ],
     "qs:name":"Pasong Kawayan I",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1694514,
         "gp:id":91796667,
-        "qs:id":87020
+        "qs_pg:id":87020
     },
     "wof:country":"PH",
     "wof:created":1469052754,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450819,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682192,
     "wof:name":"Pasong Kawayan I",
     "wof:parent_id":1108697637,
     "wof:placetype":"locality",

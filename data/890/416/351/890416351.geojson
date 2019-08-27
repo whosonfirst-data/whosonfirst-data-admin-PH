@@ -11,10 +11,14 @@
     "geom:longitude":118.5492,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4790,
+    "gn:population":4790,
     "iso:country":"PH",
+    "lbl:bbox":"118.5292,9.41516,118.5692,9.45516",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Aborlan"
     ],
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1732385,
         "gp:id":1195061,
-        "qs:id":136123,
+        "qs_pg:id":136123,
         "wd:id":"Q111338",
         "wk:page":"Aborlan"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890416351,
-    "wof:lastmodified":1563332474,
+    "wof:lastmodified":1566682096,
     "wof:name":"Aborlan",
     "wof:parent_id":1108696549,
     "wof:placetype":"locality",

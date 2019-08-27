@@ -11,10 +11,14 @@
     "geom:longitude":122.58333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":32740,
+    "gn:population":32740,
     "iso:country":"PH",
+    "lbl:bbox":"122.48333,10.95,122.68333,11.15",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Due\u00f1as"
     ],
@@ -60,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1714310,
-        "qs:id":87872,
+        "qs_pg:id":87872,
         "wk:page":"Due\u00f1as"
     },
     "wof:country":"PH",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890421429,
-    "wof:lastmodified":1564178783,
+    "wof:lastmodified":1566682041,
     "wof:name":"Due\u00f1as",
     "wof:parent_id":1108697527,
     "wof:placetype":"localadmin",

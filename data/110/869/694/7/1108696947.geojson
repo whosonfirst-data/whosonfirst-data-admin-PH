@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.607612,
     "lbl:longitude":124.321385,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CATANDUANES",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"BATOCATANDUANES",
@@ -32,6 +34,7 @@
     "mps:longitude":124.321385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Bat\u00f3"
     ],
@@ -66,7 +69,7 @@
         "Bato"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108696947,
-    "wof:lastmodified":1564176913,
+    "wof:lastmodified":1566681142,
     "wof:name":"Bato",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

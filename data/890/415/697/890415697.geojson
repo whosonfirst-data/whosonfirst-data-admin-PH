@@ -11,11 +11,15 @@
     "geom:longitude":125.02361,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3165,
+    "gn:population":3165,
     "iso:country":"PH",
+    "lbl:bbox":"125.00361,7.51167,125.04361,7.55167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Natulongan"
     ],
     "qs:name":"Natalungan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1697942,
-        "qs:id":134749
+        "qs_pg:id":134749
     },
     "wof:country":"PH",
     "wof:created":1469051099,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890415697,
-    "wof:lastmodified":1505343427,
+    "wof:lastmodified":1566681927,
     "wof:name":"Natalungan",
     "wof:parent_id":1108697919,
     "wof:placetype":"locality",

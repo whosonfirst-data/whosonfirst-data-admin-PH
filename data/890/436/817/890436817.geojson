@@ -11,10 +11,14 @@
     "geom:longitude":121.95981,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4223,
+    "gn:population":4223,
     "iso:country":"PH",
+    "lbl:bbox":"121.93981,11.91337,121.97981,11.95337",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Caticlan"
     ],
@@ -27,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0442\u0438\u043a\u043b\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tican"
     ],
     "qs:name":"Caticlan",
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1717886,
-        "qs:id":1032900
+        "qs_pg:id":1032900
     },
     "wof:country":"PH",
     "wof:created":1469052127,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890436817,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566681977,
     "wof:name":"Caticlan",
     "wof:parent_id":1108698299,
     "wof:placetype":"locality",

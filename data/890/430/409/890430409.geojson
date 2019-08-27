@@ -11,10 +11,14 @@
     "geom:longitude":123.21667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":23450,
+    "gn:population":23450,
     "iso:country":"PH",
+    "lbl:bbox":"123.11667,9.11667,123.31667,9.31667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Dauin"
     ],
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1715370,
-        "qs:id":87903,
+        "qs_pg:id":87903,
         "wd:id":"Q194940",
         "wk:page":"Dauin"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890430409,
-    "wof:lastmodified":1563331956,
+    "wof:lastmodified":1566681940,
     "wof:name":"Dauin",
     "wof:parent_id":1108697461,
     "wof:placetype":"localadmin",

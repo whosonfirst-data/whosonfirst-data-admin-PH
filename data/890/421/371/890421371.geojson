@@ -11,10 +11,14 @@
     "geom:longitude":125.66667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":38704,
+    "gn:population":38704,
     "iso:country":"PH",
+    "lbl:bbox":"125.56667,7.95,125.76667,8.15",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Veruela"
     ],
@@ -57,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Veruela"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Varuela"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1680041,
-        "qs:id":86323
+        "qs_pg:id":86323
     },
     "wof:country":"PH",
     "wof:created":1469051390,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890421371,
-    "wof:lastmodified":1564178777,
+    "wof:lastmodified":1566682038,
     "wof:name":"Veruela",
     "wof:parent_id":1108698123,
     "wof:placetype":"localadmin",

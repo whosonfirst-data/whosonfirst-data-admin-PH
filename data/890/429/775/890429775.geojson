@@ -11,10 +11,14 @@
     "geom:longitude":123.4115,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":94846,
+    "gn:population":94846,
     "iso:country":"PH",
+    "lbl:bbox":"123.3915,13.4124,123.4315,13.4524",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u064a\u062c\u0627"
     ],
@@ -171,7 +175,7 @@
     "wof:concordances":{
         "gn:id":1710544,
         "gp:id":1199765,
-        "qs:id":87702,
+        "qs_pg:id":87702,
         "wd:id":"Q2205"
     },
     "wof:country":"PH",
@@ -187,7 +191,7 @@
         }
     ],
     "wof:id":890429775,
-    "wof:lastmodified":1563332450,
+    "wof:lastmodified":1566682087,
     "wof:name":"Iriga City",
     "wof:parent_id":1108697777,
     "wof:placetype":"locality",

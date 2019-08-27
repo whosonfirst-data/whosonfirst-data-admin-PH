@@ -11,14 +11,18 @@
     "geom:longitude":122.6404,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2814,
+    "gn:population":2814,
     "iso:country":"PH",
+    "lbl:bbox":"122.6204,10.8236,122.6604,10.8636",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Jalaud"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banga Bante"
     ],
     "qs:name":"Jalaud",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1710348,
         "gp:id":1161579,
-        "qs:id":87690
+        "qs_pg:id":87690
     },
     "wof:country":"PH",
     "wof:created":1469052771,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890451259,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682124,
     "wof:name":"Jalaud",
     "wof:parent_id":1108699897,
     "wof:placetype":"locality",

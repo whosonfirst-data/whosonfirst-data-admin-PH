@@ -10,8 +10,12 @@
     "geom:latitude":8.16667,
     "geom:longitude":123.5,
     "iso:country":"PH",
+    "lbl:bbox":"123.48,8.14667,123.52,8.18667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Sergio Osme\u00f1a Sr."
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1686954,
         "gp:id":56121423,
-        "qs:id":79022,
+        "qs_pg:id":79022,
         "wd:id":"Q132591"
     },
     "wof:country":"PH",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421203637,
-    "wof:lastmodified":1563331432,
+    "wof:lastmodified":1566681809,
     "wof:name":"Sergio Osmena Sr.",
     "wof:parent_id":1108698495,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":124.6175,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2085,
+    "gn:population":2085,
     "iso:country":"PH",
+    "lbl:bbox":"124.5975,11.06972,124.6375,11.10972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Masarayas"
     ],
     "qs:name":"Masarayao",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1700732,
         "gp:id":91427097,
-        "qs:id":87260
+        "qs_pg:id":87260
     },
     "wof:country":"PH",
     "wof:created":1469052760,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450957,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682203,
     "wof:name":"Masarayao",
     "wof:parent_id":1108698707,
     "wof:placetype":"locality",

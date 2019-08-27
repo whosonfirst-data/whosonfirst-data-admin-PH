@@ -11,7 +11,7 @@
     "geom:longitude":122.121825,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":2761720,
+    "gn:population":2761720,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Quezon Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.056233,
     "lbl:longitude":122.120729,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"QUEZON",
     "meso:admin_1r":"CALABARZON",
     "meso:diss_me":"QUEZONQUEZON",
@@ -35,6 +37,7 @@
     "mps:longitude":122.120729,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Quezon Stad"
     ],
@@ -286,7 +289,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":9405,
     "wof:belongsto":[
@@ -297,7 +300,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1692193,
-        "qs:id":86908,
+        "qs_pg:id":86908,
         "wd:id":"Q1475",
         "wk:page":"Quezon City"
     },
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":890429635,
-    "wof:lastmodified":1563332440,
+    "wof:lastmodified":1566682083,
     "wof:name":"Quezon",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

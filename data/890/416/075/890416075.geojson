@@ -11,11 +11,15 @@
     "geom:longitude":124.03222,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2161,
+    "gn:population":2161,
     "iso:country":"PH",
+    "lbl:bbox":"124.01222,10.79583,124.05222,10.83583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Camposong"
     ],
     "qs:name":"Campusong",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":1719564,
         "gp:id":1163835,
-        "qs:id":135488
+        "qs_pg:id":135488
     },
     "wof:country":"PH",
     "wof:created":1469051118,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890416075,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566682098,
     "wof:name":"Campusong",
     "wof:parent_id":85675939,
     "wof:placetype":"locality",

@@ -9,20 +9,23 @@
     "geom:bbox":"121.63333,16.98333,121.63333,16.98333",
     "geom:latitude":16.98333,
     "geom:longitude":121.63333,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2216,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2216,
     "iso:country":"PH",
+    "lbl:bbox":"121.61333,16.96333,121.65333,17.00333",
     "lbl:latitude":16.98333,
     "lbl:longitude":121.63333,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Bacnor"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bacnor East"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":277417,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125965891,
-    "wof:lastmodified":1509403652,
+    "wof:lastmodified":1566682280,
     "wof:name":"Bacnor",
     "wof:parent_id":1108696723,
     "wof:placetype":"locality",

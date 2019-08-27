@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.746403,
     "lbl:longitude":122.253682,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ILOILO",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"IGBARASILOILO",
@@ -32,6 +34,7 @@
     "mps:longitude":122.253682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Igbaras"
     ],
@@ -78,7 +81,7 @@
         "Igbaras"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108697743,
-    "wof:lastmodified":1564177260,
+    "wof:lastmodified":1566681262,
     "wof:name":"Igbaras",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

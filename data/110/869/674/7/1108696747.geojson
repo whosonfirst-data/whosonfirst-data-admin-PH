@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.647328,
     "lbl:longitude":122.975512,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGROS OCCIDENTAL",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"BACOLOD CITYNEGROS OCCIDENTAL",
@@ -32,8 +34,9 @@
     "mps:longitude":122.975512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1108696747,
-    "wof:lastmodified":1555220372,
+    "wof:lastmodified":1566681129,
     "wof:name":"Bacolod City",
     "wof:parent_id":85676295,
     "wof:placetype":"county",

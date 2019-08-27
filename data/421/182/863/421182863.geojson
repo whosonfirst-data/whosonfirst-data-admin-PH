@@ -10,8 +10,12 @@
     "geom:latitude":10.515,
     "geom:longitude":121.9461,
     "iso:country":"PH",
+    "lbl:bbox":"121.9261,10.495,121.9661,10.535",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Tobias Fornier"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "Tobias Fornier"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dao"
     ],
     "name:urd_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1715639,
         "gp:id":1196960,
-        "qs:id":956497,
+        "qs_pg:id":956497,
         "wd:id":"Q492817",
         "wk:page":"Tobias Fornier, Antique"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421182863,
-    "wof:lastmodified":1563331754,
+    "wof:lastmodified":1566681880,
     "wof:name":"Tobias Fornier",
     "wof:parent_id":1108699743,
     "wof:placetype":"locality",

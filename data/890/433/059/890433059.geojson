@@ -11,10 +11,14 @@
     "geom:longitude":120.0618,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":38690,
+    "gn:population":38690,
     "iso:country":"PH",
+    "lbl:bbox":"119.9618,5.0908,120.1618,5.2908",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Panglima Sugala"
     ],
@@ -63,7 +67,7 @@
     "name:tgl_x_preferred":[
         "Panglima Sugala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balimbing"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1728126,
-        "qs:id":88419,
+        "qs_pg:id":88419,
         "wd:id":"Q155259",
         "wk:page":"Panglima Sugala, Tawi-Tawi"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890433059,
-    "wof:lastmodified":1563332742,
+    "wof:lastmodified":1566682180,
     "wof:name":"Municipality of Panglima Sugala",
     "wof:parent_id":1108698667,
     "wof:placetype":"localadmin",

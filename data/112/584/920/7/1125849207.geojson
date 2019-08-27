@@ -9,15 +9,18 @@
     "geom:bbox":"122.1088,11.8221,122.1088,11.8221",
     "geom:latitude":11.8221,
     "geom:longitude":122.1088,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2607,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2607,
     "iso:country":"PH",
+    "lbl:bbox":"122.0888,11.8021,122.1288,11.8421",
     "lbl:latitude":11.8221,
     "lbl:longitude":122.1088,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u043a\u0438\u043d\u043e"
@@ -70,7 +73,7 @@
     "name:tur_x_preferred":[
         "Aquino"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aguino"
     ],
     "qs_pg:aaroncc":"PH",
@@ -85,7 +88,7 @@
     "qs_pg:qs_id":88509,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1125849207,
-    "wof:lastmodified":1564179307,
+    "wof:lastmodified":1566682317,
     "wof:name":"Aquino",
     "wof:parent_id":1108697739,
     "wof:placetype":"locality",

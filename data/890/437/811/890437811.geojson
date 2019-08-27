@@ -11,11 +11,15 @@
     "geom:longitude":125.45028,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2342,
+    "gn:population":2342,
     "iso:country":"PH",
+    "lbl:bbox":"125.43028,11.63194,125.47028,11.67194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Maypandan"
     ],
     "qs:name":"Maypangdan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1699952,
         "gp:id":1174207,
-        "qs:id":134822
+        "qs_pg:id":134822
     },
     "wof:country":"PH",
     "wof:created":1469052167,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437811,
-    "wof:lastmodified":1505343561,
+    "wof:lastmodified":1566681948,
     "wof:name":"Maypangdan",
     "wof:parent_id":1108697061,
     "wof:placetype":"locality",

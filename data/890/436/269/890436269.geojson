@@ -11,10 +11,14 @@
     "geom:longitude":123.1222,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":35838,
+    "gn:population":35838,
     "iso:country":"PH",
+    "lbl:bbox":"123.0222,8.0554,123.2222,8.2554",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Dumingag"
     ],
@@ -57,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Dumingag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siayan"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1686859,
-        "qs:id":86586,
+        "qs_pg:id":86586,
         "wd:id":"Q132126",
         "wk:page":"Dumingag, Zamboanga del Sur"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890436269,
-    "wof:lastmodified":1563332077,
+    "wof:lastmodified":1566681979,
     "wof:name":"Municipality of Siayan",
     "wof:parent_id":1108699467,
     "wof:placetype":"localadmin",

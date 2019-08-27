@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":13.930552,
     "lbl:longitude":121.072022,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Batangas",
     "mps:latitude":13.946703,
     "mps:longitude":121.066083,
@@ -194,7 +195,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0442\u0430\u043d\u0433\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balangas"
     ],
     "name:urd_x_preferred":[
@@ -286,9 +287,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"3,166",
     "statoids:area_mi":"1,222",
     "statoids:as_of_date":"2010-05-01",
@@ -314,7 +315,7 @@
         "gp:id":2346664,
         "hasc:id":"PH.BT",
         "iso:id":"PH-BTG",
-        "qs:id":891524,
+        "qs_pg:id":891524,
         "unlc:id":"PH-BTG",
         "wd:id":"Q13744",
         "wk:page":"Batangas"
@@ -329,9 +330,6 @@
         }
     ],
     "wof:id":85676131,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -347,11 +345,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326857,
+    "wof:lastmodified":1566679693,
     "wof:name":"Batangas",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2377395,
     "wof:population_rank":12,

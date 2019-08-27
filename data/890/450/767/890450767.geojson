@@ -11,10 +11,14 @@
     "geom:longitude":121.31215,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3493,
+    "gn:population":3493,
     "iso:country":"PH",
+    "lbl:bbox":"121.29215,5.86823,121.33215,5.90823",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pitogo"
     ],
@@ -30,7 +34,7 @@
     "name:nld_x_preferred":[
         "Pitogo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pitugu"
     ],
     "name:war_x_preferred":[
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1693280,
-        "qs:id":86961,
+        "qs_pg:id":86961,
         "wk:page":"Pitogo"
     },
     "wof:country":"PH",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890450767,
-    "wof:lastmodified":1564179072,
+    "wof:lastmodified":1566682204,
     "wof:name":"Pitogo",
     "wof:parent_id":85675975,
     "wof:placetype":"locality",

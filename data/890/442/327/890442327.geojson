@@ -11,10 +11,14 @@
     "geom:longitude":120.54389,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3570,
+    "gn:population":3570,
     "iso:country":"PH",
+    "lbl:bbox":"120.52389,18.04833,120.56389,18.08833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Quiling"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1692147,
         "gp:id":91796767,
-        "qs:id":276940
+        "qs_pg:id":276940
     },
     "wof:country":"PH",
     "wof:created":1469052359,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890442327,
-    "wof:lastmodified":1505343587,
+    "wof:lastmodified":1566682115,
     "wof:name":"Quiling",
     "wof:parent_id":1108698807,
     "wof:placetype":"locality",

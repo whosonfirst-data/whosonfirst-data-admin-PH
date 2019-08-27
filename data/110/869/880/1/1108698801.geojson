@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.087159,
     "lbl:longitude":124.271132,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LANAO DEL NORTE",
     "meso:admin_1r":"NORTHERN MINDANAO REGION",
     "meso:diss_me":"PANTARLANAO DEL NORTE",
@@ -32,6 +34,7 @@
     "mps:longitude":124.271132,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Pantar"
     ],
@@ -96,7 +99,7 @@
         "\u6f58\u5854\u723e\u5cf6"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108698801,
-    "wof:lastmodified":1564176866,
+    "wof:lastmodified":1566681124,
     "wof:name":"Pantar",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

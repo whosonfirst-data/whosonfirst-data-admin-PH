@@ -11,10 +11,14 @@
     "geom:longitude":124.18333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":29847,
+    "gn:population":29847,
     "iso:country":"PH",
+    "lbl:bbox":"124.08333,10.03333,124.28333,10.23333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Jetafe"
     ],
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710223,
-        "qs:id":87687
+        "qs_pg:id":87687
     },
     "wof:country":"PH",
     "wof:created":1469051869,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890430845,
-    "wof:lastmodified":1505343520,
+    "wof:lastmodified":1566681937,
     "wof:name":"Jetafe",
     "wof:parent_id":1108697819,
     "wof:placetype":"localadmin",

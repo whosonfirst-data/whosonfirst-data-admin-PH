@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":8.238765,
     "lbl:longitude":124.485197,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Iligan",
     "mps:latitude":8.244484,
     "mps:longitude":124.444526,
@@ -153,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3459,
     "wof:belongsto":[
         102191569,
@@ -190,7 +191,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326784,
+    "wof:lastmodified":1566679669,
     "wof:name":"Iligan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

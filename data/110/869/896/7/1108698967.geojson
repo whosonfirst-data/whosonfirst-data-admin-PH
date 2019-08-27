@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.666442,
     "lbl:longitude":125.899007,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"AGUSAN DEL SUR",
     "meso:admin_1r":"CARAGA",
     "meso:diss_me":"PROSPERIDADAGUSAN DEL SUR",
@@ -32,6 +34,7 @@
     "mps:longitude":125.899007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0648\u0633\u0628\u0631\u064a\u062f\u0627\u062f"
     ],
@@ -102,7 +105,7 @@
         "Prosperidad"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1108698967,
-    "wof:lastmodified":1564177174,
+    "wof:lastmodified":1566681231,
     "wof:name":"Prosperidad",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

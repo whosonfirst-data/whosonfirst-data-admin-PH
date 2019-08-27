@@ -11,10 +11,14 @@
     "geom:longitude":123.1663,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3837,
+    "gn:population":3837,
     "iso:country":"PH",
+    "lbl:bbox":"123.1463,13.6069,123.1863,13.6469",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Marupit"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1700806,
         "gp:id":1167881,
-        "qs:id":134849
+        "qs_pg:id":134849
     },
     "wof:country":"PH",
     "wof:created":1469052016,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890434225,
-    "wof:lastmodified":1505343540,
+    "wof:lastmodified":1566682157,
     "wof:name":"Marupit",
     "wof:parent_id":1108697237,
     "wof:placetype":"locality",

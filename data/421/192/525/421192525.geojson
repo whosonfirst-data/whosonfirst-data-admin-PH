@@ -10,8 +10,12 @@
     "geom:latitude":13.85469,
     "geom:longitude":120.91653,
     "iso:country":"PH",
+    "lbl:bbox":"120.89653,13.83469,120.93653,13.87469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Luis"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":1689134,
         "gp:id":1191320,
-        "qs:id":1168341,
+        "qs_pg:id":1168341,
         "wd:id":"Q59773",
         "wk:page":"San Luis, Batangas"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421192525,
-    "wof:lastmodified":1563331354,
+    "wof:lastmodified":1566681791,
     "wof:name":"San Luis",
     "wof:parent_id":1108699241,
     "wof:placetype":"locality",

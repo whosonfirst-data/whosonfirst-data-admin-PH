@@ -11,10 +11,14 @@
     "geom:longitude":122.04661,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2690,
+    "gn:population":2690,
     "iso:country":"PH",
+    "lbl:bbox":"122.02661,11.25292,122.06661,11.29292",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malabor"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703315,
         "gp:id":1184631,
-        "qs:id":1032485
+        "qs_pg:id":1032485
     },
     "wof:country":"PH",
     "wof:created":1469051237,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890418165,
-    "wof:lastmodified":1505343443,
+    "wof:lastmodified":1566682104,
     "wof:name":"Malabor",
     "wof:parent_id":1108699725,
     "wof:placetype":"locality",

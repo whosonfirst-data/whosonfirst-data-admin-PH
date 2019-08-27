@@ -10,8 +10,12 @@
     "geom:latitude":12.98333,
     "geom:longitude":121.46667,
     "iso:country":"PH",
+    "lbl:bbox":"121.44667,12.96333,121.48667,13.00333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Gloria"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1712813,
         "gp:id":56121432,
-        "qs:id":368375,
+        "qs_pg:id":368375,
         "wd:id":"Q107559",
         "wk:page":"Gloria, Oriental Mindoro"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421182389,
-    "wof:lastmodified":1563331755,
+    "wof:lastmodified":1566681880,
     "wof:name":"Gloria",
     "wof:parent_id":1108697657,
     "wof:placetype":"locality",

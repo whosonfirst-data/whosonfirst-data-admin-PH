@@ -11,10 +11,14 @@
     "geom:longitude":120.442,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2207,
+    "gn:population":2207,
     "iso:country":"PH",
+    "lbl:bbox":"120.422,16.847,120.462,16.887",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lusong District"
     ],
@@ -43,9 +47,6 @@
     "name:swe_x_preferred":[
         "Lusong"
     ],
-    "name:unk_x_variant":[
-        "Luzong"
-    ],
     "name:vie_x_preferred":[
         "L\u00f4 T\u00f9ng"
     ],
@@ -67,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1704836,
-        "qs:id":135022,
+        "qs_pg:id":135022,
         "wk:page":"Lusong District"
     },
     "wof:country":"PH",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890415859,
-    "wof:lastmodified":1564178537,
+    "wof:lastmodified":1566681912,
     "wof:name":"Lusong",
     "wof:parent_id":1108696877,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.59556,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":6108,
+    "gn:population":6108,
     "iso:country":"PH",
+    "lbl:bbox":"123.57556,9.85944,123.61556,9.89944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Argao"
     ],
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":1730194,
         "gp:id":91797761,
-        "qs:id":277421,
+        "qs_pg:id":277421,
         "wd:id":"Q315703"
     },
     "wof:country":"PH",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890431973,
-    "wof:lastmodified":1563332159,
+    "wof:lastmodified":1566682005,
     "wof:name":"Argao",
     "wof:parent_id":1108696701,
     "wof:placetype":"locality",

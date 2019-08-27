@@ -11,10 +11,14 @@
     "geom:longitude":119.8609,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2178,
+    "gn:population":2178,
     "iso:country":"PH",
+    "lbl:bbox":"119.8409,16.2182,119.8809,16.2582",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tiep"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1682315,
         "gp:id":1196481,
-        "qs:id":86404,
+        "qs_pg:id":86404,
         "wd:id":"Q21072525",
         "wk:page":"Tiep"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890450287,
-    "wof:lastmodified":1563332773,
+    "wof:lastmodified":1566682191,
     "wof:name":"Tiep",
     "wof:parent_id":1108696881,
     "wof:placetype":"locality",

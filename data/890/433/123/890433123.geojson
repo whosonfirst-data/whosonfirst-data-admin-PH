@@ -11,10 +11,14 @@
     "geom:longitude":124.91056,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2861,
+    "gn:population":2861,
     "iso:country":"PH",
+    "lbl:bbox":"124.89056,6.35389,124.93056,6.39389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u0986\u09ae\u09cd\u09ab\u09cb\u09af\u09bc\u09c7 \u09aa\u09be\u09b2\u09bf\u09af\u09bc\u09be\u09a8"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1696136,
-        "qs:id":134676,
+        "qs_pg:id":134676,
         "wk:page":"Palian District"
     },
     "wof:country":"PH",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890433123,
-    "wof:lastmodified":1564179024,
+    "wof:lastmodified":1566682182,
     "wof:name":"Palian",
     "wof:parent_id":1108699813,
     "wof:placetype":"locality",

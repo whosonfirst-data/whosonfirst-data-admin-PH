@@ -10,8 +10,12 @@
     "geom:latitude":11.14694,
     "geom:longitude":125.665,
     "iso:country":"PH",
+    "lbl:bbox":"125.645,11.12694,125.685,11.16694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Salcedo"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1690912,
         "gp:id":1199712,
-        "qs:id":276923,
+        "qs_pg:id":276923,
         "wd:id":"Q314197",
         "wk:page":"Salcedo, Eastern Samar"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421178061,
-    "wof:lastmodified":1561778723,
+    "wof:lastmodified":1566681874,
     "wof:name":"Salcedo",
     "wof:parent_id":1108699085,
     "wof:placetype":"locality",

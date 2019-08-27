@@ -11,14 +11,18 @@
     "geom:longitude":124.509,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2652,
+    "gn:population":2652,
     "iso:country":"PH",
+    "lbl:bbox":"124.489,9.7722,124.529,9.8122",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Giawang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giwang"
     ],
     "qs:name":"Giawang",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1712252,
         "gp:id":1168703,
-        "qs:id":87770
+        "qs_pg:id":87770
     },
     "wof:country":"PH",
     "wof:created":1469052327,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890441531,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566681902,
     "wof:name":"Giawang",
     "wof:parent_id":1108697687,
     "wof:placetype":"locality",

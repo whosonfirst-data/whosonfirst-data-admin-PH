@@ -11,10 +11,14 @@
     "geom:longitude":123.4527,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3034,
+    "gn:population":3034,
     "iso:country":"PH",
+    "lbl:bbox":"123.4327,13.5101,123.4727,13.5501",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sagrada"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1691106,
         "gp:id":1189707,
-        "qs:id":86851,
+        "qs_pg:id":86851,
         "wk:page":"Sagrada"
     },
     "wof:country":"PH",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890450673,
-    "wof:lastmodified":1564179048,
+    "wof:lastmodified":1566682193,
     "wof:name":"Sagrada",
     "wof:parent_id":1108699329,
     "wof:placetype":"locality",

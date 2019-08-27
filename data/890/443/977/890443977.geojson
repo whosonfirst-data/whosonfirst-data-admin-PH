@@ -11,14 +11,18 @@
     "geom:longitude":122.5547,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2442,
+    "gn:population":2442,
     "iso:country":"PH",
+    "lbl:bbox":"122.5347,10.60566,122.5747,10.64566",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Morobuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Morubuan"
     ],
     "qs:name":"Morobuan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1699216,
         "gp:id":1161164,
-        "qs:id":1032420
+        "qs_pg:id":1032420
     },
     "wof:country":"PH",
     "wof:created":1469052445,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890443977,
-    "wof:lastmodified":1505343596,
+    "wof:lastmodified":1566682066,
     "wof:name":"Morobuan",
     "wof:parent_id":1108697837,
     "wof:placetype":"locality",

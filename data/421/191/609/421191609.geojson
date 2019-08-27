@@ -11,10 +11,14 @@
     "geom:longitude":123.8277,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4471,
+    "gn:population":4471,
     "iso:country":"PH",
+    "lbl:bbox":"123.8077,7.8153,123.8477,7.8553",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Sapad"
@@ -104,12 +108,12 @@
     "wof:concordances":{
         "gn:id":1687325,
         "gp:id":1193048,
-        "qs:id":1149552,
+        "qs_pg:id":1149552,
         "wd:id":"Q274369"
     },
     "wof:concordances_alt":{
         "gn:id":1687322,
-        "qs:id":1032260
+        "qs_pg:id":1032260
     },
     "wof:country":"PH",
     "wof:created":1459009698,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421191609,
-    "wof:lastmodified":1563331598,
+    "wof:lastmodified":1566681846,
     "wof:name":"Sapad",
     "wof:parent_id":1108699441,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.43333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2349,
+    "gn:population":2349,
     "iso:country":"PH",
+    "lbl:bbox":"120.41333,13.43,120.45333,13.47",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u0430\u0440\u044b\u0441\u0430\u043d"
     ],
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1711864,
         "gp:id":1180447,
-        "qs:id":87750,
+        "qs_pg:id":87750,
         "wk:page":"Harrison"
     },
     "wof:country":"PH",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890430059,
-    "wof:lastmodified":1564178604,
+    "wof:lastmodified":1566681945,
     "wof:name":"Harrison",
     "wof:parent_id":1108698753,
     "wof:placetype":"locality",

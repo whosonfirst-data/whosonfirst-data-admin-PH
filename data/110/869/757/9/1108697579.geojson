@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.852322,
     "lbl:longitude":123.978615,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MASBATE",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"ESPERANZAMASBATE",
@@ -32,6 +34,7 @@
     "mps:longitude":123.978615,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Esperanza"
     ],
@@ -93,7 +96,7 @@
         "Esperanza"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108697579,
-    "wof:lastmodified":1564177085,
+    "wof:lastmodified":1566681201,
     "wof:name":"Esperanza",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

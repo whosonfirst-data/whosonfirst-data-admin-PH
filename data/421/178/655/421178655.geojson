@@ -10,8 +10,12 @@
     "geom:latitude":9.3337,
     "geom:longitude":122.8637,
     "iso:country":"PH",
+    "lbl:bbox":"122.8437,9.3137,122.8837,9.3537",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Santa Catalina"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1688363,
         "gp:id":1199797,
-        "qs:id":134289,
+        "qs_pg:id":134289,
         "wd:id":"Q195074",
         "wk:page":"Santa Catalina, Negros Oriental"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421178655,
-    "wof:lastmodified":1561778723,
+    "wof:lastmodified":1566681874,
     "wof:name":"Santa Catalina",
     "wof:parent_id":1108699343,
     "wof:placetype":"locality",

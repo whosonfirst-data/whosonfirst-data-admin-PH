@@ -11,10 +11,14 @@
     "geom:longitude":123.23201,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2340,
+    "gn:population":2340,
     "iso:country":"PH",
+    "lbl:bbox":"123.21201,12.25584,123.25201,12.29584",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tumalaytay"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1680797,
         "gp:id":1194489,
-        "qs:id":133958
+        "qs_pg:id":133958
     },
     "wof:country":"PH",
     "wof:created":1469051996,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433809,
-    "wof:lastmodified":1505343537,
+    "wof:lastmodified":1566682180,
     "wof:name":"Tumalaytay",
     "wof:parent_id":1108698347,
     "wof:placetype":"locality",

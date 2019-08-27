@@ -10,8 +10,12 @@
     "geom:latitude":15.754,
     "geom:longitude":120.9517,
     "iso:country":"PH",
+    "lbl:bbox":"120.9317,15.734,120.9717,15.774",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santo Tomas"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1687522,
         "gp:id":1192953,
-        "qs:id":1032267
+        "qs_pg:id":1032267
     },
     "wof:country":"PH",
     "wof:created":1459009797,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421194189,
-    "wof:lastmodified":1564178425,
+    "wof:lastmodified":1566681795,
     "wof:name":"Santo Tomas",
     "wof:parent_id":890442461,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":121.2051,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4679,
+    "gn:population":4679,
     "iso:country":"PH",
+    "lbl:bbox":"121.1851,13.9506,121.2251,13.9906",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Talisay"
     ],
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1683861,
         "gp:id":1192851,
-        "qs:id":276818,
+        "qs_pg:id":276818,
         "wd:id":"Q59825",
         "wk:page":"Talisay"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890431513,
-    "wof:lastmodified":1563332160,
+    "wof:lastmodified":1566682005,
     "wof:name":"Talisay",
     "wof:parent_id":890432817,
     "wof:placetype":"locality",

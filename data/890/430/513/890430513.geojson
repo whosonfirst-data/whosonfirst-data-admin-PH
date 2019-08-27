@@ -11,10 +11,14 @@
     "geom:longitude":121.36306,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2323,
+    "gn:population":2323,
     "iso:country":"PH",
+    "lbl:bbox":"121.34306,5.89972,121.38306,5.93972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Kalang"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1957866,
         "gp:id":1173517,
-        "qs:id":137317
+        "qs_pg:id":137317
     },
     "wof:country":"PH",
     "wof:created":1469051855,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430513,
-    "wof:lastmodified":1505343518,
+    "wof:lastmodified":1566681946,
     "wof:name":"Kalang",
     "wof:parent_id":1108697885,
     "wof:placetype":"locality",

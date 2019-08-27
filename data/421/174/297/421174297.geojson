@@ -10,8 +10,12 @@
     "geom:latitude":6.6925,
     "geom:longitude":124.67639,
     "iso:country":"PH",
+    "lbl:bbox":"124.65639,6.6725,124.69639,6.7125",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0643\u0648\u0631\u0648\u0646\u062c"
@@ -142,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043a\u0443\u0440\u043e\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Takrong"
     ],
     "name:urd_x_preferred":[
@@ -185,7 +189,7 @@
     "wof:concordances":{
         "gn:id":1684681,
         "gp:id":1195174,
-        "qs:id":779273,
+        "qs_pg:id":779273,
         "wd:id":"Q173575",
         "wk:page":"Tacurong"
     },
@@ -202,7 +206,7 @@
         }
     ],
     "wof:id":421174297,
-    "wof:lastmodified":1563331480,
+    "wof:lastmodified":1566681819,
     "wof:name":"Takurong",
     "wof:parent_id":1108699597,
     "wof:placetype":"locality",

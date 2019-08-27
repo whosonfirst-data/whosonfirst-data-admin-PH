@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.415464,
     "lbl:longitude":120.302999,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"TARLAC",
     "meso:admin_1r":"CENTRAL LUZON REGION",
     "meso:diss_me":"TARLACTARLAC",
@@ -32,6 +34,7 @@
     "mps:longitude":120.302999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Propinsi Tarlac"
     ],
@@ -141,7 +144,7 @@
         "\u4e39\u8f46\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":1108699699,
-    "wof:lastmodified":1564177080,
+    "wof:lastmodified":1566681199,
     "wof:name":"Tarlac",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

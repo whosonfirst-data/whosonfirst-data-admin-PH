@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.996391,
     "lbl:longitude":121.012367,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BATANGAS",
     "meso:admin_1r":"CALABARZON",
     "meso:diss_me":"NO DATABATANGAS",
@@ -32,6 +34,7 @@
     "mps:longitude":121.012367,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Agoncillo"
     ],
@@ -54,7 +57,7 @@
         "Agoncillo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108698589,
-    "wof:lastmodified":1564176926,
+    "wof:lastmodified":1566681149,
     "wof:name":"Agoncillo",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

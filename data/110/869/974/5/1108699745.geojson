@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.721826,
     "lbl:longitude":123.455601,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGROS OCCIDENTAL",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"TOBOSONEGROS OCCIDENTAL",
@@ -32,6 +34,7 @@
     "mps:longitude":123.455601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Toboso"
     ],
@@ -42,7 +45,7 @@
         "Toboso"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108699745,
-    "wof:lastmodified":1564177244,
+    "wof:lastmodified":1566681254,
     "wof:name":"Toboso",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

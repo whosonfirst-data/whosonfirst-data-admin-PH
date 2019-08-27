@@ -11,7 +11,7 @@
     "geom:longitude":123.973493,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":709673,
+    "gn:population":709673,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Sorsogon Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":12.996712,
     "lbl:longitude":123.954185,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SORSOGON",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"SORSOGONSORSOGON",
@@ -35,6 +37,7 @@
     "mps:longitude":123.954185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Propinsi Sorsogon"
     ],
@@ -142,7 +145,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -152,7 +155,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1685754,
-        "qs:id":86543
+        "qs_pg:id":86543
     },
     "wof:country":"PH",
     "wof:created":1469052937,
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":890455201,
-    "wof:lastmodified":1564178659,
+    "wof:lastmodified":1566681975,
     "wof:name":"Sorsogon",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

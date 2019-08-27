@@ -10,8 +10,12 @@
     "geom:latitude":14.827,
     "geom:longitude":121.0451,
     "iso:country":"PH",
+    "lbl:bbox":"121.0251,14.807,121.0651,14.847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Sapang Palay"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1687268,
         "gp:id":1193086,
-        "qs:id":924308
+        "qs_pg:id":924308
     },
     "wof:country":"PH",
     "wof:created":1459009336,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421182605,
-    "wof:lastmodified":1501221492,
+    "wof:lastmodified":1566681877,
     "wof:name":"Sapang Palay",
     "wof:parent_id":1108699201,
     "wof:placetype":"locality",

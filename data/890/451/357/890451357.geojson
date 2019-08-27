@@ -11,10 +11,14 @@
     "geom:longitude":123.0377,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":9270,
+    "gn:population":9270,
     "iso:country":"PH",
+    "lbl:bbox":"123.0177,10.7221,123.0577,10.7621",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0633 \u0625\u064a\u0631\u0645\u0627\u0646\u0627\u0633"
     ],
@@ -138,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0441-\u0415\u0440\u043c\u0430\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dos Hermanos"
     ],
     "name:uzb_x_preferred":[
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":1714374,
         "gp:id":1172089,
-        "qs:id":87863,
+        "qs_pg:id":87863,
         "wk:page":"Dos Hermanas"
     },
     "wof:country":"PH",
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":890451357,
-    "wof:lastmodified":1564178933,
+    "wof:lastmodified":1566682129,
     "wof:name":"Dos Hermanas",
     "wof:parent_id":1108699649,
     "wof:placetype":"locality",

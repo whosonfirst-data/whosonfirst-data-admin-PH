@@ -11,11 +11,15 @@
     "geom:longitude":125.63833,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2936,
+    "gn:population":2936,
     "iso:country":"PH",
+    "lbl:bbox":"125.61833,7.64278,125.65833,7.68278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sua-on"
     ],
     "qs:name":"Suz-on",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1685625,
-        "qs:id":558659
+        "qs_pg:id":558659
     },
     "wof:country":"PH",
     "wof:created":1469052363,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890442451,
-    "wof:lastmodified":1505343588,
+    "wof:lastmodified":1566682114,
     "wof:name":"Suz-on",
     "wof:parent_id":1108697891,
     "wof:placetype":"locality",

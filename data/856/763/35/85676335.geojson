@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":11.067293,
     "lbl:longitude":124.584651,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Ormuc",
     "mps:latitude":11.061014,
     "mps:longitude":124.584645,
@@ -162,7 +163,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1521,
     "wof:belongsto":[
         102191569,
@@ -199,7 +200,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326780,
+    "wof:lastmodified":1566679668,
     "wof:name":"Ormuc",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

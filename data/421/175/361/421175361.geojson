@@ -10,8 +10,12 @@
     "geom:latitude":7.215,
     "geom:longitude":126.53972,
     "iso:country":"PH",
+    "lbl:bbox":"126.51972,7.195,126.55972,7.235",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Manay"
@@ -110,10 +114,12 @@
     "wof:concordances":{
         "gn:id":1702031,
         "gp:id":56121366,
-        "qs:id":368557,
         "qs_pg:id":277064,
         "wd:id":"Q314671",
         "wk:page":"Manay, Davao Oriental"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":368557
     },
     "wof:country":"PH",
     "wof:created":1459009064,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421175361,
-    "wof:lastmodified":1563331548,
+    "wof:lastmodified":1566681835,
     "wof:name":"Manay",
     "wof:parent_id":1108698343,
     "wof:placetype":"locality",

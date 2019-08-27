@@ -11,10 +11,14 @@
     "geom:longitude":125.63778,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3236,
+    "gn:population":3236,
     "iso:country":"PH",
+    "lbl:bbox":"125.61778,7.31306,125.65778,7.35306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Nanyo"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1698225,
-        "qs:id":87165
+        "qs_pg:id":87165
     },
     "wof:country":"PH",
     "wof:created":1469052183,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890438195,
-    "wof:lastmodified":1505343564,
+    "wof:lastmodified":1566682008,
     "wof:name":"Nanyo",
     "wof:parent_id":1108698765,
     "wof:placetype":"locality",

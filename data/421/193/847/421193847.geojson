@@ -10,8 +10,12 @@
     "geom:latitude":10.3766,
     "geom:longitude":123.9573,
     "iso:country":"PH",
+    "lbl:bbox":"123.9373,10.3566,123.9773,10.3966",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Consolacion"
@@ -70,7 +74,7 @@
     "name:tgl_x_preferred":[
         "Consolacion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Consolation"
     ],
     "name:vie_x_preferred":[
@@ -113,10 +117,12 @@
     "wof:concordances":{
         "gn:id":1716921,
         "gp:id":1199092,
-        "qs:id":484793,
         "qs_pg:id":87963,
         "wd:id":"Q315945",
         "wk:page":"Consolacion, Cebu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":484793
     },
     "wof:country":"PH",
     "wof:created":1459009785,
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421193847,
-    "wof:lastmodified":1563331392,
+    "wof:lastmodified":1566681799,
     "wof:name":"Consolacion",
     "wof:parent_id":1108697383,
     "wof:placetype":"locality",

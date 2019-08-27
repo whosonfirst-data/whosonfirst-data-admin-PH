@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.810061,
     "lbl:longitude":123.971752,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SORSOGON",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"JUBANSORSOGON",
@@ -32,6 +34,7 @@
     "mps:longitude":123.971752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Juban"
     ],
@@ -42,7 +45,7 @@
         "Juban"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108697851,
-    "wof:lastmodified":1564176991,
+    "wof:lastmodified":1566681167,
     "wof:name":"Juban",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

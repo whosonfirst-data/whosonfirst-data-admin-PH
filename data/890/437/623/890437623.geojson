@@ -11,11 +11,15 @@
     "geom:longitude":121.01667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2631,
+    "gn:population":2631,
     "iso:country":"PH",
+    "lbl:bbox":"120.99667,13.84667,121.03667,13.88667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mulawin"
     ],
     "qs:name":"Mulauin",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1699124,
         "gp:id":91425768,
-        "qs:id":87194
+        "qs_pg:id":87194
     },
     "wof:country":"PH",
     "wof:created":1469052158,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437623,
-    "wof:lastmodified":1505343560,
+    "wof:lastmodified":1566681955,
     "wof:name":"Mulauin",
     "wof:parent_id":1108696639,
     "wof:placetype":"locality",

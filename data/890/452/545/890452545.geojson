@@ -11,11 +11,15 @@
     "geom:longitude":125.02472,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2569,
+    "gn:population":2569,
     "iso:country":"PH",
+    "lbl:bbox":"125.00472,11.06056,125.04472,11.10056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Cabuynan"
     ],
     "qs:name":"Kabuynan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1709845,
         "gp:id":91425724,
-        "qs:id":135212
+        "qs_pg:id":135212
     },
     "wof:country":"PH",
     "wof:created":1469052821,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452545,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681966,
     "wof:name":"Kabuynan",
     "wof:parent_id":1108699751,
     "wof:placetype":"locality",

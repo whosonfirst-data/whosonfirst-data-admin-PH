@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"123.670177,13.704729,123.670177,13.704729",
     "geom:latitude":13.704729,
     "geom:longitude":123.670177,
     "iso:country":"PH",
+    "lbl:bbox":"123.650177,13.684729,123.690177,13.724729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -36,11 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1177098,
-        "qs:id":229314
+        "qs_pg:id":229314
     },
     "wof:country":"PH",
     "wof:created":1459008844,
-    "wof:geomhash":"4c12cc2039c7a2b1e9d381f792fcf69e",
+    "wof:geomhash":"672fdc6a923504c440cc50ae5b9fee66",
     "wof:hierarchy":[
         {
             "country_id":85632509,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":421170231,
-    "wof:lastmodified":1470255539,
+    "wof:lastmodified":1566681862,
     "wof:name":"Lagnay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

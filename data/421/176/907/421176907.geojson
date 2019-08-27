@@ -10,8 +10,12 @@
     "geom:latitude":14.67611,
     "geom:longitude":120.53611,
     "iso:country":"PH",
+    "lbl:bbox":"120.51611,14.65611,120.55611,14.69611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0646\u063a\u0627"
@@ -202,7 +206,7 @@
     "wof:concordances":{
         "gn:id":1728523,
         "gp:id":1198837,
-        "qs:id":1090157,
+        "qs_pg:id":1090157,
         "wd:id":"Q1719",
         "wk:page":"Balanga, Bataan"
     },
@@ -219,7 +223,7 @@
         }
     ],
     "wof:id":421176907,
-    "wof:lastmodified":1563331757,
+    "wof:lastmodified":1566681880,
     "wof:name":"Balanga",
     "wof:parent_id":1108696807,
     "wof:placetype":"locality",

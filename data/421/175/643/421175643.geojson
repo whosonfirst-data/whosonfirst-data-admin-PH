@@ -10,8 +10,12 @@
     "geom:latitude":7.80944,
     "geom:longitude":122.14444,
     "iso:country":"PH",
+    "lbl:bbox":"122.12444,7.78944,122.16444,7.82944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Baliguian"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Baliguian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baligian"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1728158,
         "gp:id":1161268,
-        "qs:id":383882,
+        "qs_pg:id":383882,
         "wd:id":"Q132482"
     },
     "wof:country":"PH",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421175643,
-    "wof:lastmodified":1561778713,
+    "wof:lastmodified":1566681834,
     "wof:name":"Baliguian",
     "wof:parent_id":1108696837,
     "wof:placetype":"locality",

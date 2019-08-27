@@ -11,11 +11,15 @@
     "geom:longitude":124.58389,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2758,
+    "gn:population":2758,
     "iso:country":"PH",
+    "lbl:bbox":"124.56389,6.87861,124.60389,6.91861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Miteb"
     ],
     "qs:name":"Mileb",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1699703,
         "gp:id":91421472,
-        "qs:id":558732
+        "qs_pg:id":558732
     },
     "wof:country":"PH",
     "wof:created":1469051466,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422825,
-    "wof:lastmodified":1505343472,
+    "wof:lastmodified":1566681894,
     "wof:name":"Mileb",
     "wof:parent_id":1108699563,
     "wof:placetype":"locality",

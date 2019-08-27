@@ -11,17 +11,18 @@
     "geom:longitude":120.56238,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2853,
+    "gn:population":2853,
     "iso:country":"PH",
+    "lbl:bbox":"120.54238,14.99699,120.58238,15.03699",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pias"
     ],
     "name:fil_x_variant":[
-        "Pias-Pias"
-    ],
-    "name:unk_x_variant":[
         "Pias-Pias"
     ],
     "qs:name":"Pias",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1693982,
         "gp:id":1172388,
-        "qs:id":86992
+        "qs_pg:id":86992
     },
     "wof:country":"PH",
     "wof:created":1469052753,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890450797,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682185,
     "wof:name":"Pias",
     "wof:parent_id":1108699393,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.69761,
     "geom:longitude":123.489246,
     "iso:country":"PH",
+    "lbl:bbox":"123.469246,13.67761,123.509246,13.71761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Goa"
@@ -99,9 +103,11 @@
     "wof:concordances":{
         "gn:id":1712808,
         "gp:id":1199190,
-        "qs:id":479455,
-        "qs_pg:id":846208,
+        "qs_pg:id":479455,
         "wd:id":"Q208782"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":846208
     },
     "wof:country":"PH",
     "wof:created":1459008703,
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421166807,
-    "wof:lastmodified":1563331344,
+    "wof:lastmodified":1566681788,
     "wof:name":"Goa",
     "wof:parent_id":1108697659,
     "wof:placetype":"locality",

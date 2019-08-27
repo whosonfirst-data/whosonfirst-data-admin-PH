@@ -11,10 +11,14 @@
     "geom:longitude":121.3775,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2984,
+    "gn:population":2984,
     "iso:country":"PH",
+    "lbl:bbox":"121.3575,14.3213,121.3975,14.3613",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bagumbong"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1728882,
         "gp:id":91424228,
-        "qs:id":135913
+        "qs_pg:id":135913
     },
     "wof:country":"PH",
     "wof:created":1469051126,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890416253,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566682100,
     "wof:name":"Bagombong",
     "wof:parent_id":1108698627,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":124.1064,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2920,
+    "gn:population":2920,
     "iso:country":"PH",
+    "lbl:bbox":"124.0864,13.7151,124.1264,13.7551",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Manamrag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manambrag"
     ],
     "qs:name":"Manamrag",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1702140,
         "gp:id":1199463,
-        "qs:id":134916
+        "qs_pg:id":134916
     },
     "wof:country":"PH",
     "wof:created":1469052818,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890452473,
-    "wof:lastmodified":1505343645,
+    "wof:lastmodified":1566681969,
     "wof:name":"Manamrag",
     "wof:parent_id":1108699107,
     "wof:placetype":"locality",

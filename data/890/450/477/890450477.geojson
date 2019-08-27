@@ -11,14 +11,18 @@
     "geom:longitude":121.12454,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3339,
+    "gn:population":3339,
     "iso:country":"PH",
+    "lbl:bbox":"121.10454,15.57038,121.14454,15.61038",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Sapang Buho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sapang Bato"
     ],
     "qs:name":"Sapang Buho",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1687291,
         "gp:id":1194582,
-        "qs:id":86592
+        "qs_pg:id":86592
     },
     "wof:country":"PH",
     "wof:created":1469052740,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450477,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682192,
     "wof:name":"Sapang Buho",
     "wof:parent_id":1108697045,
     "wof:placetype":"locality",

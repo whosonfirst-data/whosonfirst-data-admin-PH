@@ -11,10 +11,14 @@
     "geom:longitude":123.08333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":27007,
+    "gn:population":27007,
     "iso:country":"PH",
+    "lbl:bbox":"122.98333,11.36667,123.18333,11.56667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Balasan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1728412,
-        "qs:id":371877
+        "qs_pg:id":371877
     },
     "wof:country":"PH",
     "wof:created":1469052400,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890443095,
-    "wof:lastmodified":1505343591,
+    "wof:lastmodified":1566682076,
     "wof:name":"Balasan",
     "wof:parent_id":1108696817,
     "wof:placetype":"localadmin",

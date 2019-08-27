@@ -10,8 +10,12 @@
     "geom:latitude":11.3407,
     "geom:longitude":122.6694,
     "iso:country":"PH",
+    "lbl:bbox":"122.6494,11.3207,122.6894,11.3607",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Cuartero"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Cuartero"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuariero"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1716672,
         "gp:id":1170400,
-        "qs:id":135425,
+        "qs_pg:id":135425,
         "wd:id":"Q355953",
         "wk:page":"Cuartero, Capiz"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421178755,
-    "wof:lastmodified":1561778721,
+    "wof:lastmodified":1566681867,
     "wof:name":"Cuartero",
     "wof:parent_id":1108697399,
     "wof:placetype":"locality",

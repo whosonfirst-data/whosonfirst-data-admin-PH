@@ -10,8 +10,12 @@
     "geom:latitude":14.47783,
     "geom:longitude":120.89322,
     "iso:country":"PH",
+    "lbl:bbox":"120.87322,14.45783,120.91322,14.49783",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u064a\u062a \u0633\u064a\u062a\u064a"
@@ -176,7 +180,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0432\u0456\u0442-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kavite"
     ],
     "name:urd_x_preferred":[
@@ -225,9 +229,11 @@
     "wof:concordances":{
         "gn:id":1717640,
         "gp:id":1199077,
-        "qs:id":357583,
         "qs_pg:id":277255,
         "wd:id":"Q1482"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":357583
     },
     "wof:country":"PH",
     "wof:created":1459009794,
@@ -242,7 +248,7 @@
         }
     ],
     "wof:id":421194091,
-    "wof:lastmodified":1563331367,
+    "wof:lastmodified":1566681794,
     "wof:name":"Cavite City",
     "wof:parent_id":1108698605,
     "wof:placetype":"locality",

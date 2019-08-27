@@ -11,10 +11,14 @@
     "geom:longitude":125.35722,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":116122,
+    "gn:population":116122,
     "iso:country":"PH",
+    "lbl:bbox":"125.33722,6.72972,125.37722,6.76972",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u063a\u0648\u0633"
     ],
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":1714956,
         "gp:id":91420276,
-        "qs:id":135393,
+        "qs_pg:id":135393,
         "wd:id":"Q1020939",
         "wk:page":"Digos"
     },
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":890434385,
-    "wof:lastmodified":1563332647,
+    "wof:lastmodified":1566682150,
     "wof:name":"Digos",
     "wof:parent_id":1108697475,
     "wof:placetype":"locality",

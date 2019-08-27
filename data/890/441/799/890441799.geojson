@@ -11,10 +11,14 @@
     "geom:longitude":120.4894,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2623,
+    "gn:population":2623,
     "iso:country":"PH",
+    "lbl:bbox":"120.4694,14.9074,120.5094,14.9474",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Gutad"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1712072,
         "gp:id":1159430,
-        "qs:id":135306
+        "qs_pg:id":135306
     },
     "wof:country":"PH",
     "wof:created":1469052337,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441799,
-    "wof:lastmodified":1505343584,
+    "wof:lastmodified":1566681898,
     "wof:name":"Gutad",
     "wof:parent_id":1108697595,
     "wof:placetype":"locality",

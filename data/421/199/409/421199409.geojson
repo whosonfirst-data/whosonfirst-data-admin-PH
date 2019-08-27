@@ -10,8 +10,12 @@
     "geom:latitude":14.5622,
     "geom:longitude":121.0957,
     "iso:country":"PH",
+    "lbl:bbox":"121.0757,14.5422,121.1157,14.5822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Palatiw"
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1696194,
         "gp:id":1185967,
-        "qs:id":193632
+        "qs_pg:id":193632
     },
     "wof:country":"PH",
     "wof:created":1459009988,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421199409,
-    "wof:lastmodified":1533169690,
+    "wof:lastmodified":1566681851,
     "wof:name":"Palatiw",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

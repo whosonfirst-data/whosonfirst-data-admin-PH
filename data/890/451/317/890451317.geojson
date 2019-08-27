@@ -11,10 +11,14 @@
     "geom:longitude":125.29791,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":9125,
+    "gn:population":9125,
     "iso:country":"PH",
+    "lbl:bbox":"125.27791,12.36542,125.31791,12.40542",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Gamay"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1713309,
         "gp:id":1199174,
-        "qs:id":87813,
+        "qs_pg:id":87813,
         "wd:id":"Q174919",
         "wk:page":"Gamay"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890451317,
-    "wof:lastmodified":1563332609,
+    "wof:lastmodified":1566682138,
     "wof:name":"Gamay",
     "wof:parent_id":1108697603,
     "wof:placetype":"locality",

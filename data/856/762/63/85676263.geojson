@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":6.27147,
     "lbl:longitude":124.877151,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"South Cotabato",
     "mps:latitude":6.310885,
     "mps:longitude":124.858791,
@@ -155,7 +156,7 @@
         "S\u00f6dra Cotabato"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c4b\u0c1f\u0c4b\u0c2c\u0c3e\u0c1f\u0c4b"
@@ -203,9 +204,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"4,489",
     "statoids:area_mi":"1,733",
     "statoids:as_of_date":"2010-05-01",
@@ -230,7 +231,7 @@
         "gp:id":2346723,
         "hasc:id":"PH.SC",
         "iso:id":"PH-SCO",
-        "qs:id":9230,
+        "qs_pg:id":9230,
         "wd:id":"Q13882",
         "wk:page":"South Cotabato"
     },
@@ -259,11 +260,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326810,
+    "wof:lastmodified":1566679675,
     "wof:name":"South Cotabato",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1365286,
     "wof:population_rank":12,

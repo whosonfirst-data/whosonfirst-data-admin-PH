@@ -11,10 +11,14 @@
     "geom:longitude":125.68389,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3507,
+    "gn:population":3507,
     "iso:country":"PH",
+    "lbl:bbox":"125.66389,7.55556,125.70389,7.59556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pag-asa"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1696662,
-        "qs:id":134688
+        "qs_pg:id":134688
     },
     "wof:country":"PH",
     "wof:created":1469051420,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890421959,
-    "wof:lastmodified":1505343466,
+    "wof:lastmodified":1566682039,
     "wof:name":"Pag-asa",
     "wof:parent_id":1108697891,
     "wof:placetype":"locality",

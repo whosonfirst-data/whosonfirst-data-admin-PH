@@ -11,14 +11,18 @@
     "geom:longitude":125.68389,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3020,
+    "gn:population":3020,
     "iso:country":"PH",
+    "lbl:bbox":"125.66389,5.98333,125.70389,6.02333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mangili"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luayon"
     ],
     "qs:name":"Mangili",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1701789,
         "gp:id":1165249,
-        "qs:id":277059,
+        "qs_pg:id":277059,
         "wk:page":"Mangeli"
     },
     "wof:country":"PH",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890453957,
-    "wof:lastmodified":1527736641,
+    "wof:lastmodified":1566682029,
     "wof:name":"Mangili",
     "wof:parent_id":1108697523,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":15.144388,
     "lbl:longitude":120.596089,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Angeles",
     "mps:latitude":15.144388,
     "mps:longitude":120.596089,
@@ -180,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":234,
     "wof:belongsto":[
         102191569,
@@ -217,7 +218,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326781,
+    "wof:lastmodified":1566679668,
     "wof:name":"Angeles",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

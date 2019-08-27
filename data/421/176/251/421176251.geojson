@@ -10,8 +10,12 @@
     "geom:latitude":13.952226,
     "geom:longitude":121.118946,
     "iso:country":"PH",
+    "lbl:bbox":"121.098946,13.932226,121.138946,13.972226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Mataasnakahoy"
@@ -70,7 +74,7 @@
     "name:tgl_x_preferred":[
         "Mataasnakahoy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mataasnacahoy"
     ],
     "name:urd_x_preferred":[
@@ -118,9 +122,11 @@
     "wof:concordances":{
         "gn:id":1700567,
         "gp:id":1182745,
-        "qs:id":1045610,
         "qs_pg:id":371640,
         "wd:id":"Q59740"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045610
     },
     "wof:country":"PH",
     "wof:created":1459009102,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421176251,
-    "wof:lastmodified":1563331759,
+    "wof:lastmodified":1566681881,
     "wof:name":"Mataasnakahoy",
     "wof:parent_id":1108698423,
     "wof:placetype":"locality",

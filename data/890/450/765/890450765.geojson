@@ -11,14 +11,15 @@
     "geom:longitude":120.42148,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3063,
+    "gn:population":3063,
     "iso:country":"PH",
+    "lbl:bbox":"120.40148,15.883,120.44148,15.923",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
-        "Polong"
-    ],
-    "name:unk_x_variant":[
         "Polong"
     ],
     "qs:name":"Polong Norte",
@@ -36,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1693072,
         "gp:id":1173320,
-        "qs:id":86949
+        "qs_pg:id":86949
     },
     "wof:country":"PH",
     "wof:created":1469052752,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":890450765,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682187,
     "wof:name":"Polong Norte",
     "wof:parent_id":1108698297,
     "wof:placetype":"locality",

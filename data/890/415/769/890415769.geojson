@@ -11,10 +11,14 @@
     "geom:longitude":123.05,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2281,
+    "gn:population":2281,
     "iso:country":"PH",
+    "lbl:bbox":"123.03,9.14667,123.07,9.18667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mantiquil"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1701431,
-        "qs:id":134887
+        "qs_pg:id":134887
     },
     "wof:country":"PH",
     "wof:created":1469051102,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890415769,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681921,
     "wof:name":"Mantiquil",
     "wof:parent_id":1108699465,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":122.917184,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":13617,
+    "gn:population":13617,
     "iso:country":"PH",
+    "lbl:bbox":"122.897184,14.172666,122.937184,14.212666",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Vinzons"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Vinzons"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Indan"
     ],
     "name:war_x_preferred":[
@@ -104,12 +108,12 @@
     "wof:concordances":{
         "gn:id":1679811,
         "gp:id":1199975,
-        "qs:id":268607,
+        "qs_pg:id":268607,
         "wd:id":"Q356898"
     },
     "wof:concordances_alt":{
         "gp:id":91798073,
-        "qs:id":133906
+        "qs_pg:id":133906
     },
     "wof:country":"PH",
     "wof:created":1459008872,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421170879,
-    "wof:lastmodified":1563331664,
+    "wof:lastmodified":1566681861,
     "wof:name":"Vinzons",
     "wof:parent_id":1108699883,
     "wof:placetype":"locality",

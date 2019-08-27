@@ -11,11 +11,15 @@
     "geom:longitude":124.77278,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3969,
+    "gn:population":3969,
     "iso:country":"PH",
+    "lbl:bbox":"124.75278,6.77889,124.79278,6.81889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Itig"
     ],
     "qs:name":"Idtig",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1711332,
         "gp:id":91421629,
-        "qs:id":135280
+        "qs_pg:id":135280
     },
     "wof:country":"PH",
     "wof:created":1469052020,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890434335,
-    "wof:lastmodified":1505343540,
+    "wof:lastmodified":1566682153,
     "wof:name":"Idtig",
     "wof:parent_id":1108697111,
     "wof:placetype":"locality",

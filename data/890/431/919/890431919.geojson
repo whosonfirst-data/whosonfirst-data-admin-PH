@@ -11,10 +11,14 @@
     "geom:longitude":123.3425,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5758,
+    "gn:population":5758,
     "iso:country":"PH",
+    "lbl:bbox":"123.3225,13.2868,123.3625,13.3268",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Buluang"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1722803,
         "gp:id":1165596,
-        "qs:id":277331
+        "qs_pg:id":277331
     },
     "wof:country":"PH",
     "wof:created":1469051921,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431919,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566682006,
     "wof:name":"Buluang",
     "wof:parent_id":1108696945,
     "wof:placetype":"locality",

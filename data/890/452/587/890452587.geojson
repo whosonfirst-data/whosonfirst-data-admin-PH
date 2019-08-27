@@ -11,10 +11,14 @@
     "geom:longitude":120.71743,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4387,
+    "gn:population":4387,
     "iso:country":"PH",
+    "lbl:bbox":"120.69743,15.46575,120.73743,15.50575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bundoc"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1722713,
         "gp:id":1165665,
-        "qs:id":135560
+        "qs_pg:id":135560
     },
     "wof:country":"PH",
     "wof:created":1469052823,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452587,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681966,
     "wof:name":"Bundoc",
     "wof:parent_id":1108697953,
     "wof:placetype":"locality",

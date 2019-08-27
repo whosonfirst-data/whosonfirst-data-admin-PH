@@ -10,8 +10,12 @@
     "geom:latitude":8.04583,
     "geom:longitude":126.06361,
     "iso:country":"PH",
+    "lbl:bbox":"126.04361,8.02583,126.08361,8.06583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Trento"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1681333,
         "gp:id":1197236,
-        "qs:id":29043,
+        "qs_pg:id":29043,
         "wd:id":"Q627320"
     },
     "wof:country":"PH",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421202569,
-    "wof:lastmodified":1563331437,
+    "wof:lastmodified":1566681809,
     "wof:name":"Trento",
     "wof:parent_id":1108699759,
     "wof:placetype":"locality",

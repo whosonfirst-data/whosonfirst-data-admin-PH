@@ -10,8 +10,12 @@
     "geom:latitude":10.3349,
     "geom:longitude":123.3259,
     "iso:country":"PH",
+    "lbl:bbox":"123.3059,10.3149,123.3459,10.3549",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Vallehermoso"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1680092,
         "gp:id":1198222,
-        "qs:id":1294755,
+        "qs_pg:id":1294755,
         "wd:id":"Q195164",
         "wk:page":"Vallehermoso, Negros Oriental"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421169357,
-    "wof:lastmodified":1561778702,
+    "wof:lastmodified":1566681803,
     "wof:name":"Vallehermoso",
     "wof:parent_id":85675945,
     "wof:placetype":"locality",

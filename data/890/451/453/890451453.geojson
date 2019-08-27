@@ -11,10 +11,14 @@
     "geom:longitude":120.9417,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4989,
+    "gn:population":4989,
     "iso:country":"PH",
+    "lbl:bbox":"120.9217,11.128,120.9617,11.168",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Agutaya"
     ],
@@ -75,7 +79,7 @@
     "name:tgl_x_preferred":[
         "Agutaya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agatuya"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1731798,
         "gp:id":1158449,
-        "qs:id":88575,
+        "qs_pg:id":88575,
         "wd:id":"Q111351",
         "wk:page":"Agutaya"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890451453,
-    "wof:lastmodified":1563332571,
+    "wof:lastmodified":1566682125,
     "wof:name":"Agutaya",
     "wof:parent_id":1108696577,
     "wof:placetype":"locality",

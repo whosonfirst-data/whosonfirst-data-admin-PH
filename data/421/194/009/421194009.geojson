@@ -10,8 +10,12 @@
     "geom:latitude":10.2048,
     "geom:longitude":122.9888,
     "iso:country":"PH",
+    "lbl:bbox":"122.9688,10.1848,123.0088,10.2248",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Isabela"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Isabela"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Isabella"
     ],
     "name:war_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1710518,
         "gp:id":1175020,
-        "qs:id":887497,
+        "qs_pg:id":887497,
         "wd:id":"Q195373",
         "wk:page":"Isabela, Negros Occidental"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421194009,
-    "wof:lastmodified":1563331368,
+    "wof:lastmodified":1566681795,
     "wof:name":"Isabela",
     "wof:parent_id":1108697783,
     "wof:placetype":"locality",

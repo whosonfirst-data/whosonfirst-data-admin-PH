@@ -10,8 +10,12 @@
     "geom:latitude":20.41585,
     "geom:longitude":121.94707,
     "iso:country":"PH",
+    "lbl:bbox":"121.92707,20.39585,121.96707,20.43585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Mahatao"
@@ -73,7 +77,7 @@
     "name:tgl_x_preferred":[
         "Mahatao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Carlos"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":1703603,
         "gp:id":1180529,
-        "qs:id":484770,
+        "qs_pg:id":484770,
         "wd:id":"Q43458",
         "wk:page":"Mahatao, Batanes"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421193171,
-    "wof:lastmodified":1563331394,
+    "wof:lastmodified":1566681800,
     "wof:name":"Mahatao",
     "wof:parent_id":1108698263,
     "wof:placetype":"locality",

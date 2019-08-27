@@ -11,10 +11,14 @@
     "geom:longitude":120.4045,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2552,
+    "gn:population":2552,
     "iso:country":"PH",
+    "lbl:bbox":"120.3845,16.8241,120.4245,16.8641",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u062a\u0648\u0631\u064a\u0627"
     ],
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1718848,
         "gp:id":1168817,
-        "qs:id":1032924,
+        "qs_pg:id":1032924,
         "wk:page":"Cantoria"
     },
     "wof:country":"PH",
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":890444081,
-    "wof:lastmodified":1564178811,
+    "wof:lastmodified":1566682055,
     "wof:name":"Cantoria",
     "wof:parent_id":1108698161,
     "wof:placetype":"locality",

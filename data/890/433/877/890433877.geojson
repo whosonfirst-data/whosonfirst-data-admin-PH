@@ -11,10 +11,14 @@
     "geom:longitude":121.4157,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2670,
+    "gn:population":2670,
     "iso:country":"PH",
+    "lbl:bbox":"121.3957,14.0922,121.4357,14.1322",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Taytay"
     ],
@@ -238,7 +242,7 @@
     "wof:concordances":{
         "gn:id":1682600,
         "gp:id":91797910,
-        "qs:id":134045,
+        "qs_pg:id":134045,
         "wd:id":"Q407323",
         "wk:page":"Taytay"
     },
@@ -255,7 +259,7 @@
         }
     ],
     "wof:id":890433877,
-    "wof:lastmodified":1563332735,
+    "wof:lastmodified":1566682177,
     "wof:name":"Taytay",
     "wof:parent_id":1108698541,
     "wof:placetype":"locality",

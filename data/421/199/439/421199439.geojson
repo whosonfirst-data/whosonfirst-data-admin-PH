@@ -10,8 +10,12 @@
     "geom:latitude":10.55,
     "geom:longitude":119.26667,
     "iso:country":"PH",
+    "lbl:bbox":"119.24667,10.53,119.28667,10.57",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Vicente"
@@ -101,10 +105,12 @@
     "wof:concordances":{
         "gn:id":1687428,
         "gp:id":1199792,
-        "qs:id":193696,
         "qs_pg:id":134202,
         "wd:id":"Q111707",
         "wk:page":"San Vicente, Palawan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":193696
     },
     "wof:country":"PH",
     "wof:created":1459009989,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421199439,
-    "wof:lastmodified":1563331616,
+    "wof:lastmodified":1566681851,
     "wof:name":"San Vicente",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

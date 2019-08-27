@@ -11,14 +11,18 @@
     "geom:longitude":122.2236,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2298,
+    "gn:population":2298,
     "iso:country":"PH",
+    "lbl:bbox":"122.2036,11.7403,122.2436,11.7803",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Panayacan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panayakan"
     ],
     "qs:name":"Panayacan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1695614,
         "gp:id":28343332,
-        "qs:id":87065
+        "qs_pg:id":87065
     },
     "wof:country":"PH",
     "wof:created":1469052756,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450857,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682195,
     "wof:name":"Panayacan",
     "wof:parent_id":1108699675,
     "wof:placetype":"locality",

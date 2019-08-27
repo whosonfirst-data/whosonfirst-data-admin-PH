@@ -11,10 +11,14 @@
     "geom:longitude":121.78428,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2379,
+    "gn:population":2379,
     "iso:country":"PH",
+    "lbl:bbox":"121.76428,16.78444,121.80428,16.82444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malasin"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703012,
         "gp:id":1172484,
-        "qs:id":87357
+        "qs_pg:id":87357
     },
     "wof:country":"PH",
     "wof:created":1469052762,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451039,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682126,
     "wof:name":"Malasin",
     "wof:parent_id":1108699171,
     "wof:placetype":"locality",

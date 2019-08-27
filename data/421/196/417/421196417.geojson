@@ -10,8 +10,12 @@
     "geom:latitude":16.2762,
     "geom:longitude":122.1246,
     "iso:country":"PH",
+    "lbl:bbox":"122.1046,16.2562,122.1446,16.2962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Casiguran"
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":1718152,
         "gp:id":56121332,
-        "qs:id":844567,
+        "qs_pg:id":844567,
         "wd:id":"Q53083",
         "wk:page":"Casiguran, Aurora"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421196417,
-    "wof:lastmodified":1563331581,
+    "wof:lastmodified":1566681843,
     "wof:name":"Casiguran",
     "wof:parent_id":1108697311,
     "wof:placetype":"locality",

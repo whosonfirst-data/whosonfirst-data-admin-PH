@@ -10,8 +10,12 @@
     "geom:latitude":12.6198,
     "geom:longitude":122.0714,
     "iso:country":"PH",
+    "lbl:bbox":"122.0514,12.5998,122.0914,12.6398",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Calatrava"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1720481,
         "gp:id":1199016,
-        "qs:id":896029,
+        "qs_pg:id":896029,
         "wd:id":"Q174544",
         "wk:page":"Calatrava, Romblon"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421174709,
-    "wof:lastmodified":1561778707,
+    "wof:lastmodified":1566681815,
     "wof:name":"Calatrava",
     "wof:parent_id":1108697217,
     "wof:placetype":"locality",

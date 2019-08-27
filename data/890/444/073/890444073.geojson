@@ -11,10 +11,14 @@
     "geom:longitude":120.59984,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":10250,
+    "gn:population":10250,
     "iso:country":"PH",
+    "lbl:bbox":"120.57984,15.86642,120.61984,15.90642",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:afr_x_preferred":[
         "Carmen"
     ],
@@ -171,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u043c\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carmay"
     ],
     "name:vie_x_preferred":[
@@ -196,7 +200,7 @@
     "wof:concordances":{
         "gn:id":1718319,
         "gp:id":1169204,
-        "qs:id":1032905,
+        "qs_pg:id":1032905,
         "wd:id":"Q185968",
         "wk:page":"Carmen"
     },
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":890444073,
-    "wof:lastmodified":1563332339,
+    "wof:lastmodified":1566682054,
     "wof:name":"Carmen",
     "wof:parent_id":1108699035,
     "wof:placetype":"locality",

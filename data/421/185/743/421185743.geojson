@@ -10,8 +10,12 @@
     "geom:latitude":14.79278,
     "geom:longitude":120.87889,
     "iso:country":"PH",
+    "lbl:bbox":"120.85889,14.77278,120.89889,14.81278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Bulacan"
@@ -122,10 +126,12 @@
     "wof:concordances":{
         "gn:id":1723070,
         "gp:id":1165374,
-        "qs:id":1090103,
         "qs_pg:id":135576,
         "wd:id":"Q54558",
         "wk:page":"Bulakan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1090103
     },
     "wof:country":"PH",
     "wof:created":1459009453,
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421185743,
-    "wof:lastmodified":1563331769,
+    "wof:lastmodified":1566681883,
     "wof:name":"Bulacan",
     "wof:parent_id":1108697101,
     "wof:placetype":"locality",

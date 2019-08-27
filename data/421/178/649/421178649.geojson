@@ -10,8 +10,12 @@
     "geom:latitude":9.65556,
     "geom:longitude":123.85219,
     "iso:country":"PH",
+    "lbl:bbox":"123.83219,9.63556,123.87219,9.67556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u063a\u0628\u064a\u0644\u0627\u0631\u0627\u0646"
@@ -169,9 +173,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0433\u0431\u0456\u043b\u0430\u0440\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "Tagbilaran"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u06af\u0628\u06cc\u0644\u0627\u0631\u0627\u0646"
     ],
@@ -218,7 +219,7 @@
     "wof:concordances":{
         "gn:id":1684497,
         "gp:id":1194946,
-        "qs:id":134124,
+        "qs_pg:id":134124,
         "wd:id":"Q1826",
         "wk:page":"Tagbilaran"
     },
@@ -235,7 +236,7 @@
         }
     ],
     "wof:id":421178649,
-    "wof:lastmodified":1563331720,
+    "wof:lastmodified":1566681874,
     "wof:name":"Tagbilaran City",
     "wof:parent_id":1108699607,
     "wof:placetype":"locality",

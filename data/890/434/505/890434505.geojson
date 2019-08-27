@@ -11,10 +11,14 @@
     "geom:longitude":120.4004,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2120,
+    "gn:population":2120,
     "iso:country":"PH",
+    "lbl:bbox":"120.3804,16.2667,120.4204,16.3067",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0643\u0641\u0627\u0644\u0629"
     ],
@@ -142,7 +146,7 @@
     "wof:concordances":{
         "gn:id":1728792,
         "gp:id":1197884,
-        "qs:id":135894,
+        "qs_pg:id":135894,
         "wd:id":"Q162351",
         "wk:page":"Bail"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":890434505,
-    "wof:lastmodified":1563332615,
+    "wof:lastmodified":1566682141,
     "wof:name":"Bail",
     "wof:parent_id":1108699435,
     "wof:placetype":"locality",

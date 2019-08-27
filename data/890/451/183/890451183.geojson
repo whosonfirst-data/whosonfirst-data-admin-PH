@@ -11,10 +11,14 @@
     "geom:longitude":124.79028,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":9043,
+    "gn:population":9043,
     "iso:country":"PH",
+    "lbl:bbox":"124.77028,8.78722,124.81028,8.82722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Lagonglong"
     ],
@@ -60,9 +64,6 @@
     "name:tgl_x_preferred":[
         "Lagonglong"
     ],
-    "name:unk_x_variant":[
-        "Lagonlong"
-    ],
     "name:vie_x_preferred":[
         "Lagonglong"
     ],
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1708081,
         "gp:id":91798271,
-        "qs:id":87595,
+        "qs_pg:id":87595,
         "wd:id":"Q195740"
     },
     "wof:country":"PH",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":890451183,
-    "wof:lastmodified":1563332607,
+    "wof:lastmodified":1566682137,
     "wof:name":"Lagonglong",
     "wof:parent_id":1108697975,
     "wof:placetype":"locality",

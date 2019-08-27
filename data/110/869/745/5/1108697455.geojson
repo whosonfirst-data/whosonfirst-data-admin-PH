@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.025591,
     "lbl:longitude":119.825512,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PANGASINAN",
     "meso:admin_1r":"ILOCOS REGION",
     "meso:diss_me":"DASOLPANGASINAN",
@@ -32,6 +34,7 @@
     "mps:longitude":119.825512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Dasol"
     ],
@@ -81,7 +84,7 @@
         "Dasol"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108697455,
-    "wof:lastmodified":1564177265,
+    "wof:lastmodified":1566681265,
     "wof:name":"Dasol",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

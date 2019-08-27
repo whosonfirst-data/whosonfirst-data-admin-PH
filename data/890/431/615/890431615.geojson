@@ -11,10 +11,14 @@
     "geom:longitude":123.0383,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2149,
+    "gn:population":2149,
     "iso:country":"PH",
+    "lbl:bbox":"123.0183,13.5981,123.0583,13.6381",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Ram\u00f3n"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1688611,
         "gp:id":1191773,
-        "qs:id":276875,
+        "qs_pg:id":276875,
         "wk:page":"San Ram\u00f3n"
     },
     "wof:country":"PH",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890431615,
-    "wof:lastmodified":1564178708,
+    "wof:lastmodified":1566682001,
     "wof:name":"San Ramon",
     "wof:parent_id":1108698761,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":122.9373,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2444,
+    "gn:population":2444,
     "iso:country":"PH",
+    "lbl:bbox":"122.9173,13.722,122.9573,13.762",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lubigan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lubigan Sr"
     ],
     "qs:name":"Lubigan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1705424,
         "gp:id":1172939,
-        "qs:id":1032616
+        "qs_pg:id":1032616
     },
     "wof:country":"PH",
     "wof:created":1469051222,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890417837,
-    "wof:lastmodified":1505343441,
+    "wof:lastmodified":1566682049,
     "wof:name":"Lubigan",
     "wof:parent_id":1108698167,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.31667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6888,
+    "gn:population":6888,
     "iso:country":"PH",
+    "lbl:bbox":"123.29667,10.31333,123.33667,10.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malaiba"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703220,
         "gp:id":1188532,
-        "qs:id":277078
+        "qs_pg:id":277078
     },
     "wof:country":"PH",
     "wof:created":1469051913,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431769,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566681997,
     "wof:name":"Malaiba",
     "wof:parent_id":1108699843,
     "wof:placetype":"locality",

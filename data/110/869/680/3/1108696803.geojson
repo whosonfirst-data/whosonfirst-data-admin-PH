@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.841197,
     "lbl:longitude":120.909841,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BULACAN",
     "meso:admin_1r":"CENTRAL LUZON REGION",
     "meso:diss_me":"BALAGTAS (BIGAA)BULACAN",
@@ -32,11 +34,12 @@
     "mps:longitude":120.909841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Balagtas (bigaa)"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108696803,
-    "wof:lastmodified":1555220373,
+    "wof:lastmodified":1566681129,
     "wof:name":"Balagtas",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

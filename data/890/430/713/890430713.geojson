@@ -11,17 +11,18 @@
     "geom:longitude":121.8677,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3547,
+    "gn:population":3547,
     "iso:country":"PH",
+    "lbl:bbox":"121.8477,13.5089,121.8877,13.5489",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Balanacan"
     ],
     "name:fil_x_variant":[
-        "Balanakan"
-    ],
-    "name:unk_x_variant":[
         "Balanakan"
     ],
     "qs:name":"Balanacan",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1728539,
         "gp:id":1160971,
-        "qs:id":277398
+        "qs_pg:id":277398
     },
     "wof:country":"PH",
     "wof:created":1469051863,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890430713,
-    "wof:lastmodified":1505343520,
+    "wof:lastmodified":1566681941,
     "wof:name":"Balanacan",
     "wof:parent_id":1108698491,
     "wof:placetype":"locality",

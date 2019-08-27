@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.202569,
     "lbl:longitude":125.455135,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"EASTERN SAMAR",
     "meso:admin_1r":"EASTERN VISAYAS REGION",
     "meso:diss_me":"SAN POLICARPOEASTERN SAMAR",
@@ -32,6 +34,7 @@
     "mps:longitude":125.455135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Policarpo"
     ],
@@ -39,7 +42,7 @@
         "San Policarpo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108699297,
-    "wof:lastmodified":1564177226,
+    "wof:lastmodified":1566681247,
     "wof:name":"San Policarpo",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

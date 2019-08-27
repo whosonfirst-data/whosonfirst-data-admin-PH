@@ -9,15 +9,18 @@
     "geom:bbox":"121.76085,17.62861,121.76085,17.62861",
     "geom:latitude":17.62861,
     "geom:longitude":121.76085,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3010,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":3010,
     "iso:country":"PH",
+    "lbl:bbox":"121.74085,17.60861,121.78085,17.64861",
     "lbl:latitude":17.62861,
     "lbl:longitude":121.76085,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Larion Altu"
@@ -25,7 +28,7 @@
     "name:fil_x_variant":[
         "Larion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Larion Acto"
     ],
     "qs_pg:aaroncc":"PH",
@@ -40,7 +43,7 @@
     "qs_pg:qs_id":87556,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1125847705,
-    "wof:lastmodified":1509395732,
+    "wof:lastmodified":1566682306,
     "wof:name":"Larion Altu",
     "wof:parent_id":1108699799,
     "wof:placetype":"locality",

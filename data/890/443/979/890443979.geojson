@@ -11,10 +11,14 @@
     "geom:longitude":120.46579,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2916,
+    "gn:population":2916,
     "iso:country":"PH",
+    "lbl:bbox":"120.44579,15.44116,120.48579,15.48116",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Moriones"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1699222,
         "gp:id":1186876,
-        "qs:id":1032421
+        "qs_pg:id":1032421
     },
     "wof:country":"PH",
     "wof:created":1469052445,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890443979,
-    "wof:lastmodified":1505343596,
+    "wof:lastmodified":1566682066,
     "wof:name":"Moriones",
     "wof:parent_id":1108699699,
     "wof:placetype":"locality",

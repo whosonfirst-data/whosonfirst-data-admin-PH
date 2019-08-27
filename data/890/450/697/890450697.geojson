@@ -11,14 +11,18 @@
     "geom:longitude":120.86256,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":10281,
+    "gn:population":10281,
     "iso:country":"PH",
+    "lbl:bbox":"120.84256,15.42485,120.88256,15.46485",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:fil_x_preferred":[
         "Rajal Norte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rajal"
     ],
     "qs:name":"Rajal Norte",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1691929,
         "gp:id":1189150,
-        "qs:id":86891
+        "qs_pg:id":86891
     },
     "wof:country":"PH",
     "wof:created":1469052750,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450697,
-    "wof:lastmodified":1505343635,
+    "wof:lastmodified":1566682212,
     "wof:name":"Rajal Norte",
     "wof:parent_id":1108699399,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.2973,
     "geom:longitude":121.4598,
     "iso:country":"PH",
+    "lbl:bbox":"121.4398,14.2773,121.4798,14.3173",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Lumban"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1705190,
         "gp:id":1199399,
-        "qs:id":227482,
+        "qs_pg:id":227482,
         "wd:id":"Q69824",
         "wk:page":"Lumban, Laguna"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421202775,
-    "wof:lastmodified":1561778705,
+    "wof:lastmodified":1566681811,
     "wof:name":"Lumban",
     "wof:parent_id":1108698151,
     "wof:placetype":"locality",

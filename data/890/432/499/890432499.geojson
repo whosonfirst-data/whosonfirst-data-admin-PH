@@ -11,14 +11,18 @@
     "geom:longitude":124.7663,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2841,
+    "gn:population":2841,
     "iso:country":"PH",
+    "lbl:bbox":"124.7463,10.5755,124.7863,10.6155",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bitanjuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bitanghaun"
     ],
     "qs:name":"Bitanjuan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1724734,
         "gp:id":1164047,
-        "qs:id":135659
+        "qs_pg:id":135659
     },
     "wof:country":"PH",
     "wof:created":1469051943,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890432499,
-    "wof:lastmodified":1505343530,
+    "wof:lastmodified":1566682228,
     "wof:name":"Bitanjuan",
     "wof:parent_id":1108696975,
     "wof:placetype":"locality",

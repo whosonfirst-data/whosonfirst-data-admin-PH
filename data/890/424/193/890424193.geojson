@@ -11,10 +11,14 @@
     "geom:longitude":122.6257,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3206,
+    "gn:population":3206,
     "iso:country":"PH",
+    "lbl:bbox":"122.6057,9.4216,122.6457,9.4616",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bal-os"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1727861,
-        "qs:id":1033030
+        "qs_pg:id":1033030
     },
     "wof:country":"PH",
     "wof:created":1469051534,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890424193,
-    "wof:lastmodified":1505343480,
+    "wof:lastmodified":1566681934,
     "wof:name":"Bal-os",
     "wof:parent_id":1108697825,
     "wof:placetype":"locality",

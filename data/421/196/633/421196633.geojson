@@ -10,8 +10,12 @@
     "geom:latitude":16.98545,
     "geom:longitude":121.82664,
     "iso:country":"PH",
+    "lbl:bbox":"121.80664,16.96545,121.84664,17.00545",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Reina Mercedes"
@@ -67,9 +71,6 @@
     "name:tgl_x_preferred":[
         "Reina Mercedes"
     ],
-    "name:unk_x_variant":[
-        "Reina Mercedes Nuevo"
-    ],
     "name:vie_x_preferred":[
         "Reina Mercedes"
     ],
@@ -107,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1691769,
         "gp:id":1189247,
-        "qs:id":1294655,
+        "qs_pg:id":1294655,
         "wd:id":"Q50153"
     },
     "wof:country":"PH",
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421196633,
-    "wof:lastmodified":1563331577,
+    "wof:lastmodified":1566681842,
     "wof:name":"Reina Mercedes",
     "wof:parent_id":1108699013,
     "wof:placetype":"locality",

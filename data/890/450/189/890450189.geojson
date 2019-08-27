@@ -11,10 +11,14 @@
     "geom:longitude":119.9443,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7391,
+    "gn:population":7391,
     "iso:country":"PH",
+    "lbl:bbox":"119.9243,16.3671,119.9643,16.4071",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Zaragoza"
     ],
@@ -351,7 +355,7 @@
     "wof:concordances":{
         "gn:id":1679386,
         "gp:id":1189949,
-        "qs:id":86284,
+        "qs_pg:id":86284,
         "wk:page":"Zaragoza"
     },
     "wof:country":"PH",
@@ -367,7 +371,7 @@
         }
     ],
     "wof:id":890450189,
-    "wof:lastmodified":1564179063,
+    "wof:lastmodified":1566682199,
     "wof:name":"Zaragoza",
     "wof:parent_id":1108698649,
     "wof:placetype":"locality",

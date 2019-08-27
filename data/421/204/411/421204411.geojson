@@ -10,8 +10,12 @@
     "geom:latitude":10.6348,
     "geom:longitude":124.301,
     "iso:country":"PH",
+    "lbl:bbox":"124.281,10.6148,124.321,10.6548",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Consuelo"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Consuelo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Consvelo"
     ],
     "qs:gn_country":"PH",
@@ -71,8 +75,10 @@
     "wof:concordances":{
         "gn:id":1716910,
         "gp:id":1199094,
-        "qs:id":240610,
         "qs_pg:id":87960
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":240610
     },
     "wof:country":"PH",
     "wof:created":1459010185,
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421204411,
-    "wof:lastmodified":1564178436,
+    "wof:lastmodified":1566681806,
     "wof:name":"Consuelo",
     "wof:parent_id":1108698607,
     "wof:placetype":"locality",

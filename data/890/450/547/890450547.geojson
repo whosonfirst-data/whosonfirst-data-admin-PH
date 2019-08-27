@@ -11,10 +11,14 @@
     "geom:longitude":120.6765,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":9526,
+    "gn:population":9526,
     "iso:country":"PH",
+    "lbl:bbox":"120.6565,15.5641,120.6965,15.6041",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "San Nicol\u00e1s"
     ],
@@ -274,7 +278,7 @@
     "wof:concordances":{
         "gn:id":1688868,
         "gp:id":91424365,
-        "qs:id":86711,
+        "qs_pg:id":86711,
         "wd:id":"Q363719",
         "wk:page":"San Nicolas"
     },
@@ -291,7 +295,7 @@
         }
     ],
     "wof:id":890450547,
-    "wof:lastmodified":1563332856,
+    "wof:lastmodified":1566682216,
     "wof:name":"San Nicolas",
     "wof:parent_id":1108699855,
     "wof:placetype":"locality",

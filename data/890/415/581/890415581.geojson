@@ -11,10 +11,14 @@
     "geom:longitude":120.81901,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6835,
+    "gn:population":6835,
     "iso:country":"PH",
+    "lbl:bbox":"120.79901,15.19324,120.83901,15.23324",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044d"
     ],
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":1687410,
         "gp:id":1191383,
-        "qs:id":134200,
+        "qs_pg:id":134200,
         "wk:page":"San Vicente"
     },
     "wof:country":"PH",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":890415581,
-    "wof:lastmodified":1564178545,
+    "wof:lastmodified":1566681916,
     "wof:name":"San Vicente",
     "wof:parent_id":1108697167,
     "wof:placetype":"locality",

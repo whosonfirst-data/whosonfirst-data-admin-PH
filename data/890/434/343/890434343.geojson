@@ -11,14 +11,18 @@
     "geom:longitude":124.8085,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2314,
+    "gn:population":2314,
     "iso:country":"PH",
+    "lbl:bbox":"124.7885,10.6424,124.8285,10.6824",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Hipasngo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hiposngo"
     ],
     "qs:name":"Hipasngo",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1711578,
         "gp:id":1172708,
-        "qs:id":135284
+        "qs_pg:id":135284
     },
     "wof:country":"PH",
     "wof:created":1469052021,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890434343,
-    "wof:lastmodified":1505343541,
+    "wof:lastmodified":1566682165,
     "wof:name":"Hipasngo",
     "wof:parent_id":1108696975,
     "wof:placetype":"locality",

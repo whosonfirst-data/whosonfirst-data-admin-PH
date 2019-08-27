@@ -10,8 +10,12 @@
     "geom:latitude":14.2814,
     "geom:longitude":121.4161,
     "iso:country":"PH",
+    "lbl:bbox":"121.3961,14.2614,121.4361,14.3014",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Santa Cruz"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1688253,
         "gp:id":1192375,
-        "qs:id":461058,
+        "qs_pg:id":461058,
         "wd:id":"Q75938",
         "wk:page":"Santa Cruz, Laguna"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421179729,
-    "wof:lastmodified":1563331690,
+    "wof:lastmodified":1566681867,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108699349,
     "wof:placetype":"locality",

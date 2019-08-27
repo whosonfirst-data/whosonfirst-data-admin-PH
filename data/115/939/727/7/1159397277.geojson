@@ -13,6 +13,8 @@
     "iso:country":"PH",
     "lbl:latitude":14.542739,
     "lbl:longitude":121.082415,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:name_local":"Pateros",
     "mps:latitude":14.542739,
     "mps:longitude":121.082415,
@@ -158,7 +160,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -198,7 +200,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1564179320,
+    "wof:lastmodified":1566682322,
     "wof:name":"Pateros",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

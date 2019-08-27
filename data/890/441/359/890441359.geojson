@@ -11,10 +11,14 @@
     "geom:longitude":124.47528,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3079,
+    "gn:population":3079,
     "iso:country":"PH",
+    "lbl:bbox":"124.45528,6.95306,124.49528,6.99306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pagatin"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1696652,
         "gp:id":1176647,
-        "qs:id":277009
+        "qs_pg:id":277009
     },
     "wof:country":"PH",
     "wof:created":1469052320,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441359,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566681901,
     "wof:name":"Pagatin",
     "wof:parent_id":1108697459,
     "wof:placetype":"locality",

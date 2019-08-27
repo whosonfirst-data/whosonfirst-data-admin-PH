@@ -11,10 +11,14 @@
     "geom:longitude":123.0147,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2695,
+    "gn:population":2695,
     "iso:country":"PH",
+    "lbl:bbox":"122.9947,11.0996,123.0347,11.1396",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Pili"
     ],
@@ -48,7 +52,7 @@
     "name:tur_x_preferred":[
         "Pili"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pill"
     ],
     "qs:name":"Pili",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1693805,
         "gp:id":1187720,
-        "qs:id":134569,
+        "qs_pg:id":134569,
         "wk:page":"Pili"
     },
     "wof:country":"PH",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890432543,
-    "wof:lastmodified":1564179136,
+    "wof:lastmodified":1566682232,
     "wof:name":"Pili",
     "wof:parent_id":1108696579,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":121.44792,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2737,
+    "gn:population":2737,
     "iso:country":"PH",
+    "lbl:bbox":"121.42792,13.0198,121.46792,13.0598",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pangulayan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panggulayan"
     ],
     "qs:name":"Pangulayan",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1695185,
-        "qs:id":276985
+        "qs_pg:id":276985
     },
     "wof:country":"PH",
     "wof:created":1469051846,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890430289,
-    "wof:lastmodified":1505343517,
+    "wof:lastmodified":1566681937,
     "wof:name":"Pangulayan",
     "wof:parent_id":1108698895,
     "wof:placetype":"locality",

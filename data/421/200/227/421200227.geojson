@@ -10,8 +10,12 @@
     "geom:latitude":14.8443,
     "geom:longitude":120.81039,
     "iso:country":"PH",
+    "lbl:bbox":"120.79039,14.8243,120.83039,14.8643",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0648\u0644\u0648\u0633"
@@ -161,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u043e\u043b\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malalos"
     ],
     "name:urd_x_preferred":[
@@ -207,7 +211,7 @@
     "wof:concordances":{
         "gn:id":1702540,
         "gp:id":1199453,
-        "qs:id":809489,
+        "qs_pg:id":809489,
         "wd:id":"Q2180",
         "wk:page":"Malolos"
     },
@@ -224,7 +228,7 @@
         }
     ],
     "wof:id":421200227,
-    "wof:lastmodified":1563331630,
+    "wof:lastmodified":1566681854,
     "wof:name":"Malolos",
     "wof:parent_id":1108698321,
     "wof:placetype":"locality",

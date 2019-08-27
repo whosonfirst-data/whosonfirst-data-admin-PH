@@ -11,10 +11,14 @@
     "geom:longitude":123.38926,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2359,
+    "gn:population":2359,
     "iso:country":"PH",
+    "lbl:bbox":"123.36926,9.83902,123.40926,9.87902",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Banhigan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1727201,
         "gp:id":1196303,
-        "qs:id":135808
+        "qs_pg:id":135808
     },
     "wof:country":"PH",
     "wof:created":1469051946,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432587,
-    "wof:lastmodified":1505343530,
+    "wof:lastmodified":1566682234,
     "wof:name":"Banhigan",
     "wof:parent_id":1108696769,
     "wof:placetype":"locality",

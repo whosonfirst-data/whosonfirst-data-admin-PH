@@ -11,10 +11,14 @@
     "geom:longitude":123.1792,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3373,
+    "gn:population":3373,
     "iso:country":"PH",
+    "lbl:bbox":"123.1592,13.4901,123.1992,13.5301",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Hobo"
     ],
@@ -72,7 +76,7 @@
     "name:tur_x_preferred":[
         "d-smart"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ubo"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1711558,
         "gp:id":1174270,
-        "qs:id":135283,
+        "qs_pg:id":135283,
         "wd:id":"Q843281",
         "wk:page":"Hobo"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890434339,
-    "wof:lastmodified":1563332617,
+    "wof:lastmodified":1566682141,
     "wof:name":"Hobo",
     "wof:parent_id":1108698483,
     "wof:placetype":"locality",

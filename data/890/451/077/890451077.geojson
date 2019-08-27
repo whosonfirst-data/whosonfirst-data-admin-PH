@@ -11,10 +11,14 @@
     "geom:longitude":122.9828,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2133,
+    "gn:population":2133,
     "iso:country":"PH",
+    "lbl:bbox":"122.9628,10.87944,123.0028,10.91944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Madalag"
     ],
@@ -57,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Madalag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Madolag"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":1704217,
         "gp:id":1180079,
-        "qs:id":87406
+        "qs_pg:id":87406
     },
     "wof:country":"PH",
     "wof:created":1469052764,
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890451077,
-    "wof:lastmodified":1564178917,
+    "wof:lastmodified":1566682121,
     "wof:name":"Madalag",
     "wof:parent_id":1108697569,
     "wof:placetype":"locality",

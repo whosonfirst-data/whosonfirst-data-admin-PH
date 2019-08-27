@@ -10,8 +10,12 @@
     "geom:latitude":10.13729,
     "geom:longitude":124.37761,
     "iso:country":"PH",
+    "lbl:bbox":"124.35761,10.11729,124.39761,10.15729",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Bien Unido"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Bien Unido"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buen Unido"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1725412,
         "gp:id":1198910,
-        "qs:id":135708,
+        "qs_pg:id":135708,
         "wd:id":"Q404581",
         "wk:page":"Bien Unido, Bohol"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421178775,
-    "wof:lastmodified":1563331730,
+    "wof:lastmodified":1566681875,
     "wof:name":"Bien Unido",
     "wof:parent_id":1108699635,
     "wof:placetype":"locality",

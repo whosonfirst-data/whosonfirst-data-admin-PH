@@ -11,11 +11,15 @@
     "geom:longitude":124.38972,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2384,
+    "gn:population":2384,
     "iso:country":"PH",
+    "lbl:bbox":"124.36972,7.49944,124.40972,7.53944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kulumpang"
     ],
     "qs:name":"Kulempang",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1708442,
-        "qs:id":135158
+        "qs_pg:id":135158
     },
     "wof:country":"PH",
     "wof:created":1469052821,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890452533,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681960,
     "wof:name":"Kulempang",
     "wof:parent_id":1108697109,
     "wof:placetype":"locality",

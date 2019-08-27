@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.367637,
     "lbl:longitude":121.50853,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CAGAYAN",
     "meso:admin_1r":"CAGAYAN VALLEY REGION",
     "meso:diss_me":"BALLESTEROSCAGAYAN",
@@ -32,6 +34,7 @@
     "mps:longitude":121.50853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Ballesteros"
     ],
@@ -63,7 +66,7 @@
         "Ballesteros"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108696853,
-    "wof:lastmodified":1564177125,
+    "wof:lastmodified":1566681212,
     "wof:name":"Ballesteros",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

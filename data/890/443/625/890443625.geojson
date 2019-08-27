@@ -11,10 +11,14 @@
     "geom:longitude":121.5,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":133843,
+    "gn:population":133843,
     "iso:country":"PH",
+    "lbl:bbox":"121.4,13.85,121.6,14.05",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:bcl_x_preferred":[
         "Sariaya"
     ],
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1687165,
-        "qs:id":1031000,
+        "qs_pg:id":1031000,
         "wd:id":"Q104078",
         "wk:page":"Sariaya"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890443625,
-    "wof:lastmodified":1563332401,
+    "wof:lastmodified":1566682072,
     "wof:name":"Sariaya",
     "wof:parent_id":1108699451,
     "wof:placetype":"localadmin",

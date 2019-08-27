@@ -11,14 +11,18 @@
     "geom:longitude":125.23472,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":14607,
+    "gn:population":14607,
     "iso:country":"PH",
+    "lbl:bbox":"125.21472,6.09639,125.25472,6.13639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Buayan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boayan"
     ],
     "qs:name":"Buayan",
@@ -39,7 +43,9 @@
     "wof:concordances":{
         "gn:id":1724561,
         "gp:id":91464289,
-        "qs:id":135608,
+        "qs_pg:id":135608
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":135646
     },
     "wof:country":"PH",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":890434451,
-    "wof:lastmodified":1564178983,
+    "wof:lastmodified":1566682158,
     "wof:name":"Buayan",
     "wof:parent_id":1108697635,
     "wof:placetype":"locality",

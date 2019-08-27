@@ -10,8 +10,12 @@
     "geom:latitude":13.7838,
     "geom:longitude":122.0902,
     "iso:country":"PH",
+    "lbl:bbox":"122.0702,13.7638,122.1102,13.8038",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pitogo"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1693303,
         "gp:id":1188074,
-        "qs:id":1032371,
+        "qs_pg:id":1032371,
         "wd:id":"Q103996",
         "wk:page":"Pitogo, Quezon"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421175813,
-    "wof:lastmodified":1561778714,
+    "wof:lastmodified":1566681836,
     "wof:name":"Pitogo",
     "wof:parent_id":1108697695,
     "wof:placetype":"locality",

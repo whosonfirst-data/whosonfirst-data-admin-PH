@@ -10,8 +10,12 @@
     "geom:latitude":15.45392,
     "geom:longitude":120.41048,
     "iso:country":"PH",
+    "lbl:bbox":"120.39048,15.43392,120.43048,15.47392",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Iba"
@@ -133,9 +137,11 @@
     "wof:concordances":{
         "gn:id":1711437,
         "gp:id":1199226,
-        "qs:id":484792,
-        "qs_pg:id":846206,
+        "qs_pg:id":484792,
         "wd:id":"Q56566"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":846206
     },
     "wof:country":"PH",
     "wof:created":1459009785,
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421193845,
-    "wof:lastmodified":1563331387,
+    "wof:lastmodified":1566681798,
     "wof:name":"Iba",
     "wof:parent_id":1108699699,
     "wof:placetype":"locality",

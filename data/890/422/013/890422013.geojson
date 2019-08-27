@@ -11,10 +11,14 @@
     "geom:longitude":122.7229,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2346,
+    "gn:population":2346,
     "iso:country":"PH",
+    "lbl:bbox":"122.7029,14.2903,122.7429,14.3303",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Gumaus"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1712140,
         "gp:id":1173807,
-        "qs:id":135310
+        "qs_pg:id":135310
     },
     "wof:country":"PH",
     "wof:created":1469051424,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422013,
-    "wof:lastmodified":1505343467,
+    "wof:lastmodified":1566681890,
     "wof:name":"Gumaus",
     "wof:parent_id":1108698811,
     "wof:placetype":"locality",

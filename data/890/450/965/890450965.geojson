@@ -11,17 +11,18 @@
     "geom:longitude":121.0373,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2532,
+    "gn:population":2532,
     "iso:country":"PH",
+    "lbl:bbox":"121.0173,15.1281,121.0573,15.1681",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Masalipit"
     ],
     "name:fil_x_variant":[
-        "Mansalipit"
-    ],
-    "name:unk_x_variant":[
         "Mansalipit"
     ],
     "qs:name":"Masalipit",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1700774,
         "gp:id":28343491,
-        "qs:id":87264
+        "qs_pg:id":87264
     },
     "wof:country":"PH",
     "wof:created":1469052760,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890450965,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682186,
     "wof:name":"Masalipit",
     "wof:parent_id":1108699265,
     "wof:placetype":"locality",

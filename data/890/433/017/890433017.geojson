@@ -11,10 +11,14 @@
     "geom:longitude":121.96667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":24135,
+    "gn:population":24135,
     "iso:country":"PH",
+    "lbl:bbox":"121.86667,16.8,122.06667,17.0",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Benito Soliven"
     ],
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1725573,
-        "qs:id":88290,
+        "qs_pg:id":88290,
         "wd:id":"Q49359",
         "wk:page":"Benito Soliven, Isabela"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890433017,
-    "wof:lastmodified":1563332738,
+    "wof:lastmodified":1566682179,
     "wof:name":"Benito Soliven",
     "wof:parent_id":1108697341,
     "wof:placetype":"localadmin",

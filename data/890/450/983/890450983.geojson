@@ -11,14 +11,18 @@
     "geom:longitude":122.6774,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3874,
+    "gn:population":3874,
     "iso:country":"PH",
+    "lbl:bbox":"122.6574,13.2505,122.6974,13.2905",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mangero"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alonjiro"
     ],
     "qs:name":"Mangero",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1701799,
         "gp:id":1199474,
-        "qs:id":87303
+        "qs_pg:id":87303
     },
     "wof:country":"PH",
     "wof:created":1469052760,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450983,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682198,
     "wof:name":"Mangero",
     "wof:parent_id":1108699109,
     "wof:placetype":"locality",

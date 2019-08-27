@@ -11,10 +11,14 @@
     "geom:longitude":121.73604,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2139,
+    "gn:population":2139,
     "iso:country":"PH",
+    "lbl:bbox":"121.71604,16.80796,121.75604,16.84796",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Burgos"
     ],
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":1722423,
         "gp:id":91421927,
-        "qs:id":135548,
+        "qs_pg:id":135548,
         "wd:id":"Q49360",
         "wk:page":"Burgos"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890416133,
-    "wof:lastmodified":1563332457,
+    "wof:lastmodified":1566682089,
     "wof:name":"Burgos",
     "wof:parent_id":1108696629,
     "wof:placetype":"locality",

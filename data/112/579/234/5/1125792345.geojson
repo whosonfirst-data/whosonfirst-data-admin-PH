@@ -9,20 +9,23 @@
     "geom:bbox":"122.09,11.5749,122.09,11.5749",
     "geom:latitude":11.5749,
     "geom:longitude":122.09,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2394,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2394,
     "iso:country":"PH",
+    "lbl:bbox":"122.07,11.5549,122.11,11.5949",
     "lbl:latitude":11.5749,
     "lbl:longitude":122.09,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Abiera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jabiera"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":136126,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125792345,
-    "wof:lastmodified":1509392421,
+    "wof:lastmodified":1566682294,
     "wof:name":"Abiera",
     "wof:parent_id":1108699455,
     "wof:placetype":"locality",

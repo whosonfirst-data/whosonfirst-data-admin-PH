@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":15.157049,
     "lbl:longitude":120.206287,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Zambales",
     "mps:latitude":15.149609,
     "mps:longitude":120.202209,
@@ -286,9 +287,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"3,714",
     "statoids:area_mi":"1,434",
     "statoids:as_of_date":"2010-05-01",
@@ -314,7 +315,7 @@
         "gp:id":2346717,
         "hasc:id":"PH.ZM",
         "iso:id":"PH-ZMB",
-        "qs:id":9227,
+        "qs_pg:id":9227,
         "unlc:id":"PH-ZMB",
         "wd:id":"Q13895",
         "wk:page":"Zambales"
@@ -329,9 +330,6 @@
         }
     ],
     "wof:id":85676113,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -347,11 +345,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326868,
+    "wof:lastmodified":1566679695,
     "wof:name":"Zambales",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":755621,
     "wof:population_rank":11,

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.137598,
     "lbl:longitude":122.979017,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ILOILO",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"AJUYILOILO",
@@ -32,11 +34,12 @@
     "mps:longitude":122.979017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:spa_x_preferred":[
         "Ajuy"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108696579,
-    "wof:lastmodified":1564176940,
+    "wof:lastmodified":1566681155,
     "wof:name":"Ajuy",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

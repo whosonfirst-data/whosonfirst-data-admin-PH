@@ -9,14 +9,15 @@
     "geom:bbox":"120.997924805,14.576893167,121.04598999,14.6168522524",
     "geom:latitude":14.597271,
     "geom:longitude":121.021829,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PH",
+    "gn:fcode":"PPLX",
     "gn:latitude":14.58647,
     "gn:longitude":120.99137,
+    "gn:population":0,
     "iso:country":"PH",
     "lbl:latitude":14.601677,
     "lbl:longitude":121.027388,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.596896,
     "mps:longitude":121.021371,
     "mz:hierarchy_label":1,
@@ -35,9 +36,6 @@
         "Tanque"
     ],
     "name:por_x_preferred":[
-        "Tanque"
-    ],
-    "name:unk_x_variant":[
         "Tanque"
     ],
     "qs:gn_adm0_cc":"PH",
@@ -86,7 +84,7 @@
     "qs_pg:woe_id":1195993,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         1159397279,
@@ -97,7 +95,6 @@
     "wof:concordances":{
         "gn:id":1683052,
         "gp:id":1195993,
-        "qs:id":432740,
         "qs_pg:id":432740
     },
     "wof:country":"PH",
@@ -115,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564173684,
+    "wof:lastmodified":1566679667,
     "wof:name":"Tanque",
     "wof:parent_id":1159397279,
     "wof:placetype":"neighbourhood",

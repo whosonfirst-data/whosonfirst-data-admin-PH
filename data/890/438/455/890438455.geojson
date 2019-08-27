@@ -12,10 +12,14 @@
     "geom:longitude":123.63333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":99243,
+    "gn:population":99243,
     "iso:country":"PH",
+    "lbl:bbox":"123.53333,10.01667,123.73333,10.21667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:fil_x_preferred":[
         "Carcar"
     ],
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1718437,
-        "qs:id":1027410
+        "qs_pg:id":1027410
     },
     "wof:country":"PH",
     "wof:created":1469052195,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890438455,
-    "wof:lastmodified":1514618851,
+    "wof:lastmodified":1566682012,
     "wof:name":"City of Carcar",
     "wof:parent_id":1108697281,
     "wof:placetype":"localadmin",

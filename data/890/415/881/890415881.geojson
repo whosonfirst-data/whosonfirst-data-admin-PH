@@ -11,17 +11,18 @@
     "geom:longitude":120.7338,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3142,
+    "gn:population":3142,
     "iso:country":"PH",
+    "lbl:bbox":"120.7138,15.6635,120.7538,15.7035",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lennec"
     ],
     "name:fil_x_variant":[
-        "Lenec"
-    ],
-    "name:unk_x_variant":[
         "Lenec"
     ],
     "qs:name":"Lennec",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1706852,
         "gp:id":1185441,
-        "qs:id":135093
+        "qs_pg:id":135093
     },
     "wof:country":"PH",
     "wof:created":1469051109,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890415881,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681911,
     "wof:name":"Lennec",
     "wof:parent_id":1108697683,
     "wof:placetype":"locality",

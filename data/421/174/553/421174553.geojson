@@ -10,8 +10,12 @@
     "geom:latitude":9.97556,
     "geom:longitude":123.40611,
     "iso:country":"PH",
+    "lbl:bbox":"123.38611,9.95556,123.42611,9.99556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Alcantara"
@@ -108,10 +112,12 @@
     "wof:concordances":{
         "gn:id":1731592,
         "gp:id":1158601,
-        "qs:id":887317,
         "qs_pg:id":846318,
         "wd:id":"Q315636",
         "wk:page":"Alcantara, Cebu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":887317
     },
     "wof:country":"PH",
     "wof:created":1459009036,
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421174553,
-    "wof:lastmodified":1563331475,
+    "wof:lastmodified":1566681818,
     "wof:name":"Alcantara",
     "wof:parent_id":1108696607,
     "wof:placetype":"locality",

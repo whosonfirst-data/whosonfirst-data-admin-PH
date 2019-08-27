@@ -10,8 +10,12 @@
     "geom:latitude":16.95655,
     "geom:longitude":121.66854,
     "iso:country":"PH",
+    "lbl:bbox":"121.64854,16.93655,121.68854,16.97655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Cabatuan"
@@ -70,9 +74,6 @@
     "name:tgl_x_preferred":[
         "Cabatuan"
     ],
-    "name:unk_x_variant":[
-        "Cabatuan Centro"
-    ],
     "name:vie_x_preferred":[
         "Cabatuan"
     ],
@@ -109,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1721714,
         "gp:id":1166478,
-        "qs:id":490941,
+        "qs_pg:id":490941,
         "wd:id":"Q49362",
         "wk:page":"Cabatuan, Isabela"
     },
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421195681,
-    "wof:lastmodified":1561778696,
+    "wof:lastmodified":1566681792,
     "wof:name":"Cabatuan",
     "wof:parent_id":1108697165,
     "wof:placetype":"locality",

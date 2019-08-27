@@ -11,14 +11,18 @@
     "geom:longitude":123.3997,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2420,
+    "gn:population":2420,
     "iso:country":"PH",
+    "lbl:bbox":"123.3797,8.4766,123.4197,8.5166",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Lingasan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lingasad"
     ],
     "qs:name":"Lingasan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1706201,
         "gp:id":1171208,
-        "qs:id":1032667
+        "qs_pg:id":1032667
     },
     "wof:country":"PH",
     "wof:created":1469051603,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890425739,
-    "wof:lastmodified":1505343489,
+    "wof:lastmodified":1566681897,
     "wof:name":"Lingasan",
     "wof:parent_id":1108698925,
     "wof:placetype":"locality",

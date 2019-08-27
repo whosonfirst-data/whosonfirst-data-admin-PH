@@ -11,14 +11,18 @@
     "geom:longitude":120.0131,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2680,
+    "gn:population":2680,
     "iso:country":"PH",
+    "lbl:bbox":"119.9931,16.2904,120.0331,16.3304",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tondol"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tondul"
     ],
     "qs:name":"Tondol",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1681499,
         "gp:id":1200040,
-        "qs:id":133988
+        "qs_pg:id":133988
     },
     "wof:country":"PH",
     "wof:created":1469051997,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890433839,
-    "wof:lastmodified":1505343537,
+    "wof:lastmodified":1566682181,
     "wof:name":"Tondol",
     "wof:parent_id":1108696675,
     "wof:placetype":"locality",

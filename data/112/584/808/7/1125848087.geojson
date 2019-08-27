@@ -9,15 +9,18 @@
     "geom:bbox":"123.992,12.003,123.992,12.003",
     "geom:latitude":12.003,
     "geom:longitude":123.992,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7809,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":7809,
     "iso:country":"PH",
+    "lbl:bbox":"123.972,11.983,124.012,12.023",
     "lbl:latitude":12.003,
     "lbl:longitude":123.992,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bcl_x_preferred":[
         "Cataingan"
@@ -64,7 +67,7 @@
     "name:tgl_x_preferred":[
         "Cataingan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cataigan"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":88008,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125848087,
-    "wof:lastmodified":1563333156,
+    "wof:lastmodified":1566682314,
     "wof:name":"Cataingan",
     "wof:parent_id":1108697321,
     "wof:placetype":"locality",

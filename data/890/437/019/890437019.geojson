@@ -11,10 +11,14 @@
     "geom:longitude":120.35913,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3618,
+    "gn:population":3618,
     "iso:country":"PH",
+    "lbl:bbox":"120.33913,15.96154,120.37913,16.00154",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malabago"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703372,
         "gp:id":1170380,
-        "qs:id":1032491
+        "qs_pg:id":1032491
     },
     "wof:country":"PH",
     "wof:created":1469052135,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437019,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566681956,
     "wof:name":"Malabago",
     "wof:parent_id":1108697209,
     "wof:placetype":"locality",

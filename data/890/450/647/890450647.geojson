@@ -11,10 +11,14 @@
     "geom:longitude":123.78333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3982,
+    "gn:population":3982,
     "iso:country":"PH",
+    "lbl:bbox":"123.76333,9.61333,123.80333,9.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "San Agust\u00edn"
     ],
@@ -70,9 +74,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1690499,
-        "qs:id":86823,
-        "qs_pg:id":903644,
+        "qs_pg:id":86823,
         "wk:page":"San Agust\u00edn"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":903644
     },
     "wof:country":"PH",
     "wof:created":1469052748,
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":890450647,
-    "wof:lastmodified":1564179082,
+    "wof:lastmodified":1566682209,
     "wof:name":"San Agustin",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

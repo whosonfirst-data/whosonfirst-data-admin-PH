@@ -10,13 +10,17 @@
     "geom:latitude":13.9455,
     "geom:longitude":122.2417,
     "iso:country":"PH",
+    "lbl:bbox":"122.2217,13.9255,122.2617,13.9655",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Hondagua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bagacay"
     ],
     "qs:gn_country":"PH",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1711538,
         "gp:id":1174284,
-        "qs:id":135282
+        "qs_pg:id":135282
     },
     "wof:country":"PH",
     "wof:created":1459009191,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421178735,
-    "wof:lastmodified":1505340638,
+    "wof:lastmodified":1566681873,
     "wof:name":"Hondagua",
     "wof:parent_id":1108698121,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.25,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":52581,
+    "gn:population":52581,
     "iso:country":"PH",
+    "lbl:bbox":"120.15,15.55,120.35,15.75",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "qs:name":"Bamban",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1727690,
-        "qs:id":1031373
+        "qs_pg:id":1031373
     },
     "wof:country":"PH",
     "wof:created":1469052438,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890443799,
-    "wof:lastmodified":1505343596,
+    "wof:lastmodified":1566682058,
     "wof:name":"Bamban",
     "wof:parent_id":1108698353,
     "wof:placetype":"localadmin",

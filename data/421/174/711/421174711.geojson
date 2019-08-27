@@ -10,8 +10,12 @@
     "geom:latitude":10.47556,
     "geom:longitude":119.24722,
     "iso:country":"PH",
+    "lbl:bbox":"119.22722,10.45556,119.26722,10.49556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1692871,
         "gp:id":1199664,
-        "qs:id":896059
+        "qs_pg:id":896059
     },
     "wof:country":"PH",
     "wof:created":1459009041,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421174711,
-    "wof:lastmodified":1505340621,
+    "wof:lastmodified":1566681820,
     "wof:name":"Port Barton",
     "wof:parent_id":1108699325,
     "wof:placetype":"locality",

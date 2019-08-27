@@ -10,8 +10,12 @@
     "geom:latitude":12.56667,
     "geom:longitude":120.93333,
     "iso:country":"PH",
+    "lbl:bbox":"120.91333,12.54667,120.95333,12.58667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Calintaan"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1720269,
         "gp:id":1199022,
-        "qs:id":259786,
+        "qs_pg:id":259786,
         "wd:id":"Q107460"
     },
     "wof:country":"PH",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421205231,
-    "wof:lastmodified":1561778706,
+    "wof:lastmodified":1566681814,
     "wof:name":"Calintaan",
     "wof:parent_id":85676153,
     "wof:placetype":"locality",

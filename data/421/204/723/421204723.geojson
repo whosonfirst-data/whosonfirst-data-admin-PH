@@ -10,8 +10,12 @@
     "geom:latitude":16.36389,
     "geom:longitude":120.67694,
     "iso:country":"PH",
+    "lbl:bbox":"120.65694,16.34389,120.69694,16.38389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Itogon"
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":1710441,
         "gp:id":1199253,
-        "qs:id":245646,
+        "qs_pg:id":245646,
         "wd:id":"Q30335",
         "wk:page":"Itogon, Benguet"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421204723,
-    "wof:lastmodified":1563331422,
+    "wof:lastmodified":1566681806,
     "wof:name":"Itogon",
     "wof:parent_id":1108697793,
     "wof:placetype":"locality",

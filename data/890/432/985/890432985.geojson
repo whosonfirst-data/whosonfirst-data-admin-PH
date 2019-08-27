@@ -11,11 +11,15 @@
     "geom:longitude":122.34972,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"PH",
+    "lbl:bbox":"122.32972,11.69028,122.36972,11.73028",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bobog"
     ],
     "qs:name":"Brgy. Bubog, Numancia",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1723664,
         "gp:id":1180127,
-        "qs:id":88224
+        "qs_pg:id":88224
     },
     "wof:country":"PH",
     "wof:created":1469051962,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432985,
-    "wof:lastmodified":1505343532,
+    "wof:lastmodified":1566682233,
     "wof:name":"Brgy. Bubog, Numancia",
     "wof:parent_id":1108698681,
     "wof:placetype":"locality",

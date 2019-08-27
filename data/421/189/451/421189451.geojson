@@ -10,8 +10,12 @@
     "geom:latitude":14.822681,
     "geom:longitude":120.279521,
     "iso:country":"PH",
+    "lbl:bbox":"120.259521,14.802681,120.299521,14.842681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1199575,
-        "qs:id":1112817
+        "qs_pg:id":1112817
     },
     "wof:country":"PH",
     "wof:created":1459009625,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421189451,
-    "wof:lastmodified":1500080431,
+    "wof:lastmodified":1566681829,
     "wof:name":"Olongapo City",
     "wof:parent_id":1108698693,
     "wof:placetype":"locality",

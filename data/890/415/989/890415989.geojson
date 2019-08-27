@@ -11,10 +11,14 @@
     "geom:longitude":120.8347,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4017,
+    "gn:population":4017,
     "iso:country":"PH",
+    "lbl:bbox":"120.8147,15.8263,120.8547,15.8663",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "D\u00edaz"
     ],
@@ -690,7 +694,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1715057,
-        "qs:id":135397,
+        "qs_pg:id":135397,
         "wd:id":"Q5255562",
         "wk:page":"Diaz"
     },
@@ -707,7 +711,7 @@
         }
     ],
     "wof:id":890415989,
-    "wof:lastmodified":1563331924,
+    "wof:lastmodified":1566681931,
     "wof:name":"Diaz",
     "wof:parent_id":1108699819,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.96667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":52883,
+    "gn:population":52883,
     "iso:country":"PH",
+    "lbl:bbox":"120.94667,14.09667,120.98667,14.13667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:fil_x_preferred":[
         "Patuto"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1694290,
         "gp:id":91424012,
-        "qs:id":134597
+        "qs_pg:id":134597
     },
     "wof:country":"PH",
     "wof:created":1469051419,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890421941,
-    "wof:lastmodified":1505343466,
+    "wof:lastmodified":1566682037,
     "wof:name":"Patuto",
     "wof:parent_id":890430319,
     "wof:placetype":"locality",

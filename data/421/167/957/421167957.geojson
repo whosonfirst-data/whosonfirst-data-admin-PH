@@ -10,8 +10,12 @@
     "geom:latitude":8.00194,
     "geom:longitude":123.50944,
     "iso:country":"PH",
+    "lbl:bbox":"123.48944,7.98194,123.52944,8.02194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Ramon Magsaysay"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1691909,
         "gp:id":1189161,
-        "qs:id":427110,
+        "qs_pg:id":427110,
         "wd:id":"Q132301",
         "wk:page":"Ramon Magsaysay, Zamboanga del Sur"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421167957,
-    "wof:lastmodified":1563331399,
+    "wof:lastmodified":1566681801,
     "wof:name":"Ramon Magsaysay",
     "wof:parent_id":1108696727,
     "wof:placetype":"locality",

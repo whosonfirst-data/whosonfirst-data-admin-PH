@@ -10,8 +10,12 @@
     "geom:latitude":7.7478,
     "geom:longitude":123.1445,
     "iso:country":"PH",
+    "lbl:bbox":"123.1245,7.7278,123.1645,7.7678",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Kumalarang"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1708431,
         "gp:id":1176797,
-        "qs:id":944265,
+        "qs_pg:id":944265,
         "wd:id":"Q132161",
         "wk:page":"Kumalarang, Zamboanga del Sur"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421194101,
-    "wof:lastmodified":1561778698,
+    "wof:lastmodified":1566681795,
     "wof:name":"Kumalarang",
     "wof:parent_id":1108697939,
     "wof:placetype":"locality",

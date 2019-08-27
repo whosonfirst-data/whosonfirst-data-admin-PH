@@ -25,8 +25,12 @@
     "gn:population":71181,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.91355,14.07532,120.95355,14.11532",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u062c\u0627\u064a\u062a\u0627\u0649"
     ],
@@ -99,9 +103,6 @@
     "name:tgl_x_variant":[
         "Tagaytay"
     ],
-    "name:und_x_variant":[
-        "Tagaytay City"
-    ],
     "name:vie_x_preferred":[
         "Tagaytay"
     ],
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1276805859,
-    "wof:lastmodified":1564174738,
+    "wof:lastmodified":1566680186,
     "wof:name":"Tagaytay",
     "wof:parent_id":890430319,
     "wof:placetype":"locality",

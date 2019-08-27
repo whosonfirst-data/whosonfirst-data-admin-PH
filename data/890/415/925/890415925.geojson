@@ -11,14 +11,18 @@
     "geom:longitude":125.31917,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2976,
+    "gn:population":2976,
     "iso:country":"PH",
+    "lbl:bbox":"125.29917,5.82167,125.33917,5.86167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Kiupo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kiupa"
     ],
     "qs:name":"Kiupo",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1708588,
         "gp:id":56121328,
-        "qs:id":135171
+        "qs_pg:id":135171
     },
     "wof:country":"PH",
     "wof:created":1469051112,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415925,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566681918,
     "wof:name":"Kiupo",
     "wof:parent_id":1108697655,
     "wof:placetype":"locality",

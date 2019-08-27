@@ -11,10 +11,14 @@
     "geom:longitude":125.96437,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":3119,
+    "gn:population":3119,
     "iso:country":"PH",
+    "lbl:bbox":"125.94437,9.24211,125.98437,9.28211",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Madrid"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1704129,
         "gp:id":1199420,
-        "qs:id":87404,
+        "qs_pg:id":87404,
         "wd:id":"Q155605",
         "wk:page":"Madrid"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890451073,
-    "wof:lastmodified":1563332590,
+    "wof:lastmodified":1566682131,
     "wof:name":"Madrid",
     "wof:parent_id":1108698225,
     "wof:placetype":"locality",

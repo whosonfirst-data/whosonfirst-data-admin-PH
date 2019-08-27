@@ -11,14 +11,18 @@
     "geom:longitude":126.10548,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7838,
+    "gn:population":7838,
     "iso:country":"PH",
+    "lbl:bbox":"126.08548,6.61153,126.12548,6.65153",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tibanbang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tibanban"
     ],
     "qs:name":"Tibanbang",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1682421,
         "gp:id":91420501,
-        "qs:id":86407
+        "qs_pg:id":86407
     },
     "wof:country":"PH",
     "wof:created":1469052733,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450295,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682195,
     "wof:name":"Tibanbang",
     "wof:parent_id":1108697667,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":124.4028,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2489,
+    "gn:population":2489,
     "iso:country":"PH",
+    "lbl:bbox":"124.3828,11.1057,124.4228,11.1457",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tagbubungang Diot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tagbobunga"
     ],
     "qs:name":"Tagbubungang Diot",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1684466,
         "gp:id":1160284,
-        "qs:id":276831
+        "qs_pg:id":276831
     },
     "wof:country":"PH",
     "wof:created":1469052358,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890442303,
-    "wof:lastmodified":1505343587,
+    "wof:lastmodified":1566682111,
     "wof:name":"Tagbubungang Diot",
     "wof:parent_id":1108699863,
     "wof:placetype":"locality",

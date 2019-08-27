@@ -10,8 +10,12 @@
     "geom:latitude":13.89654,
     "geom:longitude":121.29016,
     "iso:country":"PH",
+    "lbl:bbox":"121.27016,13.87654,121.31016,13.91654",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Antonio"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1690344,
         "gp:id":1190308,
-        "qs:id":193638,
+        "qs_pg:id":193638,
         "wd:id":"Q104052",
         "wk:page":"San Antonio, Quezon"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421169893,
-    "wof:lastmodified":1563331410,
+    "wof:lastmodified":1566681803,
     "wof:name":"San Antonio",
     "wof:parent_id":890432817,
     "wof:placetype":"locality",

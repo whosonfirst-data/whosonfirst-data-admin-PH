@@ -10,8 +10,12 @@
     "geom:latitude":7.15444,
     "geom:longitude":125.05583,
     "iso:country":"PH",
+    "lbl:bbox":"125.03583,7.13444,125.07583,7.17444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "President Roxas"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "President Roxas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roxas"
     ],
     "name:vie_x_preferred":[
@@ -101,10 +105,12 @@
     "wof:concordances":{
         "gn:id":1692780,
         "gp:id":56121250,
-        "qs:id":79009,
-        "qs_pg:id":134516,
+        "qs_pg:id":79009,
         "wd:id":"Q315334",
         "wk:page":"President Roxas, Cotabato"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":134516
     },
     "wof:country":"PH",
     "wof:created":1459010158,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421203635,
-    "wof:lastmodified":1561778704,
+    "wof:lastmodified":1566681808,
     "wof:name":"President Roxas",
     "wof:parent_id":1108698965,
     "wof:placetype":"locality",

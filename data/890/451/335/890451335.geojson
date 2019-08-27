@@ -11,10 +11,14 @@
     "geom:longitude":124.3238,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2243,
+    "gn:population":2243,
     "iso:country":"PH",
+    "lbl:bbox":"124.3038,12.4045,124.3438,12.4445",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Erenas"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1713833,
         "gp:id":1172460,
-        "qs:id":87839
+        "qs_pg:id":87839
     },
     "wof:country":"PH",
     "wof:created":1469052774,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451335,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682130,
     "wof:name":"Erenas",
     "wof:parent_id":1108699849,
     "wof:placetype":"locality",

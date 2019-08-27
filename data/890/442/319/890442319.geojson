@@ -11,10 +11,14 @@
     "geom:longitude":121.95911,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3027,
+    "gn:population":3027,
     "iso:country":"PH",
+    "lbl:bbox":"121.93911,12.04146,121.97911,12.08146",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "San Jose"
     ],
@@ -60,7 +64,7 @@
     "name:tgl_x_preferred":[
         "San Jose"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taft"
     ],
     "name:war_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1689515,
         "gp:id":1158221,
-        "qs:id":276897,
+        "qs_pg:id":276897,
         "wd:id":"Q174689"
     },
     "wof:country":"PH",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890442319,
-    "wof:lastmodified":1563332545,
+    "wof:lastmodified":1566682116,
     "wof:name":"Agcogon",
     "wof:parent_id":1108699217,
     "wof:placetype":"locality",

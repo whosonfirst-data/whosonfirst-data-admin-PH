@@ -11,14 +11,18 @@
     "geom:longitude":123.6574,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6994,
+    "gn:population":6994,
     "iso:country":"PH",
+    "lbl:bbox":"123.6374,10.1099,123.6774,10.1499",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Can-asujan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanasujan"
     ],
     "qs:name":"Can-asujan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1719410,
         "gp:id":91798230,
-        "qs:id":88065
+        "qs_pg:id":88065
     },
     "wof:country":"PH",
     "wof:created":1469051960,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890432929,
-    "wof:lastmodified":1505343532,
+    "wof:lastmodified":1566682246,
     "wof:name":"Can-asujan",
     "wof:parent_id":1108697281,
     "wof:placetype":"locality",

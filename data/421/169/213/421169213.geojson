@@ -10,8 +10,12 @@
     "geom:latitude":14.9653,
     "geom:longitude":120.6325,
     "iso:country":"PH",
+    "lbl:bbox":"120.6125,14.9453,120.6525,14.9853",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Guagua"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1712627,
         "gp:id":1199196,
-        "qs:id":919439,
+        "qs_pg:id":919439,
         "wd:id":"Q55702",
         "wk:page":"Guagua, Pampanga"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421169213,
-    "wof:lastmodified":1563331413,
+    "wof:lastmodified":1566681804,
     "wof:name":"Guagua",
     "wof:parent_id":1108699393,
     "wof:placetype":"locality",

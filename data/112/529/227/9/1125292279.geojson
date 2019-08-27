@@ -9,17 +9,20 @@
     "geom:bbox":"119.46667,4.78333,119.46667,4.78333",
     "geom:latitude":4.78333,
     "geom:longitude":119.46667,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":61287,
-    "gn:population":33000,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
+    "gn:population":61287,
     "iso:country":"PH",
+    "lbl:bbox":"119.36667,4.68333,119.56667,4.88333",
     "lbl:latitude":4.78333,
     "lbl:longitude":119.46667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sitangkay"
     ],
     "qs_pg:aaroncc":"PH",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":86557,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125292279,
-    "wof:lastmodified":1509387556,
+    "wof:lastmodified":1566682265,
     "wof:name":"Sitangkai",
     "wof:parent_id":1108698667,
     "wof:placetype":"localadmin",

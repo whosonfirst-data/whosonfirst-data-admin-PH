@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.300482,
     "lbl:longitude":124.931192,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LEYTE",
     "meso:admin_1r":"EASTERN VISAYAS REGION",
     "meso:diss_me":"ISABELLEYTE",
@@ -32,6 +34,7 @@
     "mps:longitude":124.931192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Isabel"
     ],
@@ -60,7 +63,7 @@
         "\u0406\u0437\u0430\u0431\u0435\u043b\u0430"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108697785,
-    "wof:lastmodified":1564176986,
+    "wof:lastmodified":1566681165,
     "wof:name":"Isabel",
     "wof:parent_id":85676341,
     "wof:placetype":"county",

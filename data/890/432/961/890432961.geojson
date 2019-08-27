@@ -11,10 +11,14 @@
     "geom:longitude":125.63333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":13769,
+    "gn:population":13769,
     "iso:country":"PH",
+    "lbl:bbox":"125.53333,9.9,125.73333,10.1",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:fil_x_preferred":[
         "Cagdianao"
     ],
@@ -31,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1721011,
-        "qs:id":88124
+        "qs_pg:id":88124
     },
     "wof:country":"PH",
     "wof:created":1469051961,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890432961,
-    "wof:lastmodified":1505343532,
+    "wof:lastmodified":1566682235,
     "wof:name":"Cagdianao",
     "wof:parent_id":85676239,
     "wof:placetype":"localadmin",

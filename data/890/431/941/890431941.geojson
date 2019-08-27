@@ -11,10 +11,14 @@
     "geom:longitude":122.9817,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":83980,
+    "gn:population":83980,
     "iso:country":"PH",
+    "lbl:bbox":"122.9617,10.7519,123.0017,10.7919",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:fil_x_preferred":[
         "Binonga"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1724933,
-        "qs:id":277354
+        "qs_pg:id":277354
     },
     "wof:country":"PH",
     "wof:created":1469051921,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890431941,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566681993,
     "wof:name":"Binonga",
     "wof:parent_id":1108699495,
     "wof:placetype":"locality",

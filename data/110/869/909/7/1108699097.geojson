@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.072021,
     "lbl:longitude":125.74573,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DAVAO DEL NORTE",
     "meso:admin_1r":"DAVAO REGION",
     "meso:diss_me":"SAMALDAVAO DEL NORTE",
@@ -32,6 +34,7 @@
     "mps:longitude":125.74573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Samal"
     ],
@@ -69,7 +72,7 @@
         "Samal"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108699097,
-    "wof:lastmodified":1564176780,
+    "wof:lastmodified":1566681091,
     "wof:name":"Samal",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

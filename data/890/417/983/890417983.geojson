@@ -11,10 +11,14 @@
     "geom:longitude":123.2667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2195,
+    "gn:population":2195,
     "iso:country":"PH",
+    "lbl:bbox":"123.2467,10.2931,123.2867,10.3331",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Quba"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1712609,
-        "qs:id":277184,
+        "qs_pg:id":277184,
         "wk:page":"Guba"
     },
     "wof:country":"PH",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890417983,
-    "wof:lastmodified":1564178798,
+    "wof:lastmodified":1566682047,
     "wof:name":"Guba",
     "wof:parent_id":1108699843,
     "wof:placetype":"locality",

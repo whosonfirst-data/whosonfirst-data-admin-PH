@@ -11,10 +11,14 @@
     "geom:longitude":123.03333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2860,
+    "gn:population":2860,
     "iso:country":"PH",
+    "lbl:bbox":"123.01333,11.23,123.05333,11.27",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Anoring"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1730562,
         "gp:id":28344200,
-        "qs:id":136047
+        "qs_pg:id":136047
     },
     "wof:country":"PH",
     "wof:created":1469051127,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416281,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566682092,
     "wof:name":"Anoring",
     "wof:parent_id":1108699449,
     "wof:placetype":"locality",

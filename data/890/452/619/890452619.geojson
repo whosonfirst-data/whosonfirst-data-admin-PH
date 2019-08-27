@@ -11,10 +11,14 @@
     "geom:longitude":120.4557,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":15859,
+    "gn:population":15859,
     "iso:country":"PH",
+    "lbl:bbox":"120.4357,15.7927,120.4757,15.8327",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Bayambang"
     ],
@@ -72,7 +76,7 @@
     "name:tgl_x_preferred":[
         "Bayambang"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayembang"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1725863,
         "gp:id":1165900,
-        "qs:id":135733,
+        "qs_pg:id":135733,
         "wd:id":"Q41762"
     },
     "wof:country":"PH",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890452619,
-    "wof:lastmodified":1563332025,
+    "wof:lastmodified":1566681962,
     "wof:name":"Bayambang",
     "wof:parent_id":1108696965,
     "wof:placetype":"locality",

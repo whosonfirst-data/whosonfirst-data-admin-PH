@@ -11,10 +11,14 @@
     "geom:longitude":123.7195,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4348,
+    "gn:population":4348,
     "iso:country":"PH",
+    "lbl:bbox":"123.6995,10.5124,123.7395,10.5524",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Nangka"
     ],
@@ -27,7 +31,7 @@
     "name:swe_x_preferred":[
         "Nangka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nangca"
     ],
     "qs:name":"Nangka",
@@ -49,9 +53,11 @@
     "wof:concordances":{
         "gn:id":1698281,
         "gp:id":1184428,
-        "qs:id":87168,
-        "qs_pg:id":277025,
+        "qs_pg:id":87168,
         "wk:page":"Nangka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":277025
     },
     "wof:country":"PH",
     "wof:created":1469052077,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890435679,
-    "wof:lastmodified":1564179190,
+    "wof:lastmodified":1566682253,
     "wof:name":"Nangka",
     "wof:parent_id":1108696805,
     "wof:placetype":"locality",

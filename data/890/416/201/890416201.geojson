@@ -11,14 +11,18 @@
     "geom:longitude":124.9595,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2404,
+    "gn:population":2404,
     "iso:country":"PH",
+    "lbl:bbox":"124.9395,10.661,124.9795,10.701",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Balinsacayao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balinsasayao"
     ],
     "qs:name":"Balinsacayao",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1728074,
         "gp:id":1186350,
-        "qs:id":135861
+        "qs_pg:id":135861
     },
     "wof:country":"PH",
     "wof:created":1469051123,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890416201,
-    "wof:lastmodified":1505343430,
+    "wof:lastmodified":1566682100,
     "wof:name":"Balinsacayao",
     "wof:parent_id":1108696557,
     "wof:placetype":"locality",

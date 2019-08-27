@@ -11,14 +11,18 @@
     "geom:longitude":123.7496,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4177,
+    "gn:population":4177,
     "iso:country":"PH",
+    "lbl:bbox":"123.7296,10.22258,123.7696,10.26258",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Cantao-an"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kantauan"
     ],
     "qs:name":"Cantao-an",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1718888,
         "gp:id":1186530,
-        "qs:id":1032933
+        "qs_pg:id":1032933
     },
     "wof:country":"PH",
     "wof:created":1469052120,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890436667,
-    "wof:lastmodified":1505343555,
+    "wof:lastmodified":1566681979,
     "wof:name":"Cantao-an",
     "wof:parent_id":1108698537,
     "wof:placetype":"locality",

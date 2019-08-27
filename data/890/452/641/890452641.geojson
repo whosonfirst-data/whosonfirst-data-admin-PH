@@ -11,11 +11,15 @@
     "geom:longitude":120.81452,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":9214,
+    "gn:population":9214,
     "iso:country":"PH",
+    "lbl:bbox":"120.79452,14.93282,120.83452,14.97282",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Balucog"
     ],
     "qs:name":"Balucuc",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1727795,
         "gp:id":1192930,
-        "qs:id":135838
+        "qs_pg:id":135838
     },
     "wof:country":"PH",
     "wof:created":1469052824,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452641,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681969,
     "wof:name":"Balucuc",
     "wof:parent_id":1108699315,
     "wof:placetype":"locality",

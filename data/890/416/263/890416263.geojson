@@ -11,10 +11,14 @@
     "geom:longitude":125.45583,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":10712,
+    "gn:population":10712,
     "iso:country":"PH",
+    "lbl:bbox":"125.43583,6.88722,125.47583,6.92722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Astorga"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1730039,
         "gp:id":1170309,
-        "qs:id":136005,
+        "qs_pg:id":136005,
         "wk:page":"Astorga"
     },
     "wof:country":"PH",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890416263,
-    "wof:lastmodified":1564178886,
+    "wof:lastmodified":1566682101,
     "wof:name":"Astorga",
     "wof:parent_id":1108699345,
     "wof:placetype":"locality",

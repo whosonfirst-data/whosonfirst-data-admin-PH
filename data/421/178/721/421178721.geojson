@@ -10,8 +10,12 @@
     "geom:latitude":11.41194,
     "geom:longitude":125.54583,
     "iso:country":"PH",
+    "lbl:bbox":"125.52583,11.39194,125.56583,11.43194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Llorente"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "Llorente"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lorente"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1705910,
         "gp:id":56121373,
-        "qs:id":135046,
+        "qs_pg:id":135046,
         "wd:id":"Q314070",
         "wk:page":"Llorente, Eastern Samar"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421178721,
-    "wof:lastmodified":1561778724,
+    "wof:lastmodified":1566681875,
     "wof:name":"Llorente",
     "wof:parent_id":1108698105,
     "wof:placetype":"locality",

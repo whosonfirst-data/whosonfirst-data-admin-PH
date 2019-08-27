@@ -10,10 +10,14 @@
     "geom:latitude":7.20528,
     "geom:longitude":122.23306,
     "iso:country":"PH",
+    "lbl:bbox":"122.21306,7.18528,122.25306,7.22528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Coroan"
     ],
     "qs:gn_country":"PH",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1716440,
         "gp:id":1199107,
-        "qs:id":188589
+        "qs_pg:id":188589
     },
     "wof:country":"PH",
     "wof:created":1459008812,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421169483,
-    "wof:lastmodified":1505340596,
+    "wof:lastmodified":1566681803,
     "wof:name":"Curuan",
     "wof:parent_id":1108699889,
     "wof:placetype":"locality",

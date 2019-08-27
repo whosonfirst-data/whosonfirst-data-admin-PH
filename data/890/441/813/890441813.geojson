@@ -11,14 +11,18 @@
     "geom:longitude":121.0259,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":9737,
+    "gn:population":9737,
     "iso:country":"PH",
+    "lbl:bbox":"121.0059,13.7526,121.0459,13.7926",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Santa Rita Aplaya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cota"
     ],
     "qs:name":"Santa Rita Aplaya",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1730346,
         "gp:id":1159592,
-        "qs:id":136014
+        "qs_pg:id":136014
     },
     "wof:country":"PH",
     "wof:created":1469052338,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890441813,
-    "wof:lastmodified":1505343584,
+    "wof:lastmodified":1566681903,
     "wof:name":"Santa Rita Aplaya",
     "wof:parent_id":1108699293,
     "wof:placetype":"locality",

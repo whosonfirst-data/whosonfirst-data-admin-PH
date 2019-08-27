@@ -11,14 +11,18 @@
     "geom:longitude":123.2612,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2202,
+    "gn:population":2202,
     "iso:country":"PH",
+    "lbl:bbox":"123.2412,12.8134,123.2812,12.8534",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mabiton"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mabitan"
     ],
     "qs:name":"Mabiton",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1704533,
         "gp:id":1195101,
-        "qs:id":1032543
+        "qs_pg:id":1032543
     },
     "wof:country":"PH",
     "wof:created":1469051431,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890422185,
-    "wof:lastmodified":1505343468,
+    "wof:lastmodified":1566681896,
     "wof:name":"Mabiton",
     "wof:parent_id":1108697361,
     "wof:placetype":"locality",

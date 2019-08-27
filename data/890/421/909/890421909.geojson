@@ -11,10 +11,14 @@
     "geom:longitude":123.9381,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":3806,
+    "gn:population":3806,
     "iso:country":"PH",
+    "lbl:bbox":"123.9181,11.0609,123.9581,11.1009",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "San Remigio"
     ],
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1688594,
         "gp:id":1199786,
-        "qs:id":134290,
+        "qs_pg:id":134290,
         "wd:id":"Q316350",
         "wk:page":"San Remigio"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":890421909,
-    "wof:lastmodified":1563332257,
+    "wof:lastmodified":1566682033,
     "wof:name":"San Remigio",
     "wof:parent_id":1108699311,
     "wof:placetype":"locality",

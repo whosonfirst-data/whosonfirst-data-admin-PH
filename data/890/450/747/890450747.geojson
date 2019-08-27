@@ -11,10 +11,14 @@
     "geom:longitude":122.15035,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3269,
+    "gn:population":3269,
     "iso:country":"PH",
+    "lbl:bbox":"122.13035,18.48746,122.17035,18.52746",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u044d"
     ],
@@ -90,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0412\u0456\u0441\u0435\u043d\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Port San Vicente"
     ],
     "name:war_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1692861,
         "gp:id":1195871,
-        "qs:id":86941,
+        "qs_pg:id":86941,
         "wk:page":"San Vicente"
     },
     "wof:country":"PH",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890450747,
-    "wof:lastmodified":1564179065,
+    "wof:lastmodified":1566682200,
     "wof:name":"San Vicente",
     "wof:parent_id":1108699331,
     "wof:placetype":"locality",

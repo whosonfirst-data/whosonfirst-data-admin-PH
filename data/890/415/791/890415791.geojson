@@ -11,10 +11,14 @@
     "geom:longitude":124.7156,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":10058,
+    "gn:population":10058,
     "iso:country":"PH",
+    "lbl:bbox":"124.6956,9.2304,124.7356,9.2704",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Mambajao"
     ],
@@ -69,7 +73,7 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e31\u0e21\u0e1a\u0e32\u0e40\u0e2e\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mamajao"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1702348,
         "gp:id":91419576,
-        "qs:id":134929,
+        "qs_pg:id":134929,
         "wd:id":"Q356518",
         "wk:page":"Mambajao"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890415791,
-    "wof:lastmodified":1563331846,
+    "wof:lastmodified":1566681907,
     "wof:name":"Mambajao",
     "wof:parent_id":1108698331,
     "wof:placetype":"locality",

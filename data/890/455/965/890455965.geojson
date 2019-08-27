@@ -11,14 +11,18 @@
     "geom:longitude":122.887,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2829,
+    "gn:population":2829,
     "iso:country":"PH",
+    "lbl:bbox":"122.867,10.3979,122.907,10.4379",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Sibucao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gibucao"
     ],
     "qs:name":"Sibucao",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1686767,
         "gp:id":1161415,
-        "qs:id":558668
+        "qs_pg:id":558668
     },
     "wof:country":"PH",
     "wof:created":1469052987,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890455965,
-    "wof:lastmodified":1505343667,
+    "wof:lastmodified":1566681972,
     "wof:name":"Sibucao",
     "wof:parent_id":1108699135,
     "wof:placetype":"locality",

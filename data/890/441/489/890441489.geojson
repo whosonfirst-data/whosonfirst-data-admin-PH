@@ -11,10 +11,14 @@
     "geom:longitude":120.6804,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3169,
+    "gn:population":3169,
     "iso:country":"PH",
+    "lbl:bbox":"120.6604,14.0106,120.7004,14.0506",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malaruhatan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1703027,
-        "qs:id":87360
+        "qs_pg:id":87360
     },
     "wof:country":"PH",
     "wof:created":1469052325,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890441489,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566681903,
     "wof:name":"Malaruhatan",
     "wof:parent_id":1108698053,
     "wof:placetype":"locality",

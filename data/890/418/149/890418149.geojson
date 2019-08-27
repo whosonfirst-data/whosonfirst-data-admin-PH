@@ -11,14 +11,18 @@
     "geom:longitude":121.46099,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":25628,
+    "gn:population":25628,
     "iso:country":"PH",
+    "lbl:bbox":"121.44099,13.90309,121.48099,13.94309",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Concepcion Ibaba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concepcion"
     ],
     "qs:name":"Concepcion Ibaba",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1717008,
-        "qs:id":1032882
+        "qs_pg:id":1032882
     },
     "wof:country":"PH",
     "wof:created":1469051236,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890418149,
-    "wof:lastmodified":1505343443,
+    "wof:lastmodified":1566682105,
     "wof:name":"Concepcion Ibaba",
     "wof:parent_id":1108699451,
     "wof:placetype":"locality",

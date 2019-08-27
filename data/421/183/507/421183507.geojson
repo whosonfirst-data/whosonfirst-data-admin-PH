@@ -10,8 +10,12 @@
     "geom:latitude":15.252,
     "geom:longitude":120.0169,
     "iso:country":"PH",
+    "lbl:bbox":"119.9969,15.232,120.0369,15.272",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Porac"
@@ -199,9 +203,6 @@
     "name:swe_x_preferred":[
         "Porac"
     ],
-    "name:unk_x_variant":[
-        "Purac"
-    ],
     "name:vec_x_preferred":[
         "Porac"
     ],
@@ -257,7 +258,7 @@
     "wof:concordances":{
         "gn:id":1692376,
         "gp:id":1188396,
-        "qs:id":979670,
+        "qs_pg:id":979670,
         "wd:id":"Q1210479"
     },
     "wof:country":"PH",
@@ -273,7 +274,7 @@
         }
     ],
     "wof:id":421183507,
-    "wof:lastmodified":1563331681,
+    "wof:lastmodified":1566681865,
     "wof:name":"Porac",
     "wof:parent_id":1108697065,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":17.07745,
     "geom:longitude":121.23384,
     "iso:country":"PH",
+    "lbl:bbox":"121.21384,17.05745,121.25384,17.09745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Tinglayan"
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":1681478,
         "gp:id":1199933,
-        "qs:id":1159578,
+        "qs_pg:id":1159578,
         "wd:id":"Q35909"
     },
     "wof:country":"PH",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421191875,
-    "wof:lastmodified":1563331589,
+    "wof:lastmodified":1566681845,
     "wof:name":"Tinglayan",
     "wof:parent_id":1108698565,
     "wof:placetype":"locality",

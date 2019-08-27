@@ -10,8 +10,12 @@
     "geom:latitude":10.87754,
     "geom:longitude":122.9677,
     "iso:country":"PH",
+    "lbl:bbox":"122.9477,10.85754,122.9877,10.89754",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Enrique B. Magalona"
@@ -64,9 +68,6 @@
     "name:tgl_x_preferred":[
         "Enrique B. Magalona"
     ],
-    "name:unk_x_variant":[
-        "Saravia"
-    ],
     "name:war_x_preferred":[
         "Enrique B. Magalona"
     ],
@@ -101,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1713857,
         "gp:id":1172449,
-        "qs:id":135374,
+        "qs_pg:id":135374,
         "wd:id":"Q195304",
         "wk:page":"Enrique B. Magalona, Negros Occidental"
     },
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":421178743,
-    "wof:lastmodified":1563331730,
+    "wof:lastmodified":1566681875,
     "wof:name":"Enrique B. Magalona",
     "wof:parent_id":1108697569,
     "wof:placetype":"locality",

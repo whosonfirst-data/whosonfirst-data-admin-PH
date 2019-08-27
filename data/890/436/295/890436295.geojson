@@ -11,7 +11,7 @@
     "geom:longitude":123.724524,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":65217,
+    "gn:population":65217,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Oroquieta Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":8.426793,
     "lbl:longitude":123.717064,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MISAMIS OCCIDENTAL",
     "meso:admin_1r":"NORTHERN MINDANAO REGION",
     "meso:diss_me":"OROQUIETA CITYMISAMIS OCCIDENTAL",
@@ -35,6 +37,7 @@
     "mps:longitude":123.717064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0648\u0631\u0648\u0643\u0648\u064a\u062a\u0627"
     ],
@@ -161,9 +164,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u043e\u043a\u0432\u0430\u0439\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Oroquieta"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u0648\u06a9\u0648\u0626\u06cc\u062a\u0627"
     ],
@@ -184,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":814,
     "wof:belongsto":[
@@ -196,7 +196,7 @@
     "wof:concordances":{
         "gn:id":1697005,
         "gp:id":2346697,
-        "qs:id":87124,
+        "qs_pg:id":87124,
         "wd:id":"Q1067897",
         "wk:page":"Oroquieta"
     },
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":890436295,
-    "wof:lastmodified":1563332074,
+    "wof:lastmodified":1566681978,
     "wof:name":"Oroquieta City",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

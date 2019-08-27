@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.92364,14.30353,120.96364,14.34353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632509
@@ -36,7 +40,7 @@
         "gn:id":8610215
     },
     "wof:country":"PH",
-    "wof:geomhash":"cc7bfdea5ecfa3420d748b1a8ec47b74",
+    "wof:geomhash":"3df83032893eac36f300e9c229fb1aec",
     "wof:hierarchy":[
         {
             "country_id":85632509,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209156915,
-    "wof:lastmodified":1536296030,
+    "wof:lastmodified":1566680584,
     "wof:name":"Zone Fourth",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     120.94364,
-    14.323529999999998,
+    14.32353,
     120.94364,
-    14.323529999999998
+    14.32353
 ],
   "geometry": {"coordinates":[120.94364,14.32353],"type":"Point"}
 }

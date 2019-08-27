@@ -11,10 +11,14 @@
     "geom:longitude":124.95278,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":16518,
+    "gn:population":16518,
     "iso:country":"PH",
+    "lbl:bbox":"124.93278,6.31444,124.97278,6.35444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Tupi"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1680613,
         "gp:id":91465058,
-        "qs:id":133943,
+        "qs_pg:id":133943,
         "wd:id":"Q174055",
         "wk:page":"Tupi"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890431319,
-    "wof:lastmodified":1563332166,
+    "wof:lastmodified":1566682006,
     "wof:name":"Tupi",
     "wof:parent_id":1108699813,
     "wof:placetype":"locality",

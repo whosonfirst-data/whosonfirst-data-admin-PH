@@ -11,7 +11,7 @@
     "geom:longitude":120.869588,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":48661,
+    "gn:population":48661,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Trece Martirez Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.278405,
     "lbl:longitude":120.869596,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CAVITE",
     "meso:admin_1r":"CALABARZON",
     "meso:diss_me":"TRECE MARTIREZ CITYCAVITE",
@@ -35,6 +37,7 @@
     "mps:longitude":120.869596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0633 \u0645\u0627\u0631\u062a\u064a\u0631\u064a\u0633"
     ],
@@ -75,7 +78,7 @@
         "\u0a9f\u0acd\u0ab0\u0ac7\u0ab8 \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0ab0\u0ac7\u0ab8"
     ],
     "name:hin_x_preferred":[
-        "\u091f\u094d\u0930\u0947\u0938  \u092e\u0930\u0924\u093f\u0930\u0947\u0938"
+        "\u091f\u094d\u0930\u0947\u0938 \u092e\u0930\u0924\u093f\u0930\u0947\u0938"
     ],
     "name:hun_x_preferred":[
         "Trece Martires"
@@ -161,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0435\u0441 \u041c\u0430\u0440\u0442\u0456\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trece Martirez"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +187,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1683,
     "wof:belongsto":[
@@ -195,7 +198,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1681338,
-        "qs:id":371402,
+        "qs_pg:id":371402,
         "wd:id":"Q63160",
         "wk:page":"Trece Martires"
     },
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":890438385,
-    "wof:lastmodified":1563332194,
+    "wof:lastmodified":1566682014,
     "wof:name":"Trece Martirez City",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

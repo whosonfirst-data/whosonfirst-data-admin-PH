@@ -10,8 +10,12 @@
     "geom:latitude":10.4161,
     "geom:longitude":122.8504,
     "iso:country":"PH",
+    "lbl:bbox":"122.8304,10.3961,122.8704,10.4361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Enrique"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1690119,
         "gp:id":1190497,
-        "qs:id":326874,
+        "qs_pg:id":326874,
         "wd:id":"Q195523",
         "wk:page":"San Enrique, Negros Occidental"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421174381,
-    "wof:lastmodified":1563331482,
+    "wof:lastmodified":1566681820,
     "wof:name":"San Enrique",
     "wof:parent_id":1108699135,
     "wof:placetype":"locality",

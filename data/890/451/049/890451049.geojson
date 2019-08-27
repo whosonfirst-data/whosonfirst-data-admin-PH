@@ -11,11 +11,15 @@
     "geom:longitude":125.1375,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5388,
+    "gn:population":5388,
     "iso:country":"PH",
+    "lbl:bbox":"125.1175,7.95028,125.1575,7.99028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mailig"
     ],
     "qs:name":"Mailag",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703544,
         "gp:id":1180581,
-        "qs:id":87376
+        "qs_pg:id":87376
     },
     "wof:country":"PH",
     "wof:created":1469052763,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451049,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682123,
     "wof:name":"Mailag",
     "wof:parent_id":1108699841,
     "wof:placetype":"locality",

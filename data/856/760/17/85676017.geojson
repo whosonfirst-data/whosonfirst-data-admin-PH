@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":14.148216,
     "lbl:longitude":122.786807,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Camarines Norte",
     "mps:latitude":14.173017,
     "mps:longitude":122.73351,
@@ -171,7 +172,7 @@
         "Camarines Norte"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0bae\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd  \u0ba8\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
+        "\u0b95\u0bbe\u0bae\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0ba8\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2e\u0c46\u0c30\u0c48\u0c28\u0c4d\u0c38\u0c4d \u0c28\u0c3e\u0c30\u0c4d\u0c1f\u0c46"
@@ -283,9 +284,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"2,113",
     "statoids:area_mi":"816",
     "statoids:as_of_date":"2010-05-01",
@@ -311,7 +312,7 @@
         "gp:id":2346670,
         "hasc:id":"PH.CN",
         "iso:id":"PH-CAN",
-        "qs:id":1135244,
+        "qs_pg:id":1135244,
         "unlc:id":"PH-CAN",
         "wd:id":"Q13763"
     },
@@ -325,9 +326,6 @@
         }
     ],
     "wof:id":85676017,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -343,11 +341,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326836,
+    "wof:lastmodified":1566679688,
     "wof:name":"Camarines Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":542915,
     "wof:population_rank":11,

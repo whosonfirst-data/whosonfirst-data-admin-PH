@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"125.55306,9.88722,125.59306,9.92722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Zaragoza"
     ],
@@ -323,9 +327,7 @@
         "\u0421\u0430\u0440\u0430\u0433\u043e\u0441\u0430"
     ],
     "name:und_x_variant":[
-        "Saragossa",
-        "Zaragosa",
-        "Zaragoza"
+        "Zaragosa"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u0642\u0633\u0637\u06c1"
@@ -374,7 +376,7 @@
         }
     ],
     "wof:id":1243525691,
-    "wof:lastmodified":1564179445,
+    "wof:lastmodified":1566682380,
     "wof:name":"Zaragoza",
     "wof:parent_id":890453965,
     "wof:placetype":"locality",

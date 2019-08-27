@@ -11,14 +11,18 @@
     "geom:longitude":125.9308,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3335,
+    "gn:population":3335,
     "iso:country":"PH",
+    "lbl:bbox":"125.9108,8.0484,125.9508,8.0884",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Sinubong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sinobong"
     ],
     "qs:name":"Sinubong",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1686170,
-        "qs:id":86552
+        "qs_pg:id":86552
     },
     "wof:country":"PH",
     "wof:created":1469052738,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890450435,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682215,
     "wof:name":"Sinubong",
     "wof:parent_id":1108699845,
     "wof:placetype":"locality",

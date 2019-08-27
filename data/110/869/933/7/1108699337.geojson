@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.835402,
     "lbl:longitude":122.528912,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ILOILO",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"SANTA BARBARAILOILO",
@@ -32,6 +34,7 @@
     "mps:longitude":122.528912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -144,7 +147,7 @@
         "Santa Barbara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1108699337,
-    "wof:lastmodified":1564177103,
+    "wof:lastmodified":1566681205,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

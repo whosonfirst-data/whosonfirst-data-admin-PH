@@ -10,8 +10,12 @@
     "geom:latitude":11.81806,
     "geom:longitude":124.84306,
     "iso:country":"PH",
+    "lbl:bbox":"124.82306,11.79806,124.86306,11.83806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Silanga"
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1686545,
         "gp:id":1199842,
-        "qs:id":1294975
+        "qs_pg:id":1294975
     },
     "wof:country":"PH",
     "wof:created":1459010015,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421200211,
-    "wof:lastmodified":1564178459,
+    "wof:lastmodified":1566681854,
     "wof:name":"Silanga",
     "wof:parent_id":1108697329,
     "wof:placetype":"locality",

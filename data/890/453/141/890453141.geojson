@@ -11,14 +11,18 @@
     "geom:longitude":126.42118,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2557,
+    "gn:population":2557,
     "iso:country":"PH",
+    "lbl:bbox":"126.40118,6.9896,126.44118,7.0296",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lukatan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lucatan"
     ],
     "qs:name":"Lukatan",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1705372,
-        "qs:id":1032613
+        "qs_pg:id":1032613
     },
     "wof:country":"PH",
     "wof:created":1469052842,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890453141,
-    "wof:lastmodified":1505343649,
+    "wof:lastmodified":1566682032,
     "wof:name":"Lukatan",
     "wof:parent_id":1108699701,
     "wof:placetype":"locality",

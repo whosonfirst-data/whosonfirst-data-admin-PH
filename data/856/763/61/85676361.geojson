@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":14.877148,
     "lbl:longitude":120.303915,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Olongapo",
     "mps:latitude":14.874289,
     "mps:longitude":120.306515,
@@ -225,7 +226,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4702,
     "wof:belongsto":[
         102191569,
@@ -262,7 +263,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326779,
+    "wof:lastmodified":1566679668,
     "wof:name":"Olongapo",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

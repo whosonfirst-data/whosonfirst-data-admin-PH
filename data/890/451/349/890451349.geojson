@@ -11,14 +11,18 @@
     "geom:longitude":123.1612,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4010,
+    "gn:population":4010,
     "iso:country":"PH",
+    "lbl:bbox":"123.1412,13.6041,123.1812,13.6441",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Dugcal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dugkal"
     ],
     "qs:name":"Dugcal",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1714301,
         "gp:id":1190610,
-        "qs:id":87860
+        "qs_pg:id":87860
     },
     "wof:country":"PH",
     "wof:created":1469052775,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890451349,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682127,
     "wof:name":"Dugcal",
     "wof:parent_id":1108697237,
     "wof:placetype":"locality",

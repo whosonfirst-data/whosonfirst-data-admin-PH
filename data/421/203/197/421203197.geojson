@@ -10,10 +10,14 @@
     "geom:latitude":14.46306,
     "geom:longitude":121.05472,
     "iso:country":"PH",
+    "lbl:bbox":"121.03472,14.44306,121.07472,14.48306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sukat"
     ],
     "qs:gn_country":"PH",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1685442,
         "gp:id":1194137,
-        "qs:id":229908
+        "qs_pg:id":229908
     },
     "wof:country":"PH",
     "wof:created":1459010143,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421203197,
-    "wof:lastmodified":1501221489,
+    "wof:lastmodified":1566681808,
     "wof:name":"Sucat",
     "wof:parent_id":1108698627,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.209529,
     "lbl:longitude":125.886798,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SURIGAO DEL SUR",
     "meso:admin_1r":"CARAGA",
     "meso:diss_me":"MADRIDSURIGAO DEL SUR",
@@ -32,6 +34,7 @@
     "mps:longitude":125.886798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:abk_x_preferred":[
         "\u041ca\u0434\u0440\u0438\u0434"
     ],
@@ -687,7 +690,7 @@
         "\u9a6c\u5fb7\u91cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -707,7 +710,7 @@
         }
     ],
     "wof:id":1108698225,
-    "wof:lastmodified":1564177157,
+    "wof:lastmodified":1566681224,
     "wof:name":"Madrid",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

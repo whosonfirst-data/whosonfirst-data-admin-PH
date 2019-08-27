@@ -10,8 +10,12 @@
     "geom:latitude":13.8049,
     "geom:longitude":123.8536,
     "iso:country":"PH",
+    "lbl:bbox":"123.8336,13.7849,123.8736,13.8249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Bikal"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1725322,
         "gp:id":1198911,
-        "qs:id":1205851
+        "qs_pg:id":1205851
     },
     "wof:country":"PH",
     "wof:created":1459009851,
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421195533,
-    "wof:lastmodified":1564178420,
+    "wof:lastmodified":1566681791,
     "wof:name":"Bikal",
     "wof:parent_id":1108697273,
     "wof:placetype":"locality",

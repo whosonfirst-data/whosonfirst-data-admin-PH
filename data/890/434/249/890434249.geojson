@@ -11,17 +11,18 @@
     "geom:longitude":120.4094,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4098,
+    "gn:population":4098,
     "iso:country":"PH",
+    "lbl:bbox":"120.3894,15.98865,120.4294,16.02865",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malanay"
     ],
     "name:fil_x_variant":[
-        "Malunay"
-    ],
-    "name:unk_x_variant":[
         "Malunay"
     ],
     "qs:name":"Malanay",
@@ -38,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1703119,
-        "qs:id":134970
+        "qs_pg:id":134970
     },
     "wof:country":"PH",
     "wof:created":1469052017,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":890434249,
-    "wof:lastmodified":1505343540,
+    "wof:lastmodified":1566682157,
     "wof:name":"Malanay",
     "wof:parent_id":1108699339,
     "wof:placetype":"locality",

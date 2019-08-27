@@ -11,10 +11,14 @@
     "geom:longitude":124.09981,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2989,
+    "gn:population":2989,
     "iso:country":"PH",
+    "lbl:bbox":"124.07981,6.63984,124.11981,6.67984",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "Nole"
     ],
@@ -108,7 +112,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nuling"
     ],
     "name:uzb_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":1697439,
         "gp:id":1185006,
-        "qs:id":134730,
+        "qs_pg:id":134730,
         "wk:page":"Nole"
     },
     "wof:country":"PH",
@@ -155,7 +159,7 @@
         }
     ],
     "wof:id":890437809,
-    "wof:lastmodified":1564178624,
+    "wof:lastmodified":1566681956,
     "wof:name":"Noling",
     "wof:parent_id":1108698037,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.47139,
     "geom:longitude":125.51056,
     "iso:country":"PH",
+    "lbl:bbox":"125.49056,11.45139,125.53056,11.49139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Balangkayan"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1728493,
         "gp:id":1160995,
-        "qs:id":944226,
+        "qs_pg:id":944226,
         "wd:id":"Q313914",
         "wk:page":"Balangkayan, Eastern Samar"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421182725,
-    "wof:lastmodified":1561778725,
+    "wof:lastmodified":1566681878,
     "wof:name":"Balangkayan",
     "wof:parent_id":85676191,
     "wof:placetype":"locality",

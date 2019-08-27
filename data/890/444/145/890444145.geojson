@@ -11,10 +11,14 @@
     "geom:longitude":123.74361,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3658,
+    "gn:population":3658,
     "iso:country":"PH",
+    "lbl:bbox":"123.72361,12.23324,123.76361,12.27324",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:abk_x_preferred":[
         "\u0415\u0440\u043c\u0430\u043d\u0442\u04d9\u044b\u043b\u0430"
     ],
@@ -675,7 +679,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0440\u043c\u0435\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arminia"
     ],
     "name:urd_x_preferred":[
@@ -744,7 +748,7 @@
     "wof:concordances":{
         "gn:id":1730159,
         "gp:id":1159710,
-        "qs:id":1033059,
+        "qs_pg:id":1033059,
         "wk:page":"Armenia"
     },
     "wof:country":"PH",
@@ -760,7 +764,7 @@
         }
     ],
     "wof:id":890444145,
-    "wof:lastmodified":1564178808,
+    "wof:lastmodified":1566682052,
     "wof:name":"Armenia",
     "wof:parent_id":1108699829,
     "wof:placetype":"locality",

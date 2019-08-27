@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.63083,15.26456,120.67083,15.30456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fil_x_preferred":[
         "San Nicolas Balas"
     ],
@@ -34,12 +38,6 @@
         "San Nicolas",
         "Bales",
         "Balas"
-    ],
-    "name:und_x_variant":[
-        "Bales",
-        "San Nicolas",
-        "Balas",
-        "San Nicolas Balas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +62,7 @@
         }
     ],
     "wof:id":1344268461,
-    "wof:lastmodified":1537677497,
+    "wof:lastmodified":1566679586,
     "wof:name":"San Nicolas Balas",
     "wof:parent_id":1108697379,
     "wof:placetype":"locality",

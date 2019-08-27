@@ -11,10 +11,14 @@
     "geom:longitude":121.2733,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7587,
+    "gn:population":7587,
     "iso:country":"PH",
+    "lbl:bbox":"121.2533,14.1234,121.2933,14.1634",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0633\u0627\u064a\u0627"
     ],
@@ -123,7 +127,7 @@
     "wof:concordances":{
         "gn:id":1700724,
         "gp:id":1172643,
-        "qs:id":87259,
+        "qs_pg:id":87259,
         "wk:page":"Masaya"
     },
     "wof:country":"PH",
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":890450953,
-    "wof:lastmodified":1564179030,
+    "wof:lastmodified":1566682186,
     "wof:name":"Masaya",
     "wof:parent_id":1108696979,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":122.22028,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3508,
+    "gn:population":3508,
     "iso:country":"PH",
+    "lbl:bbox":"122.20028,7.16028,122.24028,7.20028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Quiniput"
     ],
     "qs:name":"Quinipot",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1692032,
         "gp:id":1189063,
-        "qs:id":86900
+        "qs_pg:id":86900
     },
     "wof:country":"PH",
     "wof:created":1469052751,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450717,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682217,
     "wof:name":"Quinipot",
     "wof:parent_id":1108699889,
     "wof:placetype":"locality",

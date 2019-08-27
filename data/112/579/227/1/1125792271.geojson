@@ -9,20 +9,23 @@
     "geom:bbox":"122.03941,11.86338,122.03941,11.86338",
     "geom:latitude":11.86338,
     "geom:longitude":122.03941,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6919,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":6919,
     "iso:country":"PH",
+    "lbl:bbox":"122.01941,11.84338,122.05941,11.88338",
     "lbl:latitude":11.86338,
     "lbl:longitude":122.03941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Gibong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hibung"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":135332,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125792271,
-    "wof:lastmodified":1509392417,
+    "wof:lastmodified":1566682292,
     "wof:name":"Gibong",
     "wof:parent_id":1108698529,
     "wof:placetype":"locality",

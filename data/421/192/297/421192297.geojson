@@ -10,8 +10,12 @@
     "geom:latitude":8.26667,
     "geom:longitude":123.1,
     "iso:country":"PH",
+    "lbl:bbox":"123.08,8.24667,123.12,8.28667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Siayan"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1686858,
         "gp:id":56121349,
-        "qs:id":79015,
+        "qs_pg:id":79015,
         "wd:id":"Q132594"
     },
     "wof:country":"PH",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421192297,
-    "wof:lastmodified":1563331353,
+    "wof:lastmodified":1566681791,
     "wof:name":"Siayan",
     "wof:parent_id":1108699467,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":123.703,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4061,
+    "gn:population":4061,
     "iso:country":"PH",
+    "lbl:bbox":"123.683,13.0548,123.723,13.0948",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Aanislag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anistag"
     ],
     "qs:name":"Aanislag",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1730632,
         "gp:id":1191776,
-        "qs:id":277430
+        "qs_pg:id":277430
     },
     "wof:country":"PH",
     "wof:created":1469051923,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890431981,
-    "wof:lastmodified":1505343527,
+    "wof:lastmodified":1566682007,
     "wof:name":"Aanislag",
     "wof:parent_id":1108697449,
     "wof:placetype":"locality",

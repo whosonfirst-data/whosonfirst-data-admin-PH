@@ -10,8 +10,12 @@
     "geom:latitude":10.8925,
     "geom:longitude":124.95583,
     "iso:country":"PH",
+    "lbl:bbox":"124.93583,10.8725,124.97583,10.9125",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "La Paz"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1707336,
         "gp:id":1176886,
-        "qs:id":427056,
+        "qs_pg:id":427056,
         "wd:id":"Q213144",
         "wk:page":"La Paz, Leyte"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421194469,
-    "wof:lastmodified":1563331375,
+    "wof:lastmodified":1566681796,
     "wof:name":"La Paz",
     "wof:parent_id":1108698007,
     "wof:placetype":"locality",

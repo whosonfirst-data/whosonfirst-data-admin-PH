@@ -10,8 +10,12 @@
     "geom:latitude":10.8807,
     "geom:longitude":123.4178,
     "iso:country":"PH",
+    "lbl:bbox":"123.3978,10.8607,123.4378,10.9007",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Propinsi Rizal"
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":1691654,
         "gp:id":1199690,
-        "qs:id":256828
+        "qs_pg:id":256828
     },
     "wof:country":"PH",
     "wof:created":1459008866,
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":421170731,
-    "wof:lastmodified":1564178468,
+    "wof:lastmodified":1566681860,
     "wof:name":"Rizal",
     "wof:parent_id":1108699073,
     "wof:placetype":"locality",

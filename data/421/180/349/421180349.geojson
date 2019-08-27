@@ -10,8 +10,12 @@
     "geom:latitude":14.363737,
     "geom:longitude":121.055946,
     "iso:country":"PH",
+    "lbl:bbox":"121.035946,14.343737,121.075946,14.383737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0646\u0644\u0648\u0628\u0627"
@@ -179,7 +183,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1183804,
-        "qs:id":427143,
+        "qs_pg:id":427143,
         "wd:id":"Q17176"
     },
     "wof:country":"PH",
@@ -195,7 +199,7 @@
         }
     ],
     "wof:id":421180349,
-    "wof:lastmodified":1563331487,
+    "wof:lastmodified":1566681821,
     "wof:name":"Muntinglupa",
     "wof:parent_id":1108698627,
     "wof:placetype":"locality",

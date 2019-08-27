@@ -10,8 +10,12 @@
     "geom:latitude":8.01722,
     "geom:longitude":123.84806,
     "iso:country":"PH",
+    "lbl:bbox":"123.82806,7.99722,123.86806,8.03722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pualas"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1692730,
         "gp:id":1188530,
-        "qs:id":1294648,
+        "qs_pg:id":1294648,
         "wd:id":"Q274047"
     },
     "wof:country":"PH",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421200169,
-    "wof:lastmodified":1563331629,
+    "wof:lastmodified":1566681854,
     "wof:name":"Pualas",
     "wof:parent_id":1108699783,
     "wof:placetype":"locality",

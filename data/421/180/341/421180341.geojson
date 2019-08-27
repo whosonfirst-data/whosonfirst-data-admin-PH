@@ -10,8 +10,12 @@
     "geom:latitude":14.91639,
     "geom:longitude":120.76583,
     "iso:country":"PH",
+    "lbl:bbox":"120.74583,14.89639,120.78583,14.93639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Calumpit"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":1720034,
         "gp:id":1167796,
-        "qs:id":427043,
+        "qs_pg:id":427043,
         "wd:id":"Q54564",
         "wk:page":"Calumpit, Bulacan"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421180341,
-    "wof:lastmodified":1563331487,
+    "wof:lastmodified":1566681821,
     "wof:name":"Calumpit",
     "wof:parent_id":1108696693,
     "wof:placetype":"locality",

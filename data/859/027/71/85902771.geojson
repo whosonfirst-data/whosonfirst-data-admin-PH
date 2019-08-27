@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000538,
-    "geom:area_square_m":6437386.049271,
+    "geom:area_square_m":6437386.049273,
     "geom:bbox":"120.997924805,14.5490255566,121.026388035,14.5782672092",
     "geom:latitude":14.565442,
     "geom:longitude":121.013495,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PH",
+    "gn:fcode":"PPLX",
     "gn:latitude":14.56667,
     "gn:longitude":121.01667,
+    "gn:population":0,
     "iso:country":"PH",
     "lbl:latitude":14.560202,
     "lbl:longitude":121.020032,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.565267,
     "mps:longitude":121.014911,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Bel-Air Two"
     ],
     "name:fil_x_preferred":[
-        "Bel-Air Two"
-    ],
-    "name:unk_x_variant":[
         "Bel-Air Two"
     ],
     "qs:gn_adm0_cc":"PH",
@@ -83,7 +81,7 @@
     "qs_pg:woe_id":1163331,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         1159397257,
@@ -94,7 +92,6 @@
     "wof:concordances":{
         "gn:id":1725624,
         "gp:id":1163331,
-        "qs:id":492699,
         "qs_pg:id":492699
     },
     "wof:country":"PH",
@@ -112,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379404,
+    "wof:lastmodified":1566679667,
     "wof:name":"Bel-Air Two",
     "wof:parent_id":1159397257,
     "wof:placetype":"neighbourhood",

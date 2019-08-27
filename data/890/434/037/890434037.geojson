@@ -11,14 +11,18 @@
     "geom:longitude":123.4445,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2289,
+    "gn:population":2289,
     "iso:country":"PH",
+    "lbl:bbox":"123.4245,10.50166,123.4645,10.54166",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Hacienda Refugio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Refugio"
     ],
     "qs:name":"Hacienda Refugio",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1691779,
         "gp:id":1193921,
-        "qs:id":134472
+        "qs_pg:id":134472
     },
     "wof:country":"PH",
     "wof:created":1469052007,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890434037,
-    "wof:lastmodified":1505343539,
+    "wof:lastmodified":1566682148,
     "wof:name":"Hacienda Refugio",
     "wof:parent_id":1108697215,
     "wof:placetype":"locality",

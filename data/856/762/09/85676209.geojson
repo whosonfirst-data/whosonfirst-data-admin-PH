@@ -20,6 +20,7 @@
     ],
     "lbl:latitude":12.380181,
     "lbl:longitude":124.812769,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Northern Samar",
     "mps:latitude":12.376997,
     "mps:longitude":124.819583,
@@ -175,7 +176,7 @@
         "Norra Samar"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bca\u0bb0\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd  \u0b9a\u0bbe\u0bae\u0bb0\u0bcd"
+        "\u0ba8\u0bca\u0bb0\u0bcd\u0ba4\u0bc7\u0bb0\u0bcd\u0ba8\u0bcd \u0b9a\u0bbe\u0bae\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c38\u0c2e\u0c30\u0c4d"
@@ -198,7 +199,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u0421\u0430\u043c\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samar del Norte"
     ],
     "name:urd_x_preferred":[
@@ -296,9 +297,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"3,499",
     "statoids:area_mi":"1,351",
     "statoids:as_of_date":"2010-05-01",
@@ -325,7 +326,7 @@
         "gp:id":2346720,
         "hasc:id":"PH.NS",
         "iso:id":"PH-NSA",
-        "qs:id":900737,
+        "qs_pg:id":900737,
         "unlc:id":"PH-NSA",
         "wd:id":"Q13864",
         "wk:page":"Northern Samar"
@@ -340,9 +341,6 @@
         }
     ],
     "wof:id":85676209,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -358,11 +356,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326803,
+    "wof:lastmodified":1566679672,
     "wof:name":"Northern Samar",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":589013,
     "wof:population_rank":11,

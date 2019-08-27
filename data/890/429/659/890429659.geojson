@@ -11,7 +11,7 @@
     "geom:longitude":123.772833,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":120335,
+    "gn:population":120335,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Ozamis Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":8.14287,
     "lbl:longitude":123.780611,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MISAMIS OCCIDENTAL",
     "meso:admin_1r":"NORTHERN MINDANAO REGION",
     "meso:diss_me":"OZAMIS CITYMISAMIS OCCIDENTAL",
@@ -35,13 +37,14 @@
     "mps:longitude":123.780611,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dakbayan sa Ozamis"
     ],
     "name:fil_x_preferred":[
         "Lungsod ng Ozamis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Misamis"
     ],
     "qs:name":"Ozamis City",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -62,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1696898,
-        "qs:id":87108
+        "qs_pg:id":87108
     },
     "wof:country":"PH",
     "wof:created":1469051824,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890429659,
-    "wof:lastmodified":1555220349,
+    "wof:lastmodified":1566682084,
     "wof:name":"Ozamis City",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

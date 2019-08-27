@@ -11,11 +11,15 @@
     "geom:longitude":123.4187,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2494,
+    "gn:population":2494,
     "iso:country":"PH",
+    "lbl:bbox":"123.3987,7.7335,123.4387,7.7735",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Robokon"
     ],
     "qs:name":"Robonkon",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1691806,
         "gp:id":28345173,
-        "qs:id":276930
+        "qs_pg:id":276930
     },
     "wof:country":"PH",
     "wof:created":1469051901,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431655,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566682002,
     "wof:name":"Robonkon",
     "wof:parent_id":1108697537,
     "wof:placetype":"locality",

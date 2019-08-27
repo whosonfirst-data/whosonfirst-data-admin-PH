@@ -11,10 +11,14 @@
     "geom:longitude":120.89206,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4358,
+    "gn:population":4358,
     "iso:country":"PH",
+    "lbl:bbox":"120.87206,13.97804,120.91206,14.01804",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Payapa"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1694199,
-        "qs:id":134585
+        "qs_pg:id":134585
     },
     "wof:country":"PH",
     "wof:created":1469052011,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890434109,
-    "wof:lastmodified":1505343539,
+    "wof:lastmodified":1566682153,
     "wof:name":"Payapa",
     "wof:parent_id":1108698045,
     "wof:placetype":"locality",

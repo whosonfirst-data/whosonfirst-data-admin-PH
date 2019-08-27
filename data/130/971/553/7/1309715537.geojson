@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.7252,16.9188,120.7652,16.9588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dinwedee East"
     ],
@@ -35,10 +39,6 @@
     ],
     "name:fil_x_variant":[
         "Dinwiddie"
-    ],
-    "name:und_x_variant":[
-        "Dinwiddie",
-        "Dinwide"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1309715537,
-    "wof:lastmodified":1537678229,
+    "wof:lastmodified":1566681724,
     "wof:name":"Dinwedee East",
     "wof:parent_id":1108697349,
     "wof:placetype":"locality",

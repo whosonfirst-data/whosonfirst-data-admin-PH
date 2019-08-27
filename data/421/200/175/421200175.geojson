@@ -10,8 +10,12 @@
     "geom:latitude":8.452,
     "geom:longitude":123.0222,
     "iso:country":"PH",
+    "lbl:bbox":"123.0022,8.432,123.0422,8.472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Jose Dalman"
@@ -58,9 +62,6 @@
     "name:tgl_x_preferred":[
         "Jose Dalman"
     ],
-    "name:unk_x_variant":[
-        "Jose Dalman"
-    ],
     "name:vie_x_preferred":[
         "Jose Dalman"
     ],
@@ -97,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1692989,
         "gp:id":1188341,
-        "qs:id":1294650,
+        "qs_pg:id":1294650,
         "wd:id":"Q132520",
         "wk:page":"Jose Dalman, Zamboanga del Norte"
     },
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":421200175,
-    "wof:lastmodified":1563331637,
+    "wof:lastmodified":1566681856,
     "wof:name":"Ponot",
     "wof:parent_id":1108697843,
     "wof:placetype":"locality",

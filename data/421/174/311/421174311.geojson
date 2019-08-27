@@ -10,8 +10,12 @@
     "geom:latitude":12.25186,
     "geom:longitude":121.11251,
     "iso:country":"PH",
+    "lbl:bbox":"121.09251,12.23186,121.13251,12.27186",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09be"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Santa Teresa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lalawigan"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1687860,
         "gp:id":1199812,
-        "qs:id":779482
+        "qs_pg:id":779482
     },
     "wof:country":"PH",
     "wof:created":1459009027,
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421174311,
-    "wof:lastmodified":1564178443,
+    "wof:lastmodified":1566681820,
     "wof:name":"Santa Teresa",
     "wof:parent_id":1108698253,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.95806,
     "geom:longitude":120.91778,
     "iso:country":"PH",
+    "lbl:bbox":"120.89778,14.93806,120.93778,14.97806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Bustos"
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":1722267,
         "gp:id":1166028,
-        "qs:id":235140,
+        "qs_pg:id":235140,
         "wd:id":"Q54560",
         "wk:page":"Bustos, Bulacan"
     },
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":421203791,
-    "wof:lastmodified":1563331427,
+    "wof:lastmodified":1566681807,
     "wof:name":"Bustos",
     "wof:parent_id":1108698593,
     "wof:placetype":"locality",

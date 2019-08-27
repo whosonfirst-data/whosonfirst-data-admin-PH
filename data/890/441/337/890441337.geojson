@@ -11,10 +11,14 @@
     "geom:longitude":121.87125,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4533,
+    "gn:population":4533,
     "iso:country":"PH",
+    "lbl:bbox":"121.85125,17.87269,121.89125,17.91269",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "San Jose"
     ],
@@ -217,7 +221,7 @@
     "wof:concordances":{
         "gn:id":1689413,
         "gp:id":1190933,
-        "qs:id":276892,
+        "qs_pg:id":276892,
         "wk:page":"San Jos\u00e9"
     },
     "wof:country":"PH",
@@ -233,7 +237,7 @@
         }
     ],
     "wof:id":890441337,
-    "wof:lastmodified":1564178504,
+    "wof:lastmodified":1566681898,
     "wof:name":"San Jose",
     "wof:parent_id":1108696785,
     "wof:placetype":"locality",

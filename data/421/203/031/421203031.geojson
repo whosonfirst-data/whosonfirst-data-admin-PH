@@ -10,8 +10,12 @@
     "geom:latitude":11.55778,
     "geom:longitude":122.79417,
     "iso:country":"PH",
+    "lbl:bbox":"122.77417,11.53778,122.81417,11.57778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Panay"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "Panay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panay Town"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1695619,
         "gp:id":1199607,
-        "qs:id":229227,
+        "qs_pg:id":229227,
         "wd:id":"Q356204",
         "wk:page":"Panay, Capiz"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421203031,
-    "wof:lastmodified":1563331428,
+    "wof:lastmodified":1566681807,
     "wof:name":"Panay",
     "wof:parent_id":1108698771,
     "wof:placetype":"locality",

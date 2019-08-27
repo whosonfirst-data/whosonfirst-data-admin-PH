@@ -10,13 +10,17 @@
     "geom:latitude":9.996,
     "geom:longitude":118.7857,
     "iso:country":"PH",
+    "lbl:bbox":"118.7657,9.976,118.8057,10.016",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Baheli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bahile"
     ],
     "qs:gn_country":"PH",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1728823,
         "gp:id":1198831,
-        "qs:id":229228
+        "qs_pg:id":229228
     },
     "wof:country":"PH",
     "wof:created":1459010138,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421203035,
-    "wof:lastmodified":1505340779,
+    "wof:lastmodified":1566681808,
     "wof:name":"Baheli",
     "wof:parent_id":1108698977,
     "wof:placetype":"locality",

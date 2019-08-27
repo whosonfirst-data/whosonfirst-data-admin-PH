@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.165613,
     "lbl:longitude":121.286307,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"APAYAO",
     "meso:admin_1r":"CORDILLERA ADMIN REGION",
     "meso:diss_me":"PUDTOLAPAYAO",
@@ -32,6 +34,7 @@
     "mps:longitude":121.286307,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Pudtol"
     ],
@@ -84,7 +87,7 @@
         "Pudtol"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108698971,
-    "wof:lastmodified":1564177206,
+    "wof:lastmodified":1566681244,
     "wof:name":"Pudtol",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

@@ -11,14 +11,18 @@
     "geom:longitude":122.6972,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2889,
+    "gn:population":2889,
     "iso:country":"PH",
+    "lbl:bbox":"122.6772,11.4548,122.7172,11.4948",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Parion"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parian"
     ],
     "qs:name":"Parion",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1694687,
         "gp:id":1183291,
-        "qs:id":134614
+        "qs_pg:id":134614
     },
     "wof:country":"PH",
     "wof:created":1469051097,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415667,
-    "wof:lastmodified":1505343427,
+    "wof:lastmodified":1566681913,
     "wof:name":"Parion",
     "wof:parent_id":1108699487,
     "wof:placetype":"locality",

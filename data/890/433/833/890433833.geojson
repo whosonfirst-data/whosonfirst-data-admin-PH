@@ -11,10 +11,14 @@
     "geom:longitude":120.76333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2684,
+    "gn:population":2684,
     "iso:country":"PH",
+    "lbl:bbox":"120.74333,14.05063,120.78333,14.09063",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Toong"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1681428,
         "gp:id":1197168,
-        "qs:id":133986
+        "qs_pg:id":133986
     },
     "wof:country":"PH",
     "wof:created":1469051996,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433833,
-    "wof:lastmodified":1505343537,
+    "wof:lastmodified":1566682172,
     "wof:name":"Toong",
     "wof:parent_id":1108699815,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"PH",
     "lbl:latitude":14.593819,
     "lbl:longitude":120.992302,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:name_local":"Metro Manila",
     "mps:latitude":14.591406,
     "mps:longitude":120.990915,
@@ -282,7 +284,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wd",
     "wd:population":12877253,
     "wd:population_date":"2015-09-01",
@@ -325,7 +327,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563333173,
+    "wof:lastmodified":1566682321,
     "wof:name":"Manila",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

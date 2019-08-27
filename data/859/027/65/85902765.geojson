@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002044,
-    "geom:area_square_m":24460263.600143,
+    "geom:area_square_m":24460263.60017,
     "geom:bbox":"121.011657715,14.5018033085,121.08208252,14.5596593385",
     "geom:latitude":14.530246,
     "geom:longitude":121.045333,
@@ -14,6 +14,7 @@
     "iso:country":"PH",
     "lbl:latitude":14.547989,
     "lbl:longitude":121.036575,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.538587,
     "mps:longitude":121.037046,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Bel-Air Four"
-    ],
-    "name:unk_x_variant":[
         "Bel-Air Four"
     ],
     "qs:gn_adm0_cc":"PH",
@@ -57,7 +55,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         1159397257,
@@ -68,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1725627,
         "gp:id":1163328,
-        "qs:id":307606
+        "qs_pg:id":307606
     },
     "wof:country":"PH",
     "wof:geomhash":"8a3b388725274dd389e054421a793049",
@@ -85,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1533169690,
+    "wof:lastmodified":1566679667,
     "wof:name":"Bel-Air Four",
     "wof:parent_id":1159397257,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":121.12111,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5791,
+    "gn:population":5791,
     "iso:country":"PH",
+    "lbl:bbox":"121.10111,14.0975,121.14111,14.1375",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pantay"
     ],
     "qs:name":"Pantay Na Matanda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1694941,
         "gp:id":1186826,
-        "qs:id":276973
+        "qs_pg:id":276973
     },
     "wof:country":"PH",
     "wof:created":1469051904,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431703,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566681998,
     "wof:name":"Pantay Na Matanda",
     "wof:parent_id":1108699665,
     "wof:placetype":"locality",

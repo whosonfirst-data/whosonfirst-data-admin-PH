@@ -11,11 +11,15 @@
     "geom:longitude":124.91083,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4742,
+    "gn:population":4742,
     "iso:country":"PH",
+    "lbl:bbox":"124.89083,6.77583,124.93083,6.81583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bialong"
     ],
     "qs:name":"Bual",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1723726,
         "gp:id":91427602,
-        "qs:id":85931
+        "qs_pg:id":85931
     },
     "wof:country":"PH",
     "wof:created":1469051781,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890428929,
-    "wof:lastmodified":1505343509,
+    "wof:lastmodified":1566682045,
     "wof:name":"Bual",
     "wof:parent_id":1108697457,
     "wof:placetype":"locality",

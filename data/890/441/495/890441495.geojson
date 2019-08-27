@@ -11,10 +11,14 @@
     "geom:longitude":125.93368,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":15029,
+    "gn:population":15029,
     "iso:country":"PH",
+    "lbl:bbox":"125.83368,9.11612,126.03368,9.31612",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:abk_x_preferred":[
         "\u041ca\u0434\u0440\u0438\u0434"
     ],
@@ -687,7 +691,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1704130,
-        "qs:id":87414,
+        "qs_pg:id":87414,
         "wk:page":"Madrid"
     },
     "wof:country":"PH",
@@ -703,7 +707,7 @@
         }
     ],
     "wof:id":890441495,
-    "wof:lastmodified":1564178519,
+    "wof:lastmodified":1566681903,
     "wof:name":"Madrid",
     "wof:parent_id":1108698225,
     "wof:placetype":"localadmin",

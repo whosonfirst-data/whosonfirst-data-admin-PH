@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.49118,14.92315,120.53118,14.96315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -130,10 +134,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
-    "name:und_x_variant":[
-        "San Pedaro Primero",
-        "San Pedro Primero"
-    ],
     "name:war_x_preferred":[
         "San Pedro"
     ],
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":1209616411,
-    "wof:lastmodified":1564175779,
+    "wof:lastmodified":1566680653,
     "wof:name":"San Pedro",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",

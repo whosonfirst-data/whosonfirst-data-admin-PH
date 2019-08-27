@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":10.780624,
     "lbl:longitude":123.239615,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Negros Occidental",
     "mps:latitude":10.76372,
     "mps:longitude":123.253335,
@@ -188,7 +189,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u041d\u0435\u0433\u0440\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Occidental Negros"
     ],
     "name:urd_x_preferred":[
@@ -286,9 +287,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"7,926",
     "statoids:area_mi":"3,060",
     "statoids:as_of_date":"2010-05-01",
@@ -315,7 +316,7 @@
         "hasc:id":"PH.ND",
         "iso:id":"PH-NEC",
         "loc:id":"n84223199",
-        "qs:id":1171164,
+        "qs_pg:id":1171164,
         "unlc:id":"PH-NEC",
         "wd:id":"Q13862",
         "wk:page":"Negros Occidental"
@@ -330,9 +331,6 @@
         }
     ],
     "wof:id":85675951,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -348,11 +346,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326870,
+    "wof:lastmodified":1566679696,
     "wof:name":"Negros Occidental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2907859,
     "wof:population_rank":12,

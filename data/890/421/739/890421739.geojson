@@ -11,10 +11,14 @@
     "geom:longitude":121.23333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2380,
+    "gn:population":2380,
     "iso:country":"PH",
+    "lbl:bbox":"121.21333,16.46333,121.25333,16.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Buliwao"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1722851,
         "gp:id":1180125,
-        "qs:id":277337
+        "qs_pg:id":277337
     },
     "wof:country":"PH",
     "wof:created":1469051405,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890421739,
-    "wof:lastmodified":1505343465,
+    "wof:lastmodified":1566682034,
     "wof:name":"Buliwao",
     "wof:parent_id":1108698989,
     "wof:placetype":"locality",

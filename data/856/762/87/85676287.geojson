@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":10.357234,
     "lbl:longitude":123.938933,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Mandaue",
     "mps:latitude":10.35345,
     "mps:longitude":123.945353,
@@ -226,7 +227,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1836,
     "wof:belongsto":[
         102191569,
@@ -266,7 +267,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326798,
+    "wof:lastmodified":1566679672,
     "wof:name":"Mandaue",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

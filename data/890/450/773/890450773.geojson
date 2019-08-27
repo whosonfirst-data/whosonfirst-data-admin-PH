@@ -11,10 +11,14 @@
     "geom:longitude":123.44496,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":13249,
+    "gn:population":13249,
     "iso:country":"PH",
+    "lbl:bbox":"123.42496,13.00928,123.46496,13.04928",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Pio Duran"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1693396,
         "gp:id":1188016,
-        "qs:id":86964,
+        "qs_pg:id":86964,
         "wd:id":"Q256045"
     },
     "wof:country":"PH",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890450773,
-    "wof:lastmodified":1563332860,
+    "wof:lastmodified":1566682218,
     "wof:name":"Pio Duran",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

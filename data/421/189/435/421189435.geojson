@@ -10,8 +10,12 @@
     "geom:latitude":7.22525,
     "geom:longitude":124.249877,
     "iso:country":"PH",
+    "lbl:bbox":"124.229877,7.2052495,124.269877,7.2452495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0643\u0648\u062a\u0627\u0628\u0627\u062a\u0648"
@@ -53,7 +57,7 @@
         "\u0a95\u0acb\u0a9f\u0abe\u0aac\u0ac7\u0a9f\u0acb \u0ab6\u0ab9\u0ac7\u0ab0"
     ],
     "name:hin_x_preferred":[
-        "\u0915\u094b\u0924\u093e\u092c\u093e\u0924\u094b  \u0938\u093f\u091f\u0940"
+        "\u0915\u094b\u0924\u093e\u092c\u093e\u0924\u094b \u0938\u093f\u091f\u0940"
     ],
     "name:hun_x_preferred":[
         "Cotabato"
@@ -198,7 +202,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1199099,
-        "qs:id":1112750,
+        "qs_pg:id":1112750,
         "wd:id":"Q726993"
     },
     "wof:country":"PH",
@@ -214,7 +218,7 @@
         }
     ],
     "wof:id":421189435,
-    "wof:lastmodified":1563331518,
+    "wof:lastmodified":1566681829,
     "wof:name":"Cotabato City",
     "wof:parent_id":1108698663,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.99931,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":3211,
+    "gn:population":3211,
     "iso:country":"PH",
+    "lbl:bbox":"120.89931,18.43152,121.09931,18.63152",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Santa Praxedes"
     ],
@@ -63,7 +67,7 @@
     "name:tgl_x_preferred":[
         "Santa Praxedes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Langangan"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1687957,
-        "qs:id":86649,
+        "qs_pg:id":86649,
         "wd:id":"Q49339",
         "wk:page":"Santa Praxedes"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890421383,
-    "wof:lastmodified":1563332271,
+    "wof:lastmodified":1566682037,
     "wof:name":"Santa Praxedes",
     "wof:parent_id":1108697359,
     "wof:placetype":"localadmin",

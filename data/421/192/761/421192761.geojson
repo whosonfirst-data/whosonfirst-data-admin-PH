@@ -10,8 +10,12 @@
     "geom:latitude":10.4207,
     "geom:longitude":123.9931,
     "iso:country":"PH",
+    "lbl:bbox":"123.9731,10.4007,124.0131,10.4407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Ubay"
@@ -226,7 +230,7 @@
     "name:tgl_x_preferred":[
         "Ubay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hubay"
     ],
     "name:urd_x_preferred":[
@@ -295,9 +299,11 @@
     "wof:concordances":{
         "gn:id":1680475,
         "gp:id":1199962,
-        "qs:id":1175134,
         "qs_pg:id":846030,
         "wd:id":"Q406015"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1175134
     },
     "wof:country":"PH",
     "wof:created":1459009748,
@@ -312,7 +318,7 @@
         }
     ],
     "wof:id":421192761,
-    "wof:lastmodified":1563331351,
+    "wof:lastmodified":1566681790,
     "wof:name":"Ubay",
     "wof:parent_id":1108697369,
     "wof:placetype":"locality",

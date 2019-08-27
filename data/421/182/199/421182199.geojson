@@ -10,8 +10,12 @@
     "geom:latitude":13.87992,
     "geom:longitude":120.92311,
     "iso:country":"PH",
+    "lbl:bbox":"120.90311,13.85992,120.94311,13.89992",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Taal"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1685146,
         "gp:id":1199867,
-        "qs:id":894358,
+        "qs_pg:id":894358,
         "wd:id":"Q59814",
         "wk:page":"Taal, Batangas"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421182199,
-    "wof:lastmodified":1563331746,
+    "wof:lastmodified":1566681879,
     "wof:name":"Taal",
     "wof:parent_id":1108699579,
     "wof:placetype":"locality",

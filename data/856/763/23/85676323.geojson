@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":8.459395,
     "lbl:longitude":124.591899,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Cagayan de Oro",
     "mps:latitude":8.368262,
     "mps:longitude":124.543968,
@@ -153,7 +154,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":7511,
     "wof:belongsto":[
         102191569,
@@ -190,7 +191,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326788,
+    "wof:lastmodified":1566679670,
     "wof:name":"Cagayan de Oro",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

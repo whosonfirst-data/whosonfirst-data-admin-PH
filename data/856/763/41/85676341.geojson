@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":11.25006,
     "lbl:longitude":124.953073,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tacloban",
     "mps:latitude":11.240149,
     "mps:longitude":124.973731,
@@ -360,7 +361,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3830,
     "wof:belongsto":[
         102191569,
@@ -397,7 +398,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326787,
+    "wof:lastmodified":1566679669,
     "wof:name":"Tacloban",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

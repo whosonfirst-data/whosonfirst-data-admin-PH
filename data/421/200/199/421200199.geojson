@@ -10,8 +10,12 @@
     "geom:latitude":11.2976,
     "geom:longitude":124.5124,
     "iso:country":"PH",
+    "lbl:bbox":"124.4924,11.2776,124.5324,11.3176",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Consuegra"
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":1716915,
         "gp:id":1199093,
-        "qs:id":1294831
+        "qs_pg:id":1294831
     },
     "wof:country":"PH",
     "wof:created":1459010015,
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":421200199,
-    "wof:lastmodified":1564178462,
+    "wof:lastmodified":1566681857,
     "wof:name":"Consuegra",
     "wof:parent_id":1108698051,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.962358,
     "lbl:longitude":121.098871,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BATANGAS",
     "meso:admin_1r":"CALABARZON",
     "meso:diss_me":"MATAAS NA KAHOYBATANGAS",
@@ -32,8 +34,9 @@
     "mps:longitude":121.098871,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1108698423,
-    "wof:lastmodified":1555220400,
+    "wof:lastmodified":1566681123,
     "wof:name":"Mataas Na Kahoy",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

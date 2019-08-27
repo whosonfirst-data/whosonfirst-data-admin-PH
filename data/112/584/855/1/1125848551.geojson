@@ -9,15 +9,18 @@
     "geom:bbox":"120.4344,16.8034,120.4344,16.8034",
     "geom:latitude":16.8034,
     "geom:longitude":120.4344,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3193,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":3193,
     "iso:country":"PH",
+    "lbl:bbox":"120.4144,16.7834,120.4544,16.8234",
     "lbl:latitude":16.8034,
     "lbl:longitude":120.4344,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Butubut Norte"
@@ -26,9 +29,6 @@
         "Butubut",
         "Butubot Norte",
         "Butubat Norte"
-    ],
-    "name:unk_x_variant":[
-        "Butubut"
     ],
     "qs_pg:aaroncc":"PH",
     "qs_pg:gn_country":"PH",
@@ -42,7 +42,7 @@
     "qs_pg:qs_id":88164,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1125848551,
-    "wof:lastmodified":1509395784,
+    "wof:lastmodified":1566682315,
     "wof:name":"Butubut Norte",
     "wof:parent_id":1108696813,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.3252,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":2812,
+    "gn:population":2812,
     "iso:country":"PH",
+    "lbl:bbox":"123.3052,9.6325,123.3452,9.6725",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Malabuyoc"
     ],
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1703298,
         "gp:id":1180781,
-        "qs:id":371688,
+        "qs_pg:id":371688,
         "wd:id":"Q316101"
     },
     "wof:country":"PH",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890443011,
-    "wof:lastmodified":1563332405,
+    "wof:lastmodified":1566682073,
     "wof:name":"Malabuyoc",
     "wof:parent_id":1108698287,
     "wof:placetype":"locality",

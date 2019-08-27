@@ -11,10 +11,14 @@
     "geom:longitude":121.3385,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":11442,
+    "gn:population":11442,
     "iso:country":"PH",
+    "lbl:bbox":"121.3185,14.3771,121.3585,14.4171",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bre_x_preferred":[
         "Malezia"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1702949,
         "gp:id":1181020,
-        "qs:id":134958,
+        "qs_pg:id":134958,
         "wk:page":"Malaya"
     },
     "wof:country":"PH",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890421977,
-    "wof:lastmodified":1564178775,
+    "wof:lastmodified":1566682036,
     "wof:name":"Malaya",
     "wof:parent_id":1108698891,
     "wof:placetype":"locality",

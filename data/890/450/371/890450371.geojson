@@ -11,14 +11,18 @@
     "geom:longitude":123.8766,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2822,
+    "gn:population":2822,
     "iso:country":"PH",
+    "lbl:bbox":"123.8566,10.8312,123.8966,10.8712",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tabonok"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tabunok"
     ],
     "qs:name":"Tabonok",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1684765,
         "gp:id":1199878,
-        "qs:id":86504
+        "qs_pg:id":86504
     },
     "wof:country":"PH",
     "wof:created":1469052736,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450371,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682201,
     "wof:name":"Tabonok",
     "wof:parent_id":1108699593,
     "wof:placetype":"locality",

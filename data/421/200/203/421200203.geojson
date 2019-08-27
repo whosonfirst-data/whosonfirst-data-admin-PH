@@ -10,8 +10,12 @@
     "geom:latitude":7.5344,
     "geom:longitude":123.3738,
     "iso:country":"PH",
+    "lbl:bbox":"123.3538,7.5144,123.3938,7.5544",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Dimataling"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Dimataling"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dimatalin"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1714821,
         "gp:id":1199140,
-        "qs:id":1294840,
+        "qs_pg:id":1294840,
         "wd:id":"Q132057",
         "wk:page":"Dimataling, Zamboanga del Sur"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421200203,
-    "wof:lastmodified":1561778718,
+    "wof:lastmodified":1566681855,
     "wof:name":"Dimataling",
     "wof:parent_id":85675967,
     "wof:placetype":"locality",

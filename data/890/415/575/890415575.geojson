@@ -11,11 +11,15 @@
     "geom:longitude":122.21889,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3423,
+    "gn:population":3423,
     "iso:country":"PH",
+    "lbl:bbox":"122.19889,6.64361,122.23889,6.68361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Semmut"
     ],
     "qs:name":"Semut",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1686985,
         "gp:id":91422552,
-        "qs:id":134197
+        "qs_pg:id":134197
     },
     "wof:country":"PH",
     "wof:created":1469051094,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415575,
-    "wof:lastmodified":1505343427,
+    "wof:lastmodified":1566681917,
     "wof:name":"Semut",
     "wof:parent_id":1108699791,
     "wof:placetype":"locality",

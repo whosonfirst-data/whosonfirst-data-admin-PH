@@ -11,10 +11,14 @@
     "geom:longitude":122.58601,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4782,
+    "gn:population":4782,
     "iso:country":"PH",
+    "lbl:bbox":"122.56601,12.28744,122.60601,12.32744",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Taclobo"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1684706,
         "gp:id":1187716,
-        "qs:id":86500
+        "qs_pg:id":86500
     },
     "wof:country":"PH",
     "wof:created":1469052736,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450363,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682189,
     "wof:name":"Taclobo",
     "wof:parent_id":1108699159,
     "wof:placetype":"locality",

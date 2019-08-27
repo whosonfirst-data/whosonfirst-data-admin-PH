@@ -11,10 +11,14 @@
     "geom:longitude":124.8197,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3603,
+    "gn:population":3603,
     "iso:country":"PH",
+    "lbl:bbox":"124.7997,10.941,124.8397,10.981",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -132,7 +136,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1688774,
-        "qs:id":134303,
+        "qs_pg:id":134303,
         "wk:page":"San Pedro"
     },
     "wof:country":"PH",
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":890415637,
-    "wof:lastmodified":1564178566,
+    "wof:lastmodified":1566681928,
     "wof:name":"San Pedro",
     "wof:parent_id":1108697119,
     "wof:placetype":"locality",

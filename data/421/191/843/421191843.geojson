@@ -10,8 +10,12 @@
     "geom:latitude":14.5339,
     "geom:longitude":121.0739,
     "iso:country":"PH",
+    "lbl:bbox":"121.0539,14.5139,121.0939,14.5539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPL",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":1680154,
         "gp:id":1198168,
-        "qs:id":1158059
+        "qs_pg:id":1158059
     },
     "wof:country":"PH",
     "wof:created":1459009711,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421191843,
-    "wof:lastmodified":1533169690,
+    "wof:lastmodified":1566681845,
     "wof:name":"Ususan",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

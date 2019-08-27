@@ -11,11 +11,15 @@
     "geom:longitude":125.7782,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2338,
+    "gn:population":2338,
     "iso:country":"PH",
+    "lbl:bbox":"125.7582,7.3288,125.7982,7.3688",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Liboganon"
     ],
     "qs:name":"Libuganon",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1706557,
-        "qs:id":135070
+        "qs_pg:id":135070
     },
     "wof:country":"PH",
     "wof:created":1469052819,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890452499,
-    "wof:lastmodified":1505343645,
+    "wof:lastmodified":1566681964,
     "wof:name":"Libuganon",
     "wof:parent_id":1108699621,
     "wof:placetype":"locality",

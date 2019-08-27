@@ -11,14 +11,18 @@
     "geom:longitude":123.3898,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2601,
+    "gn:population":2601,
     "iso:country":"PH",
+    "lbl:bbox":"123.3698,13.3393,123.4098,13.3793",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Masoli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Masuli"
     ],
     "qs:name":"Masoli",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1700582,
         "gp:id":1182721,
-        "qs:id":134847
+        "qs_pg:id":134847
     },
     "wof:country":"PH",
     "wof:created":1469052016,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890434221,
-    "wof:lastmodified":1505343540,
+    "wof:lastmodified":1566682145,
     "wof:name":"Masoli",
     "wof:parent_id":1108696945,
     "wof:placetype":"locality",

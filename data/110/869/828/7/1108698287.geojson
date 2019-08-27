@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.667573,
     "lbl:longitude":123.361487,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CEBU",
     "meso:admin_1r":"CENTRAL VISAYAS REGION",
     "meso:diss_me":"MALABUYOCCEBU",
@@ -32,6 +34,7 @@
     "mps:longitude":123.361487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Malabuyoc"
     ],
@@ -75,7 +78,7 @@
         "Malabuyoc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108698287,
-    "wof:lastmodified":1564176872,
+    "wof:lastmodified":1566681127,
     "wof:name":"Malabuyoc",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

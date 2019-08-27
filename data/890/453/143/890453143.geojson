@@ -11,10 +11,14 @@
     "geom:longitude":120.39658,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2638,
+    "gn:population":2638,
     "iso:country":"PH",
+    "lbl:bbox":"120.37658,16.08734,120.41658,16.12734",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Longos"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1705702,
         "gp:id":1169790,
-        "qs:id":1032625,
+        "qs_pg:id":1032625,
         "wk:page":"Longos"
     },
     "wof:country":"PH",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890453143,
-    "wof:lastmodified":1564178763,
+    "wof:lastmodified":1566682029,
     "wof:name":"Longos",
     "wof:parent_id":1108699141,
     "wof:placetype":"locality",

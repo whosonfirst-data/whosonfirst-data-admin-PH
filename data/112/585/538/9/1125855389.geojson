@@ -9,15 +9,18 @@
     "geom:bbox":"122.95,10.66667,122.95,10.66667",
     "geom:latitude":10.66667,
     "geom:longitude":122.95,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLA2",
-    "gn:gn_pop":454898,
+    "gn:country":"PH",
+    "gn:fcode":"PPLA2",
     "gn:population":454898,
     "iso:country":"PH",
+    "lbl:bbox":"122.93,10.64667,122.97,10.68667",
     "lbl:latitude":10.66667,
     "lbl:longitude":122.95,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0648\u0644\u0648\u062f"
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u043e\u043b\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bacoloo City"
     ],
     "name:urd_x_preferred":[
@@ -223,7 +226,7 @@
     "qs_pg:qs_id":351008,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":1125855389,
-    "wof:lastmodified":1563333106,
+    "wof:lastmodified":1566682290,
     "wof:name":"Bacolod City",
     "wof:parent_id":1108696747,
     "wof:placetype":"locality",

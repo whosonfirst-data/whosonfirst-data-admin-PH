@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.088953,
     "lbl:longitude":125.708345,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"EASTERN SAMAR",
     "meso:admin_1r":"EASTERN VISAYAS REGION",
     "meso:diss_me":"MERCEDESEASTERN SAMAR",
@@ -32,6 +34,7 @@
     "mps:longitude":125.708345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Mercedes"
     ],
@@ -132,7 +135,7 @@
         "\u6885\u8d5b\u5fb7\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":1108698463,
-    "wof:lastmodified":1564177113,
+    "wof:lastmodified":1566681207,
     "wof:name":"Mercedes",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

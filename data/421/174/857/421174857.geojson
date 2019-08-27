@@ -10,8 +10,12 @@
     "geom:latitude":9.89361,
     "geom:longitude":123.82806,
     "iso:country":"PH",
+    "lbl:bbox":"123.80806,9.87361,123.84806,9.91361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u064a\u0633\u0627\u064a"
@@ -187,7 +191,7 @@
     "wof:concordances":{
         "gn:id":1683882,
         "gp:id":1199894,
-        "qs:id":901827,
+        "qs_pg:id":901827,
         "wd:id":"Q316500"
     },
     "wof:country":"PH",
@@ -200,7 +204,7 @@
         }
     ],
     "wof:id":421174857,
-    "wof:lastmodified":1563331467,
+    "wof:lastmodified":1566681817,
     "wof:name":"Talisay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

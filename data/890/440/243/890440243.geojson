@@ -11,14 +11,18 @@
     "geom:longitude":119.9553,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4599,
+    "gn:population":4599,
     "iso:country":"PH",
+    "lbl:bbox":"119.9353,15.4341,119.9753,15.4741",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Salaza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salasa"
     ],
     "qs:name":"Salaza",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1690920,
         "gp:id":1191292,
-        "qs:id":276924
+        "qs_pg:id":276924
     },
     "wof:country":"PH",
     "wof:created":1469052267,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890440243,
-    "wof:lastmodified":1505343575,
+    "wof:lastmodified":1566681884,
     "wof:name":"Salaza",
     "wof:parent_id":1108698743,
     "wof:placetype":"locality",

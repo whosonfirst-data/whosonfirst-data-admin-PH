@@ -11,10 +11,14 @@
     "geom:longitude":120.8852,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":10566,
+    "gn:population":10566,
     "iso:country":"PH",
+    "lbl:bbox":"120.8652,15.6235,120.9052,15.6635",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:fil_x_preferred":[
         "Baloc"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1727940,
         "gp:id":1165905,
-        "qs:id":277395
+        "qs_pg:id":277395
     },
     "wof:country":"PH",
     "wof:created":1469052067,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890435441,
-    "wof:lastmodified":1505343547,
+    "wof:lastmodified":1566682251,
     "wof:name":"Baloc",
     "wof:parent_id":1108699421,
     "wof:placetype":"locality",

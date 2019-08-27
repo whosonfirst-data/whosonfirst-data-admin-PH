@@ -11,10 +11,14 @@
     "geom:longitude":123.0407,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2501,
+    "gn:population":2501,
     "iso:country":"PH",
+    "lbl:bbox":"123.0207,13.5237,123.0607,13.5637",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bahay"
     ],
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1728837,
-        "qs:id":135910,
+        "qs_pg:id":135910,
         "wd:id":"Q23048106",
         "wk:page":"Bahay"
     },
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890416245,
-    "wof:lastmodified":1563332461,
+    "wof:lastmodified":1566682091,
     "wof:name":"Bahay",
     "wof:parent_id":1108698823,
     "wof:placetype":"locality",

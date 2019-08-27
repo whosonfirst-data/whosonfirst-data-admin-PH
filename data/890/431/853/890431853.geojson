@@ -11,10 +11,14 @@
     "geom:longitude":125.96972,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":4276,
+    "gn:population":4276,
     "iso:country":"PH",
+    "lbl:bbox":"125.94972,9.84944,125.98972,9.88944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Del Carmen"
     ],
@@ -72,7 +76,7 @@
     "name:tgl_x_preferred":[
         "Del Carmen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nomantag"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1715212,
         "gp:id":91422316,
-        "qs:id":277218,
+        "qs_pg:id":277218,
         "wd:id":"Q28735"
     },
     "wof:country":"PH",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890431853,
-    "wof:lastmodified":1563332152,
+    "wof:lastmodified":1566682002,
     "wof:name":"Del Carmen",
     "wof:parent_id":1108697467,
     "wof:placetype":"locality",

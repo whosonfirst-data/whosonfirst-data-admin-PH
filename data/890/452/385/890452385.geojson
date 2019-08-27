@@ -11,10 +11,14 @@
     "geom:longitude":123.158,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":39151,
+    "gn:population":39151,
     "iso:country":"PH",
+    "lbl:bbox":"123.138,9.4962,123.178,9.5362",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Tanjay"
     ],
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1683088,
         "gp:id":1199906,
-        "qs:id":134063,
+        "qs_pg:id":134063,
         "wd:id":"Q1020705",
         "wk:page":"Tanjay"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890452385,
-    "wof:lastmodified":1563332033,
+    "wof:lastmodified":1566681965,
     "wof:name":"Tanjay",
     "wof:parent_id":1108699681,
     "wof:placetype":"locality",

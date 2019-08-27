@@ -11,10 +11,14 @@
     "geom:longitude":122.72972,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2096,
+    "gn:population":2096,
     "iso:country":"PH",
+    "lbl:bbox":"122.70972,11.49361,122.74972,11.53361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bos_x_preferred":[
         "Lono"
     ],
@@ -60,7 +64,7 @@
     "name:spa_x_preferred":[
         "Lono"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lonoy"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1705679,
         "gp:id":28343646,
-        "qs:id":87482,
+        "qs_pg:id":87482,
         "wd:id":"Q650821",
         "wk:page":"Lono"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890451105,
-    "wof:lastmodified":1563332551,
+    "wof:lastmodified":1566682119,
     "wof:name":"Lono",
     "wof:parent_id":1108697797,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"121.017326566,14.5642799366,121.131520996,14.697224531",
     "geom:latitude":14.631988,
     "geom:longitude":121.078706,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PH",
+    "gn:fcode":"PPLX",
     "gn:latitude":14.61833,
     "gn:longitude":121.05917,
+    "gn:population":0,
     "iso:country":"PH",
     "lbl:latitude":14.628172,
     "lbl:longitude":121.056665,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.631202,
     "mps:longitude":121.077913,
     "mz:hierarchy_label":1,
@@ -46,9 +47,8 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0444\u0456"
     ],
-    "name:unk_x_variant":[
-        "Camp Murphy",
-        "Murphy"
+    "name:und_x_variant":[
+        "Camp Murphy"
     ],
     "qs:gn_adm0_cc":"PH",
     "qs:gn_fcode":"PPLX",
@@ -96,7 +96,7 @@
     "qs_pg:woe_id":1183824,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         1159397279,
@@ -107,7 +107,6 @@
     "wof:concordances":{
         "gn:id":1699046,
         "gp:id":1183824,
-        "qs:id":484767,
         "qs_pg:id":484767
     },
     "wof:country":"PH",
@@ -125,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564173684,
+    "wof:lastmodified":1566679667,
     "wof:name":"Murphy",
     "wof:parent_id":1159397279,
     "wof:placetype":"neighbourhood",

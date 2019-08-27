@@ -11,10 +11,14 @@
     "geom:longitude":123.3844,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":37444,
+    "gn:population":37444,
     "iso:country":"PH",
+    "lbl:bbox":"123.2844,8.3964,123.4844,8.5964",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Polanco"
     ],
@@ -63,9 +67,6 @@
     "name:tgl_x_preferred":[
         "Polanco"
     ],
-    "name:unk_x_variant":[
-        "Polanco"
-    ],
     "name:vie_x_preferred":[
         "Polanco"
     ],
@@ -87,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1693146,
-        "qs:id":558718,
+        "qs_pg:id":558718,
         "wd:id":"Q132574",
         "wk:page":"Polanco, Zamboanga del Norte"
     },
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":890455993,
-    "wof:lastmodified":1563332061,
+    "wof:lastmodified":1566681974,
     "wof:name":"Municipality of Polanco",
     "wof:parent_id":1108698925,
     "wof:placetype":"localadmin",

@@ -11,10 +11,14 @@
     "geom:longitude":124.31056,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2247,
+    "gn:population":2247,
     "iso:country":"PH",
+    "lbl:bbox":"124.29056,7.20889,124.33056,7.24889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pinaring"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1693529,
-        "qs:id":276957
+        "qs_pg:id":276957
     },
     "wof:country":"PH",
     "wof:created":1469052186,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890438253,
-    "wof:lastmodified":1505343564,
+    "wof:lastmodified":1566682019,
     "wof:name":"Pinaring",
     "wof:parent_id":1108699561,
     "wof:placetype":"locality",

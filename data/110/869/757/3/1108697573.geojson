@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.260543,
     "lbl:longitude":123.638391,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SIQUIJOR",
     "meso:admin_1r":"CENTRAL VISAYAS REGION",
     "meso:diss_me":"ENRIQUE VILLANUEVASIQUIJOR",
@@ -32,6 +34,7 @@
     "mps:longitude":123.638391,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Enrique Villanueva"
     ],
@@ -78,7 +81,7 @@
         "Enrique Villanueva"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108697573,
-    "wof:lastmodified":1564177086,
+    "wof:lastmodified":1566681201,
     "wof:name":"Enrique Villanueva",
     "wof:parent_id":85675947,
     "wof:placetype":"county",

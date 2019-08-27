@@ -10,8 +10,12 @@
     "geom:latitude":11.712754,
     "geom:longitude":122.363662,
     "iso:country":"PH",
+    "lbl:bbox":"122.343662,11.692754,122.383662,11.732754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Kalibo"
@@ -120,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1199277,
-        "qs:id":1083731,
+        "qs_pg:id":1083731,
         "wd:id":"Q626721"
     },
     "wof:country":"PH",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":421187653,
-    "wof:lastmodified":1563331502,
+    "wof:lastmodified":1566681825,
     "wof:name":"Kalibo",
     "wof:parent_id":1108698681,
     "wof:placetype":"locality",

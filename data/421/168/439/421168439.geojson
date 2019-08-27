@@ -10,13 +10,17 @@
     "geom:latitude":12.2188,
     "geom:longitude":125.4808,
     "iso:country":"PH",
+    "lbl:bbox":"125.4608,12.1988,125.5008,12.2388",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Alugan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alugon"
     ],
     "qs:gn_country":"PH",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1731248,
         "gp:id":1198774,
-        "qs:id":1294766
+        "qs_pg:id":1294766
     },
     "wof:country":"PH",
     "wof:created":1459008765,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421168439,
-    "wof:lastmodified":1505340590,
+    "wof:lastmodified":1566681786,
     "wof:name":"Alugan",
     "wof:parent_id":85676191,
     "wof:placetype":"locality",

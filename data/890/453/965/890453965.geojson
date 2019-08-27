@@ -11,7 +11,7 @@
     "geom:longitude":125.70011,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":126656,
+    "gn:population":126656,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Surigao Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":9.85492,
     "lbl:longitude":125.620372,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SURIGAO DEL NORTE",
     "meso:admin_1r":"CARAGA",
     "meso:diss_me":"NO DATASURIGAO DEL NORTE",
@@ -35,6 +37,7 @@
     "mps:longitude":125.620372,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0633\u0648\u0631\u064a\u062c\u0627\u0648"
     ],
@@ -158,9 +161,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0440\u0456\u0433\u0430\u043e-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Surigao"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u06af\u0627\u0624"
     ],
@@ -181,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":6336,
     "wof:belongsto":[
@@ -193,7 +193,7 @@
     "wof:concordances":{
         "gn:id":1685216,
         "gp:id":2346714,
-        "qs:id":86513,
+        "qs_pg:id":86513,
         "wd:id":"Q1019949",
         "wk:page":"Surigao City"
     },
@@ -209,7 +209,7 @@
         }
     ],
     "wof:id":890453965,
-    "wof:lastmodified":1563332239,
+    "wof:lastmodified":1566682027,
     "wof:name":"Surigao City",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

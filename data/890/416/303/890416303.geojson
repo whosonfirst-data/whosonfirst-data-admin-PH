@@ -11,10 +11,14 @@
     "geom:longitude":120.89433,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4943,
+    "gn:population":4943,
     "iso:country":"PH",
+    "lbl:bbox":"120.87433,15.29154,120.91433,15.33154",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Alua"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1731259,
         "gp:id":1161379,
-        "qs:id":136062
+        "qs_pg:id":136062
     },
     "wof:country":"PH",
     "wof:created":1469051128,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416303,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566682096,
     "wof:name":"Alua",
     "wof:parent_id":1108699187,
     "wof:placetype":"locality",

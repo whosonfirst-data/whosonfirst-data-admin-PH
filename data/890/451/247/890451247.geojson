@@ -11,14 +11,18 @@
     "geom:longitude":122.3822,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2072,
+    "gn:population":2072,
     "iso:country":"PH",
+    "lbl:bbox":"122.3622,11.593,122.4022,11.633",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tugas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jugas"
     ],
     "qs:name":"Tugas",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710064,
-        "qs:id":87669
+        "qs_pg:id":87669
     },
     "wof:country":"PH",
     "wof:created":1469052771,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890451247,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682132,
     "wof:name":"Tugas",
     "wof:parent_id":1108698577,
     "wof:placetype":"locality",

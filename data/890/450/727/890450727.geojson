@@ -11,11 +11,15 @@
     "geom:longitude":124.58333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2468,
+    "gn:population":2468,
     "iso:country":"PH",
+    "lbl:bbox":"124.56333,7.03,124.60333,7.07",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Punol"
     ],
     "qs:name":"Punolu",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1692444,
         "gp:id":1177471,
-        "qs:id":86920
+        "qs_pg:id":86920
     },
     "wof:country":"PH",
     "wof:created":1469052751,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450727,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682219,
     "wof:name":"Punolu",
     "wof:parent_id":1108698871,
     "wof:placetype":"locality",

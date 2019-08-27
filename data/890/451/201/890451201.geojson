@@ -11,11 +11,15 @@
     "geom:longitude":125.105,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2205,
+    "gn:population":2205,
     "iso:country":"PH",
+    "lbl:bbox":"125.085,7.55444,125.125,7.59444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kitubo"
     ],
     "qs:name":"Kitobo",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1708595,
-        "qs:id":87617
+        "qs_pg:id":87617
     },
     "wof:country":"PH",
     "wof:created":1469052768,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890451201,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682135,
     "wof:name":"Kitobo",
     "wof:parent_id":1108697929,
     "wof:placetype":"locality",

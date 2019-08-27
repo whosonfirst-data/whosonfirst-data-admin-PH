@@ -11,10 +11,14 @@
     "geom:longitude":123.08333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":30429,
+    "gn:population":30429,
     "iso:country":"PH",
+    "lbl:bbox":"122.98333,11.25,123.18333,11.45",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "San Dionisio"
     ],
@@ -51,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1690146,
-        "qs:id":86801,
+        "qs_pg:id":86801,
         "wk:page":"San Dionisio"
     },
     "wof:country":"PH",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890450629,
-    "wof:lastmodified":1564179050,
+    "wof:lastmodified":1566682193,
     "wof:name":"San Dionisio",
     "wof:parent_id":1108699129,
     "wof:placetype":"localadmin",

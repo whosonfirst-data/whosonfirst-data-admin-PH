@@ -10,8 +10,12 @@
     "geom:latitude":9.9175,
     "geom:longitude":123.60694,
     "iso:country":"PH",
+    "lbl:bbox":"123.58694,9.8975,123.62694,9.9375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Sibonga"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1686778,
         "gp:id":1193391,
-        "qs:id":287977,
+        "qs_pg:id":287977,
         "wd:id":"Q316404"
     },
     "wof:country":"PH",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421198003,
-    "wof:lastmodified":1561778715,
+    "wof:lastmodified":1566681840,
     "wof:name":"Sibonga",
     "wof:parent_id":1108696701,
     "wof:placetype":"locality",

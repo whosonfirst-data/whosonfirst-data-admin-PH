@@ -11,10 +11,14 @@
     "geom:longitude":118.4581,
     "gn:country":"PH",
     "gn:fcode":"LCTY",
-    "gn:pop":2270,
+    "gn:population":2270,
     "iso:country":"PH",
+    "lbl:bbox":"118.4381,9.33226,118.4781,9.37226",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malatgao"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1702994,
-        "qs:id":87354
+        "qs_pg:id":87354
     },
     "wof:country":"PH",
     "wof:created":1469052762,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890451033,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682135,
     "wof:name":"Malatgao",
     "wof:parent_id":1108697069,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.76667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":99009,
+    "gn:population":99009,
     "iso:country":"PH",
+    "lbl:bbox":"120.66667,15.56667,120.86667,15.76667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "qs:name":"Guimba",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1712491,
-        "qs:id":1027315
+        "qs_pg:id":1027315
     },
     "wof:country":"PH",
     "wof:created":1469052195,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890438443,
-    "wof:lastmodified":1505343565,
+    "wof:lastmodified":1566682017,
     "wof:name":"Guimba",
     "wof:parent_id":1108697683,
     "wof:placetype":"localadmin",

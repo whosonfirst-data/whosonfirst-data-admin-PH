@@ -13,6 +13,8 @@
     "iso:country":"PH",
     "lbl:latitude":14.594785,
     "lbl:longitude":121.043249,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:name_local":"San Juan",
     "mps:latitude":14.594785,
     "mps:longitude":121.043249,
@@ -182,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -221,7 +223,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1564179319,
+    "wof:lastmodified":1566682322,
     "wof:name":"San Juan",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

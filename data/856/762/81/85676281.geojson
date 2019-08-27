@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":10.346747,
     "lbl:longitude":123.877363,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Cebu",
     "mps:latitude":10.346798,
     "mps:longitude":123.877755,
@@ -323,7 +324,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":6722,
     "wof:belongsto":[
         102191569,
@@ -363,7 +364,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326801,
+    "wof:lastmodified":1566679672,
     "wof:name":"Cebu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

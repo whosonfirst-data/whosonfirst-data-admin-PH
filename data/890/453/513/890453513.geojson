@@ -11,14 +11,18 @@
     "geom:longitude":122.5616,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7680,
+    "gn:population":7680,
     "iso:country":"PH",
+    "lbl:bbox":"122.5416,9.4526,122.5816,9.4926",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Colipapa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kulipapa"
     ],
     "qs:name":"Colipapa",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1720257,
         "gp:id":1167632,
-        "qs:id":1032946
+        "qs_pg:id":1032946
     },
     "wof:country":"PH",
     "wof:created":1469052856,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890453513,
-    "wof:lastmodified":1505343651,
+    "wof:lastmodified":1566682032,
     "wof:name":"Colipapa",
     "wof:parent_id":1108697727,
     "wof:placetype":"locality",

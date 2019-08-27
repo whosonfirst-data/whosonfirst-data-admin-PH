@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.6127,17.4767,120.6527,17.5167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maoay South"
     ],
@@ -35,10 +39,6 @@
     ],
     "name:fil_x_variant":[
         "Maoay Sur"
-    ],
-    "name:und_x_variant":[
-        "Maoay Sur",
-        "Maoay South"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1292973563,
-    "wof:lastmodified":1537677852,
+    "wof:lastmodified":1566679978,
     "wof:name":"Maoay South",
     "wof:parent_id":1108696879,
     "wof:placetype":"locality",

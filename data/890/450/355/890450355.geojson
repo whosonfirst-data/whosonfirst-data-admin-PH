@@ -11,10 +11,14 @@
     "geom:longitude":122.8671,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6003,
+    "gn:population":6003,
     "iso:country":"PH",
+    "lbl:bbox":"122.8471,10.1054,122.8871,10.1454",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Talaban"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1684154,
         "gp:id":1195197,
-        "qs:id":86482
+        "qs_pg:id":86482
     },
     "wof:country":"PH",
     "wof:created":1469052736,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450355,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682189,
     "wof:name":"Talaban",
     "wof:parent_id":1108697713,
     "wof:placetype":"locality",

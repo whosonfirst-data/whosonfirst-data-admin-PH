@@ -11,10 +11,14 @@
     "geom:longitude":125.34083,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5068,
+    "gn:population":5068,
     "iso:country":"PH",
+    "lbl:bbox":"125.32083,7.45583,125.36083,7.49583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Simod"
     ],
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1979271,
-        "qs:id":137359,
+        "qs_pg:id":137359,
         "wd:id":"Q3961093",
         "wk:page":"Simod"
     },
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890434597,
-    "wof:lastmodified":1563332655,
+    "wof:lastmodified":1566682153,
     "wof:name":"Simod",
     "wof:parent_id":1108698611,
     "wof:placetype":"locality",

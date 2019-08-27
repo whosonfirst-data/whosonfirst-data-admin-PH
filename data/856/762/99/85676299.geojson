@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":10.735795,
     "lbl:longitude":122.532616,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Iloilo",
     "mps:latitude":10.739268,
     "mps:longitude":122.538054,
@@ -260,7 +261,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":4116,
     "wof:belongsto":[
         102191569,
@@ -300,7 +301,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326809,
+    "wof:lastmodified":1566679674,
     "wof:name":"Iloilo",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

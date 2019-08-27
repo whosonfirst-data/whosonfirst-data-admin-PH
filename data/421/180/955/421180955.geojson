@@ -10,8 +10,12 @@
     "geom:latitude":16.3219,
     "geom:longitude":120.3467,
     "iso:country":"PH",
+    "lbl:bbox":"120.3267,16.3019,120.3667,16.3419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Santa Barbara"
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":1688371,
         "gp:id":1192222,
-        "qs:id":468325,
+        "qs_pg:id":468325,
         "wd:id":"Q122401"
     },
     "wof:country":"PH",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421180955,
-    "wof:lastmodified":1563331486,
+    "wof:lastmodified":1566681820,
     "wof:name":"Santa Barbara",
     "wof:parent_id":1108696571,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":124.3532,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2693,
+    "gn:population":2693,
     "iso:country":"PH",
+    "lbl:bbox":"124.3332,9.6405,124.3732,9.6805",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Canjulao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanhulao"
     ],
     "qs:name":"Canjulao",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1719075,
         "gp:id":1158703,
-        "qs:id":135482
+        "qs_pg:id":135482
     },
     "wof:country":"PH",
     "wof:created":1469051118,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890416065,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566682092,
     "wof:name":"Canjulao",
     "wof:parent_id":1108697803,
     "wof:placetype":"locality",

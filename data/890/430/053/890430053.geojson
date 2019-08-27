@@ -11,10 +11,14 @@
     "geom:longitude":123.5769,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2198,
+    "gn:population":2198,
     "iso:country":"PH",
+    "lbl:bbox":"123.5569,13.2493,123.5969,13.2893",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Herrera"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1711817,
         "gp:id":1174073,
-        "qs:id":87749,
+        "qs_pg:id":87749,
         "wk:page":"Herrera"
     },
     "wof:country":"PH",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890430053,
-    "wof:lastmodified":1564178588,
+    "wof:lastmodified":1566681939,
     "wof:name":"Herrera",
     "wof:parent_id":1108698083,
     "wof:placetype":"locality",

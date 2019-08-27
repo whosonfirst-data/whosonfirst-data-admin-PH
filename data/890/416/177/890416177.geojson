@@ -11,10 +11,14 @@
     "geom:longitude":123.7566,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":14510,
+    "gn:population":14510,
     "iso:country":"PH",
+    "lbl:bbox":"123.7366,13.1793,123.7766,13.2193",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:fil_x_preferred":[
         "Bigaa"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1725397,
         "gp:id":1163541,
-        "qs:id":135706
+        "qs_pg:id":135706
     },
     "wof:country":"PH",
     "wof:created":1469051122,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416177,
-    "wof:lastmodified":1505343430,
+    "wof:lastmodified":1566682102,
     "wof:name":"Bigaa",
     "wof:parent_id":1108698043,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":16.88576,
     "geom:longitude":121.94143,
     "iso:country":"PH",
+    "lbl:bbox":"121.92143,16.86576,121.96143,16.90576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648"
@@ -201,7 +205,7 @@
     "wof:concordances":{
         "gn:id":7417465,
         "gp:id":1199815,
-        "qs:id":288003,
+        "qs_pg:id":288003,
         "wd:id":"Q50180"
     },
     "wof:country":"PH",
@@ -217,7 +221,7 @@
         }
     ],
     "wof:id":421197495,
-    "wof:lastmodified":1563331612,
+    "wof:lastmodified":1566681849,
     "wof:name":"Santiago",
     "wof:parent_id":1108697341,
     "wof:placetype":"locality",

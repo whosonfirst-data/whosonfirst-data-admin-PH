@@ -11,10 +11,14 @@
     "geom:longitude":121.77834,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2173,
+    "gn:population":2173,
     "iso:country":"PH",
+    "lbl:bbox":"121.75834,17.00305,121.79834,17.04305",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Banquero"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1727089,
         "gp:id":1162187,
-        "qs:id":88365
+        "qs_pg:id":88365
     },
     "wof:country":"PH",
     "wof:created":1469051965,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890433039,
-    "wof:lastmodified":1505343533,
+    "wof:lastmodified":1566682172,
     "wof:name":"Banguero",
     "wof:parent_id":1108697129,
     "wof:placetype":"locality",

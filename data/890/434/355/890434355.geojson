@@ -11,14 +11,18 @@
     "geom:longitude":123.7675,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2477,
+    "gn:population":2477,
     "iso:country":"PH",
+    "lbl:bbox":"123.7475,13.839,123.7875,13.879",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Gibgos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hibgos"
     ],
     "qs:name":"Gibgos",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1712990,
         "gp:id":1194558,
-        "qs:id":135333
+        "qs_pg:id":135333
     },
     "wof:country":"PH",
     "wof:created":1469052021,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890434355,
-    "wof:lastmodified":1505343541,
+    "wof:lastmodified":1566682142,
     "wof:name":"Gibgos",
     "wof:parent_id":1108697273,
     "wof:placetype":"locality",

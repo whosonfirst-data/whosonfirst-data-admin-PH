@@ -11,10 +11,14 @@
     "geom:longitude":122.11667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":70318,
+    "gn:population":70318,
     "iso:country":"PH",
+    "lbl:bbox":"122.01667,13.76667,122.21667,13.96667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bcl_x_preferred":[
         "Gumaca"
     ],
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1712164,
-        "qs:id":1031226,
+        "qs_pg:id":1031226,
         "wd:id":"Q103914",
         "wk:page":"Gumaca"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890443715,
-    "wof:lastmodified":1563332386,
+    "wof:lastmodified":1566682067,
     "wof:name":"Gumaca",
     "wof:parent_id":1108697695,
     "wof:placetype":"localadmin",

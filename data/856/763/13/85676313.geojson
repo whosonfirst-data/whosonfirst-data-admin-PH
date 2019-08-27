@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":6.245339,
     "lbl:longitude":125.183114,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"General Santos",
     "mps:latitude":6.127106,
     "mps:longitude":125.098373,
@@ -152,7 +153,7 @@
         "S\u00f6dra Cotabato"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bbe\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0b9f\u0bcd\u0b9f\u0bcb"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c4b\u0c1f\u0c4b\u0c2c\u0c3e\u0c1f\u0c4b"
@@ -171,9 +172,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u041a\u043e\u0442\u0430\u0431\u0430\u0442\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Cotabato del Sur"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u062a\u0627\u0628\u0627\u062a\u0648"
@@ -203,7 +201,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -213,7 +211,7 @@
     "wof:concordances":{
         "gn:id":1685731,
         "gp:id":2346723,
-        "qs:id":9230,
+        "qs_pg:id":9230,
         "wd:id":"Q13882",
         "wk:page":"South Cotabato"
     },
@@ -228,9 +226,6 @@
         }
     ],
     "wof:id":85676313,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -246,7 +241,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326793,
+    "wof:lastmodified":1566679670,
     "wof:name":"General Santos",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -11,10 +11,14 @@
     "geom:longitude":120.87931,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2713,
+    "gn:population":2713,
     "iso:country":"PH",
+    "lbl:bbox":"120.85931,14.40612,120.89931,14.44612",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0631\u0648\u0632\u0627"
     ],
@@ -171,7 +175,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1687893,
-        "qs:id":134256,
+        "qs_pg:id":134256,
         "wd:id":"Q76010",
         "wk:page":"Santa Rosa"
     },
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":890432263,
-    "wof:lastmodified":1563332981,
+    "wof:lastmodified":1566682245,
     "wof:name":"Santa Rosa",
     "wof:parent_id":1108698605,
     "wof:placetype":"locality",

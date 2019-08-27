@@ -11,10 +11,14 @@
     "geom:longitude":123.52,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2201,
+    "gn:population":2201,
     "iso:country":"PH",
+    "lbl:bbox":"123.5,10.75334,123.54,10.79334",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Udtongan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1697260,
         "gp:id":28343376,
-        "qs:id":87123
+        "qs_pg:id":87123
     },
     "wof:country":"PH",
     "wof:created":1469052106,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436293,
-    "wof:lastmodified":1505343552,
+    "wof:lastmodified":1566681979,
     "wof:name":"Ogtongon",
     "wof:parent_id":1108697575,
     "wof:placetype":"locality",

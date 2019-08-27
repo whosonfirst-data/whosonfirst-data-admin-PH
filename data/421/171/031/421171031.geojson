@@ -10,8 +10,12 @@
     "geom:latitude":10.10533,
     "geom:longitude":124.2665,
     "iso:country":"PH",
+    "lbl:bbox":"124.2465,10.08533,124.2865,10.12533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Sikatuna"
@@ -241,7 +245,7 @@
     "wof:concordances":{
         "gn:id":7885243,
         "gp:id":1193498,
-        "qs:id":1205848,
+        "qs_pg:id":1205848,
         "wd:id":"Q7513608"
     },
     "wof:country":"PH",
@@ -257,7 +261,7 @@
         }
     ],
     "wof:id":421171031,
-    "wof:lastmodified":1563331762,
+    "wof:lastmodified":1566681881,
     "wof:name":"Sikatuna",
     "wof:parent_id":1108699635,
     "wof:placetype":"locality",

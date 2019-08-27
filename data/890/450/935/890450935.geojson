@@ -11,14 +11,18 @@
     "geom:longitude":124.35222,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2305,
+    "gn:population":2305,
     "iso:country":"PH",
+    "lbl:bbox":"124.33222,9.73611,124.37222,9.77611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mayana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mayama"
     ],
     "qs:name":"Mayana",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1700084,
         "gp:id":1183105,
-        "qs:id":87234,
+        "qs_pg:id":87234,
         "wk:page":"Mayana"
     },
     "wof:country":"PH",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890450935,
-    "wof:lastmodified":1564179073,
+    "wof:lastmodified":1566682205,
     "wof:name":"Mayana",
     "wof:parent_id":1108697803,
     "wof:placetype":"locality",

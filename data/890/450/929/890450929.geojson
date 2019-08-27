@@ -11,10 +11,14 @@
     "geom:longitude":123.5996,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2579,
+    "gn:population":2579,
     "iso:country":"PH",
+    "lbl:bbox":"123.5796,12.3292,123.6196,12.3692",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mayngaran"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1699981,
         "gp:id":1183164,
-        "qs:id":87231
+        "qs_pg:id":87231
     },
     "wof:country":"PH",
     "wof:created":1469052758,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450929,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682216,
     "wof:name":"Mayngaran",
     "wof:parent_id":890437629,
     "wof:placetype":"locality",

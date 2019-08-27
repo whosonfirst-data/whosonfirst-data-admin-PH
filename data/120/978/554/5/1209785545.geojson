@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.5595,17.3917,120.5995,17.4317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Maliplipit West"
     ],
@@ -37,10 +41,6 @@
         "Malipipit Oeste"
     ],
     "name:fil_x_variant":[
-        "Maliplipit Oeste"
-    ],
-    "name:und_x_variant":[
-        "Maliplipit Weste",
         "Maliplipit Oeste"
     ],
     "src:geom":"geonames",
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1209785545,
-    "wof:lastmodified":1537677890,
+    "wof:lastmodified":1566680600,
     "wof:name":"Malipipit Oeste",
     "wof:parent_id":1108698875,
     "wof:placetype":"locality",

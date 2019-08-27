@@ -11,10 +11,14 @@
     "geom:longitude":123.9771,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3654,
+    "gn:population":3654,
     "iso:country":"PH",
+    "lbl:bbox":"123.9571,10.8587,123.9971,10.8987",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Taytayan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1682594,
         "gp:id":1196313,
-        "qs:id":134042
+        "qs_pg:id":134042
     },
     "wof:country":"PH",
     "wof:created":1469051998,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433871,
-    "wof:lastmodified":1505343538,
+    "wof:lastmodified":1566682178,
     "wof:name":"Taytayan",
     "wof:parent_id":1108697059,
     "wof:placetype":"locality",

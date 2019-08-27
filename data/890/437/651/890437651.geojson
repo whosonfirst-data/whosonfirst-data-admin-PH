@@ -11,10 +11,14 @@
     "geom:longitude":120.30137,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2447,
+    "gn:population":2447,
     "iso:country":"PH",
+    "lbl:bbox":"120.28137,15.87507,120.32137,15.91507",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Islla"
     ],
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710489,
-        "qs:id":87698,
+        "qs_pg:id":87698,
         "wk:page":"Isla"
     },
     "wof:country":"PH",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890437651,
-    "wof:lastmodified":1564178614,
+    "wof:lastmodified":1566681950,
     "wof:name":"Isla",
     "wof:parent_id":1108699125,
     "wof:placetype":"locality",

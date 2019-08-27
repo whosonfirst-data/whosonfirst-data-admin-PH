@@ -10,8 +10,12 @@
     "geom:latitude":11.27778,
     "geom:longitude":125.01083,
     "iso:country":"PH",
+    "lbl:bbox":"124.99083,11.25778,125.03083,11.29778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "San Antonio"
@@ -376,7 +380,7 @@
     "wof:concordances":{
         "gn:id":1690376,
         "gp:id":1199725,
-        "qs:id":1318774
+        "qs_pg:id":1318774
     },
     "wof:country":"PH",
     "wof:created":1459009440,
@@ -391,7 +395,7 @@
         }
     ],
     "wof:id":421185351,
-    "wof:lastmodified":1564178486,
+    "wof:lastmodified":1566681883,
     "wof:name":"San Antonio",
     "wof:parent_id":1108696927,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.2613,
     "geom:longitude":122.5364,
     "iso:country":"PH",
+    "lbl:bbox":"122.5164,11.2413,122.5564,11.2813",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Tapaz"
@@ -64,9 +68,6 @@
     "name:tgl_x_preferred":[
         "Tapaz"
     ],
-    "name:unk_x_variant":[
-        "Tapas"
-    ],
     "name:vie_x_preferred":[
         "Tapaz"
     ],
@@ -104,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1682960,
         "gp:id":1199908,
-        "qs:id":276795,
+        "qs_pg:id":276795,
         "wd:id":"Q356398",
         "wk:page":"Tapaz, Capiz"
     },
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421178055,
-    "wof:lastmodified":1563331705,
+    "wof:lastmodified":1566681870,
     "wof:name":"Tapaz",
     "wof:parent_id":1108699689,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.5953,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3753,
+    "gn:population":3753,
     "iso:country":"PH",
+    "lbl:bbox":"123.5753,13.1294,123.6153,13.1694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mauraro"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1700129,
         "gp:id":1181604,
-        "qs:id":87238
+        "qs_pg:id":87238
     },
     "wof:country":"PH",
     "wof:created":1469052759,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450939,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682187,
     "wof:name":"Mauraro",
     "wof:parent_id":1108697689,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.27083,
     "geom:longitude":125.79972,
     "iso:country":"PH",
+    "lbl:bbox":"125.77972,8.25083,125.81972,8.29083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "La Paz"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1707343,
         "gp:id":1199313,
-        "qs:id":1294882,
+        "qs_pg:id":1294882,
         "wd:id":"Q627107",
         "wk:page":"La Paz, Agusan del Sur"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421193217,
-    "wof:lastmodified":1563331387,
+    "wof:lastmodified":1566681798,
     "wof:name":"La Paz",
     "wof:parent_id":1108697951,
     "wof:placetype":"locality",

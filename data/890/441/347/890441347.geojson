@@ -11,10 +11,14 @@
     "geom:longitude":123.1802,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4046,
+    "gn:population":4046,
     "iso:country":"PH",
+    "lbl:bbox":"123.1602,9.4616,123.2002,9.5016",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Polo"
     ],
@@ -259,7 +263,7 @@
     "wof:concordances":{
         "gn:id":1693104,
         "gp:id":91798248,
-        "qs:id":276946,
+        "qs_pg:id":276946,
         "wd:id":"Q134211",
         "wk:page":"Polo"
     },
@@ -276,7 +280,7 @@
         }
     ],
     "wof:id":890441347,
-    "wof:lastmodified":1563331822,
+    "wof:lastmodified":1566681901,
     "wof:name":"Polo",
     "wof:parent_id":1108696663,
     "wof:placetype":"locality",

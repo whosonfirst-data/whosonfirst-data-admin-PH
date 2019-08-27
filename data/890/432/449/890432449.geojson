@@ -11,10 +11,14 @@
     "geom:longitude":123.61802,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3419,
+    "gn:population":3419,
     "iso:country":"PH",
+    "lbl:bbox":"123.59802,9.91206,123.63802,9.95206",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bulasa"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1722947,
         "gp:id":1165472,
-        "qs:id":135568
+        "qs_pg:id":135568
     },
     "wof:country":"PH",
     "wof:created":1469051941,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432449,
-    "wof:lastmodified":1505343529,
+    "wof:lastmodified":1566682223,
     "wof:name":"Bulasa",
     "wof:parent_id":1108696701,
     "wof:placetype":"locality",

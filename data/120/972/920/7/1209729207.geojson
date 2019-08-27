@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.4401,17.8832,120.4801,17.9232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Morong"
     ],
@@ -57,10 +61,6 @@
     "name:tgl_x_preferred":[
         "Morong"
     ],
-    "name:und_x_variant":[
-        "Marong",
-        "Morong"
-    ],
     "name:war_x_preferred":[
         "Morong"
     ],
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":1209729207,
-    "wof:lastmodified":1564176126,
+    "wof:lastmodified":1566680812,
     "wof:name":"Morong",
     "wof:parent_id":1108696773,
     "wof:placetype":"locality",

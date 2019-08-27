@@ -10,8 +10,12 @@
     "geom:latitude":13.94669,
     "geom:longitude":120.72827,
     "iso:country":"PH",
+    "lbl:bbox":"120.70827,13.92669,120.74827,13.96669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Calaca"
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1720571,
         "gp:id":1199008,
-        "qs:id":461077,
+        "qs_pg:id":461077,
         "wd:id":"Q59276"
     },
     "wof:country":"PH",
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421180787,
-    "wof:lastmodified":1563331493,
+    "wof:lastmodified":1566681822,
     "wof:name":"Calaca",
     "wof:parent_id":1108696821,
     "wof:placetype":"locality",

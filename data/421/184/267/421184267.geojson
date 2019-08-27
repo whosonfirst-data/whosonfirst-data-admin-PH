@@ -11,10 +11,14 @@
     "geom:longitude":124.038368,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":20716,
+    "gn:population":20716,
     "iso:country":"PH",
+    "lbl:bbox":"124.018368,12.684389,124.058368,12.724389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Irosin"
@@ -98,11 +102,11 @@
     "wof:concordances":{
         "gn:id":1710531,
         "gp:id":1199248,
-        "qs:id":991916,
+        "qs_pg:id":991916,
         "wd:id":"Q174215"
     },
     "wof:concordances_alt":{
-        "qs:id":87700
+        "qs_pg:id":87700
     },
     "wof:country":"PH",
     "wof:created":1459009405,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421184267,
-    "wof:lastmodified":1561778719,
+    "wof:lastmodified":1566681859,
     "wof:name":"Irosin",
     "wof:parent_id":1108697779,
     "wof:placetype":"locality",

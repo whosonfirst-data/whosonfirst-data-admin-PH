@@ -10,8 +10,12 @@
     "geom:latitude":7.90639,
     "geom:longitude":125.09417,
     "iso:country":"PH",
+    "lbl:bbox":"125.07417,7.88639,125.11417,7.92639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Valencia"
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":1680116,
         "gp:id":1198215,
-        "qs:id":482439,
+        "qs_pg:id":482439,
         "wd:id":"Q2158",
         "wk:page":"Valencia, Bukidnon"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":421199583,
-    "wof:lastmodified":1563331625,
+    "wof:lastmodified":1566681853,
     "wof:name":"Valencia",
     "wof:parent_id":1108699841,
     "wof:placetype":"locality",

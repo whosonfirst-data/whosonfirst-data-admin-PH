@@ -11,14 +11,18 @@
     "geom:longitude":118.2235,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4542,
+    "gn:population":4542,
     "iso:country":"PH",
+    "lbl:bbox":"118.2035,9.14898,118.2435,9.18898",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Calatugas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calategas"
     ],
     "qs:name":"Calatugas",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1720478,
         "gp:id":1167459,
-        "qs:id":135502
+        "qs_pg:id":135502
     },
     "wof:country":"PH",
     "wof:created":1469051119,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890416093,
-    "wof:lastmodified":1505343430,
+    "wof:lastmodified":1566682101,
     "wof:name":"Calatugas",
     "wof:parent_id":1108697069,
     "wof:placetype":"locality",

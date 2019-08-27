@@ -11,7 +11,7 @@
     "geom:longitude":120.587689,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":102197,
+    "gn:population":102197,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Laoag Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":18.209042,
     "lbl:longitude":120.574013,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ILOCOS NORTE",
     "meso:admin_1r":"ILOCOS REGION",
     "meso:diss_me":"LAOAG CITYILOCOS NORTE",
@@ -35,10 +37,11 @@
     "mps:longitude":120.574013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:fil_x_preferred":[
         "Lungsod ng Laoag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laoag"
     ],
     "qs:name":"Laoag City",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1707403,
         "gp:id":2346683,
-        "qs:id":558740
+        "qs_pg:id":558740
     },
     "wof:country":"PH",
     "wof:created":1469052364,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890442475,
-    "wof:lastmodified":1555220350,
+    "wof:lastmodified":1566682113,
     "wof:name":"Laoag City",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

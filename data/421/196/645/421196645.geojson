@@ -10,8 +10,12 @@
     "geom:latitude":8.0731,
     "geom:longitude":125.9558,
     "iso:country":"PH",
+    "lbl:bbox":"125.9358,8.0531,125.9758,8.0931",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Veruela"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1680040,
         "gp:id":1198252,
-        "qs:id":1294754,
+        "qs_pg:id":1294754,
         "wd:id":"Q627349",
         "wk:page":"Veruela, Agusan del Sur"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421196645,
-    "wof:lastmodified":1563331575,
+    "wof:lastmodified":1566681841,
     "wof:name":"Veruela",
     "wof:parent_id":1108699845,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.792,15.07361,120.832,15.11361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u064a\u062c"
     ],
@@ -111,9 +115,6 @@
     "name:tur_x_preferred":[
         "Pasig"
     ],
-    "name:und_x_variant":[
-        "Pasing"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0633\u06cc\u06af"
     ],
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1276884831,
-    "wof:lastmodified":1564174643,
+    "wof:lastmodified":1566680148,
     "wof:name":"Pasig",
     "wof:parent_id":1108697243,
     "wof:placetype":"locality",

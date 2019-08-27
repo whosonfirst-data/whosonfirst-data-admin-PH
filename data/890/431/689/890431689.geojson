@@ -11,11 +11,15 @@
     "geom:longitude":120.43333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2567,
+    "gn:population":2567,
     "iso:country":"PH",
+    "lbl:bbox":"120.41333,17.16333,120.45333,17.20333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Patpata"
     ],
     "qs:name":"Patpata Segundo",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1694331,
         "gp:id":1187464,
-        "qs:id":276965
+        "qs_pg:id":276965
     },
     "wof:country":"PH",
     "wof:created":1469051903,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431689,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566681990,
     "wof:name":"Patpata Segundo",
     "wof:parent_id":1108697253,
     "wof:placetype":"locality",

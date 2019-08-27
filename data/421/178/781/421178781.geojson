@@ -10,8 +10,12 @@
     "geom:latitude":11.10972,
     "geom:longitude":125.3875,
     "iso:country":"PH",
+    "lbl:bbox":"125.3675,11.08972,125.4075,11.12972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Balangiga"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1728500,
         "gp:id":56121312,
-        "qs:id":135882,
+        "qs_pg:id":135882,
         "wd:id":"Q313904",
         "wk:page":"Balangiga, Eastern Samar"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421178781,
-    "wof:lastmodified":1563331731,
+    "wof:lastmodified":1566681875,
     "wof:name":"Balangiga",
     "wof:parent_id":1108696809,
     "wof:placetype":"locality",

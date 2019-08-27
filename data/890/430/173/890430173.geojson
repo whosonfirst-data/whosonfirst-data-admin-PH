@@ -11,10 +11,14 @@
     "geom:longitude":121.11667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2607,
+    "gn:population":2607,
     "iso:country":"PH",
+    "lbl:bbox":"121.09667,13.64667,121.13667,13.68667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Haligue"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1711943,
         "gp:id":1195234,
-        "qs:id":87754
+        "qs_pg:id":87754
     },
     "wof:country":"PH",
     "wof:created":1469051842,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430173,
-    "wof:lastmodified":1505343517,
+    "wof:lastmodified":1566681941,
     "wof:name":"Haligue",
     "wof:parent_id":1108696939,
     "wof:placetype":"locality",

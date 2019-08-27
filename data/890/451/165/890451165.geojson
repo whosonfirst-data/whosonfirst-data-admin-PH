@@ -11,10 +11,14 @@
     "geom:longitude":122.75722,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6928,
+    "gn:population":6928,
     "iso:country":"PH",
+    "lbl:bbox":"122.73722,11.49917,122.77722,11.53917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lanot"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1707470,
         "gp:id":1191035,
-        "qs:id":87571
+        "qs_pg:id":87571
     },
     "wof:country":"PH",
     "wof:created":1469052767,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451165,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682129,
     "wof:name":"Lanot",
     "wof:parent_id":890415145,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.40778,
     "geom:longitude":121.05,
     "iso:country":"PH",
+    "lbl:bbox":"121.03,14.38778,121.07,14.42778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Bayanan"
@@ -19,7 +23,7 @@
     "name:por_x_preferred":[
         "Bayanan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jolo"
     ],
     "qs:gn_country":"PH",
@@ -54,8 +58,10 @@
     "wof:concordances":{
         "gn:id":1725854,
         "gp:id":1163152,
-        "qs:id":894351,
         "qs_pg:id":88304
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":894351
     },
     "wof:country":"PH",
     "wof:created":1459009770,
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":421193405,
-    "wof:lastmodified":1532556634,
+    "wof:lastmodified":1566681800,
     "wof:name":"Bayanan",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

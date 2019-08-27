@@ -10,8 +10,12 @@
     "geom:latitude":15.7654,
     "geom:longitude":119.9092,
     "iso:country":"PH",
+    "lbl:bbox":"119.8892,15.7454,119.9292,15.7854",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Santa Cruz"
@@ -73,7 +77,7 @@
     "name:tgl_x_preferred":[
         "Santa Cruz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sant Cruz"
     ],
     "name:urd_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1688232,
         "gp:id":1192290,
-        "qs:id":1318170,
+        "qs_pg:id":1318170,
         "wd:id":"Q56656",
         "wk:page":"Santa Cruz, Zambales"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421182161,
-    "wof:lastmodified":1563331738,
+    "wof:lastmodified":1566681876,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108699357,
     "wof:placetype":"locality",

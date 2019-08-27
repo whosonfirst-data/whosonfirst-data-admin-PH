@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":17.910901,
     "lbl:longitude":121.777741,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Cagayan",
     "mps:latitude":17.920021,
     "mps:longitude":121.777108,
@@ -188,9 +189,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0433\u0430\u044f\u043d"
     ],
-    "name:unk_x_variant":[
-        "Cagayan Province"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u06af\u0627\u06cc\u0627\u0646"
     ],
@@ -280,9 +278,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"9,003",
     "statoids:area_mi":"3,476",
     "statoids:as_of_date":"2010-05-01",
@@ -307,7 +305,7 @@
         "gp:id":2346669,
         "hasc:id":"PH.CG",
         "iso:id":"PH-CAG",
-        "qs:id":423990,
+        "qs_pg:id":423990,
         "wd:id":"Q13759",
         "wk:page":"Cagayan"
     },
@@ -321,9 +319,6 @@
         }
     ],
     "wof:id":85676047,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -339,11 +334,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326845,
+    "wof:lastmodified":1566679690,
     "wof:name":"Cagayan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1124773,
     "wof:population_rank":12,

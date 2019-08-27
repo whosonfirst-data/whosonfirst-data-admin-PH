@@ -11,10 +11,14 @@
     "geom:longitude":122.498,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2433,
+    "gn:population":2433,
     "iso:country":"PH",
+    "lbl:bbox":"122.478,11.5115,122.518,11.5515",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Manup"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1701383,
-        "qs:id":134882
+        "qs_pg:id":134882
     },
     "wof:country":"PH",
     "wof:created":1469051101,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890415757,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681922,
     "wof:name":"Manup",
     "wof:parent_id":1108696655,
     "wof:placetype":"locality",

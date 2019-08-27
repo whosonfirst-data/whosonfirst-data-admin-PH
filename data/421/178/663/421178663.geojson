@@ -10,8 +10,12 @@
     "geom:latitude":14.97418,
     "geom:longitude":120.15733,
     "iso:country":"PH",
+    "lbl:bbox":"120.13733,14.95418,120.17733,14.99418",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Marcelino"
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":1689099,
         "gp:id":56121430,
-        "qs:id":134322,
+        "qs_pg:id":134322,
         "wd:id":"Q56623",
         "wk:page":"San Marcelino"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421178663,
-    "wof:lastmodified":1563331725,
+    "wof:lastmodified":1566681874,
     "wof:name":"San Marcelino",
     "wof:parent_id":1108699253,
     "wof:placetype":"locality",

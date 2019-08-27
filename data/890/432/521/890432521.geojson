@@ -11,10 +11,14 @@
     "geom:longitude":123.37278,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2666,
+    "gn:population":2666,
     "iso:country":"PH",
+    "lbl:bbox":"123.35278,7.87139,123.39278,7.91139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Danlugan",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1958457,
-        "qs:id":137325
+        "qs_pg:id":137325
     },
     "wof:country":"PH",
     "wof:created":1469051944,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890432521,
-    "wof:lastmodified":1505343530,
+    "wof:lastmodified":1566682231,
     "wof:name":"Danlugan",
     "wof:parent_id":890429639,
     "wof:placetype":"locality",

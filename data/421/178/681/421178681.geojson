@@ -10,8 +10,12 @@
     "geom:latitude":7.05444,
     "geom:longitude":124.67194,
     "iso:country":"PH",
+    "lbl:bbox":"124.65194,7.03444,124.69194,7.07444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pikit"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Pikit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fort Pikit"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1693874,
         "gp:id":1187668,
-        "qs:id":134575,
+        "qs_pg:id":134575,
         "wd:id":"Q315314",
         "wk:page":"Pikit, Cotabato"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421178681,
-    "wof:lastmodified":1561778721,
+    "wof:lastmodified":1566681869,
     "wof:name":"Pikit",
     "wof:parent_id":1108698871,
     "wof:placetype":"locality",

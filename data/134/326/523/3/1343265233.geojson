@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.3946,16.7835,120.4346,16.8235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fil_x_preferred":[
         "Calonbuyan"
     ],
@@ -34,11 +38,6 @@
         "Calungbuyan",
         "Calongbuyan",
         "Calongboyan"
-    ],
-    "name:und_x_variant":[
-        "Calongbuyan",
-        "Calongboyan",
-        "Calungbuyan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +62,7 @@
         }
     ],
     "wof:id":1343265233,
-    "wof:lastmodified":1537678382,
+    "wof:lastmodified":1566679645,
     "wof:name":"Calonbuyan",
     "wof:parent_id":1108696813,
     "wof:placetype":"locality",

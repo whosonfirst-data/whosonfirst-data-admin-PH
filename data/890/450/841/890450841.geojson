@@ -11,10 +11,14 @@
     "geom:longitude":122.7725,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":5156,
+    "gn:population":5156,
     "iso:country":"PH",
+    "lbl:bbox":"122.7525,11.446,122.7925,11.486",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Panitan"
     ],
@@ -57,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Panitan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panatan"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1695082,
         "gp:id":91420816,
-        "qs:id":87043,
+        "qs_pg:id":87043,
         "wd:id":"Q356231"
     },
     "wof:country":"PH",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890450841,
-    "wof:lastmodified":1563332830,
+    "wof:lastmodified":1566682208,
     "wof:name":"Panitan",
     "wof:parent_id":1108698793,
     "wof:placetype":"locality",

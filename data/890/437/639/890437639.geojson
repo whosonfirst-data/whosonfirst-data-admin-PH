@@ -11,14 +11,18 @@
     "geom:longitude":120.2781,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2843,
+    "gn:population":2843,
     "iso:country":"PH",
+    "lbl:bbox":"120.2581,14.7118,120.2981,14.7518",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mabayo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mabage"
     ],
     "qs:name":"Mabayo",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1704638,
         "gp:id":1189525,
-        "qs:id":87433
+        "qs_pg:id":87433
     },
     "wof:country":"PH",
     "wof:created":1469052160,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890437639,
-    "wof:lastmodified":1505343560,
+    "wof:lastmodified":1566681957,
     "wof:name":"Mabayo",
     "wof:parent_id":1108698509,
     "wof:placetype":"locality",

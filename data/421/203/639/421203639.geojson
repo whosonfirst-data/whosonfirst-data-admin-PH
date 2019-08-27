@@ -10,8 +10,12 @@
     "geom:latitude":6.55187,
     "geom:longitude":124.05111,
     "iso:country":"PH",
+    "lbl:bbox":"124.03111,6.53187,124.07111,6.57187",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Kalamansig"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Kalamansig"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calamansig"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1709717,
         "gp:id":56121446,
-        "qs:id":79023,
+        "qs_pg:id":79023,
         "wd:id":"Q173438",
         "wk:page":"Kalamansig, Sultan Kudarat"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421203639,
-    "wof:lastmodified":1563331433,
+    "wof:lastmodified":1566681809,
     "wof:name":"Kalamansig",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

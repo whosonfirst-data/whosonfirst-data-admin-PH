@@ -10,8 +10,12 @@
     "geom:latitude":13.2349,
     "geom:longitude":123.7778,
     "iso:country":"PH",
+    "lbl:bbox":"123.7578,13.2149,123.7978,13.2549",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Libog"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1706614,
         "gp:id":1199361,
-        "qs:id":182827
+        "qs_pg:id":182827
     },
     "wof:country":"PH",
     "wof:created":1459009947,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421198401,
-    "wof:lastmodified":1505340755,
+    "wof:lastmodified":1566681838,
     "wof:name":"Libog",
     "wof:parent_id":1108699417,
     "wof:placetype":"locality",

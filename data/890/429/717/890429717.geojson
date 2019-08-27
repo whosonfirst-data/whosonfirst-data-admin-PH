@@ -11,10 +11,14 @@
     "geom:longitude":124.91667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":65898,
+    "gn:population":65898,
     "iso:country":"PH",
+    "lbl:bbox":"124.81667,7.1,125.01667,7.3",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:fil_x_preferred":[
         "Matalam"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1700491,
-        "qs:id":87251
+        "qs_pg:id":87251
     },
     "wof:country":"PH",
     "wof:created":1469051826,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890429717,
-    "wof:lastmodified":1505343514,
+    "wof:lastmodified":1566682087,
     "wof:name":"Matalam",
     "wof:parent_id":1108698427,
     "wof:placetype":"localadmin",

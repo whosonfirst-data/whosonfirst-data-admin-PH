@@ -11,14 +11,18 @@
     "geom:longitude":123.7489,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3866,
+    "gn:population":3866,
     "iso:country":"PH",
+    "lbl:bbox":"123.7289,10.6082,123.7689,10.6482",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tubigagmanoc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tibugagmanok"
     ],
     "qs:name":"Tubigagmanoc",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1681220,
         "gp:id":1192483,
-        "qs:id":86361
+        "qs_pg:id":86361
     },
     "wof:country":"PH",
     "wof:created":1469052732,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450257,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682194,
     "wof:name":"Tubigagmanoc",
     "wof:parent_id":1108696715,
     "wof:placetype":"locality",

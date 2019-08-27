@@ -11,10 +11,14 @@
     "geom:longitude":120.96683,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":54540,
+    "gn:population":54540,
     "iso:country":"PH",
+    "lbl:bbox":"120.86683,14.77462,121.06683,14.97462",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Pandi"
     ],
@@ -51,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1695463,
-        "qs:id":1027142,
+        "qs_pg:id":1027142,
         "wk:page":"Pandi"
     },
     "wof:country":"PH",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890443291,
-    "wof:lastmodified":1564178848,
+    "wof:lastmodified":1566682077,
     "wof:name":"Pandi",
     "wof:parent_id":1108697029,
     "wof:placetype":"localadmin",

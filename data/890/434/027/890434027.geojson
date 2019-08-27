@@ -11,10 +11,14 @@
     "geom:longitude":120.4345,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2117,
+    "gn:population":2117,
     "iso:country":"PH",
+    "lbl:bbox":"120.4145,16.8552,120.4545,16.8952",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Rissing"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1691695,
-        "qs:id":134468
+        "qs_pg:id":134468
     },
     "wof:country":"PH",
     "wof:created":1469052006,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890434027,
-    "wof:lastmodified":1505343539,
+    "wof:lastmodified":1566682156,
     "wof:name":"Rissing",
     "wof:parent_id":1108696877,
     "wof:placetype":"locality",

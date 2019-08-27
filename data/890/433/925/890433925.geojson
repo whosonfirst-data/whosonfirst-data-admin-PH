@@ -11,11 +11,15 @@
     "geom:longitude":124.38925,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2559,
+    "gn:population":2559,
     "iso:country":"PH",
+    "lbl:bbox":"124.36925,10.05454,124.40925,10.09454",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tagum"
     ],
     "qs:name":"Tagum Norte",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1684268,
         "gp:id":91427647,
-        "qs:id":134120
+        "qs_pg:id":134120
     },
     "wof:country":"PH",
     "wof:created":1469052000,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433925,
-    "wof:lastmodified":1505343538,
+    "wof:lastmodified":1566682174,
     "wof:name":"Tagum Norte",
     "wof:parent_id":1108699761,
     "wof:placetype":"locality",

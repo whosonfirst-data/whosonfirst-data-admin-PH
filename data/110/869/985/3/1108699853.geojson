@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.865536,
     "lbl:longitude":123.088997,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGROS OCCIDENTAL",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"VICTORIASNEGROS OCCIDENTAL",
@@ -32,6 +34,7 @@
     "mps:longitude":123.088997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0643\u062a\u0648\u0631\u064a\u0627"
     ],
@@ -81,7 +84,7 @@
         "Victorias"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108699853,
-    "wof:lastmodified":1564177010,
+    "wof:lastmodified":1566681173,
     "wof:name":"Victorias",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

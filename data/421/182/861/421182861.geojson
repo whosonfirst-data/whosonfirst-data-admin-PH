@@ -10,8 +10,12 @@
     "geom:latitude":7.64833,
     "geom:longitude":123.2675,
     "iso:country":"PH",
+    "lbl:bbox":"123.2475,7.62833,123.2875,7.66833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Miguel"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1689021,
         "gp:id":1191489,
-        "qs:id":956471,
+        "qs_pg:id":956471,
         "wd:id":"Q132317",
         "wk:page":"San Miguel, Zamboanga del Sur"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421182861,
-    "wof:lastmodified":1561778724,
+    "wof:lastmodified":1566681877,
     "wof:name":"San Miguel",
     "wof:parent_id":1108699275,
     "wof:placetype":"locality",

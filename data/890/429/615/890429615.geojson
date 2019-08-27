@@ -11,7 +11,7 @@
     "geom:longitude":123.693478,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":54158,
+    "gn:population":54158,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Tangub Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":8.094802,
     "lbl:longitude":123.700411,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MISAMIS OCCIDENTAL",
     "meso:admin_1r":"NORTHERN MINDANAO REGION",
     "meso:diss_me":"TANGUB CITYMISAMIS OCCIDENTAL",
@@ -35,13 +37,14 @@
     "mps:longitude":123.700411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dakbayan sa Tangub"
     ],
     "name:fil_x_preferred":[
         "Lungsod ng Tangub"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tangub"
     ],
     "qs:name":"Tangub City",
@@ -52,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1683112,
         "gp:id":2346697,
-        "qs:id":86443
+        "qs_pg:id":86443
     },
     "wof:country":"PH",
     "wof:created":1469051822,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890429615,
-    "wof:lastmodified":1555220348,
+    "wof:lastmodified":1566682086,
     "wof:name":"Tangub City",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

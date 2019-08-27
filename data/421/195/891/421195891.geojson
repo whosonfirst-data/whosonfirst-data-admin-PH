@@ -10,8 +10,12 @@
     "geom:latitude":11.0439,
     "geom:longitude":122.0659,
     "iso:country":"PH",
+    "lbl:bbox":"122.0459,11.0239,122.0859,11.0639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Bugasong"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1723313,
         "gp:id":56121399,
-        "qs:id":135581,
+        "qs_pg:id":135581,
         "wd:id":"Q492325",
         "wk:page":"Bugasong, Antique"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421195891,
-    "wof:lastmodified":1563331362,
+    "wof:lastmodified":1566681793,
     "wof:name":"Bugasong",
     "wof:parent_id":1108697091,
     "wof:placetype":"locality",

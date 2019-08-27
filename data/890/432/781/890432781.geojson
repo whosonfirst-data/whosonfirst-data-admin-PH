@@ -11,15 +11,18 @@
     "geom:longitude":120.14322,
     "gn:country":"PH",
     "gn:fcode":"ISL",
-    "gn:pop":10,
+    "gn:population":10,
     "iso:country":"PH",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Malabina Island"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malapina Island"
     ],
     "qs:name":"Malabina Island",
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703044,
         "gp:id":1163929,
-        "qs:id":87363
+        "qs_pg:id":87363
     },
     "wof:country":"PH",
     "wof:created":1469051954,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890432781,
-    "wof:lastmodified":1505343531,
+    "wof:lastmodified":1566682247,
     "wof:name":"Malabina Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

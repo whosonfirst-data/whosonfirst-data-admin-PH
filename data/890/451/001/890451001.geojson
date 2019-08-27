@@ -11,10 +11,14 @@
     "geom:longitude":123.4623,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2433,
+    "gn:population":2433,
     "iso:country":"PH",
+    "lbl:bbox":"123.4423,13.2519,123.4823,13.2919",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Manga"
     ],
@@ -334,7 +338,7 @@
     "wof:concordances":{
         "gn:id":1701903,
         "gp:id":91419871,
-        "qs:id":87311,
+        "qs_pg:id":87311,
         "wd:id":"Q8274",
         "wk:page":"Manga"
     },
@@ -351,7 +355,7 @@
         }
     ],
     "wof:id":890451001,
-    "wof:lastmodified":1563332573,
+    "wof:lastmodified":1566682126,
     "wof:name":"Manga",
     "wof:parent_id":1108698685,
     "wof:placetype":"locality",

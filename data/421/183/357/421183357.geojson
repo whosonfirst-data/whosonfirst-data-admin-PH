@@ -10,13 +10,17 @@
     "geom:latitude":10.1603,
     "geom:longitude":122.8615,
     "iso:country":"PH",
+    "lbl:bbox":"122.8415,10.1403,122.8815,10.1803",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Aguisan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aguisan Hacienda"
     ],
     "qs:gn_country":"PH",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1731838,
         "gp:id":1158423,
-        "qs:id":1294464
+        "qs_pg:id":1294464
     },
     "wof:country":"PH",
     "wof:created":1459009366,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421183357,
-    "wof:lastmodified":1505340686,
+    "wof:lastmodified":1566681865,
     "wof:name":"Aguisan",
     "wof:parent_id":1108697713,
     "wof:placetype":"locality",

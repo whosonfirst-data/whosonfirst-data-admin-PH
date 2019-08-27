@@ -10,8 +10,12 @@
     "geom:latitude":14.56194,
     "geom:longitude":120.59833,
     "iso:country":"PH",
+    "lbl:bbox":"120.57833,14.54194,120.61833,14.58194",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Limay"
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1706361,
         "gp:id":1199369,
-        "qs:id":448138,
+        "qs_pg:id":448138,
         "wd:id":"Q54459",
         "wk:page":"Limay, Bataan"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421167841,
-    "wof:lastmodified":1563331401,
+    "wof:lastmodified":1566681802,
     "wof:name":"Limay",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

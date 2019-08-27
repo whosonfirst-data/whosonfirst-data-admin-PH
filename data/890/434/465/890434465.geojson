@@ -11,17 +11,21 @@
     "geom:longitude":121.85065,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4006,
+    "gn:population":4006,
     "iso:country":"PH",
+    "lbl:bbox":"121.83065,17.88079,121.87065,17.92079",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Bitag"
     ],
     "name:fil_x_preferred":[
         "Bitag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bitag Grande"
     ],
     "qs:name":"Bitag",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1724743,
         "gp:id":1196292,
-        "qs:id":135664,
+        "qs_pg:id":135664,
         "wd:id":"Q4918736",
         "wk:page":"Bitag"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890434465,
-    "wof:lastmodified":1563332640,
+    "wof:lastmodified":1566682149,
     "wof:name":"Bitag",
     "wof:parent_id":1108696785,
     "wof:placetype":"locality",

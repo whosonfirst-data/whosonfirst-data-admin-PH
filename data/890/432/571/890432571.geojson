@@ -11,14 +11,18 @@
     "geom:longitude":124.005,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2154,
+    "gn:population":2154,
     "iso:country":"PH",
+    "lbl:bbox":"123.985,11.1419,124.025,11.1819",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Panognawan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panugnawan"
     ],
     "qs:name":"Panognawan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1694898,
         "gp:id":1186856,
-        "qs:id":134624
+        "qs_pg:id":134624
     },
     "wof:country":"PH",
     "wof:created":1469051945,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890432571,
-    "wof:lastmodified":1505343530,
+    "wof:lastmodified":1566682246,
     "wof:name":"Panognawan",
     "wof:parent_id":1108697415,
     "wof:placetype":"locality",

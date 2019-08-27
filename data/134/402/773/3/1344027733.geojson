@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"121.2551,17.7416,121.2951,17.7816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lapu First"
     ],
@@ -35,9 +39,6 @@
     ],
     "name:fil_x_variant":[
         "Lapak"
-    ],
-    "name:und_x_variant":[
-        "Lapu Primero"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1344027733,
-    "wof:lastmodified":1537678023,
+    "wof:lastmodified":1566679607,
     "wof:name":"Lapu First",
     "wof:parent_id":1108697381,
     "wof:placetype":"locality",

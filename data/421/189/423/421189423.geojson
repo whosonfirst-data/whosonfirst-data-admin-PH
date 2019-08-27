@@ -10,8 +10,12 @@
     "geom:latitude":12.502783,
     "geom:longitude":124.623241,
     "iso:country":"PH",
+    "lbl:bbox":"124.603241,12.482783,124.643241,12.522783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Catarman"
@@ -115,9 +119,11 @@
     "wof:concordances":{
         "gn:id":1717926,
         "gp:id":1199070,
-        "qs:id":1112740,
         "qs_pg:id":135454,
         "wd:id":"Q174886"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1112740
     },
     "wof:country":"PH",
     "wof:created":1459009624,
@@ -132,7 +138,7 @@
         }
     ],
     "wof:id":421189423,
-    "wof:lastmodified":1563331509,
+    "wof:lastmodified":1566681827,
     "wof:name":"Catarman",
     "wof:parent_id":1108697327,
     "wof:placetype":"locality",

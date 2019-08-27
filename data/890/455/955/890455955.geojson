@@ -11,10 +11,14 @@
     "geom:longitude":125.12083,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3768,
+    "gn:population":3768,
     "iso:country":"PH",
+    "lbl:bbox":"125.10083,6.20722,125.14083,6.24722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Upper Klinan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1680216,
-        "qs:id":558645
+        "qs_pg:id":558645
     },
     "wof:country":"PH",
     "wof:created":1469052987,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890455955,
-    "wof:lastmodified":1505343667,
+    "wof:lastmodified":1566681973,
     "wof:name":"Upper Klinan",
     "wof:parent_id":1108698933,
     "wof:placetype":"locality",

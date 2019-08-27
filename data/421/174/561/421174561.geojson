@@ -10,8 +10,12 @@
     "geom:latitude":15.3275,
     "geom:longitude":120.9192,
     "iso:country":"PH",
+    "lbl:bbox":"120.8992,15.3075,120.9392,15.3475",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Jaen"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1710389,
         "gp:id":1175114,
-        "qs:id":887510,
+        "qs_pg:id":887510,
         "wd:id":"Q30871",
         "wk:page":"Jaen, Nueva Ecija"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421174561,
-    "wof:lastmodified":1563331461,
+    "wof:lastmodified":1566681815,
     "wof:name":"Jaen",
     "wof:parent_id":1108697801,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":10.31672,
     "geom:longitude":123.89071,
     "iso:country":"PH",
+    "lbl:bbox":"123.87071,10.29672,123.91071,10.33672",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
@@ -390,7 +393,7 @@
         "gn:id":1717512,
         "gp:id":1199079,
         "loc:id":"n82242501",
-        "qs:id":1032883,
+        "qs_pg:id":1032883,
         "wd:id":"Q1467",
         "wk:page":"Cebu City"
     },
@@ -407,7 +410,7 @@
         }
     ],
     "wof:id":421175823,
-    "wof:lastmodified":1563331551,
+    "wof:lastmodified":1566681836,
     "wof:name":"Cebu",
     "wof:parent_id":890432909,
     "wof:placetype":"locality",

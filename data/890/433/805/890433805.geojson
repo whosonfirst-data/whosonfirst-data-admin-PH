@@ -11,10 +11,14 @@
     "geom:longitude":124.35333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2241,
+    "gn:population":2241,
     "iso:country":"PH",
+    "lbl:bbox":"124.33333,12.27031,124.37333,12.31031",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Viriato"
     ],
@@ -99,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0440\u0456\u0430\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veriate"
     ],
     "name:zho_x_preferred":[
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":1679796,
         "gp:id":1198247,
-        "qs:id":133900,
+        "qs_pg:id":133900,
         "wd:id":"Q331889",
         "wk:page":"Viriatus"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890433805,
-    "wof:lastmodified":1563332715,
+    "wof:lastmodified":1566682172,
     "wof:name":"Viriato",
     "wof:parent_id":1108699185,
     "wof:placetype":"locality",

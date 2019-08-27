@@ -11,10 +11,14 @@
     "geom:longitude":123.15,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":29607,
+    "gn:population":29607,
     "iso:country":"PH",
+    "lbl:bbox":"123.05,13.55,123.25,13.75",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Canaman"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1719464,
-        "qs:id":1027407
+        "qs_pg:id":1027407
     },
     "wof:country":"PH",
     "wof:created":1469052195,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890438451,
-    "wof:lastmodified":1505343565,
+    "wof:lastmodified":1566682019,
     "wof:name":"Canaman",
     "wof:parent_id":1108697237,
     "wof:placetype":"localadmin",

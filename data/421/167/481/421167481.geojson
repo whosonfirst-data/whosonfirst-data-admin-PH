@@ -10,8 +10,12 @@
     "geom:latitude":17.46639,
     "geom:longitude":121.75222,
     "iso:country":"PH",
+    "lbl:bbox":"121.73222,17.44639,121.77222,17.48639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Santa Maria"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1688015,
         "gp:id":1192498,
-        "qs:id":134259,
+        "qs_pg:id":134259,
         "wd:id":"Q50175"
     },
     "wof:country":"PH",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421167481,
-    "wof:lastmodified":1563331402,
+    "wof:lastmodified":1566681802,
     "wof:name":"Santa Maria",
     "wof:parent_id":1108699385,
     "wof:placetype":"locality",

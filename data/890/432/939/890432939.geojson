@@ -11,10 +11,14 @@
     "geom:longitude":123.1699,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":3010,
+    "gn:population":3010,
     "iso:country":"PH",
+    "lbl:bbox":"123.1499,13.628,123.1899,13.668",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Canaman"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1719463,
         "gp:id":1186081,
-        "qs:id":88069,
+        "qs_pg:id":88069,
         "wd:id":"Q208749"
     },
     "wof:country":"PH",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890432939,
-    "wof:lastmodified":1563332874,
+    "wof:lastmodified":1566682222,
     "wof:name":"Canaman",
     "wof:parent_id":1108697237,
     "wof:placetype":"locality",

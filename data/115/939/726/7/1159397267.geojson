@@ -13,6 +13,8 @@
     "iso:country":"PH",
     "lbl:latitude":14.666832,
     "lbl:longitude":120.942919,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:name_local":"Navotas",
     "mps:latitude":14.638041,
     "mps:longitude":120.953628,
@@ -182,7 +184,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -221,7 +223,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1564179316,
+    "wof:lastmodified":1566682321,
     "wof:name":"Navotas",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

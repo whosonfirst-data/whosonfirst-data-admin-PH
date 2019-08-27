@@ -11,10 +11,14 @@
     "geom:longitude":120.3241,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2572,
+    "gn:population":2572,
     "iso:country":"PH",
+    "lbl:bbox":"120.3041,5.1344,120.3441,5.1744",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sapa"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1687343,
         "gp:id":1195843,
-        "qs:id":1032261
+        "qs_pg:id":1032261
     },
     "wof:country":"PH",
     "wof:created":1469052118,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890436631,
-    "wof:lastmodified":1564178677,
+    "wof:lastmodified":1566681984,
     "wof:name":"Sapa",
     "wof:parent_id":1108699673,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.46667,
     "geom:longitude":124.47528,
     "iso:country":"PH",
+    "lbl:bbox":"124.45528,11.44667,124.49528,11.48667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Propinsi Biliran"
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":1725258,
         "gp:id":1198914,
-        "qs:id":911925,
+        "qs_pg:id":911925,
         "wd:id":"Q406186"
     },
     "wof:country":"PH",
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":421182463,
-    "wof:lastmodified":1563331742,
+    "wof:lastmodified":1566681878,
     "wof:name":"Biliran",
     "wof:parent_id":1108696997,
     "wof:placetype":"locality",

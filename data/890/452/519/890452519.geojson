@@ -11,10 +11,14 @@
     "geom:longitude":125.13056,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2181,
+    "gn:population":2181,
     "iso:country":"PH",
+    "lbl:bbox":"125.11056,8.06917,125.15056,8.10917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Laguitas"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1708038,
-        "qs:id":135139
+        "qs_pg:id":135139
     },
     "wof:country":"PH",
     "wof:created":1469052820,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890452519,
-    "wof:lastmodified":1505343645,
+    "wof:lastmodified":1566681965,
     "wof:name":"Laguitas",
     "wof:parent_id":1108698301,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"PH",
     "lbl:latitude":14.583616,
     "lbl:longitude":120.973099,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.573465,
     "mps:longitude":120.960145,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "S Pt District",
         "South Pt District",
         "Port Macquarie"
-    ],
-    "name:unk_x_variant":[
-        "South Port District"
     ],
     "name:zho_x_preferred":[
         "\u9ea5\u89ba\u7406\u6e2f\u9078\u5340"
@@ -65,9 +63,8 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":130,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         1159397249,
@@ -77,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1194049,
-        "qs:id":221138,
+        "qs_pg:id":221138,
         "wd:id":"Q5355868"
     },
     "wof:country":"PH",
@@ -95,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563326778,
+    "wof:lastmodified":1566679667,
     "wof:name":"South Port District",
     "wof:parent_id":1159397249,
     "wof:placetype":"neighbourhood",

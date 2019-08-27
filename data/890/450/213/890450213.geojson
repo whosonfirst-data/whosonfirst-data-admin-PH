@@ -11,10 +11,14 @@
     "geom:longitude":120.48709,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2777,
+    "gn:population":2777,
     "iso:country":"PH",
+    "lbl:bbox":"120.46709,15.57332,120.50709,15.61332",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Vargas"
     ],
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1680075,
         "gp:id":1198229,
-        "qs:id":86311,
+        "qs_pg:id":86311,
         "wk:page":"Vargas"
     },
     "wof:country":"PH",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":890450213,
-    "wof:lastmodified":1564179086,
+    "wof:lastmodified":1566682212,
     "wof:name":"Vargas",
     "wof:parent_id":1108699367,
     "wof:placetype":"locality",

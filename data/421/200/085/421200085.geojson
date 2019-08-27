@@ -10,8 +10,12 @@
     "geom:latitude":14.72222,
     "geom:longitude":120.53833,
     "iso:country":"PH",
+    "lbl:bbox":"120.51833,14.70222,120.55833,14.74222",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Abucay"
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":1732354,
         "gp:id":1198749,
-        "qs:id":1277189,
+        "qs_pg:id":1277189,
         "wd:id":"Q54455",
         "wk:page":"Abucay, Bataan"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421200085,
-    "wof:lastmodified":1563331634,
+    "wof:lastmodified":1566681855,
     "wof:name":"Abucay",
     "wof:parent_id":1108696553,
     "wof:placetype":"locality",

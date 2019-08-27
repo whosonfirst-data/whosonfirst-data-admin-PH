@@ -11,10 +11,14 @@
     "geom:longitude":124.25778,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"PH",
+    "lbl:bbox":"124.23778,7.20889,124.27778,7.24889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Sultan Kudarat"
     ],
@@ -63,7 +67,7 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e38\u0e25\u0e15\u0e31\u0e19\u0e04\u0e39\u0e14\u0e32\u0e23\u0e31\u0e15"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nuling"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1685378,
         "gp:id":1188504,
-        "qs:id":371456,
+        "qs_pg:id":371456,
         "wd:id":"Q212791",
         "wk:page":"Sultan Kudarat"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890442947,
-    "wof:lastmodified":1563332523,
+    "wof:lastmodified":1566682110,
     "wof:name":"Sultan Kudarat",
     "wof:parent_id":1108699561,
     "wof:placetype":"locality",

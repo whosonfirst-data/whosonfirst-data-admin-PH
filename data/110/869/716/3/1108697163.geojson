@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.887546,
     "lbl:longitude":122.477984,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ILOILO",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"CABATUANILOILO",
@@ -32,6 +34,7 @@
     "mps:longitude":122.477984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cabatuan"
     ],
@@ -48,7 +51,7 @@
         "Cabatuan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108697163,
-    "wof:lastmodified":1564177270,
+    "wof:lastmodified":1566681267,
     "wof:name":"Cabatuan",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

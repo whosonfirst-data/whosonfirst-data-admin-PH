@@ -12,10 +12,14 @@
     "geom:longitude":120.39071,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":48837,
+    "gn:population":48837,
     "iso:country":"PH",
+    "lbl:bbox":"120.29071,17.46275,120.49071,17.66275",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Lungsod ng Vigan"
     ],
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1679983,
-        "qs:id":350652
+        "qs_pg:id":350652
     },
     "wof:country":"PH",
     "wof:created":1469052380,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890442805,
-    "wof:lastmodified":1514618852,
+    "wof:lastmodified":1566682109,
     "wof:name":"City of Vigan",
     "wof:parent_id":1108699861,
     "wof:placetype":"localadmin",

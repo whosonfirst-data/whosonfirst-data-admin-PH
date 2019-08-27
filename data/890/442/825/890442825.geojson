@@ -12,17 +12,21 @@
     "geom:longitude":124.88333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":149289,
+    "gn:population":149289,
     "iso:country":"PH",
+    "lbl:bbox":"124.78333,6.36667,124.98333,6.56667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:fil_x_preferred":[
         "Lungsod ng Koronadal"
     ],
     "name:fil_x_variant":[
         "Koronadal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koronadal City"
     ],
     "qs:name":"City of Koronadal",
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1708524,
-        "qs:id":350870
+        "qs_pg:id":350870
     },
     "wof:country":"PH",
     "wof:created":1469052381,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890442825,
-    "wof:lastmodified":1514618852,
+    "wof:lastmodified":1566682114,
     "wof:name":"City of Koronadal",
     "wof:parent_id":1108697937,
     "wof:placetype":"localadmin",

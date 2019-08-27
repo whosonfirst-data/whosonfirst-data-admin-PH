@@ -10,8 +10,12 @@
     "geom:latitude":7.82694,
     "geom:longitude":124.10344,
     "iso:country":"PH",
+    "lbl:bbox":"124.08344,7.80694,124.12344,7.84694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Ganassi"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Ganassi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ganasi"
     ],
     "name:urd_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1713271,
         "gp:id":1172897,
-        "qs:id":1294560,
+        "qs_pg:id":1294560,
         "wd:id":"Q273851",
         "wk:page":"Ganassi, Lanao del Sur"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421200157,
-    "wof:lastmodified":1563331626,
+    "wof:lastmodified":1566681853,
     "wof:name":"Ganassi",
     "wof:parent_id":1108698221,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":122.5162,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2024,
+    "gn:population":2024,
     "iso:country":"PH",
+    "lbl:bbox":"122.4962,10.3931,122.5362,10.4331",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "La Paz"
     ],
@@ -376,7 +380,7 @@
     "wof:concordances":{
         "gn:id":1707339,
         "gp:id":1200075,
-        "qs:id":135096,
+        "qs_pg:id":135096,
         "wk:page":"La Paz"
     },
     "wof:country":"PH",
@@ -392,7 +396,7 @@
         }
     ],
     "wof:id":890415887,
-    "wof:lastmodified":1564178532,
+    "wof:lastmodified":1566681910,
     "wof:name":"La Paz",
     "wof:parent_id":1108698679,
     "wof:placetype":"locality",

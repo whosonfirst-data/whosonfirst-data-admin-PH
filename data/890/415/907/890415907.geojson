@@ -11,14 +11,18 @@
     "geom:longitude":125.57917,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2751,
+    "gn:population":2751,
     "iso:country":"PH",
+    "lbl:bbox":"125.55917,6.42889,125.59917,6.46889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lacaron"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lakaran"
     ],
     "qs:name":"Lacaron",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1708223,
         "gp:id":1158237,
-        "qs:id":135146
+        "qs_pg:id":135146
     },
     "wof:country":"PH",
     "wof:created":1469051110,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415907,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681905,
     "wof:name":"Lacaron",
     "wof:parent_id":1108698315,
     "wof:placetype":"locality",

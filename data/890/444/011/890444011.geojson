@@ -11,11 +11,15 @@
     "geom:longitude":119.47062,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2319,
+    "gn:population":2319,
     "iso:country":"PH",
+    "lbl:bbox":"119.45062,4.63442,119.49062,4.67442",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ligayen"
     ],
     "qs:name":"Ligayan",
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":1706466,
         "gp:id":1199365,
-        "qs:id":1032684
+        "qs_pg:id":1032684
     },
     "wof:country":"PH",
     "wof:created":1469052446,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890444011,
-    "wof:lastmodified":1505343597,
+    "wof:lastmodified":1566682055,
     "wof:name":"Ligayan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

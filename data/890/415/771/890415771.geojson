@@ -11,10 +11,14 @@
     "geom:longitude":125.42833,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2081,
+    "gn:population":2081,
     "iso:country":"PH",
+    "lbl:bbox":"125.40833,11.85,125.44833,11.89",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mantang"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1701469,
         "gp:id":1170817,
-        "qs:id":134888
+        "qs_pg:id":134888
     },
     "wof:country":"PH",
     "wof:created":1469051102,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415771,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681917,
     "wof:name":"Mantang",
     "wof:parent_id":1108699555,
     "wof:placetype":"locality",

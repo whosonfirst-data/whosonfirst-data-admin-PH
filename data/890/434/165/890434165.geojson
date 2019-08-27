@@ -11,10 +11,14 @@
     "geom:longitude":123.25,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2271,
+    "gn:population":2271,
     "iso:country":"PH",
+    "lbl:bbox":"123.23,10.04667,123.27,10.08667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Padre Zamora"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":1696738,
         "gp:id":1188045,
-        "qs:id":134692
+        "qs_pg:id":134692
     },
     "wof:country":"PH",
     "wof:created":1469052013,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890434165,
-    "wof:lastmodified":1505343539,
+    "wof:lastmodified":1566682153,
     "wof:name":"Padre Zamora",
     "wof:parent_id":85675945,
     "wof:placetype":"locality",

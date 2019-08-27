@@ -11,10 +11,14 @@
     "geom:longitude":123.1148,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4640,
+    "gn:population":4640,
     "iso:country":"PH",
+    "lbl:bbox":"123.0948,10.7402,123.1348,10.7802",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Kapitan Ramon"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1965308,
         "gp:id":1173510,
-        "qs:id":137349
+        "qs_pg:id":137349
     },
     "wof:country":"PH",
     "wof:created":1469052031,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890434585,
-    "wof:lastmodified":1505343542,
+    "wof:lastmodified":1566682162,
     "wof:name":"Capitan Ramon",
     "wof:parent_id":1108699495,
     "wof:placetype":"locality",

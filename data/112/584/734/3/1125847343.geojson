@@ -9,15 +9,18 @@
     "geom:bbox":"123.67392,11.89697,123.67392,11.89697",
     "geom:latitude":11.89697,
     "geom:longitude":123.67392,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2977,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2977,
     "iso:country":"PH",
+    "lbl:bbox":"123.65392,11.87697,123.69392,11.91697",
     "lbl:latitude":11.89697,
     "lbl:longitude":123.67392,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0648"
@@ -124,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Naro Island"
     ],
     "name:uzb_x_preferred":[
@@ -151,7 +154,7 @@
     "qs_pg:qs_id":87159,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1125847343,
-    "wof:lastmodified":1564179288,
+    "wof:lastmodified":1566682307,
     "wof:name":"Naro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

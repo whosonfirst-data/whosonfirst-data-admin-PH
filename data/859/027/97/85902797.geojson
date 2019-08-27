@@ -12,8 +12,10 @@
     "gn:latitude":12.71219,
     "gn:longitude":124.03247,
     "iso:country":"PH",
+    "lbl:bbox":"124.070518,12.73836,124.080518,12.74836",
     "lbl:latitude":12.74336,
     "lbl:longitude":124.075518,
+    "lbl:max_zoom":18.0,
     "mps:latitude":12.701971,
     "mps:longitude":124.038391,
     "mz:hierarchy_label":0,
@@ -175,9 +177,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d"
     ],
-    "name:unk_x_variant":[
-        "San Juan"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646"
     ],
@@ -213,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85676035,
         102191569,
@@ -224,7 +223,7 @@
     "wof:concordances":{
         "gn:id":1689230,
         "gp:id":1191125,
-        "qs:id":287974
+        "qs_pg:id":287974
     },
     "wof:country":"PH",
     "wof:geomhash":"f837f223991b737d3c23c24b5b6794ac",
@@ -242,7 +241,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564173683,
+    "wof:lastmodified":1566679667,
     "wof:name":"San Juan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

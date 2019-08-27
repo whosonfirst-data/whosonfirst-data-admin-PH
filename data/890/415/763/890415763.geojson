@@ -11,14 +11,18 @@
     "geom:longitude":120.7986,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4736,
+    "gn:population":4736,
     "iso:country":"PH",
+    "lbl:bbox":"120.7786,5.4532,120.8186,5.4932",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Manubul"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manubal"
     ],
     "qs:name":"Manubul",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1701410,
         "gp:id":28343134,
-        "qs:id":134885
+        "qs_pg:id":134885
     },
     "wof:country":"PH",
     "wof:created":1469051101,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890415763,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681905,
     "wof:name":"Manubul",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

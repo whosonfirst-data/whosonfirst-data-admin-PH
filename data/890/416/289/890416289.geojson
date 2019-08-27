@@ -11,14 +11,18 @@
     "geom:longitude":123.6761,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2670,
+    "gn:population":2670,
     "iso:country":"PH",
+    "lbl:bbox":"123.6561,13.1893,123.6961,13.2293",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Anuling"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anoling"
     ],
     "qs:name":"Anuling",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1730595,
-        "qs:id":136050
+        "qs_pg:id":136050
     },
     "wof:country":"PH",
     "wof:created":1469051127,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890416289,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566682091,
     "wof:name":"Anuling",
     "wof:parent_id":1108697235,
     "wof:placetype":"locality",

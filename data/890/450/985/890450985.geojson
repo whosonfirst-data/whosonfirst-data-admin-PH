@@ -11,10 +11,14 @@
     "geom:longitude":120.8666,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4911,
+    "gn:population":4911,
     "iso:country":"PH",
+    "lbl:bbox":"120.8466,14.09769,120.8866,14.13769",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03b3\u03ba\u03b1\u03c2"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1701830,
         "gp:id":1181873,
-        "qs:id":87304,
+        "qs_pg:id":87304,
         "wd:id":"Q628710",
         "wk:page":"Mangas"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890450985,
-    "wof:lastmodified":1563332814,
+    "wof:lastmodified":1566682201,
     "wof:name":"Mangas",
     "wof:parent_id":1108696623,
     "wof:placetype":"locality",

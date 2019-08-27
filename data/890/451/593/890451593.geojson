@@ -11,10 +11,14 @@
     "geom:longitude":120.93609,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3907,
+    "gn:population":3907,
     "iso:country":"PH",
+    "lbl:bbox":"120.91609,14.01987,120.95609,14.05987",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bugaan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1723347,
         "gp:id":1165143,
-        "qs:id":135583
+        "qs_pg:id":135583
     },
     "wof:country":"PH",
     "wof:created":1469052786,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451593,
-    "wof:lastmodified":1505343641,
+    "wof:lastmodified":1566682117,
     "wof:name":"Bugaan",
     "wof:parent_id":1108698027,
     "wof:placetype":"locality",

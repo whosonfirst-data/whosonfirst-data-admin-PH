@@ -9,15 +9,18 @@
     "geom:bbox":"121.61354,17.15754,121.61354,17.15754",
     "geom:latitude":17.15754,
     "geom:longitude":121.61354,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":5198,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":5198,
     "iso:country":"PH",
+    "lbl:bbox":"121.59354,17.13754,121.63354,17.17754",
     "lbl:latitude":17.15754,
     "lbl:longitude":121.61354,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bre_x_preferred":[
         "Mu\u00f1oz"
@@ -34,7 +37,7 @@
     "name:spa_x_preferred":[
         "Mu\u00f1oz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mu\u00f1oz East"
     ],
     "qs_pg:aaroncc":"PH",
@@ -49,7 +52,7 @@
     "qs_pg:qs_id":87190,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1125847411,
-    "wof:lastmodified":1564179288,
+    "wof:lastmodified":1566682306,
     "wof:name":"Mu\u00f1oz",
     "wof:parent_id":1108699051,
     "wof:placetype":"locality",

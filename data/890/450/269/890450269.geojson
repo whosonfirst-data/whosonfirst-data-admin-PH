@@ -11,14 +11,18 @@
     "geom:longitude":120.11024,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2772,
+    "gn:population":2772,
     "iso:country":"PH",
+    "lbl:bbox":"120.09024,16.03562,120.13024,16.07562",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tobuan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tubuan"
     ],
     "qs:name":"Tobuan",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1681652,
-        "qs:id":86382
+        "qs_pg:id":86382
     },
     "wof:country":"PH",
     "wof:created":1469052732,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890450269,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682197,
     "wof:name":"Tobuan",
     "wof:parent_id":1108699543,
     "wof:placetype":"locality",

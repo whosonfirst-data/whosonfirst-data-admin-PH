@@ -10,8 +10,12 @@
     "geom:latitude":9.46694,
     "geom:longitude":125.57722,
     "iso:country":"PH",
+    "lbl:bbox":"125.55722,9.44694,125.59722,9.48694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Alegria"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Alegria"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Algeria"
     ],
     "name:vie_x_preferred":[
@@ -110,10 +114,12 @@
     "wof:concordances":{
         "gn:id":1731571,
         "gp:id":1158632,
-        "qs:id":1294477,
         "qs_pg:id":846316,
         "wd:id":"Q155706",
         "wk:page":"Alegria, Surigao del Norte"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1294477
     },
     "wof:country":"PH",
     "wof:created":1459009367,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421183363,
-    "wof:lastmodified":1563331675,
+    "wof:lastmodified":1566681864,
     "wof:name":"Alegria",
     "wof:parent_id":1108697933,
     "wof:placetype":"locality",

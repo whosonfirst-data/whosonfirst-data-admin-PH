@@ -11,11 +11,15 @@
     "geom:longitude":123.84917,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3126,
+    "gn:population":3126,
     "iso:country":"PH",
+    "lbl:bbox":"123.82917,12.78528,123.86917,12.82528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Cadetaan"
     ],
     "qs:name":"Caditaan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1721176,
         "gp:id":1186614,
-        "qs:id":135510
+        "qs_pg:id":135510
     },
     "wof:country":"PH",
     "wof:created":1469051969,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433161,
-    "wof:lastmodified":1505343533,
+    "wof:lastmodified":1566682166,
     "wof:name":"Caditaan",
     "wof:parent_id":1108698233,
     "wof:placetype":"locality",

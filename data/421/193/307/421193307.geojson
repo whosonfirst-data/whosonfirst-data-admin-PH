@@ -10,8 +10,12 @@
     "geom:latitude":16.73333,
     "geom:longitude":120.35,
     "iso:country":"PH",
+    "lbl:bbox":"120.33,16.71333,120.37,16.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Anda"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1695541,
         "gp:id":1159199,
-        "qs:id":887320,
+        "qs_pg:id":887320,
         "wd:id":"Q363727"
     },
     "wof:country":"PH",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421193307,
-    "wof:lastmodified":1563331383,
+    "wof:lastmodified":1566681797,
     "wof:name":"Anda",
     "wof:parent_id":1108696745,
     "wof:placetype":"locality",

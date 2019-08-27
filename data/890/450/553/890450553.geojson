@@ -11,10 +11,14 @@
     "geom:longitude":122.5184,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2364,
+    "gn:population":2364,
     "iso:country":"PH",
+    "lbl:bbox":"122.4984,11.3013,122.5384,11.3413",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "San Nicolas"
     ],
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1688899,
-        "qs:id":86714,
+        "qs_pg:id":86714,
         "wk:page":"San Nicolas"
     },
     "wof:country":"PH",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890450553,
-    "wof:lastmodified":1527792964,
+    "wof:lastmodified":1566682208,
     "wof:name":"San Nicolas",
     "wof:parent_id":1108699689,
     "wof:placetype":"locality",

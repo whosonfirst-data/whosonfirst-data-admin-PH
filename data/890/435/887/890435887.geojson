@@ -11,14 +11,15 @@
     "geom:longitude":120.38899,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5414,
+    "gn:population":5414,
     "iso:country":"PH",
+    "lbl:bbox":"120.36899,15.86295,120.40899,15.90295",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
-        "Dompay"
-    ],
-    "name:unk_x_variant":[
         "Dompay"
     ],
     "qs:name":"Dumpay",
@@ -35,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1714106,
-        "qs:id":277203
+        "qs_pg:id":277203
     },
     "wof:country":"PH",
     "wof:created":1469052085,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":890435887,
-    "wof:lastmodified":1505343550,
+    "wof:lastmodified":1566682251,
     "wof:name":"Dumpay",
     "wof:parent_id":1108696929,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":124.64889,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2772,
+    "gn:population":2772,
     "iso:country":"PH",
+    "lbl:bbox":"124.62889,8.33472,124.66889,8.37472",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Liboran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liburan"
     ],
     "qs:name":"Liboran",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1706599,
         "gp:id":1178187,
-        "qs:id":135071
+        "qs_pg:id":135071
     },
     "wof:country":"PH",
     "wof:created":1469051108,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415867,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681914,
     "wof:name":"Liboran",
     "wof:parent_id":1108696963,
     "wof:placetype":"locality",

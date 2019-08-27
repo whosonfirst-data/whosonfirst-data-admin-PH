@@ -10,8 +10,12 @@
     "geom:latitude":8.1613,
     "geom:longitude":123.9583,
     "iso:country":"PH",
+    "lbl:bbox":"123.9383,8.1413,123.9783,8.1813",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Maigo"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Maigo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maibo"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1703554,
         "gp:id":1180575,
-        "qs:id":885917,
+        "qs_pg:id":885917,
         "wd:id":"Q274260",
         "wk:page":"Maigo, Lanao del Norte"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421174533,
-    "wof:lastmodified":1563331460,
+    "wof:lastmodified":1566681814,
     "wof:name":"Maigo",
     "wof:parent_id":1108698269,
     "wof:placetype":"locality",

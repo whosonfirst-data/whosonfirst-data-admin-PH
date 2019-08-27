@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.448495,
     "lbl:longitude":123.971569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CEBU",
     "meso:admin_1r":"CENTRAL VISAYAS REGION",
     "meso:diss_me":"COMPOSTELACEBU",
@@ -32,6 +34,7 @@
     "mps:longitude":123.971569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Compostela"
     ],
@@ -75,7 +78,7 @@
         "Compostela"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108697369,
-    "wof:lastmodified":1564176835,
+    "wof:lastmodified":1566681112,
     "wof:name":"Compostela",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

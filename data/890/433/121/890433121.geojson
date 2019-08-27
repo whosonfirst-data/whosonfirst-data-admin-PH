@@ -11,10 +11,14 @@
     "geom:longitude":121.78185,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2216,
+    "gn:population":2216,
     "iso:country":"PH",
+    "lbl:bbox":"121.76185,17.47572,121.80185,17.51572",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bangad"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1727367,
         "gp:id":1190707,
-        "qs:id":135815
+        "qs_pg:id":135815
     },
     "wof:country":"PH",
     "wof:created":1469051967,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433121,
-    "wof:lastmodified":1505343533,
+    "wof:lastmodified":1566682174,
     "wof:name":"Bangad",
     "wof:parent_id":1108699385,
     "wof:placetype":"locality",

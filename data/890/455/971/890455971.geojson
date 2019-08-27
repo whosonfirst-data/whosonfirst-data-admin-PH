@@ -11,10 +11,14 @@
     "geom:longitude":120.7925,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3753,
+    "gn:population":3753,
     "iso:country":"PH",
+    "lbl:bbox":"120.7725,15.5032,120.8125,15.5432",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Santa Maria"
     ],
@@ -304,10 +308,12 @@
     "wof:concordances":{
         "gn:id":1688017,
         "gp:id":91464838,
-        "qs:id":558671,
         "qs_pg:id":371474,
         "wd:id":"Q111019",
         "wk:page":"Santa Maria"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":558671
     },
     "wof:country":"PH",
     "wof:created":1469052987,
@@ -322,7 +328,7 @@
         }
     ],
     "wof:id":890455971,
-    "wof:lastmodified":1563332060,
+    "wof:lastmodified":1566681974,
     "wof:name":"Santa Maria",
     "wof:parent_id":1108698079,
     "wof:placetype":"locality",

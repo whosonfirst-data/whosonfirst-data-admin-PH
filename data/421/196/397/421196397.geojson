@@ -10,8 +10,12 @@
     "geom:latitude":5.93806,
     "geom:longitude":124.72472,
     "iso:country":"PH",
+    "lbl:bbox":"124.70472,5.91806,124.74472,5.95806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kling"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":1708577,
         "gp:id":1199305,
-        "qs:id":1294887
+        "qs_pg:id":1294887
     },
     "wof:country":"PH",
     "wof:created":1459009880,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421196397,
-    "wof:lastmodified":1527716361,
+    "wof:lastmodified":1566681841,
     "wof:name":"Kling",
     "wof:parent_id":1108698659,
     "wof:placetype":"locality",

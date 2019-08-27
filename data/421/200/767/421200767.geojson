@@ -10,8 +10,12 @@
     "geom:latitude":14.02,
     "geom:longitude":121.4187,
     "iso:country":"PH",
+    "lbl:bbox":"121.3987,14.0,121.4387,14.04",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Pinagdanglayan"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1693690,
         "gp:id":1199650,
-        "qs:id":894364
+        "qs_pg:id":894364
     },
     "wof:country":"PH",
     "wof:created":1459010038,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421200767,
-    "wof:lastmodified":1501221507,
+    "wof:lastmodified":1566681856,
     "wof:name":"Pinamalayan",
     "wof:parent_id":1108697245,
     "wof:placetype":"locality",

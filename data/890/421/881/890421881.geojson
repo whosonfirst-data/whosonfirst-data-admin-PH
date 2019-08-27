@@ -11,11 +11,15 @@
     "geom:longitude":124.57472,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4098,
+    "gn:population":4098,
     "iso:country":"PH",
+    "lbl:bbox":"124.55472,8.24389,124.59472,8.28389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tignapoloan"
     ],
     "qs:name":"Tignapalan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1682182,
-        "qs:id":134034
+        "qs_pg:id":134034
     },
     "wof:country":"PH",
     "wof:created":1469051417,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890421881,
-    "wof:lastmodified":1505343466,
+    "wof:lastmodified":1566682036,
     "wof:name":"Tignapalan",
     "wof:parent_id":1108697749,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.6439,
     "geom:longitude":122.3083,
     "iso:country":"PH",
+    "lbl:bbox":"122.2883,11.6239,122.3283,11.6639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Malinao"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1702737,
         "gp:id":1199450,
-        "qs:id":227481,
+        "qs_pg:id":227481,
         "wd:id":"Q626935",
         "wk:page":"Malinao, Aklan"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421202773,
-    "wof:lastmodified":1563331448,
+    "wof:lastmodified":1566681811,
     "wof:name":"Malinao",
     "wof:parent_id":1108698311,
     "wof:placetype":"locality",

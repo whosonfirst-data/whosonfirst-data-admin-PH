@@ -11,10 +11,14 @@
     "geom:longitude":123.1659,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3098,
+    "gn:population":3098,
     "iso:country":"PH",
+    "lbl:bbox":"123.1459,11.1868,123.1859,11.2268",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Polopina"
     ],
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1693066,
-        "qs:id":86947
+        "qs_pg:id":86947
     },
     "wof:country":"PH",
     "wof:created":1469052752,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":890450761,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682208,
     "wof:name":"Polopina",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

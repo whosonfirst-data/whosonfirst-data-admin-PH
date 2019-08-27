@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.628639,
     "lbl:longitude":122.226506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BASILAN",
     "meso:admin_1r":"AUTONOMOUS REGION OF MUSLIM MINDANAO",
     "meso:diss_me":"TUBURANBASILAN",
@@ -32,6 +34,7 @@
     "mps:longitude":122.226506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tuburan"
     ],
@@ -54,7 +57,7 @@
         "Tuburan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108699791,
-    "wof:lastmodified":1564176960,
+    "wof:lastmodified":1566681162,
     "wof:name":"Tuburan",
     "wof:parent_id":85675955,
     "wof:placetype":"county",

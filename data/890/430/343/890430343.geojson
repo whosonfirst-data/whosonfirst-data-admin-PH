@@ -11,10 +11,14 @@
     "geom:longitude":122.3857,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3527,
+    "gn:population":3527,
     "iso:country":"PH",
+    "lbl:bbox":"122.3657,11.5619,122.4057,11.6019",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Calizo"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1720229,
         "gp:id":1167651,
-        "qs:id":88092
+        "qs_pg:id":88092
     },
     "wof:country":"PH",
     "wof:created":1469051849,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430343,
-    "wof:lastmodified":1505343518,
+    "wof:lastmodified":1566681947,
     "wof:name":"Calizo",
     "wof:parent_id":1108696829,
     "wof:placetype":"locality",

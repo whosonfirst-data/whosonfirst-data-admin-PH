@@ -10,8 +10,12 @@
     "geom:latitude":12.53333,
     "geom:longitude":124.86667,
     "iso:country":"PH",
+    "lbl:bbox":"124.84667,12.51333,124.88667,12.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Roque"
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":1688545,
         "gp:id":1191896,
-        "qs:id":1187782,
+        "qs_pg:id":1187782,
         "wd:id":"Q175230",
         "wk:page":"San Roque, Northern Samar"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421193765,
-    "wof:lastmodified":1563331385,
+    "wof:lastmodified":1566681798,
     "wof:name":"San Roque",
     "wof:parent_id":1108698641,
     "wof:placetype":"locality",

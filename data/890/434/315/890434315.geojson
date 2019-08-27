@@ -11,14 +11,18 @@
     "geom:longitude":124.3275,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3242,
+    "gn:population":3242,
     "iso:country":"PH",
+    "lbl:bbox":"124.3075,8.35083,124.3475,8.39083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Kabalantian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cabalantian"
     ],
     "qs:name":"Kabalantian",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1709990,
         "gp:id":91426888,
-        "qs:id":135235
+        "qs_pg:id":135235
     },
     "wof:country":"PH",
     "wof:created":1469052020,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890434315,
-    "wof:lastmodified":1505343540,
+    "wof:lastmodified":1566682150,
     "wof:name":"Kabalantian",
     "wof:parent_id":1108698367,
     "wof:placetype":"locality",

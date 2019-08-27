@@ -11,10 +11,14 @@
     "geom:longitude":122.06556,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":3327,
+    "gn:population":3327,
     "iso:country":"PH",
+    "lbl:bbox":"122.04556,7.27111,122.08556,7.31111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Sibuco"
     ],
@@ -57,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Sibuco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sibuko"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1686760,
         "gp:id":28344613,
-        "qs:id":558665,
+        "qs_pg:id":558665,
         "wd:id":"Q132599"
     },
     "wof:country":"PH",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890445309,
-    "wof:lastmodified":1563332547,
+    "wof:lastmodified":1566682116,
     "wof:name":"Sibuco",
     "wof:parent_id":1108698671,
     "wof:placetype":"locality",

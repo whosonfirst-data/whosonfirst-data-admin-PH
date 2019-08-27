@@ -11,10 +11,14 @@
     "geom:longitude":122.845,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2611,
+    "gn:population":2611,
     "iso:country":"PH",
+    "lbl:bbox":"122.825,8.10722,122.865,8.14722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Rooikat"
     ],
@@ -292,7 +296,7 @@
     "wof:concordances":{
         "gn:id":1718541,
         "gp:id":1169054,
-        "qs:id":1032918,
+        "qs_pg:id":1032918,
         "wd:id":"Q30847",
         "wk:page":"Caracal"
     },
@@ -309,7 +313,7 @@
         }
     ],
     "wof:id":890453489,
-    "wof:lastmodified":1563332253,
+    "wof:lastmodified":1566682031,
     "wof:name":"Caracal",
     "wof:parent_id":1108699091,
     "wof:placetype":"locality",

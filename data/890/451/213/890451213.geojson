@@ -11,11 +11,15 @@
     "geom:longitude":121.39722,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2764,
+    "gn:population":2764,
     "iso:country":"PH",
+    "lbl:bbox":"121.37722,13.75911,121.41722,13.79911",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kipot"
     ],
     "qs:name":"Quipot",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1708638,
         "gp:id":1190127,
-        "qs:id":87622
+        "qs_pg:id":87622
     },
     "wof:country":"PH",
     "wof:created":1469052770,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451213,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682133,
     "wof:name":"Quipot",
     "wof:parent_id":1108699223,
     "wof:placetype":"locality",

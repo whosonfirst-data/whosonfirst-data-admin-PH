@@ -10,8 +10,12 @@
     "geom:latitude":14.83111,
     "geom:longitude":120.78917,
     "iso:country":"PH",
+    "lbl:bbox":"120.76917,14.81111,120.80917,14.85111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Paombong"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Paombong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paonbong"
     ],
     "name:urd_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":1694861,
         "gp:id":1186887,
-        "qs:id":7140,
+        "qs_pg:id":7140,
         "wd:id":"Q54605",
         "wk:page":"Paombong, Bulacan"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421187699,
-    "wof:lastmodified":1563331501,
+    "wof:lastmodified":1566681824,
     "wof:name":"Paombong",
     "wof:parent_id":1108698809,
     "wof:placetype":"locality",

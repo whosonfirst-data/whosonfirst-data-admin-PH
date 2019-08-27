@@ -11,11 +11,15 @@
     "geom:longitude":120.42442,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2195,
+    "gn:population":2195,
     "iso:country":"PH",
+    "lbl:bbox":"120.40442,17.19738,120.44442,17.23738",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Catarman"
     ],
     "qs:name":"Caterman",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1717890,
         "gp:id":1169547,
-        "qs:id":1032901
+        "qs_pg:id":1032901
     },
     "wof:country":"PH",
     "wof:created":1469052127,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436819,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566681977,
     "wof:name":"Caterman",
     "wof:parent_id":1108697253,
     "wof:placetype":"locality",

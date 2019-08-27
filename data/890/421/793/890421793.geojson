@@ -11,10 +11,14 @@
     "geom:longitude":124.0,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":31788,
+    "gn:population":31788,
     "iso:country":"PH",
+    "lbl:bbox":"123.9,10.73333,124.1,10.93333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Borbon"
     ],
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1723928,
-        "qs:id":88243,
+        "qs_pg:id":88243,
         "wk:page":"Borbon"
     },
     "wof:country":"PH",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890421793,
-    "wof:lastmodified":1564178780,
+    "wof:lastmodified":1566682039,
     "wof:name":"Borbon",
     "wof:parent_id":1108697059,
     "wof:placetype":"localadmin",

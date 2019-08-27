@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.173775,
     "lbl:longitude":124.767568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CAMIGUIN",
     "meso:admin_1r":"NORTHERN MINDANAO REGION",
     "meso:diss_me":"MAHINOGCAMIGUIN",
@@ -32,6 +34,7 @@
     "mps:longitude":124.767568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Mahinog"
     ],
@@ -78,7 +81,7 @@
         "Mahinog"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108698267,
-    "wof:lastmodified":1564176882,
+    "wof:lastmodified":1566681131,
     "wof:name":"Mahinog",
     "wof:parent_id":85676225,
     "wof:placetype":"county",

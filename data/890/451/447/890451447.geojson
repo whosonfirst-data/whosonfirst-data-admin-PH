@@ -11,14 +11,18 @@
     "geom:longitude":121.22811,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2576,
+    "gn:population":2576,
     "iso:country":"PH",
+    "lbl:bbox":"121.20811,12.20906,121.24811,12.24906",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Alibug"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alibog"
     ],
     "qs:name":"Alibug",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1731502,
         "gp:id":1163747,
-        "qs:id":88557
+        "qs_pg:id":88557
     },
     "wof:country":"PH",
     "wof:created":1469052780,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890451447,
-    "wof:lastmodified":1505343640,
+    "wof:lastmodified":1566682120,
     "wof:name":"Alibug",
     "wof:parent_id":1108698253,
     "wof:placetype":"locality",
