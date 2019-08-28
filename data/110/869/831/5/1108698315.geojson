@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.327906,
     "lbl:longitude":125.571527,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DAVAO DEL SUR",
     "meso:admin_1r":"DAVAO REGION",
     "meso:diss_me":"MALITADAVAO DEL SUR",
@@ -32,11 +34,12 @@
     "mps:longitude":125.571527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Malita"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108698315,
-    "wof:lastmodified":1564177163,
+    "wof:lastmodified":1566681228,
     "wof:name":"Malita",
     "wof:parent_id":85676253,
     "wof:placetype":"county",

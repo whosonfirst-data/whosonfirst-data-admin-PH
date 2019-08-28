@@ -11,10 +11,14 @@
     "geom:longitude":123.66667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2990,
+    "gn:population":2990,
     "iso:country":"PH",
+    "lbl:bbox":"123.64667,13.43,123.68667,13.47",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bagumbayan"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1728893,
         "gp:id":1180765,
-        "qs:id":135916,
+        "qs_pg:id":135916,
         "wk:page":"Bagumbayan"
     },
     "wof:country":"PH",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890452661,
-    "wof:lastmodified":1564178637,
+    "wof:lastmodified":1566681964,
     "wof:name":"Bagumbayan",
     "wof:parent_id":1108699741,
     "wof:placetype":"locality",

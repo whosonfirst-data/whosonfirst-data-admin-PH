@@ -11,10 +11,14 @@
     "geom:longitude":120.4583,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":3123,
+    "gn:population":3123,
     "iso:country":"PH",
+    "lbl:bbox":"120.4383,17.8464,120.4783,17.8864",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Sinait"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1686318,
         "gp:id":1188597,
-        "qs:id":134181,
+        "qs_pg:id":134181,
         "wd:id":"Q12891",
         "wk:page":"Sinait"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890415539,
-    "wof:lastmodified":1563331883,
+    "wof:lastmodified":1566681919,
     "wof:name":"Sinait",
     "wof:parent_id":1108699505,
     "wof:placetype":"locality",

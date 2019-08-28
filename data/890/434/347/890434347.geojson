@@ -11,10 +11,14 @@
     "geom:longitude":120.52889,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4522,
+    "gn:population":4522,
     "iso:country":"PH",
+    "lbl:bbox":"120.50889,15.07498,120.54889,15.11498",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Dolores"
     ],
@@ -81,9 +85,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043b\u043e\u0440\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Hacienda Dolores"
-    ],
     "name:vie_x_preferred":[
         "Dolores"
     ],
@@ -106,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1712027,
         "gp:id":1179177,
-        "qs:id":135299,
+        "qs_pg:id":135299,
         "wk:page":"Dolores"
     },
     "wof:country":"PH",
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":890434347,
-    "wof:lastmodified":1564178970,
+    "wof:lastmodified":1566682151,
     "wof:name":"Dolores",
     "wof:parent_id":1108698945,
     "wof:placetype":"locality",

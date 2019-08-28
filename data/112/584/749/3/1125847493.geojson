@@ -9,20 +9,23 @@
     "geom:bbox":"120.48127,15.97723,120.48127,15.97723",
     "geom:latitude":15.97723,
     "geom:longitude":120.48127,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6111,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":6111,
     "iso:country":"PH",
+    "lbl:bbox":"120.46127,15.95723,120.50127,15.99723",
     "lbl:latitude":15.97723,
     "lbl:longitude":120.48127,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Minien East"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minien"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":87215,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125847493,
-    "wof:lastmodified":1509395724,
+    "wof:lastmodified":1566682305,
     "wof:name":"Minien East",
     "wof:parent_id":1108699827,
     "wof:placetype":"locality",

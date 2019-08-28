@@ -11,10 +11,14 @@
     "geom:longitude":123.4381,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":19450,
+    "gn:population":19450,
     "iso:country":"PH",
+    "lbl:bbox":"123.3381,8.3025,123.5381,8.5025",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Pi\u00f1an"
     ],
@@ -63,7 +67,7 @@
     "name:tgl_x_preferred":[
         "Pi\u00f1an"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "New Pi\u00f1an"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1693568,
-        "qs:id":86976,
+        "qs_pg:id":86976,
         "wd:id":"Q132570",
         "wk:page":"Pi\u00f1an, Zamboanga del Norte"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890432733,
-    "wof:lastmodified":1563332935,
+    "wof:lastmodified":1566682235,
     "wof:name":"Municipality of Pi\u00f1an",
     "wof:parent_id":1108698899,
     "wof:placetype":"localadmin",

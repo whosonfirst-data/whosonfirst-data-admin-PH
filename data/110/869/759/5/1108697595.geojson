@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.979691,
     "lbl:longitude":120.480835,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PAMPANGA",
     "meso:admin_1r":"CENTRAL LUZON REGION",
     "meso:diss_me":"FLORIDABLANCAPAMPANGA",
@@ -32,6 +34,7 @@
     "mps:longitude":120.480835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Floridablanca"
     ],
@@ -57,7 +60,7 @@
         "Floridablanca"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108697595,
-    "wof:lastmodified":1564177107,
+    "wof:lastmodified":1566681206,
     "wof:name":"Floridablanca",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

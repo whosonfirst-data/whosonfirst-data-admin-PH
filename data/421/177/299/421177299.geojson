@@ -10,8 +10,12 @@
     "geom:latitude":14.38694,
     "geom:longitude":120.88167,
     "iso:country":"PH",
+    "lbl:bbox":"120.86167,14.36694,120.90167,14.40694",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "General Trias"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1713014,
         "gp:id":1199184,
-        "qs:id":1171436,
+        "qs_pg:id":1171436,
         "wd:id":"Q62723",
         "wk:page":"General Trias, Cavite"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421177299,
-    "wof:lastmodified":1563331673,
+    "wof:lastmodified":1566681863,
     "wof:name":"General Trias",
     "wof:parent_id":1108697637,
     "wof:placetype":"locality",

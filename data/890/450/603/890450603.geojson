@@ -11,10 +11,14 @@
     "geom:longitude":120.45655,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2992,
+    "gn:population":2992,
     "iso:country":"PH",
+    "lbl:bbox":"120.43655,15.7465,120.47655,15.7865",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "San Gabriel"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1689931,
         "gp:id":1198562,
-        "qs:id":86777
+        "qs_pg:id":86777
     },
     "wof:country":"PH",
     "wof:created":1469052746,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450603,
-    "wof:lastmodified":1505343635,
+    "wof:lastmodified":1566682196,
     "wof:name":"San Gabriel First",
     "wof:parent_id":1108696969,
     "wof:placetype":"locality",

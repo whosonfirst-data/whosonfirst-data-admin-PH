@@ -11,10 +11,14 @@
     "geom:longitude":124.45,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":40257,
+    "gn:population":40257,
     "iso:country":"PH",
+    "lbl:bbox":"124.35,11.48333,124.55,11.68333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "qs:name":"Naval",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1697882,
-        "qs:id":87155
+        "qs_pg:id":87155
     },
     "wof:country":"PH",
     "wof:created":1469052325,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890441483,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566681899,
     "wof:name":"Naval",
     "wof:parent_id":1108698569,
     "wof:placetype":"localadmin",

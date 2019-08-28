@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":13.935319,
     "lbl:longitude":121.567271,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Lucena",
     "mps:latitude":13.933792,
     "mps:longitude":121.567305,
@@ -312,9 +313,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"8,707",
     "statoids:area_mi":"3,362",
     "statoids:as_of_date":"2010-05-01",
@@ -367,11 +368,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326793,
+    "wof:lastmodified":1566679671,
     "wof:name":"Lucena",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1987030,
     "wof:population_rank":12,

@@ -10,8 +10,12 @@
     "geom:latitude":7.87917,
     "geom:longitude":124.33306,
     "iso:country":"PH",
+    "lbl:bbox":"124.31306,7.85917,124.35306,7.89917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Tamparan"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1683425,
         "gp:id":1195725,
-        "qs:id":427144,
+        "qs_pg:id":427144,
         "wd:id":"Q274087",
         "wk:page":"Tamparan, Lanao del Sur"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421180351,
-    "wof:lastmodified":1563331491,
+    "wof:lastmodified":1566681821,
     "wof:name":"Tamparan",
     "wof:parent_id":1108699661,
     "wof:placetype":"locality",

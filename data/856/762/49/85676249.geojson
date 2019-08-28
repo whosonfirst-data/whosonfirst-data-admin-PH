@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":8.757222,
     "lbl:longitude":124.936085,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Misamis Oriental",
     "mps:latitude":8.744421,
     "mps:longitude":124.97752,
@@ -182,9 +183,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u041c\u0456\u0441\u0430\u043c\u0456\u0441"
     ],
-    "name:unk_x_variant":[
-        "Misamis Oriental Province"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0633\u0627\u0645\u0633 \u0634\u0631\u0642\u06cc"
     ],
@@ -274,9 +272,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"3,570",
     "statoids:area_mi":"1,378",
     "statoids:as_of_date":"2010-05-01",
@@ -302,7 +300,7 @@
         "gp:id":2346698,
         "hasc:id":"PH.MN",
         "iso:id":"PH-MSR",
-        "qs:id":1075587,
+        "qs_pg:id":1075587,
         "unlc:id":"PH-MSR",
         "wd:id":"Q13860",
         "wk:page":"Misamis Oriental"
@@ -317,9 +315,6 @@
         }
     ],
     "wof:id":85676249,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -335,11 +330,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326812,
+    "wof:lastmodified":1566679675,
     "wof:name":"Misamis Oriental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1415944,
     "wof:population_rank":12,

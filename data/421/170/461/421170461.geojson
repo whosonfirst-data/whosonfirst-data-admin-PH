@@ -10,8 +10,12 @@
     "geom:latitude":14.5372,
     "geom:longitude":121.0268,
     "iso:country":"PH",
+    "lbl:bbox":"121.0068,14.5172,121.0468,14.5572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0633\u0645\u0627\u0631\u064a\u0646\u0627\u0633"
@@ -151,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0441\u043c\u0430\u0440\u0456\u043d\u044c\u044f\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dasmarinas Village"
     ],
     "name:urd_x_preferred":[
@@ -197,10 +201,12 @@
     "wof:concordances":{
         "gn:id":1715430,
         "gp:id":1199132,
-        "qs:id":482450,
         "qs_pg:id":277228,
         "wd:id":"Q63139",
         "wk:page":"Dasmari\u00f1as Village"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":482450
     },
     "wof:country":"PH",
     "wof:created":1459008854,
@@ -214,7 +220,7 @@
         }
     ],
     "wof:id":421170461,
-    "wof:lastmodified":1563331665,
+    "wof:lastmodified":1566681862,
     "wof:name":"Dasmari\u00f1as",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

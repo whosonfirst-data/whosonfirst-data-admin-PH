@@ -11,11 +11,15 @@
     "geom:longitude":124.63111,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2647,
+    "gn:population":2647,
     "iso:country":"PH",
+    "lbl:bbox":"124.61111,12.37667,124.65111,12.41667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Polangui"
     ],
     "qs:name":"Pola\u00f1ge",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1693142,
         "gp:id":1188206,
-        "qs:id":1032355
+        "qs_pg:id":1032355
     },
     "wof:country":"PH",
     "wof:created":1469052129,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436855,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566681983,
     "wof:name":"Pola\u00f1ge",
     "wof:parent_id":1108697327,
     "wof:placetype":"locality",

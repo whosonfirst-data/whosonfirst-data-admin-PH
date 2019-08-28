@@ -11,10 +11,14 @@
     "geom:longitude":123.1236,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7452,
+    "gn:population":7452,
     "iso:country":"PH",
+    "lbl:bbox":"123.1036,11.5441,123.1436,11.5841",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Guinticgan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1712276,
         "gp:id":1162603,
-        "qs:id":87772
+        "qs_pg:id":87772
     },
     "wof:country":"PH",
     "wof:created":1469052327,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441535,
-    "wof:lastmodified":1505343583,
+    "wof:lastmodified":1566681898,
     "wof:name":"Guinticgan",
     "wof:parent_id":1108697291,
     "wof:placetype":"locality",

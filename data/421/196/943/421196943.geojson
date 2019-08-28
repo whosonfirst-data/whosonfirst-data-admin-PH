@@ -10,8 +10,12 @@
     "geom:latitude":10.692,
     "geom:longitude":123.0608,
     "iso:country":"PH",
+    "lbl:bbox":"123.0408,10.672,123.0808,10.712",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Concepcion"
@@ -19,7 +23,7 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0441\u0435\u043f\u0441\u044c\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concepcion Town"
     ],
     "qs:gn_country":"PH",
@@ -55,8 +59,10 @@
     "wof:concordances":{
         "gn:id":1717022,
         "gp:id":1199088,
-        "qs:id":842329,
         "qs_pg:id":277247
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":842329
     },
     "wof:country":"PH",
     "wof:created":1459009898,
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":421196943,
-    "wof:lastmodified":1509410033,
+    "wof:lastmodified":1566681844,
     "wof:name":"Concepcion",
     "wof:parent_id":1108699649,
     "wof:placetype":"locality",

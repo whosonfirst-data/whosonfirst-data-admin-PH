@@ -10,8 +10,12 @@
     "geom:latitude":13.4463,
     "geom:longitude":121.84,
     "iso:country":"PH",
+    "lbl:bbox":"121.82,13.4263,121.86,13.4663",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Boac"
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":1724576,
         "gp:id":1198931,
-        "qs:id":980497,
+        "qs_pg:id":980497,
         "wd:id":"Q107011",
         "wk:page":"Boac, Marinduque"
     },
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":421175539,
-    "wof:lastmodified":1563331549,
+    "wof:lastmodified":1566681836,
     "wof:name":"Boac",
     "wof:parent_id":1108697025,
     "wof:placetype":"locality",

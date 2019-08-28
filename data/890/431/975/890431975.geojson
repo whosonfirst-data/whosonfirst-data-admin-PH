@@ -11,10 +11,14 @@
     "geom:longitude":122.3455,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3470,
+    "gn:population":3470,
     "iso:country":"PH",
+    "lbl:bbox":"122.3255,11.5195,122.3655,11.5595",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ang_x_preferred":[
         "heah en\u021del"
     ],
@@ -201,7 +205,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1730218,
-        "qs:id":277423,
+        "qs_pg:id":277423,
         "wd:id":"Q178342",
         "wk:page":"Archangel"
     },
@@ -218,7 +222,7 @@
         }
     ],
     "wof:id":890431975,
-    "wof:lastmodified":1563332168,
+    "wof:lastmodified":1566682007,
     "wof:name":"Arcangel",
     "wof:parent_id":1108696829,
     "wof:placetype":"locality",

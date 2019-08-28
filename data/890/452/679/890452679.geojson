@@ -11,10 +11,14 @@
     "geom:longitude":124.22111,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":8417,
+    "gn:population":8417,
     "iso:country":"PH",
+    "lbl:bbox":"124.20111,7.13306,124.24111,7.17306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Awang"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":1729907,
         "gp:id":1160623,
-        "qs:id":135985
+        "qs_pg:id":135985
     },
     "wof:country":"PH",
     "wof:created":1469052826,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890452679,
-    "wof:lastmodified":1564178645,
+    "wof:lastmodified":1566681969,
     "wof:name":"Awang",
     "wof:parent_id":1108697487,
     "wof:placetype":"locality",

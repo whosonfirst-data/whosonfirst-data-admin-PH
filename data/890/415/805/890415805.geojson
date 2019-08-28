@@ -11,14 +11,18 @@
     "geom:longitude":123.2203,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2878,
+    "gn:population":2878,
     "iso:country":"PH",
+    "lbl:bbox":"123.2003,9.1119,123.2403,9.1519",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malway"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maluay"
     ],
     "qs:name":"Malway",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1702486,
-        "qs:id":134936
+        "qs_pg:id":134936
     },
     "wof:country":"PH",
     "wof:created":1469051104,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890415805,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681915,
     "wof:name":"Malway",
     "wof:parent_id":1108699891,
     "wof:placetype":"locality",

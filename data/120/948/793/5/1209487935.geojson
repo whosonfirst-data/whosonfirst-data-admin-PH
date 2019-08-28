@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"121.0746,17.2445,121.1146,17.2845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fil_x_preferred":[
         "Tuigeo"
     ],
@@ -34,10 +38,6 @@
         "Tulgueo",
         "Tulgeo",
         "Tulgao"
-    ],
-    "name:und_x_variant":[
-        "Tulgueo",
-        "Tulgeo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1209487935,
-    "wof:lastmodified":1537677273,
+    "wof:lastmodified":1566680553,
     "wof:name":"Tuigeo",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",

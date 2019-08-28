@@ -11,10 +11,14 @@
     "geom:longitude":118.3,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2638,
+    "gn:population":2638,
     "iso:country":"PH",
+    "lbl:bbox":"118.28,6.06333,118.32,6.10333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Turtle Islands"
     ],
@@ -63,9 +67,6 @@
     "name:tgl_x_preferred":[
         "Turtle Islands"
     ],
-    "name:unk_x_variant":[
-        "Turtle Islands"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u062a\u0644 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688\u0632"
     ],
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1684606,
         "gp:id":1194869,
-        "qs:id":134126,
+        "qs_pg:id":134126,
         "wd:id":"Q155396",
         "wk:page":"Taganak"
     },
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":890433935,
-    "wof:lastmodified":1563332729,
+    "wof:lastmodified":1566682175,
     "wof:name":"Taganak",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

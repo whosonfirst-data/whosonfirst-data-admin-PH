@@ -11,10 +11,14 @@
     "geom:longitude":121.1203,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3481,
+    "gn:population":3481,
     "iso:country":"PH",
+    "lbl:bbox":"121.1003,13.2122,121.1403,13.2522",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Aurora"
     ],
@@ -304,7 +308,7 @@
     "wof:concordances":{
         "gn:id":1729929,
         "gp:id":1159870,
-        "qs:id":88489,
+        "qs_pg:id":88489,
         "wd:id":"Q40609",
         "wk:page":"Aurora"
     },
@@ -321,7 +325,7 @@
         }
     ],
     "wof:id":890433069,
-    "wof:lastmodified":1563332745,
+    "wof:lastmodified":1566682181,
     "wof:name":"Aurora",
     "wof:parent_id":1108698567,
     "wof:placetype":"locality",

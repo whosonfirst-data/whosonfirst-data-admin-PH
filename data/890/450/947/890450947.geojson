@@ -11,10 +11,14 @@
     "geom:longitude":121.85514,
     "gn:country":"PH",
     "gn:fcode":"LCTY",
-    "gn:pop":3086,
+    "gn:population":3086,
     "iso:country":"PH",
+    "lbl:bbox":"121.83514,17.35212,121.87514,17.39212",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Masipi West"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1700649,
         "gp:id":91464520,
-        "qs:id":87256
+        "qs_pg:id":87256
     },
     "wof:country":"PH",
     "wof:created":1469052759,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450947,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682201,
     "wof:name":"Masipi West",
     "wof:parent_id":1108697151,
     "wof:placetype":"locality",

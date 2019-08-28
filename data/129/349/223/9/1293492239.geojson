@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"124.0283,13.2096,124.0683,13.2496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Batan"
     ],
@@ -67,8 +71,7 @@
         "\u0411\u0430\u0442\u0430\u043d"
     ],
     "name:und_x_variant":[
-        "Anonang",
-        "Batan"
+        "Anonang"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1293492239,
-    "wof:lastmodified":1564174024,
+    "wof:lastmodified":1566679856,
     "wof:name":"Batan",
     "wof:parent_id":1108698583,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":120.9672,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4014,
+    "gn:population":4014,
     "iso:country":"PH",
+    "lbl:bbox":"120.9472,14.92607,120.9872,14.96607",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Niogan"
     ],
     "qs:name":"Niugan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1697622,
         "gp:id":1169444,
-        "qs:id":87136
+        "qs_pg:id":87136
     },
     "wof:country":"PH",
     "wof:created":1469052758,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450923,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682200,
     "wof:name":"Niugan",
     "wof:parent_id":1108698593,
     "wof:placetype":"locality",

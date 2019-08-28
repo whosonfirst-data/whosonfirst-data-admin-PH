@@ -10,8 +10,12 @@
     "geom:latitude":10.24498,
     "geom:longitude":123.7964,
     "iso:country":"PH",
+    "lbl:bbox":"123.7764,10.22498,123.8164,10.26498",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Minglanilla"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1699572,
         "gp:id":1183425,
-        "qs:id":461059,
+        "qs_pg:id":461059,
         "wd:id":"Q316146",
         "wk:page":"Minglanilla, Cebu"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421179731,
-    "wof:lastmodified":1563331687,
+    "wof:lastmodified":1566681866,
     "wof:name":"Minglanilla",
     "wof:parent_id":1108698537,
     "wof:placetype":"locality",

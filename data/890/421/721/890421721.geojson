@@ -11,11 +11,15 @@
     "geom:longitude":123.95,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4498,
+    "gn:population":4498,
     "iso:country":"PH",
+    "lbl:bbox":"123.93,9.91333,123.97,9.95333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pinayagan"
     ],
     "qs:name":"Pinayagan Norte",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1693510,
         "gp:id":1173759,
-        "qs:id":276956
+        "qs_pg:id":276956
     },
     "wof:country":"PH",
     "wof:created":1469051405,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890421721,
-    "wof:lastmodified":1505343465,
+    "wof:lastmodified":1566682043,
     "wof:name":"Pinayagan Norte",
     "wof:parent_id":1108699777,
     "wof:placetype":"locality",

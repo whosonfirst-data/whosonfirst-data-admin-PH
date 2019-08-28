@@ -11,14 +11,18 @@
     "geom:longitude":121.75391,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4843,
+    "gn:population":4843,
     "iso:country":"PH",
+    "lbl:bbox":"121.73391,13.9717,121.77391,14.0117",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Binahaan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Binhaan"
     ],
     "qs:name":"Binahaan",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1725173,
-        "qs:id":88282
+        "qs_pg:id":88282
     },
     "wof:country":"PH",
     "wof:created":1469052777,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890451407,
-    "wof:lastmodified":1505343640,
+    "wof:lastmodified":1566682125,
     "wof:name":"Binahaan",
     "wof:parent_id":1108698729,
     "wof:placetype":"locality",

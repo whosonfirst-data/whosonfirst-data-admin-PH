@@ -11,10 +11,14 @@
     "geom:longitude":120.8,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":46788,
+    "gn:population":46788,
     "iso:country":"PH",
+    "lbl:bbox":"120.7,14.9,120.9,15.1",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "San Simon"
     ],
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1688427,
-        "qs:id":1151956,
+        "qs_pg:id":1151956,
         "wk:page":"San Simon"
     },
     "wof:country":"PH",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890437691,
-    "wof:lastmodified":1564178625,
+    "wof:lastmodified":1566681957,
     "wof:name":"San Simon",
     "wof:parent_id":1108699315,
     "wof:placetype":"localadmin",

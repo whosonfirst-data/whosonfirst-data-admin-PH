@@ -11,10 +11,14 @@
     "geom:longitude":124.45972,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5184,
+    "gn:population":5184,
     "iso:country":"PH",
+    "lbl:bbox":"124.43972,7.03,124.47972,7.07",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Dado"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1978691,
         "gp:id":1171409,
-        "qs:id":277751,
+        "qs_pg:id":277751,
         "wk:page":"Dado"
     },
     "wof:country":"PH",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890438171,
-    "wof:lastmodified":1564178751,
+    "wof:lastmodified":1566682022,
     "wof:name":"Dado",
     "wof:parent_id":1108697459,
     "wof:placetype":"locality",

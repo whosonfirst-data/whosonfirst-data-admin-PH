@@ -11,10 +11,14 @@
     "geom:longitude":122.04556,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2562,
+    "gn:population":2562,
     "iso:country":"PH",
+    "lbl:bbox":"122.02556,14.955,122.06556,14.995",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Carlagan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1718367,
-        "qs:id":1032916
+        "qs_pg:id":1032916
     },
     "wof:country":"PH",
     "wof:created":1469052855,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890453485,
-    "wof:lastmodified":1505343651,
+    "wof:lastmodified":1566682027,
     "wof:name":"Carlagan",
     "wof:parent_id":1108697123,
     "wof:placetype":"locality",

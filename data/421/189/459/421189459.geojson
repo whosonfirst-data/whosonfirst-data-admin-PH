@@ -10,8 +10,12 @@
     "geom:latitude":16.110802,
     "geom:longitude":120.540361,
     "iso:country":"PH",
+    "lbl:bbox":"120.520361,16.090802,120.560361,16.130802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pozorrubio"
@@ -111,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1199668,
-        "qs:id":1112851,
+        "qs_pg:id":1112851,
         "wd:id":"Q42017"
     },
     "wof:country":"PH",
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421189459,
-    "wof:lastmodified":1563331517,
+    "wof:lastmodified":1566681829,
     "wof:name":"Pozorrubio",
     "wof:parent_id":1108698951,
     "wof:placetype":"locality",

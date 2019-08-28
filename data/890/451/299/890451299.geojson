@@ -11,10 +11,14 @@
     "geom:longitude":119.9766,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3128,
+    "gn:population":3128,
     "iso:country":"PH",
+    "lbl:bbox":"119.9566,15.7728,119.9966,15.8128",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Guisguis"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1712227,
         "gp:id":1171982,
-        "qs:id":87765
+        "qs_pg:id":87765
     },
     "wof:country":"PH",
     "wof:created":1469052773,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451299,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682136,
     "wof:name":"Guisguis",
     "wof:parent_id":1108699357,
     "wof:placetype":"locality",

@@ -20,6 +20,7 @@
     ],
     "lbl:latitude":12.040521,
     "lbl:longitude":124.925367,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Samar",
     "mps:latitude":12.044528,
     "mps:longitude":124.930124,
@@ -264,7 +265,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Western Samar"
     ],
     "name:urd_x_preferred":[
@@ -357,9 +358,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"5,591",
     "statoids:area_mi":"2,159",
     "statoids:as_of_date":"2010-05-01",
@@ -385,7 +386,7 @@
         "gp:id":2346708,
         "hasc:id":"PH.SM",
         "iso:id":"PH-WSA",
-        "qs:id":900732,
+        "qs_pg:id":900732,
         "wd:id":"Q13876",
         "wk:page":"Samar"
     },
@@ -399,9 +400,6 @@
         }
     ],
     "wof:id":85676201,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -417,11 +415,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326807,
+    "wof:lastmodified":1566679674,
     "wof:name":"Samar",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":733377,
     "wof:population_rank":11,

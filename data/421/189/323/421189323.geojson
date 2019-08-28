@@ -10,8 +10,12 @@
     "geom:latitude":12.1979,
     "geom:longitude":124.6129,
     "iso:country":"PH",
+    "lbl:bbox":"124.5929,12.1779,124.6329,12.2179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Victoria"
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":8304921,
         "gp:id":1198273,
-        "qs:id":40384,
+        "qs_pg:id":40384,
         "wd:id":"Q175283"
     },
     "wof:country":"PH",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421189323,
-    "wof:lastmodified":1563331514,
+    "wof:lastmodified":1566681828,
     "wof:name":"Victoria",
     "wof:parent_id":1108697221,
     "wof:placetype":"locality",

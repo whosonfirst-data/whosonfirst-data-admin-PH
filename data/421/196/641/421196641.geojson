@@ -10,8 +10,12 @@
     "geom:latitude":13.8697,
     "geom:longitude":121.0971,
     "iso:country":"PH",
+    "lbl:bbox":"121.0771,13.8497,121.1171,13.8897",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Taysan"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1682618,
         "gp:id":1196290,
-        "qs:id":1294734,
+        "qs_pg:id":1294734,
         "wd:id":"Q59830"
     },
     "wof:country":"PH",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421196641,
-    "wof:lastmodified":1563331584,
+    "wof:lastmodified":1566681843,
     "wof:name":"Taysan",
     "wof:parent_id":1108699205,
     "wof:placetype":"locality",

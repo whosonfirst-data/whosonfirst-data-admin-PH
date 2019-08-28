@@ -10,8 +10,12 @@
     "geom:latitude":10.25194,
     "geom:longitude":123.94944,
     "iso:country":"PH",
+    "lbl:bbox":"123.92944,10.23194,123.96944,10.27194",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Cordova"
@@ -70,9 +74,6 @@
     "name:tgl_x_preferred":[
         "Cordova"
     ],
-    "name:unk_x_variant":[
-        "Cordoba"
-    ],
     "name:vie_x_preferred":[
         "Cordova"
     ],
@@ -112,10 +113,12 @@
     "wof:concordances":{
         "gn:id":1716853,
         "gp:id":1199096,
-        "qs:id":970156,
         "qs_pg:id":87957,
         "wd:id":"Q315965",
         "wk:page":"Cordova, Cebu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":970156
     },
     "wof:country":"PH",
     "wof:created":1459009069,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421175487,
-    "wof:lastmodified":1563331553,
+    "wof:lastmodified":1566681836,
     "wof:name":"Cordova",
     "wof:parent_id":1108698607,
     "wof:placetype":"locality",

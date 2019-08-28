@@ -11,11 +11,15 @@
     "geom:longitude":124.96833,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6550,
+    "gn:population":6550,
     "iso:country":"PH",
+    "lbl:bbox":"124.94833,6.265,124.98833,6.305",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Polongding"
     ],
     "qs:name":"Polonoling",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1693069,
-        "qs:id":86948
+        "qs_pg:id":86948
     },
     "wof:country":"PH",
     "wof:created":1469052752,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890450763,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682185,
     "wof:name":"Polonoling",
     "wof:parent_id":1108699813,
     "wof:placetype":"locality",

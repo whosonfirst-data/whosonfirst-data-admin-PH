@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.496353,
     "lbl:longitude":121.888181,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MARINDUQUE",
     "meso:admin_1r":"MIMAROPA",
     "meso:diss_me":"MOGPOGMARINDUQUE",
@@ -32,6 +34,7 @@
     "mps:longitude":121.888181,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Mogpog"
     ],
@@ -81,7 +84,7 @@
         "Mogpog"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108698491,
-    "wof:lastmodified":1564177139,
+    "wof:lastmodified":1566681216,
     "wof:name":"Mogpog",
     "wof:parent_id":85676149,
     "wof:placetype":"county",

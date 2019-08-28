@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.930896,
     "lbl:longitude":121.687066,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ISABELA",
     "meso:admin_1r":"CAGAYAN VALLEY REGION",
     "meso:diss_me":"CABATUANISABELA",
@@ -32,6 +34,7 @@
     "mps:longitude":121.687066,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cabatuan"
     ],
@@ -48,7 +51,7 @@
         "Cabatuan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108697165,
-    "wof:lastmodified":1564177270,
+    "wof:lastmodified":1566681267,
     "wof:name":"Cabatuan",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

@@ -11,14 +11,18 @@
     "geom:longitude":123.0184,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3809,
+    "gn:population":3809,
     "iso:country":"PH",
+    "lbl:bbox":"122.9984,10.53976,123.0384,10.57976",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Cansilayan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cancilayan"
     ],
     "qs:name":"Cansilayan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1719343,
         "gp:id":91424810,
-        "qs:id":88062
+        "qs_pg:id":88062
     },
     "wof:country":"PH",
     "wof:created":1469051960,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890432923,
-    "wof:lastmodified":1505343532,
+    "wof:lastmodified":1566682232,
     "wof:name":"Cansilayan",
     "wof:parent_id":1108699649,
     "wof:placetype":"locality",

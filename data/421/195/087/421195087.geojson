@@ -10,8 +10,12 @@
     "geom:latitude":6.94667,
     "geom:longitude":124.87833,
     "iso:country":"PH",
+    "lbl:bbox":"124.85833,6.92667,124.89833,6.96667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "M'lang"
@@ -67,9 +71,6 @@
     "name:tgl_x_preferred":[
         "M'lang"
     ],
-    "name:unk_x_variant":[
-        "M\u2019lang"
-    ],
     "name:vie_x_preferred":[
         "M'lang"
     ],
@@ -112,7 +113,7 @@
     "wof:concordances":{
         "gn:id":1699461,
         "gp:id":1179584,
-        "qs:id":762867,
+        "qs_pg:id":762867,
         "wd:id":"Q315213",
         "wk:page":"M'lang, Cotabato"
     },
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421195087,
-    "wof:lastmodified":1563331359,
+    "wof:lastmodified":1566681793,
     "wof:name":"M'lang",
     "wof:parent_id":1108698175,
     "wof:placetype":"locality",

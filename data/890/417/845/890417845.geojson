@@ -11,10 +11,14 @@
     "geom:longitude":120.8511,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2370,
+    "gn:population":2370,
     "iso:country":"PH",
+    "lbl:bbox":"120.8311,14.9993,120.8711,15.0393",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u062f"
     ],
@@ -223,9 +227,11 @@
     "wof:concordances":{
         "gn:id":1705509,
         "gp:id":1162562,
-        "qs:id":1032621,
         "qs_pg:id":87474,
         "wk:page":"Lourdes"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1032621
     },
     "wof:country":"PH",
     "wof:created":1469051222,
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":890417845,
-    "wof:lastmodified":1564178797,
+    "wof:lastmodified":1566682046,
     "wof:name":"Lourdes",
     "wof:parent_id":1108697243,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.4973,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":48849,
+    "gn:population":48849,
     "iso:country":"PH",
+    "lbl:bbox":"123.3973,8.0286,123.5973,8.2286",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Mahayag"
     ],
@@ -57,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Mahayag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Molave"
     ],
     "name:vie_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1699389,
-        "qs:id":371613,
+        "qs_pg:id":371613,
         "wd:id":"Q132230",
         "wk:page":"Mahayag, Zamboanga del Sur"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890418095,
-    "wof:lastmodified":1563332496,
+    "wof:lastmodified":1566682104,
     "wof:name":"Municipality of Molave",
     "wof:parent_id":1108698495,
     "wof:placetype":"localadmin",

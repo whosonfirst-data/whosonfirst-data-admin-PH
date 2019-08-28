@@ -11,11 +11,15 @@
     "geom:longitude":121.0309,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4406,
+    "gn:population":4406,
     "iso:country":"PH",
+    "lbl:bbox":"121.0109,15.8145,121.0509,15.8545",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Rosaldo"
     ],
     "qs:name":"Tayabo",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1682653,
         "gp:id":1196267,
-        "qs:id":276785
+        "qs_pg:id":276785
     },
     "wof:country":"PH",
     "wof:created":1469052319,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441327,
-    "wof:lastmodified":1505343581,
+    "wof:lastmodified":1566681903,
     "wof:name":"Tayabo",
     "wof:parent_id":890442461,
     "wof:placetype":"locality",

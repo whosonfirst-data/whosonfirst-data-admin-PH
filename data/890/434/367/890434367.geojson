@@ -11,11 +11,15 @@
     "geom:longitude":123.38333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2385,
+    "gn:population":2385,
     "iso:country":"PH",
+    "lbl:bbox":"123.36333,13.56333,123.40333,13.60333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Gatho"
     ],
     "qs:name":"Gatbo",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1713131,
         "gp:id":1173016,
-        "qs:id":135352
+        "qs_pg:id":135352
     },
     "wof:country":"PH",
     "wof:created":1469052021,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890434367,
-    "wof:lastmodified":1505343541,
+    "wof:lastmodified":1566682154,
     "wof:name":"Gatbo",
     "wof:parent_id":1108698889,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.71278,
     "geom:longitude":126.20806,
     "iso:country":"PH",
+    "lbl:bbox":"126.18806,8.69278,126.22806,8.73278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Salvacion"
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1690736,
         "gp:id":1199715,
-        "qs:id":134413
+        "qs_pg:id":134413
     },
     "wof:country":"PH",
     "wof:created":1459009913,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421197423,
-    "wof:lastmodified":1527716401,
+    "wof:lastmodified":1566681848,
     "wof:name":"Salvacion",
     "wof:parent_id":1108699105,
     "wof:placetype":"locality",

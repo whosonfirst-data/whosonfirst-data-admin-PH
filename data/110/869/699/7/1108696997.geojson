@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.511207,
     "lbl:longitude":124.483563,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BILIRAN",
     "meso:admin_1r":"EASTERN VISAYAS REGION",
     "meso:diss_me":"BILIRANBILIRAN",
@@ -32,6 +34,7 @@
     "mps:longitude":124.483563,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Propinsi Biliran"
     ],
@@ -135,7 +138,7 @@
         "\u6bd4\u5229\u5170\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1108696997,
-    "wof:lastmodified":1564177160,
+    "wof:lastmodified":1566681226,
     "wof:name":"Biliran",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

@@ -10,6 +10,9 @@
     "geom:latitude":15.48586,
     "geom:longitude":120.96648,
     "iso:country":"PH",
+    "lbl:bbox":"120.94648,15.46586,120.98648,15.50586",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -302,7 +305,7 @@
     "wof:concordances":{
         "gn:id":1721906,
         "gp:id":1198989,
-        "qs:id":809430,
+        "qs_pg:id":809430,
         "wd:id":"Q55595",
         "wk:page":"Cabanatuan"
     },
@@ -319,7 +322,7 @@
         }
     ],
     "wof:id":421168927,
-    "wof:lastmodified":1563331338,
+    "wof:lastmodified":1566681787,
     "wof:name":"Cabanatuan City",
     "wof:parent_id":890443085,
     "wof:placetype":"locality",

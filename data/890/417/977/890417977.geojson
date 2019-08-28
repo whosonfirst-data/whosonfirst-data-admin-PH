@@ -11,10 +11,14 @@
     "geom:longitude":124.36361,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":2597,
+    "gn:population":2597,
     "iso:country":"PH",
+    "lbl:bbox":"124.34361,12.66333,124.38361,12.70333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Biri"
     ],
@@ -60,7 +64,7 @@
     "name:tgl_x_preferred":[
         "Biri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beri"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1724803,
         "gp:id":1163990,
-        "qs:id":135677,
+        "qs_pg:id":135677,
         "wd:id":"Q174801",
         "wk:page":"Biri"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890417977,
-    "wof:lastmodified":1563332312,
+    "wof:lastmodified":1566682047,
     "wof:name":"Biri",
     "wof:parent_id":1108697021,
     "wof:placetype":"locality",

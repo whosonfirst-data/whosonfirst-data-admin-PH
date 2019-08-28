@@ -11,10 +11,14 @@
     "geom:longitude":123.8048,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":39279,
+    "gn:population":39279,
     "iso:country":"PH",
+    "lbl:bbox":"123.7848,8.4659,123.8248,8.5059",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0643\u0648\u064a\u062a\u0627"
     ],
@@ -150,9 +154,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u043e\u043a\u0432\u0430\u0439\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Oroquieta City"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u0648\u06a9\u0648\u0626\u06cc\u062a\u0627"
     ],
@@ -180,7 +181,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1697006,
-        "qs:id":134714,
+        "qs_pg:id":134714,
         "wd:id":"Q1067897",
         "wk:page":"Oroquieta"
     },
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":890452427,
-    "wof:lastmodified":1563332041,
+    "wof:lastmodified":1566681969,
     "wof:name":"Oroquieta",
     "wof:parent_id":890436295,
     "wof:placetype":"locality",

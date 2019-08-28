@@ -11,10 +11,14 @@
     "geom:longitude":123.2818,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2841,
+    "gn:population":2841,
     "iso:country":"PH",
+    "lbl:bbox":"123.2618,13.4128,123.3018,13.4528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Balaogan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1728433,
         "gp:id":1161043,
-        "qs:id":135878
+        "qs_pg:id":135878
     },
     "wof:country":"PH",
     "wof:created":1469051124,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416229,
-    "wof:lastmodified":1505343430,
+    "wof:lastmodified":1566682090,
     "wof:name":"Balaogan",
     "wof:parent_id":1108697099,
     "wof:placetype":"locality",

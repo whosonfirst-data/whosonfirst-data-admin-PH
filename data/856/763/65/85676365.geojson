@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":16.031987,
     "lbl:longitude":120.331187,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Dagupan",
     "mps:latitude":16.024736,
     "mps:longitude":120.338088,
@@ -234,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"5,368",
     "statoids:area_mi":"2,073",
     "statoids:as_of_date":"2010-05-01",
@@ -289,11 +290,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326786,
+    "wof:lastmodified":1566679669,
     "wof:name":"Dagupan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2779862,
     "wof:population_rank":12,

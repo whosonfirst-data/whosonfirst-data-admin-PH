@@ -10,8 +10,12 @@
     "geom:latitude":11.3947,
     "geom:longitude":123.1426,
     "iso:country":"PH",
+    "lbl:bbox":"123.1226,11.3747,123.1626,11.4147",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Binon-an"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1724937,
         "gp:id":1198925,
-        "qs:id":1294799
+        "qs_pg:id":1294799
     },
     "wof:country":"PH",
     "wof:created":1459010014,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421200185,
-    "wof:lastmodified":1505340767,
+    "wof:lastmodified":1566681858,
     "wof:name":"Binon-an",
     "wof:parent_id":1108696935,
     "wof:placetype":"locality",

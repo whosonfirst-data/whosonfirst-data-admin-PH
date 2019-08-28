@@ -10,8 +10,12 @@
     "geom:latitude":15.49053,
     "geom:longitude":120.66543,
     "iso:country":"PH",
+    "lbl:bbox":"120.64543,15.47053,120.68543,15.51053",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "San Manuel"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1689111,
         "gp:id":1191342,
-        "qs:id":944326,
+        "qs_pg:id":944326,
         "wd:id":"Q253815"
     },
     "wof:country":"PH",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421182745,
-    "wof:lastmodified":1563331756,
+    "wof:lastmodified":1566681880,
     "wof:name":"San Manuel",
     "wof:parent_id":1108699699,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.9543,
     "geom:longitude":120.2665,
     "iso:country":"PH",
+    "lbl:bbox":"120.2465,11.9343,120.2865,11.9743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bangwang Daan"
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1726932,
         "gp:id":1162330,
-        "qs:id":910343
+        "qs_pg:id":910343
     },
     "wof:country":"PH",
     "wof:created":1459009934,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421198053,
-    "wof:lastmodified":1501221894,
+    "wof:lastmodified":1566681838,
     "wof:name":"Banuang Daan",
     "wof:parent_id":1108698647,
     "wof:placetype":"locality",

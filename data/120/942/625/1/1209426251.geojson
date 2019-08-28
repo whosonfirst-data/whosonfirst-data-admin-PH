@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.78,15.56333,120.82,15.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632509
@@ -36,7 +40,7 @@
         "gn:id":1709163
     },
     "wof:country":"PH",
-    "wof:geomhash":"8729d2b088b7f9007ef6107203fcf380",
+    "wof:geomhash":"42293391067b46028a6ad9a591ef2425",
     "wof:hierarchy":[
         {
             "country_id":85632509,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209426251,
-    "wof:lastmodified":1536287374,
+    "wof:lastmodified":1566680757,
     "wof:name":"Kasanobang Matanda",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     120.8,
-    15.583329999999998,
+    15.58333,
     120.8,
-    15.583329999999998
+    15.58333
 ],
   "geometry": {"coordinates":[120.8,15.58333],"type":"Point"}
 }

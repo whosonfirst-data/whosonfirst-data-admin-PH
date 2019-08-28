@@ -11,11 +11,15 @@
     "geom:longitude":119.89694,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2825,
+    "gn:population":2825,
     "iso:country":"PH",
+    "lbl:bbox":"119.87694,5.05028,119.91694,5.09028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kularpy"
     ],
     "qs:name":"Kolape",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1708553,
         "gp:id":1176690,
-        "qs:id":135167
+        "qs_pg:id":135167
     },
     "wof:country":"PH",
     "wof:created":1469051111,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415919,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566681931,
     "wof:name":"Kolape",
     "wof:parent_id":1108698667,
     "wof:placetype":"locality",

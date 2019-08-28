@@ -10,8 +10,12 @@
     "geom:latitude":13.5594,
     "geom:longitude":123.3761,
     "iso:country":"PH",
+    "lbl:bbox":"123.3561,13.5394,123.3961,13.5794",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Ocampo"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1697332,
         "gp:id":1199570,
-        "qs:id":277012,
+        "qs_pg:id":277012,
         "wd:id":"Q208878",
         "wk:page":"Ocampo, Camarines Sur"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421178073,
-    "wof:lastmodified":1563331719,
+    "wof:lastmodified":1566681873,
     "wof:name":"Ocampo",
     "wof:parent_id":1108698889,
     "wof:placetype":"locality",

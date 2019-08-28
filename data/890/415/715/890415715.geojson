@@ -11,10 +11,14 @@
     "geom:longitude":120.76609,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":55195,
+    "gn:population":55195,
     "iso:country":"PH",
+    "lbl:bbox":"120.74609,14.29812,120.78609,14.33812",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bcl_x_preferred":[
         "Naic"
     ],
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1698548,
         "gp:id":91797051,
-        "qs:id":134769,
+        "qs_pg:id":134769,
         "wd:id":"Q62799",
         "wk:page":"Naic"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890415715,
-    "wof:lastmodified":1563331878,
+    "wof:lastmodified":1566681917,
     "wof:name":"Naic",
     "wof:parent_id":1108698551,
     "wof:placetype":"locality",

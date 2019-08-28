@@ -11,10 +11,14 @@
     "geom:longitude":120.4861,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":59115,
+    "gn:population":59115,
     "iso:country":"PH",
+    "lbl:bbox":"120.4661,16.0238,120.5061,16.0638",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bcl_x_preferred":[
         "Manaoag"
     ],
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1702096,
         "gp:id":1178258,
-        "qs:id":134914,
+        "qs_pg:id":134914,
         "wd:id":"Q1020685"
     },
     "wof:country":"PH",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890454021,
-    "wof:lastmodified":1563332236,
+    "wof:lastmodified":1566682025,
     "wof:name":"Manaoag",
     "wof:parent_id":1108698339,
     "wof:placetype":"locality",

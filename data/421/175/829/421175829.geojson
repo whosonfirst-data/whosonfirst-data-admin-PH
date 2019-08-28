@@ -10,8 +10,12 @@
     "geom:latitude":15.6321,
     "geom:longitude":121.1448,
     "iso:country":"PH",
+    "lbl:bbox":"121.1248,15.6121,121.1648,15.6521",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Bongabon"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1724106,
         "gp:id":1198941,
-        "qs:id":1033000,
+        "qs_pg:id":1033000,
         "wd:id":"Q55544",
         "wk:page":"Bongabon, Nueva Ecija"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421175829,
-    "wof:lastmodified":1563331544,
+    "wof:lastmodified":1566681834,
     "wof:name":"Bongabon",
     "wof:parent_id":1108697045,
     "wof:placetype":"locality",

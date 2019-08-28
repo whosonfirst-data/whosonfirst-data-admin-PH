@@ -11,11 +11,15 @@
     "geom:longitude":120.95472,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":39285,
+    "gn:population":39285,
     "iso:country":"PH",
+    "lbl:bbox":"120.93472,14.94806,120.97472,14.98806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Puting Tubig"
     ],
     "qs:name":"Pantubig",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1694914,
         "gp:id":91464281,
-        "qs:id":276971
+        "qs_pg:id":276971
     },
     "wof:country":"PH",
     "wof:created":1469051903,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431699,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566682002,
     "wof:name":"Pantubig",
     "wof:parent_id":1108699305,
     "wof:placetype":"locality",

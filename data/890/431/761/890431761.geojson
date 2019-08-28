@@ -11,10 +11,14 @@
     "geom:longitude":123.05,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6319,
+    "gn:population":6319,
     "iso:country":"PH",
+    "lbl:bbox":"123.03,13.69667,123.07,13.73667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mambulo"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1702271,
         "gp:id":1187202,
-        "qs:id":277067
+        "qs_pg:id":277067
     },
     "wof:country":"PH",
     "wof:created":1469051912,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431761,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566681999,
     "wof:name":"Mambulo",
     "wof:parent_id":1108698069,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.8018,
     "geom:longitude":121.9499,
     "iso:country":"PH",
+    "lbl:bbox":"121.9299,10.7818,121.9699,10.8218",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "San Pedro"
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":1688776,
         "gp:id":1199782,
-        "qs:id":779461
+        "qs_pg:id":779461
     },
     "wof:country":"PH",
     "wof:created":1459009027,
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":421174309,
-    "wof:lastmodified":1564178441,
+    "wof:lastmodified":1566681814,
     "wof:name":"San Pedro",
     "wof:parent_id":1108699203,
     "wof:placetype":"locality",

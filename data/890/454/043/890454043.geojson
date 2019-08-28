@@ -11,10 +11,14 @@
     "geom:longitude":120.86667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":9193,
+    "gn:population":9193,
     "iso:country":"PH",
+    "lbl:bbox":"120.84667,14.73,120.88667,14.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lambakin"
     ],
@@ -35,7 +39,9 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1707826,
-        "qs:id":135115,
+        "qs_pg:id":135115
+    },
+    "wof:concordances_alt":{
         "qs_pg:id":277119
     },
     "wof:country":"PH",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":890454043,
-    "wof:lastmodified":1509410063,
+    "wof:lastmodified":1566682025,
     "wof:name":"Lambakin",
     "wof:parent_id":1108697101,
     "wof:placetype":"locality",

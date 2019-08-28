@@ -11,10 +11,14 @@
     "geom:longitude":122.3764,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2600,
+    "gn:population":2600,
     "iso:country":"PH",
+    "lbl:bbox":"122.3564,11.5256,122.3964,11.5656",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "Morales"
     ],
@@ -690,7 +694,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1699240,
-        "qs:id":1032426,
+        "qs_pg:id":1032426,
         "wd:id":"Q16463652",
         "wk:page":"Morales"
     },
@@ -707,7 +711,7 @@
         }
     ],
     "wof:id":890438601,
-    "wof:lastmodified":1563332218,
+    "wof:lastmodified":1566682019,
     "wof:name":"Morales",
     "wof:parent_id":1108696829,
     "wof:placetype":"locality",

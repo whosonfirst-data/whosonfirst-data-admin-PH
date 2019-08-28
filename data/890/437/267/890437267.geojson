@@ -12,14 +12,18 @@
     "geom:longitude":126.24592,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":118180,
+    "gn:population":118180,
     "iso:country":"PH",
+    "lbl:bbox":"126.14592,6.65381,126.34592,6.85381",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:fil_x_preferred":[
         "Mati"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mati City"
     ],
     "qs:name":"City of Mati",
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1700362,
-        "qs:id":1062463
+        "qs_pg:id":1062463
     },
     "wof:country":"PH",
     "wof:created":1469052145,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890437267,
-    "wof:lastmodified":1514618850,
+    "wof:lastmodified":1566681951,
     "wof:name":"City of Mati",
     "wof:parent_id":1108698431,
     "wof:placetype":"localadmin",

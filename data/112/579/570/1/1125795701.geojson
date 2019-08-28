@@ -9,15 +9,18 @@
     "geom:bbox":"122.64,9.4087,122.64,9.4087",
     "geom:latitude":9.4087,
     "geom:longitude":122.64,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":4307,
+    "gn:country":"PH",
+    "gn:fcode":"PPLA3",
     "gn:population":4307,
     "iso:country":"PH",
+    "lbl:bbox":"122.62,9.3887,122.66,9.4287",
     "lbl:latitude":9.4087,
     "lbl:longitude":122.64,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bcl_x_preferred":[
         "Basay"
@@ -67,7 +70,7 @@
     "name:tgl_x_preferred":[
         "Basay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Basey"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":1243381,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1125795701,
-    "wof:lastmodified":1563333116,
+    "wof:lastmodified":1566682295,
     "wof:name":"Basay",
     "wof:parent_id":1108697825,
     "wof:placetype":"locality",

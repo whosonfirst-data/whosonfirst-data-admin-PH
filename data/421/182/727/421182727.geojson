@@ -10,8 +10,12 @@
     "geom:latitude":14.101,
     "geom:longitude":122.0125,
     "iso:country":"PH",
+    "lbl:bbox":"121.9925,14.081,122.0325,14.121",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Alabat"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1731749,
         "gp:id":1158482,
-        "qs:id":944241,
+        "qs_pg:id":944241,
         "wd:id":"Q103786"
     },
     "wof:country":"PH",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421182727,
-    "wof:lastmodified":1563331756,
+    "wof:lastmodified":1566681880,
     "wof:name":"Alabat",
     "wof:parent_id":1108696583,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.37158,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2190,
+    "gn:population":2190,
     "iso:country":"PH",
+    "lbl:bbox":"123.35158,9.96517,123.39158,10.00517",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Saavedra"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1691398,
         "gp:id":1189506,
-        "qs:id":134442,
+        "qs_pg:id":134442,
         "wk:page":"Saavedra"
     },
     "wof:country":"PH",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890432511,
-    "wof:lastmodified":1564179139,
+    "wof:lastmodified":1566682234,
     "wof:name":"Saavedra",
     "wof:parent_id":1108698485,
     "wof:placetype":"locality",

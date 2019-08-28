@@ -11,10 +11,14 @@
     "geom:longitude":123.5,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2789,
+    "gn:population":2789,
     "iso:country":"PH",
+    "lbl:bbox":"123.48,13.29667,123.52,13.33667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lanigay"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1707500,
         "gp:id":91463665,
-        "qs:id":87573
+        "qs_pg:id":87573
     },
     "wof:country":"PH",
     "wof:created":1469052767,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451169,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682120,
     "wof:name":"Lanigay",
     "wof:parent_id":1108698927,
     "wof:placetype":"locality",

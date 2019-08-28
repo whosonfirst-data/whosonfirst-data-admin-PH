@@ -11,10 +11,14 @@
     "geom:longitude":123.9846,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":19531,
+    "gn:population":19531,
     "iso:country":"PH",
+    "lbl:bbox":"123.8846,8.0027,124.0846,8.2027",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Kolambugan"
     ],
@@ -63,7 +67,7 @@
     "name:tgl_x_preferred":[
         "Kolambugan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maigo"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1703555,
-        "qs:id":87379,
+        "qs_pg:id":87379,
         "wd:id":"Q274205",
         "wk:page":"Kolambugan, Lanao del Norte"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890451055,
-    "wof:lastmodified":1563332569,
+    "wof:lastmodified":1566682125,
     "wof:name":"Municipality of Maigo",
     "wof:parent_id":1108698269,
     "wof:placetype":"localadmin",

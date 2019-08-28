@@ -10,8 +10,12 @@
     "geom:latitude":18.25937,
     "geom:longitude":121.99495,
     "iso:country":"PH",
+    "lbl:bbox":"121.97495,18.23937,122.01495,18.27937",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Gonzaga"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":1712751,
         "gp:id":56121305,
-        "qs:id":542307,
+        "qs_pg:id":542307,
         "wd:id":"Q49317"
     },
     "wof:country":"PH",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421182015,
-    "wof:lastmodified":1563331739,
+    "wof:lastmodified":1566681877,
     "wof:name":"Gonzaga",
     "wof:parent_id":1108697665,
     "wof:placetype":"locality",

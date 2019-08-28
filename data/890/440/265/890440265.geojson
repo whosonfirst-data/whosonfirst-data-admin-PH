@@ -11,14 +11,18 @@
     "geom:longitude":123.8426,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2142,
+    "gn:population":2142,
     "iso:country":"PH",
+    "lbl:bbox":"123.8226,12.1813,123.8626,12.2213",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Balucawi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balocaue"
     ],
     "qs:name":"Balucawi",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1727937,
         "gp:id":1170370,
-        "qs:id":277391
+        "qs_pg:id":277391
     },
     "wof:country":"PH",
     "wof:created":1469052269,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890440265,
-    "wof:lastmodified":1505343575,
+    "wof:lastmodified":1566681888,
     "wof:name":"Balucawi",
     "wof:parent_id":1108697479,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":120.91662,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3421,
+    "gn:population":3421,
     "iso:country":"PH",
+    "lbl:bbox":"120.89662,14.2349,120.93662,14.2749",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Jalavera"
     ],
     "qs:name":"Javalera",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1710249,
         "gp:id":1169909,
-        "qs:id":277140
+        "qs_pg:id":277140
     },
     "wof:country":"PH",
     "wof:created":1469051916,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431811,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566681988,
     "wof:name":"Javalera",
     "wof:parent_id":1108697637,
     "wof:placetype":"locality",

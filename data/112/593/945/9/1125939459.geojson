@@ -9,20 +9,23 @@
     "geom:bbox":"119.8941,16.1672,119.8941,16.1672",
     "geom:latitude":16.1672,
     "geom:longitude":119.8941,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3699,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":3699,
     "iso:country":"PH",
+    "lbl:bbox":"119.8741,16.1472,119.9141,16.1872",
     "lbl:latitude":16.1672,
     "lbl:longitude":119.8941,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Banog Sur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Banog"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":135801,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125939459,
-    "wof:lastmodified":1509401997,
+    "wof:lastmodified":1566682257,
     "wof:name":"Banog Sur",
     "wof:parent_id":1108696881,
     "wof:placetype":"locality",

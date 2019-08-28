@@ -10,6 +10,9 @@
     "geom:latitude":7.07306,
     "geom:longitude":125.61278,
     "iso:country":"PH",
+    "lbl:bbox":"125.59278,7.05306,125.63278,7.09306",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -261,7 +264,7 @@
     "name:ukr_x_variant":[
         "\u0414\u0430\u0432\u0430\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Central"
     ],
     "name:urd_x_preferred":[
@@ -405,7 +408,7 @@
     "wof:concordances":{
         "gn:id":1715348,
         "gp:id":1199136,
-        "qs:id":809452,
+        "qs_pg:id":809452,
         "wd:id":"Q1473",
         "wk:page":"Davao City"
     },
@@ -422,7 +425,7 @@
         }
     ],
     "wof:id":421168921,
-    "wof:lastmodified":1563331339,
+    "wof:lastmodified":1566681787,
     "wof:name":"Davao City",
     "wof:parent_id":1108698611,
     "wof:placetype":"locality",

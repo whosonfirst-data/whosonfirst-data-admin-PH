@@ -10,8 +10,12 @@
     "geom:latitude":18.26667,
     "geom:longitude":120.58333,
     "iso:country":"PH",
+    "lbl:bbox":"120.56333,18.24667,120.60333,18.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Catalina"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1688350,
         "gp:id":1192242,
-        "qs:id":468326,
+        "qs_pg:id":468326,
         "wd:id":"Q347974"
     },
     "wof:country":"PH",
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421180957,
-    "wof:lastmodified":1563331488,
+    "wof:lastmodified":1566681821,
     "wof:name":"Santa Catalina",
     "wof:parent_id":1108696739,
     "wof:placetype":"locality",

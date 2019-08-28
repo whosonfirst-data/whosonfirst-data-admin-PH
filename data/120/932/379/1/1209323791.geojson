@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.4162,17.2691,120.4562,17.3091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Sabangan"
     ],
@@ -72,10 +76,6 @@
     "name:tgl_x_preferred":[
         "Sabangan"
     ],
-    "name:und_x_variant":[
-        "Sabahganr",
-        "Sabangan"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0628\u0646\u06af\u0646"
     ],
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1209323791,
-    "wof:lastmodified":1564175806,
+    "wof:lastmodified":1566680665,
     "wof:name":"Sabangan",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",

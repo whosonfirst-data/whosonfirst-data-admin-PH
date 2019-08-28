@@ -11,10 +11,14 @@
     "geom:longitude":124.0267,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3629,
+    "gn:population":3629,
     "iso:country":"PH",
+    "lbl:bbox":"124.0067,11.1216,124.0467,11.1616",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bateria"
     ],
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1726225,
-        "qs:id":135735,
+        "qs_pg:id":135735,
         "wd:id":"Q16822517",
         "wk:page":"Bateria"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890452623,
-    "wof:lastmodified":1563332039,
+    "wof:lastmodified":1566681968,
     "wof:name":"Bateria",
     "wof:parent_id":1108698455,
     "wof:placetype":"locality",

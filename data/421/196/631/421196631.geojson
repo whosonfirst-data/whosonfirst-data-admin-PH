@@ -10,8 +10,12 @@
     "geom:latitude":7.95,
     "geom:longitude":124.23333,
     "iso:country":"PH",
+    "lbl:bbox":"124.21333,7.93,124.25333,7.97",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Marantao"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1701087,
         "gp:id":1182373,
-        "qs:id":1294602,
+        "qs_pg:id":1294602,
         "wd:id":"Q273982",
         "wk:page":"Marantao, Lanao del Sur"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421196631,
-    "wof:lastmodified":1563331586,
+    "wof:lastmodified":1566681844,
     "wof:name":"Marantao",
     "wof:parent_id":1108698631,
     "wof:placetype":"locality",

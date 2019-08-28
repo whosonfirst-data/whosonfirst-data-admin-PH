@@ -10,8 +10,12 @@
     "geom:latitude":10.2708,
     "geom:longitude":123.5839,
     "iso:country":"PH",
+    "lbl:bbox":"123.5639,10.2508,123.6039,10.2908",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pinamungahan"
@@ -100,7 +104,7 @@
     "name:tgl_x_variant":[
         "Pinamungajan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pihamungajan"
     ],
     "name:vie_x_preferred":[
@@ -143,7 +147,7 @@
     "wof:concordances":{
         "gn:id":1693574,
         "gp:id":1187883,
-        "qs:id":134556,
+        "qs_pg:id":134556,
         "wd:id":"Q316259",
         "wk:page":"Pinamungajan"
     },
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":421178673,
-    "wof:lastmodified":1563331698,
+    "wof:lastmodified":1566681869,
     "wof:name":"Pinamunganjan",
     "wof:parent_id":1108698897,
     "wof:placetype":"locality",

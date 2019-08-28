@@ -11,10 +11,14 @@
     "geom:longitude":124.7975,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2107,
+    "gn:population":2107,
     "iso:country":"PH",
+    "lbl:bbox":"124.7775,8.85833,124.8175,8.89833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Taboc"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1684938,
         "gp:id":1194606,
-        "qs:id":276837
+        "qs_pg:id":276837
     },
     "wof:country":"PH",
     "wof:created":1469051897,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431571,
-    "wof:lastmodified":1505343524,
+    "wof:lastmodified":1566682004,
     "wof:name":"Taboc",
     "wof:parent_id":1108699081,
     "wof:placetype":"locality",

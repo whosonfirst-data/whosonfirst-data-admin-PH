@@ -11,10 +11,14 @@
     "geom:longitude":121.06171,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5468,
+    "gn:population":5468,
     "iso:country":"PH",
+    "lbl:bbox":"121.04171,12.34745,121.08171,12.38745",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bagong Sikat"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1729022,
-        "qs:id":135935
+        "qs_pg:id":135935
     },
     "wof:country":"PH",
     "wof:created":1469052027,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890434507,
-    "wof:lastmodified":1505343542,
+    "wof:lastmodified":1566682154,
     "wof:name":"Bagong Sikat",
     "wof:parent_id":1108699215,
     "wof:placetype":"locality",

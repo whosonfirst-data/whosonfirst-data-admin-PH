@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.423,16.3946,120.463,16.4346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galiano"
     ],
@@ -50,11 +54,6 @@
         "Galiano"
     ],
     "name:swe_x_preferred":[
-        "Galiano"
-    ],
-    "name:und_x_variant":[
-        "Galiauo",
-        "Gallano",
         "Galiano"
     ],
     "name:war_x_preferred":[
@@ -83,7 +82,7 @@
         }
     ],
     "wof:id":1226761405,
-    "wof:lastmodified":1564181205,
+    "wof:lastmodified":1566683202,
     "wof:name":"Galiano",
     "wof:parent_id":1108696703,
     "wof:placetype":"locality",

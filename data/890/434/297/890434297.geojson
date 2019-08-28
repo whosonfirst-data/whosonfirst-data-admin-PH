@@ -11,11 +11,15 @@
     "geom:longitude":124.31528,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4710,
+    "gn:population":4710,
     "iso:country":"PH",
+    "lbl:bbox":"124.29528,7.16861,124.33528,7.20861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Catidtuan"
     ],
     "qs:name":"Katidtuan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1709098,
-        "qs:id":135202
+        "qs_pg:id":135202
     },
     "wof:country":"PH",
     "wof:created":1469052019,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890434297,
-    "wof:lastmodified":1505343540,
+    "wof:lastmodified":1566682161,
     "wof:name":"Katidtuan",
     "wof:parent_id":1108699561,
     "wof:placetype":"locality",

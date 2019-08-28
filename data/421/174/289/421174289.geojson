@@ -10,8 +10,12 @@
     "geom:latitude":12.4844,
     "geom:longitude":124.2872,
     "iso:country":"PH",
+    "lbl:bbox":"124.2672,12.4644,124.3072,12.5044",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Juban"
@@ -193,7 +197,7 @@
     "name:swe_x_preferred":[
         "Juban"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hubasan"
     ],
     "name:vec_x_preferred":[
@@ -248,7 +252,7 @@
     "wof:concordances":{
         "gn:id":1710071,
         "gp:id":1175348,
-        "qs:id":779176,
+        "qs_pg:id":779176,
         "wd:id":"Q16461610"
     },
     "wof:country":"PH",
@@ -264,7 +268,7 @@
         }
     ],
     "wof:id":421174289,
-    "wof:lastmodified":1563331465,
+    "wof:lastmodified":1566681816,
     "wof:name":"Juban",
     "wof:parent_id":1108696643,
     "wof:placetype":"locality",

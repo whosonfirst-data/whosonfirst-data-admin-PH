@@ -11,10 +11,14 @@
     "geom:longitude":123.13333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2656,
+    "gn:population":2656,
     "iso:country":"PH",
+    "lbl:bbox":"123.11333,8.49667,123.15333,8.53667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bug_x_preferred":[
         "Linay"
     ],
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":1706229,
         "gp:id":1178448,
-        "qs:id":1032670,
+        "qs_pg:id":1032670,
         "wk:page":"Linay"
     },
     "wof:country":"PH",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":890437033,
-    "wof:lastmodified":1564178626,
+    "wof:lastmodified":1566681957,
     "wof:name":"Linay",
     "wof:parent_id":1108698369,
     "wof:placetype":"locality",

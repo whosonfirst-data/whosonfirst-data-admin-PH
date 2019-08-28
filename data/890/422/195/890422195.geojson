@@ -11,10 +11,14 @@
     "geom:longitude":124.0,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":7812,
+    "gn:population":7812,
     "iso:country":"PH",
+    "lbl:bbox":"123.98,10.69667,124.02,10.73667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Catmon"
     ],
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1717849,
         "gp:id":91428292,
-        "qs:id":1032897,
+        "qs_pg:id":1032897,
         "wd:id":"Q315900"
     },
     "wof:country":"PH",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890422195,
-    "wof:lastmodified":1563331792,
+    "wof:lastmodified":1566681889,
     "wof:name":"Catmon",
     "wof:parent_id":1108697335,
     "wof:placetype":"locality",

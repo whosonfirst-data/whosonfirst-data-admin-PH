@@ -11,10 +11,14 @@
     "geom:longitude":121.1526,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":40271,
+    "gn:population":40271,
     "iso:country":"PH",
+    "lbl:bbox":"121.1326,14.21538,121.1726,14.25538",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Mamatid"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1702372,
         "gp:id":1162142,
-        "qs:id":87330
+        "qs_pg:id":87330
     },
     "wof:country":"PH",
     "wof:created":1469052762,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451017,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682133,
     "wof:name":"Mamatid",
     "wof:parent_id":1108697177,
     "wof:placetype":"locality",

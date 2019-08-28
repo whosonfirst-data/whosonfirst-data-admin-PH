@@ -9,20 +9,23 @@
     "geom:bbox":"121.36564,13.99779,121.36564,13.99779",
     "geom:latitude":13.99779,
     "geom:longitude":121.36564,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3591,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":3591,
     "iso:country":"PH",
+    "lbl:bbox":"121.34564,13.97779,121.38564,14.01779",
     "lbl:latitude":13.99779,
     "lbl:longitude":121.36564,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Bungoy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bongoy"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":88182,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125848571,
-    "wof:lastmodified":1509395785,
+    "wof:lastmodified":1566682302,
     "wof:name":"Bungoy",
     "wof:parent_id":1108697519,
     "wof:placetype":"locality",

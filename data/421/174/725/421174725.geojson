@@ -10,8 +10,12 @@
     "geom:latitude":14.08627,
     "geom:longitude":121.14975,
     "iso:country":"PH",
+    "lbl:bbox":"121.12975,14.06627,121.16975,14.10627",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u0627\u0648\u0627\u0646"
@@ -197,7 +201,7 @@
     "wof:concordances":{
         "gn:id":1683340,
         "gp:id":1199900,
-        "qs:id":896419,
+        "qs_pg:id":896419,
         "wd:id":"Q1730",
         "wk:page":"Tanauan, Batangas"
     },
@@ -214,7 +218,7 @@
         }
     ],
     "wof:id":421174725,
-    "wof:lastmodified":1563331470,
+    "wof:lastmodified":1566681817,
     "wof:name":"Tanauan",
     "wof:parent_id":1108699665,
     "wof:placetype":"locality",

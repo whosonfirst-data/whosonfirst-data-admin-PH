@@ -11,11 +11,15 @@
     "geom:longitude":124.80222,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2284,
+    "gn:population":2284,
     "iso:country":"PH",
+    "lbl:bbox":"124.78222,8.75528,124.82222,8.79528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Napaliran"
     ],
     "qs:name":"Napalitan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1698208,
         "gp:id":1184472,
-        "qs:id":87164
+        "qs_pg:id":87164
     },
     "wof:country":"PH",
     "wof:created":1469052158,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437621,
-    "wof:lastmodified":1505343560,
+    "wof:lastmodified":1566681948,
     "wof:name":"Napalitan",
     "wof:parent_id":1108696845,
     "wof:placetype":"locality",

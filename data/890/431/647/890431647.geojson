@@ -11,10 +11,14 @@
     "geom:longitude":120.97098,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3023,
+    "gn:population":3023,
     "iso:country":"PH",
+    "lbl:bbox":"120.95098,14.06776,120.99098,14.10776",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sampaloc"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1690583,
         "gp:id":91423655,
-        "qs:id":276919,
+        "qs_pg:id":276919,
         "wd:id":"Q356536",
         "wk:page":"Sampaloc"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890431647,
-    "wof:lastmodified":1563332145,
+    "wof:lastmodified":1566682000,
     "wof:name":"Sampaloc",
     "wof:parent_id":1108698589,
     "wof:placetype":"locality",

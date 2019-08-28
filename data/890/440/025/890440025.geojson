@@ -11,10 +11,14 @@
     "geom:longitude":123.6544,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"PH",
+    "lbl:bbox":"123.6344,9.1783,123.6744,9.2183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Maria"
     ],
@@ -82,12 +86,12 @@
     "wof:concordances":{
         "gn:id":1700999,
         "gp:id":1199493,
-        "qs:id":134859,
+        "qs_pg:id":134859,
         "wd:id":"Q174343",
         "wk:page":"Maria"
     },
     "wof:concordances_alt":{
-        "qs:id":991966
+        "qs_pg:id":991966
     },
     "wof:country":"PH",
     "wof:created":1469052259,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890440025,
-    "wof:lastmodified":1563331773,
+    "wof:lastmodified":1566681884,
     "wof:name":"Maria",
     "wof:parent_id":1108698397,
     "wof:placetype":"locality",

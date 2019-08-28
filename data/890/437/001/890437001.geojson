@@ -11,14 +11,18 @@
     "geom:longitude":124.9694,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2730,
+    "gn:population":2730,
     "iso:country":"PH",
+    "lbl:bbox":"124.9494,10.5088,124.9894,10.5488",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Polahongon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polabongon"
     ],
     "qs:name":"Polahongon",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1693150,
         "gp:id":91465471,
-        "qs:id":1032357
+        "qs_pg:id":1032357
     },
     "wof:country":"PH",
     "wof:created":1469052135,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890437001,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566681952,
     "wof:name":"Polahongon",
     "wof:parent_id":1108698261,
     "wof:placetype":"locality",

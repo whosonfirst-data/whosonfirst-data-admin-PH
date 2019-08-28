@@ -11,10 +11,14 @@
     "geom:longitude":124.36667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":19236,
+    "gn:population":19236,
     "iso:country":"PH",
+    "lbl:bbox":"124.26667,8.01667,124.46667,8.21667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Kapai"
     ],
@@ -77,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1709284,
-        "qs:id":87653
+        "qs_pg:id":87653
     },
     "wof:country":"PH",
     "wof:created":1469052876,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890453863,
-    "wof:lastmodified":1564178767,
+    "wof:lastmodified":1566682031,
     "wof:name":"Kapai",
     "wof:parent_id":1108699613,
     "wof:placetype":"localadmin",

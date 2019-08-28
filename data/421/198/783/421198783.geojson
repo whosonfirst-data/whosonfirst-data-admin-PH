@@ -10,8 +10,12 @@
     "geom:latitude":9.7417,
     "geom:longitude":123.8446,
     "iso:country":"PH",
+    "lbl:bbox":"123.8246,9.7217,123.8646,9.7617",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Maribojoc"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1700968,
         "gp:id":1182459,
-        "qs:id":1205823,
+        "qs_pg:id":1205823,
         "wd:id":"Q405303",
         "wk:page":"Maribojoc, Bohol"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421198783,
-    "wof:lastmodified":1563331564,
+    "wof:lastmodified":1566681839,
     "wof:name":"Maribojoc",
     "wof:parent_id":1108698401,
     "wof:placetype":"locality",

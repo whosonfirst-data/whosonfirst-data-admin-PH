@@ -10,8 +10,12 @@
     "geom:latitude":8.75611,
     "geom:longitude":125.7675,
     "iso:country":"PH",
+    "lbl:bbox":"125.7475,8.73611,125.7875,8.77611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0648\u062c\u0627\u0646"
@@ -191,7 +195,7 @@
     "wof:concordances":{
         "gn:id":1725684,
         "gp:id":56121338,
-        "qs:id":135722,
+        "qs_pg:id":135722,
         "wd:id":"Q1694"
     },
     "wof:country":"PH",
@@ -207,7 +211,7 @@
         }
     ],
     "wof:id":421195893,
-    "wof:lastmodified":1563331358,
+    "wof:lastmodified":1566681792,
     "wof:name":"Bayugan",
     "wof:parent_id":1108696985,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.494145,
     "lbl:longitude":124.305601,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NORTHERN SAMAR",
     "meso:admin_1r":"EASTERN VISAYAS REGION",
     "meso:diss_me":"ALLENNORTHERN SAMAR",
@@ -32,6 +34,7 @@
     "mps:longitude":124.305601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Allen"
     ],
@@ -108,7 +111,7 @@
         "Allen"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108696643,
-    "wof:lastmodified":1564177164,
+    "wof:lastmodified":1566681228,
     "wof:name":"Allen",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

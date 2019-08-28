@@ -10,8 +10,12 @@
     "geom:latitude":16.99065,
     "geom:longitude":121.63664,
     "iso:country":"PH",
+    "lbl:bbox":"121.61664,16.97065,121.65664,17.01065",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Aurora"
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":1729928,
         "gp:id":1159869,
-        "qs:id":193614,
+        "qs_pg:id":193614,
         "wd:id":"Q49358",
         "wk:page":"Aurora, Isabela"
     },
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":421169891,
-    "wof:lastmodified":1563331415,
+    "wof:lastmodified":1566681804,
     "wof:name":"Aurora",
     "wof:parent_id":1108696723,
     "wof:placetype":"locality",

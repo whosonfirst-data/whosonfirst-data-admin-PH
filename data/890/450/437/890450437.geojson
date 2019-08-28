@@ -11,11 +11,15 @@
     "geom:longitude":120.84401,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3703,
+    "gn:population":3703,
     "iso:country":"PH",
+    "lbl:bbox":"120.82401,13.8956,120.86401,13.9356",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sinisian Calaca"
     ],
     "qs:name":"Sinisian",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1686175,
         "gp:id":91425800,
-        "qs:id":86553
+        "qs_pg:id":86553
     },
     "wof:country":"PH",
     "wof:created":1469052738,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450437,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682195,
     "wof:name":"Sinisian",
     "wof:parent_id":1108698045,
     "wof:placetype":"locality",

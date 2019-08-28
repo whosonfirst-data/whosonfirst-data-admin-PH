@@ -10,8 +10,12 @@
     "geom:latitude":7.20444,
     "geom:longitude":124.79167,
     "iso:country":"PH",
+    "lbl:bbox":"124.77167,7.18444,124.81167,7.22444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Carmen"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1718338,
         "gp:id":56121271,
-        "qs:id":1032910,
+        "qs_pg:id":1032910,
         "wd:id":"Q315144",
         "wk:page":"Carmen, Cotabato"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421194205,
-    "wof:lastmodified":1563331369,
+    "wof:lastmodified":1566681795,
     "wof:name":"Carmen",
     "wof:parent_id":1108697303,
     "wof:placetype":"locality",

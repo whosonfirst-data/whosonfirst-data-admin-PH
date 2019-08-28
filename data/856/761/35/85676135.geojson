@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":15.020986,
     "lbl:longitude":121.084362,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bulacan",
     "mps:latitude":14.990942,
     "mps:longitude":121.102275,
@@ -289,9 +290,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"2,625",
     "statoids:area_mi":"1,014",
     "statoids:as_of_date":"2010-05-01",
@@ -317,7 +318,7 @@
         "gp:id":2346668,
         "hasc:id":"PH.BU",
         "iso:id":"PH-BUL",
-        "qs:id":891527,
+        "qs_pg:id":891527,
         "unlc:id":"PH-BUL",
         "wd:id":"Q13755",
         "wk:page":"Bulacan"
@@ -332,9 +333,6 @@
         }
     ],
     "wof:id":85676135,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -350,11 +348,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326849,
+    "wof:lastmodified":1566679691,
     "wof:name":"Bulacan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2924433,
     "wof:population_rank":12,

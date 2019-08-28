@@ -11,11 +11,15 @@
     "geom:longitude":124.79361,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2565,
+    "gn:population":2565,
     "iso:country":"PH",
+    "lbl:bbox":"124.77361,6.55,124.81361,6.59",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Maibo"
     ],
     "qs:name":"Maibu",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703560,
         "gp:id":1180567,
-        "qs:id":87377
+        "qs_pg:id":87377
     },
     "wof:country":"PH",
     "wof:created":1469052763,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451051,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682136,
     "wof:name":"Maibu",
     "wof:parent_id":1108699683,
     "wof:placetype":"locality",

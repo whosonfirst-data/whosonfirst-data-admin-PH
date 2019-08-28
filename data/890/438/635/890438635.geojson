@@ -11,11 +11,15 @@
     "geom:longitude":124.65917,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3226,
+    "gn:population":3226,
     "iso:country":"PH",
+    "lbl:bbox":"124.63917,6.93972,124.67917,6.97972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kalbungan"
     ],
     "qs:name":"Kalbugan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1709644,
-        "qs:id":1032755
+        "qs_pg:id":1032755
     },
     "wof:country":"PH",
     "wof:created":1469052203,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890438635,
-    "wof:lastmodified":1505343566,
+    "wof:lastmodified":1566682013,
     "wof:name":"Kalbugan",
     "wof:parent_id":1108698871,
     "wof:placetype":"locality",

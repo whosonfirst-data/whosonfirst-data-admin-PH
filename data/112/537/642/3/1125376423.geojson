@@ -10,15 +10,18 @@
     "geom:bbox":"123.71667,13.33333,123.71667,13.33333",
     "geom:latitude":13.33333,
     "geom:longitude":123.71667,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":123513,
+    "gn:country":"PH",
+    "gn:fcode":"ADM3",
     "gn:population":123513,
     "iso:country":"PH",
+    "lbl:bbox":"123.61667,13.23333,123.81667,13.43333",
     "lbl:latitude":13.33333,
     "lbl:longitude":123.71667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Tabaco"
@@ -26,7 +29,7 @@
     "name:fil_x_variant":[
         "Tabaco City"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lungsod ng Tabaco"
     ],
     "qs_pg:aaroncc":"PH",
@@ -41,7 +44,7 @@
     "qs_pg:qs_id":371440,
     "qs_pg:qs_pg_placetype":"localadmin",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1125376423,
-    "wof:lastmodified":1514618158,
+    "wof:lastmodified":1566682267,
     "wof:name":"City of Tabaco",
     "wof:parent_id":1108698305,
     "wof:placetype":"localadmin",

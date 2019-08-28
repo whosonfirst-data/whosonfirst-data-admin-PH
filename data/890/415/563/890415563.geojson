@@ -11,10 +11,14 @@
     "geom:longitude":125.1618,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":2276,
+    "gn:population":2276,
     "iso:country":"PH",
+    "lbl:bbox":"125.1418,10.5091,125.1818,10.5491",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Silago"
     ],
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1686559,
         "gp:id":1194158,
-        "qs:id":134192,
+        "qs_pg:id":134192,
         "wd:id":"Q173774"
     },
     "wof:country":"PH",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890415563,
-    "wof:lastmodified":1563331887,
+    "wof:lastmodified":1566681921,
     "wof:name":"Silago",
     "wof:parent_id":1108699491,
     "wof:placetype":"locality",

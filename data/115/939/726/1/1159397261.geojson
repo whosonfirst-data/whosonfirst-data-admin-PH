@@ -13,6 +13,8 @@
     "iso:country":"PH",
     "lbl:latitude":14.57529,
     "lbl:longitude":121.053017,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:name_local":"Mandaluyong City",
     "mps:latitude":14.57529,
     "mps:longitude":121.053016,
@@ -179,7 +181,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -218,7 +220,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1564179317,
+    "wof:lastmodified":1566682321,
     "wof:name":"Mandaluyong",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

@@ -11,19 +11,20 @@
     "geom:longitude":120.52,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3230,
+    "gn:population":3230,
     "iso:country":"PH",
+    "lbl:bbox":"120.5,16.1027,120.54,16.1427",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Palguyod"
     ],
     "name:fil_x_variant":[
         "Palugyog",
         "Palguyog"
-    ],
-    "name:unk_x_variant":[
-        "Palugyog"
     ],
     "qs:name":"Palguyod",
     "qs:photos_9r":0,
@@ -40,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1696141,
         "gp:id":1185998,
-        "qs:id":134678
+        "qs_pg:id":134678
     },
     "wof:country":"PH",
     "wof:created":1469052278,
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":890440467,
-    "wof:lastmodified":1505343577,
+    "wof:lastmodified":1566681887,
     "wof:name":"Palguyod",
     "wof:parent_id":1108698951,
     "wof:placetype":"locality",

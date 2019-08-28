@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.620784,
     "lbl:longitude":120.869687,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NUEVA ECIJA",
     "meso:admin_1r":"CENTRAL LUZON REGION",
     "meso:diss_me":"SANTO DOMINGONUEVA ECIJA",
@@ -32,6 +34,7 @@
     "mps:longitude":120.869687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Santo Domingo"
     ],
@@ -336,7 +339,7 @@
         "\u8056\u591a\u660e\u54e5"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -356,7 +359,7 @@
         }
     ],
     "wof:id":1108699421,
-    "wof:lastmodified":1564177248,
+    "wof:lastmodified":1566681256,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

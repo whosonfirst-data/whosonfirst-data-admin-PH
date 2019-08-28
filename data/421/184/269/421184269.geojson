@@ -11,10 +11,14 @@
     "geom:longitude":124.492177,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":7223,
+    "gn:population":7223,
     "iso:country":"PH",
+    "lbl:bbox":"124.4721775,11.34614,124.5121775,11.38614",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Leyte"
@@ -215,13 +219,13 @@
     "wof:concordances":{
         "gn:id":1706801,
         "gp:id":1199353,
-        "qs:id":991946,
+        "qs_pg:id":991946,
         "wd:id":"Q213160",
         "wk:page":"Leyte"
     },
     "wof:concordances_alt":{
         "gp:id":91426161,
-        "qs:id":135082
+        "qs_pg:id":135082
     },
     "wof:country":"PH",
     "wof:created":1459009405,
@@ -236,7 +240,7 @@
         }
     ],
     "wof:id":421184269,
-    "wof:lastmodified":1563331656,
+    "wof:lastmodified":1566681859,
     "wof:name":"Leyte",
     "wof:parent_id":1108698051,
     "wof:placetype":"locality",

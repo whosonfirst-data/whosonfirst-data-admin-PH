@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":16.569644,
     "lbl:longitude":120.729885,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Banguet",
     "mps:latitude":16.570794,
     "mps:longitude":120.738044,
@@ -185,7 +186,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0491\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Subprovince of Benguet"
     ],
     "name:urd_x_preferred":[
@@ -280,7 +281,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"PH-BEN",
     "wd:wordcount":3028,
@@ -294,7 +295,7 @@
         "gn:id":1725582,
         "gp:id":2346665,
         "hasc:id":"PH.BG",
-        "qs:id":428307,
+        "qs_pg:id":428307,
         "unlc:id":"PH-BEN",
         "wd:id":"Q13750",
         "wk:page":"Benguet"
@@ -310,9 +311,6 @@
         }
     ],
     "wof:id":85676111,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -328,7 +326,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326852,
+    "wof:lastmodified":1566679692,
     "wof:name":"Banguet",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

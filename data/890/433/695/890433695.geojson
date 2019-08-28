@@ -11,10 +11,14 @@
     "geom:longitude":120.32914,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3192,
+    "gn:population":3192,
     "iso:country":"PH",
+    "lbl:bbox":"120.30914,15.93929,120.34914,15.97929",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tandoc"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1683280,
         "gp:id":1187013,
-        "qs:id":134067
+        "qs_pg:id":134067
     },
     "wof:country":"PH",
     "wof:created":1469051990,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433695,
-    "wof:lastmodified":1505343537,
+    "wof:lastmodified":1566682172,
     "wof:name":"Tandoc",
     "wof:parent_id":1108699125,
     "wof:placetype":"locality",

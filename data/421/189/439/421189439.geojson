@@ -10,8 +10,12 @@
     "geom:latitude":14.120594,
     "geom:longitude":122.957611,
     "iso:country":"PH",
+    "lbl:bbox":"122.937611,14.100594,122.977611,14.140594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Daet"
@@ -136,9 +140,11 @@
     "wof:concordances":{
         "gn:id":1716287,
         "gp:id":1199112,
-        "qs:id":1112752,
         "qs_pg:id":87938,
         "wd:id":"Q356655"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1112752
     },
     "wof:country":"PH",
     "wof:created":1459009625,
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421189439,
-    "wof:lastmodified":1563331510,
+    "wof:lastmodified":1566681827,
     "wof:name":"Daet",
     "wof:parent_id":1108697417,
     "wof:placetype":"locality",

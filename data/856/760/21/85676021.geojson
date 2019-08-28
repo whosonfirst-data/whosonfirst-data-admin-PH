@@ -16,6 +16,7 @@
     ],
     "lbl:latitude":13.785296,
     "lbl:longitude":123.450201,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Camarines Sur",
     "mps:latitude":13.776427,
     "mps:longitude":123.438893,
@@ -171,7 +172,7 @@
         "Camarines Sur"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0bae\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd  \u0b9a\u0bc2\u0bb0\u0bcd"
+        "\u0b95\u0bbe\u0bae\u0bbe\u0bb0\u0bbf\u0ba9\u0bcd\u0bb8\u0bcd \u0b9a\u0bc2\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2e\u0c46\u0c30\u0c48\u0c28\u0c4d\u0c38\u0c4d \u0c38\u0c41\u0c30\u0c4d"
@@ -280,7 +281,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"PH-CAS",
     "wd:wordcount":2278,
     "wof:belongsto":[
@@ -293,7 +294,7 @@
         "gn:id":1719845,
         "gp:id":2346671,
         "hasc:id":"PH.CS",
-        "qs:id":1135245,
+        "qs_pg:id":1135245,
         "unlc:id":"PH-CAS",
         "wd:id":"Q13767"
     },
@@ -307,9 +308,6 @@
         }
     ],
     "wof:id":85676021,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -325,7 +323,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326837,
+    "wof:lastmodified":1566679688,
     "wof:name":"Camarines Sur",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

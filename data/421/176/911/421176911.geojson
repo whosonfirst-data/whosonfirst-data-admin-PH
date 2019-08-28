@@ -10,8 +10,12 @@
     "geom:latitude":16.03232,
     "geom:longitude":120.26904,
     "iso:country":"PH",
+    "lbl:bbox":"120.24904,16.01232,120.28904,16.05232",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Binmaley"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1724956,
         "gp:id":1198923,
-        "qs:id":1090175,
+        "qs_pg:id":1090175,
         "wd:id":"Q41779",
         "wk:page":"Binmaley, Pangasinan"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421176911,
-    "wof:lastmodified":1563331761,
+    "wof:lastmodified":1566681881,
     "wof:name":"Binmaley",
     "wof:parent_id":1108697017,
     "wof:placetype":"locality",

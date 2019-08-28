@@ -11,10 +11,14 @@
     "geom:longitude":124.08333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":45299,
+    "gn:population":45299,
     "iso:country":"PH",
+    "lbl:bbox":"123.98333,9.91667,124.18333,10.11667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Inabanga"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710909,
-        "qs:id":1027265
+        "qs_pg:id":1027265
     },
     "wof:country":"PH",
     "wof:created":1469052128,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890436831,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566681982,
     "wof:name":"Inabanga",
     "wof:parent_id":1108697761,
     "wof:placetype":"localadmin",

@@ -11,18 +11,19 @@
     "geom:longitude":121.46254,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2377,
+    "gn:population":2377,
     "iso:country":"PH",
+    "lbl:bbox":"121.44254,17.72792,121.48254,17.76792",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Acustilan"
     ],
     "name:fil_x_variant":[
         "Accusilian",
-        "Accusillian"
-    ],
-    "name:unk_x_variant":[
         "Accusillian"
     ],
     "qs:name":"Accusilian",
@@ -40,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1732294,
         "gp:id":1193135,
-        "qs:id":277446
+        "qs_pg:id":277446
     },
     "wof:country":"PH",
     "wof:created":1469051924,
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":890431995,
-    "wof:lastmodified":1505343527,
+    "wof:lastmodified":1566681996,
     "wof:name":"Accusilian",
     "wof:parent_id":1108699763,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":124.62639,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2258,
+    "gn:population":2258,
     "iso:country":"PH",
+    "lbl:bbox":"124.60639,6.70639,124.64639,6.74639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tambac"
     ],
     "qs:name":"Tambak",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1683642,
         "gp:id":1177069,
-        "qs:id":134081
+        "qs_pg:id":134081
     },
     "wof:country":"PH",
     "wof:created":1469051999,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433887,
-    "wof:lastmodified":1505343538,
+    "wof:lastmodified":1566682169,
     "wof:name":"Tambak",
     "wof:parent_id":1108698395,
     "wof:placetype":"locality",

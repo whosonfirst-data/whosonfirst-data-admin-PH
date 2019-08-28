@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.011342,
     "lbl:longitude":119.989717,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PANGASINAN",
     "meso:admin_1r":"ILOCOS REGION",
     "meso:diss_me":"MABINIPANGASINAN",
@@ -32,6 +34,7 @@
     "mps:longitude":119.989717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mabini"
     ],
@@ -63,7 +66,7 @@
         "Mabini"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108698195,
-    "wof:lastmodified":1564176879,
+    "wof:lastmodified":1566681130,
     "wof:name":"Mabini",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

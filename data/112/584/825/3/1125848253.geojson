@@ -9,23 +9,23 @@
     "geom:bbox":"120.51793,15.01933,120.51793,15.01933",
     "geom:latitude":15.01933,
     "geom:longitude":120.51793,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4519,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":4519,
     "iso:country":"PH",
+    "lbl:bbox":"120.49793,14.99933,120.53793,15.03933",
     "lbl:latitude":15.01933,
     "lbl:longitude":120.51793,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Calantas"
     ],
     "name:fil_x_variant":[
-        "Kalantas"
-    ],
-    "name:unk_x_variant":[
         "Kalantas"
     ],
     "qs_pg:aaroncc":"PH",
@@ -40,7 +40,7 @@
     "qs_pg:qs_id":88106,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1125848253,
-    "wof:lastmodified":1509395761,
+    "wof:lastmodified":1566682312,
     "wof:name":"Calantas",
     "wof:parent_id":1108697595,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.08333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":33909,
+    "gn:population":33909,
     "iso:country":"PH",
+    "lbl:bbox":"122.98333,9.85,123.18333,10.05",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Tayasan"
     ],
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1682644,
-        "qs:id":86424,
+        "qs_pg:id":86424,
         "wd:id":"Q195121",
         "wk:page":"Tayasan"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890429565,
-    "wof:lastmodified":1563332445,
+    "wof:lastmodified":1566682085,
     "wof:name":"Tayasan",
     "wof:parent_id":1108699705,
     "wof:placetype":"localadmin",

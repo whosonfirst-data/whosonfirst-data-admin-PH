@@ -11,10 +11,14 @@
     "geom:longitude":125.28861,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2071,
+    "gn:population":2071,
     "iso:country":"PH",
+    "lbl:bbox":"125.26861,12.42972,125.30861,12.46972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Anito"
     ],
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1730622,
-        "qs:id":277429,
+        "qs_pg:id":277429,
         "wd:id":"Q3549810",
         "wk:page":"Anito"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890440269,
-    "wof:lastmodified":1563331776,
+    "wof:lastmodified":1566681885,
     "wof:name":"Anito",
     "wof:parent_id":85676209,
     "wof:placetype":"locality",

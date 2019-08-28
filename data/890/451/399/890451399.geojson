@@ -11,10 +11,14 @@
     "geom:longitude":120.81847,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4307,
+    "gn:population":4307,
     "iso:country":"PH",
+    "lbl:bbox":"120.79847,15.13056,120.83847,15.17056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Candating"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1719287,
         "gp:id":1162857,
-        "qs:id":88059
+        "qs_pg:id":88059
     },
     "wof:country":"PH",
     "wof:created":1469052777,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451399,
-    "wof:lastmodified":1505343640,
+    "wof:lastmodified":1566682119,
     "wof:name":"Candating",
     "wof:parent_id":1108698227,
     "wof:placetype":"locality",

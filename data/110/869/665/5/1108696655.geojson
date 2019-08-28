@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.503447,
     "lbl:longitude":122.451255,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"AKLAN",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"ALTAVASAKLAN",
@@ -32,6 +34,7 @@
     "mps:longitude":122.451255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Altavas"
     ],
@@ -87,7 +90,7 @@
         "Altavas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108696655,
-    "wof:lastmodified":1564177193,
+    "wof:lastmodified":1566681239,
     "wof:name":"Altavas",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

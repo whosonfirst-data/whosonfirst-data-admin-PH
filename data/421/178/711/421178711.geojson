@@ -10,8 +10,12 @@
     "geom:latitude":7.11194,
     "geom:longitude":125.11333,
     "iso:country":"PH",
+    "lbl:bbox":"125.09333,7.09194,125.13333,7.13194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Magpet"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Magpet"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Magpit"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1703792,
         "gp:id":56121266,
-        "qs:id":134982,
+        "qs_pg:id":134982,
         "wd:id":"Q267975",
         "wk:page":"Magpet, Cotabato"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421178711,
-    "wof:lastmodified":1561778724,
+    "wof:lastmodified":1566681876,
     "wof:name":"Magpet",
     "wof:parent_id":1108698245,
     "wof:placetype":"locality",

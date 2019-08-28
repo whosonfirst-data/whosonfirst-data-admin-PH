@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.516965,
     "lbl:longitude":120.514126,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ABRA",
     "meso:admin_1r":"CORDILLERA ADMIN REGION",
     "meso:diss_me":"SAN QUINTINABRA",
@@ -32,6 +34,7 @@
     "mps:longitude":120.514126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Quintin"
     ],
@@ -57,7 +60,7 @@
         "San Quintin"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108699301,
-    "wof:lastmodified":1564176827,
+    "wof:lastmodified":1566681108,
     "wof:name":"San Quintin",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

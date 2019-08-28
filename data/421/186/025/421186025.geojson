@@ -10,8 +10,12 @@
     "geom:latitude":10.3,
     "geom:longitude":124.0,
     "iso:country":"PH",
+    "lbl:bbox":"123.98,10.28,124.02,10.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0645\u0627\u0643\u062a\u0627\u0646"
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":1704251,
         "gp:id":1180052,
-        "qs:id":1057784,
+        "qs_pg:id":1057784,
         "wd:id":"Q685318"
     },
     "wof:country":"PH",
@@ -188,7 +192,7 @@
         }
     ],
     "wof:id":421186025,
-    "wof:lastmodified":1563331536,
+    "wof:lastmodified":1566681832,
     "wof:name":"Mactan",
     "wof:parent_id":1108698011,
     "wof:placetype":"locality",

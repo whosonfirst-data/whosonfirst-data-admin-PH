@@ -11,10 +11,14 @@
     "geom:longitude":120.95,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":245344,
+    "gn:population":245344,
     "iso:country":"PH",
+    "lbl:bbox":"120.85,14.56667,121.05,14.76667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0641\u0648\u062a\u0627\u0633"
     ],
@@ -167,7 +171,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1697851,
-        "qs:id":1062462,
+        "qs_pg:id":1062462,
         "wd:id":"Q17179",
         "wk:page":"Navotas"
     },
@@ -183,7 +187,7 @@
         }
     ],
     "wof:id":890437265,
-    "wof:lastmodified":1563332011,
+    "wof:lastmodified":1566681957,
     "wof:name":"Navotas",
     "wof:parent_id":1159397243,
     "wof:placetype":"localadmin",

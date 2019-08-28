@@ -10,8 +10,12 @@
     "geom:latitude":10.5529,
     "geom:longitude":119.9913,
     "iso:country":"PH",
+    "lbl:bbox":"119.9713,10.5329,120.0113,10.5729",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Araceli"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Araceli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dumaran"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1730272,
         "gp:id":56121347,
-        "qs:id":136011,
+        "qs_pg:id":136011,
         "wd:id":"Q111360",
         "wk:page":"Araceli, Palawan"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421178789,
-    "wof:lastmodified":1563331734,
+    "wof:lastmodified":1566681876,
     "wof:name":"Araceli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

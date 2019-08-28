@@ -11,10 +11,14 @@
     "geom:longitude":123.3344,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3276,
+    "gn:population":3276,
     "iso:country":"PH",
+    "lbl:bbox":"123.3144,9.614,123.3544,9.654",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Talangnan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1684052,
         "gp:id":1173375,
-        "qs:id":86474
+        "qs_pg:id":86474
     },
     "wof:country":"PH",
     "wof:created":1469052735,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450337,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682187,
     "wof:name":"Talangnan",
     "wof:parent_id":1108698287,
     "wof:placetype":"locality",

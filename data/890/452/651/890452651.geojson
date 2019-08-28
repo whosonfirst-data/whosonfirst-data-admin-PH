@@ -11,14 +11,18 @@
     "geom:longitude":123.5496,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3908,
+    "gn:population":3908,
     "iso:country":"PH",
+    "lbl:bbox":"123.5296,13.2671,123.5696,13.3071",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Balogo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balugo"
     ],
     "qs:name":"Balogo",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1727904,
         "gp:id":1187977,
-        "qs:id":135842
+        "qs_pg:id":135842
     },
     "wof:country":"PH",
     "wof:created":1469052825,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890452651,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681963,
     "wof:name":"Balogo",
     "wof:parent_id":1108698685,
     "wof:placetype":"locality",

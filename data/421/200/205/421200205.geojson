@@ -10,8 +10,12 @@
     "geom:latitude":11.4062,
     "geom:longitude":124.3521,
     "iso:country":"PH",
+    "lbl:bbox":"124.3321,11.3862,124.3721,11.4262",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Isidro"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1689750,
         "gp:id":1199742,
-        "qs:id":1294955,
+        "qs_pg:id":1294955,
         "wd:id":"Q213341",
         "wk:page":"San Isidro, Leyte"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421200205,
-    "wof:lastmodified":1561778718,
+    "wof:lastmodified":1566681855,
     "wof:name":"San Isidro",
     "wof:parent_id":1108698635,
     "wof:placetype":"locality",

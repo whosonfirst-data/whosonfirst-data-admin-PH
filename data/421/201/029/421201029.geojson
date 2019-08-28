@@ -10,8 +10,12 @@
     "geom:latitude":6.77056,
     "geom:longitude":125.30861,
     "iso:country":"PH",
+    "lbl:bbox":"125.28861,6.75056,125.32861,6.79056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Mati"
@@ -257,7 +261,7 @@
     "wof:concordances":{
         "gn:id":1700240,
         "gp:id":1199507,
-        "qs:id":1333123,
+        "qs_pg:id":1333123,
         "wd:id":"Q351120"
     },
     "wof:country":"PH",
@@ -273,7 +277,7 @@
         }
     ],
     "wof:id":421201029,
-    "wof:lastmodified":1563331651,
+    "wof:lastmodified":1566681859,
     "wof:name":"Mati",
     "wof:parent_id":1108697475,
     "wof:placetype":"locality",

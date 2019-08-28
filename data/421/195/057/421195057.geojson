@@ -10,8 +10,12 @@
     "geom:latitude":18.5309,
     "geom:longitude":120.6153,
     "iso:country":"PH",
+    "lbl:bbox":"120.5953,18.5109,120.6353,18.5509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Buraan"
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":1722524,
         "gp:id":1198974,
-        "qs:id":227484
+        "qs_pg:id":227484
     },
     "wof:country":"PH",
     "wof:created":1459009830,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":421195057,
-    "wof:lastmodified":1527716125,
+    "wof:lastmodified":1566681793,
     "wof:name":"Buraan",
     "wof:parent_id":1108697125,
     "wof:placetype":"locality",

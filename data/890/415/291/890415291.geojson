@@ -11,10 +11,14 @@
     "geom:longitude":122.01667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":22939,
+    "gn:population":22939,
     "iso:country":"PH",
+    "lbl:bbox":"121.91667,14.81667,122.11667,15.01667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Burdeos"
     ],
@@ -74,7 +78,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1722468,
-        "qs:id":88177
+        "qs_pg:id":88177
     },
     "wof:country":"PH",
     "wof:created":1469051081,
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890415291,
-    "wof:lastmodified":1564178567,
+    "wof:lastmodified":1566681928,
     "wof:name":"Burdeos",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

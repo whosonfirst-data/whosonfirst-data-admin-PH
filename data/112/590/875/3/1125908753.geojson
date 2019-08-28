@@ -9,20 +9,23 @@
     "geom:bbox":"123.53061,12.21774,123.53061,12.21774",
     "geom:latitude":12.21774,
     "geom:longitude":123.53061,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2278,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2278,
     "iso:country":"PH",
+    "lbl:bbox":"123.51061,12.19774,123.55061,12.23774",
     "lbl:latitude":12.21774,
     "lbl:longitude":123.53061,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Calachuchi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calachuche"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":1032954,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125908753,
-    "wof:lastmodified":1509399951,
+    "wof:lastmodified":1566682272,
     "wof:name":"Calachuchi",
     "wof:parent_id":1108698477,
     "wof:placetype":"locality",

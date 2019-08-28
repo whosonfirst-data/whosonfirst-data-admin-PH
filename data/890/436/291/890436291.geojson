@@ -11,10 +11,14 @@
     "geom:longitude":123.16667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3370,
+    "gn:population":3370,
     "iso:country":"PH",
+    "lbl:bbox":"123.14667,9.54667,123.18667,9.58667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Okiot"
     ],
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1697245,
-        "qs:id":87122
+        "qs_pg:id":87122
     },
     "wof:country":"PH",
     "wof:created":1469052106,
@@ -41,7 +45,7 @@
         }
     ],
     "wof:id":890436291,
-    "wof:lastmodified":1505343552,
+    "wof:lastmodified":1566681983,
     "wof:name":"Okiot",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

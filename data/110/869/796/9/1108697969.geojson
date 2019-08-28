@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.587816,
     "lbl:longitude":120.76501,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ABRA",
     "meso:admin_1r":"CORDILLERA ADMIN REGION",
     "meso:diss_me":"LAGANGILANGABRA",
@@ -32,6 +34,7 @@
     "mps:longitude":120.76501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Lagangilang"
     ],
@@ -87,7 +90,7 @@
         "Lagangilang"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108697969,
-    "wof:lastmodified":1564176830,
+    "wof:lastmodified":1566681109,
     "wof:name":"Lagangilang",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

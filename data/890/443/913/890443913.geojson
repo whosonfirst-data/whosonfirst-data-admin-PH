@@ -11,8 +11,11 @@
     "geom:longitude":125.48889,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":87832,
+    "gn:population":87832,
     "iso:country":"PH",
+    "lbl:bbox":"125.46889,9.76389,125.50889,9.80389",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -148,9 +151,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0443\u0440\u0456\u0433\u0430\u043e-\u0421\u0456\u0442\u0456"
     ],
-    "name:unk_x_variant":[
-        "Surigao City"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u06cc\u06af\u0627\u0624"
     ],
@@ -271,7 +271,7 @@
     "wof:concordances":{
         "gn:id":1685218,
         "gp:id":1159686,
-        "qs:id":1032235,
+        "qs_pg:id":1032235,
         "wd:id":"Q1019949",
         "wk:page":"Surigao"
     },
@@ -288,7 +288,7 @@
         }
     ],
     "wof:id":890443913,
-    "wof:lastmodified":1563332389,
+    "wof:lastmodified":1566682068,
     "wof:name":"Surigao",
     "wof:parent_id":1108699573,
     "wof:placetype":"locality",

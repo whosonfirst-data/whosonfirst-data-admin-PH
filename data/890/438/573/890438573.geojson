@@ -11,14 +11,18 @@
     "geom:longitude":125.56611,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4164,
+    "gn:population":4164,
     "iso:country":"PH",
+    "lbl:bbox":"125.54611,6.475,125.58611,6.515",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tubalan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tabalan"
     ],
     "qs:name":"Tubalan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1681257,
         "gp:id":1199940,
-        "qs:id":1032206
+        "qs_pg:id":1032206
     },
     "wof:country":"PH",
     "wof:created":1469052201,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890438573,
-    "wof:lastmodified":1505343566,
+    "wof:lastmodified":1566682015,
     "wof:name":"Tubalan",
     "wof:parent_id":1108698315,
     "wof:placetype":"locality",

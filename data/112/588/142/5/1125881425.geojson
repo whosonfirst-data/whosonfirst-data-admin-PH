@@ -9,15 +9,18 @@
     "geom:bbox":"121.92078,14.0027,121.92078,14.0027",
     "geom:latitude":14.0027,
     "geom:longitude":121.92078,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":29356,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":29356,
     "iso:country":"PH",
+    "lbl:bbox":"121.90078,13.9827,121.94078,14.0227",
     "lbl:latitude":14.0027,
     "lbl:longitude":121.92078,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bcl_x_preferred":[
         "Atimonan"
@@ -73,7 +76,7 @@
     "name:tgl_x_preferred":[
         "Atimonan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antimonan"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "qs_pg:qs_id":371902,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125881425,
-    "wof:lastmodified":1563333039,
+    "wof:lastmodified":1566682264,
     "wof:name":"Atimonan",
     "wof:parent_id":1108696719,
     "wof:placetype":"locality",

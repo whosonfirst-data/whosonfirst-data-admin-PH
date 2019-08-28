@@ -11,10 +11,14 @@
     "geom:longitude":123.27011,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2754,
+    "gn:population":2754,
     "iso:country":"PH",
+    "lbl:bbox":"123.25011,12.13735,123.29011,12.17735",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Canomoy"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1718969,
         "gp:id":91421094,
-        "qs:id":135479
+        "qs_pg:id":135479
     },
     "wof:country":"PH",
     "wof:created":1469051118,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416059,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566682100,
     "wof:name":"Canomoy",
     "wof:parent_id":1108698347,
     "wof:placetype":"locality",

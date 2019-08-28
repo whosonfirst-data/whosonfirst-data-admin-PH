@@ -11,10 +11,14 @@
     "geom:longitude":122.8825,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2380,
+    "gn:population":2380,
     "iso:country":"PH",
+    "lbl:bbox":"122.8625,11.3974,122.9025,11.4374",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Hipona"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1711580,
         "gp:id":1187016,
-        "qs:id":135285
+        "qs_pg:id":135285
     },
     "wof:country":"PH",
     "wof:created":1469052786,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451583,
-    "wof:lastmodified":1505343641,
+    "wof:lastmodified":1566682139,
     "wof:name":"Hipona",
     "wof:parent_id":1108698935,
     "wof:placetype":"locality",

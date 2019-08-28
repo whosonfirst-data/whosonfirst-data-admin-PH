@@ -11,10 +11,14 @@
     "geom:longitude":120.98333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7810,
+    "gn:population":7810,
     "iso:country":"PH",
+    "lbl:bbox":"120.96333,15.58,121.00333,15.62",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mabini"
     ],
@@ -66,9 +70,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1704544,
-        "qs:id":87424,
-        "qs_pg:id":1032545,
+        "qs_pg:id":87424,
         "wk:page":"Mabini"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1032545
     },
     "wof:country":"PH",
     "wof:created":1469052764,
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890451079,
-    "wof:lastmodified":1564178916,
+    "wof:lastmodified":1566682121,
     "wof:name":"Mabini",
     "wof:parent_id":1108698103,
     "wof:placetype":"locality",

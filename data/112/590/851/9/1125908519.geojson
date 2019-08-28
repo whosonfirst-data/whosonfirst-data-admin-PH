@@ -9,20 +9,23 @@
     "geom:bbox":"120.16864,16.00212,120.16864,16.00212",
     "geom:latitude":16.00212,
     "geom:longitude":120.16864,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2572,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2572,
     "iso:country":"PH",
+    "lbl:bbox":"120.14864,15.98212,120.18864,16.02212",
     "lbl:latitude":16.00212,
     "lbl:longitude":120.16864,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Dulig"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dulit"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":1032822,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125908519,
-    "wof:lastmodified":1509399937,
+    "wof:lastmodified":1566682273,
     "wof:name":"Dulig",
     "wof:parent_id":1108697963,
     "wof:placetype":"locality",

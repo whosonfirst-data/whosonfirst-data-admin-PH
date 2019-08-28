@@ -10,8 +10,12 @@
     "geom:latitude":14.5525,
     "geom:longitude":121.06778,
     "iso:country":"PH",
+    "lbl:bbox":"121.04778,14.5325,121.08778,14.5725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Buting"
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1722211,
         "gp:id":1166067,
-        "qs:id":193617
+        "qs_pg:id":193617
     },
     "wof:country":"PH",
     "wof:created":1459009988,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421199401,
-    "wof:lastmodified":1533169690,
+    "wof:lastmodified":1566681851,
     "wof:name":"Buting",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

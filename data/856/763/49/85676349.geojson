@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":16.770925,
     "lbl:longitude":121.461789,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Santiago",
     "mps:latitude":16.773405,
     "mps:longitude":121.455105,
@@ -606,9 +607,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"10,665",
     "statoids:area_mi":"4,118",
     "statoids:as_of_date":"2010-05-01",
@@ -661,11 +662,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326792,
+    "wof:lastmodified":1566679670,
     "wof:name":"Santiago",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1489645,
     "wof:population_rank":12,

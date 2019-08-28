@@ -11,10 +11,14 @@
     "geom:longitude":120.8612,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":6234,
+    "gn:population":6234,
     "iso:country":"PH",
+    "lbl:bbox":"120.8412,15.6247,120.8812,15.6647",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Santo Rosario"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1687564,
         "gp:id":91796939,
-        "qs:id":134219
+        "qs_pg:id":134219
     },
     "wof:country":"PH",
     "wof:created":1469051094,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415587,
-    "wof:lastmodified":1564178548,
+    "wof:lastmodified":1566681919,
     "wof:name":"Santo Rosario",
     "wof:parent_id":1108699421,
     "wof:placetype":"locality",

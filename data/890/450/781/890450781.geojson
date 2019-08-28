@@ -11,10 +11,14 @@
     "geom:longitude":121.2623,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5666,
+    "gn:population":5666,
     "iso:country":"PH",
+    "lbl:bbox":"121.2423,14.5767,121.2823,14.6167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pinugay"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1693409,
         "gp:id":1188009,
-        "qs:id":86967
+        "qs_pg:id":86967
     },
     "wof:country":"PH",
     "wof:created":1469052753,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450781,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682216,
     "wof:name":"Pinugay",
     "wof:parent_id":1108699669,
     "wof:placetype":"locality",

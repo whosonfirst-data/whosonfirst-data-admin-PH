@@ -10,8 +10,12 @@
     "geom:latitude":7.13222,
     "geom:longitude":125.49222,
     "iso:country":"PH",
+    "lbl:bbox":"125.47222,7.11222,125.51222,7.15222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Ulas"
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1680399,
         "gp:id":56123261,
-        "qs:id":531106
+        "qs_pg:id":531106
     },
     "wof:country":"PH",
     "wof:created":1459009314,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421181967,
-    "wof:lastmodified":1527716327,
+    "wof:lastmodified":1566681833,
     "wof:name":"Ulas",
     "wof:parent_id":1108698611,
     "wof:placetype":"locality",

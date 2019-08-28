@@ -11,10 +11,14 @@
     "geom:longitude":121.0529,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4416,
+    "gn:population":4416,
     "iso:country":"PH",
+    "lbl:bbox":"121.0329,13.7201,121.0729,13.7601",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wawa"
     ],
@@ -48,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0432\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uaua"
     ],
     "qs:name":"Wawa",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1679648,
         "gp:id":1198573,
-        "qs:id":86293,
+        "qs_pg:id":86293,
         "wk:page":"Wawa"
     },
     "wof:country":"PH",
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890437595,
-    "wof:lastmodified":1564178608,
+    "wof:lastmodified":1566681948,
     "wof:name":"Wawa",
     "wof:parent_id":1108696939,
     "wof:placetype":"locality",

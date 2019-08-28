@@ -11,14 +11,18 @@
     "geom:longitude":121.7437,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2639,
+    "gn:population":2639,
     "iso:country":"PH",
+    "lbl:bbox":"121.7237,17.6904,121.7637,17.7304",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Gammad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gammad Norte"
     ],
     "qs:name":"Gammad",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1713296,
         "gp:id":1172875,
-        "qs:id":87812
+        "qs_pg:id":87812
     },
     "wof:country":"PH",
     "wof:created":1469052773,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890451313,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682128,
     "wof:name":"Gammad",
     "wof:parent_id":1108697745,
     "wof:placetype":"locality",

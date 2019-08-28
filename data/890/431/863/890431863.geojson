@@ -11,11 +11,15 @@
     "geom:longitude":124.00639,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2946,
+    "gn:population":2946,
     "iso:country":"PH",
+    "lbl:bbox":"123.98639,10.75271,124.02639,10.79271",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Damulog"
     ],
     "qs:name":"Damolog",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1715864,
         "gp:id":1171037,
-        "qs:id":277233
+        "qs_pg:id":277233
     },
     "wof:country":"PH",
     "wof:created":1469051918,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431863,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566682004,
     "wof:name":"Damolog",
     "wof:parent_id":1108699529,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":121.1061,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":26201,
+    "gn:population":26201,
     "iso:country":"PH",
+    "lbl:bbox":"121.0861,15.6918,121.1261,15.7318",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Rizal"
     ],
@@ -73,9 +77,6 @@
     "name:tgl_x_preferred":[
         "Rizal"
     ],
-    "name:unk_x_variant":[
-        "Nazaret"
-    ],
     "name:vie_x_preferred":[
         "Rizal"
     ],
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1691606,
         "gp:id":1189323,
-        "qs:id":350740,
+        "qs_pg:id":350740,
         "wd:id":"Q55570",
         "wk:page":"Rizal"
     },
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":890442809,
-    "wof:lastmodified":1563332538,
+    "wof:lastmodified":1566682114,
     "wof:name":"Rizal",
     "wof:parent_id":1108699023,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.83224,
     "geom:longitude":120.6322,
     "iso:country":"PH",
+    "lbl:bbox":"120.6122,13.81224,120.6522,13.85224",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Calatagan"
@@ -70,9 +74,6 @@
     "name:tgl_x_preferred":[
         "Calatagan"
     ],
-    "name:unk_x_variant":[
-        "Calalagan"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0644\u0627\u062a\u0627\u06af\u0627\u0646"
     ],
@@ -113,7 +114,7 @@
     "wof:concordances":{
         "gn:id":1720499,
         "gp:id":1199014,
-        "qs:id":482457,
+        "qs_pg:id":482457,
         "wd:id":"Q59279",
         "wk:page":"Calatagan, Batangas"
     },
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421179481,
-    "wof:lastmodified":1563331689,
+    "wof:lastmodified":1566681867,
     "wof:name":"Calatagan",
     "wof:parent_id":1108697213,
     "wof:placetype":"locality",

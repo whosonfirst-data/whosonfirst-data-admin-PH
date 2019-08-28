@@ -11,10 +11,14 @@
     "geom:longitude":123.83333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":47948,
+    "gn:population":47948,
     "iso:country":"PH",
+    "lbl:bbox":"123.73333,12.85,123.93333,13.05",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Castile"
     ],
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1718086,
-        "qs:id":88021,
+        "qs_pg:id":88021,
         "wk:page":"Castile"
     },
     "wof:country":"PH",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890436329,
-    "wof:lastmodified":1564178678,
+    "wof:lastmodified":1566681984,
     "wof:name":"Castilla",
     "wof:parent_id":1108697315,
     "wof:placetype":"localadmin",

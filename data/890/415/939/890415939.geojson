@@ -11,14 +11,18 @@
     "geom:longitude":122.6212,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2742,
+    "gn:population":2742,
     "iso:country":"PH",
+    "lbl:bbox":"122.6012,10.8588,122.6412,10.8988",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Jamabalod"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jamabalud"
     ],
     "qs:name":"Jamabalod",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710336,
-        "qs:id":135246
+        "qs_pg:id":135246
     },
     "wof:country":"PH",
     "wof:created":1469051113,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890415939,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566681907,
     "wof:name":"Jamabalod",
     "wof:parent_id":1108698949,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.0583,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2598,
+    "gn:population":2598,
     "iso:country":"PH",
+    "lbl:bbox":"123.0383,10.82014,123.0783,10.86014",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Alacaygan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1731733,
-        "qs:id":136110
+        "qs_pg:id":136110
     },
     "wof:country":"PH",
     "wof:created":1469052029,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890434541,
-    "wof:lastmodified":1505343542,
+    "wof:lastmodified":1566682163,
     "wof:name":"Alacaygan",
     "wof:parent_id":1108697569,
     "wof:placetype":"locality",

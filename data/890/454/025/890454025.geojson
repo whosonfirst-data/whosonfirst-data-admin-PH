@@ -11,10 +11,14 @@
     "geom:longitude":125.98333,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3373,
+    "gn:population":3373,
     "iso:country":"PH",
+    "lbl:bbox":"125.96333,9.86333,126.00333,9.90333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Libas"
     ],
@@ -36,8 +40,10 @@
     "wof:concordances":{
         "gn:id":1706716,
         "gp:id":1178082,
-        "qs:id":135077,
         "qs_pg:id":87536
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":135077
     },
     "wof:country":"PH",
     "wof:created":1469052882,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890454025,
-    "wof:lastmodified":1505343654,
+    "wof:lastmodified":1566682023,
     "wof:name":"Libas",
     "wof:parent_id":1108697467,
     "wof:placetype":"locality",

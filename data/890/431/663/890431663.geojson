@@ -11,14 +11,18 @@
     "geom:longitude":122.5875,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2153,
+    "gn:population":2153,
     "iso:country":"PH",
+    "lbl:bbox":"122.5675,11.1022,122.6075,11.1422",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Quinagaringan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kinagaringan"
     ],
     "qs:name":"Quinagaringan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1692100,
         "gp:id":91798346,
-        "qs:id":276937
+        "qs_pg:id":276937
     },
     "wof:country":"PH",
     "wof:created":1469051902,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890431663,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566682002,
     "wof:name":"Quinagaringan",
     "wof:parent_id":1108698827,
     "wof:placetype":"locality",

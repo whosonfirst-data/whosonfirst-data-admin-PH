@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.756588,
     "lbl:longitude":122.078769,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ANTIQUE",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"SIBALOMANTIQUE",
@@ -32,6 +34,7 @@
     "mps:longitude":122.078769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Sibalom"
     ],
@@ -78,7 +81,7 @@
         "Sibalom"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108699473,
-    "wof:lastmodified":1564177006,
+    "wof:lastmodified":1566681172,
     "wof:name":"Sibalom",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

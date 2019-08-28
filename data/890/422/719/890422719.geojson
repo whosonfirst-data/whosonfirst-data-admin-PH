@@ -11,10 +11,14 @@
     "geom:longitude":122.7859,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4999,
+    "gn:population":4999,
     "iso:country":"PH",
+    "lbl:bbox":"122.7659,11.3667,122.8059,11.4067",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Ma-ayon"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":1704730,
         "gp:id":1199994,
-        "qs:id":135015,
+        "qs_pg:id":135015,
         "wd:id":"Q356153",
         "wk:page":"Maayon"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890422719,
-    "wof:lastmodified":1563331808,
+    "wof:lastmodified":1566681896,
     "wof:name":"Maayon",
     "wof:parent_id":1108698177,
     "wof:placetype":"locality",

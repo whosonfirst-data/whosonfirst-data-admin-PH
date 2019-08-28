@@ -11,11 +11,15 @@
     "geom:longitude":125.29194,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3238,
+    "gn:population":3238,
     "iso:country":"PH",
+    "lbl:bbox":"125.27194,6.68083,125.31194,6.72083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Igpit"
     ],
     "qs:name":"Ignit",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1711218,
         "gp:id":1193719,
-        "qs:id":87729
+        "qs_pg:id":87729
     },
     "wof:country":"PH",
     "wof:created":1469051836,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430001,
-    "wof:lastmodified":1505343516,
+    "wof:lastmodified":1566681940,
     "wof:name":"Ignit",
     "wof:parent_id":1108697475,
     "wof:placetype":"locality",

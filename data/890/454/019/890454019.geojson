@@ -11,10 +11,14 @@
     "geom:longitude":125.43944,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3919,
+    "gn:population":3919,
     "iso:country":"PH",
+    "lbl:bbox":"125.41944,8.95778,125.45944,8.99778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Manapa"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1702083,
         "gp:id":1181668,
-        "qs:id":134913
+        "qs_pg:id":134913
     },
     "wof:country":"PH",
     "wof:created":1469052882,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890454019,
-    "wof:lastmodified":1505343654,
+    "wof:lastmodified":1566682025,
     "wof:name":"Manapa",
     "wof:parent_id":1108697077,
     "wof:placetype":"locality",

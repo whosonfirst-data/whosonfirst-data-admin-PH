@@ -11,10 +11,14 @@
     "geom:longitude":123.1054,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4731,
+    "gn:population":4731,
     "iso:country":"PH",
+    "lbl:bbox":"123.0854,9.5152,123.1254,9.5552",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -147,7 +151,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz Nuevo"
     ],
     "name:vie_x_preferred":[
@@ -178,7 +182,7 @@
     "wof:concordances":{
         "gn:id":1688313,
         "gp:id":91465314,
-        "qs:id":134282,
+        "qs_pg:id":134282,
         "wk:page":"Santa Cruz"
     },
     "wof:country":"PH",
@@ -194,7 +198,7 @@
         }
     ],
     "wof:id":890415615,
-    "wof:lastmodified":1564178563,
+    "wof:lastmodified":1566681926,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108699681,
     "wof:placetype":"locality",

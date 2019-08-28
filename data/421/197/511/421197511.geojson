@@ -10,8 +10,12 @@
     "geom:latitude":14.2906,
     "geom:longitude":122.6917,
     "iso:country":"PH",
+    "lbl:bbox":"122.6717,14.2706,122.7117,14.3106",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Jose Panganiban"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Jose Panganiban"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mambulao"
     ],
     "name:vie_x_preferred":[
@@ -101,10 +105,12 @@
     "wof:concordances":{
         "gn:id":1695399,
         "gp:id":1199267,
-        "qs:id":308503,
         "qs_pg:id":134631,
         "wd:id":"Q356681",
         "wk:page":"Jose Panganiban, Camarines Norte"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":308503
     },
     "wof:country":"PH",
     "wof:created":1459009916,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421197511,
-    "wof:lastmodified":1561778717,
+    "wof:lastmodified":1566681848,
     "wof:name":"Jose Panganiban",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

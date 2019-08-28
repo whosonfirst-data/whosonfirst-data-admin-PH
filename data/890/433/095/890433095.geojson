@@ -11,10 +11,14 @@
     "geom:longitude":121.05687,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":10604,
+    "gn:population":10604,
     "iso:country":"PH",
+    "lbl:bbox":"120.95687,16.45238,121.15687,16.65238",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Ambaguio"
     ],
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1731142,
-        "qs:id":88543,
+        "qs_pg:id":88543,
         "wd:id":"Q51475",
         "wk:page":"Ambaguio"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890433095,
-    "wof:lastmodified":1563332741,
+    "wof:lastmodified":1566682180,
     "wof:name":"Ambaguio",
     "wof:parent_id":1108696661,
     "wof:placetype":"localadmin",

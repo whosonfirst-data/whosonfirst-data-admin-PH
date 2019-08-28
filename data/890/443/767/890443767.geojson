@@ -12,14 +12,18 @@
     "geom:longitude":125.65543,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":58775,
+    "gn:population":58775,
     "iso:country":"PH",
+    "lbl:bbox":"125.55543,9.03748,125.75543,9.23748",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:fil_x_preferred":[
         "Cabadbaran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cabadbaran City"
     ],
     "qs:name":"City of Cabadbaran",
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1722033,
-        "qs:id":1031352
+        "qs_pg:id":1031352
     },
     "wof:country":"PH",
     "wof:created":1469052437,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890443767,
-    "wof:lastmodified":1514618853,
+    "wof:lastmodified":1566682069,
     "wof:name":"City of Cabadbaran",
     "wof:parent_id":1108697149,
     "wof:placetype":"localadmin",

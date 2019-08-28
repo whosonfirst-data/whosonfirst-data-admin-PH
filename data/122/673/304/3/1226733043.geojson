@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"124.61667,6.78,124.65667,6.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Sultan sa Barongis"
     ],
@@ -66,10 +70,6 @@
     "name:tgl_x_preferred":[
         "Sultan sa Barongis"
     ],
-    "name:und_x_variant":[
-        "Lambayong",
-        "Sultan sa Barongis"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0637\u0627\u0646 \u0633\u0627 \u0628\u0627\u0631\u0648\u0646\u06af\u06cc\u0633"
     ],
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1226733043,
-    "wof:lastmodified":1564180900,
+    "wof:lastmodified":1566683055,
     "wof:name":"Sultan sa Barongis",
     "wof:parent_id":1108698395,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":122.8051,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":31330,
+    "gn:population":31330,
     "iso:country":"PH",
+    "lbl:bbox":"122.7051,7.9782,122.9051,8.1782",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Salug"
     ],
@@ -60,9 +64,6 @@
     "name:tgl_x_preferred":[
         "Salug"
     ],
-    "name:unk_x_variant":[
-        "Salug"
-    ],
     "name:vie_x_preferred":[
         "Salug"
     ],
@@ -84,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1690775,
-        "qs:id":86833,
+        "qs_pg:id":86833,
         "wd:id":"Q132586",
         "wk:page":"Salug, Zamboanga del Norte"
     },
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890421753,
-    "wof:lastmodified":1563332263,
+    "wof:lastmodified":1566682034,
     "wof:name":"Municipality of Salug",
     "wof:parent_id":1108699091,
     "wof:placetype":"localadmin",

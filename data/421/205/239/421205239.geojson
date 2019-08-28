@@ -10,8 +10,12 @@
     "geom:latitude":13.2681,
     "geom:longitude":122.0415,
     "iso:country":"PH",
+    "lbl:bbox":"122.0215,13.2481,122.0615,13.2881",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Tigui"
@@ -19,9 +23,6 @@
     "name:fil_x_variant":[
         "Tigwi",
         "Tiguion",
-        "Tigiui"
-    ],
-    "name:unk_x_variant":[
         "Tigiui"
     ],
     "qs:gn_country":"PH",
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1682166,
         "gp:id":1199926,
-        "qs:id":259816
+        "qs_pg:id":259816
     },
     "wof:country":"PH",
     "wof:created":1459010216,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":421205239,
-    "wof:lastmodified":1505340793,
+    "wof:lastmodified":1566681814,
     "wof:name":"Tigwi",
     "wof:parent_id":1108699757,
     "wof:placetype":"locality",

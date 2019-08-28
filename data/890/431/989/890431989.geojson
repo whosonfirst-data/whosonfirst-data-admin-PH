@@ -11,14 +11,18 @@
     "geom:longitude":119.3268,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3324,
+    "gn:population":3324,
     "iso:country":"PH",
+    "lbl:bbox":"119.3068,10.59177,119.3468,10.63177",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Alemanguan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alimanguan"
     ],
     "qs:name":"Alemanguan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1731450,
         "gp:id":91425138,
-        "qs:id":277439
+        "qs_pg:id":277439
     },
     "wof:country":"PH",
     "wof:created":1469051924,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890431989,
-    "wof:lastmodified":1505343527,
+    "wof:lastmodified":1566682006,
     "wof:name":"Alemanguan",
     "wof:parent_id":1108699325,
     "wof:placetype":"locality",

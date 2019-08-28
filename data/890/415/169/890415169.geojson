@@ -11,10 +11,14 @@
     "geom:longitude":122.15,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":12890,
+    "gn:population":12890,
     "iso:country":"PH",
+    "lbl:bbox":"122.05,14.71667,122.25,14.91667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Patnanungan"
     ],
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1694370,
-        "qs:id":87006,
+        "qs_pg:id":87006,
         "wd:id":"Q103981",
         "wk:page":"Patnanungan"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890415169,
-    "wof:lastmodified":1563331849,
+    "wof:lastmodified":1566681909,
     "wof:name":"Patnanungan",
     "wof:parent_id":1108698839,
     "wof:placetype":"localadmin",

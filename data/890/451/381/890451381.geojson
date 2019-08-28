@@ -11,10 +11,14 @@
     "geom:longitude":123.7995,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3187,
+    "gn:population":3187,
     "iso:country":"PH",
+    "lbl:bbox":"123.7795,8.1018,123.8195,8.1418",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Dimaluno"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1714842,
         "gp:id":1162764,
-        "qs:id":87885
+        "qs_pg:id":87885
     },
     "wof:country":"PH",
     "wof:created":1469052776,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451381,
-    "wof:lastmodified":1505343640,
+    "wof:lastmodified":1566682139,
     "wof:name":"Dimaluna",
     "wof:parent_id":890429659,
     "wof:placetype":"locality",

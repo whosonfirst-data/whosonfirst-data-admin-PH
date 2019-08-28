@@ -11,10 +11,14 @@
     "geom:longitude":120.4655,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2150,
+    "gn:population":2150,
     "iso:country":"PH",
+    "lbl:bbox":"120.4455,16.0828,120.4855,16.1228",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Labney"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1708303,
         "gp:id":91425827,
-        "qs:id":135148
+        "qs_pg:id":135148
     },
     "wof:country":"PH",
     "wof:created":1469052821,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452527,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681966,
     "wof:name":"Labney",
     "wof:parent_id":1108698351,
     "wof:placetype":"locality",

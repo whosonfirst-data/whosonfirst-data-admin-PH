@@ -10,8 +10,12 @@
     "geom:latitude":10.27722,
     "geom:longitude":125.2625,
     "iso:country":"PH",
+    "lbl:bbox":"125.2425,10.25722,125.2825,10.29722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Anahawan"
@@ -100,10 +104,12 @@
     "wof:concordances":{
         "gn:id":1730914,
         "gp:id":1159141,
-        "qs:id":490924,
         "qs_pg:id":88531,
         "wd:id":"Q173608",
         "wk:page":"Anahawan, Southern Leyte"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":490924
     },
     "wof:country":"PH",
     "wof:created":1459009296,
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421181427,
-    "wof:lastmodified":1563331542,
+    "wof:lastmodified":1566681834,
     "wof:name":"Anahawan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

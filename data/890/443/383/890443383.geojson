@@ -11,11 +11,15 @@
     "geom:longitude":121.96667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":28975,
+    "gn:population":28975,
     "iso:country":"PH",
+    "lbl:bbox":"121.86667,10.41667,122.06667,10.61667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "Tobias Fornier"
     ],
     "qs:name":"Dao",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1715646,
-        "qs:id":1027370
+        "qs_pg:id":1027370
     },
     "wof:country":"PH",
     "wof:created":1469052422,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890443383,
-    "wof:lastmodified":1505343593,
+    "wof:lastmodified":1566682066,
     "wof:name":"Dao",
     "wof:parent_id":1108699743,
     "wof:placetype":"localadmin",

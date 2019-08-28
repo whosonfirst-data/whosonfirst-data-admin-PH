@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.268194,
     "lbl:longitude":123.453965,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MASBATE",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"MILAGROSMASBATE",
@@ -32,6 +34,7 @@
     "mps:longitude":123.453965,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Milagros"
     ],
@@ -57,7 +60,7 @@
         "Milagros"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108698477,
-    "wof:lastmodified":1564177142,
+    "wof:lastmodified":1566681218,
     "wof:name":"Milagros",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":124.87056,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3324,
+    "gn:population":3324,
     "iso:country":"PH",
+    "lbl:bbox":"124.85056,8.59361,124.89056,8.63361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Anii"
     ],
     "qs:name":"Ani-e",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1730669,
-        "qs:id":277436
+        "qs_pg:id":277436
     },
     "wof:country":"PH",
     "wof:created":1469052885,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890454083,
-    "wof:lastmodified":1505343655,
+    "wof:lastmodified":1566682023,
     "wof:name":"Ani-e",
     "wof:parent_id":1108697363,
     "wof:placetype":"locality",

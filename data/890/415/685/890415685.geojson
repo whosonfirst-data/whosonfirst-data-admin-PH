@@ -11,10 +11,14 @@
     "geom:longitude":120.4124,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2304,
+    "gn:population":2304,
     "iso:country":"PH",
+    "lbl:bbox":"120.3924,16.8383,120.4324,16.8783",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Oaqui"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1697387,
         "gp:id":1189302,
-        "qs:id":134722
+        "qs_pg:id":134722
     },
     "wof:country":"PH",
     "wof:created":1469051098,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415685,
-    "wof:lastmodified":1505343427,
+    "wof:lastmodified":1566681925,
     "wof:name":"Oaqui",
     "wof:parent_id":1108698161,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":125.33333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":37197,
+    "gn:population":37197,
     "iso:country":"PH",
+    "lbl:bbox":"125.23333,6.4,125.43333,6.6",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "qs:name":"Malalag",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1703190,
-        "qs:id":87365
+        "qs_pg:id":87365
     },
     "wof:country":"PH",
     "wof:created":1469051954,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890432785,
-    "wof:lastmodified":1505343531,
+    "wof:lastmodified":1566682232,
     "wof:name":"Malalag",
     "wof:parent_id":1108698289,
     "wof:placetype":"localadmin",

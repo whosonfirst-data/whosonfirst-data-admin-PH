@@ -11,10 +11,14 @@
     "geom:longitude":122.36444,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":56845,
+    "gn:population":56845,
     "iso:country":"PH",
+    "lbl:bbox":"122.34444,11.68611,122.38444,11.72611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:akl_x_preferred":[
         "Banwa it Kalibo"
     ],
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":1709632,
         "gp:id":1159202,
-        "qs:id":1032750,
+        "qs_pg:id":1032750,
         "wd:id":"Q626721",
         "wk:page":"Kalibo Poblacion"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890438631,
-    "wof:lastmodified":1563332220,
+    "wof:lastmodified":1566682020,
     "wof:name":"Kalibo (poblacion)",
     "wof:parent_id":1108697881,
     "wof:placetype":"locality",

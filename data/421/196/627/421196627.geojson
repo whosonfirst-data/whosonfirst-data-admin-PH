@@ -10,8 +10,12 @@
     "geom:latitude":7.60111,
     "geom:longitude":124.90861,
     "iso:country":"PH",
+    "lbl:bbox":"124.88861,7.58111,124.92861,7.62111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Kadingilan"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Kadingilan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kada\u00f1gilan"
     ],
     "name:urd_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1709828,
         "gp:id":1175579,
-        "qs:id":1294574,
+        "qs_pg:id":1294574,
         "wd:id":"Q357100",
         "wk:page":"Kadingilan, Bukidnon"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421196627,
-    "wof:lastmodified":1563331575,
+    "wof:lastmodified":1566681841,
     "wof:name":"Kadingilan",
     "wof:parent_id":1108697873,
     "wof:placetype":"locality",

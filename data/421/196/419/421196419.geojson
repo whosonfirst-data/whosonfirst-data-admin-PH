@@ -10,8 +10,12 @@
     "geom:latitude":13.32328,
     "geom:longitude":121.30282,
     "iso:country":"PH",
+    "lbl:bbox":"121.28282,13.30328,121.32282,13.34328",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Naujan"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Naujan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Navjan"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1697911,
         "gp:id":56121255,
-        "qs:id":844564,
+        "qs_pg:id":844564,
         "wd:id":"Q107573",
         "wk:page":"Naujan, Oriental Mindoro"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421196419,
-    "wof:lastmodified":1563331580,
+    "wof:lastmodified":1566681842,
     "wof:name":"Naujan",
     "wof:parent_id":1108698567,
     "wof:placetype":"locality",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":11.039534,
     "lbl:longitude":122.178096,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Antique",
     "mps:latitude":11.035685,
     "mps:longitude":122.180024,
@@ -265,9 +266,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"2,522",
     "statoids:area_mi":"974",
     "statoids:as_of_date":"2010-05-01",
@@ -292,7 +293,7 @@
         "gp:id":2346661,
         "hasc:id":"PH.AQ",
         "iso:id":"PH-ANT",
-        "qs:id":318761,
+        "qs_pg:id":318761,
         "unlc:id":"PH-ANT",
         "wd:id":"Q13727",
         "wk:page":"Antique (province)"
@@ -307,9 +308,6 @@
         }
     ],
     "wof:id":85675985,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -325,11 +323,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326882,
+    "wof:lastmodified":1566679699,
     "wof:name":"Antique",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":546031,
     "wof:population_rank":11,

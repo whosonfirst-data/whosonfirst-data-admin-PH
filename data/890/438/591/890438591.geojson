@@ -11,10 +11,14 @@
     "geom:longitude":124.69528,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4345,
+    "gn:population":4345,
     "iso:country":"PH",
+    "lbl:bbox":"124.67528,6.46944,124.71528,6.50944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":1689026,
         "gp:id":1191493,
-        "qs:id":1032302,
+        "qs_pg:id":1032302,
         "wk:page":"San Miguel"
     },
     "wof:country":"PH",
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":890438591,
-    "wof:lastmodified":1564178741,
+    "wof:lastmodified":1566682016,
     "wof:name":"San Miguel",
     "wof:parent_id":1108698675,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.6387,
     "geom:longitude":122.3341,
     "iso:country":"PH",
+    "lbl:bbox":"122.3141,11.6187,122.3541,11.6587",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Banga"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1727396,
         "gp:id":1198863,
-        "qs:id":277386,
+        "qs_pg:id":277386,
         "wd:id":"Q569215",
         "wk:page":"Banga, Aklan"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421178105,
-    "wof:lastmodified":1563331693,
+    "wof:lastmodified":1566681868,
     "wof:name":"Banga",
     "wof:parent_id":1108696875,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":121.3423,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4580,
+    "gn:population":4580,
     "iso:country":"PH",
+    "lbl:bbox":"121.3223,14.1771,121.3623,14.2171",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Masapang"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1700746,
         "gp:id":1182606,
-        "qs:id":87262
+        "qs_pg:id":87262
     },
     "wof:country":"PH",
     "wof:created":1469052760,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450961,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682204,
     "wof:name":"Masapang",
     "wof:parent_id":1108699847,
     "wof:placetype":"locality",

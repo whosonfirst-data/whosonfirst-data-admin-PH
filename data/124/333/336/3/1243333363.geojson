@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"121.40915,17.48352,121.44915,17.52352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tuga Colony"
     ],
@@ -36,10 +40,6 @@
     ],
     "name:fil_x_preferred":[
         "Toga"
-    ],
-    "name:und_x_variant":[
-        "Colony",
-        "Toga Colony"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1243333363,
-    "wof:lastmodified":1537677297,
+    "wof:lastmodified":1566682560,
     "wof:name":"Tuga Colony",
     "wof:parent_id":1108699595,
     "wof:placetype":"locality",

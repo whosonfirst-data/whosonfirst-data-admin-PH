@@ -10,8 +10,12 @@
     "geom:latitude":13.884,
     "geom:longitude":122.2604,
     "iso:country":"PH",
+    "lbl:bbox":"122.2404,13.864,122.2804,13.904",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Lopez"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":1705572,
         "gp:id":1199387,
-        "qs:id":245430,
+        "qs_pg:id":245430,
         "wd:id":"Q103935",
         "wk:page":"Lopez, Quezon"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421204717,
-    "wof:lastmodified":1561778704,
+    "wof:lastmodified":1566681807,
     "wof:name":"Lopez",
     "wof:parent_id":1108698121,
     "wof:placetype":"locality",

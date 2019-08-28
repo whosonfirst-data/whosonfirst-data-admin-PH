@@ -11,10 +11,14 @@
     "geom:longitude":120.70045,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4809,
+    "gn:population":4809,
     "iso:country":"PH",
+    "lbl:bbox":"120.68045,15.37833,120.72045,15.41833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u064a\u0644\u0627\u0633"
     ],
@@ -97,9 +101,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0456\u043b\u044c\u044f\u0441"
     ],
-    "name:unk_x_variant":[
-        "Camillas"
-    ],
     "name:uzb_x_preferred":[
         "Comillas"
     ],
@@ -128,7 +129,7 @@
     "wof:concordances":{
         "gn:id":1717075,
         "gp:id":1187079,
-        "qs:id":135427,
+        "qs_pg:id":135427,
         "wk:page":"Comillas"
     },
     "wof:country":"PH",
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":890434403,
-    "wof:lastmodified":1564178988,
+    "wof:lastmodified":1566682161,
     "wof:name":"Comillas",
     "wof:parent_id":1108697953,
     "wof:placetype":"locality",

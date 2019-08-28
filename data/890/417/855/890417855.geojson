@@ -11,10 +11,14 @@
     "geom:longitude":121.5047,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2305,
+    "gn:population":2305,
     "iso:country":"PH",
+    "lbl:bbox":"121.4847,17.6861,121.5247,17.7261",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u063a\u0648\u0628\u0627\u0646"
     ],
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1716192,
         "gp:id":1187186,
-        "qs:id":1032864,
+        "qs_pg:id":1032864,
         "wk:page":"Dagupan"
     },
     "wof:country":"PH",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890417855,
-    "wof:lastmodified":1564178802,
+    "wof:lastmodified":1566682049,
     "wof:name":"Dagupan",
     "wof:parent_id":1108699763,
     "wof:placetype":"locality",

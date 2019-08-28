@@ -11,10 +11,14 @@
     "geom:longitude":120.6,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":19608,
+    "gn:population":19608,
     "iso:country":"PH",
+    "lbl:bbox":"120.5,16.5,120.7,16.7",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:fil_x_preferred":[
         "Kapangan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1709265,
-        "qs:id":87651
+        "qs_pg:id":87651
     },
     "wof:country":"PH",
     "wof:created":1469051392,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890421411,
-    "wof:lastmodified":1505343463,
+    "wof:lastmodified":1566682041,
     "wof:name":"Kapangan",
     "wof:parent_id":1108697893,
     "wof:placetype":"localadmin",

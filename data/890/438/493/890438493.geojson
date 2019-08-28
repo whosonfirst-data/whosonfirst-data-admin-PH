@@ -11,10 +11,14 @@
     "geom:longitude":123.5768,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":19392,
+    "gn:population":19392,
     "iso:country":"PH",
+    "lbl:bbox":"123.4768,8.4314,123.6768,8.6314",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Sapang Dalaga"
     ],
@@ -60,9 +64,6 @@
     "name:tgl_x_preferred":[
         "Sapang Dalaga"
     ],
-    "name:unk_x_variant":[
-        "Sapang Dalaga"
-    ],
     "name:vie_x_preferred":[
         "Sapang Dalaga"
     ],
@@ -84,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1687276,
-        "qs:id":1030993,
+        "qs_pg:id":1030993,
         "wd:id":"Q196222",
         "wk:page":"Sapang Dalaga, Misamis Occidental"
     },
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890438493,
-    "wof:lastmodified":1563332216,
+    "wof:lastmodified":1566682018,
     "wof:name":"Municipality of Sapang Dalaga",
     "wof:parent_id":1108699445,
     "wof:placetype":"localadmin",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.348817,
     "lbl:longitude":121.189434,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ORIENTAL MINDORO",
     "meso:admin_1r":"MIMAROPA",
     "meso:diss_me":"CALAPANORIENTAL MINDORO",
@@ -32,6 +34,7 @@
     "mps:longitude":121.189434,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u0627\u0628\u0627\u0646"
     ],
@@ -96,7 +99,7 @@
         "\u5361\u62c9\u6f58"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108697205,
-    "wof:lastmodified":1564177277,
+    "wof:lastmodified":1566681268,
     "wof:name":"Calapan",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

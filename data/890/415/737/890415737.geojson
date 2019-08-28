@@ -11,10 +11,14 @@
     "geom:longitude":125.9362,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2814,
+    "gn:population":2814,
     "iso:country":"PH",
+    "lbl:bbox":"125.9162,7.0628,125.9562,7.1028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Matiao"
     ],
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":1700346,
         "gp:id":91420138,
-        "qs:id":134830
+        "qs_pg:id":134830
     },
     "wof:country":"PH",
     "wof:created":1469051100,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890415737,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681907,
     "wof:name":"Matiao",
     "wof:parent_id":85676235,
     "wof:placetype":"locality",

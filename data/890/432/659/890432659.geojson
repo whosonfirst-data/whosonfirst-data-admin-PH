@@ -11,14 +11,18 @@
     "geom:longitude":120.4674,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2779,
+    "gn:population":2779,
     "iso:country":"PH",
+    "lbl:bbox":"120.4474,15.96123,120.4874,16.00123",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Tebag East"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tebag"
     ],
     "qs:name":"Tebag East",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1682559,
         "gp:id":91424158,
-        "qs:id":86412
+        "qs_pg:id":86412
     },
     "wof:country":"PH",
     "wof:created":1469051949,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890432659,
-    "wof:lastmodified":1505343530,
+    "wof:lastmodified":1566682230,
     "wof:name":"Tebag East",
     "wof:parent_id":1108699339,
     "wof:placetype":"locality",

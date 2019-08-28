@@ -10,8 +10,12 @@
     "geom:latitude":8.0555,
     "geom:longitude":123.7904,
     "iso:country":"PH",
+    "lbl:bbox":"123.7704,8.0355,123.8104,8.0755",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Tubod"
@@ -67,7 +71,7 @@
     "name:tha_x_preferred":[
         "\u0e15\u0e39\u0e42\u0e1a\u0e14"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tubud"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":1681149,
         "gp:id":1199945,
-        "qs:id":246173,
+        "qs_pg:id":246173,
         "wd:id":"Q274439",
         "wk:page":"Tubod, Lanao del Norte"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421204731,
-    "wof:lastmodified":1563331420,
+    "wof:lastmodified":1566681805,
     "wof:name":"Tubod",
     "wof:parent_id":1108699783,
     "wof:placetype":"locality",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":18.128725,
     "lbl:longitude":120.728291,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Ilocos Norte",
     "mps:latitude":18.133273,
     "mps:longitude":120.72698,
@@ -292,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"3,399",
     "statoids:area_mi":"1,312",
     "statoids:as_of_date":"2010-05-01",
@@ -320,7 +321,7 @@
         "gp:id":2346683,
         "hasc:id":"PH.IN",
         "iso:id":"PH-ILN",
-        "qs:id":900729,
+        "qs_pg:id":900729,
         "unlc:id":"PH-ILN",
         "wd:id":"Q13813"
     },
@@ -334,9 +335,6 @@
         }
     ],
     "wof:id":85676057,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -352,11 +350,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326828,
+    "wof:lastmodified":1566679685,
     "wof:name":"Ilocos Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":568017,
     "wof:population_rank":11,

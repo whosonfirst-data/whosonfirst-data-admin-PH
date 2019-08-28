@@ -11,11 +11,15 @@
     "geom:longitude":125.41611,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4358,
+    "gn:population":4358,
     "iso:country":"PH",
+    "lbl:bbox":"125.39611,8.8775,125.43611,8.9175",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Guinapsan"
     ],
     "qs:name":"Guinabsan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1712434,
         "gp:id":28343850,
-        "qs:id":87778
+        "qs_pg:id":87778
     },
     "wof:country":"PH",
     "wof:created":1469051845,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430253,
-    "wof:lastmodified":1505343517,
+    "wof:lastmodified":1566681945,
     "wof:name":"Guinabsan",
     "wof:parent_id":1108697077,
     "wof:placetype":"locality",

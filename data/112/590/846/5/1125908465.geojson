@@ -9,15 +9,18 @@
     "geom:bbox":"122.713,10.825,122.713,10.825",
     "geom:latitude":10.825,
     "geom:longitude":122.713,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":8959,
+    "gn:country":"PH",
+    "gn:fcode":"PPLA3",
     "gn:population":8959,
     "iso:country":"PH",
+    "lbl:bbox":"122.693,10.805,122.733,10.845",
     "lbl:latitude":10.825,
     "lbl:longitude":122.713,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bcl_x_preferred":[
         "Dumangas"
@@ -73,7 +76,7 @@
     "name:tgl_x_preferred":[
         "Dumangas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dumanoa"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +97,7 @@
     "qs_pg:qs_id":1032816,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1125908465,
-    "wof:lastmodified":1563333067,
+    "wof:lastmodified":1566682274,
     "wof:name":"Dumangas",
     "wof:parent_id":1108697541,
     "wof:placetype":"locality",

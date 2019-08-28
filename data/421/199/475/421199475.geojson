@@ -10,8 +10,12 @@
     "geom:latitude":10.6461,
     "geom:longitude":124.3816,
     "iso:country":"PH",
+    "lbl:bbox":"124.3616,10.6261,124.4016,10.6661",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Francisco"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":1690011,
         "gp:id":1199736,
-        "qs:id":478819,
+        "qs_pg:id":478819,
         "wd:id":"Q316332",
         "wk:page":"San Francisco, Cebu"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421199475,
-    "wof:lastmodified":1563331622,
+    "wof:lastmodified":1566681852,
     "wof:name":"San Francisco",
     "wof:parent_id":85676197,
     "wof:placetype":"locality",

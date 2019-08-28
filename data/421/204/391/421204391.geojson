@@ -10,6 +10,9 @@
     "geom:latitude":13.61917,
     "geom:longitude":123.18139,
     "iso:country":"PH",
+    "lbl:bbox":"123.16139,13.59917,123.20139,13.63917",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -182,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0433\u0430"
     ],
-    "name:unk_x_variant":[
-        "Naga City"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u06af\u0627\u060c \u06a9\u0627\u0645\u0627\u0631\u06cc\u0646\u0632 \u062c\u0646\u0648\u0628\u06cc"
     ],
@@ -322,7 +322,7 @@
     "wof:concordances":{
         "gn:id":1698829,
         "gp:id":1183960,
-        "qs:id":239991,
+        "qs_pg:id":239991,
         "wd:id":"Q2207",
         "wk:page":"Naga, Camarines Sur"
     },
@@ -339,7 +339,7 @@
         }
     ],
     "wof:id":421204391,
-    "wof:lastmodified":1563331418,
+    "wof:lastmodified":1566681805,
     "wof:name":"Naga",
     "wof:parent_id":1108698535,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.5832,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4296,
+    "gn:population":4296,
     "iso:country":"PH",
+    "lbl:bbox":"120.5632,16.0103,120.6032,16.0503",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Sumabnit"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1685360,
         "gp:id":91421357,
-        "qs:id":134160
+        "qs_pg:id":134160
     },
     "wof:country":"PH",
     "wof:created":1469051919,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431879,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566682000,
     "wof:name":"Sumabnit",
     "wof:parent_id":1108697001,
     "wof:placetype":"locality",

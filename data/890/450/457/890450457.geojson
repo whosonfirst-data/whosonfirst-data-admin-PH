@@ -11,10 +11,14 @@
     "geom:longitude":121.0616,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":8225,
+    "gn:population":8225,
     "iso:country":"PH",
+    "lbl:bbox":"121.0416,15.149,121.0816,15.189",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Sibul Springs"
     ],
@@ -23,9 +27,6 @@
     ],
     "name:fil_x_preferred":[
         "Sibul"
-    ],
-    "name:unk_x_variant":[
-        "Sibul Springs"
     ],
     "qs:name":"Sibul",
     "qs:photos_9r":0,
@@ -43,7 +44,7 @@
     "wof:concordances":{
         "gn:id":1686737,
         "gp:id":1199912,
-        "qs:id":86576,
+        "qs_pg:id":86576,
         "wk:page":"Sibul"
     },
     "wof:country":"PH",
@@ -59,7 +60,7 @@
         }
     ],
     "wof:id":890450457,
-    "wof:lastmodified":1564179090,
+    "wof:lastmodified":1566682214,
     "wof:name":"Sibul",
     "wof:parent_id":1108699265,
     "wof:placetype":"locality",

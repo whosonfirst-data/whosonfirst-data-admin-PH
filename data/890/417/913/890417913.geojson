@@ -11,10 +11,14 @@
     "geom:longitude":123.09,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7048,
+    "gn:population":7048,
     "iso:country":"PH",
+    "lbl:bbox":"123.07,10.91294,123.11,10.95294",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0637\u0631\u0637\u0648\u0634\u0629"
     ],
@@ -144,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u0442\u043e\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tortoso"
     ],
     "name:uzb_x_preferred":[
@@ -174,7 +178,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1681388,
-        "qs:id":276775,
+        "qs_pg:id":276775,
         "wk:page":"Tortosa"
     },
     "wof:country":"PH",
@@ -190,7 +194,7 @@
         }
     ],
     "wof:id":890417913,
-    "wof:lastmodified":1564178799,
+    "wof:lastmodified":1566682048,
     "wof:name":"Tortosa",
     "wof:parent_id":1108698341,
     "wof:placetype":"locality",

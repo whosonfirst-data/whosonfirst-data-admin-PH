@@ -11,11 +11,15 @@
     "geom:longitude":121.94204,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2811,
+    "gn:population":2811,
     "iso:country":"PH",
+    "lbl:bbox":"121.92204,7.18801,121.96204,7.22801",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Malaya"
     ],
     "qs:name":"Malayal",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1702944,
         "gp:id":1181024,
-        "qs:id":134957
+        "qs_pg:id":134957
     },
     "wof:country":"PH",
     "wof:created":1469051421,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890421973,
-    "wof:lastmodified":1505343467,
+    "wof:lastmodified":1566682043,
     "wof:name":"Malayal",
     "wof:parent_id":1108698671,
     "wof:placetype":"locality",

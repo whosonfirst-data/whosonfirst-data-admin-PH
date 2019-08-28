@@ -11,14 +11,18 @@
     "geom:longitude":120.8675,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3481,
+    "gn:population":3481,
     "iso:country":"PH",
+    "lbl:bbox":"120.8475,15.3506,120.8875,15.3906",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Putlod"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Putloo"
     ],
     "qs:name":"Putlod",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1692291,
         "gp:id":91798335,
-        "qs:id":134483
+        "qs_pg:id":134483
     },
     "wof:country":"PH",
     "wof:created":1469051419,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890421933,
-    "wof:lastmodified":1505343466,
+    "wof:lastmodified":1566682040,
     "wof:name":"Putlod",
     "wof:parent_id":1108697801,
     "wof:placetype":"locality",

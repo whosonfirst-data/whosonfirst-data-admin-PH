@@ -10,8 +10,12 @@
     "geom:latitude":14.9676,
     "geom:longitude":120.6828,
     "iso:country":"PH",
+    "lbl:bbox":"120.6628,14.9476,120.7028,14.9876",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Minalin"
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":1699656,
         "gp:id":1183372,
-        "qs:id":264587,
+        "qs_pg:id":264587,
         "wd:id":"Q55717",
         "wk:page":"Minalin, Pampanga"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421205543,
-    "wof:lastmodified":1563331454,
+    "wof:lastmodified":1566681813,
     "wof:name":"Minalin",
     "wof:parent_id":1108697671,
     "wof:placetype":"locality",

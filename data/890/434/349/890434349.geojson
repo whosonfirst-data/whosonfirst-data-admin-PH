@@ -11,10 +11,14 @@
     "geom:longitude":120.1786,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2540,
+    "gn:population":2540,
     "iso:country":"PH",
+    "lbl:bbox":"120.1586,15.916,120.1986,15.956",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0430\u0441\u0438\u0435\u043d\u0434\u0430"
     ],
@@ -120,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1712035,
-        "qs:id":135302,
+        "qs_pg:id":135302,
         "wd:id":"Q917730",
         "wk:page":"Hacienda"
     },
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":890434349,
-    "wof:lastmodified":1563332648,
+    "wof:lastmodified":1566682151,
     "wof:name":"Hacienda",
     "wof:parent_id":1108697089,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":9.69722,
     "geom:longitude":125.58556,
     "iso:country":"PH",
+    "lbl:bbox":"125.56556,9.67722,125.60556,9.71722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Tagana-an"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1684610,
         "gp:id":1199881,
-        "qs:id":877547,
+        "qs_pg:id":877547,
         "wd:id":"Q155934"
     },
     "wof:country":"PH",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421174491,
-    "wof:lastmodified":1561778707,
+    "wof:lastmodified":1566681817,
     "wof:name":"Tagana-an",
     "wof:parent_id":1108699603,
     "wof:placetype":"locality",

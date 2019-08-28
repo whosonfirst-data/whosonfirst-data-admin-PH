@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.818207,
     "lbl:longitude":121.029577,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BATANGAS",
     "meso:admin_1r":"CALABARZON",
     "meso:diss_me":"SAN PASCUALBATANGAS",
@@ -32,6 +34,7 @@
     "mps:longitude":121.029577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Pascual"
     ],
@@ -66,7 +69,7 @@
         "San Pascual"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108699293,
-    "wof:lastmodified":1564177227,
+    "wof:lastmodified":1566681247,
     "wof:name":"San Pascual",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":123.7911,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2259,
+    "gn:population":2259,
     "iso:country":"PH",
+    "lbl:bbox":"123.7711,10.6353,123.8111,10.6753",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Colonia"
     ],
@@ -99,7 +103,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kolonia"
     ],
     "name:vec_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":1717120,
         "gp:id":1170086,
-        "qs:id":135436,
+        "qs_pg:id":135436,
         "wk:page":"Colonia"
     },
     "wof:country":"PH",
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":890434405,
-    "wof:lastmodified":1564178984,
+    "wof:lastmodified":1566682159,
     "wof:name":"Colonia",
     "wof:parent_id":1108699793,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":122.3525,
     "gn:country":"PH",
     "gn:fcode":"LCTY",
-    "gn:pop":2000,
+    "gn:population":2000,
     "iso:country":"PH",
+    "lbl:bbox":"122.3325,11.71,122.3725,11.75",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kamansi"
     ],
     "qs:name":"Brgy. Camanci Sur, Numancia",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1719910,
         "gp:id":91427730,
-        "qs:id":88075
+        "qs_pg:id":88075
     },
     "wof:country":"PH",
     "wof:created":1469051961,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432943,
-    "wof:lastmodified":1505343532,
+    "wof:lastmodified":1566682249,
     "wof:name":"Brgy. Camanci Sur, Numancia",
     "wof:parent_id":1108698681,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":120.9078,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3707,
+    "gn:population":3707,
     "iso:country":"PH",
+    "lbl:bbox":"120.8878,15.4814,120.9278,15.5214",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "San Felipe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Felipe Old"
     ],
     "qs:name":"San Felipe",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1690085,
         "gp:id":1191828,
-        "qs:id":276907
+        "qs_pg:id":276907
     },
     "wof:country":"PH",
     "wof:created":1469051901,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890431635,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566681992,
     "wof:name":"San Felipe",
     "wof:parent_id":1108696625,
     "wof:placetype":"locality",

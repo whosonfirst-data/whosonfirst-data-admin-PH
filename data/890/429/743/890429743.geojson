@@ -11,10 +11,14 @@
     "geom:longitude":120.92287,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4200,
+    "gn:population":4200,
     "iso:country":"PH",
+    "lbl:bbox":"120.90287,15.08696,120.94287,15.12696",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mapaniqui"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1701281,
         "gp:id":1182236,
-        "qs:id":87288
+        "qs_pg:id":87288
     },
     "wof:country":"PH",
     "wof:created":1469051827,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429743,
-    "wof:lastmodified":1505343514,
+    "wof:lastmodified":1566682087,
     "wof:name":"Mapaniqui",
     "wof:parent_id":1108699175,
     "wof:placetype":"locality",

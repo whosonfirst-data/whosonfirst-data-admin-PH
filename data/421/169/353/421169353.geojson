@@ -10,8 +10,12 @@
     "geom:latitude":8.5916,
     "geom:longitude":123.4859,
     "iso:country":"PH",
+    "lbl:bbox":"123.4659,8.5716,123.5059,8.6116",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Sibutad"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1686712,
         "gp:id":1193424,
-        "qs:id":1294714,
+        "qs_pg:id":1294714,
         "wd:id":"Q132601"
     },
     "wof:country":"PH",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421169353,
-    "wof:lastmodified":1563331408,
+    "wof:lastmodified":1566681802,
     "wof:name":"Sibutad",
     "wof:parent_id":1108699481,
     "wof:placetype":"locality",

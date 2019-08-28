@@ -11,10 +11,14 @@
     "geom:longitude":122.9467,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3100,
+    "gn:population":3100,
     "iso:country":"PH",
+    "lbl:bbox":"122.9267,10.2165,122.9667,10.2565",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Aranda"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1730251,
         "gp:id":1158888,
-        "qs:id":88504,
+        "qs_pg:id":88504,
         "wk:page":"Aranda"
     },
     "wof:country":"PH",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890451433,
-    "wof:lastmodified":1564178943,
+    "wof:lastmodified":1566682135,
     "wof:name":"Aranda",
     "wof:parent_id":1108697725,
     "wof:placetype":"locality",

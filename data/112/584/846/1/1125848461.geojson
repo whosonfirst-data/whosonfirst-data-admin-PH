@@ -9,15 +9,18 @@
     "geom:bbox":"122.54472,10.81028,122.54472,10.81028",
     "geom:latitude":10.81028,
     "geom:longitude":122.54472,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4267,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":4267,
     "iso:country":"PH",
+    "lbl:bbox":"122.52472,10.79028,122.56472,10.83028",
     "lbl:latitude":10.81028,
     "lbl:longitude":122.54472,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bcl_x_preferred":[
         "Cabugao"
@@ -58,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Cabugao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cabugao Lucena"
     ],
     "name:vie_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":88136,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1125848461,
-    "wof:lastmodified":1564179295,
+    "wof:lastmodified":1566682310,
     "wof:name":"Cabugao",
     "wof:parent_id":1108699337,
     "wof:placetype":"locality",

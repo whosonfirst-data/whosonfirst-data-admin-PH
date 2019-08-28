@@ -11,10 +11,14 @@
     "geom:longitude":124.4,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3215,
+    "gn:population":3215,
     "iso:country":"PH",
+    "lbl:bbox":"124.38,11.23,124.42,11.27",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Inangatan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710840,
-        "qs:id":87717
+        "qs_pg:id":87717
     },
     "wof:country":"PH",
     "wof:created":1469052772,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890451281,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682123,
     "wof:name":"Inangatan",
     "wof:parent_id":1108699863,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":122.3575,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3431,
+    "gn:population":3431,
     "iso:country":"PH",
+    "lbl:bbox":"122.3375,11.631,122.3775,11.671",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Linabuan"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1706299,
-        "qs:id":87505
+        "qs_pg:id":87505
     },
     "wof:country":"PH",
     "wof:created":1469052766,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890451121,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682128,
     "wof:name":"Linabuan",
     "wof:parent_id":1108698577,
     "wof:placetype":"locality",

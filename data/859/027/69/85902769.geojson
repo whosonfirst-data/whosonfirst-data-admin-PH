@@ -5,18 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000125,
-    "geom:area_square_m":1496757.655634,
+    "geom:area_square_m":1496757.655631,
     "geom:bbox":"121.019897461,14.5702925948,121.062974929,14.59517725",
     "geom:latitude":14.583482,
     "geom:longitude":121.044871,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PH",
+    "gn:fcode":"PPLX",
     "gn:latitude":14.56667,
     "gn:longitude":121.03333,
+    "gn:population":0,
     "iso:country":"PH",
     "lbl:latitude":14.583693,
     "lbl:longitude":121.052966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.588631,
     "mps:longitude":121.057768,
     "mz:hierarchy_label":1,
@@ -32,9 +33,6 @@
         "Bel-Air Three"
     ],
     "name:fil_x_preferred":[
-        "Bel-Air Three"
-    ],
-    "name:unk_x_variant":[
         "Bel-Air Three"
     ],
     "qs:gn_adm0_cc":"PH",
@@ -83,7 +81,7 @@
     "qs_pg:woe_id":1163330,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         1159397261,
@@ -96,7 +94,6 @@
     "wof:concordances":{
         "gn:id":1725625,
         "gp:id":1163330,
-        "qs:id":1083535,
         "qs_pg:id":1083535
     },
     "wof:country":"PH",
@@ -114,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379405,
+    "wof:lastmodified":1566679665,
     "wof:name":"Bel-Air Three",
     "wof:parent_id":1159397261,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":13.8791,
     "geom:longitude":121.2139,
     "iso:country":"PH",
+    "lbl:bbox":"121.1939,13.8591,121.2339,13.8991",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Padre Garcia"
@@ -76,7 +80,7 @@
     "name:tgl_x_preferred":[
         "Padre Garcia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lumang Bayan"
     ],
     "name:urd_x_preferred":[
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":1696742,
         "gp:id":1185548,
-        "qs:id":266831,
+        "qs_pg:id":266831,
         "wd:id":"Q59749"
     },
     "wof:country":"PH",
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421166437,
-    "wof:lastmodified":1563331341,
+    "wof:lastmodified":1566681788,
     "wof:name":"Padre Garcia",
     "wof:parent_id":1108698719,
     "wof:placetype":"locality",

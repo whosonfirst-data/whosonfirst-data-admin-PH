@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"123.63,9.18,123.67,9.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Look"
     ],
@@ -56,8 +60,7 @@
         "Look"
     ],
     "name:und_x_variant":[
-        "Looc",
-        "Look"
+        "Looc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1209400585,
-    "wof:lastmodified":1564175649,
+    "wof:lastmodified":1566680597,
     "wof:name":"Look",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",

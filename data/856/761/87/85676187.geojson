@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":11.587529,
     "lbl:longitude":124.479751,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Biliran",
     "mps:latitude":11.583537,
     "mps:longitude":124.491574,
@@ -295,9 +296,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"555",
     "statoids:area_mi":"214",
     "statoids:as_of_date":"2010-05-01",
@@ -323,7 +324,7 @@
         "gp:id":28350147,
         "hasc:id":"PH.BI",
         "iso:id":"PH-BIL",
-        "qs:id":981431,
+        "qs_pg:id":981431,
         "unlc:id":"PH-BIL",
         "wd:id":"Q13751"
     },
@@ -337,9 +338,6 @@
         }
     ],
     "wof:id":85676187,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -355,11 +353,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326855,
+    "wof:lastmodified":1566679692,
     "wof:name":"Biliran",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":161760,
     "wof:population_rank":9,

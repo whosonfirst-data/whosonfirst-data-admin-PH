@@ -11,11 +11,15 @@
     "geom:longitude":122.345,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2789,
+    "gn:population":2789,
     "iso:country":"PH",
+    "lbl:bbox":"122.325,11.63111,122.365,11.67111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Linabuan"
     ],
     "qs:name":"Linabuan Sur",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1706298,
         "gp:id":1181497,
-        "qs:id":87504
+        "qs_pg:id":87504
     },
     "wof:country":"PH",
     "wof:created":1469052766,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890451119,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682128,
     "wof:name":"Linabuan Sur",
     "wof:parent_id":1108696875,
     "wof:placetype":"locality",

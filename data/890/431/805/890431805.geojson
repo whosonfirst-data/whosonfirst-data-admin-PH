@@ -11,11 +11,15 @@
     "geom:longitude":121.23444,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":14552,
+    "gn:population":14552,
     "iso:country":"PH",
+    "lbl:bbox":"121.21444,5.98111,121.25444,6.02111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Siit"
     ],
     "qs:name":"Kansipati",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1709322,
         "gp:id":1175920,
-        "qs:id":277136
+        "qs_pg:id":277136
     },
     "wof:country":"PH",
     "wof:created":1469051916,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431805,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566681992,
     "wof:name":"Kansipati",
     "wof:parent_id":1108698767,
     "wof:placetype":"locality",

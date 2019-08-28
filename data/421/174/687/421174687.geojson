@@ -10,8 +10,12 @@
     "geom:latitude":8.5587,
     "geom:longitude":123.6425,
     "iso:country":"PH",
+    "lbl:bbox":"123.6225,8.5387,123.6625,8.5787",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Calamba"
@@ -101,10 +105,12 @@
     "wof:concordances":{
         "gn:id":1720683,
         "gp:id":1167315,
-        "qs:id":894750,
         "qs_pg:id":88112,
         "wd:id":"Q196097",
         "wk:page":"Calamba, Misamis Occidental"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":894750
     },
     "wof:country":"PH",
     "wof:created":1459009040,
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421174687,
-    "wof:lastmodified":1561778707,
+    "wof:lastmodified":1566681816,
     "wof:name":"Calamba",
     "wof:parent_id":1108697199,
     "wof:placetype":"locality",

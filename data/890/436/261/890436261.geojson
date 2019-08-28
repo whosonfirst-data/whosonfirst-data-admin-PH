@@ -11,10 +11,14 @@
     "geom:longitude":121.88333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":54656,
+    "gn:population":54656,
     "iso:country":"PH",
+    "lbl:bbox":"121.78333,17.16667,121.98333,17.36667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bcl_x_preferred":[
         "Tumauini"
     ],
@@ -77,7 +81,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1680754,
-        "qs:id":86343
+        "qs_pg:id":86343
     },
     "wof:country":"PH",
     "wof:created":1469052105,
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890436261,
-    "wof:lastmodified":1564178666,
+    "wof:lastmodified":1566681978,
     "wof:name":"Tumauini",
     "wof:parent_id":1108699807,
     "wof:placetype":"localadmin",

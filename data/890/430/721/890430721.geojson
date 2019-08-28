@@ -11,10 +11,14 @@
     "geom:longitude":121.5751,
     "gn:country":"PH",
     "gn:fcode":"LCTY",
-    "gn:pop":2582,
+    "gn:population":2582,
     "iso:country":"PH",
+    "lbl:bbox":"121.5551,14.0706,121.5951,14.1106",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tinamnan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1681931,
         "gp:id":1196396,
-        "qs:id":134008
+        "qs_pg:id":134008
     },
     "wof:country":"PH",
     "wof:created":1469051864,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430721,
-    "wof:lastmodified":1505343520,
+    "wof:lastmodified":1566681946,
     "wof:name":"Tinamnan",
     "wof:parent_id":1108698137,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.301734,
     "lbl:longitude":125.41138,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DAVAO DEL SUR",
     "meso:admin_1r":"DAVAO REGION",
     "meso:diss_me":"NO DATADAVAO DEL SUR",
@@ -32,6 +34,7 @@
     "mps:longitude":125.41138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Davao Stad"
     ],
@@ -219,7 +222,7 @@
         "\u8fbe\u6c83\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":1108698611,
-    "wof:lastmodified":1564176901,
+    "wof:lastmodified":1566681138,
     "wof:name":"Davao City",
     "wof:parent_id":85676309,
     "wof:placetype":"county",

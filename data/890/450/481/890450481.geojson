@@ -11,11 +11,15 @@
     "geom:longitude":124.25,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4376,
+    "gn:population":4376,
     "iso:country":"PH",
+    "lbl:bbox":"124.23,7.46333,124.27,7.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sapad"
     ],
     "qs:name":"Sapadun",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1687321,
         "gp:id":1194498,
-        "qs:id":86594
+        "qs_pg:id":86594
     },
     "wof:country":"PH",
     "wof:created":1469052741,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450481,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682209,
     "wof:name":"Sapadun",
     "wof:parent_id":1108698429,
     "wof:placetype":"locality",

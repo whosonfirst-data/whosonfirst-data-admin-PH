@@ -11,10 +11,14 @@
     "geom:longitude":123.71667,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":57860,
+    "gn:population":57860,
     "iso:country":"PH",
+    "lbl:bbox":"123.69667,13.34667,123.73667,13.38667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0628\u0627\u0643\u0648"
@@ -160,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0431\u0430\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tobaco"
     ],
     "name:urd_x_preferred":[
@@ -206,14 +210,14 @@
     "wof:concordances":{
         "gn:id":1683656,
         "gp:id":1194468,
-        "qs:id":1159559,
+        "qs_pg:id":1159559,
         "wd:id":"Q1706",
         "wk:page":"Tabaco"
     },
     "wof:concordances_alt":{
         "gn:id":1685117,
         "gp:id":91463900,
-        "qs:id":134152
+        "qs_pg:id":134152
     },
     "wof:country":"PH",
     "wof:created":1459009712,
@@ -228,7 +232,7 @@
         }
     ],
     "wof:id":421191869,
-    "wof:lastmodified":1563331590,
+    "wof:lastmodified":1566681845,
     "wof:name":"Tabaco",
     "wof:parent_id":1108699581,
     "wof:placetype":"locality",

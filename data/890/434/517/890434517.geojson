@@ -11,10 +11,14 @@
     "geom:longitude":122.9311,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3771,
+    "gn:population":3771,
     "iso:country":"PH",
+    "lbl:bbox":"122.9111,8.1351,122.9511,8.1751",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Bacungan"
     ],
@@ -63,9 +67,6 @@
     "name:tgl_x_preferred":[
         "Bacungan"
     ],
-    "name:unk_x_variant":[
-        "Bacungan"
-    ],
     "name:war_x_preferred":[
         "Bacungan"
     ],
@@ -84,7 +85,7 @@
     "wof:concordances":{
         "gn:id":1729537,
         "gp:id":28344353,
-        "qs:id":135945,
+        "qs_pg:id":135945,
         "wd:id":"Q132540"
     },
     "wof:country":"PH",
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":890434517,
-    "wof:lastmodified":1563332642,
+    "wof:lastmodified":1566682149,
     "wof:name":"Leon Postigo",
     "wof:parent_id":1108696767,
     "wof:placetype":"locality",

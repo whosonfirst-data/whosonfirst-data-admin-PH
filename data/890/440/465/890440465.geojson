@@ -11,10 +11,14 @@
     "geom:longitude":123.42417,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":72153,
+    "gn:population":72153,
     "iso:country":"PH",
+    "lbl:bbox":"123.40417,10.92472,123.44417,10.96472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u063a\u064a"
     ],
@@ -174,9 +178,11 @@
     "wof:concordances":{
         "gn:id":1691152,
         "gp:id":1185168,
-        "qs:id":134432,
-        "qs_pg:id":350739,
+        "qs_pg:id":134432,
         "wd:id":"Q1787527"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":350739
     },
     "wof:country":"PH",
     "wof:created":1469052278,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":890440465,
-    "wof:lastmodified":1563331777,
+    "wof:lastmodified":1566681886,
     "wof:name":"Sagay",
     "wof:parent_id":1108699073,
     "wof:placetype":"locality",

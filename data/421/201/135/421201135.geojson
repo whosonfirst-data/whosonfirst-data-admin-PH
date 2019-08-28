@@ -10,8 +10,12 @@
     "geom:latitude":8.84583,
     "geom:longitude":125.16639,
     "iso:country":"PH",
+    "lbl:bbox":"125.14639,8.82583,125.18639,8.86583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Odiongan"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1697299,
         "gp:id":1199571,
-        "qs:id":210095
+        "qs_pg:id":210095
     },
     "wof:country":"PH",
     "wof:created":1459010057,
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421201135,
-    "wof:lastmodified":1564178464,
+    "wof:lastmodified":1566681858,
     "wof:name":"Odiongan",
     "wof:parent_id":1108697649,
     "wof:placetype":"locality",

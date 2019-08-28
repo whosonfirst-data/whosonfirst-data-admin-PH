@@ -11,10 +11,14 @@
     "geom:longitude":122.288,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":20837,
+    "gn:population":20837,
     "iso:country":"PH",
+    "lbl:bbox":"122.268,13.9375,122.308,13.9775",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Calauag"
     ],
@@ -63,7 +67,7 @@
     "name:tgl_x_preferred":[
         "Calauag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Calavag"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1720472,
         "gp:id":91464882,
-        "qs:id":135501,
+        "qs_pg:id":135501,
         "wd:id":"Q103833",
         "wk:page":"Calauag"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890416091,
-    "wof:lastmodified":1563332464,
+    "wof:lastmodified":1566682092,
     "wof:name":"Calauag",
     "wof:parent_id":1108698653,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.9146,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2204,
+    "gn:population":2204,
     "iso:country":"PH",
+    "lbl:bbox":"123.8946,9.909,123.9346,9.949",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Abucayan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1732351,
         "gp:id":1182754,
-        "qs:id":136121
+        "qs_pg:id":136121
     },
     "wof:country":"PH",
     "wof:created":1469051129,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416347,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566682095,
     "wof:name":"Abucayan",
     "wof:parent_id":1108697207,
     "wof:placetype":"locality",

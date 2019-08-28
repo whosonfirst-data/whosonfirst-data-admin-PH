@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.522361,
     "lbl:longitude":124.949706,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BUKIDNON",
     "meso:admin_1r":"NORTHERN MINDANAO REGION",
     "meso:diss_me":"MALITBOGBUKIDNON",
@@ -32,6 +34,7 @@
     "mps:longitude":124.949706,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Malitbog"
     ],
@@ -51,7 +54,7 @@
         "Malitbog"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108698317,
-    "wof:lastmodified":1564177162,
+    "wof:lastmodified":1566681227,
     "wof:name":"Malitbog",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

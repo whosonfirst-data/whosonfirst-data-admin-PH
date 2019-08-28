@@ -11,10 +11,14 @@
     "geom:longitude":121.03333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":74400,
+    "gn:population":74400,
     "iso:country":"PH",
+    "lbl:bbox":"120.93333,12.78333,121.13333,12.98333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bcl_x_preferred":[
         "Sablayan"
     ],
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1691283,
-        "qs:id":86863,
+        "qs_pg:id":86863,
         "wd:id":"Q107505",
         "wk:page":"Sablayan"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890432723,
-    "wof:lastmodified":1563332930,
+    "wof:lastmodified":1566682234,
     "wof:name":"Sablayan",
     "wof:parent_id":1108699061,
     "wof:placetype":"localadmin",

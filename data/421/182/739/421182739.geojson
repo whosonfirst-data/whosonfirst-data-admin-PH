@@ -10,8 +10,12 @@
     "geom:latitude":15.6653,
     "geom:longitude":120.6406,
     "iso:country":"PH",
+    "lbl:bbox":"120.6206,15.6453,120.6606,15.6853",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Ramos"
@@ -70,9 +74,6 @@
     "name:tgl_x_preferred":[
         "Ramos"
     ],
-    "name:unk_x_variant":[
-        "Bani"
-    ],
     "name:vie_x_preferred":[
         "Ramos"
     ],
@@ -110,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1691904,
         "gp:id":1189163,
-        "qs:id":944298,
+        "qs_pg:id":944298,
         "wd:id":"Q56465",
         "wk:page":"Ramos, Tarlac"
     },
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421182739,
-    "wof:lastmodified":1561778724,
+    "wof:lastmodified":1566681876,
     "wof:name":"Ramos",
     "wof:parent_id":1108699005,
     "wof:placetype":"locality",

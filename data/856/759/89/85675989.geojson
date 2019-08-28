@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":11.378308,
     "lbl:longitude":122.681893,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Capiz",
     "mps:latitude":11.368872,
     "mps:longitude":122.641987,
@@ -182,7 +183,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f\u0456\u0437"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roxas"
     ],
     "name:urd_x_preferred":[
@@ -274,9 +275,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"2,633",
     "statoids:area_mi":"1,017",
     "statoids:as_of_date":"2010-05-01",
@@ -302,7 +303,7 @@
         "gp:id":2346673,
         "hasc:id":"PH.CP",
         "iso:id":"PH-CAP",
-        "qs:id":221179,
+        "qs_pg:id":221179,
         "unlc:id":"PH-CAP",
         "wd:id":"Q13772",
         "wk:page":"Capiz"
@@ -317,9 +318,6 @@
         }
     ],
     "wof:id":85675989,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -335,11 +333,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326875,
+    "wof:lastmodified":1566679697,
     "wof:name":"Capiz",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":719685,
     "wof:population_rank":11,

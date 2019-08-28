@@ -11,10 +11,14 @@
     "geom:longitude":125.03083,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3477,
+    "gn:population":3477,
     "iso:country":"PH",
+    "lbl:bbox":"125.01083,8.87389,125.05083,8.91389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Maanas"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1704793,
         "gp:id":1179624,
-        "qs:id":135019
+        "qs_pg:id":135019
     },
     "wof:country":"PH",
     "wof:created":1469051108,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415851,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681913,
     "wof:name":"Maanas",
     "wof:parent_id":1108698457,
     "wof:placetype":"locality",

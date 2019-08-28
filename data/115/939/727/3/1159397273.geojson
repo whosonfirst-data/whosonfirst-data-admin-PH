@@ -13,6 +13,8 @@
     "iso:country":"PH",
     "lbl:latitude":14.545071,
     "lbl:longitude":120.998905,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "meso:name_local":"Pasay",
     "mps:latitude":14.54517,
     "mps:longitude":120.996767,
@@ -197,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -236,7 +238,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1564179320,
+    "wof:lastmodified":1566682322,
     "wof:name":"Pasay",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",

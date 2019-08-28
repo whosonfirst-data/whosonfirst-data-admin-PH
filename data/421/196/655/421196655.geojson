@@ -10,13 +10,17 @@
     "geom:latitude":12.77732,
     "geom:longitude":121.46922,
     "iso:country":"PH",
+    "lbl:bbox":"121.44922,12.75732,121.48922,12.79732",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Labasan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baasan"
     ],
     "qs:gn_country":"PH",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1708341,
         "gp:id":1199317,
-        "qs:id":1294886
+        "qs_pg:id":1294886
     },
     "wof:country":"PH",
     "wof:created":1459009889,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421196655,
-    "wof:lastmodified":1505340748,
+    "wof:lastmodified":1566681843,
     "wof:name":"Labasan",
     "wof:parent_id":1108697047,
     "wof:placetype":"locality",

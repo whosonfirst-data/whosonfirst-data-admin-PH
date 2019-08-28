@@ -10,8 +10,12 @@
     "geom:latitude":10.1948,
     "geom:longitude":122.8581,
     "iso:country":"PH",
+    "lbl:bbox":"122.8381,10.1748,122.8781,10.2148",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Binalbagan"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1725157,
         "gp:id":1198917,
-        "qs:id":911924,
+        "qs_pg:id":911924,
         "wd:id":"Q195243",
         "wk:page":"Binalbagan"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421193537,
-    "wof:lastmodified":1563331390,
+    "wof:lastmodified":1566681799,
     "wof:name":"Binalbagan",
     "wof:parent_id":1108696999,
     "wof:placetype":"locality",

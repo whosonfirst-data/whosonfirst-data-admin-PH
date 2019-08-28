@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"123.89667,10.64667,123.93667,10.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Basak"
     ],
@@ -38,8 +42,7 @@
         "Basak"
     ],
     "name:und_x_variant":[
-        "Basac",
-        "Basak"
+        "Basac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209409183,
-    "wof:lastmodified":1564175651,
+    "wof:lastmodified":1566680598,
     "wof:name":"Basak",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",

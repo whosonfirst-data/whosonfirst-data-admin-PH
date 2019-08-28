@@ -10,8 +10,12 @@
     "geom:latitude":14.2897,
     "geom:longitude":120.7168,
     "iso:country":"PH",
+    "lbl:bbox":"120.6968,14.2697,120.7368,14.3097",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Ternate"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1682472,
         "gp:id":1196382,
-        "qs:id":1205841,
+        "qs_pg:id":1205841,
         "wd:id":"Q63124",
         "wk:page":"Ternate, Cavite"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421193113,
-    "wof:lastmodified":1563331394,
+    "wof:lastmodified":1566681800,
     "wof:name":"Ternate",
     "wof:parent_id":1108699721,
     "wof:placetype":"locality",

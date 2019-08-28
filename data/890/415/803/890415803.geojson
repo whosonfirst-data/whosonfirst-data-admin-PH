@@ -11,10 +11,14 @@
     "geom:longitude":120.6528,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2726,
+    "gn:population":2726,
     "iso:country":"PH",
+    "lbl:bbox":"120.6328,15.5293,120.6728,15.5693",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Maluid"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1702459,
         "gp:id":1161699,
-        "qs:id":134935
+        "qs_pg:id":134935
     },
     "wof:country":"PH",
     "wof:created":1469051104,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415803,
-    "wof:lastmodified":1505343428,
+    "wof:lastmodified":1566681913,
     "wof:name":"Maluid",
     "wof:parent_id":1108699855,
     "wof:placetype":"locality",

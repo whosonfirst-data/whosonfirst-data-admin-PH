@@ -11,14 +11,18 @@
     "geom:longitude":124.4047,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2391,
+    "gn:population":2391,
     "iso:country":"PH",
+    "lbl:bbox":"124.3847,11.2183,124.4247,11.2583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ginabuyan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jinabuyan"
     ],
     "qs:name":"Ginabuyan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1712912,
         "gp:id":1193506,
-        "qs:id":87794
+        "qs_pg:id":87794
     },
     "wof:country":"PH",
     "wof:created":1469052773,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890451307,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682117,
     "wof:name":"Ginabuyan",
     "wof:parent_id":1108699863,
     "wof:placetype":"locality",

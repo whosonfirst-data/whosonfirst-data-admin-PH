@@ -10,8 +10,12 @@
     "geom:latitude":10.37444,
     "geom:longitude":124.74972,
     "iso:country":"PH",
+    "lbl:bbox":"124.72972,10.35444,124.76972,10.39444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Hilongos"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1711742,
         "gp:id":1174131,
-        "qs:id":246577,
+        "qs_pg:id":246577,
         "wd:id":"Q213006",
         "wk:page":"Hilongos, Leyte"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421204739,
-    "wof:lastmodified":1563331419,
+    "wof:lastmodified":1566681805,
     "wof:name":"Hilongos",
     "wof:parent_id":1108697711,
     "wof:placetype":"locality",

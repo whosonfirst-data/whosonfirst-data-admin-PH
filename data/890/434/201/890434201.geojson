@@ -11,14 +11,18 @@
     "geom:longitude":124.56222,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":8043,
+    "gn:population":8043,
     "iso:country":"PH",
+    "lbl:bbox":"124.54222,8.5175,124.58222,8.5575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Molugan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malugan"
     ],
     "qs:name":"Molugan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1699366,
         "gp:id":1183576,
-        "qs:id":134799
+        "qs_pg:id":134799
     },
     "wof:country":"PH",
     "wof:created":1469052015,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890434201,
-    "wof:lastmodified":1505343540,
+    "wof:lastmodified":1566682160,
     "wof:name":"Molugan",
     "wof:parent_id":1108697565,
     "wof:placetype":"locality",

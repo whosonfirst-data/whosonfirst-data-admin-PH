@@ -11,10 +11,14 @@
     "geom:longitude":126.4125,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":6400,
+    "gn:population":6400,
     "iso:country":"PH",
+    "lbl:bbox":"126.3925,8.01889,126.4325,8.05889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Lingig"
     ],
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":1706176,
         "gp:id":1199375,
-        "qs:id":135050,
+        "qs_pg:id":135050,
         "wd:id":"Q155598"
     },
     "wof:country":"PH",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890434267,
-    "wof:lastmodified":1563332638,
+    "wof:lastmodified":1566682148,
     "wof:name":"Lingig",
     "wof:parent_id":1108698101,
     "wof:placetype":"locality",

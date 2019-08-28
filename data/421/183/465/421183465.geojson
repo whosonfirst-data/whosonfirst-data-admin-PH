@@ -10,8 +10,12 @@
     "geom:latitude":11.06667,
     "geom:longitude":124.58333,
     "iso:country":"PH",
+    "lbl:bbox":"124.56333,11.04667,124.60333,11.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Catmon"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1717847,
         "gp:id":1199073,
-        "qs:id":1028391,
+        "qs_pg:id":1028391,
         "wd:id":"Q315900"
     },
     "wof:country":"PH",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421183465,
-    "wof:lastmodified":1563331678,
+    "wof:lastmodified":1566681865,
     "wof:name":"Catmon",
     "wof:parent_id":1108698707,
     "wof:placetype":"locality",

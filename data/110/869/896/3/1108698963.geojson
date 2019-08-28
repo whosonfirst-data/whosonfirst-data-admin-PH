@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.408446,
     "lbl:longitude":122.953163,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CAPIZ",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"PRESIDENT ROXASCAPIZ",
@@ -32,6 +34,7 @@
     "mps:longitude":122.953163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "President Roxas"
     ],
@@ -54,7 +57,7 @@
         "President Roxas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108698963,
-    "wof:lastmodified":1564177175,
+    "wof:lastmodified":1566681231,
     "wof:name":"President Roxas",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

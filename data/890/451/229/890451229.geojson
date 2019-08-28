@@ -11,14 +11,18 @@
     "geom:longitude":121.263,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7269,
+    "gn:population":7269,
     "iso:country":"PH",
+    "lbl:bbox":"121.243,5.8644,121.283,5.9044",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Karungdong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karungdung"
     ],
     "qs:name":"Karungdong",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1709166,
         "gp:id":1199793,
-        "qs:id":87643
+        "qs_pg:id":87643
     },
     "wof:country":"PH",
     "wof:created":1469052770,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890451229,
-    "wof:lastmodified":1505343639,
+    "wof:lastmodified":1566682120,
     "wof:name":"Karungdong",
     "wof:parent_id":1108697885,
     "wof:placetype":"locality",

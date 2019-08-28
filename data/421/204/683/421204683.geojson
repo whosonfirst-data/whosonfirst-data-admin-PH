@@ -10,8 +10,12 @@
     "geom:latitude":12.33333,
     "geom:longitude":121.15,
     "iso:country":"PH",
+    "lbl:bbox":"121.13,12.31333,121.17,12.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Magsaysay"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1703768,
         "gp:id":1180400,
-        "qs:id":244801,
+        "qs_pg:id":244801,
         "wd:id":"Q107482",
         "wk:page":"Magsaysay, Occidental Mindoro"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421204683,
-    "wof:lastmodified":1563331425,
+    "wof:lastmodified":1566681806,
     "wof:name":"Magsaysay",
     "wof:parent_id":1108698253,
     "wof:placetype":"locality",

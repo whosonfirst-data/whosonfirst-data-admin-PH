@@ -11,10 +11,14 @@
     "geom:longitude":121.1,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"PH",
+    "lbl:bbox":"121.0,13.88333,121.2,14.08333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Mataas na Kahoy"
     ],
@@ -96,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1700568,
-        "qs:id":371641,
+        "qs_pg:id":371641,
         "wd:id":"Q59740",
         "wk:page":"Mataasnakahoy"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890442977,
-    "wof:lastmodified":1563332518,
+    "wof:lastmodified":1566682110,
     "wof:name":"Mataas Na Kahoy",
     "wof:parent_id":1108698423,
     "wof:placetype":"localadmin",

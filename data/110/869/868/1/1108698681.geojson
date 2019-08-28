@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.706284,
     "lbl:longitude":122.333331,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"AKLAN",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"NUMANCIAAKLAN",
@@ -32,6 +34,7 @@
     "mps:longitude":122.333331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Num\u00e0ncia"
     ],
@@ -66,7 +69,7 @@
         "Numancia"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108698681,
-    "wof:lastmodified":1564176902,
+    "wof:lastmodified":1566681138,
     "wof:name":"Numancia",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

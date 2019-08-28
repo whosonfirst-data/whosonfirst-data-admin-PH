@@ -11,10 +11,14 @@
     "geom:longitude":124.53333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":73880,
+    "gn:population":73880,
     "iso:country":"PH",
+    "lbl:bbox":"124.43333,6.21667,124.63333,6.41667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:fil_x_preferred":[
         "Surallah"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1685231,
-        "qs:id":86514
+        "qs_pg:id":86514
     },
     "wof:country":"PH",
     "wof:created":1469052880,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890453967,
-    "wof:lastmodified":1505343654,
+    "wof:lastmodified":1566682030,
     "wof:name":"Surallah",
     "wof:parent_id":1108699577,
     "wof:placetype":"localadmin",

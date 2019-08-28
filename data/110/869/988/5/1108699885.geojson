@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.631048,
     "lbl:longitude":124.203573,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CATANDUANES",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"VIRACCATANDUANES",
@@ -32,6 +34,7 @@
     "mps:longitude":124.203573,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Virac"
     ],
@@ -54,7 +57,7 @@
         "Virac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108699885,
-    "wof:lastmodified":1564177269,
+    "wof:lastmodified":1566681266,
     "wof:name":"Virac",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

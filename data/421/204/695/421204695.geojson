@@ -10,13 +10,17 @@
     "geom:latitude":12.38414,
     "geom:longitude":122.49901,
     "iso:country":"PH",
+    "lbl:bbox":"122.47901,12.36414,122.51901,12.40414",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Espa\u00f1a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Espi\u00f1a"
     ],
     "qs:gn_country":"PH",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":1713797,
         "gp:id":1199163,
-        "qs:id":245022
+        "qs_pg:id":245022
     },
     "wof:country":"PH",
     "wof:created":1459010195,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421204695,
-    "wof:lastmodified":1505340789,
+    "wof:lastmodified":1566681806,
     "wof:name":"Espa\u00f1a",
     "wof:parent_id":1108699159,
     "wof:placetype":"locality",

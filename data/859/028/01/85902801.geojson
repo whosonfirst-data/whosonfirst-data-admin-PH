@@ -14,6 +14,7 @@
     "iso:country":"PH",
     "lbl:latitude":14.544062,
     "lbl:longitude":120.98566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.543052,
     "mps:longitude":120.987496,
     "mz:hierarchy_label":1,
@@ -143,7 +144,7 @@
     "reversegeo:longitude":121.016121,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         1159397273,
@@ -154,7 +155,7 @@
     "wof:concordances":{
         "gn:id":1688333,
         "gp:id":1192261,
-        "qs:id":894728
+        "qs_pg:id":894728
     },
     "wof:country":"PH",
     "wof:geomhash":"058caf621d0502517e0265b47228e3e1",
@@ -171,7 +172,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564173685,
+    "wof:lastmodified":1566679668,
     "wof:name":"Santa Clara",
     "wof:parent_id":1159397273,
     "wof:placetype":"neighbourhood",

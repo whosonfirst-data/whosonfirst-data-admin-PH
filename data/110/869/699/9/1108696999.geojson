@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.105347,
     "lbl:longitude":123.026118,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGROS OCCIDENTAL",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"BINALBAGANNEGROS OCCIDENTAL",
@@ -32,6 +34,7 @@
     "mps:longitude":123.026118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Binalbagan"
     ],
@@ -72,7 +75,7 @@
         "Binalbagan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1108696999,
-    "wof:lastmodified":1564177160,
+    "wof:lastmodified":1566681226,
     "wof:name":"Binalbagan",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

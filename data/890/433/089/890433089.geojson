@@ -11,10 +11,14 @@
     "geom:longitude":119.86667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":12727,
+    "gn:population":12727,
     "iso:country":"PH",
+    "lbl:bbox":"119.76667,10.51667,119.96667,10.71667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Araceli"
     ],
@@ -24,7 +28,7 @@
     "name:spa_x_preferred":[
         "Araceli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dumaran"
     ],
     "qs:name":"Araceli",
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1730273,
-        "qs:id":88512,
+        "qs_pg:id":88512,
         "wk:page":"Araceli"
     },
     "wof:country":"PH",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890433089,
-    "wof:lastmodified":1564179017,
+    "wof:lastmodified":1566682177,
     "wof:name":"Araceli",
     "wof:parent_id":1108696699,
     "wof:placetype":"localadmin",

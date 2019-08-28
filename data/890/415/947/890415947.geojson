@@ -11,11 +11,15 @@
     "geom:longitude":118.69861,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4141,
+    "gn:population":4141,
     "iso:country":"PH",
+    "lbl:bbox":"118.67861,9.78278,118.71861,9.82278",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Irawan"
     ],
     "qs:name":"Irahuan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710559,
-        "qs:id":135251
+        "qs_pg:id":135251
     },
     "wof:country":"PH",
     "wof:created":1469051113,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890415947,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566681917,
     "wof:name":"Irahuan",
     "wof:parent_id":1108698977,
     "wof:placetype":"locality",

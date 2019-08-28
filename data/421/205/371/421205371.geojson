@@ -10,8 +10,12 @@
     "geom:latitude":8.50667,
     "geom:longitude":126.01194,
     "iso:country":"PH",
+    "lbl:bbox":"125.99194,8.48667,126.03194,8.52667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0410\u043b\u0435\u0433\u0440\u0438\u044f"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1731573,
         "gp:id":1158633,
-        "qs:id":262803
+        "qs_pg:id":262803
     },
     "wof:country":"PH",
     "wof:created":1459010222,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421205371,
-    "wof:lastmodified":1564178439,
+    "wof:lastmodified":1566681813,
     "wof:name":"Alegria",
     "wof:parent_id":1108699161,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.58933,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4655,
+    "gn:population":4655,
     "iso:country":"PH",
+    "lbl:bbox":"120.56933,15.36403,120.60933,15.40403",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Talaga"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1684122,
         "gp:id":1192629,
-        "qs:id":86480
+        "qs_pg:id":86480
     },
     "wof:country":"PH",
     "wof:created":1469052735,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450351,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682206,
     "wof:name":"Talaga",
     "wof:parent_id":1108697379,
     "wof:placetype":"locality",

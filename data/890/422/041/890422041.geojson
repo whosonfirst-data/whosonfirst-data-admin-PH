@@ -11,10 +11,14 @@
     "geom:longitude":121.26992,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2451,
+    "gn:population":2451,
     "iso:country":"PH",
+    "lbl:bbox":"121.24992,13.80083,121.28992,13.84083",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Baybayin"
     ],
@@ -136,7 +140,7 @@
     "wof:concordances":{
         "gn:id":1725783,
         "gp:id":91425534,
-        "qs:id":135726,
+        "qs_pg:id":135726,
         "wd:id":"Q812124",
         "wk:page":"Baybayin"
     },
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":890422041,
-    "wof:lastmodified":1563331796,
+    "wof:lastmodified":1566681890,
     "wof:name":"Baybayin",
     "wof:parent_id":1108699039,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.2962,
     "geom:longitude":124.405,
     "iso:country":"PH",
+    "lbl:bbox":"124.385,11.2762,124.425,11.3162",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kampokpok"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1709478,
         "gp:id":1199031,
-        "qs:id":1294821
+        "qs_pg:id":1294821
     },
     "wof:country":"PH",
     "wof:created":1459010014,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421200193,
-    "wof:lastmodified":1505340767,
+    "wof:lastmodified":1566681854,
     "wof:name":"Campokpok",
     "wof:parent_id":1108699583,
     "wof:placetype":"locality",

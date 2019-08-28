@@ -11,14 +11,18 @@
     "geom:longitude":121.36872,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2527,
+    "gn:population":2527,
     "iso:country":"PH",
+    "lbl:bbox":"121.34872,13.1105,121.38872,13.1505",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Saaban"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Subaan"
     ],
     "qs:name":"Saaban",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1685609,
         "gp:id":91427260,
-        "qs:id":558649
+        "qs_pg:id":558649
     },
     "wof:country":"PH",
     "wof:created":1469052363,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890442439,
-    "wof:lastmodified":1505343588,
+    "wof:lastmodified":1566682108,
     "wof:name":"Saaban",
     "wof:parent_id":1108698929,
     "wof:placetype":"locality",

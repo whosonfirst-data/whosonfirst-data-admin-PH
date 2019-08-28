@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.860238,
     "lbl:longitude":124.353428,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BOHOL",
     "meso:admin_1r":"CENTRAL VISAYAS REGION",
     "meso:diss_me":"PILARBOHOL",
@@ -32,6 +34,7 @@
     "mps:longitude":124.353428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "Pilar"
     ],
@@ -96,7 +99,7 @@
         "\u76ae\u62c9\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108698879,
-    "wof:lastmodified":1564176867,
+    "wof:lastmodified":1566681125,
     "wof:name":"Pilar",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

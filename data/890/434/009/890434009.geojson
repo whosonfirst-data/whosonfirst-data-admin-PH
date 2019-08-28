@@ -11,10 +11,14 @@
     "geom:longitude":120.76285,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2623,
+    "gn:population":2623,
     "iso:country":"PH",
+    "lbl:bbox":"120.74285,15.01966,120.78285,15.05966",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bar_x_preferred":[
         "San Carlos"
     ],
@@ -126,7 +130,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1690213,
-        "qs:id":134372,
+        "qs_pg:id":134372,
         "wk:page":"San Carlos"
     },
     "wof:country":"PH",
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":890434009,
-    "wof:lastmodified":1564178963,
+    "wof:lastmodified":1566682147,
     "wof:name":"San Carlos",
     "wof:parent_id":1108698467,
     "wof:placetype":"locality",

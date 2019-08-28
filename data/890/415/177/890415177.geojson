@@ -11,14 +11,18 @@
     "geom:longitude":118.4082,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":10526,
+    "gn:population":10526,
     "iso:country":"PH",
+    "lbl:bbox":"118.3882,9.22627,118.4282,9.26627",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:fil_x_preferred":[
         "Panacan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panakan"
     ],
     "qs:name":"Panacan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1695751,
         "gp:id":1199606,
-        "qs:id":87071
+        "qs_pg:id":87071
     },
     "wof:country":"PH",
     "wof:created":1469051076,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415177,
-    "wof:lastmodified":1505343424,
+    "wof:lastmodified":1566681930,
     "wof:name":"Panacan",
     "wof:parent_id":1108697069,
     "wof:placetype":"locality",

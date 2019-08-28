@@ -11,10 +11,14 @@
     "geom:longitude":120.37639,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4307,
+    "gn:population":4307,
     "iso:country":"PH",
+    "lbl:bbox":"120.35639,16.50556,120.39639,16.54556",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Acao"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1732297,
         "gp:id":1158045,
-        "qs:id":277449
+        "qs_pg:id":277449
     },
     "wof:country":"PH",
     "wof:created":1469052320,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441373,
-    "wof:lastmodified":1505343582,
+    "wof:lastmodified":1566681904,
     "wof:name":"Acao",
     "wof:parent_id":1108696957,
     "wof:placetype":"locality",

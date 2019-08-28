@@ -11,14 +11,18 @@
     "geom:longitude":126.17778,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2143,
+    "gn:population":2143,
     "iso:country":"PH",
+    "lbl:bbox":"126.15778,6.34115,126.19778,6.38115",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pondaguitan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pundaguitan"
     ],
     "qs:name":"Pondaguitan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1693047,
         "gp:id":1188725,
-        "qs:id":86945
+        "qs_pg:id":86945
     },
     "wof:country":"PH",
     "wof:created":1469052752,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450755,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682186,
     "wof:name":"Pondaguitan",
     "wof:parent_id":1108697667,
     "wof:placetype":"locality",

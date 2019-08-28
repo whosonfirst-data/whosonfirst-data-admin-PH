@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.274587,
     "lbl:longitude":121.888248,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ISABELA",
     "meso:admin_1r":"CAGAYAN VALLEY REGION",
     "meso:diss_me":"TUMAUINIISABELA",
@@ -32,6 +34,7 @@
     "mps:longitude":121.888248,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Tumauini"
     ],
@@ -78,7 +81,7 @@
         "Tumauini"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108699807,
-    "wof:lastmodified":1564177244,
+    "wof:lastmodified":1566681255,
     "wof:name":"Tumauini",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

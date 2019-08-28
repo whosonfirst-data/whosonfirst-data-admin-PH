@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.49991,
     "lbl:longitude":122.814667,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGROS ORIENTAL",
     "meso:admin_1r":"CENTRAL VISAYAS REGION",
     "meso:diss_me":"BAYAWANNEGROS ORIENTAL",
@@ -32,6 +34,7 @@
     "mps:longitude":122.814667,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0627\u0648\u0627\u0646"
     ],
@@ -81,7 +84,7 @@
         "Bayawan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108696973,
-    "wof:lastmodified":1564177171,
+    "wof:lastmodified":1566681230,
     "wof:name":"Bayawan",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

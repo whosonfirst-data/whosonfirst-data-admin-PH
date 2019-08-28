@@ -11,10 +11,14 @@
     "geom:longitude":120.43637,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2180,
+    "gn:population":2180,
     "iso:country":"PH",
+    "lbl:bbox":"120.41637,15.6089,120.45637,15.6489",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -511,7 +515,7 @@
     "wof:concordances":{
         "gn:id":1689969,
         "gp:id":1192005,
-        "qs:id":86779,
+        "qs_pg:id":86779,
         "wk:page":"San Francisco"
     },
     "wof:country":"PH",
@@ -527,7 +531,7 @@
         }
     ],
     "wof:id":890450607,
-    "wof:lastmodified":1564179093,
+    "wof:lastmodified":1566682215,
     "wof:name":"San Francisco",
     "wof:parent_id":1108697239,
     "wof:placetype":"locality",

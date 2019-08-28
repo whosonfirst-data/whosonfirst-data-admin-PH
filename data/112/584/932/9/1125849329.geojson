@@ -9,15 +9,18 @@
     "geom:bbox":"123.0197,11.1724,123.0197,11.1724",
     "geom:latitude":11.1724,
     "geom:longitude":123.0197,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPLA3",
-    "gn:gn_pop":8695,
+    "gn:country":"PH",
+    "gn:fcode":"PPLA3",
     "gn:population":8695,
     "iso:country":"PH",
+    "lbl:bbox":"122.9997,11.1524,123.0397,11.1924",
     "lbl:latitude":11.1724,
     "lbl:longitude":123.0197,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bcl_x_preferred":[
         "Ajuy"
@@ -67,7 +70,7 @@
     "name:tgl_x_preferred":[
         "Ajuy"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ajuy Town"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +94,7 @@
     "qs_pg:qs_id":88574,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1125849329,
-    "wof:lastmodified":1563333140,
+    "wof:lastmodified":1566682307,
     "wof:name":"Ajuy",
     "wof:parent_id":1108696579,
     "wof:placetype":"locality",

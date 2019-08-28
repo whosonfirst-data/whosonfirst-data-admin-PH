@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.125241,
     "lbl:longitude":123.035479,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NEGROS ORIENTAL",
     "meso:admin_1r":"CENTRAL VISAYAS REGION",
     "meso:diss_me":"SIATONNEGROS ORIENTAL",
@@ -32,6 +34,7 @@
     "mps:longitude":123.035479,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Siaton"
     ],
@@ -81,7 +84,7 @@
         "Siaton"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108699465,
-    "wof:lastmodified":1564176964,
+    "wof:lastmodified":1566681162,
     "wof:name":"Siaton",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":124.86667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":80919,
+    "gn:population":80919,
     "iso:country":"PH",
+    "lbl:bbox":"124.76667,8.28333,124.96667,8.48333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":8.0,
+    "name:und_x_variant":[
         "Tarikulan"
     ],
     "qs:name":"Manolo Fortich",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1701538,
-        "qs:id":371679
+        "qs_pg:id":371679
     },
     "wof:country":"PH",
     "wof:created":1469052393,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890443005,
-    "wof:lastmodified":1505343591,
+    "wof:lastmodified":1566682077,
     "wof:name":"Manolo Fortich",
     "wof:parent_id":1108698361,
     "wof:placetype":"localadmin",

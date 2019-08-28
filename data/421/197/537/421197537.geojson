@@ -10,8 +10,12 @@
     "geom:latitude":14.79833,
     "geom:longitude":120.92611,
     "iso:country":"PH",
+    "lbl:bbox":"120.90611,14.77833,120.94611,14.81833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Bocaue"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1724489,
         "gp:id":1164209,
-        "qs:id":343933,
+        "qs_pg:id":343933,
         "wd:id":"Q54555",
         "wk:page":"Bocaue, Bulacan"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421197537,
-    "wof:lastmodified":1563331605,
+    "wof:lastmodified":1566681848,
     "wof:name":"Bocaue",
     "wof:parent_id":1108697029,
     "wof:placetype":"locality",

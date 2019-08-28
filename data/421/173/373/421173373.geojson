@@ -10,8 +10,12 @@
     "geom:latitude":14.7175,
     "geom:longitude":120.53222,
     "iso:country":"PH",
+    "lbl:bbox":"120.51222,14.6975,120.55222,14.7375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Lian"
@@ -286,9 +290,11 @@
     "wof:concordances":{
         "gn:id":1706787,
         "gp:id":1199354,
-        "qs:id":287992,
-        "qs_pg:id":1243350,
+        "qs_pg:id":287992,
         "wd:id":"Q413852"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1243350
     },
     "wof:country":"PH",
     "wof:created":1459008980,
@@ -303,7 +309,7 @@
         }
     ],
     "wof:id":421173373,
-    "wof:lastmodified":1563331506,
+    "wof:lastmodified":1566681826,
     "wof:name":"Lian",
     "wof:parent_id":1108696553,
     "wof:placetype":"locality",

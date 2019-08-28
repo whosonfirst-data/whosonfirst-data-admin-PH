@@ -10,8 +10,12 @@
     "geom:latitude":8.53333,
     "geom:longitude":123.1,
     "iso:country":"PH",
+    "lbl:bbox":"123.08,8.51333,123.12,8.55333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Manukan"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1701395,
         "gp:id":1199483,
-        "qs:id":779416,
+        "qs_pg:id":779416,
         "wd:id":"Q132561",
         "wk:page":"Manukan, Zamboanga del Norte"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421170357,
-    "wof:lastmodified":1563331663,
+    "wof:lastmodified":1566681861,
     "wof:name":"Manukan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

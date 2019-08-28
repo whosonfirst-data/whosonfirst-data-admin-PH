@@ -11,11 +11,15 @@
     "geom:longitude":122.02778,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2929,
+    "gn:population":2929,
     "iso:country":"PH",
+    "lbl:bbox":"122.00778,12.38694,122.04778,12.42694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dapauan"
     ],
     "qs:name":"Dapawan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1715606,
         "gp:id":28343881,
-        "qs:id":135414
+        "qs_pg:id":135414
     },
     "wof:country":"PH",
     "wof:created":1469052822,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452565,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681967,
     "wof:name":"Dapawan",
     "wof:parent_id":1108698689,
     "wof:placetype":"locality",

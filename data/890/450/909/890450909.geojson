@@ -11,10 +11,14 @@
     "geom:longitude":122.5839,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2045,
+    "gn:population":2045,
     "iso:country":"PH",
+    "lbl:bbox":"122.5639,10.4582,122.6039,10.4982",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Oracon"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1697052,
         "gp:id":91428019,
-        "qs:id":87117
+        "qs_pg:id":87117
     },
     "wof:country":"PH",
     "wof:created":1469052758,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450909,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682185,
     "wof:name":"Oracon",
     "wof:parent_id":1108698679,
     "wof:placetype":"locality",

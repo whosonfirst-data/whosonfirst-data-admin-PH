@@ -10,6 +10,9 @@
     "geom:latitude":13.169503,
     "geom:longitude":123.75137,
     "iso:country":"PH",
+    "lbl:bbox":"123.73137,13.1495025,123.77137,13.1895025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -315,7 +318,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1199350,
-        "qs:id":1112792,
+        "qs_pg:id":1112792,
         "wd:id":"Q1696"
     },
     "wof:country":"PH",
@@ -331,7 +334,7 @@
         }
     ],
     "wof:id":421189447,
-    "wof:lastmodified":1563331507,
+    "wof:lastmodified":1566681826,
     "wof:name":"Legazpi City",
     "wof:parent_id":1108698043,
     "wof:placetype":"locality",

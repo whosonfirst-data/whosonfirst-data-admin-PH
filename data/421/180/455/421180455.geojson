@@ -10,8 +10,12 @@
     "geom:latitude":11.14028,
     "geom:longitude":124.87472,
     "iso:country":"PH",
+    "lbl:bbox":"124.85472,11.12028,124.89472,11.16028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Villaba"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1679959,
         "gp:id":1199972,
-        "qs:id":432741,
+        "qs_pg:id":432741,
         "wd:id":"Q213463"
     },
     "wof:country":"PH",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421180455,
-    "wof:lastmodified":1563331486,
+    "wof:lastmodified":1566681821,
     "wof:name":"Villaba",
     "wof:parent_id":1108698829,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":121.55528,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2815,
+    "gn:population":2815,
     "iso:country":"PH",
+    "lbl:bbox":"121.53528,16.69861,121.57528,16.73861",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ace_x_preferred":[
         "Propinsi Rizal"
     ],
@@ -178,7 +182,7 @@
     "wof:concordances":{
         "gn:id":1691597,
         "gp:id":91423036,
-        "qs:id":86872,
+        "qs_pg:id":86872,
         "wd:id":"Q13874",
         "wk:page":"Rizal"
     },
@@ -195,7 +199,7 @@
         }
     ],
     "wof:id":890450691,
-    "wof:lastmodified":1563332845,
+    "wof:lastmodified":1566682214,
     "wof:name":"Rizal",
     "wof:parent_id":1108699415,
     "wof:placetype":"locality",

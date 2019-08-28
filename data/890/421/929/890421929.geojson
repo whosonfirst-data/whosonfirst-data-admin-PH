@@ -11,14 +11,18 @@
     "geom:longitude":123.1923,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2338,
+    "gn:population":2338,
     "iso:country":"PH",
+    "lbl:bbox":"123.1723,13.4133,123.2123,13.4533",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Salingogan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salingogon"
     ],
     "qs:name":"Salingogan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1690869,
         "gp:id":1189890,
-        "qs:id":134418
+        "qs_pg:id":134418
     },
     "wof:country":"PH",
     "wof:created":1469051419,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890421929,
-    "wof:lastmodified":1505343466,
+    "wof:lastmodified":1566682042,
     "wof:name":"Salingogan",
     "wof:parent_id":1108698483,
     "wof:placetype":"locality",

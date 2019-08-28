@@ -11,14 +11,18 @@
     "geom:longitude":121.9724,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2543,
+    "gn:population":2543,
     "iso:country":"PH",
+    "lbl:bbox":"121.9524,10.7088,121.9924,10.7488",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Piape I"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piapi"
     ],
     "qs:name":"Piape I",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1693987,
         "gp:id":1187576,
-        "qs:id":86993
+        "qs_pg:id":86993
     },
     "wof:country":"PH",
     "wof:created":1469052753,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450799,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682185,
     "wof:name":"Piape I",
     "wof:parent_id":1108697705,
     "wof:placetype":"locality",

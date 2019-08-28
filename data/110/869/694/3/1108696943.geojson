@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.581656,
     "lbl:longitude":117.462115,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PALAWAN",
     "meso:admin_1r":"MIMAROPA",
     "meso:diss_me":"BATARAZAPALAWAN",
@@ -32,6 +34,7 @@
     "mps:longitude":117.462115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Bataraza"
     ],
@@ -78,7 +81,7 @@
         "Bataraza"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108696943,
-    "wof:lastmodified":1564176913,
+    "wof:lastmodified":1566681142,
     "wof:name":"Bataraza",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

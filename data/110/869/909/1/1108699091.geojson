@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.076886,
     "lbl:longitude":122.804889,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ZAMBOANGA DEL NORTE",
     "meso:admin_1r":"ZAMBOANGA PENINSULA",
     "meso:diss_me":"SALUGZAMBOANGA DEL NORTE",
@@ -32,8 +34,9 @@
     "mps:longitude":122.804889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1108699091,
-    "wof:lastmodified":1555220412,
+    "wof:lastmodified":1566681091,
     "wof:name":"Salug",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

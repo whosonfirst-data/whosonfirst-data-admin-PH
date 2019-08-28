@@ -11,11 +11,15 @@
     "geom:longitude":123.9525,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2859,
+    "gn:population":2859,
     "iso:country":"PH",
+    "lbl:bbox":"123.9325,10.72139,123.9725,10.76139",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kabalawan"
     ],
     "qs:name":"Cabalawan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1721953,
-        "qs:id":135528
+        "qs_pg:id":135528
     },
     "wof:country":"PH",
     "wof:created":1469051119,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890416099,
-    "wof:lastmodified":1505343430,
+    "wof:lastmodified":1566682093,
     "wof:name":"Cabalawan",
     "wof:parent_id":1108699529,
     "wof:placetype":"locality",

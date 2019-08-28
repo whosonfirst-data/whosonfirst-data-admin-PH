@@ -11,11 +11,15 @@
     "geom:longitude":120.36352,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2795,
+    "gn:population":2795,
     "iso:country":"PH",
+    "lbl:bbox":"120.34352,17.60327,120.38352,17.64327",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "San Sebastian Este"
     ],
     "qs:name":"San Sebastian",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1688432,
         "gp:id":1188544,
-        "qs:id":1032288,
+        "qs_pg:id":1032288,
         "wk:page":"San Sebastian"
     },
     "wof:country":"PH",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890435737,
-    "wof:lastmodified":1527793044,
+    "wof:lastmodified":1566682251,
     "wof:name":"San Sebastian",
     "wof:parent_id":1108696893,
     "wof:placetype":"locality",

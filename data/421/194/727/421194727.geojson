@@ -10,8 +10,12 @@
     "geom:latitude":10.65,
     "geom:longitude":122.23333,
     "iso:country":"PH",
+    "lbl:bbox":"122.21333,10.63,122.25333,10.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "An Daingean"
@@ -121,9 +125,11 @@
     "wof:concordances":{
         "gn:id":1714733,
         "gp:id":1199144,
-        "qs:id":901358,
-        "qs_pg:id":1032834,
+        "qs_pg:id":901358,
         "wd:id":"Q932302"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1032834
     },
     "wof:country":"PH",
     "wof:created":1459009817,
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":421194727,
-    "wof:lastmodified":1563331382,
+    "wof:lastmodified":1566681797,
     "wof:name":"Dingle",
     "wof:parent_id":1108698469,
     "wof:placetype":"locality",

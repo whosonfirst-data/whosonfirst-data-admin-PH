@@ -11,10 +11,14 @@
     "geom:longitude":122.6275,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":4087,
+    "gn:population":4087,
     "iso:country":"PH",
+    "lbl:bbox":"122.6075,10.68111,122.6475,10.72111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Buenavista"
     ],
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1723459,
-        "qs:id":846251,
+        "qs_pg:id":846251,
         "wd:id":"Q313781",
         "wk:page":"Buenavista"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890438343,
-    "wof:lastmodified":1563332227,
+    "wof:lastmodified":1566682022,
     "wof:name":"Buenavista",
     "wof:parent_id":1108697081,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":121.6546,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3937,
+    "gn:population":3937,
     "iso:country":"PH",
+    "lbl:bbox":"121.6346,17.6815,121.6746,17.7215",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Iraga"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1710560,
-        "qs:id":135252
+        "qs_pg:id":135252
     },
     "wof:country":"PH",
     "wof:created":1469051113,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890415949,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566681918,
     "wof:name":"Iraga",
     "wof:parent_id":1108699535,
     "wof:placetype":"locality",

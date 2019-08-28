@@ -11,10 +11,14 @@
     "geom:longitude":124.26417,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2404,
+    "gn:population":2404,
     "iso:country":"PH",
+    "lbl:bbox":"124.24417,7.25611,124.28417,7.29611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043a\u0430"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1728748,
         "gp:id":1160800,
-        "qs:id":1033048,
+        "qs_pg:id":1033048,
         "wk:page":"Baka"
     },
     "wof:country":"PH",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890454107,
-    "wof:lastmodified":1564178756,
+    "wof:lastmodified":1566682024,
     "wof:name":"Baka",
     "wof:parent_id":1108698819,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":125.44222,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2075,
+    "gn:population":2075,
     "iso:country":"PH",
+    "lbl:bbox":"125.42222,9.78889,125.46222,9.82889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Mabua"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1704515,
         "gp:id":1179842,
-        "qs:id":1032542
+        "qs_pg:id":1032542
     },
     "wof:country":"PH",
     "wof:created":1469051431,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890422183,
-    "wof:lastmodified":1505343468,
+    "wof:lastmodified":1566681896,
     "wof:name":"Mabua",
     "wof:parent_id":1108699573,
     "wof:placetype":"locality",

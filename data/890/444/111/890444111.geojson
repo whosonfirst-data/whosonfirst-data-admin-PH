@@ -11,14 +11,18 @@
     "geom:longitude":123.1436,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2668,
+    "gn:population":2668,
     "iso:country":"PH",
+    "lbl:bbox":"123.1236,11.5196,123.1636,11.5596",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Cabilao"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kabilao"
     ],
     "qs:name":"Cabilao",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1721603,
         "gp:id":1166570,
-        "qs:id":1032972
+        "qs_pg:id":1032972
     },
     "wof:country":"PH",
     "wof:created":1469052451,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890444111,
-    "wof:lastmodified":1505343597,
+    "wof:lastmodified":1566682053,
     "wof:name":"Cabilao",
     "wof:parent_id":1108697291,
     "wof:placetype":"locality",

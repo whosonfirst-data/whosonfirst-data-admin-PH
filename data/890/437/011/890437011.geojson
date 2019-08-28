@@ -11,10 +11,14 @@
     "geom:longitude":123.6865,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3957,
+    "gn:population":3957,
     "iso:country":"PH",
+    "lbl:bbox":"123.6665,13.1538,123.7065,13.1938",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malabog"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703323,
         "gp:id":1165984,
-        "qs:id":1032487
+        "qs_pg:id":1032487
     },
     "wof:country":"PH",
     "wof:created":1469052135,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437011,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566681955,
     "wof:name":"Malabog",
     "wof:parent_id":1108697449,
     "wof:placetype":"locality",

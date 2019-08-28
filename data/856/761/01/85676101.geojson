@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":15.603185,
     "lbl:longitude":121.025117,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Nueva Ecija",
     "mps:latitude":15.60373,
     "mps:longitude":121.030539,
@@ -177,7 +178,7 @@
         "Nueva Ecija"
     ],
     "name:tam_x_preferred":[
-        "\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc7\u0bb5\u0bbe  \u0b8f\u0b9a\u0bbf\u0b9c\u0bbe"
+        "\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc7\u0bb5\u0bbe \u0b8f\u0b9a\u0bbf\u0b9c\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c41\u0c2f\u0c47\u0c35\u0c3e \u0c0e\u0c38\u0c3f\u0c1c\u0c3e"
@@ -286,9 +287,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"5,284",
     "statoids:area_mi":"2,040",
     "statoids:as_of_date":"2010-05-01",
@@ -314,7 +315,7 @@
         "gp:id":2346701,
         "hasc:id":"PH.NE",
         "iso:id":"PH-NUE",
-        "qs:id":1171112,
+        "qs_pg:id":1171112,
         "unlc:id":"PH-NUE",
         "wd:id":"Q13865",
         "wk:page":"Nueva Ecija"
@@ -329,9 +330,6 @@
         }
     ],
     "wof:id":85676101,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -347,11 +345,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326861,
+    "wof:lastmodified":1566679694,
     "wof:name":"Nueva Ecija",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1955373,
     "wof:population_rank":12,

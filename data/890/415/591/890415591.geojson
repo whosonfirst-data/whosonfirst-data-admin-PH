@@ -11,11 +11,15 @@
     "geom:longitude":121.10874,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3448,
+    "gn:population":3448,
     "iso:country":"PH",
+    "lbl:bbox":"121.08874,14.07549,121.12874,14.11549",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Santol"
     ],
     "qs:name":"Santor",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1687599,
         "gp:id":1193008,
-        "qs:id":134221
+        "qs_pg:id":134221
     },
     "wof:country":"PH",
     "wof:created":1469051094,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415591,
-    "wof:lastmodified":1505343427,
+    "wof:lastmodified":1566681923,
     "wof:name":"Santor",
     "wof:parent_id":1108699665,
     "wof:placetype":"locality",

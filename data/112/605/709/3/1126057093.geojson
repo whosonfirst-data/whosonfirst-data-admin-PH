@@ -11,13 +11,16 @@
     "geom:longitude":124.395575,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:gn_country":"PH",
-    "gn:pop":3259,
+    "gn:population":3259,
     "iso:country":"PH",
+    "lbl:bbox":"124.375575,13.757525,124.415575,13.797525",
     "lbl:latitude":13.777525,
     "lbl:longitude":124.395575,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bcl_x_preferred":[
         "Gigmoto"
@@ -82,7 +85,7 @@
     "qs_pg:woe_adm0":23424934,
     "qs_pg:woe_id":1173163,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":23424934,
     "woe:name_adm0":"Philippines",
@@ -95,12 +98,12 @@
     "wof:concordances":{
         "gn:id":1712961,
         "gp:id":1173163,
-        "qs:id":87796,
-        "qs_pg:id":1064607,
+        "qs_pg:id":87796,
         "wd:id":"Q192629"
     },
     "wof:concordances_alt":{
-        "gp:id":91425191
+        "gp:id":91425191,
+        "qs_pg:id":1064607
     },
     "wof:country":"PH",
     "wof:created":1497303343,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1126057093,
-    "wof:lastmodified":1563333026,
+    "wof:lastmodified":1566682258,
     "wof:name":"Gigmoto",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

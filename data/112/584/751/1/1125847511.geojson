@@ -9,20 +9,23 @@
     "geom:bbox":"123.349,10.69885,123.349,10.69885",
     "geom:latitude":10.69885,
     "geom:longitude":123.349,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6885,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":6885,
     "iso:country":"PH",
+    "lbl:bbox":"123.329,10.67885,123.369,10.71885",
     "lbl:latitude":10.69885,
     "lbl:longitude":123.349,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Minapasoc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minapasuk"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":87217,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125847511,
-    "wof:lastmodified":1509395725,
+    "wof:lastmodified":1566682308,
     "wof:name":"Minapasoc",
     "wof:parent_id":1108697215,
     "wof:placetype":"locality",

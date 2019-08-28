@@ -11,14 +11,18 @@
     "geom:longitude":123.1012,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3794,
+    "gn:population":3794,
     "iso:country":"PH",
+    "lbl:bbox":"123.0812,10.55226,123.1212,10.59226",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Hacienda Santa Rosa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa Hacienda"
     ],
     "qs:name":"Hacienda Santa Rosa",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1687874,
         "gp:id":1191474,
-        "qs:id":134254,
+        "qs_pg:id":134254,
         "wd:id":"Q5891109",
         "wk:page":"Hacienda Santa Rosa de Lima"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890432219,
-    "wof:lastmodified":1527793033,
+    "wof:lastmodified":1566682225,
     "wof:name":"Hacienda Santa Rosa",
     "wof:parent_id":1108699649,
     "wof:placetype":"locality",

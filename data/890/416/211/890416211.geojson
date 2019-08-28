@@ -11,10 +11,14 @@
     "geom:longitude":120.5954,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5057,
+    "gn:population":5057,
     "iso:country":"PH",
+    "lbl:bbox":"120.5754,15.1424,120.6154,15.1824",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Balibago"
     ],
@@ -36,8 +40,10 @@
     "wof:concordances":{
         "gn:id":1728204,
         "gp:id":1159097,
-        "qs:id":135868,
         "qs_pg:id":88410
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":135868
     },
     "wof:country":"PH",
     "wof:created":1469051124,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":890416211,
-    "wof:lastmodified":1509410039,
+    "wof:lastmodified":1566682090,
     "wof:name":"Balibago",
     "wof:parent_id":1108696677,
     "wof:placetype":"locality",

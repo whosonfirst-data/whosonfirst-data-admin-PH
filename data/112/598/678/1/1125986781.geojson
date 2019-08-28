@@ -9,17 +9,20 @@
     "geom:bbox":"125.41583,6.9675,125.41583,6.9675",
     "geom:latitude":6.9675,
     "geom:longitude":125.41583,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":7298,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":7298,
     "iso:country":"PH",
+    "lbl:bbox":"125.39583,6.9475,125.43583,6.9875",
     "lbl:latitude":6.9675,
     "lbl:longitude":125.41583,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baracaton"
     ],
     "qs_pg:aaroncc":"PH",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":277384,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125986781,
-    "wof:lastmodified":1509405115,
+    "wof:lastmodified":1566682284,
     "wof:name":"Baracatan",
     "wof:parent_id":1108699345,
     "wof:placetype":"locality",

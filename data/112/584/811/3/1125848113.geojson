@@ -9,15 +9,18 @@
     "geom:bbox":"123.1166,13.7313,123.1166,13.7313",
     "geom:latitude":13.7313,
     "geom:longitude":123.1166,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4203,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":4203,
     "iso:country":"PH",
+    "lbl:bbox":"123.0966,13.7113,123.1366,13.7513",
     "lbl:latitude":13.7313,
     "lbl:longitude":123.1166,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Castiellu"
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0456\u043b\u044c\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Casillo"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +91,7 @@
     "qs_pg:qs_id":88011,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1125848113,
-    "wof:lastmodified":1564179277,
+    "wof:lastmodified":1566682299,
     "wof:name":"Castillo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

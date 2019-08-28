@@ -10,8 +10,12 @@
     "geom:latitude":13.8645,
     "geom:longitude":121.0041,
     "iso:country":"PH",
+    "lbl:bbox":"120.9841,13.8445,121.0241,13.8845",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Alitagtag"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1731382,
         "gp:id":1158770,
-        "qs:id":894347,
+        "qs_pg:id":894347,
         "wd:id":"Q59251",
         "wk:page":"Alitagtag, Batangas"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421200755,
-    "wof:lastmodified":1563331626,
+    "wof:lastmodified":1566681853,
     "wof:name":"Alitagtag",
     "wof:parent_id":1108696639,
     "wof:placetype":"locality",

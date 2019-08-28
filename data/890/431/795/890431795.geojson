@@ -11,10 +11,14 @@
     "geom:longitude":123.5531,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2137,
+    "gn:population":2137,
     "iso:country":"PH",
+    "lbl:bbox":"123.5331,13.6836,123.5731,13.7236",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u043d\u0430\u043b\u0430\u043d\u0441\u0430\u043d"
     ],
@@ -27,7 +31,7 @@
     "name:fil_x_preferred":[
         "Kinalansan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quinalansan"
     ],
     "qs:name":"Kinalansan",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1708724,
         "gp:id":1183435,
-        "qs:id":277133,
+        "qs_pg:id":277133,
         "wd:id":"Q25055127",
         "wk:page":"Kinalansan"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890431795,
-    "wof:lastmodified":1563332140,
+    "wof:lastmodified":1566681999,
     "wof:name":"Kinalansan",
     "wof:parent_id":1108699207,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.5098,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5576,
+    "gn:population":5576,
     "iso:country":"PH",
+    "lbl:bbox":"123.4898,9.721,123.5298,9.761",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Obong"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1697361,
         "gp:id":1185058,
-        "qs:id":277013
+        "qs_pg:id":277013
     },
     "wof:country":"PH",
     "wof:created":1469051909,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431711,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566682007,
     "wof:name":"Obong",
     "wof:parent_id":1108697429,
     "wof:placetype":"locality",

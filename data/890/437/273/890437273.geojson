@@ -11,10 +11,14 @@
     "geom:longitude":120.96452,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":443373,
+    "gn:population":443373,
     "iso:country":"PH",
+    "lbl:bbox":"120.86452,14.2209,121.06452,14.4209",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0633\u0645\u0627\u0631\u064a\u0646\u0627\u0633"
     ],
@@ -174,7 +178,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1715431,
-        "qs:id":1062487,
+        "qs_pg:id":1062487,
         "wd:id":"Q63139",
         "wk:page":"Dasmari\u00f1as"
     },
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":890437273,
-    "wof:lastmodified":1563331988,
+    "wof:lastmodified":1566681948,
     "wof:name":"Dasmari\u00f1as",
     "wof:parent_id":1108697453,
     "wof:placetype":"localadmin",

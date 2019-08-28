@@ -11,10 +11,14 @@
     "geom:longitude":125.50194,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":250353,
+    "gn:population":250353,
     "iso:country":"PH",
+    "lbl:bbox":"125.48194,8.92417,125.52194,8.96417",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Libertad"
     ],
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1706684,
-        "qs:id":1243349,
+        "qs_pg:id":1243349,
         "wk:page":"Libertad"
     },
     "wof:country":"PH",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890453165,
-    "wof:lastmodified":1564178764,
+    "wof:lastmodified":1566682030,
     "wof:name":"Libertad",
     "wof:parent_id":1108697145,
     "wof:placetype":"locality",

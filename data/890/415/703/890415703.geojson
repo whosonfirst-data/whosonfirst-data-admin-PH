@@ -11,14 +11,18 @@
     "geom:longitude":120.5364,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3565,
+    "gn:population":3565,
     "iso:country":"PH",
+    "lbl:bbox":"120.5164,15.6552,120.5564,15.6952",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Nancamarinan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nancamarian"
     ],
     "qs:name":"Nancamarinan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1698323,
         "gp:id":91465374,
-        "qs:id":134756
+        "qs_pg:id":134756
     },
     "wof:country":"PH",
     "wof:created":1469051099,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415703,
-    "wof:lastmodified":1505343427,
+    "wof:lastmodified":1566681922,
     "wof:name":"Nancamarinan",
     "wof:parent_id":1108698791,
     "wof:placetype":"locality",

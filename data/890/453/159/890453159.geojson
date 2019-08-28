@@ -11,17 +11,18 @@
     "geom:longitude":121.7155,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2485,
+    "gn:population":2485,
     "iso:country":"PH",
+    "lbl:bbox":"121.6955,17.913,121.7355,17.953",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Dalaoig"
     ],
     "name:fil_x_variant":[
-        "Dalauig"
-    ],
-    "name:unk_x_variant":[
         "Dalauig"
     ],
     "qs:name":"Dalaoig",
@@ -38,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1716074,
-        "qs:id":1032862
+        "qs_pg:id":1032862
     },
     "wof:country":"PH",
     "wof:created":1469052843,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":890453159,
-    "wof:lastmodified":1505343649,
+    "wof:lastmodified":1566682027,
     "wof:name":"Dalaoig",
     "wof:parent_id":1108696785,
     "wof:placetype":"locality",

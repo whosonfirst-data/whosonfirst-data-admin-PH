@@ -10,8 +10,12 @@
     "geom:latitude":13.3227,
     "geom:longitude":122.6779,
     "iso:country":"PH",
+    "lbl:bbox":"122.6579,13.3027,122.6979,13.3427",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "San Andres"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1690438,
         "gp:id":1199722,
-        "qs:id":969730,
+        "qs_pg:id":969730,
         "wd:id":"Q104044",
         "wk:page":"San Andres, Quezon"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421183235,
-    "wof:lastmodified":1563331676,
+    "wof:lastmodified":1566681864,
     "wof:name":"San Andres",
     "wof:parent_id":1108699109,
     "wof:placetype":"locality",

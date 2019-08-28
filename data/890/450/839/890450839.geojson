@@ -11,10 +11,14 @@
     "geom:longitude":119.84861,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2596,
+    "gn:population":2596,
     "iso:country":"PH",
+    "lbl:bbox":"119.82861,12.09907,119.86861,12.13907",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Panlaitan"
     ],
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":1695065,
         "gp:id":1186129,
-        "qs:id":87042
+        "qs_pg:id":87042
     },
     "wof:country":"PH",
     "wof:created":1469052755,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890450839,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682214,
     "wof:name":"Panlaitan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

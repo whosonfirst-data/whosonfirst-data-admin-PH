@@ -10,8 +10,12 @@
     "geom:latitude":6.51904,
     "geom:longitude":126.09408,
     "iso:country":"PH",
+    "lbl:bbox":"126.07408,6.49904,126.11408,6.53904",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Luzon"
@@ -305,7 +309,7 @@
     "wof:concordances":{
         "gn:id":1704845,
         "gp:id":1199407,
-        "qs:id":135023
+        "qs_pg:id":135023
     },
     "wof:country":"PH",
     "wof:created":1459009191,
@@ -320,7 +324,7 @@
         }
     ],
     "wof:id":421178719,
-    "wof:lastmodified":1564178478,
+    "wof:lastmodified":1566681875,
     "wof:name":"Luzon",
     "wof:parent_id":1108697667,
     "wof:placetype":"locality",

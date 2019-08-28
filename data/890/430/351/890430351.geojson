@@ -11,10 +11,14 @@
     "geom:longitude":123.48333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":21252,
+    "gn:population":21252,
     "iso:country":"PH",
+    "lbl:bbox":"123.38333,12.28333,123.58333,12.48333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Baleno"
     ],
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1728273,
-        "qs:id":88424,
+        "qs_pg:id":88424,
         "wk:page":"Baleno"
     },
     "wof:country":"PH",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890430351,
-    "wof:lastmodified":1564178600,
+    "wof:lastmodified":1566681943,
     "wof:name":"Baleno",
     "wof:parent_id":1108696825,
     "wof:placetype":"localadmin",

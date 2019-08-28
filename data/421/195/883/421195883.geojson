@@ -10,6 +10,9 @@
     "geom:latitude":17.61306,
     "geom:longitude":121.72694,
     "iso:country":"PH",
+    "lbl:bbox":"121.70694,17.59306,121.74694,17.63306",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -179,9 +182,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0433\u0432\u0435\u0433\u0430\u0440\u0430\u043e"
     ],
-    "name:unk_x_variant":[
-        "Tuguegaro"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u06af\u0648\u0626\u06af\u0627\u0631\u0627\u0624"
     ],
@@ -320,7 +320,7 @@
     "wof:concordances":{
         "gn:id":1680932,
         "gp:id":1199949,
-        "qs:id":133949,
+        "qs_pg:id":133949,
         "wd:id":"Q2200",
         "wk:page":"Tuguegarao"
     },
@@ -337,7 +337,7 @@
         }
     ],
     "wof:id":421195883,
-    "wof:lastmodified":1563331360,
+    "wof:lastmodified":1566681793,
     "wof:name":"Tuguegarao",
     "wof:parent_id":1108699799,
     "wof:placetype":"locality",

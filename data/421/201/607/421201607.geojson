@@ -10,8 +10,12 @@
     "geom:latitude":14.95472,
     "geom:longitude":120.89694,
     "iso:country":"PH",
+    "lbl:bbox":"120.87694,14.93472,120.91694,14.97472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Baliuag"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":1727995,
         "gp:id":1198852,
-        "qs:id":213323,
+        "qs_pg:id":213323,
         "wd:id":"Q54554"
     },
     "wof:country":"PH",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421201607,
-    "wof:lastmodified":1563331652,
+    "wof:lastmodified":1566681859,
     "wof:name":"Baliuag",
     "wof:parent_id":1108696849,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":125.04555,
     "gn:country":"PH",
     "gn:fcode":"LCTY",
-    "gn:pop":2591,
+    "gn:population":2591,
     "iso:country":"PH",
+    "lbl:bbox":"125.02555,6.19682,125.06555,6.23682",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lumakil"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1705250,
         "gp:id":91427544,
-        "qs:id":1032597
+        "qs_pg:id":1032597
     },
     "wof:country":"PH",
     "wof:created":1469052842,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890453131,
-    "wof:lastmodified":1505343649,
+    "wof:lastmodified":1566682030,
     "wof:name":"Lumakil",
     "wof:parent_id":1108698933,
     "wof:placetype":"locality",

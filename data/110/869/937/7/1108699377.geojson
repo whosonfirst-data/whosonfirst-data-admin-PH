@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.29409,
     "lbl:longitude":121.428179,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"APAYAO",
     "meso:admin_1r":"CORDILLERA ADMIN REGION",
     "meso:diss_me":"SANTA MARCELAAPAYAO",
@@ -32,6 +34,7 @@
     "mps:longitude":121.428179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Santa Marcela"
     ],
@@ -87,7 +90,7 @@
         "Santa Marcela"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108699377,
-    "wof:lastmodified":1564176832,
+    "wof:lastmodified":1566681110,
     "wof:name":"Santa Marcela",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

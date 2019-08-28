@@ -10,8 +10,12 @@
     "geom:latitude":17.42782,
     "geom:longitude":121.76955,
     "iso:country":"PH",
+    "lbl:bbox":"121.74955,17.40782,121.78955,17.44782",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Cabagan"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1722005,
         "gp:id":1198988,
-        "qs:id":259787,
+        "qs_pg:id":259787,
         "wd:id":"Q49361",
         "wk:page":"Cabagan, Isabela"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421205233,
-    "wof:lastmodified":1561778706,
+    "wof:lastmodified":1566681813,
     "wof:name":"Cabagan",
     "wof:parent_id":1108697151,
     "wof:placetype":"locality",

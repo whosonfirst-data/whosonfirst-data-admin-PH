@@ -11,10 +11,14 @@
     "geom:longitude":120.9,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":11432,
+    "gn:population":11432,
     "iso:country":"PH",
+    "lbl:bbox":"120.8,17.01667,121.0,17.21667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Sagada"
     ],
@@ -96,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1691185,
-        "qs:id":1031030,
+        "qs_pg:id":1031030,
         "wd:id":"Q36090",
         "wk:page":"Sagada"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890443633,
-    "wof:lastmodified":1563332369,
+    "wof:lastmodified":1566682063,
     "wof:name":"Sagada",
     "wof:parent_id":1108699069,
     "wof:placetype":"localadmin",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.73253,
     "lbl:longitude":120.272185,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PANGASINAN",
     "meso:admin_1r":"ILOCOS REGION",
     "meso:diss_me":"MANGATAREMPANGASINAN",
@@ -32,6 +34,7 @@
     "mps:longitude":120.272185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Mangatarem"
     ],
@@ -78,7 +81,7 @@
         "Mangatarem"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108698353,
-    "wof:lastmodified":1564176911,
+    "wof:lastmodified":1566681142,
     "wof:name":"Mangatarem",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

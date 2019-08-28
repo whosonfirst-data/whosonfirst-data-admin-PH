@@ -11,8 +11,11 @@
     "geom:longitude":125.00639,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":189090,
+    "gn:population":189090,
     "iso:country":"PH",
+    "lbl:bbox":"124.98639,11.23111,125.02639,11.27111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -123,7 +126,7 @@
     "wof:concordances":{
         "gn:id":1695743,
         "gp:id":91797219,
-        "qs:id":134657
+        "qs_pg:id":134657
     },
     "wof:country":"PH",
     "wof:created":1469052259,
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":890440017,
-    "wof:lastmodified":1505343574,
+    "wof:lastmodified":1566681887,
     "wof:name":"Panalanoy",
     "wof:parent_id":1108697785,
     "wof:placetype":"locality",

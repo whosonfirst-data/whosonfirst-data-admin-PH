@@ -11,7 +11,7 @@
     "geom:longitude":121.187168,
     "gn:country":"PH",
     "gn:fcode":"ADM2",
-    "gn:pop":255200,
+    "gn:population":255200,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Lipa Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.939859,
     "lbl:longitude":121.185244,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BATANGAS",
     "meso:admin_1r":"CALABARZON",
     "meso:diss_me":"LIPA CITYBATANGAS",
@@ -35,10 +37,11 @@
     "mps:longitude":121.185244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:fil_x_preferred":[
         "Lungsod ng Lipa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lipa"
     ],
     "qs:name":"Lipa City",
@@ -49,7 +52,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1706087,
-        "qs:id":87490
+        "qs_pg:id":87490
     },
     "wof:country":"PH",
     "wof:created":1469051955,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890432817,
-    "wof:lastmodified":1555220349,
+    "wof:lastmodified":1566682225,
     "wof:name":"Lipa City",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

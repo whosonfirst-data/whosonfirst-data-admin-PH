@@ -11,10 +11,14 @@
     "geom:longitude":122.0945,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":3711,
+    "gn:population":3711,
     "iso:country":"PH",
+    "lbl:bbox":"122.0745,11.5701,122.1145,11.6101",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Sebaste"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1687038,
         "gp:id":1157960,
-        "qs:id":1032252,
+        "qs_pg:id":1032252,
         "wd:id":"Q492707",
         "wk:page":"Sebaste"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890443925,
-    "wof:lastmodified":1563332388,
+    "wof:lastmodified":1566682068,
     "wof:name":"Sebaste",
     "wof:parent_id":1108699455,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.90846,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":32248,
+    "gn:population":32248,
     "iso:country":"PH",
+    "lbl:bbox":"120.80846,13.95429,121.00846,14.15429",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041b\u043e\u0440\u044a\u043b"
     ],
@@ -69,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0440\u0435\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Laurel City"
     ],
     "name:vol_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1707047,
-        "qs:id":1031182,
+        "qs_pg:id":1031182,
         "wk:page":"Laurel"
     },
     "wof:country":"PH",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890443695,
-    "wof:lastmodified":1564178831,
+    "wof:lastmodified":1566682066,
     "wof:name":"Laurel",
     "wof:parent_id":1108698027,
     "wof:placetype":"localadmin",

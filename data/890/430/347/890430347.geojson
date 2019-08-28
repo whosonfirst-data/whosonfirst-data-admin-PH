@@ -11,11 +11,15 @@
     "geom:longitude":122.75,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5025,
+    "gn:population":5025,
     "iso:country":"PH",
+    "lbl:bbox":"122.73,14.21333,122.77,14.25333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Batobalani"
     ],
     "qs:name":"Batobalane",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1726141,
         "gp:id":91796893,
-        "qs:id":88316
+        "qs_pg:id":88316
     },
     "wof:country":"PH",
     "wof:created":1469051849,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890430347,
-    "wof:lastmodified":1505343518,
+    "wof:lastmodified":1566681941,
     "wof:name":"Batobalane",
     "wof:parent_id":1108698811,
     "wof:placetype":"locality",

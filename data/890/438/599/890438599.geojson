@@ -11,14 +11,18 @@
     "geom:longitude":123.0837,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2526,
+    "gn:population":2526,
     "iso:country":"PH",
+    "lbl:bbox":"123.0637,13.9536,123.1037,13.9936",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Pambuhan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panbuhan"
     ],
     "qs:name":"Pambuhan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1695893,
         "gp:id":1198875,
-        "qs:id":1032399
+        "qs_pg:id":1032399
     },
     "wof:country":"PH",
     "wof:created":1469052202,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890438599,
-    "wof:lastmodified":1505343566,
+    "wof:lastmodified":1566682016,
     "wof:name":"Pambuhan",
     "wof:parent_id":1108696931,
     "wof:placetype":"locality",

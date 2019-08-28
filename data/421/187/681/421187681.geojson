@@ -10,8 +10,12 @@
     "geom:latitude":6.232882,
     "geom:longitude":124.69757,
     "iso:country":"PH",
+    "lbl:bbox":"124.67757,6.212882,124.71757,6.252882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "T'Boli"
@@ -89,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1200002,
-        "qs:id":1083782,
+        "qs_pg:id":1083782,
         "wd:id":"Q174003"
     },
     "wof:country":"PH",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421187681,
-    "wof:lastmodified":1563331497,
+    "wof:lastmodified":1566681823,
     "wof:name":"T'boli",
     "wof:parent_id":1108699577,
     "wof:placetype":"locality",

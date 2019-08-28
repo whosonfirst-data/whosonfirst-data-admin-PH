@@ -11,10 +11,14 @@
     "geom:longitude":121.01365,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2512,
+    "gn:population":2512,
     "iso:country":"PH",
+    "lbl:bbox":"120.99365,14.16168,121.03365,14.20168",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lumil"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1705144,
         "gp:id":1179347,
-        "qs:id":87457
+        "qs_pg:id":87457
     },
     "wof:country":"PH",
     "wof:created":1469052160,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437641,
-    "wof:lastmodified":1505343560,
+    "wof:lastmodified":1566681955,
     "wof:name":"Lumil",
     "wof:parent_id":1108699493,
     "wof:placetype":"locality",

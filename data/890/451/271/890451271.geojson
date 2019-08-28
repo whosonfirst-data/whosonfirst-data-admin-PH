@@ -11,10 +11,14 @@
     "geom:longitude":122.69083,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":5036,
+    "gn:population":5036,
     "iso:country":"PH",
+    "lbl:bbox":"122.67083,11.50167,122.71083,11.54167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Ivisan"
     ],
@@ -54,7 +58,7 @@
     "name:tgl_x_preferred":[
         "Ivisan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iuisan"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1710425,
         "gp:id":91420590,
-        "qs:id":87695,
+        "qs_pg:id":87695,
         "wd:id":"Q356081"
     },
     "wof:country":"PH",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890451271,
-    "wof:lastmodified":1563332594,
+    "wof:lastmodified":1566682133,
     "wof:name":"Ivisan",
     "wof:parent_id":1108697797,
     "wof:placetype":"locality",

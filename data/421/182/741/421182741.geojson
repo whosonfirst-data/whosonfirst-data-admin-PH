@@ -10,8 +10,12 @@
     "geom:latitude":7.69611,
     "geom:longitude":122.86306,
     "iso:country":"PH",
+    "lbl:bbox":"122.84306,7.67611,122.88306,7.71611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Siay"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1686862,
         "gp:id":1193348,
-        "qs:id":944311,
+        "qs_pg:id":944311,
         "wd:id":"Q124780",
         "wk:page":"Siay, Zamboanga Sibugay"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421182741,
-    "wof:lastmodified":1561778725,
+    "wof:lastmodified":1566681878,
     "wof:name":"Siay",
     "wof:parent_id":1108699469,
     "wof:placetype":"locality",

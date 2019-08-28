@@ -11,10 +11,14 @@
     "geom:longitude":125.46167,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2759,
+    "gn:population":2759,
     "iso:country":"PH",
+    "lbl:bbox":"125.44167,5.64222,125.48167,5.68222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Sugal"
     ],
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":1685520,
         "gp:id":1185003,
-        "qs:id":86532
+        "qs_pg:id":86532
     },
     "wof:country":"PH",
     "wof:created":1469052737,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890450399,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682188,
     "wof:name":"Sugal",
     "wof:parent_id":1108697839,
     "wof:placetype":"locality",

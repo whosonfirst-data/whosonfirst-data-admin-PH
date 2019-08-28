@@ -11,11 +11,15 @@
     "geom:longitude":120.75,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2822,
+    "gn:population":2822,
     "iso:country":"PH",
+    "lbl:bbox":"120.73,16.46333,120.77,16.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ambuklao"
     ],
     "qs:name":"Ambuclao",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1731090,
         "gp:id":1176990,
-        "qs:id":136055
+        "qs_pg:id":136055
     },
     "wof:country":"PH",
     "wof:created":1469051128,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416299,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566682101,
     "wof:name":"Ambuclao",
     "wof:parent_id":1108697035,
     "wof:placetype":"locality",

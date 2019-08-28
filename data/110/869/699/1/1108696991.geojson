@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":17.111911,
     "lbl:longitude":120.844197,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MOUNTAIN PROVINCE",
     "meso:admin_1r":"CORDILLERA ADMIN REGION",
     "meso:diss_me":"BESAOMOUNTAIN PROVINCE",
@@ -32,6 +34,7 @@
     "mps:longitude":120.844197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Besao"
     ],
@@ -78,7 +81,7 @@
         "Besao"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108696991,
-    "wof:lastmodified":1564177161,
+    "wof:lastmodified":1566681227,
     "wof:name":"Besao",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

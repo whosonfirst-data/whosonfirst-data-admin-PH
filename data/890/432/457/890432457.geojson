@@ -11,10 +11,14 @@
     "geom:longitude":121.46742,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":4618,
+    "gn:population":4618,
     "iso:country":"PH",
+    "lbl:bbox":"121.44742,12.79052,121.48742,12.83052",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0447\u044d\u0434\u0430"
     ],
@@ -66,7 +70,7 @@
     "name:swe_x_preferred":[
         "Salcedo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bauguen"
     ],
     "name:war_x_preferred":[
@@ -91,9 +95,11 @@
     "wof:concordances":{
         "gn:id":1690908,
         "gp:id":76293,
-        "qs:id":134431,
-        "qs_pg:id":276437,
+        "qs_pg:id":134431,
         "wk:page":"Salcedo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":276437
     },
     "wof:country":"PH",
     "wof:created":1469051941,
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":890432457,
-    "wof:lastmodified":1564179164,
+    "wof:lastmodified":1566682244,
     "wof:name":"Salcedo",
     "wof:parent_id":1108696889,
     "wof:placetype":"locality",

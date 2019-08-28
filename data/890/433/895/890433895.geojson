@@ -11,10 +11,14 @@
     "geom:longitude":120.5,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3485,
+    "gn:population":3485,
     "iso:country":"PH",
+    "lbl:bbox":"120.48,16.31333,120.52,16.35333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Taloy"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1683737,
         "gp:id":91421872,
-        "qs:id":134087
+        "qs_pg:id":134087
     },
     "wof:country":"PH",
     "wof:created":1469051999,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890433895,
-    "wof:lastmodified":1505343538,
+    "wof:lastmodified":1566682170,
     "wof:name":"Taloy",
     "wof:parent_id":1108699765,
     "wof:placetype":"locality",

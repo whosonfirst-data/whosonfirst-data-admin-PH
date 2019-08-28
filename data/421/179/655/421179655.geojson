@@ -10,8 +10,12 @@
     "geom:latitude":7.14167,
     "geom:longitude":124.38056,
     "iso:country":"PH",
+    "lbl:bbox":"124.36056,7.12167,124.40056,7.16167",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Pagalungan"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Pagalungan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pagaluan"
     ],
     "name:urd_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1696683,
         "gp:id":1185598,
-        "qs:id":427096,
+        "qs_pg:id":427096,
         "wd:id":"Q212707",
         "wk:page":"Pagalungan, Maguindanao"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421179655,
-    "wof:lastmodified":1563331689,
+    "wof:lastmodified":1566681867,
     "wof:name":"Pagalu\u00f1gan",
     "wof:parent_id":1108697871,
     "wof:placetype":"locality",

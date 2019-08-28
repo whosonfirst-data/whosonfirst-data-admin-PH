@@ -10,8 +10,12 @@
     "geom:latitude":8.77722,
     "geom:longitude":125.57194,
     "iso:country":"PH",
+    "lbl:bbox":"125.55194,8.75722,125.59194,8.79722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":1680687,
         "gp:id":1199955,
-        "qs:id":1295003
+        "qs_pg:id":1295003
     },
     "wof:country":"PH",
     "wof:created":1459009889,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421196669,
-    "wof:lastmodified":1505340748,
+    "wof:lastmodified":1566681842,
     "wof:name":"Tungao",
     "wof:parent_id":1108697145,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.56722,
     "lbl:longitude":120.685548,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"TARLAC",
     "meso:admin_1r":"CENTRAL LUZON REGION",
     "meso:diss_me":"VICTORIATARLAC",
@@ -32,6 +34,7 @@
     "mps:longitude":120.685548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Victoria"
     ],
@@ -231,7 +234,7 @@
         "\u7ef4\u591a\u5229\u4e9a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":1108699855,
-    "wof:lastmodified":1564177012,
+    "wof:lastmodified":1566681173,
     "wof:name":"Victoria",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

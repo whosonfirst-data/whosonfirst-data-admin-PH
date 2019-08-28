@@ -11,10 +11,14 @@
     "geom:longitude":120.9244,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3746,
+    "gn:population":3746,
     "iso:country":"PH",
+    "lbl:bbox":"120.9044,13.4821,120.9444,13.5221",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Balatero"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1728382,
         "gp:id":1161086,
-        "qs:id":135873
+        "qs_pg:id":135873
     },
     "wof:country":"PH",
     "wof:created":1469051124,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416219,
-    "wof:lastmodified":1505343430,
+    "wof:lastmodified":1566682092,
     "wof:name":"Balatero",
     "wof:parent_id":1108698973,
     "wof:placetype":"locality",

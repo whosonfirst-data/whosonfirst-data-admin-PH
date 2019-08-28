@@ -11,10 +11,14 @@
     "geom:longitude":120.6405,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2402,
+    "gn:population":2402,
     "iso:country":"PH",
+    "lbl:bbox":"120.6205,16.7064,120.6605,16.7464",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tacadang"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1684746,
-        "qs:id":86502
+        "qs_pg:id":86502
     },
     "wof:country":"PH",
     "wof:created":1469052736,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890450367,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682207,
     "wof:name":"Tacadang",
     "wof:parent_id":1108697923,
     "wof:placetype":"locality",

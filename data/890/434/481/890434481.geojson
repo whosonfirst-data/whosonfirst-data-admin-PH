@@ -11,10 +11,14 @@
     "geom:longitude":122.0168,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2384,
+    "gn:population":2384,
     "iso:country":"PH",
+    "lbl:bbox":"121.9968,6.6709,122.0368,6.7109",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Begang"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1725633,
         "gp:id":91421098,
-        "qs:id":135717
+        "qs_pg:id":135717
     },
     "wof:country":"PH",
     "wof:created":1469052026,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890434481,
-    "wof:lastmodified":1505343541,
+    "wof:lastmodified":1566682156,
     "wof:name":"Begang",
     "wof:parent_id":1108697781,
     "wof:placetype":"locality",

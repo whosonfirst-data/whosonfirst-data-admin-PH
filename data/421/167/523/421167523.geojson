@@ -10,8 +10,12 @@
     "geom:latitude":9.8223,
     "geom:longitude":124.1964,
     "iso:country":"PH",
+    "lbl:bbox":"124.1764,9.8023,124.2164,9.8423",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Carmen"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1718332,
         "gp:id":1199054,
-        "qs:id":135463,
+        "qs_pg:id":135463,
         "wd:id":"Q241239",
         "wk:page":"Carmen, Bohol"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421167523,
-    "wof:lastmodified":1563331405,
+    "wof:lastmodified":1566681802,
     "wof:name":"Carmen",
     "wof:parent_id":1108697293,
     "wof:placetype":"locality",

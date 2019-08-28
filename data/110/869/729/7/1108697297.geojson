@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.412439,
     "lbl:longitude":125.681022,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DAVAO DEL NORTE",
     "meso:admin_1r":"DAVAO REGION",
     "meso:diss_me":"CARMENDAVAO DEL NORTE",
@@ -32,6 +34,7 @@
     "mps:longitude":125.681022,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Carmen"
     ],
@@ -186,7 +189,7 @@
         "Carmen"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":1108697297,
-    "wof:lastmodified":1564177273,
+    "wof:lastmodified":1566681267,
     "wof:name":"Carmen",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

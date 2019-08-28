@@ -11,10 +11,14 @@
     "geom:longitude":123.2936,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2690,
+    "gn:population":2690,
     "iso:country":"PH",
+    "lbl:bbox":"123.2736,9.2586,123.3136,9.2986",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Banilad"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1727179,
         "gp:id":1170120,
-        "qs:id":135806
+        "qs_pg:id":135806
     },
     "wof:country":"PH",
     "wof:created":1469051946,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890432583,
-    "wof:lastmodified":1505343530,
+    "wof:lastmodified":1566682249,
     "wof:name":"Banilad",
     "wof:parent_id":890415251,
     "wof:placetype":"locality",

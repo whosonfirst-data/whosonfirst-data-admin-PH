@@ -10,8 +10,12 @@
     "geom:latitude":10.7375,
     "geom:longitude":122.9666,
     "iso:country":"PH",
+    "lbl:bbox":"122.9466,10.7175,122.9866,10.7575",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0627\u0644\u064a\u0633\u0627\u064a"
@@ -202,10 +206,12 @@
     "wof:concordances":{
         "gn:id":1683881,
         "gp:id":1199895,
-        "qs:id":7228,
-        "qs_pg:id":350669,
+        "qs_pg:id":7228,
         "wd:id":"Q1027120",
         "wk:page":"Talisay, Negros Occidental"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":350669
     },
     "wof:country":"PH",
     "wof:created":1459010106,
@@ -220,7 +226,7 @@
         }
     ],
     "wof:id":421202127,
-    "wof:lastmodified":1563331442,
+    "wof:lastmodified":1566681810,
     "wof:name":"Talisay",
     "wof:parent_id":1108699649,
     "wof:placetype":"locality",

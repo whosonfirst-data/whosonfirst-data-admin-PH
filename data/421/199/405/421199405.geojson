@@ -10,8 +10,12 @@
     "geom:latitude":15.6025,
     "geom:longitude":121.0515,
     "iso:country":"PH",
+    "lbl:bbox":"121.0315,15.5825,121.0715,15.6225",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "General Mamerto Natividad"
@@ -74,9 +78,6 @@
     "name:tgl_x_preferred":[
         "General Mamerto Natividad"
     ],
-    "name:unk_x_variant":[
-        "Natividad"
-    ],
     "name:vie_x_preferred":[
         "General Mamerto Natividad"
     ],
@@ -114,7 +115,7 @@
     "wof:concordances":{
         "gn:id":1713027,
         "gp:id":1173106,
-        "qs:id":193626,
+        "qs_pg:id":193626,
         "wd:id":"Q55549",
         "wk:page":"General Mamerto Natividad, Nueva Ecija"
     },
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421199405,
-    "wof:lastmodified":1563331623,
+    "wof:lastmodified":1566681853,
     "wof:name":"General Natividad",
     "wof:parent_id":1108697629,
     "wof:placetype":"locality",

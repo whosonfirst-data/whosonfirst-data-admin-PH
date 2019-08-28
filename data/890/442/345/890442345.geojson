@@ -11,10 +11,14 @@
     "geom:longitude":121.3368,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":5092,
+    "gn:population":5092,
     "iso:country":"PH",
+    "lbl:bbox":"121.3168,14.1593,121.3568,14.1993",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Dayap"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1715307,
         "gp:id":1171475,
-        "qs:id":277225
+        "qs_pg:id":277225
     },
     "wof:country":"PH",
     "wof:created":1469052359,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890442345,
-    "wof:lastmodified":1505343587,
+    "wof:lastmodified":1566682116,
     "wof:name":"Dayap",
     "wof:parent_id":1108696589,
     "wof:placetype":"locality",

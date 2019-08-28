@@ -11,14 +11,18 @@
     "geom:longitude":122.5829,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2147,
+    "gn:population":2147,
     "iso:country":"PH",
+    "lbl:bbox":"122.5629,7.8953,122.6029,7.9353",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Palomoc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palomac"
     ],
     "qs:name":"Palomoc",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1696023,
         "gp:id":28343336,
-        "qs:id":134672
+        "qs_pg:id":134672
     },
     "wof:country":"PH",
     "wof:created":1469052816,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890452407,
-    "wof:lastmodified":1505343645,
+    "wof:lastmodified":1566681964,
     "wof:name":"Palomoc",
     "wof:parent_id":1108697959,
     "wof:placetype":"locality",

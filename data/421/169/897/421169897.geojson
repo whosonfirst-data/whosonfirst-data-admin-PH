@@ -10,8 +10,12 @@
     "geom:latitude":14.0057,
     "geom:longitude":122.1838,
     "iso:country":"PH",
+    "lbl:bbox":"122.1638,13.9857,122.2038,14.0257",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Quezon"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1692201,
         "gp:id":1188921,
-        "qs:id":193639,
+        "qs_pg:id":193639,
         "wd:id":"Q104020",
         "wk:page":"Quezon, Quezon"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421169897,
-    "wof:lastmodified":1563331416,
+    "wof:lastmodified":1566681805,
     "wof:name":"Quezon",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

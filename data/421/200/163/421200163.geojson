@@ -10,8 +10,12 @@
     "geom:latitude":10.9313,
     "geom:longitude":122.5745,
     "iso:country":"PH",
+    "lbl:bbox":"122.5545,10.9113,122.5945,10.9513",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Mina"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "Mina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Minal"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":1699684,
         "gp:id":1183356,
-        "qs:id":1294608,
+        "qs_pg:id":1294608,
         "wd:id":"Q275071",
         "wk:page":"Mina, Iloilo"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421200163,
-    "wof:lastmodified":1563331639,
+    "wof:lastmodified":1566681856,
     "wof:name":"Mina",
     "wof:parent_id":1108698481,
     "wof:placetype":"locality",

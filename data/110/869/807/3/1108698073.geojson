@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.249648,
     "lbl:longitude":123.375943,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ALBAY",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"LIBONALBAY",
@@ -32,6 +34,7 @@
     "mps:longitude":123.375943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u0431\u043e\u043d"
     ],
@@ -51,7 +54,7 @@
         "Libon"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108698073,
-    "wof:lastmodified":1564177159,
+    "wof:lastmodified":1566681226,
     "wof:name":"Libon",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

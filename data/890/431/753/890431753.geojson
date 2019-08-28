@@ -11,14 +11,18 @@
     "geom:longitude":123.269,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3767,
+    "gn:population":3767,
     "iso:country":"PH",
+    "lbl:bbox":"123.249,13.7141,123.289,13.7541",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Manquiring"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manguirin"
     ],
     "qs:name":"Manquiring",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1701723,
         "gp:id":1181941,
-        "qs:id":277056
+        "qs_pg:id":277056
     },
     "wof:country":"PH",
     "wof:created":1469051912,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890431753,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566681987,
     "wof:name":"Manquiring",
     "wof:parent_id":1108697191,
     "wof:placetype":"locality",

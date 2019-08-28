@@ -11,14 +11,18 @@
     "geom:longitude":123.1479,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2794,
+    "gn:population":2794,
     "iso:country":"PH",
+    "lbl:bbox":"123.1279,9.6364,123.1679,9.6764",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Campoyo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Campuyo"
     ],
     "qs:name":"Campoyo",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1719557,
         "gp:id":1168213,
-        "qs:id":88071
+        "qs_pg:id":88071
     },
     "wof:country":"PH",
     "wof:created":1469052328,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890441543,
-    "wof:lastmodified":1505343583,
+    "wof:lastmodified":1566681900,
     "wof:name":"Campoyo",
     "wof:parent_id":1108698357,
     "wof:placetype":"locality",

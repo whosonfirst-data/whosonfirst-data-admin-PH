@@ -10,8 +10,12 @@
     "geom:latitude":16.08333,
     "geom:longitude":120.1,
     "iso:country":"PH",
+    "lbl:bbox":"120.08,16.06333,120.12,16.10333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Agoo"
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":1731959,
         "gp:id":1158334,
-        "qs:id":509195,
+        "qs_pg:id":509195,
         "wd:id":"Q40168"
     },
     "wof:country":"PH",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421173547,
-    "wof:lastmodified":1563331506,
+    "wof:lastmodified":1566681826,
     "wof:name":"Agoo",
     "wof:parent_id":85676123,
     "wof:placetype":"locality",

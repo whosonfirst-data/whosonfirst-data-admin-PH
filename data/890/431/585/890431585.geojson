@@ -11,10 +11,14 @@
     "geom:longitude":123.61648,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2569,
+    "gn:population":2569,
     "iso:country":"PH",
+    "lbl:bbox":"123.59648,9.95326,123.63648,9.99326",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "S\u00ecmala"
     ],
@@ -175,7 +179,7 @@
     "wof:concordances":{
         "gn:id":1686422,
         "gp:id":1193587,
-        "qs:id":276852,
+        "qs_pg:id":276852,
         "wk:page":"Simala"
     },
     "wof:country":"PH",
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":890431585,
-    "wof:lastmodified":1564178715,
+    "wof:lastmodified":1566682004,
     "wof:name":"Simala",
     "wof:parent_id":1108699475,
     "wof:placetype":"locality",

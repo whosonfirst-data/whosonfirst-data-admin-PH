@@ -10,8 +10,12 @@
     "geom:latitude":12.3637,
     "geom:longitude":124.2752,
     "iso:country":"PH",
+    "lbl:bbox":"124.2552,12.3437,124.2952,12.3837",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Pilar"
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":1693841,
         "gp:id":1199644,
-        "qs:id":231254
+        "qs_pg:id":231254
     },
     "wof:country":"PH",
     "wof:created":1459009832,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421195099,
-    "wof:lastmodified":1564178421,
+    "wof:lastmodified":1566681792,
     "wof:name":"Pilar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":124.79472,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2561,
+    "gn:population":2561,
     "iso:country":"PH",
+    "lbl:bbox":"124.77472,8.86639,124.81472,8.90639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Inubolan"
     ],
     "qs:name":"Inobulan",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1710636,
         "gp:id":1194606,
-        "qs:id":135263
+        "qs_pg:id":135263
     },
     "wof:country":"PH",
     "wof:created":1469051113,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415955,
-    "wof:lastmodified":1505343429,
+    "wof:lastmodified":1566681909,
     "wof:name":"Inobulan",
     "wof:parent_id":1108699081,
     "wof:placetype":"locality",

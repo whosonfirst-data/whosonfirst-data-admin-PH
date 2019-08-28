@@ -11,10 +11,14 @@
     "geom:longitude":123.6402,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":40739,
+    "gn:population":40739,
     "iso:country":"PH",
+    "lbl:bbox":"123.6202,10.0861,123.6602,10.1261",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0643\u0627\u0631"
     ],
@@ -157,7 +161,7 @@
     "wof:concordances":{
         "gn:id":1718436,
         "gp:id":1198219,
-        "qs:id":88034,
+        "qs_pg:id":88034,
         "wd:id":"Q315851",
         "wk:page":"Carcar"
     },
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":890451397,
-    "wof:lastmodified":1563332555,
+    "wof:lastmodified":1566682120,
     "wof:name":"Carcar",
     "wof:parent_id":1108697281,
     "wof:placetype":"locality",

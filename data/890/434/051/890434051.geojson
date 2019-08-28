@@ -11,10 +11,14 @@
     "geom:longitude":118.03139,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7860,
+    "gn:population":7860,
     "iso:country":"PH",
+    "lbl:bbox":"118.01139,9.22111,118.05139,9.26111",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Quezon"
     ],
@@ -72,7 +76,7 @@
     "name:tgl_x_preferred":[
         "Quezon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alfonso XIII"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1692211,
         "gp:id":1199681,
-        "qs:id":134480,
+        "qs_pg:id":134480,
         "wd:id":"Q111662",
         "wk:page":"Quezon"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890434051,
-    "wof:lastmodified":1563332677,
+    "wof:lastmodified":1566682161,
     "wof:name":"Quezon",
     "wof:parent_id":1108698991,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.915102,
     "lbl:longitude":125.548864,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DAVAO DEL SUR",
     "meso:admin_1r":"DAVAO REGION",
     "meso:diss_me":"JOSE ABAD SANTOSDAVAO DEL SUR",
@@ -32,8 +34,9 @@
     "mps:longitude":125.548864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1108697839,
-    "wof:lastmodified":1555220391,
+    "wof:lastmodified":1566681177,
     "wof:name":"Jose Abad Santos",
     "wof:parent_id":1108810255,
     "wof:placetype":"county",

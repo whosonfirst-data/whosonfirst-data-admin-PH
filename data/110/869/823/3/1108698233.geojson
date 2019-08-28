@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.801783,
     "lbl:longitude":123.88393,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SORSOGON",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"MAGALLANESSORSOGON",
@@ -32,6 +34,7 @@
     "mps:longitude":123.88393,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Magallanes"
     ],
@@ -78,7 +81,7 @@
         "Magallanes"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108698233,
-    "wof:lastmodified":1564177124,
+    "wof:lastmodified":1566681211,
     "wof:name":"Magallanes",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

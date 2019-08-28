@@ -10,8 +10,12 @@
     "geom:latitude":6.65972,
     "geom:longitude":124.87139,
     "iso:country":"PH",
+    "lbl:bbox":"124.85139,6.63972,124.89139,6.67972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "Paitan"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1696437,
         "gp:id":1199594,
-        "qs:id":134685
+        "qs_pg:id":134685
     },
     "wof:country":"PH",
     "wof:created":1459008733,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421167491,
-    "wof:lastmodified":1505340586,
+    "wof:lastmodified":1566681801,
     "wof:name":"Paitan",
     "wof:parent_id":1108697111,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.258973,
     "lbl:longitude":121.042912,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"APAYAO",
     "meso:admin_1r":"CORDILLERA ADMIN REGION",
     "meso:diss_me":"CALANASANAPAYAO",
@@ -32,6 +34,7 @@
     "mps:longitude":121.042912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Calanasan"
     ],
@@ -87,7 +90,7 @@
         "Calanasan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108697201,
-    "wof:lastmodified":1564177276,
+    "wof:lastmodified":1566681268,
     "wof:name":"Calanasan",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

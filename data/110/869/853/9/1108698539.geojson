@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.856459,
     "lbl:longitude":122.682303,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ZAMBOANGA SIBUGAY",
     "meso:admin_1r":"ZAMBOANGA PENINSULA",
     "meso:diss_me":"NAGAZAMBOANGA SIBUGAY",
@@ -32,6 +34,7 @@
     "mps:longitude":122.682303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Naga"
     ],
@@ -93,7 +96,7 @@
         "Naga"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108698539,
-    "wof:lastmodified":1564177183,
+    "wof:lastmodified":1566681233,
     "wof:name":"Naga",
     "wof:parent_id":85675963,
     "wof:placetype":"county",

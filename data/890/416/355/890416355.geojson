@@ -11,10 +11,14 @@
     "geom:longitude":122.5,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2195,
+    "gn:population":2195,
     "iso:country":"PH",
+    "lbl:bbox":"122.48,10.71333,122.52,10.75333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Abilay"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1732426,
         "gp:id":91797000,
-        "qs:id":136125
+        "qs_pg:id":136125
     },
     "wof:country":"PH",
     "wof:created":1469051130,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890416355,
-    "wof:lastmodified":1505343431,
+    "wof:lastmodified":1566682089,
     "wof:name":"Abilay",
     "wof:parent_id":1108698711,
     "wof:placetype":"locality",

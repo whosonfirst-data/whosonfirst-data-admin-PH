@@ -10,8 +10,12 @@
     "geom:latitude":9.5694,
     "geom:longitude":123.3128,
     "iso:country":"PH",
+    "lbl:bbox":"123.2928,9.5494,123.3328,9.5894",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Ginatilan"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Ginatilan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ginatlian"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1712899,
         "gp:id":1173210,
-        "qs:id":870046,
+        "qs_pg:id":870046,
         "wd:id":"Q316037",
         "wk:page":"Ginatilan, Cebu"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421174471,
-    "wof:lastmodified":1563331464,
+    "wof:lastmodified":1566681816,
     "wof:name":"Ginatilan",
     "wof:parent_id":1108697647,
     "wof:placetype":"locality",

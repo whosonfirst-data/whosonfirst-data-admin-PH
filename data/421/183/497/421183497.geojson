@@ -10,8 +10,12 @@
     "geom:latitude":16.46483,
     "geom:longitude":120.63129,
     "iso:country":"PH",
+    "lbl:bbox":"120.61129,16.44483,120.65129,16.48483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Diadi"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1714912,
         "gp:id":1171633,
-        "qs:id":979658,
+        "qs_pg:id":979658,
         "wd:id":"Q51481"
     },
     "wof:country":"PH",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421183497,
-    "wof:lastmodified":1563331677,
+    "wof:lastmodified":1566681864,
     "wof:name":"Diadi",
     "wof:parent_id":1108697955,
     "wof:placetype":"locality",

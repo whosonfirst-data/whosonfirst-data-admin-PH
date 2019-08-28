@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.814459,
     "lbl:longitude":122.988931,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CAMARINES SUR",
     "meso:admin_1r":"BICOL REGION",
     "meso:diss_me":"LUPICAMARINES SUR",
@@ -32,6 +34,7 @@
     "mps:longitude":122.988931,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Lupi"
     ],
@@ -54,7 +57,7 @@
         "Lupi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108698167,
-    "wof:lastmodified":1564176857,
+    "wof:lastmodified":1566681120,
     "wof:name":"Lupi",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

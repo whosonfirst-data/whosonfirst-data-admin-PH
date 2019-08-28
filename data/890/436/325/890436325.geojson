@@ -11,14 +11,18 @@
     "geom:longitude":122.5217,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3596,
+    "gn:population":3596,
     "iso:country":"PH",
+    "lbl:bbox":"122.5017,13.2432,122.5417,13.2832",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Casay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oasay"
     ],
     "qs:name":"Casay",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1718181,
-        "qs:id":88017
+        "qs_pg:id":88017
     },
     "wof:country":"PH",
     "wof:created":1469052107,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890436325,
-    "wof:lastmodified":1505343552,
+    "wof:lastmodified":1566681981,
     "wof:name":"Casay",
     "wof:parent_id":1108699163,
     "wof:placetype":"locality",

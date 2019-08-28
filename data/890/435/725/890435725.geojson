@@ -11,10 +11,14 @@
     "geom:longitude":122.31667,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":76996,
+    "gn:population":76996,
     "iso:country":"PH",
+    "lbl:bbox":"122.21667,13.91667,122.41667,14.11667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bcl_x_preferred":[
         "Calauag"
     ],
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1720475,
-        "qs:id":1031316,
+        "qs_pg:id":1031316,
         "wd:id":"Q103833",
         "wk:page":"Calauag"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890435725,
-    "wof:lastmodified":1563333009,
+    "wof:lastmodified":1566682252,
     "wof:name":"Calauag",
     "wof:parent_id":85676161,
     "wof:placetype":"localadmin",

@@ -11,14 +11,18 @@
     "geom:longitude":120.3269,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2313,
+    "gn:population":2313,
     "iso:country":"PH",
+    "lbl:bbox":"120.3069,15.8266,120.3469,15.8666",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Malibong East"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malibong"
     ],
     "qs:name":"Malibong East",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1702824,
-        "qs:id":134951
+        "qs_pg:id":134951
     },
     "wof:country":"PH",
     "wof:created":1469051879,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890431141,
-    "wof:lastmodified":1505343522,
+    "wof:lastmodified":1566682006,
     "wof:name":"Malibong East",
     "wof:parent_id":1108699825,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.91273,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2537,
+    "gn:population":2537,
     "iso:country":"PH",
+    "lbl:bbox":"120.89273,15.25098,120.93273,15.29098",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tabon"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1684892,
         "gp:id":1176206,
-        "qs:id":134138
+        "qs_pg:id":134138
     },
     "wof:country":"PH",
     "wof:created":1469051091,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890415511,
-    "wof:lastmodified":1505343426,
+    "wof:lastmodified":1566681918,
     "wof:name":"Tabon",
     "wof:parent_id":1108699187,
     "wof:placetype":"locality",

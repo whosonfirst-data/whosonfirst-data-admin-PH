@@ -9,20 +9,23 @@
     "geom:bbox":"123.3217,13.5469,123.3217,13.5469",
     "geom:latitude":13.5469,
     "geom:longitude":123.3217,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2613,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2613,
     "iso:country":"PH",
+    "lbl:bbox":"123.3017,13.5269,123.3417,13.5669",
     "lbl:latitude":13.5469,
     "lbl:longitude":123.3217,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Ayugan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayogan"
     ],
     "qs_pg:aaroncc":"PH",
@@ -37,7 +40,7 @@
     "qs_pg:qs_id":88486,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1125849169,
-    "wof:lastmodified":1509395820,
+    "wof:lastmodified":1566682316,
     "wof:name":"Ayugan",
     "wof:parent_id":1108698889,
     "wof:placetype":"locality",

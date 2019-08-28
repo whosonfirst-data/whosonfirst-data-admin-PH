@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"123.39972,7.76111,123.43972,7.80111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632509
@@ -36,7 +40,7 @@
         "gn:id":1958633
     },
     "wof:country":"PH",
-    "wof:geomhash":"1589eb142f9f5eed31851ea1e57a4762",
+    "wof:geomhash":"0078e9361196186c46366cd4f76d58d4",
     "wof:hierarchy":[
         {
             "country_id":85632509,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":1209198353,
-    "wof:lastmodified":1536294696,
+    "wof:lastmodified":1566680764,
     "wof:name":"Matabang",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
 },
   "bbox": [
     123.41972,
-    7.781110000000001,
+    7.78111,
     123.41972,
-    7.781110000000001
+    7.78111
 ],
   "geometry": {"coordinates":[123.41972,7.78111],"type":"Point"}
 }

@@ -11,14 +11,18 @@
     "geom:longitude":119.9067,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2257,
+    "gn:population":2257,
     "iso:country":"PH",
+    "lbl:bbox":"119.8867,15.7202,119.9267,15.7602",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Biay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Viay"
     ],
     "qs:name":"Biay",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1680036,
         "gp:id":1192290,
-        "qs:id":86310
+        "qs_pg:id":86310
     },
     "wof:country":"PH",
     "wof:created":1469052730,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450211,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682190,
     "wof:name":"Biay",
     "wof:parent_id":1108699357,
     "wof:placetype":"locality",

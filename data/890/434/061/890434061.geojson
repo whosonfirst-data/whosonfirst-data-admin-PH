@@ -11,10 +11,14 @@
     "geom:longitude":121.0147,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3152,
+    "gn:population":3152,
     "iso:country":"PH",
+    "lbl:bbox":"120.9947,14.9422,121.0347,14.9822",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Pulo"
     ],
@@ -36,9 +40,6 @@
     "name:swe_x_preferred":[
         "Pulo"
     ],
-    "name:unk_x_variant":[
-        "Polo"
-    ],
     "qs:name":"Pulo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -55,7 +56,7 @@
     "wof:concordances":{
         "gn:id":1692550,
         "gp:id":91464400,
-        "qs:id":134506,
+        "qs_pg:id":134506,
         "wk:page":"Pulo"
     },
     "wof:country":"PH",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":890434061,
-    "wof:lastmodified":1564178984,
+    "wof:lastmodified":1566682159,
     "wof:name":"Pulo",
     "wof:parent_id":1108699305,
     "wof:placetype":"locality",

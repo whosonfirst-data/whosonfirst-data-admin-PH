@@ -11,10 +11,14 @@
     "geom:longitude":121.60065,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":6352,
+    "gn:population":6352,
     "iso:country":"PH",
+    "lbl:bbox":"121.58065,18.04519,121.62065,18.08519",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Lasam"
     ],
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":1707204,
         "gp:id":91423204,
-        "qs:id":277107,
+        "qs_pg:id":277107,
         "wd:id":"Q49321"
     },
     "wof:country":"PH",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890431787,
-    "wof:lastmodified":1563332163,
+    "wof:lastmodified":1566682006,
     "wof:name":"Lasam",
     "wof:parent_id":1108698023,
     "wof:placetype":"locality",

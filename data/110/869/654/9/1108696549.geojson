@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.504353,
     "lbl:longitude":118.495689,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"PALAWAN",
     "meso:admin_1r":"MIMAROPA",
     "meso:diss_me":"ABORLANPALAWAN",
@@ -32,6 +34,7 @@
     "mps:longitude":118.495689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Aborlan"
     ],
@@ -81,7 +84,7 @@
         "Aborlan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108696549,
-    "wof:lastmodified":1564177199,
+    "wof:lastmodified":1566681241,
     "wof:name":"Aborlan",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

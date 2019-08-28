@@ -11,10 +11,14 @@
     "geom:longitude":120.8166,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":19705,
+    "gn:population":19705,
     "iso:country":"PH",
+    "lbl:bbox":"120.7166,16.8667,120.9166,17.0667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Tadian"
     ],
@@ -60,7 +64,7 @@
     "name:tgl_x_preferred":[
         "Tadian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cayan"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1684673,
-        "qs:id":86495
+        "qs_pg:id":86495
     },
     "wof:country":"PH",
     "wof:created":1469051848,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890430329,
-    "wof:lastmodified":1564178605,
+    "wof:lastmodified":1566681946,
     "wof:name":"Tadian",
     "wof:parent_id":1108699599,
     "wof:placetype":"localadmin",

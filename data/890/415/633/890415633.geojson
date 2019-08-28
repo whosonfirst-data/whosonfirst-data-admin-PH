@@ -11,10 +11,14 @@
     "geom:longitude":121.01041,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2698,
+    "gn:population":2698,
     "iso:country":"PH",
+    "lbl:bbox":"120.99041,12.44084,121.03041,12.48084",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Bulalacao"
     ],
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1688761,
-        "qs:id":134301,
+        "qs_pg:id":134301,
         "wd:id":"Q107554",
         "wk:page":"San Pedro"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890415633,
-    "wof:lastmodified":1563331863,
+    "wof:lastmodified":1566681912,
     "wof:name":"San Pedro",
     "wof:parent_id":1108699215,
     "wof:placetype":"locality",

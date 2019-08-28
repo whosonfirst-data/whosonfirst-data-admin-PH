@@ -9,23 +9,23 @@
     "geom:bbox":"121.76945,17.48642,121.76945,17.48642",
     "geom:latitude":17.48642,
     "geom:longitude":121.76945,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":2671,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":2671,
     "iso:country":"PH",
+    "lbl:bbox":"121.74945,17.46642,121.78945,17.50642",
     "lbl:latitude":17.48642,
     "lbl:longitude":121.76945,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fil_x_preferred":[
         "Calamagui"
     ],
     "name:fil_x_variant":[
-        "Calamagin"
-    ],
-    "name:unk_x_variant":[
         "Calamagin"
     ],
     "qs_pg:aaroncc":"PH",
@@ -40,7 +40,7 @@
     "qs_pg:qs_id":88113,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1125848401,
-    "wof:lastmodified":1509395777,
+    "wof:lastmodified":1566682312,
     "wof:name":"Calamagui",
     "wof:parent_id":1108699385,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":123.7679,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2779,
+    "gn:population":2779,
     "iso:country":"PH",
+    "lbl:bbox":"123.7479,11.1316,123.7879,11.1716",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Maricaban"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1700962,
         "gp:id":1182465,
-        "qs:id":134854
+        "qs_pg:id":134854
     },
     "wof:country":"PH",
     "wof:created":1469052817,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452455,
-    "wof:lastmodified":1505343645,
+    "wof:lastmodified":1566681964,
     "wof:name":"Maricaban",
     "wof:parent_id":1108696891,
     "wof:placetype":"locality",

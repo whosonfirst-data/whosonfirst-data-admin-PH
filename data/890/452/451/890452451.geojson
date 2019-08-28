@@ -11,10 +11,14 @@
     "geom:longitude":123.72281,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2111,
+    "gn:population":2111,
     "iso:country":"PH",
+    "lbl:bbox":"123.70281,12.26554,123.74281,12.30554",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Marintoc"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1700892,
         "gp:id":1159072,
-        "qs:id":134852
+        "qs_pg:id":134852
     },
     "wof:country":"PH",
     "wof:created":1469052817,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452451,
-    "wof:lastmodified":1505343645,
+    "wof:lastmodified":1566681970,
     "wof:name":"Marintoc",
     "wof:parent_id":1108698487,
     "wof:placetype":"locality",

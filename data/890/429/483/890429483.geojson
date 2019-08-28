@@ -11,10 +11,14 @@
     "geom:longitude":126.4907,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2410,
+    "gn:population":2410,
     "iso:country":"PH",
+    "lbl:bbox":"126.4707,7.5334,126.5107,7.5734",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Batiano"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1726219,
         "gp:id":91427615,
-        "qs:id":277373
+        "qs_pg:id":277373
     },
     "wof:country":"PH",
     "wof:created":1469051816,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429483,
-    "wof:lastmodified":1505343513,
+    "wof:lastmodified":1566682083,
     "wof:name":"Batiano",
     "wof:parent_id":1108696783,
     "wof:placetype":"locality",

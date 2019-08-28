@@ -11,17 +11,18 @@
     "geom:longitude":121.0733,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3381,
+    "gn:population":3381,
     "iso:country":"PH",
+    "lbl:bbox":"121.0533,15.0282,121.0933,15.0682",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Akle"
     ],
     "name:fil_x_variant":[
-        "Acle"
-    ],
-    "name:unk_x_variant":[
         "Acle"
     ],
     "qs:name":"Akle",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1731757,
         "gp:id":1158470,
-        "qs:id":558442
+        "qs_pg:id":558442
     },
     "wof:country":"PH",
     "wof:created":1469052505,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890445307,
-    "wof:lastmodified":1505343604,
+    "wof:lastmodified":1566682116,
     "wof:name":"Akle",
     "wof:parent_id":1108699175,
     "wof:placetype":"locality",

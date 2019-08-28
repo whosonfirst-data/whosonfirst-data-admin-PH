@@ -11,11 +11,15 @@
     "geom:longitude":121.71667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":7062,
+    "gn:population":7062,
     "iso:country":"PH",
+    "lbl:bbox":"121.69667,14.69667,121.73667,14.73667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Binutasan"
     ],
     "qs:name":"Dinahican",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1714784,
-        "qs:id":1032839
+        "qs_pg:id":1032839
     },
     "wof:country":"PH",
     "wof:created":1469052204,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890438659,
-    "wof:lastmodified":1505343566,
+    "wof:lastmodified":1566682013,
     "wof:name":"Dinahican",
     "wof:parent_id":1108697767,
     "wof:placetype":"locality",

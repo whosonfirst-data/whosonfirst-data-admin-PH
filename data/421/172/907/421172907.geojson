@@ -10,8 +10,12 @@
     "geom:latitude":12.0686,
     "geom:longitude":124.5695,
     "iso:country":"PH",
+    "lbl:bbox":"124.5495,12.0486,124.5895,12.0886",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fil_x_preferred":[
         "San Policarpo"
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":1688697,
         "gp:id":1191703,
-        "qs:id":484772
+        "qs_pg:id":484772
     },
     "wof:country":"PH",
     "wof:created":1459008959,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421172907,
-    "wof:lastmodified":1505340615,
+    "wof:lastmodified":1566681830,
     "wof:name":"San Policarpio",
     "wof:parent_id":1108697221,
     "wof:placetype":"locality",

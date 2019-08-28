@@ -11,10 +11,14 @@
     "geom:longitude":121.2,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":56978,
+    "gn:population":56978,
     "iso:country":"PH",
+    "lbl:bbox":"121.1,16.43333,121.3,16.63333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Solano"
     ],
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1685876,
-        "qs:id":1030991,
+        "qs_pg:id":1030991,
         "wk:page":"Solano"
     },
     "wof:country":"PH",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890443623,
-    "wof:lastmodified":1564178844,
+    "wof:lastmodified":1566682074,
     "wof:name":"Solano",
     "wof:parent_id":1108699537,
     "wof:placetype":"localadmin",

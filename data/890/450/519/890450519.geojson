@@ -11,10 +11,14 @@
     "geom:longitude":121.31052,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2295,
+    "gn:population":2295,
     "iso:country":"PH",
+    "lbl:bbox":"121.29052,18.49646,121.33052,18.53646",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -175,7 +179,7 @@
     "wof:concordances":{
         "gn:id":1688217,
         "gp:id":91464506,
-        "qs:id":86662,
+        "qs_pg:id":86662,
         "wk:page":"Santa Cruz"
     },
     "wof:country":"PH",
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":890450519,
-    "wof:lastmodified":1564179062,
+    "wof:lastmodified":1566682199,
     "wof:name":"Santa Cruz",
     "wof:parent_id":1108698757,
     "wof:placetype":"locality",

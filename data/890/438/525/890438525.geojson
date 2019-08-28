@@ -11,10 +11,14 @@
     "geom:longitude":121.15108,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":38191,
+    "gn:population":38191,
     "iso:country":"PH",
+    "lbl:bbox":"121.05108,13.93557,121.25108,14.13557",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fil_x_preferred":[
         "Malvar"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1702415,
-        "qs:id":1031126
+        "qs_pg:id":1031126
     },
     "wof:country":"PH",
     "wof:created":1469052198,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890438525,
-    "wof:lastmodified":1505343565,
+    "wof:lastmodified":1566682021,
     "wof:name":"Malvar",
     "wof:parent_id":1108698329,
     "wof:placetype":"localadmin",

@@ -11,11 +11,15 @@
     "geom:longitude":120.86667,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3476,
+    "gn:population":3476,
     "iso:country":"PH",
+    "lbl:bbox":"120.84667,15.24667,120.88667,15.28667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Buliran"
     ],
     "qs:name":"Buliran Segundo",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1722860,
         "gp:id":1187222,
-        "qs:id":277339
+        "qs_pg:id":277339
     },
     "wof:country":"PH",
     "wof:created":1469051921,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431925,
-    "wof:lastmodified":1505343526,
+    "wof:lastmodified":1566681995,
     "wof:name":"Buliran Segundo",
     "wof:parent_id":1108699115,
     "wof:placetype":"locality",

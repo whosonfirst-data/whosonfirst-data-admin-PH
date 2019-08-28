@@ -11,10 +11,14 @@
     "geom:longitude":123.6738,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":10971,
+    "gn:population":10971,
     "iso:country":"PH",
+    "lbl:bbox":"123.6538,10.0969,123.6938,10.1369",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Perrelos"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1694028,
         "gp:id":1187554,
-        "qs:id":86994
+        "qs_pg:id":86994
     },
     "wof:country":"PH",
     "wof:created":1469052754,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450801,
-    "wof:lastmodified":1505343636,
+    "wof:lastmodified":1566682215,
     "wof:name":"Perrelos",
     "wof:parent_id":1108697281,
     "wof:placetype":"locality",

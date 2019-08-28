@@ -11,10 +11,14 @@
     "geom:longitude":124.3066,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2338,
+    "gn:population":2338,
     "iso:country":"PH",
+    "lbl:bbox":"124.2866,10.5697,124.3266,10.6097",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ady_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
@@ -512,7 +516,7 @@
     "wof:concordances":{
         "gn:id":1687827,
         "gp:id":1192728,
-        "qs:id":134249,
+        "qs_pg:id":134249,
         "wk:page":"Santiago"
     },
     "wof:country":"PH",
@@ -535,7 +539,7 @@
         }
     ],
     "wof:id":890432141,
-    "wof:lastmodified":1564179178,
+    "wof:lastmodified":1566682248,
     "wof:name":"Santiago",
     "wof:parent_id":1108698607,
     "wof:placetype":"locality",

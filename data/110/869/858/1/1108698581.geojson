@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.986365,
     "lbl:longitude":121.914709,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"AKLAN",
     "meso:admin_1r":"WESTERN VISAYAS REGION",
     "meso:diss_me":"NO DATAAKLAN",
@@ -32,6 +34,7 @@
     "mps:longitude":121.914709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Malay"
     ],
@@ -84,7 +87,7 @@
         "Malay"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108698581,
-    "wof:lastmodified":1564176927,
+    "wof:lastmodified":1566681149,
     "wof:name":"Malay",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

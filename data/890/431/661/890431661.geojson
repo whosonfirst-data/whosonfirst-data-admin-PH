@@ -11,10 +11,14 @@
     "geom:longitude":120.4722,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2558,
+    "gn:population":2558,
     "iso:country":"PH",
+    "lbl:bbox":"120.4522,17.4241,120.4922,17.4641",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Quinarayan"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1692063,
         "gp:id":1189039,
-        "qs:id":276936
+        "qs_pg:id":276936
     },
     "wof:country":"PH",
     "wof:created":1469051902,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431661,
-    "wof:lastmodified":1505343525,
+    "wof:lastmodified":1566681992,
     "wof:name":"Quinarayan",
     "wof:parent_id":1108698555,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":119.77306,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":26518,
+    "gn:population":26518,
     "iso:country":"PH",
+    "lbl:bbox":"119.75306,5.00917,119.79306,5.04917",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:bcl_x_preferred":[
         "Bongao"
     ],
@@ -66,7 +70,7 @@
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e19\u0e40\u0e01\u0e32"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bangaw"
     ],
     "name:urd_x_preferred":[
@@ -99,11 +103,11 @@
     "wof:concordances":{
         "gn:id":1724088,
         "gp:id":1198943,
-        "qs:id":846252,
+        "qs_pg:id":846252,
         "wd:id":"Q155195"
     },
     "wof:concordances_alt":{
-        "qs:id":894051
+        "qs_pg:id":894051
     },
     "wof:country":"PH",
     "wof:created":1469052190,
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890438345,
-    "wof:lastmodified":1563332223,
+    "wof:lastmodified":1566682021,
     "wof:name":"Bongao",
     "wof:parent_id":1108697051,
     "wof:placetype":"locality",

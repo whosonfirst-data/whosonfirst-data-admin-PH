@@ -11,10 +11,14 @@
     "geom:longitude":120.3695,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2558,
+    "gn:population":2558,
     "iso:country":"PH",
+    "lbl:bbox":"120.3495,17.51418,120.3895,17.55418",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "El Fuerte"
     ],
@@ -42,7 +46,7 @@
     "name:swe_x_preferred":[
         "El Fuerte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fuarte"
     ],
     "name:vie_x_preferred":[
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1713558,
         "gp:id":1186387,
-        "qs:id":1032809,
+        "qs_pg:id":1032809,
         "wk:page":"El Fuerte"
     },
     "wof:country":"PH",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890438657,
-    "wof:lastmodified":1564178732,
+    "wof:lastmodified":1566682013,
     "wof:name":"Fuerte",
     "wof:parent_id":1108699861,
     "wof:placetype":"locality",

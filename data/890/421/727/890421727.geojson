@@ -11,10 +11,14 @@
     "geom:longitude":124.37529,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2156,
+    "gn:population":2156,
     "iso:country":"PH",
+    "lbl:bbox":"124.35529,12.21686,124.39529,12.25686",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:amh_x_preferred":[
         "\u121b\u120b\u130b"
     ],
@@ -350,7 +354,7 @@
     "wof:concordances":{
         "gn:id":1703269,
         "gp:id":91422202,
-        "qs:id":277082,
+        "qs_pg:id":277082,
         "wk:page":"M\u00e1laga"
     },
     "wof:country":"PH",
@@ -366,7 +370,7 @@
         }
     ],
     "wof:id":890421727,
-    "wof:lastmodified":1564178792,
+    "wof:lastmodified":1566682044,
     "wof:name":"Malaga",
     "wof:parent_id":1108697221,
     "wof:placetype":"locality",

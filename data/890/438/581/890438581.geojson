@@ -11,10 +11,14 @@
     "geom:longitude":121.48901,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2541,
+    "gn:population":2541,
     "iso:country":"PH",
+    "lbl:bbox":"121.46901,12.54783,121.50901,12.58783",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0440\u044b\u0434\u0436\u044b\u0434\u0430"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1688368,
         "gp:id":1200056,
-        "qs:id":1032281,
+        "qs_pg:id":1032281,
         "wk:page":"Santa Brigida"
     },
     "wof:country":"PH",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890438581,
-    "wof:lastmodified":1564178733,
+    "wof:lastmodified":1566682014,
     "wof:name":"Santa Brigida",
     "wof:parent_id":1108699053,
     "wof:placetype":"locality",

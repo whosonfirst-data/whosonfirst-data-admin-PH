@@ -10,8 +10,12 @@
     "geom:latitude":6.45,
     "geom:longitude":121.96667,
     "iso:country":"PH",
+    "lbl:bbox":"121.94667,6.43,121.98667,6.47",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Sumisip"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Sumisip"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mangal"
     ],
     "name:urd_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1685297,
         "gp:id":1194340,
-        "qs:id":193648,
+        "qs_pg:id":193648,
         "wd:id":"Q802171"
     },
     "wof:country":"PH",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421199421,
-    "wof:lastmodified":1563331621,
+    "wof:lastmodified":1566681852,
     "wof:name":"Sumisip",
     "wof:parent_id":1108699567,
     "wof:placetype":"locality",

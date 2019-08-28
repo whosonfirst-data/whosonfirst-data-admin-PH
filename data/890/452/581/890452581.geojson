@@ -11,14 +11,18 @@
     "geom:longitude":125.40556,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2232,
+    "gn:population":2232,
     "iso:country":"PH",
+    "lbl:bbox":"125.38556,5.55167,125.42556,5.59167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bukid"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buquid"
     ],
     "qs:name":"Bukid",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":1722530,
         "gp:id":1199026,
-        "qs:id":135557
+        "qs_pg:id":135557
     },
     "wof:country":"PH",
     "wof:created":1469052822,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890452581,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681965,
     "wof:name":"Bukid",
     "wof:parent_id":1108697839,
     "wof:placetype":"locality",

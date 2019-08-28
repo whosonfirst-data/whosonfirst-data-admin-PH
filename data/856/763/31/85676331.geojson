@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":10.098925,
     "lbl:longitude":118.942219,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Puerto Princesa",
     "mps:latitude":10.09995,
     "mps:longitude":118.948002,
@@ -165,9 +166,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1941,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632509
@@ -203,7 +203,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326785,
+    "wof:lastmodified":1566679669,
     "wof:name":"Puerto Princesa",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

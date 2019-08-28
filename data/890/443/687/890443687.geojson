@@ -11,10 +11,14 @@
     "geom:longitude":123.83333,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":50306,
+    "gn:population":50306,
     "iso:country":"PH",
+    "lbl:bbox":"123.73333,9.7,123.93333,9.9",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u0635"
     ],
@@ -201,7 +205,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1705582,
-        "qs:id":1031158,
+        "qs_pg:id":1031158,
         "wd:id":"Q3758978",
         "wk:page":"Loon"
     },
@@ -218,7 +222,7 @@
         }
     ],
     "wof:id":890443687,
-    "wof:lastmodified":1563332362,
+    "wof:lastmodified":1566682062,
     "wof:name":"Loon",
     "wof:parent_id":1108698117,
     "wof:placetype":"localadmin",

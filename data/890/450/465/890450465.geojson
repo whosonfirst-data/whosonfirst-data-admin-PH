@@ -11,10 +11,14 @@
     "geom:longitude":123.482,
     "gn:country":"PH",
     "gn:fcode":"ADM3",
-    "gn:pop":16941,
+    "gn:population":16941,
     "iso:country":"PH",
+    "lbl:bbox":"123.382,8.5085,123.582,8.7085",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:bcl_x_preferred":[
         "Sibutad"
     ],
@@ -60,9 +64,6 @@
     "name:tgl_x_preferred":[
         "Sibutad"
     ],
-    "name:unk_x_variant":[
-        "Sibutad"
-    ],
     "name:vie_x_preferred":[
         "Sibutad"
     ],
@@ -84,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1686713,
-        "qs:id":86583,
+        "qs_pg:id":86583,
         "wd:id":"Q132601",
         "wk:page":"Sibutad, Zamboanga del Norte"
     },
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890450465,
-    "wof:lastmodified":1563332803,
+    "wof:lastmodified":1566682198,
     "wof:name":"Municipality of Sibutad",
     "wof:parent_id":1108699481,
     "wof:placetype":"localadmin",

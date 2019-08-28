@@ -11,17 +11,18 @@
     "geom:longitude":121.7411,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2625,
+    "gn:population":2625,
     "iso:country":"PH",
+    "lbl:bbox":"121.7211,17.5554,121.7611,17.5954",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Magalalag"
     ],
     "name:fil_x_variant":[
-        "Magalalab"
-    ],
-    "name:unk_x_variant":[
         "Magalalab"
     ],
     "qs:name":"Magalalag",
@@ -39,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1704070,
         "gp:id":1182319,
-        "qs:id":87400
+        "qs_pg:id":87400
     },
     "wof:country":"PH",
     "wof:created":1469052763,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":890451065,
-    "wof:lastmodified":1505343638,
+    "wof:lastmodified":1566682123,
     "wof:name":"Magalalag",
     "wof:parent_id":1108697567,
     "wof:placetype":"locality",

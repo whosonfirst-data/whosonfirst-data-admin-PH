@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.68659,13.8556,120.72659,13.8956",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baha"
     ],
@@ -52,11 +56,6 @@
     "name:swe_x_preferred":[
         "Baha"
     ],
-    "name:und_x_variant":[
-        "Baja",
-        "Bana",
-        "Baha"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632509
@@ -74,7 +73,7 @@
         }
     ],
     "wof:id":1209653525,
-    "wof:lastmodified":1564175406,
+    "wof:lastmodified":1566680487,
     "wof:name":"Baha",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",

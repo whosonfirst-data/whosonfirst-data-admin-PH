@@ -11,14 +11,18 @@
     "geom:longitude":125.26694,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":9789,
+    "gn:population":9789,
     "iso:country":"PH",
+    "lbl:bbox":"125.24694,5.89722,125.28694,5.93722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Sapu Padidu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sapu"
     ],
     "qs:name":"Sapu Padidu",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1687203,
         "gp:id":1175509,
-        "qs:id":86590
+        "qs_pg:id":86590
     },
     "wof:country":"PH",
     "wof:created":1469052740,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890450473,
-    "wof:lastmodified":1505343634,
+    "wof:lastmodified":1566682211,
     "wof:name":"Sapu Padidu",
     "wof:parent_id":1108698295,
     "wof:placetype":"locality",

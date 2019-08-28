@@ -11,11 +11,15 @@
     "geom:longitude":125.66028,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3446,
+    "gn:population":3446,
     "iso:country":"PH",
+    "lbl:bbox":"125.64028,7.34611,125.68028,7.38611",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mangalcal"
     ],
     "qs:name":"Manaloal",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1701874,
         "gp:id":1169852,
-        "qs:id":87307
+        "qs_pg:id":87307
     },
     "wof:country":"PH",
     "wof:created":1469052761,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890450993,
-    "wof:lastmodified":1505343637,
+    "wof:lastmodified":1566682206,
     "wof:name":"Manaloal",
     "wof:parent_id":1108697297,
     "wof:placetype":"locality",

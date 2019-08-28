@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":9.846594,
     "lbl:longitude":124.208791,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bohol",
     "mps:latitude":9.841255,
     "mps:longitude":124.228935,
@@ -313,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"4,117",
     "statoids:area_mi":"1,590",
     "statoids:as_of_date":"2010-05-01",
@@ -342,7 +343,7 @@
         "hasc:id":"PH.BO",
         "iso:id":"PH-BOH",
         "loc:id":"n82211832",
-        "qs:id":891525,
+        "qs_pg:id":891525,
         "unlc:id":"PH-BOH",
         "wd:id":"Q13752",
         "wk:page":"Bohol"
@@ -357,9 +358,6 @@
         }
     ],
     "wof:id":85675933,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -375,11 +373,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326873,
+    "wof:lastmodified":1566679696,
     "wof:name":"Bohol",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1255128,
     "wof:population_rank":12,

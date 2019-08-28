@@ -11,10 +11,14 @@
     "geom:longitude":119.9208,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2717,
+    "gn:population":2717,
     "iso:country":"PH",
+    "lbl:bbox":"119.9008,15.4361,119.9408,15.4761",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lipay"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1706044,
         "gp:id":1169704,
-        "qs:id":1032649
+        "qs_pg:id":1032649
     },
     "wof:country":"PH",
     "wof:created":1469052126,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436799,
-    "wof:lastmodified":1505343555,
+    "wof:lastmodified":1566681976,
     "wof:name":"Lipay",
     "wof:parent_id":1108698743,
     "wof:placetype":"locality",

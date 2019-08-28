@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":20.382324,
     "lbl:longitude":121.941182,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Batanes",
     "mps:latitude":20.37891,
     "mps:longitude":121.943759,
@@ -283,9 +284,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"209",
     "statoids:area_mi":"81",
     "statoids:as_of_date":"2010-05-01",
@@ -300,7 +301,6 @@
     "statoids:type":"province",
     "unlc:subdivision":"PH-BTN",
     "wd:wordcount":3274,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632509
@@ -312,7 +312,7 @@
         "gp:id":2346663,
         "hasc:id":"PH.BN",
         "iso:id":"PH-BTN",
-        "qs:id":1168728,
+        "qs_pg:id":1168728,
         "unlc:id":"PH-BTN",
         "wd:id":"Q13740",
         "wk:page":"Batanes"
@@ -327,9 +327,6 @@
         }
     ],
     "wof:id":85676043,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -345,11 +342,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326838,
+    "wof:lastmodified":1566679688,
     "wof:name":"Batanes",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":16604,
     "wof:population_rank":6,

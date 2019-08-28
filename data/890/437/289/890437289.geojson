@@ -11,11 +11,14 @@
     "geom:longitude":121.91932,
     "gn:country":"PH",
     "gn:fcode":"ISL",
-    "gn:pop":2300,
+    "gn:population":2300,
     "iso:country":"PH",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u0430\u043a\u0430\u0439"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7302402,
         "gp:id":91463654,
-        "qs:id":1063678
+        "qs_pg:id":1063678
     },
     "wof:country":"PH",
     "wof:created":1469052146,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890437289,
-    "wof:lastmodified":1505343558,
+    "wof:lastmodified":1566681949,
     "wof:name":"Boracay Island",
     "wof:parent_id":1108698581,
     "wof:placetype":"locality",

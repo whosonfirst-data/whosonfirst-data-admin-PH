@@ -11,10 +11,14 @@
     "geom:longitude":120.7116,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2288,
+    "gn:population":2288,
     "iso:country":"PH",
+    "lbl:bbox":"120.6916,16.5353,120.7316,16.5753",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Topdak"
     ],
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1681419,
         "gp:id":1197175,
-        "qs:id":133985
+        "qs_pg:id":133985
     },
     "wof:country":"PH",
     "wof:created":1469051996,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890433831,
-    "wof:lastmodified":1505343537,
+    "wof:lastmodified":1566682180,
     "wof:name":"Topdac",
     "wof:parent_id":1108696721,
     "wof:placetype":"locality",

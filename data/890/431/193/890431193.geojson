@@ -11,10 +11,14 @@
     "geom:longitude":123.3933,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":60548,
+    "gn:population":60548,
     "iso:country":"PH",
+    "lbl:bbox":"123.3733,10.55396,123.4133,10.59396",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:fil_x_preferred":[
         "Ualog"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1680505,
         "gp:id":1190841,
-        "qs:id":133936
+        "qs_pg:id":133936
     },
     "wof:country":"PH",
     "wof:created":1469051881,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890431193,
-    "wof:lastmodified":1505343522,
+    "wof:lastmodified":1566681988,
     "wof:name":"Ualog",
     "wof:parent_id":1108697215,
     "wof:placetype":"locality",

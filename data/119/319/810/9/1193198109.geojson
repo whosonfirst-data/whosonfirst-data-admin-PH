@@ -25,8 +25,12 @@
     "gn:population":300000,
     "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"121.06071,14.32267,121.10071,14.36267",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u0627\u0646"
     ],
@@ -93,9 +97,6 @@
     "name:tgl_x_variant":[
         "Bi\u00f1an"
     ],
-    "name:und_x_variant":[
-        "Bi\u00f1an"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0646\u06af\u0627\u0646"
     ],
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1193198109,
-    "wof:lastmodified":1564176456,
+    "wof:lastmodified":1566680948,
     "wof:name":"Binan",
     "wof:parent_id":1108697007,
     "wof:placetype":"locality",

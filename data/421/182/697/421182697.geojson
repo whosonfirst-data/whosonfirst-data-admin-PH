@@ -10,8 +10,12 @@
     "geom:latitude":13.7917,
     "geom:longitude":121.0085,
     "iso:country":"PH",
+    "lbl:bbox":"120.9885,13.7717,121.0285,13.8117",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Bauan"
@@ -113,10 +117,12 @@
     "wof:concordances":{
         "gn:id":1725990,
         "gp:id":1198898,
-        "qs:id":980498,
         "qs_pg:id":88311,
         "wd:id":"Q59272",
         "wk:page":"Bauan, Batangas"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":980498
     },
     "wof:country":"PH",
     "wof:created":1459009339,
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421182697,
-    "wof:lastmodified":1563331751,
+    "wof:lastmodified":1566681879,
     "wof:name":"Bauan",
     "wof:parent_id":1108696955,
     "wof:placetype":"locality",

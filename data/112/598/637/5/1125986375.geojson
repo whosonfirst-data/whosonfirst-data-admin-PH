@@ -9,15 +9,18 @@
     "geom:bbox":"125.32083,6.79194,125.32083,6.79194",
     "geom:latitude":6.79194,
     "geom:longitude":125.32083,
-    "gn:gn_country":"PH",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4275,
+    "gn:country":"PH",
+    "gn:fcode":"PPL",
     "gn:population":4275,
     "iso:country":"PH",
+    "lbl:bbox":"125.30083,6.77194,125.34083,6.81194",
     "lbl:latitude":6.79194,
     "lbl:longitude":125.32083,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:afr_x_preferred":[
         "Goma"
@@ -142,7 +145,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guma"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +172,7 @@
     "qs_pg:qs_id":277189,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":1125986375,
-    "wof:lastmodified":1564179255,
+    "wof:lastmodified":1566682284,
     "wof:name":"Goma",
     "wof:parent_id":1108697475,
     "wof:placetype":"locality",

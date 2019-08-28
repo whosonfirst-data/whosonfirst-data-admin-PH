@@ -11,10 +11,14 @@
     "geom:longitude":123.2235,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2462,
+    "gn:population":2462,
     "iso:country":"PH",
+    "lbl:bbox":"123.2035,13.5523,123.2435,13.5923",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tariric"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1682819,
-        "qs:id":86426
+        "qs_pg:id":86426
     },
     "wof:country":"PH",
     "wof:created":1469052734,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890450303,
-    "wof:lastmodified":1505343633,
+    "wof:lastmodified":1566682205,
     "wof:name":"Tariric",
     "wof:parent_id":1108698483,
     "wof:placetype":"locality",

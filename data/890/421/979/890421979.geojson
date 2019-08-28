@@ -11,10 +11,14 @@
     "geom:longitude":120.3761,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"PH",
+    "lbl:bbox":"120.3561,16.8328,120.3961,16.8728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "Luna"
     ],
@@ -73,9 +77,6 @@
     "name:tgl_x_preferred":[
         "Luna"
     ],
-    "name:unk_x_variant":[
-        "Antatet"
-    ],
     "name:vie_x_preferred":[
         "Luna"
     ],
@@ -101,10 +102,12 @@
     "wof:concordances":{
         "gn:id":1705096,
         "gp:id":1162619,
-        "qs:id":135033,
         "qs_pg:id":87453,
         "wd:id":"Q40419",
         "wk:page":"Luna"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":135033
     },
     "wof:country":"PH",
     "wof:created":1469051422,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890421979,
-    "wof:lastmodified":1563332272,
+    "wof:lastmodified":1566682037,
     "wof:name":"Luna",
     "wof:parent_id":1108698161,
     "wof:placetype":"locality",

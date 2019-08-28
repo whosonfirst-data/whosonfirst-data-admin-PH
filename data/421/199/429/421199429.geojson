@@ -10,8 +10,12 @@
     "geom:latitude":7.57389,
     "geom:longitude":126.56,
     "iso:country":"PH",
+    "lbl:bbox":"126.54,7.55389,126.58,7.59389",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Baganga"
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0491\u0430\u043d\u0491\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Central"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":1729181,
         "gp:id":1198828,
-        "qs:id":193660,
+        "qs_pg:id":193660,
         "wd:id":"Q314522",
         "wk:page":"Baganga, Davao Oriental"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421199429,
-    "wof:lastmodified":1563331622,
+    "wof:lastmodified":1566681852,
     "wof:name":"Baganga",
     "wof:parent_id":1108696783,
     "wof:placetype":"locality",

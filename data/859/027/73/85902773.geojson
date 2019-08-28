@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000266,
-    "geom:area_square_m":3179758.681789,
+    "geom:area_square_m":3179758.681787,
     "geom:bbox":"121.100534668,14.6792537338,121.120534668,14.697224531",
     "geom:latitude":14.688412,
     "geom:longitude":121.111089,
@@ -13,6 +13,7 @@
     "iso:country":"PH",
     "lbl:latitude":14.687224,
     "lbl:longitude":121.110535,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.6892,
     "mps:longitude":121.111279,
     "mz:hierarchy_label":1,
@@ -25,9 +26,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
-        "Camp Murphy"
-    ],
-    "name:unk_x_variant":[
         "Camp Murphy"
     ],
     "qs:gn_adm0_cc":"PH",
@@ -55,7 +53,7 @@
     "qs:woe_ver":"7.10.0",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":48,
     "wof:belongsto":[
         102191569,
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1168148,
-        "qs:id":1168284
+        "qs_pg:id":1168284
     },
     "wof:country":"PH",
     "wof:geomhash":"2a3eac9b4d2369c94c853e009ca3aaa0",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1532556616,
+    "wof:lastmodified":1566679666,
     "wof:name":"Camp Murphy",
     "wof:parent_id":1159397279,
     "wof:placetype":"neighbourhood",

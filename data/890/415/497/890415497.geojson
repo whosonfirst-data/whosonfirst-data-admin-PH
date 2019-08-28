@@ -11,14 +11,18 @@
     "geom:longitude":124.10806,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3137,
+    "gn:population":3137,
     "iso:country":"PH",
+    "lbl:bbox":"124.08806,8.1675,124.12806,8.2075",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Tacub"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Takub"
     ],
     "qs:name":"Tacub",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1684190,
         "gp:id":1199290,
-        "qs:id":134103
+        "qs_pg:id":134103
     },
     "wof:country":"PH",
     "wof:created":1469051091,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415497,
-    "wof:lastmodified":1505343426,
+    "wof:lastmodified":1566681913,
     "wof:name":"Tacub",
     "wof:parent_id":1108697907,
     "wof:placetype":"locality",

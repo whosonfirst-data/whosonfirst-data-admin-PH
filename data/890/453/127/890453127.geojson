@@ -11,10 +11,14 @@
     "geom:longitude":117.8183,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2304,
+    "gn:population":2304,
     "iso:country":"PH",
+    "lbl:bbox":"117.7983,8.8236,117.8383,8.8636",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Mainit"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1703521,
         "gp:id":91426706,
-        "qs:id":1032495
+        "qs_pg:id":1032495
     },
     "wof:country":"PH",
     "wof:created":1469052842,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890453127,
-    "wof:lastmodified":1505343649,
+    "wof:lastmodified":1566682029,
     "wof:name":"Mainit",
     "wof:parent_id":1108697069,
     "wof:placetype":"locality",

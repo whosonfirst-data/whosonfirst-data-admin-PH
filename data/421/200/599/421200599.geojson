@@ -10,8 +10,12 @@
     "geom:latitude":11.60806,
     "geom:longitude":125.43194,
     "iso:country":"PH",
+    "lbl:bbox":"125.41194,11.58806,125.45194,11.62806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0648\u0646\u063a\u0627\u0646"
@@ -185,7 +189,7 @@
     "wof:concordances":{
         "gn:id":1723893,
         "gp:id":1198948,
-        "qs:id":1315380,
+        "qs_pg:id":1315380,
         "wd:id":"Q894059",
         "wk:page":"Borongan"
     },
@@ -202,7 +206,7 @@
         }
     ],
     "wof:id":421200599,
-    "wof:lastmodified":1563331638,
+    "wof:lastmodified":1566681856,
     "wof:name":"Borongan",
     "wof:parent_id":1108697061,
     "wof:placetype":"locality",

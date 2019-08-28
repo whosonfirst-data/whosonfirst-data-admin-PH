@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.983533,
     "lbl:longitude":125.340034,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"EASTERN SAMAR",
     "meso:admin_1r":"EASTERN VISAYAS REGION",
     "meso:diss_me":"CAN-AVIDEASTERN SAMAR",
@@ -32,6 +34,7 @@
     "mps:longitude":125.340034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bcl_x_preferred":[
         "Can-avid"
     ],
@@ -78,7 +81,7 @@
         "Can-avid"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108697241,
-    "wof:lastmodified":1564177007,
+    "wof:lastmodified":1566681172,
     "wof:name":"Can-avid",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

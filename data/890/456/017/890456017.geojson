@@ -11,14 +11,18 @@
     "geom:longitude":124.9364,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2948,
+    "gn:population":2948,
     "iso:country":"PH",
+    "lbl:bbox":"124.9164,10.7721,124.9564,10.8121",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Bugho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bugno"
     ],
     "qs:name":"Bugho",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1710246,
         "gp:id":1175235,
-        "qs:id":558768
+        "qs_pg:id":558768
     },
     "wof:country":"PH",
     "wof:created":1469052989,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890456017,
-    "wof:lastmodified":1505343667,
+    "wof:lastmodified":1566682117,
     "wof:name":"Bugho",
     "wof:parent_id":1108697817,
     "wof:placetype":"locality",

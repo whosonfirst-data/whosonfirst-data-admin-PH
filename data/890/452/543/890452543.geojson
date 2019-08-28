@@ -11,10 +11,14 @@
     "geom:longitude":124.08917,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3380,
+    "gn:population":3380,
     "iso:country":"PH",
+    "lbl:bbox":"124.06917,6.43944,124.10917,6.47944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Kulaman"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":1708485,
         "gp:id":91797144,
-        "qs:id":135162
+        "qs_pg:id":135162
     },
     "wof:country":"PH",
     "wof:created":1469052821,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890452543,
-    "wof:lastmodified":1505343646,
+    "wof:lastmodified":1566681965,
     "wof:name":"Kulaman",
     "wof:parent_id":1108697875,
     "wof:placetype":"locality",

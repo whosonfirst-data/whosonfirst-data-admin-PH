@@ -11,14 +11,18 @@
     "geom:longitude":122.9881,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":3531,
+    "gn:population":3531,
     "iso:country":"PH",
+    "lbl:bbox":"122.9681,8.3045,123.0081,8.3445",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Siari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Siare"
     ],
     "qs:name":"Siari",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":1686878,
         "gp:id":1186017,
-        "qs:id":134195
+        "qs_pg:id":134195
     },
     "wof:country":"PH",
     "wof:created":1469051094,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890415571,
-    "wof:lastmodified":1505343427,
+    "wof:lastmodified":1566681930,
     "wof:name":"Siari",
     "wof:parent_id":1108699507,
     "wof:placetype":"locality",

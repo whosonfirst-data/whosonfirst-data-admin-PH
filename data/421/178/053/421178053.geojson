@@ -10,8 +10,12 @@
     "geom:latitude":8.58889,
     "geom:longitude":124.77556,
     "iso:country":"PH",
+    "lbl:bbox":"124.75556,8.56889,124.79556,8.60889",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Villanueva"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":1679873,
         "gp:id":1198413,
-        "qs:id":276764,
+        "qs_pg:id":276764,
         "wd:id":"Q195937",
         "wk:page":"Villanueva, Misamis Oriental"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421178053,
-    "wof:lastmodified":1561778721,
+    "wof:lastmodified":1566681870,
     "wof:name":"Villanueva",
     "wof:parent_id":1108699867,
     "wof:placetype":"locality",

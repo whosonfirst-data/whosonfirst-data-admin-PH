@@ -11,10 +11,14 @@
     "geom:longitude":121.9926,
     "gn:country":"PH",
     "gn:fcode":"PPLA3",
-    "gn:pop":3389,
+    "gn:population":3389,
     "iso:country":"PH",
+    "lbl:bbox":"121.9726,12.2405,122.0126,12.2805",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Looc"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1705645,
         "gp:id":91426045,
-        "qs:id":1032624,
+        "qs_pg:id":1032624,
         "wd:id":"Q174607"
     },
     "wof:country":"PH",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890417851,
-    "wof:lastmodified":1563332311,
+    "wof:lastmodified":1566682047,
     "wof:name":"Looc",
     "wof:parent_id":1108698115,
     "wof:placetype":"locality",

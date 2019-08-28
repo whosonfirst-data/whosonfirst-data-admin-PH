@@ -10,8 +10,12 @@
     "geom:latitude":15.7778,
     "geom:longitude":120.8111,
     "iso:country":"PH",
+    "lbl:bbox":"120.7911,15.7578,120.8311,15.7978",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Talugtug"
@@ -77,9 +81,6 @@
     "name:tgl_x_preferred":[
         "Talugtug"
     ],
-    "name:unk_x_variant":[
-        "San Isidro"
-    ],
     "name:vie_x_preferred":[
         "Talugtug"
     ],
@@ -117,7 +118,7 @@
     "wof:concordances":{
         "gn:id":1683718,
         "gp:id":1195444,
-        "qs:id":193653,
+        "qs_pg:id":193653,
         "wd:id":"Q55593",
         "wk:page":"Talugtug, Nueva Ecija"
     },
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421169899,
-    "wof:lastmodified":1563331415,
+    "wof:lastmodified":1566681804,
     "wof:name":"Talogtog",
     "wof:parent_id":1108699651,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.40591,
     "geom:longitude":122.08371,
     "iso:country":"PH",
+    "lbl:bbox":"122.06371,11.38591,122.10371,11.42591",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bcl_x_preferred":[
         "Valderrama"
@@ -70,7 +74,7 @@
     "name:tgl_x_preferred":[
         "Valderrama"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Valderama"
     ],
     "name:urd_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":1680125,
         "gp:id":1199967,
-        "qs:id":193702,
+        "qs_pg:id":193702,
         "wd:id":"Q492862"
     },
     "wof:country":"PH",
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421199441,
-    "wof:lastmodified":1563331615,
+    "wof:lastmodified":1566681850,
     "wof:name":"Valderrama",
     "wof:parent_id":1108697405,
     "wof:placetype":"locality",

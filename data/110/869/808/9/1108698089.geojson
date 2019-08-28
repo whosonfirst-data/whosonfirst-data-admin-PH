@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.105404,
     "lbl:longitude":125.190416,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SOUTHERN LEYTE",
     "meso:admin_1r":"EASTERN VISAYAS REGION",
     "meso:diss_me":"LILOANSOUTHERN LEYTE",
@@ -32,6 +34,7 @@
     "mps:longitude":125.190416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Liloan"
     ],
@@ -51,7 +54,7 @@
         "Liloan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108698089,
-    "wof:lastmodified":1564177188,
+    "wof:lastmodified":1566681236,
     "wof:name":"Liloan",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

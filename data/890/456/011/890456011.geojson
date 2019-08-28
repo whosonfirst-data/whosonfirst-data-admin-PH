@@ -11,10 +11,14 @@
     "geom:longitude":121.89775,
     "gn:country":"PH",
     "gn:fcode":"PPL",
-    "gn:pop":2849,
+    "gn:population":2849,
     "iso:country":"PH",
+    "lbl:bbox":"121.87775,17.696,121.91775,17.736",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Lappi"
     ],
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1707316,
-        "qs:id":558766
+        "qs_pg:id":558766
     },
     "wof:country":"PH",
     "wof:created":1469052989,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890456011,
-    "wof:lastmodified":1505343667,
+    "wof:lastmodified":1566682117,
     "wof:name":"Lapi",
     "wof:parent_id":1108698851,
     "wof:placetype":"locality",

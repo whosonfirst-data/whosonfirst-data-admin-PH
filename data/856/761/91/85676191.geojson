@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":12.126807,
     "lbl:longitude":125.26326,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Eastern Samar",
     "mps:latitude":12.129247,
     "mps:longitude":125.305583,
@@ -180,7 +181,7 @@
         "\u00d6stra Samar"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1   \u0b9a\u0bbe\u0bae\u0bb0\u0bcd"
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0b9a\u0bbe\u0bae\u0bb0\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c38\u0c2e\u0c30\u0c4d"
@@ -199,9 +200,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0421\u0430\u043c\u0430\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Samar Oriental"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0634\u0631\u0642\u06cc \u0633\u0627\u0645\u0627\u0631"
@@ -292,9 +290,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-05-01",
+    "src:population_date":"2010-05-01",
     "statoids:area_km":"4,340",
     "statoids:area_mi":"1,676",
     "statoids:as_of_date":"2010-05-01",
@@ -319,7 +317,7 @@
         "gp:id":2346678,
         "hasc:id":"PH.ES",
         "iso:id":"PH-EAS",
-        "qs:id":1159758,
+        "qs_pg:id":1159758,
         "wd:id":"Q13809",
         "wk:page":"Eastern Samar"
     },
@@ -333,9 +331,6 @@
         }
     ],
     "wof:id":85676191,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "fil"
@@ -351,11 +346,10 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1563326858,
+    "wof:lastmodified":1566679693,
     "wof:name":"Eastern Samar",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":428877,
     "wof:population_rank":10,
