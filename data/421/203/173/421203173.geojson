@@ -238,6 +238,7 @@
     "qs:woe_id":1200031,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wd:wordcount":2352,
@@ -259,6 +260,10 @@
     },
     "wof:country":"PH",
     "wof:created":1459010142,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c6518be8cfb5329bd4732ae229961dbc",
     "wof:hierarchy":[
         {
@@ -270,7 +275,7 @@
         }
     ],
     "wof:id":421203173,
-    "wof:lastmodified":1566681808,
+    "wof:lastmodified":1582346797,
     "wof:name":"Laoag C",
     "wof:parent_id":890442475,
     "wof:placetype":"locality",

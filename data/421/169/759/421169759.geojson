@@ -269,6 +269,7 @@
     "qs:woe_id":1187094,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wof:belongsto":[
@@ -286,6 +287,10 @@
     },
     "wof:country":"PH",
     "wof:created":1459008823,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"7873ef6619de8125f0d63ae0e6013e25",
     "wof:hierarchy":[
         {
@@ -296,7 +301,7 @@
         }
     ],
     "wof:id":421169759,
-    "wof:lastmodified":1561778702,
+    "wof:lastmodified":1582346797,
     "wof:name":"Pasay City",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",
