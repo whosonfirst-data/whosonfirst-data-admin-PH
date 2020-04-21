@@ -100,10 +100,16 @@
     "name:fra_x_preferred":[
         "Lu\u00e7on"
     ],
+    "name:frr_x_preferred":[
+        "Luzon"
+    ],
     "name:fry_x_preferred":[
         "Luzon"
     ],
     "name:gla_x_preferred":[
+        "Luzon"
+    ],
+    "name:gle_x_preferred":[
         "Luzon"
     ],
     "name:glg_x_preferred":[
@@ -162,6 +168,15 @@
     ],
     "name:kat_x_preferred":[
         "\u10da\u10e3\u10e1\u10dd\u10dc\u10d8"
+    ],
+    "name:kaz_cn_x_preferred":[
+        "\u0644\u06cb\u0633\u0648\u0646"
+    ],
+    "name:kaz_kz_x_preferred":[
+        "\u041b\u0443\u0441\u043e\u043d"
+    ],
+    "name:kaz_tr_x_preferred":[
+        "Lwson"
     ],
     "name:kaz_x_preferred":[
         "\u041b\u0443\u0441\u043e\u043d"
@@ -244,6 +259,9 @@
     "name:rus_x_preferred":[
         "\u041b\u0443\u0441\u043e\u043d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c69\u1c61\u1c73\u1c71"
+    ],
     "name:sco_x_preferred":[
         "Luzon"
     ],
@@ -256,8 +274,17 @@
     "name:spa_x_preferred":[
         "Luz\u00f3n"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041b\u0443\u0437\u043e\u043d"
+    ],
+    "name:srp_el_x_preferred":[
+        "Luzon"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0443\u0437\u043e\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Luzon"
     ],
     "name:swe_x_preferred":[
         "Luzon"
@@ -307,8 +334,8 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676101,
-        1108697277
+        1108697277,
+        85676101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -331,7 +358,7 @@
         }
     ],
     "wof:id":890432803,
-    "wof:lastmodified":1566682228,
+    "wof:lastmodified":1587427308,
     "wof:name":"Luzon",
     "wof:parent_id":1108697277,
     "wof:placetype":"locality",
