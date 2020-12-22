@@ -20,7 +20,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:max_zoom":11.0,
-    "mz:min_zoom":8.0,
+    "mz:min_zoom":2.7,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u0644\u0627"
     ],
@@ -34,6 +34,9 @@
         "\u0421\u0442\u0430\u043b\u0456\u0447\u043d\u044b \u0420\u044d\u0433\u0456\u0451\u043d"
     ],
     "name:ben_x_preferred":[
+        "\u09ae\u09cd\u09af\u09be\u09a8\u09bf\u09b2\u09be"
+    ],
+    "name:ben_x_variant":[
         "\u09ae\u09c7\u099f\u09cd\u09b0\u09cb \u09ae\u09be\u09a8\u09bf\u09b2\u09be"
     ],
     "name:bre_x_preferred":[
@@ -62,6 +65,9 @@
     ],
     "name:deu_x_variant":[
         "Metro Manila"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03af\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Manila"
@@ -94,6 +100,9 @@
         "Grand Manille"
     ],
     "name:hin_x_preferred":[
+        "\u092e\u0928\u0940\u0932\u093e"
+    ],
+    "name:hin_x_variant":[
         "\u092e\u0947\u091f\u094d\u0930\u094b \u092e\u0928\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
@@ -101,6 +110,9 @@
     ],
     "name:hrv_x_variant":[
         "Metro Manila"
+    ],
+    "name:hun_x_preferred":[
+        "Manila"
     ],
     "name:ilo_x_preferred":[
         "Manila"
@@ -120,10 +132,19 @@
     "name:ind_x_variant":[
         "Metro Manila"
     ],
+    "name:ita_x_preferred":[
+        "Manila"
+    ],
     "name:jpn_x_preferred":[
+        "\u30de\u30cb\u30e9\u5e02"
+    ],
+    "name:jpn_x_variant":[
         "\u30de\u30cb\u30e9\u9996\u90fd\u570f"
     ],
     "name:kor_x_preferred":[
+        "\ub9c8\ub2d0\ub77c"
+    ],
+    "name:kor_x_variant":[
         "\ub9c8\ub2d0\ub77c \ub300\ub3c4\uc2dc"
     ],
     "name:lat_x_preferred":[
@@ -152,6 +173,9 @@
     ],
     "name:mya_x_preferred":[
         "\u1019\u1000\u103a\u1011\u101b\u102d\u102f \u1019\u1014\u102e\u101c\u102c"
+    ],
+    "name:nld_x_preferred":[
+        "Manilla"
     ],
     "name:nno_x_preferred":[
         "Manila"
@@ -184,6 +208,9 @@
         "Keragulang Menila"
     ],
     "name:pol_x_preferred":[
+        "Manila"
+    ],
+    "name:pol_x_variant":[
         "Region Sto\u0142eczny"
     ],
     "name:por_x_preferred":[
@@ -193,6 +220,9 @@
         "Grande Manila"
     ],
     "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u044b\u0439 \u0420\u0435\u0433\u0438\u043e\u043d"
     ],
     "name:sco_x_preferred":[
@@ -265,6 +295,9 @@
         "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
     ],
     "name:zho_x_preferred":[
+        "\u9a6c\u5c3c\u62c9"
+    ],
+    "name:zho_x_variant":[
         "\u99ac\u5c3c\u62c9\u5927\u90fd\u6703"
     ],
     "qs:a0":"Philippines",
@@ -301,6 +334,7 @@
         "gn:id":11395835,
         "gp:id":23424718,
         "hasc:id":"PH.MM.MN",
+        "ne:id":1159151525,
         "wd:id":"Q13580"
     },
     "wof:country":"PH",
@@ -329,7 +363,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1608675986,
+    "wof:lastmodified":1608677553,
     "wof:megacity":1,
     "wof:name":"Manila",
     "wof:parent_id":1159397243,
