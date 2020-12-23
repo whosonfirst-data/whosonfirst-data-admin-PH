@@ -401,13 +401,14 @@
     "wof:belongsto":[
         102191569,
         85632509,
-        85676309,
-        1108698611
+        1108698611,
+        85676309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1715348,
         "gp:id":1199136,
+        "ne:id":1159150727,
         "qs_pg:id":809452,
         "wd:id":"Q1473",
         "wk:page":"Davao City"
@@ -425,7 +426,8 @@
         }
     ],
     "wof:id":421168921,
-    "wof:lastmodified":1566681787,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"Davao City",
     "wof:parent_id":1108698611,
     "wof:placetype":"locality",
