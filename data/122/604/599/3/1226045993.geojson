@@ -43,6 +43,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043d\u0430\u0439"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09a8\u09be\u09df"
+    ],
     "name:bos_x_preferred":[
         "Panay"
     ],
@@ -160,8 +163,14 @@
     "name:tha_x_preferred":[
         "\u0e1b\u0e32\u0e44\u0e19\u0e22\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "Panay"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043d\u0430\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0646\u06d2"
     ],
     "name:vie_x_preferred":[
         "Panay"
@@ -184,7 +193,7 @@
         "gn:id":1695617
     },
     "wof:country":"PH",
-    "wof:geomhash":"43ab753d494b11abf86af578687d7afa",
+    "wof:geomhash":"667a5d6652c06989a05539fb0e864264",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -195,7 +204,7 @@
         }
     ],
     "wof:id":1226045993,
-    "wof:lastmodified":1566683117,
+    "wof:lastmodified":1636501249,
     "wof:name":"Panay",
     "wof:parent_id":1108698257,
     "wof:placetype":"locality",
@@ -206,9 +215,9 @@
 },
   "bbox": [
     120.40122,
-    17.68107000000001,
+    17.68107,
     120.40122,
-    17.68107000000001
+    17.68107
 ],
-  "geometry": {"coordinates":[120.40122,17.68107000000001],"type":"Point"}
+  "geometry": {"coordinates":[120.40122,17.68107],"type":"Point"}
 }

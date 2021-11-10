@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.593610391,18.1988490997,120.593610391,18.1988490997",
+    "geom:bbox":"120.59361,18.198849,120.59361,18.198849",
     "geom:latitude":18.198849,
     "geom:longitude":120.59361,
     "iso:country":"PH",
@@ -18,8 +18,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0648\u0627\u062c"
+    ],
     "name:bcl_x_preferred":[
         "Laoag"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0993\u09df\u09be\u0997"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f60\u0f7c\u0f0b\u0f68\u0f42"
@@ -33,11 +39,23 @@
     "name:diq_x_preferred":[
         "Laoag"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bf\u03ac\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Laoag"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0626\u0648\u06af"
+    ],
     "name:fra_x_preferred":[
         "Laoag"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5\u05d0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0913\u0906\u0917"
     ],
     "name:hun_x_preferred":[
         "Laoag"
@@ -92,6 +110,12 @@
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e27\u0e31\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Laoag"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043e\u0430\u0433"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0648\u0627\u06af"
@@ -210,7 +234,7 @@
     },
     "wof:country":"PH",
     "wof:created":1499131041,
-    "wof:geomhash":"a45bdf21f34dbf6179cf2632d414a69c",
+    "wof:geomhash":"e9df45e241e143fd1bb6de0f14ec6216",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -221,7 +245,7 @@
         }
     ],
     "wof:id":1141909201,
-    "wof:lastmodified":1566683365,
+    "wof:lastmodified":1636501279,
     "wof:name":"Laoag",
     "wof:parent_id":890442475,
     "wof:placetype":"locality",
@@ -231,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.59361039132034,
-    18.19884909969869,
-    120.59361039132034,
-    18.19884909969869
+    120.59361,
+    18.198849,
+    120.59361,
+    18.198849
 ],
-  "geometry": {"coordinates":[120.59361039132034,18.19884909969869],"type":"Point"}
+  "geometry": {"coordinates":[120.59361,18.198849],"type":"Point"}
 }

@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0628\u0627\u0631\u0628\u0631\u0627"
+    ],
     "name:bcl_x_preferred":[
         "Santa Barbara"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ac\u09be\u09b0\u09ac\u09be\u09b0\u09be"
     ],
     "name:cat_x_preferred":[
         "Santa Barbara"
@@ -29,15 +35,33 @@
         "Santa Barbara"
     ],
     "name:deu_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:deu_x_variant":[
         "Santa Barbara"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039c\u03c0\u03ac\u03c1\u03bc\u03c0\u03b1\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Barbara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627"
     ],
     "name:fil_x_preferred":[
         "Santa Barbara"
     ],
     "name:fra_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d1\u05e8\u05d1\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0902\u091f\u093e \u092c\u093e\u0930\u094d\u092c\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Santa Barbara"
     ],
     "name:ilo_x_preferred":[
@@ -48,6 +72,12 @@
     ],
     "name:ita_x_preferred":[
         "Santa Barbara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30d0\u30fc\u30d0\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0 \ubc14\ubc14\ub77c"
     ],
     "name:msa_x_preferred":[
         "Santa Barbara"
@@ -64,6 +94,9 @@
     "name:pam_x_preferred":[
         "Santa Barbara"
     ],
+    "name:pol_x_preferred":[
+        "Santa Barbara"
+    ],
     "name:spa_x_preferred":[
         "Santa B\u00e1rbara"
     ],
@@ -72,6 +105,15 @@
     ],
     "name:tgl_x_preferred":[
         "Santa Barbara"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u06cc\u0631\u0627"
     ],
     "name:vie_x_preferred":[
         "Santa Barbara"
@@ -112,7 +154,7 @@
         }
     ],
     "wof:id":890438583,
-    "wof:lastmodified":1566682022,
+    "wof:lastmodified":1636501135,
     "wof:name":"Santa Barbara",
     "wof:parent_id":1108699339,
     "wof:placetype":"locality",

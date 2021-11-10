@@ -58,8 +58,14 @@
     "name:fra_x_preferred":[
         "Quirino"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05d9\u05e8\u05d9\u05e0\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0930\u0940\u0928\u094b \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Quirino"
     ],
     "name:ilo_x_preferred":[
         "Quirino"
@@ -136,7 +142,7 @@
         "gn:id":8520004
     },
     "wof:country":"PH",
-    "wof:geomhash":"9608ad55164929b6ef4ca3ca45c743d8",
+    "wof:geomhash":"7b8df4034810f731f9fe0de991581007",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":1310613727,
-    "wof:lastmodified":1566681485,
+    "wof:lastmodified":1636501065,
     "wof:name":"Quirino",
     "wof:parent_id":1108697605,
     "wof:placetype":"locality",
@@ -158,9 +164,9 @@
 },
   "bbox": [
     121.82973,
-    17.02817000000001,
+    17.02817,
     121.82973,
-    17.02817000000001
+    17.02817
 ],
-  "geometry": {"coordinates":[121.82973,17.02817000000001],"type":"Point"}
+  "geometry": {"coordinates":[121.82973,17.02817],"type":"Point"}
 }

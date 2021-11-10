@@ -149,6 +149,9 @@
         "\u041a\u0430\u043b\u043e\u043e\u043a\u0430\u043d"
     ],
     "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0644\u0648\u06a9\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u06a9\u0627\u0644\u0648\u06a9\u0627\u0646"
     ],
     "name:vie_x_preferred":[
@@ -156,6 +159,12 @@
     ],
     "name:war_x_preferred":[
         "Caloocan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u6d1b\u5965\u574e"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u6d1b\u574e"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u6d1b\u574e\u5e02"
@@ -172,7 +181,7 @@
         "gn:id":8530624
     },
     "wof:country":"PH",
-    "wof:geomhash":"114390e809ff13f3b24841e5954668a5",
+    "wof:geomhash":"df9d054b1c0bc06e23ffcbebbeb934e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +192,7 @@
         }
     ],
     "wof:id":1343269797,
-    "wof:lastmodified":1566679642,
+    "wof:lastmodified":1636500845,
     "wof:name":"Caloocan",
     "wof:parent_id":1108698985,
     "wof:placetype":"locality",
@@ -194,9 +203,9 @@
 },
   "bbox": [
     121.69998,
-    17.31697999999999,
+    17.31698,
     121.69998,
-    17.31697999999999
+    17.31698
 ],
-  "geometry": {"coordinates":[121.69998,17.31697999999999],"type":"Point"}
+  "geometry": {"coordinates":[121.69998,17.31698],"type":"Point"}
 }

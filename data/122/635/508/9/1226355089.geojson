@@ -31,8 +31,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0648\u0627\u062c"
+    ],
     "name:bcl_x_preferred":[
         "Laoag"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u0993\u09df\u09be\u0997"
     ],
     "name:bod_x_preferred":[
         "\u0f63\u0f60\u0f7c\u0f0b\u0f68\u0f42"
@@ -43,11 +49,23 @@
     "name:deu_x_preferred":[
         "Laoag"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03bf\u03ac\u03b3\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0626\u0648\u06af"
+    ],
     "name:fil_x_preferred":[
         "Laoag"
     ],
     "name:fra_x_preferred":[
         "Laoag"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5\u05d0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0913\u0906\u0917"
     ],
     "name:ilo_x_preferred":[
         "Laoag"
@@ -97,6 +115,12 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e32\u0e27\u0e31\u0e01"
     ],
+    "name:tur_x_preferred":[
+        "Laoag"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043e\u0430\u0433"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0648\u0627\u06af"
     ],
@@ -129,7 +153,7 @@
         }
     ],
     "wof:id":1226355089,
-    "wof:lastmodified":1566683131,
+    "wof:lastmodified":1636501250,
     "wof:name":"Laoag",
     "wof:parent_id":1108698223,
     "wof:placetype":"locality",

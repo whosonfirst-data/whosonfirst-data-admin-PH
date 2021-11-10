@@ -20,6 +20,9 @@
     "name:bcl_x_preferred":[
         "San Francisco"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb"
+    ],
     "name:cbk_zam_x_preferred":[
         "San Francisco"
     ],
@@ -29,11 +32,17 @@
     "name:deu_x_preferred":[
         "San Francisco"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf"
+    ],
     "name:eng_x_preferred":[
         "San Francisco"
     ],
     "name:fra_x_preferred":[
         "San Francisco"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092b\u093c\u094d\u0930\u0948\u0928\u094d\u0938\u093f\u0938\u094d\u0915\u094b"
     ],
     "name:ilo_x_preferred":[
         "San Francisco"
@@ -43,6 +52,12 @@
     ],
     "name:ita_x_preferred":[
         "San Francisco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0cc\ud504\ub780\uc2dc\uc2a4\ucf54"
     ],
     "name:msa_x_preferred":[
         "San Francisco"
@@ -125,7 +140,7 @@
         }
     ],
     "wof:id":421169917,
-    "wof:lastmodified":1566681805,
+    "wof:lastmodified":1636501100,
     "wof:name":"San Francisco",
     "wof:parent_id":1108699161,
     "wof:placetype":"locality",

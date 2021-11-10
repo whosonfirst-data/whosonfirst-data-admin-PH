@@ -6,9 +6,9 @@
     "edtf:inception":"uuuu",
     "geom:area":0.011061,
     "geom:area_square_m":132930212.606766,
-    "geom:bbox":"123.139618838,13.5686478986,123.368305717,13.663276952",
+    "geom:bbox":"123.139619,13.568648,123.368306,13.663277",
     "geom:latitude":13.617849,
-    "geom:longitude":123.255628,
+    "geom:longitude":123.255629,
     "iso:country":"PH",
     "label:eng_x_preferred_longname":[
         "Naga Province"
@@ -134,6 +134,9 @@
         "Naga"
     ],
     "name:jpn_x_preferred":[
+        "\u30ca\u304c"
+    ],
+    "name:jpn_x_variant":[
         "\u30ca\u30ac"
     ],
     "name:kon_x_preferred":[
@@ -232,6 +235,15 @@
     "name:tgl_x_preferred":[
         "Naga"
     ],
+    "name:tur_x_preferred":[
+        "Naga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06af\u0627"
+    ],
     "name:vec_x_preferred":[
         "Naga"
     ],
@@ -252,6 +264,12 @@
     ],
     "name:wol_x_preferred":[
         "Naga"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u90a3\u7259"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u90a3\u7259"
     ],
     "name:zul_x_preferred":[
         "Naga"
@@ -365,7 +383,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4bf2f79f79e8fa1319838c77bfff5af",
+    "wof:geomhash":"84ad0c1ce57ba8a944e386530bfb5edc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,7 +407,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1582346744,
+    "wof:lastmodified":1636500851,
     "wof:name":"Naga",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
@@ -403,10 +421,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.13961883823895,
-    13.56864789858171,
-    123.368305717335,
-    13.66327695196978
+    123.139619,
+    13.568648,
+    123.368306,
+    13.663277
 ],
-  "geometry": {"coordinates":[[[123.13961883823895,13.6199053017883],[123.22636213680322,13.64750544232236],[123.29339104965733,13.66327695196978],[123.36830571733501,13.6199053017883],[123.23424789162698,13.56864789858171],[123.13961883823895,13.6199053017883]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[123.139619,13.619905],[123.22636199999999,13.647505],[123.293391,13.663277],[123.368306,13.619905],[123.23424799999999,13.568648],[123.139619,13.619905]]],"type":"Polygon"}
 }

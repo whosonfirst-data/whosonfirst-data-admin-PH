@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.029966186,14.6504351999,121.029966186,14.6504351999",
+    "geom:bbox":"121.029966,14.650435,121.029966,14.650435",
     "geom:latitude":14.650435,
     "geom:longitude":121.029966,
     "iso:country":"PH",
@@ -109,12 +109,18 @@
         "\u05e7\u05d6\u05d5\u05df \u05e1\u05d9\u05d8\u05d9"
     ],
     "name:hin_x_preferred":[
+        "\u0915\u094d\u0935\u093f\u091c\u093c\u094b\u0928 \u0936\u0939\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u0915\u0941\u090f\u091c\u094b\u0902 \u0938\u093f\u091f\u0940"
     ],
     "name:hrv_x_preferred":[
         "Quezon City"
     ],
     "name:hun_x_preferred":[
+        "Quezon"
+    ],
+    "name:hun_x_variant":[
         "Quezon City"
     ],
     "name:ido_x_preferred":[
@@ -271,6 +277,9 @@
         "Sit\u00e0 Quezon"
     ],
     "name:vie_x_preferred":[
+        "Th\u00e0nh ph\u1ed1 Quezon"
+    ],
+    "name:vie_x_variant":[
         "Quezon"
     ],
     "name:war_x_preferred":[
@@ -278,6 +287,12 @@
     ],
     "name:yor_x_preferred":[
         "\u00ccl\u00fa Quezon"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u594e\u677e\u5e02"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u594e\u677e\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u594e\u677e\u5e02"
@@ -389,7 +404,7 @@
     },
     "wof:country":"PH",
     "wof:created":1499130703,
-    "wof:geomhash":"ac26d2f7b6ab265ad74025a9c05c161c",
+    "wof:geomhash":"b09b198eef91c02e3884887cb69f01b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -399,7 +414,7 @@
         }
     ],
     "wof:id":1141907271,
-    "wof:lastmodified":1566683366,
+    "wof:lastmodified":1636501280,
     "wof:name":"Quezon City",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",
@@ -409,10 +424,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.02996618559303,
-    14.65043519994475,
-    121.02996618559303,
-    14.65043519994475
+    121.029966,
+    14.650435,
+    121.029966,
+    14.650435
 ],
-  "geometry": {"coordinates":[121.02996618559303,14.65043519994475],"type":"Point"}
+  "geometry": {"coordinates":[121.029966,14.650435],"type":"Point"}
 }

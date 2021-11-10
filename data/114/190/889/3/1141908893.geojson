@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"122.98168168,10.6316882517,122.98168168,10.6316882517",
+    "geom:bbox":"122.981682,10.631688,122.981682,10.631688",
     "geom:latitude":10.631688,
     "geom:longitude":122.981682,
     "iso:country":"PH",
@@ -169,6 +169,9 @@
         "\u0411\u0430\u043a\u043e\u043b\u043e\u0434"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u06cc\u06a9\u0648\u0644\u0648\u0688"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u0627\u06a9\u0648\u0644\u0648\u062f"
     ],
     "name:uzb_x_preferred":[
@@ -182,6 +185,12 @@
     ],
     "name:war_x_preferred":[
         "Bacolod"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5df4\u79d1\u6d1b\u5fb7"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5df4\u79d1\u7f85\u5fb7"
     ],
     "name:zho_x_preferred":[
         "\u63cf\u6208\u5f8b"
@@ -294,7 +303,7 @@
     },
     "wof:country":"PH",
     "wof:created":1499130995,
-    "wof:geomhash":"32bc110092cf32ecea7e8d859403c6cd",
+    "wof:geomhash":"2ee64d94fa6c3614321ed86f506028fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -305,7 +314,7 @@
         }
     ],
     "wof:id":1141908893,
-    "wof:lastmodified":1566683365,
+    "wof:lastmodified":1636501279,
     "wof:name":"Bacolod",
     "wof:parent_id":1108696747,
     "wof:placetype":"locality",
@@ -315,10 +324,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    122.98168168039263,
-    10.63168825168657,
-    122.98168168039263,
-    10.63168825168657
+    122.981682,
+    10.631688,
+    122.981682,
+    10.631688
 ],
-  "geometry": {"coordinates":[122.98168168039263,10.63168825168657],"type":"Point"}
+  "geometry": {"coordinates":[122.98168200000001,10.631688],"type":"Point"}
 }

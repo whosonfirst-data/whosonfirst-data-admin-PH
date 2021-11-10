@@ -31,8 +31,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a8\u09cb\u09a8\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Manono"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03cc\u03bd\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u0646\u0648"
     ],
     "name:fil_x_preferred":[
         "Manono"
@@ -40,14 +49,41 @@
     "name:fra_x_preferred":[
         "Manono"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d5\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0928\u094b\u0928\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Manono"
+    ],
+    "name:ind_x_preferred":[
+        "Manono"
+    ],
     "name:ita_x_preferred":[
+        "Manono"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub178\ub178"
+    ],
+    "name:spa_x_preferred":[
         "Manono"
     ],
     "name:swe_x_preferred":[
         "Manono"
     ],
+    "name:tur_x_preferred":[
+        "Manono"
+    ],
     "name:und_x_variant":[
         "Mananao"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0648\u0646\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Manono"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +108,7 @@
         }
     ],
     "wof:id":1326828571,
-    "wof:lastmodified":1566679154,
+    "wof:lastmodified":1636500792,
     "wof:name":"Manono",
     "wof:parent_id":1108698601,
     "wof:placetype":"locality",

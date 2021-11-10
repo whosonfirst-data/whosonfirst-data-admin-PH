@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.005673,
     "geom:area_square_m":67296873.228546,
-    "geom:bbox":"120.563864725,16.3536408314,120.652620703,16.4345653994",
+    "geom:bbox":"120.563865,16.353641,120.652621,16.434565",
     "geom:latitude":16.395921,
     "geom:longitude":120.611554,
     "iso:country":"PH",
@@ -90,12 +90,18 @@
         "\u0aac\u0abe\u0a97\u0acd\u0aaf\u0ac1\u0a93"
     ],
     "name:hin_x_preferred":[
+        "\u092c\u093e\u0917\u0941\u0907\u0913"
+    ],
+    "name:hin_x_variant":[
         "\u092c\u093e\u0917\u093f\u092f\u094b"
     ],
     "name:hrv_x_preferred":[
         "Baguio"
     ],
     "name:hun_x_preferred":[
+        "Benguet"
+    ],
+    "name:hun_x_variant":[
         "Baguio"
     ],
     "name:ilo_x_preferred":[
@@ -314,7 +320,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"78eb44ec0c725141c287a6fc2d504e91",
+    "wof:geomhash":"f5f853c7f4172a1d8a8a07f04313444e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -338,7 +344,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1582346744,
+    "wof:lastmodified":1636500850,
     "wof:name":"Benguet",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
@@ -352,10 +358,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.56386472497721,
-    16.35364083135931,
-    120.65262070268331,
-    16.43456539937375
+    120.563865,
+    16.353641,
+    120.652621,
+    16.434565
 ],
-  "geometry": {"coordinates":[[[120.56386472497721,16.43456539937375],[120.64478929299149,16.4319549291767],[120.65262070268331,16.35364083135931],[120.58474848475485,16.35886177175341],[120.56386472497721,16.43456539937375]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.56386500000001,16.434565],[120.644789,16.431955],[120.652621,16.353641],[120.584748,16.358862],[120.56386500000001,16.434565]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.545086221,15.1450561716,120.545086221,15.1450561716",
+    "geom:bbox":"120.545086,15.145056,120.545086,15.145056",
     "geom:latitude":15.145056,
     "geom:longitude":120.545086,
     "iso:country":"PH",
@@ -184,16 +184,23 @@
         "\u0410\u043d\u0445\u0435\u043b\u0435\u0441"
     ],
     "name:urd_x_preferred":[
-        "\u0627\u06cc\u0646\u062c\u0644\u0633\u060c \u0641\u0644\u067e\u0627\u0626\u0646"
+        "\u0627\u06cc\u0646\u062c\u0644\u06cc\u0633"
     ],
     "name:urd_x_variant":[
-        "\u0627\u06cc\u0646\u062c\u0644\u0633"
+        "\u0627\u06cc\u0646\u062c\u0644\u0633",
+        "\u0627\u06cc\u0646\u062c\u0644\u0633\u060c \u0641\u0644\u067e\u0627\u0626\u0646"
     ],
     "name:vie_x_preferred":[
         "Angeles"
     ],
     "name:war_x_preferred":[
         "Angeles"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5b89\u8d6b\u83b1\u65af"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u742a\u4f86\u65af"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5409\u5229\u65af"
@@ -306,7 +313,7 @@
     },
     "wof:country":"PH",
     "wof:created":1499130995,
-    "wof:geomhash":"b645fc8edc8834fe5208077085726bcf",
+    "wof:geomhash":"b9a214484af42b44e5af92ce6f2972b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -317,7 +324,7 @@
         }
     ],
     "wof:id":1141908895,
-    "wof:lastmodified":1566683365,
+    "wof:lastmodified":1636501279,
     "wof:name":"Angeles",
     "wof:parent_id":1108696677,
     "wof:placetype":"locality",
@@ -327,10 +334,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.54508622139838,
-    15.14505617162661,
-    120.54508622139838,
-    15.14505617162661
+    120.545086,
+    15.145056,
+    120.545086,
+    15.145056
 ],
-  "geometry": {"coordinates":[120.54508622139838,15.14505617162661],"type":"Point"}
+  "geometry": {"coordinates":[120.545086,15.145056],"type":"Point"}
 }

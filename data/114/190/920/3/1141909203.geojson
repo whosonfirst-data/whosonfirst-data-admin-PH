@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"125.174726114,6.11082724906,125.174726114,6.11082724906",
+    "geom:bbox":"125.174726,6.110827,125.174726,6.110827",
     "geom:latitude":6.110827,
     "geom:longitude":125.174726,
     "iso:country":"PH",
@@ -130,6 +130,9 @@
         "General Santos"
     ],
     "name:swe_x_preferred":[
+        "General Santos"
+    ],
+    "name:swe_x_variant":[
         "General Santos City"
     ],
     "name:szl_x_preferred":[
@@ -161,6 +164,12 @@
     ],
     "name:war_x_preferred":[
         "General Santos"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e09\u6295\u65af\u5c06\u519b\u5e02"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6851\u6258\u65af\u5c07\u8ecd\u57ce"
     ],
     "name:zho_x_preferred":[
         "\u4e09\u6295\u65af\u5c07\u8ecd\u5e02"
@@ -273,7 +282,7 @@
     },
     "wof:country":"PH",
     "wof:created":1499131042,
-    "wof:geomhash":"6f82b49ba9e69bc7ed703769e928455a",
+    "wof:geomhash":"de9b6c14e9822880389f7ffe21dafdaf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -284,7 +293,7 @@
         }
     ],
     "wof:id":1141909203,
-    "wof:lastmodified":1566683365,
+    "wof:lastmodified":1636501279,
     "wof:name":"General Santos",
     "wof:parent_id":1108697635,
     "wof:placetype":"locality",
@@ -294,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    125.174726113995,
-    6.11082724906436,
-    125.174726113995,
-    6.11082724906436
+    125.174726,
+    6.110827,
+    125.174726,
+    6.110827
 ],
-  "geometry": {"coordinates":[125.17472611399501,6.11082724906436],"type":"Point"}
+  "geometry": {"coordinates":[125.17472600000001,6.110827],"type":"Point"}
 }

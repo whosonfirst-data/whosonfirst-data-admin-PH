@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0644\u0627\u062a\u0631\u0627\u0641\u0627"
+    ],
     "name:bcl_x_preferred":[
         "Calatrava"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b2\u09be\u09a4\u09cd\u09b0\u09be\u09ad\u09be"
     ],
     "name:cbk_zam_x_preferred":[
         "Calatrava"
@@ -29,13 +35,28 @@
     "name:deu_x_preferred":[
         "Calatrava"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03c4\u03c1\u03ac\u03b2\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Calatrava"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u0627\u062a\u0631\u0627\u0648\u0627"
     ],
     "name:fil_x_preferred":[
         "Calatrava"
     ],
     "name:fra_x_preferred":[
+        "Calatrava"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05d8\u05e8\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0932\u093e\u0924\u094d\u0930\u093e\u0935\u093e"
+    ],
+    "name:hun_x_preferred":[
         "Calatrava"
     ],
     "name:ilo_x_preferred":[
@@ -47,6 +68,12 @@
     "name:ita_x_preferred":[
         "Calatrava"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30c8\u30e9\u30d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub77c\ud2b8\ub77c\ubc14"
+    ],
     "name:nld_x_preferred":[
         "Calatrava"
     ],
@@ -56,8 +83,17 @@
     "name:pam_x_preferred":[
         "Calatrava"
     ],
+    "name:pol_x_preferred":[
+        "Calatrava"
+    ],
+    "name:por_x_preferred":[
+        "Calatrava"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u043b\u0430\u0442\u0440\u0430\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Calatrava"
     ],
     "name:swe_x_preferred":[
         "Calatrava"
@@ -65,11 +101,26 @@
     "name:tgl_x_preferred":[
         "Calatrava"
     ],
+    "name:tur_x_preferred":[
+        "Calatrava"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u0442\u0440\u0430\u0432\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0644\u0627\u0679\u0631\u0627\u0648\u0627"
+    ],
     "name:vie_x_preferred":[
         "Calatrava"
     ],
     "name:war_x_preferred":[
         "Calatrava"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u62c9\u7279\u62c9\u74e6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u62c9\u7279\u62c9\u74e6"
     ],
     "qs:gn_country":"PH",
     "qs:gn_fcode":"PPLA3",
@@ -119,7 +170,7 @@
         }
     ],
     "wof:id":421174709,
-    "wof:lastmodified":1566681815,
+    "wof:lastmodified":1636501102,
     "wof:name":"Calatrava",
     "wof:parent_id":1108697217,
     "wof:placetype":"locality",

@@ -61,6 +61,12 @@
     "name:frr_x_preferred":[
         "Centro Sur"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05e8\u05d5 \u05e1\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Centro Sur"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Centro Sur"
     ],
@@ -124,7 +130,7 @@
         "gn:id":8477164
     },
     "wof:country":"PH",
-    "wof:geomhash":"8ff2eba85b08719dc0b0f487b10ffb26",
+    "wof:geomhash":"1a8a8c3e4b341e2584075653dbc92853",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":1276241051,
-    "wof:lastmodified":1566680327,
+    "wof:lastmodified":1636500931,
     "wof:name":"Centro Sur",
     "wof:parent_id":1108696603,
     "wof:placetype":"locality",
@@ -146,9 +152,9 @@
 },
   "bbox": [
     121.65619,
-    17.90247999999999,
+    17.90248,
     121.65619,
-    17.90247999999999
+    17.90248
 ],
-  "geometry": {"coordinates":[121.65619,17.90247999999999],"type":"Point"}
+  "geometry": {"coordinates":[121.65619,17.90248],"type":"Point"}
 }

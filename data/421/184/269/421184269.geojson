@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"124.4921775,11.36614,124.4921775,11.36614",
+    "geom:bbox":"124.492177,11.36614,124.492177,11.36614",
     "geom:latitude":11.36614,
     "geom:longitude":124.492177,
     "gn:country":"PH",
@@ -81,6 +81,9 @@
         "Leyte"
     ],
     "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05d9\u05d8"
+    ],
+    "name:heb_x_variant":[
         "\u05dc\u05d9\u05d9\u05d8\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -176,6 +179,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u0439\u0442\u0435"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0679\u06d2"
+    ],
     "name:vie_x_preferred":[
         "Leyte"
     ],
@@ -229,7 +235,7 @@
     },
     "wof:country":"PH",
     "wof:created":1459009405,
-    "wof:geomhash":"c7688e5eba0ddcb38deab7fd69ffe85f",
+    "wof:geomhash":"8ddbb982054b6e95906b90f8abcba289",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -240,7 +246,7 @@
         }
     ],
     "wof:id":421184269,
-    "wof:lastmodified":1566681859,
+    "wof:lastmodified":1636501110,
     "wof:name":"Leyte",
     "wof:parent_id":1108698051,
     "wof:placetype":"locality",
@@ -254,10 +260,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    124.49217749999998,
+    124.492177,
     11.36614,
-    124.49217749999998,
+    124.492177,
     11.36614
 ],
-  "geometry": {"coordinates":[124.49217749999998,11.36614],"type":"Point"}
+  "geometry": {"coordinates":[124.492177,11.36614],"type":"Point"}
 }

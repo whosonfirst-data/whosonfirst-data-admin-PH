@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"123.38000362,10.5503753855,123.38000362,10.5503753855",
+    "geom:bbox":"123.380004,10.550375,123.380004,10.550375",
     "geom:latitude":10.550375,
     "geom:longitude":123.380004,
     "iso:country":"PH",
@@ -142,6 +142,9 @@
         "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
     ],
     "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633"
+    ],
+    "name:urd_x_variant":[
         "\u0633\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633"
     ],
     "name:vie_x_preferred":[
@@ -261,7 +264,7 @@
     },
     "wof:country":"PH",
     "wof:created":1499130703,
-    "wof:geomhash":"608ab30b15428443ac1b76788d3e6ee0",
+    "wof:geomhash":"d49ab708afe4b3979bff0d59772c67d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":1141907263,
-    "wof:lastmodified":1566683365,
+    "wof:lastmodified":1636501280,
     "wof:name":"San Carlos",
     "wof:parent_id":1108699123,
     "wof:placetype":"locality",
@@ -282,10 +285,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    123.3800036204982,
-    10.55037538547526,
-    123.3800036204982,
-    10.55037538547526
+    123.380004,
+    10.550375,
+    123.380004,
+    10.550375
 ],
-  "geometry": {"coordinates":[123.3800036204982,10.55037538547526],"type":"Point"}
+  "geometry": {"coordinates":[123.380004,10.550375],"type":"Point"}
 }

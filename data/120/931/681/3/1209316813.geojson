@@ -65,6 +65,9 @@
         "San Marcos"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0 \ub9c8\ub974\ucf54\uc2a4"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ub9c8\ub974\ucf54\uc2a4"
     ],
     "name:lit_x_preferred":[
@@ -100,8 +103,14 @@
     "name:swe_x_preferred":[
         "San Marcos"
     ],
+    "name:tur_x_preferred":[
+        "San Marcos"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0430\u0440\u043a\u043e\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "San Marcos"
     ],
     "name:vol_x_preferred":[
         "San Marcos"
@@ -118,7 +127,7 @@
         "gn:id":7419414
     },
     "wof:country":"PH",
-    "wof:geomhash":"56903f7d9d2c4f66c929d9f924002741",
+    "wof:geomhash":"2f05e5b2aefc62ade020f139903a3680",
     "wof:hierarchy":[
         {
             "country_id":85632509,
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1209316813,
-    "wof:lastmodified":1566680463,
+    "wof:lastmodified":1636500948,
     "wof:name":"San Marcos",
     "wof:parent_id":85632509,
     "wof:placetype":"locality",
@@ -136,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.52136000000002,
-    16.53362000000001,
-    121.52136000000002,
-    16.53362000000001
+    121.52136,
+    16.53362,
+    121.52136,
+    16.53362
 ],
-  "geometry": {"coordinates":[121.52136000000002,16.53362000000001],"type":"Point"}
+  "geometry": {"coordinates":[121.52136,16.53362],"type":"Point"}
 }
