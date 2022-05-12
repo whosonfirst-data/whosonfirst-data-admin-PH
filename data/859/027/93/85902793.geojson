@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.001741,
     "geom:area_square_m":20831049.396042,
-    "geom:bbox":"120.97869873,14.603518214,121.043630371,14.676596866",
+    "geom:bbox":"120.97869873000025,14.60351821395018,121.04363037100029,14.67659686597524",
     "geom:latitude":14.636008,
     "geom:longitude":121.008587,
     "gn:latitude":14.29314,
@@ -27,6 +27,9 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":4,
     "name:eng_x_preferred":[
+        "Sampaloc"
+    ],
+    "name:eng_x_variant":[
         "Sampalog"
     ],
     "name:fil_x_preferred":[
@@ -61,15 +64,16 @@
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
-        1159397249,
         85632509,
+        1159397249,
         1159397243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1690581,
         "gp:id":1190110,
-        "qs_pg:id":1081048
+        "qs_pg:id":1081048,
+        "wd:id":"Q3545565"
     },
     "wof:country":"PH",
     "wof:geomhash":"5b81ed1629bcce0c054e10dadd9f1cde",
@@ -86,8 +90,8 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566679666,
-    "wof:name":"Sampalog",
+    "wof:lastmodified":1652295837,
+    "wof:name":"Sampaloc",
     "wof:parent_id":1159397249,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ph",
