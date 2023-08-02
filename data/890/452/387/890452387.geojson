@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u062c\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0646\u062c\u0648"
+    ],
     "name:aze_x_preferred":[
         "Tanqo"
+    ],
+    "name:aze_x_variant":[
+        "tanqo"
+    ],
+    "name:bak_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u043e"
     ],
     "name:bel_x_preferred":[
         "\u0442\u0430\u043d\u0433\u0430"
@@ -85,6 +94,9 @@
     "name:fin_x_preferred":[
         "Tango"
     ],
+    "name:fin_x_variant":[
+        "tango"
+    ],
     "name:fra_x_preferred":[
         "tango"
     ],
@@ -93,6 +105,9 @@
     ],
     "name:glg_x_preferred":[
         "Tango"
+    ],
+    "name:grn_x_preferred":[
+        "T\u00e1ngo"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05e0\u05d2\u05d5"
@@ -105,6 +120,9 @@
     ],
     "name:hun_x_preferred":[
         "Tang\u00f3"
+    ],
+    "name:hun_x_variant":[
+        "tang\u00f3"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0561\u0576\u0563\u0578"
@@ -123,6 +141,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u0422\u0430\u043d\u0433\u043e"
+    ],
+    "name:kir_x_preferred":[
+        "\u0442\u0430\u043d\u0433\u043e"
     ],
     "name:kor_x_preferred":[
         "\ud0f1\uace0"
@@ -154,14 +175,23 @@
     "name:nld_x_preferred":[
         "Ballroomtango"
     ],
+    "name:nld_x_variant":[
+        "tango"
+    ],
     "name:nob_x_preferred":[
         "tango"
     ],
     "name:oci_x_preferred":[
         "Tango"
     ],
+    "name:pan_x_preferred":[
+        "\u0a1f\u0a48\u0a02\u0a17\u0a4b"
+    ],
     "name:pol_x_preferred":[
         "Tango"
+    ],
+    "name:pol_x_variant":[
+        "tango"
     ],
     "name:por_x_preferred":[
         "tango"
@@ -202,6 +232,9 @@
     "name:swe_x_preferred":[
         "Tango"
     ],
+    "name:swe_x_variant":[
+        "tango"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0b99\u0bcd\u0b95\u0bcb"
     ],
@@ -221,6 +254,9 @@
         "\u0679\u06cc\u0646\u06af\u0648"
     ],
     "name:uzb_x_preferred":[
+        "Tango"
+    ],
+    "name:vec_x_preferred":[
         "Tango"
     ],
     "name:vie_x_preferred":[
@@ -270,7 +306,7 @@
         }
     ],
     "wof:id":890452387,
-    "wof:lastmodified":1566681971,
+    "wof:lastmodified":1690851674,
     "wof:name":"Ta\u00f1go",
     "wof:parent_id":1108697655,
     "wof:placetype":"locality",

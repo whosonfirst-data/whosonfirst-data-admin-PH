@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0646\u0648\u0631 \u0627\u0644\u0643\u0648\u062f\u0643\u0648\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0646\u0648\u0631 \u0627\u0644\u0643\u0648\u062f\u0643\u0648\u062f"
+    ],
     "name:ast_x_preferred":[
         "Leopardus guigna"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:ces_x_preferred":[
         "ko\u010dka tmav\u00e1"
+    ],
+    "name:chv_x_preferred":[
+        "\u0427\u0438\u043b\u0438 \u043a\u0443\u0448\u0430\u043a\u04d7"
     ],
     "name:dan_x_preferred":[
         "Kodkod"
@@ -70,8 +76,14 @@
     "name:fin_x_preferred":[
         "Y\u00f6kissa"
     ],
+    "name:fin_x_variant":[
+        "y\u00f6kissa"
+    ],
     "name:fra_x_preferred":[
         "kodkod"
+    ],
+    "name:gle_x_preferred":[
+        "Leopardus guigna"
     ],
     "name:heb_x_preferred":[
         "\u05d7\u05ea\u05d5\u05dc \u05e7\u05d5\u05d3\u05e7\u05d5\u05d3"
@@ -90,6 +102,9 @@
     ],
     "name:ind_x_preferred":[
         "Kodkod"
+    ],
+    "name:isl_x_preferred":[
+        "Ko\u00f0i"
     ],
     "name:ita_x_preferred":[
         "kodkod"
@@ -130,14 +145,23 @@
     "name:por_x_preferred":[
         "gato chileno"
     ],
+    "name:ron_x_preferred":[
+        "Leopardus guigna"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u043b\u0438\u0439\u0441\u043a\u0430\u044f \u043a\u043e\u0448\u043a\u0430"
     ],
     "name:sco_x_preferred":[
         "kodkod"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0da9\u0dca\u0d9a\u0ddc\u0da9\u0dca"
+    ],
     "name:spa_x_preferred":[
         "hui\u00f1a"
+    ],
+    "name:sqi_x_preferred":[
+        "Leopardus guigna"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u0434\u043a\u043e\u0434"
@@ -156,6 +180,9 @@
     ],
     "name:war_x_preferred":[
         "Leopardus guigna"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u7f8e\u6797\u8c93"
     ],
     "name:zho_x_preferred":[
         "\u5357\u7f8e\u6797\u8c93"
@@ -193,7 +220,7 @@
         }
     ],
     "wof:id":890416029,
-    "wof:lastmodified":1566682098,
+    "wof:lastmodified":1690851790,
     "wof:name":"Codcod",
     "wof:parent_id":1108699123,
     "wof:placetype":"locality",

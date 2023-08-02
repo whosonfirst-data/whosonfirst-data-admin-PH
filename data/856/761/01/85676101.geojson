@@ -33,8 +33,14 @@
     "name:ara_x_preferred":[
         "\u0646\u0648\u064a\u0641\u0627 \u0625\u064a\u0633\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Nueva Ecija"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0648\u0626\u0647\u200c\u0648\u0627 \u0627\u06a9\u06cc\u062c\u0627"
+    ],
+    "name:ban_x_preferred":[
+        "Nueva Ecija"
     ],
     "name:bcl_x_preferred":[
         "Nueva Ecija"
@@ -44,6 +50,12 @@
     ],
     "name:ben_x_variant":[
         "\u09a8\u09c1\u09af\u09bc\u09c7\u09ac\u09be \u098f\u09b8\u09bf\u09b9\u09be"
+    ],
+    "name:bjn_x_preferred":[
+        "Nueva Ecija"
+    ],
+    "name:bto_x_preferred":[
+        "Nueva Ecija"
     ],
     "name:cat_x_preferred":[
         "Nueva Ecija"
@@ -55,6 +67,9 @@
         "Nueva Ecija"
     ],
     "name:ces_x_preferred":[
+        "Nueva Ecija"
+    ],
+    "name:cps_x_preferred":[
         "Nueva Ecija"
     ],
     "name:dan_x_preferred":[
@@ -84,11 +99,17 @@
     "name:fra_x_preferred":[
         "Nueva Ecija"
     ],
+    "name:gor_x_preferred":[
+        "Nueva Ecija"
+    ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0a8f\u0ab8\u0abf\u0a9c\u0abe"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05d0\u05d1\u05d4 \u05d0\u05e1\u05d9\u05d7\u05d4"
+    ],
+    "name:hil_x_preferred":[
+        "Nueva Ecija"
     ],
     "name:hin_x_preferred":[
         "\u0928\u0941\u090f\u0935\u093e \u090f\u0938\u093f\u0939\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -105,6 +126,9 @@
     "name:ita_x_preferred":[
         "Provincia di Nueva Ecija"
     ],
+    "name:jav_x_preferred":[
+        "Nueva Ecija"
+    ],
     "name:jpn_x_preferred":[
         "\u30cc\u30a8\u30f4\u30a1\u30fb\u30a8\u30b7\u30cf\u5dde"
     ],
@@ -114,11 +138,17 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cc1\u0cb5\u0cbe \u0c8e\u0c9c\u0cbf\u0c9c\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d4\u10d5\u10d0-\u10d4\u10e1\u10d8\u10ee\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub204\uc5d0\ubc14\uc5d0\uc2dc\ud558 \uc8fc"
     ],
     "name:kor_x_variant":[
         "\ub204\uc5d0\ubc14\uc5d0\uc2dc\ud558\uc8fc"
+    ],
+    "name:krj_x_preferred":[
+        "Nueva Ecija"
     ],
     "name:lat_x_preferred":[
         "Nueva Ecija"
@@ -131,6 +161,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0941\u0908\u0935 \u090f\u0938\u093f\u091c"
+    ],
+    "name:min_x_preferred":[
+        "Nueva Ecija"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432\u0430 \u0415\u0446\u0438\u0458\u0430"
@@ -171,6 +204,9 @@
     "name:por_x_preferred":[
         "Nueva Ecija"
     ],
+    "name:por_x_variant":[
+        "Nova Ecija"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0443\u044d\u0432\u0430-\u042d\u0441\u0438\u0445\u0430"
     ],
@@ -179,6 +215,9 @@
     ],
     "name:spa_x_preferred":[
         "Nueva \u00c9cija"
+    ],
+    "name:sun_x_preferred":[
+        "Nueva Ecija"
     ],
     "name:swe_x_preferred":[
         "Nueva Ecija"
@@ -189,6 +228,9 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c41\u0c2f\u0c47\u0c35\u0c3e \u0c0e\u0c38\u0c3f\u0c1c\u0c3e"
     ],
+    "name:tet_x_preferred":[
+        "Nueva Ecija"
+    ],
     "name:tgl_x_preferred":[
         "Nueva Ecija"
     ],
@@ -196,7 +238,8 @@
         "\u0e19\u0e39\u0e27\u0e32 \u0e2d\u0e35\u0e0b\u0e34\u0e08\u0e32"
     ],
     "name:tha_x_variant":[
-        "\u0e19\u0e39\u0e40\u0e27\u0e1a\u0e32\u0e40\u0e2d\u0e0b\u0e35\u0e2e\u0e32"
+        "\u0e19\u0e39\u0e40\u0e27\u0e1a\u0e32\u0e40\u0e2d\u0e0b\u0e35\u0e2e\u0e32",
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e39\u0e40\u0e2d\u0e27\u0e32\u0e40\u0e2d\u0e0b\u0e35\u0e2e\u0e32"
     ],
     "name:tur_x_preferred":[
         "Nueva Ecija"
@@ -354,7 +397,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636500865,
+    "wof:lastmodified":1690851349,
     "wof:name":"Nueva Ecija",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

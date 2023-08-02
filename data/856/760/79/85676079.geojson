@@ -34,14 +34,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0648\u0646\u062a\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Mountain Province"
+    ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0648\u0646\u062a\u06cc\u0646"
+    ],
+    "name:ban_x_preferred":[
+        "Mountain Province"
     ],
     "name:bcl_x_preferred":[
         "Mountain Province"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0989\u09a8\u09cd\u099f\u09c7\u0987\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09b0\u09cd\u09ac\u09a4 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
+    ],
+    "name:bjn_x_preferred":[
+        "Mountain Province"
+    ],
+    "name:bto_x_preferred":[
+        "Mountain Province"
     ],
     "name:cat_x_preferred":[
         "Mountain Province"
@@ -54,6 +69,9 @@
     ],
     "name:ceb_x_variant":[
         "Lalawigang Bulubundukin"
+    ],
+    "name:cps_x_preferred":[
+        "Mountain Province"
     ],
     "name:dan_x_preferred":[
         "Mountain Province"
@@ -83,8 +101,17 @@
     "name:fra_x_preferred":[
         "Mountain Province"
     ],
+    "name:gor_x_preferred":[
+        "Mountain Province"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e4\u05ea \u05d4\u05d4\u05e8"
+    ],
+    "name:hil_x_preferred":[
+        "Mountain Province"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0909\u0902\u091f\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -101,6 +128,9 @@
     "name:ita_x_preferred":[
         "Mountain Province"
     ],
+    "name:jav_x_preferred":[
+        "Mountain Province"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30a6\u30f3\u30c6\u30f3\u5dde"
     ],
@@ -113,6 +143,9 @@
     "name:kor_x_variant":[
         "\ub9c8\uc6b4\ud2f4\uc8fc"
     ],
+    "name:krj_x_preferred":[
+        "Mountain Province"
+    ],
     "name:lav_x_preferred":[
         "Kalnu province"
     ],
@@ -122,11 +155,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0909\u0902\u091f\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:min_x_preferred":[
+        "Mountain Province"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u043b\u0430\u043d\u0438\u043d\u0441\u043a\u0430 \u043f\u043e\u043a\u0440\u0430\u0438\u043d\u0430"
     ],
     "name:msa_x_preferred":[
         "Mountain Province"
+    ],
+    "name:msa_x_variant":[
+        "Wilayah Pergunungan"
     ],
     "name:nan_x_preferred":[
         "Mountain Province"
@@ -156,13 +195,17 @@
         "Mountain Province"
     ],
     "name:pam_x_variant":[
-        "Lalawigang Bulubundukin"
+        "Lalawigang Bulubundukin",
+        "Lalaw\u00edgang Bulubund\u00fakan"
     ],
     "name:pol_x_preferred":[
         "Mountain Province"
     ],
     "name:por_x_preferred":[
         "Prov\u00edncia Mountain"
+    ],
+    "name:por_x_variant":[
+        "Prov\u00edncia da Montanha"
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
@@ -175,7 +218,11 @@
     ],
     "name:spa_x_variant":[
         "Mountain Province",
-        "La Monta\u00f1a"
+        "La Monta\u00f1a",
+        "Provincia Monta\u00f1osa"
+    ],
+    "name:sun_x_preferred":[
+        "Mountain Province"
     ],
     "name:swe_x_preferred":[
         "Bergsprovinsen"
@@ -183,8 +230,14 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bcc\u0ba3\u0bcd\u0b9f\u0bc8\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bcc\u0ba3\u0bcd\u0b9f\u0bc8\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4c\u0c02\u0c1f\u0c46\u0c2f\u0c3f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tet_x_preferred":[
+        "Mountain Province"
     ],
     "name:tgl_x_preferred":[
         "Lalawigang Bulubundukin"
@@ -361,7 +414,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636500861,
+    "wof:lastmodified":1690851342,
     "wof:name":"Mountain Province",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0646 \u0643\u0627\u0631\u0644\u0648\u0633"
+    ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0646 \u0643\u0627\u0631\u0644\u0648\u0633"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u043e\u043d \u041a\u0430\u0440\u043b\u0430\u0441"
     ],
@@ -55,6 +61,9 @@
     "name:eus_x_preferred":[
         "Don Carlos"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633"
+    ],
     "name:fil_x_preferred":[
         "Don Carlos"
     ],
@@ -62,6 +71,9 @@
         "Don Carlos"
     ],
     "name:fra_x_preferred":[
+        "Don Carlos"
+    ],
+    "name:gle_x_preferred":[
         "Don Carlos"
     ],
     "name:glg_x_preferred":[
@@ -79,6 +91,9 @@
     "name:hye_x_preferred":[
         "\u0534\u0578\u0576 \u053f\u0561\u0580\u056c\u0578\u057d"
     ],
+    "name:hye_x_variant":[
+        "\u0534\u0578\u0576 \u053f\u0561\u057c\u056c\u0578\u057d"
+    ],
     "name:ita_x_preferred":[
         "Don Carlos"
     ],
@@ -87,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3c8 \uce74\ub97c\ub85c\uc2a4"
+    ],
+    "name:kor_x_variant":[
+        "\ub3c8 \uce74\ub97c\ub85c"
     ],
     "name:lat_x_preferred":[
         "Don Carlos"
@@ -171,7 +189,7 @@
         }
     ],
     "wof:id":890443743,
-    "wof:lastmodified":1566682079,
+    "wof:lastmodified":1690851774,
     "wof:name":"Don Carlos",
     "wof:parent_id":1108697521,
     "wof:placetype":"localadmin",

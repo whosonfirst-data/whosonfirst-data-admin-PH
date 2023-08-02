@@ -37,8 +37,14 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u063a\u0648\u0646\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Laguna"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0627\u0642\u0648\u0646\u0627"
+    ],
+    "name:ban_x_preferred":[
+        "Laguna"
     ],
     "name:bcl_x_preferred":[
         "Laguna"
@@ -46,10 +52,22 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u0997\u09c1\u09a8\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09b2\u09be\u0997\u09c1\u09a8\u09be"
+    ],
+    "name:bjn_x_preferred":[
+        "Laguna"
+    ],
+    "name:bto_x_preferred":[
+        "Laguna"
+    ],
     "name:cat_x_preferred":[
         "Laguna"
     ],
     "name:ceb_x_preferred":[
+        "Laguna"
+    ],
+    "name:cps_x_preferred":[
         "Laguna"
     ],
     "name:dan_x_preferred":[
@@ -82,11 +100,20 @@
     "name:fra_x_preferred":[
         "Laguna"
     ],
+    "name:gor_x_preferred":[
+        "Laguna"
+    ],
     "name:guj_x_preferred":[
         "\u0ab2\u0a97\u0ac1\u0aa8\u0abe"
     ],
+    "name:hil_x_preferred":[
+        "Laguna"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u0917\u0942\u0928\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0563\u0578\u0582\u0576\u0561"
     ],
     "name:ilo_x_preferred":[
         "Laguna"
@@ -98,6 +125,9 @@
         "Provincia di Laguna"
     ],
     "name:ita_x_variant":[
+        "Laguna"
+    ],
+    "name:jav_x_preferred":[
         "Laguna"
     ],
     "name:jpn_x_preferred":[
@@ -118,6 +148,9 @@
     "name:kor_x_variant":[
         "\ub77c\uad6c\ub098\uc8fc"
     ],
+    "name:krj_x_preferred":[
+        "Laguna"
+    ],
     "name:lat_x_preferred":[
         "Laguna"
     ],
@@ -129,6 +162,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0917\u0941\u0928\u093e"
+    ],
+    "name:min_x_preferred":[
+        "Laguna"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0430\u0433\u0443\u043d\u0430"
@@ -172,6 +208,9 @@
     "name:spa_x_preferred":[
         "La Laguna"
     ],
+    "name:sun_x_preferred":[
+        "Laguna"
+    ],
     "name:swe_x_preferred":[
         "Laguna"
     ],
@@ -180,6 +219,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c3e\u0c17\u0c41\u0c28\u0c3e"
+    ],
+    "name:tet_x_preferred":[
+        "Laguna"
     ],
     "name:tgl_x_preferred":[
         "Laguna"
@@ -201,6 +243,9 @@
     ],
     "name:urd_x_variant":[
         "\u0644\u0627\u06af\u0648\u0646\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "La Laguna"
     ],
     "name:vie_x_preferred":[
         "Laguna"
@@ -352,7 +397,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636500865,
+    "wof:lastmodified":1690851351,
     "wof:name":"Laguna",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

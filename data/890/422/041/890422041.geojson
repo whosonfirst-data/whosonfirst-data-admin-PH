@@ -28,11 +28,20 @@
     "name:bre_x_preferred":[
         "Skritur babayinek"
     ],
+    "name:cat_x_preferred":[
+        "Baybayin"
+    ],
     "name:ceb_x_preferred":[
         "Alibata"
     ],
+    "name:ceb_x_variant":[
+        "Baybayin"
+    ],
     "name:ces_x_preferred":[
         "Baybayin"
+    ],
+    "name:ces_x_variant":[
+        "baybayin"
     ],
     "name:deu_x_preferred":[
         "Baybayin"
@@ -43,6 +52,12 @@
     "name:eng_x_preferred":[
         "Baybayin"
     ],
+    "name:eng_x_variant":[
+        "baybayin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0641\u0628\u0627\u06cc \u0628\u06cc\u0628\u06cc\u06cc\u0646"
+    ],
     "name:fil_x_preferred":[
         "Baybayin"
     ],
@@ -51,6 +66,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u092f\u092c\u093e\u092f\u093f\u0928 \u0932\u093f\u092a\u093f"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0575\u0562\u0561\u0575\u056b\u0576"
     ],
     "name:ilo_x_preferred":[
         "Baybayin"
@@ -79,6 +97,9 @@
     "name:mkd_x_preferred":[
         "\u0431\u0430\u0458\u0431\u0430\u0458\u0438\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Baybayin"
+    ],
     "name:nan_x_preferred":[
         "Baybayin"
     ],
@@ -102,6 +123,9 @@
     ],
     "name:spa_x_preferred":[
         "Baybayin"
+    ],
+    "name:spa_x_variant":[
+        "baybayin"
     ],
     "name:swe_x_preferred":[
         "Baybayin"
@@ -157,7 +181,7 @@
         }
     ],
     "wof:id":890422041,
-    "wof:lastmodified":1566681890,
+    "wof:lastmodified":1690851612,
     "wof:name":"Baybayin",
     "wof:parent_id":1108699039,
     "wof:placetype":"locality",

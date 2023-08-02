@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "sampan"
     ],
+    "name:est_x_preferred":[
+        "Sampan"
+    ],
     "name:fil_x_preferred":[
         "Sampao"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ind_x_preferred":[
         "Sampan"
+    ],
+    "name:ind_x_variant":[
+        "sampan"
     ],
     "name:ita_x_preferred":[
         "sampan"
@@ -64,6 +70,9 @@
     "name:oci_x_preferred":[
         "Sampan"
     ],
+    "name:ori_x_preferred":[
+        "\u0b38\u0b3e\u0b2e\u0b4d\u0b2a\u0b3e\u0b28"
+    ],
     "name:pol_x_preferred":[
         "Sampan"
     ],
@@ -82,8 +91,14 @@
     "name:spa_x_preferred":[
         "junco"
     ],
+    "name:spa_x_variant":[
+        "champ\u00e1n"
+    ],
     "name:swe_x_preferred":[
         "Sampan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u043f\u0430\u043d"
     ],
     "name:yue_x_preferred":[
         "\u4e09\u677f"
@@ -124,7 +139,7 @@
         }
     ],
     "wof:id":890432697,
-    "wof:lastmodified":1566682243,
+    "wof:lastmodified":1690851901,
     "wof:name":"Sampao",
     "wof:parent_id":1108697891,
     "wof:placetype":"locality",

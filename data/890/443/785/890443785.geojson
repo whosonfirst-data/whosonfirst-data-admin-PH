@@ -19,14 +19,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":8.0,
+    "name:afr_x_preferred":[
+        "baai"
+    ],
     "name:ara_x_preferred":[
         "\u062e\u0644\u064a\u062c"
+    ],
+    "name:ara_x_variant":[
+        "\u062e\u0644\u064a\u062c \u0635\u063a\u064a\u0631"
     ],
     "name:arc_x_preferred":[
         "\u0712\u072a\u0729\u0729\u0710"
     ],
     "name:arg_x_preferred":[
         "Bad\u00eda"
+    ],
+    "name:arz_x_preferred":[
+        "\u062e\u0644\u064a\u062c"
     ],
     "name:ast_x_preferred":[
         "Badea"
@@ -36,6 +45,9 @@
     ],
     "name:bak_x_preferred":[
         "\u04a0\u0443\u043b\u0442\u044b\u04a1"
+    ],
+    "name:ban_x_preferred":[
+        "celuk"
     ],
     "name:bcl_x_preferred":[
         "Suba'"
@@ -61,20 +73,32 @@
     "name:cat_x_preferred":[
         "badia"
     ],
+    "name:ceb_x_preferred":[
+        "Luok"
+    ],
     "name:ces_x_preferred":[
         "z\u00e1liv"
     ],
     "name:che_x_preferred":[
         "\u0410\u0439\u043c\u0430"
     ],
+    "name:chv_x_preferred":[
+        "\u0422\u0438\u043d\u0115\u0441 \u0443\u0440\u0438"
+    ],
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u0646\u062f\u0627\u0648"
+    ],
+    "name:cor_x_preferred":[
+        "Baya"
     ],
     "name:csb_x_preferred":[
         "Roztoka"
     ],
     "name:cym_x_preferred":[
         "Bae"
+    ],
+    "name:cym_x_variant":[
+        "bae"
     ],
     "name:dan_x_preferred":[
         "bugt"
@@ -91,11 +115,17 @@
     "name:epo_x_preferred":[
         "golfo"
     ],
+    "name:epo_x_variant":[
+        "golfeto"
+    ],
     "name:est_x_preferred":[
         "laht"
     ],
     "name:eus_x_preferred":[
         "Badia"
+    ],
+    "name:eus_x_variant":[
+        "badia"
     ],
     "name:fas_x_preferred":[
         "\u062e\u0644\u06cc\u062c"
@@ -121,6 +151,9 @@
     "name:grn_x_preferred":[
         "Yjere"
     ],
+    "name:gsw_x_preferred":[
+        "Bucht"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e4\u05e8\u05e5"
     ],
@@ -142,6 +175,12 @@
     "name:hye_x_preferred":[
         "\u053e\u0578\u0581"
     ],
+    "name:hye_x_variant":[
+        "\u056e\u0578\u0581"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053e\u0578\u0581"
+    ],
     "name:ido_x_preferred":[
         "bayo"
     ],
@@ -151,6 +190,9 @@
     "name:ilo_x_preferred":[
         "luek"
     ],
+    "name:ina_x_preferred":[
+        "baia"
+    ],
     "name:ind_x_preferred":[
         "teluk"
     ],
@@ -159,6 +201,9 @@
     ],
     "name:isl_x_preferred":[
         "V\u00edk"
+    ],
+    "name:isl_x_variant":[
+        "v\u00edk"
     ],
     "name:ita_x_preferred":[
         "baia"
@@ -193,6 +238,9 @@
     "name:lat_x_preferred":[
         "Sinus maritimus"
     ],
+    "name:lat_x_variant":[
+        "sinus marinus"
+    ],
     "name:lav_x_preferred":[
         "l\u012bcis"
     ],
@@ -207,6 +255,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0412\u04f1\u0434\u043b\u0443\u043a"
+    ],
+    "name:mhr_x_variant":[
+        "\u0432\u04f1\u0434\u043b\u0443\u043a"
     ],
     "name:min_x_preferred":[
         "Taluak"
@@ -229,6 +280,12 @@
     "name:msa_x_preferred":[
         "teluk"
     ],
+    "name:mya_x_preferred":[
+        "\u1015\u1004\u103a\u101c\u101a\u103a\u1021\u1031\u102c\u103a"
+    ],
+    "name:myv_x_preferred":[
+        "\u0432\u0435\u0434\u044c\u0443\u043b\u043e"
+    ],
     "name:mzn_x_preferred":[
         "\u062f\u0631\u06cc\u0627\u0645\u0648\u0646\u0627"
     ],
@@ -238,17 +295,35 @@
     "name:nds_x_preferred":[
         "Bucht"
     ],
+    "name:nep_x_preferred":[
+        "\u0916\u093e\u0921\u0940"
+    ],
     "name:nld_x_preferred":[
         "baai"
     ],
     "name:nno_x_preferred":[
         "bukt"
     ],
+    "name:nno_x_variant":[
+        "vik"
+    ],
     "name:nob_x_preferred":[
         "bukt"
     ],
+    "name:nob_x_variant":[
+        "vik"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u0430\u043a\u00e6\u043b\u00e6\u043d"
+    ],
     "name:pan_x_preferred":[
         "\u0a16\u0a3e\u0a5c\u0a40"
+    ],
+    "name:pap_x_preferred":[
+        "bahia"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062e\u0644\u06cc\u062c"
     ],
     "name:pol_x_preferred":[
         "zatoka"
@@ -256,8 +331,14 @@
     "name:por_x_preferred":[
         "ba\u00eda"
     ],
+    "name:pus_x_preferred":[
+        "\u062e\u0644\u064a\u062c"
+    ],
     "name:ron_x_preferred":[
         "Golf"
+    ],
+    "name:ron_x_variant":[
+        "golf mic"
     ],
     "name:rue_x_preferred":[
         "\u0417\u0430\u043b\u0438\u0432"
@@ -283,6 +364,18 @@
     "name:slv_x_preferred":[
         "Zaliv"
     ],
+    "name:slv_x_variant":[
+        "zaliv"
+    ],
+    "name:sme_x_preferred":[
+        "luokta"
+    ],
+    "name:smn_x_preferred":[
+        "luoht\u00e2"
+    ],
+    "name:sms_x_preferred":[
+        "luhtt"
+    ],
     "name:spa_x_preferred":[
         "bah\u00eda"
     ],
@@ -300,6 +393,9 @@
     ],
     "name:swe_x_preferred":[
         "bukt"
+    ],
+    "name:swe_x_variant":[
+        "vik"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0bbf\u0bb0\u0bbf\u0b95\u0bc1\u0b9f\u0bbe"
@@ -328,11 +424,17 @@
     "name:uzb_x_preferred":[
         "Ko\u02bbrfaz"
     ],
+    "name:vec_x_preferred":[
+        "baja"
+    ],
     "name:vep_x_preferred":[
         "Laht"
     ],
     "name:vie_x_preferred":[
         "v\u1ecbnh"
+    ],
+    "name:vls_x_preferred":[
+        "Boaie"
     ],
     "name:war_x_preferred":[
         "Linulugayan"
@@ -381,7 +483,7 @@
         }
     ],
     "wof:id":890443785,
-    "wof:lastmodified":1636501141,
+    "wof:lastmodified":1690851762,
     "wof:name":"Bay",
     "wof:parent_id":1108696979,
     "wof:placetype":"localadmin",

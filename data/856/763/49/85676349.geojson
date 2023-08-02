@@ -38,6 +38,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648"
     ],
+    "name:ary_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u064a\u0627\u06ad\u0648"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:ava_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:avk_x_preferred":[
+        "Santiago"
     ],
     "name:azb_x_preferred":[
         "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
@@ -57,6 +63,9 @@
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
     "name:bam_x_preferred":[
+        "Santiago"
+    ],
+    "name:ban_x_preferred":[
         "Santiago"
     ],
     "name:bcl_x_preferred":[
@@ -175,6 +184,9 @@
     "name:got_x_preferred":[
         "\ud800\udf43\ud800\udf30\ud800\udf3d\ud800\udf44\ud800\udf39\ud800\udf30\ud800\udf32\ud800\udf49"
     ],
+    "name:gpe_x_preferred":[
+        "Santiago"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0abf\u0aaf\u0abe\u0a97\u0acb"
     ],
@@ -231,6 +243,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d8\u10d0\u10d2\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
     "name:kbd_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0438\u0430\u0433\u043e"
@@ -291,6 +306,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928\u094d\u0924\u093f\u092f\u093e\u0917\u094b"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
     "name:mhr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
@@ -355,6 +373,9 @@
     "name:nov_x_preferred":[
         "Santiago"
     ],
+    "name:nqo_x_preferred":[
+        "\u07db\u07ca\u07f2\u07d5\u07cc\u07e6\u07ca\u07dc\u07ed\u07cf\u07eb"
+    ],
     "name:nya_x_preferred":[
         "Santiago"
     ],
@@ -408,6 +429,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c65\u1c5f\u1c71\u1c5b\u1c64\u1c6d\u1c5f\u1c5c\u1c73"
     ],
     "name:sco_x_preferred":[
         "Santiago"
@@ -466,6 +490,9 @@
     "name:tha_x_preferred":[
         "\u0e0b\u0e32\u0e19\u0e40\u0e15\u0e35\u0e22\u0e42\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e31\u0e19\u0e15\u0e34\u0e2d\u0e32\u0e42\u0e01"
+    ],
     "name:tpi_x_preferred":[
         "Santiago"
     ],
@@ -513,6 +540,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u5723\u5730\u7259\u54e5"
+    ],
+    "name:wuu_x_variant":[
+        "\u5723\u5730\u4e9a\u54e5"
     ],
     "name:xho_x_preferred":[
         "Santiago"
@@ -677,7 +707,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1642551800,
+    "wof:lastmodified":1690851320,
     "wof:name":"Santiago",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -25,11 +25,20 @@
     "name:aze_x_preferred":[
         "Kilim"
     ],
+    "name:bak_x_preferred":[
+        "\u041a\u0438\u043b\u0438\u043c"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u043b\u0456\u043c"
+    ],
     "name:bos_x_preferred":[
         "\u0106ilim"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u043b\u0438\u043c"
+    ],
+    "name:cat_x_preferred":[
+        "kilim"
     ],
     "name:ces_x_preferred":[
         "Kelim"
@@ -37,8 +46,14 @@
     "name:deu_x_preferred":[
         "Kelim"
     ],
+    "name:ell_x_preferred":[
+        "\u03ba\u03b9\u03bb\u03af\u03bc\u03b9"
+    ],
     "name:eng_x_preferred":[
         "kilim"
+    ],
+    "name:eus_x_preferred":[
+        "Kilim"
     ],
     "name:fas_x_preferred":[
         "\u06af\u0644\u06cc\u0645"
@@ -48,6 +63,9 @@
     ],
     "name:fin_x_preferred":[
         "Kelim"
+    ],
+    "name:fin_x_variant":[
+        "kelim"
     ],
     "name:fra_x_preferred":[
         "kilim"
@@ -70,6 +88,9 @@
     "name:nld_x_preferred":[
         "Kelim"
     ],
+    "name:nld_x_variant":[
+        "kelim"
+    ],
     "name:nob_x_preferred":[
         "kelim"
     ],
@@ -79,14 +100,23 @@
     "name:por_x_preferred":[
         "kilim"
     ],
+    "name:ron_x_preferred":[
+        "Kilim"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u043b\u0438\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "kilim"
     ],
     "name:srp_x_preferred":[
         "\u040b\u0438\u043b\u0438\u043c"
     ],
     "name:swe_x_preferred":[
         "Kelim"
+    ],
+    "name:swe_x_variant":[
+        "kelim"
     ],
     "name:tur_x_preferred":[
         "Kilim"
@@ -127,7 +157,7 @@
         }
     ],
     "wof:id":890436657,
-    "wof:lastmodified":1566681980,
+    "wof:lastmodified":1690851680,
     "wof:name":"Kilim",
     "wof:parent_id":1108696975,
     "wof:placetype":"locality",

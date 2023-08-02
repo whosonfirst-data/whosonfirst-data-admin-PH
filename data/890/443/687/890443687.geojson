@@ -22,8 +22,17 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0627\u0635"
     ],
+    "name:arg_x_preferred":[
+        "Gavia"
+    ],
+    "name:arz_x_preferred":[
+        "\u063a\u0648\u0627\u0635"
+    ],
     "name:ast_x_preferred":[
         "Gavia"
+    ],
+    "name:avk_x_preferred":[
+        "Mertoy"
     ],
     "name:azb_x_preferred":[
         "\u062f\u0627\u0644\u06af\u06cc\u0686 \u0642\u06c7\u0634\u0648"
@@ -43,6 +52,9 @@
     "name:bul_x_preferred":[
         "Gavia"
     ],
+    "name:bul_x_variant":[
+        "\u0433\u043c\u0443\u0440\u043a\u0430\u0447\u0438"
+    ],
     "name:cat_x_preferred":[
         "Gavia"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:ces_x_preferred":[
         "Gavia"
+    ],
+    "name:ces_x_variant":[
+        "pot\u00e1plice"
     ],
     "name:cor_x_preferred":[
         "Sedher"
@@ -67,11 +82,17 @@
     "name:eng_x_preferred":[
         "Gavia"
     ],
+    "name:epo_x_preferred":[
+        "Gavia"
+    ],
     "name:est_x_preferred":[
         "Kaur"
     ],
     "name:eus_x_preferred":[
         "Aliota"
+    ],
+    "name:ext_x_preferred":[
+        "Gavia"
     ],
     "name:fas_x_preferred":[
         "\u063a\u0648\u0627\u0635\u06cc\u0627\u0646"
@@ -85,11 +106,20 @@
     "name:fra_x_preferred":[
         "Gavia"
     ],
+    "name:gle_x_preferred":[
+        "Gavia"
+    ],
     "name:glg_x_preferred":[
         "Gavia"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05d5\u05dc\u05dc\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6\u05d5\u05dc\u05dc\u05e0\u05d0\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0942\u0928"
     ],
     "name:hun_x_preferred":[
         "Gavia"
@@ -97,11 +127,17 @@
     "name:ido_x_preferred":[
         "Gavia"
     ],
+    "name:ile_x_preferred":[
+        "Gavia"
+    ],
     "name:ina_x_preferred":[
         "Gavia"
     ],
     "name:ind_x_preferred":[
         "Loon"
+    ],
+    "name:isl_x_preferred":[
+        "Br\u00fasar"
     ],
     "name:ita_x_preferred":[
         "Gavia"
@@ -130,13 +166,31 @@
     "name:lit_x_preferred":[
         "Narai"
     ],
+    "name:mkd_x_preferred":[
+        "\u043c\u043e\u0440\u0441\u043a\u0438 \u043d\u0443\u0440\u043a\u0430\u0447"
+    ],
     "name:mrj_x_preferred":[
         "\u0422\u044b\u043a\u0442\u044b"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u102d\u102f\u1004\u103a\u1017\u102c\u1004\u103e\u1000\u103a\u1019\u103b\u102c\u1038"
     ],
     "name:nav_x_preferred":[
         "Naal\u02bcee\u0142\u00eddaak\u012f\u0301"
     ],
     "name:nld_x_preferred":[
+        "Gavia"
+    ],
+    "name:nob_x_preferred":[
+        "Gavia"
+    ],
+    "name:oci_x_preferred":[
+        "Gavia"
+    ],
+    "name:pol_x_preferred":[
+        "Gavia"
+    ],
+    "name:por_x_preferred":[
         "Gavia"
     ],
     "name:ron_x_preferred":[
@@ -166,6 +220,9 @@
     "name:swe_x_preferred":[
         "Lommar"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc2\u0ba9\u0bcd"
+    ],
     "name:tat_x_preferred":[
         "\u0413\u0430\u0433\u0430\u0440\u0430\u043b\u0430\u0440"
     ],
@@ -181,6 +238,15 @@
     "name:ukr_x_preferred":[
         "\u0433\u0430\u0433\u0430\u0440\u0430"
     ],
+    "name:uzb_x_preferred":[
+        "gagaralar"
+    ],
+    "name:vie_x_preferred":[
+        "Gavia"
+    ],
+    "name:vol_x_preferred":[
+        "Gavia"
+    ],
     "name:war_x_preferred":[
         "Gavia"
     ],
@@ -189,6 +255,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6f5b\u9d28"
+    ],
+    "name:zho_x_variant":[
+        "\u6f5c\u9e1f\u5c5e"
     ],
     "qs:name":"Loon",
     "qs:photos_9r":0,
@@ -222,7 +291,7 @@
         }
     ],
     "wof:id":890443687,
-    "wof:lastmodified":1566682062,
+    "wof:lastmodified":1690851756,
     "wof:name":"Loon",
     "wof:parent_id":1108698117,
     "wof:placetype":"localadmin",

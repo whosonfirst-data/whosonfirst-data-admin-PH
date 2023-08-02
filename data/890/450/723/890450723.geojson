@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0646\u062a\u0627"
+    ],
     "name:deu_x_preferred":[
         "Punta"
     ],
     "name:eng_x_preferred":[
         "Punta"
+    ],
+    "name:eng_x_variant":[
+        "punta"
     ],
     "name:fil_x_preferred":[
         "Punta"
@@ -31,14 +37,23 @@
     "name:fin_x_preferred":[
         "Punta"
     ],
+    "name:fin_x_variant":[
+        "punta"
+    ],
     "name:fra_x_preferred":[
         "Punta"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d4"
     ],
     "name:jpn_x_preferred":[
         "\u30d7\u30f3\u30bf"
     ],
     "name:nld_x_preferred":[
         "Punta"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c69\u1c71\u1c5b\u1c5f. \u1c6e\u1c71\u1c6e\u1c61"
     ],
     "name:spa_x_preferred":[
         "Punta"
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":890450723,
-    "wof:lastmodified":1566682201,
+    "wof:lastmodified":1690851871,
     "wof:name":"Punta",
     "wof:parent_id":1108698115,
     "wof:placetype":"locality",
