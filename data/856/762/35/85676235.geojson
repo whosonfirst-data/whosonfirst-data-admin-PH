@@ -42,6 +42,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09ae\u09cd\u09aa\u09cb\u09b8\u09cd\u099f\u09c7\u09b2\u09be \u09ad\u09cd\u09af\u09be\u09b2\u09bf"
     ],
+    "name:ben_x_variant":[
+        "\u09a6\u09be\u09ad\u09be\u0993 \u09a6\u09c7 \u0993\u09b0\u09cb"
+    ],
     "name:cbk_zam_x_preferred":[
         "Compostela Valley"
     ],
@@ -100,10 +103,14 @@
         "\u30b3\u30f3\u30dd\u30b9\u30c6\u30e9\u30fb\u30d0\u30ec\u30fc\u5dde"
     ],
     "name:jpn_x_variant":[
-        "\u30b3\u30f3\u30dd\u30b9\u30c6\u30e9\u30fb\u30d0\u30ec\u30fc"
+        "\u30b3\u30f3\u30dd\u30b9\u30c6\u30e9\u30fb\u30d0\u30ec\u30fc",
+        "\u30c0\u30d0\u30aa\u30fb\u30c7\u30fb\u30aa\u30ed"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cbe\u0c82\u0caa\u0cca\u0cb8\u0ccd\u0c9f\u0cc6\u0cb2\u0cbe \u0c95\u0ca3\u0cbf\u0cb5\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10d5\u10d0\u10dd-\u10d3\u10d4-\u10dd\u10e0\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ucf64\ud3ec\uc2a4\ud154\ub77c\ubc38\ub9ac \uc8fc"
@@ -184,7 +191,8 @@
         "\u0e04\u0e2d\u0e21\u0e42\u0e1e\u0e2a\u0e40\u0e15\u0e25\u0e32"
     ],
     "name:tha_x_variant":[
-        "\u0e25\u0e31\u0e21\u0e1a\u0e31\u0e01\u0e19\u0e32\u0e07\u0e42\u0e04\u0e21\u0e42\u0e1b\u0e2a\u0e40\u0e15\u0e25\u0e32"
+        "\u0e25\u0e31\u0e21\u0e1a\u0e31\u0e01\u0e19\u0e32\u0e07\u0e42\u0e04\u0e21\u0e42\u0e1b\u0e2a\u0e40\u0e15\u0e25\u0e32",
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e14\u0e32\u0e40\u0e27\u0e32\u0e40\u0e14\u0e42\u0e2d\u0e42\u0e23"
     ],
     "name:tur_x_preferred":[
         "Compostela Vadisi"
@@ -344,7 +352,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636500853,
+    "wof:lastmodified":1690851322,
     "wof:name":"Compostela Valley",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

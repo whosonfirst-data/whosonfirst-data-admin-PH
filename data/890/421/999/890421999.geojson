@@ -19,8 +19,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0645\u064a\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Lamian"
+    ],
     "name:eng_x_preferred":[
         "pulled noodle"
+    ],
+    "name:eng_x_variant":[
+        "lamian"
+    ],
+    "name:epo_x_preferred":[
+        "stre\u0109itaj nudeloj"
     ],
     "name:fil_x_preferred":[
         "Lamian"
@@ -28,11 +40,26 @@
     "name:fra_x_preferred":[
         "La mian"
     ],
+    "name:fra_x_variant":[
+        "la mian"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5 \u05de\u05d9\u05d0\u05df"
+    ],
     "name:ind_x_preferred":[
         "Lamian"
     ],
+    "name:ind_x_variant":[
+        "lamian"
+    ],
     "name:ita_x_preferred":[
         "Lamian"
+    ],
+    "name:ita_x_variant":[
+        "lamian"
+    ],
+    "name:jav_x_preferred":[
+        "lamian"
     ],
     "name:jpn_x_preferred":[
         "\u62c9\u9eba"
@@ -40,20 +67,47 @@
     "name:kor_x_preferred":[
         "\ub0a9\uba74"
     ],
+    "name:msa_x_preferred":[
+        "lamian"
+    ],
     "name:nan_x_preferred":[
         "La-m\u012b"
+    ],
+    "name:nan_x_variant":[
+        "tiong-sek-la-m\u012b"
     ],
     "name:nld_x_preferred":[
         "Lamian"
     ],
+    "name:nld_x_variant":[
+        "lamian"
+    ],
+    "name:rus_x_preferred":[
+        "\u043b\u0430\u043c\u044f\u043d\u044c"
+    ],
     "name:spa_x_preferred":[
+        "Lamian"
+    ],
+    "name:spa_x_variant":[
+        "lamian"
+    ],
+    "name:tur_x_preferred":[
+        "lamian"
+    ],
+    "name:uzb_x_preferred":[
         "Lamian"
     ],
     "name:vie_x_preferred":[
         "M\u00ec k\u00e9o"
     ],
+    "name:vie_x_variant":[
+        "m\u00ec k\u00e9o"
+    ],
     "name:yue_x_preferred":[
         "\u62c9\u9eb5"
+    ],
+    "name:yue_x_variant":[
+        "\u4e2d\u5f0f\u62c9\u9eaa"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u9762"
@@ -91,7 +145,7 @@
         }
     ],
     "wof:id":890421999,
-    "wof:lastmodified":1566682035,
+    "wof:lastmodified":1690851727,
     "wof:name":"Lamian",
     "wof:parent_id":1108699571,
     "wof:placetype":"locality",

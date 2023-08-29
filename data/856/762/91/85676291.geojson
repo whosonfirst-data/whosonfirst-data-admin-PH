@@ -29,8 +29,20 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u0633\u0627\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649"
     ],
+    "name:aze_x_preferred":[
+        "M\u0259rk\u0259zi Visay"
+    ],
+    "name:ban_x_preferred":[
+        "Central Visayas"
+    ],
     "name:bcl_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:bjn_x_preferred":[
+        "Central Visayas"
+    ],
+    "name:bto_x_preferred":[
+        "Central Visayas"
     ],
     "name:cat_x_preferred":[
         "Lapu-Lapu"
@@ -47,6 +59,9 @@
     "name:ceb_x_variant":[
         "Tunga-tungang Kabisay-an"
     ],
+    "name:cps_x_preferred":[
+        "Central Visayas"
+    ],
     "name:deu_x_preferred":[
         "Lapu-Lapu"
     ],
@@ -62,8 +77,14 @@
     "name:eng_x_variant":[
         "Region VII"
     ],
+    "name:epo_x_preferred":[
+        "Centraj Bisajoj"
+    ],
     "name:eus_x_preferred":[
         "Erdialdeko Bisayak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0631\u0627\u0644 \u0648\u06cc\u0633\u0627\u06cc\u0627\u0632"
     ],
     "name:fin_x_preferred":[
         "Lapu-Lapu"
@@ -76,6 +97,12 @@
     ],
     "name:fra_x_variant":[
         "Visayas centrales"
+    ],
+    "name:gor_x_preferred":[
+        "Central Visayas"
+    ],
+    "name:hil_x_preferred":[
+        "Central Visayas"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u0935\u093f\u0938\u093e\u092f\u093e"
@@ -104,6 +131,9 @@
     "name:ita_x_variant":[
         "Visayas Centrale"
     ],
+    "name:jav_x_preferred":[
+        "Central Visayas"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30d7\uff1d\u30e9\u30d7"
     ],
@@ -119,6 +149,9 @@
     "name:kor_x_variant":[
         "\uc911\uc559\ube44\uc0ac\uc57c\uc2a4 \uc9c0\ubc29"
     ],
+    "name:krj_x_preferred":[
+        "Kabisay\u00b7an Nat\u00ebng\u00b7an"
+    ],
     "name:lat_x_preferred":[
         "Lapulapu"
     ],
@@ -131,6 +164,9 @@
     "name:mal_x_preferred":[
         "\u0d32\u0d3e\u0d2a\u0d41 \u0d32\u0d3e\u0d2a\u0d41"
     ],
+    "name:min_x_preferred":[
+        "Central Visayas"
+    ],
     "name:mkd_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0438 \u0412\u0438\u0441\u0430\u0438"
     ],
@@ -139,6 +175,9 @@
     ],
     "name:msa_x_preferred":[
         "Lapu-Lapu"
+    ],
+    "name:msa_x_variant":[
+        "Bisayak Tengah"
     ],
     "name:nan_x_preferred":[
         "Gitnang Visayas"
@@ -152,11 +191,17 @@
     "name:nno_x_preferred":[
         "Lapu-Lapu"
     ],
+    "name:nob_x_preferred":[
+        "Central Visayas"
+    ],
     "name:nor_x_preferred":[
         "Lapu-Lapu"
     ],
     "name:oci_x_preferred":[
         "Visayas centrala"
+    ],
+    "name:oss_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u043e\u043d \u0412\u0438\u0441\u0430\u0439\u0442\u00e6"
     ],
     "name:pag_x_preferred":[
         "Lapu-Lapu"
@@ -197,6 +242,9 @@
     "name:spa_x_variant":[
         "Bisayas Centrales"
     ],
+    "name:sun_x_preferred":[
+        "Central Visayas"
+    ],
     "name:swe_x_preferred":[
         "Lapu-Lapu"
     ],
@@ -205,6 +253,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb5\u0bbf\u0b9a\u0baf\u0bbe\u0b9a\u0bc1"
+    ],
+    "name:tet_x_preferred":[
+        "Central Visayas"
     ],
     "name:tgl_x_preferred":[
         "Lapu-Lapu"
@@ -229,6 +280,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0648\u0633\u0637\u06cc \u0648\u06cc\u0633\u0627\u06cc\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Bisaje Sentrali"
     ],
     "name:vie_x_preferred":[
         "Lapu-Lapu"
@@ -371,7 +425,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636500855,
+    "wof:lastmodified":1690851326,
     "wof:name":"Lapu-Lapu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

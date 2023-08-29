@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u062c\u0645\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u064a\u063a\u0645\u0627"
+    ],
     "name:aze_x_preferred":[
         "Siqma"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0441\u0456\u0433\u043c\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u0997\u09ae\u09be"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f72\u0f42\u0f0b\u0f58\u0f0d"
@@ -60,6 +66,9 @@
     ],
     "name:dan_x_preferred":[
         "Sigma"
+    ],
+    "name:dan_x_variant":[
+        "sigma"
     ],
     "name:deu_x_preferred":[
         "Sigma"
@@ -90,6 +99,9 @@
     ],
     "name:gle_x_preferred":[
         "Sigme"
+    ],
+    "name:gle_x_variant":[
+        "sigme"
     ],
     "name:glg_x_preferred":[
         "Sigma"
@@ -193,6 +205,9 @@
     "name:slv_x_preferred":[
         "Sigma"
     ],
+    "name:slv_x_variant":[
+        "sigma"
+    ],
     "name:srp_x_preferred":[
         "\u0441\u0438\u0433\u043c\u0430"
     ],
@@ -255,7 +270,7 @@
         }
     ],
     "wof:id":890450459,
-    "wof:lastmodified":1566682215,
+    "wof:lastmodified":1690851878,
     "wof:name":"Sigma",
     "wof:parent_id":1108699487,
     "wof:placetype":"localadmin",

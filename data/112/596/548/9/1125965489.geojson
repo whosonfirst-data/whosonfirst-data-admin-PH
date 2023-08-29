@@ -22,8 +22,38 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ami_x_preferred":[
+        "Getafe"
+    ],
+    "name:ang_x_preferred":[
+        "Getafe"
+    ],
+    "name:ast_x_preferred":[
+        "Getafe"
+    ],
+    "name:ban_x_preferred":[
+        "Getafe"
+    ],
+    "name:bbc_x_preferred":[
+        "Getafe"
+    ],
     "name:bcl_x_preferred":[
         "Jetafe"
+    ],
+    "name:bcl_x_variant":[
+        "Getafe"
+    ],
+    "name:bjn_x_preferred":[
+        "Getafe"
+    ],
+    "name:bto_x_preferred":[
+        "Getafe"
+    ],
+    "name:bug_x_preferred":[
+        "Getafe"
+    ],
+    "name:cat_x_preferred":[
+        "Getafe"
     ],
     "name:ceb_x_preferred":[
         "Getafe"
@@ -31,14 +61,53 @@
     "name:ceb_x_variant":[
         "Jetafe"
     ],
+    "name:cps_x_preferred":[
+        "Getafe"
+    ],
+    "name:cym_x_preferred":[
+        "Getafe"
+    ],
+    "name:dag_x_preferred":[
+        "Getafe"
+    ],
+    "name:dan_x_preferred":[
+        "Getafe"
+    ],
     "name:deu_x_preferred":[
         "Getafe"
     ],
     "name:eng_x_preferred":[
         "Getafe"
     ],
+    "name:epo_x_preferred":[
+        "Getafe"
+    ],
+    "name:eus_x_preferred":[
+        "Getafe"
+    ],
+    "name:fij_x_preferred":[
+        "Getafe"
+    ],
     "name:fra_x_preferred":[
         "Jetafe"
+    ],
+    "name:gle_x_preferred":[
+        "Getafe"
+    ],
+    "name:gor_x_preferred":[
+        "Getafe"
+    ],
+    "name:hau_x_preferred":[
+        "Getafe"
+    ],
+    "name:hil_x_preferred":[
+        "Getafe"
+    ],
+    "name:hmo_x_preferred":[
+        "Getafe"
+    ],
+    "name:ibo_x_preferred":[
+        "Getafe"
     ],
     "name:ilo_x_preferred":[
         "Jetafe"
@@ -49,8 +118,41 @@
     "name:ita_x_preferred":[
         "Jetafe"
     ],
+    "name:jam_x_preferred":[
+        "Getafe"
+    ],
+    "name:jav_x_preferred":[
+        "Getafe"
+    ],
     "name:jpn_x_preferred":[
         "\u30d8\u30bf\u30d5\u30a7"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d4\u10e2\u10d0\u10e4\u10d4"
+    ],
+    "name:kon_x_preferred":[
+        "Getafe"
+    ],
+    "name:krj_x_preferred":[
+        "Getafe"
+    ],
+    "name:min_x_preferred":[
+        "Getafe"
+    ],
+    "name:mlg_x_preferred":[
+        "Getafe"
+    ],
+    "name:mri_x_preferred":[
+        "Getafe"
+    ],
+    "name:msa_x_preferred":[
+        "Getafe"
+    ],
+    "name:nah_x_preferred":[
+        "Getafe"
+    ],
+    "name:nau_x_preferred":[
+        "Getafe"
     ],
     "name:nld_x_preferred":[
         "Getafe"
@@ -61,19 +163,55 @@
     "name:nob_x_preferred":[
         "Jetafe"
     ],
+    "name:orm_x_preferred":[
+        "Getafe"
+    ],
     "name:pag_x_preferred":[
         "Getafe"
     ],
     "name:pam_x_preferred":[
         "Jetafe"
     ],
+    "name:pam_x_variant":[
+        "Getafe"
+    ],
+    "name:por_x_preferred":[
+        "Getafe"
+    ],
+    "name:pwn_x_preferred":[
+        "Getafe"
+    ],
+    "name:sco_x_preferred":[
+        "Getafe"
+    ],
+    "name:smo_x_preferred":[
+        "Getafe"
+    ],
     "name:spa_x_preferred":[
         "Jetafe"
+    ],
+    "name:sun_x_preferred":[
+        "Getafe"
+    ],
+    "name:swa_x_preferred":[
+        "Getafe"
     ],
     "name:swe_x_preferred":[
         "Getafe"
     ],
+    "name:szy_x_preferred":[
+        "Getafe"
+    ],
+    "name:tah_x_preferred":[
+        "Getafe"
+    ],
+    "name:tet_x_preferred":[
+        "Getafe"
+    ],
     "name:tgl_x_preferred":[
+        "Getafe"
+    ],
+    "name:tpi_x_preferred":[
         "Getafe"
     ],
     "name:und_x_variant":[
@@ -88,11 +226,23 @@
     "name:vie_x_preferred":[
         "Jetafe"
     ],
+    "name:vie_x_variant":[
+        "Getafe"
+    ],
     "name:war_x_preferred":[
         "Getafe"
     ],
     "name:war_x_variant":[
         "Jetafe"
+    ],
+    "name:xho_x_preferred":[
+        "Getafe"
+    ],
+    "name:yor_x_preferred":[
+        "Getafe"
+    ],
+    "name:zul_x_preferred":[
+        "Getafe"
     ],
     "qs_pg:aaroncc":"PH",
     "qs_pg:gn_country":"PH",
@@ -133,7 +283,7 @@
         }
     ],
     "wof:id":1125965489,
-    "wof:lastmodified":1566682281,
+    "wof:lastmodified":1690851920,
     "wof:name":"Jetafe",
     "wof:parent_id":1108697819,
     "wof:placetype":"locality",

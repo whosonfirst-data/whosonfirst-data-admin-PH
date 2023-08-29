@@ -23,8 +23,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ban_x_preferred":[
+        "Central Luzon"
+    ],
     "name:bcl_x_preferred":[
         "Olongapo"
+    ],
+    "name:bjn_x_preferred":[
+        "Central Luzon"
+    ],
+    "name:bto_x_preferred":[
+        "Central Luzon"
     ],
     "name:cat_x_preferred":[
         "Luzon Central"
@@ -37,6 +46,9 @@
     ],
     "name:ceb_x_variant":[
         "Tunga-tungang Luzon"
+    ],
+    "name:cps_x_preferred":[
+        "Central Luzon"
     ],
     "name:deu_x_preferred":[
         "Olongapo City"
@@ -56,6 +68,9 @@
     "name:eus_x_preferred":[
         "Erdialdeko Luzon"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a\u0631\u0627\u0644 \u0644\u0648\u0632\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Keski-Luzon"
     ],
@@ -65,6 +80,15 @@
     "name:fra_x_variant":[
         "Lu\u00e7on centrale"
     ],
+    "name:gor_x_preferred":[
+        "Central Luzon"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6 \u05dc\u05d5\u05d6\u05d5\u05df"
+    ],
+    "name:hil_x_preferred":[
+        "Central Luzon"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0927\u094d\u092f \u0932\u0942\u091c\u093c\u094b\u0928"
     ],
@@ -73,6 +97,9 @@
     ],
     "name:hrv_x_variant":[
         "Sredi\u0161nji Luzon"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u053c\u0578\u0582\u057d\u0578\u0576"
     ],
     "name:ilo_x_preferred":[
         "Olongapo"
@@ -89,14 +116,23 @@
     "name:ita_x_variant":[
         "Luzon Centrale"
     ],
+    "name:jav_x_preferred":[
+        "Central Luzon"
+    ],
     "name:jpn_x_preferred":[
         "\u4e2d\u90e8\u30eb\u30bd\u30f3\u5730\u65b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10da\u10e3\u10e1\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uc62c\ub871\uac00\ud3ec"
     ],
     "name:kor_x_variant":[
         "\uc911\uc559\ub8e8\uc190 \uc9c0\ubc29"
+    ],
+    "name:krj_x_preferred":[
+        "Kalusunan Nat\u00ebng\u00b7an"
     ],
     "name:lat_x_preferred":[
         "Olongapo"
@@ -107,11 +143,20 @@
     "name:lit_x_preferred":[
         "Centrinis Lusonas"
     ],
+    "name:min_x_preferred":[
+        "Central Luzon"
+    ],
     "name:mkd_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u0435\u043d \u041b\u0443\u0437\u043e\u043d"
     ],
     "name:msa_x_preferred":[
         "Bandaraya Olongapo"
+    ],
+    "name:msa_x_variant":[
+        "Luzon Tengah"
+    ],
+    "name:mya_x_preferred":[
+        "\u1021\u101c\u101a\u103a\u101c\u1030\u1007\u103d\u1014\u103a"
     ],
     "name:nan_x_preferred":[
         "Gitnang Luzon"
@@ -143,6 +188,9 @@
     "name:pol_x_variant":[
         "Luzon \u015arodkowy"
     ],
+    "name:por_x_preferred":[
+        "Luzon Central"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u041b\u0443\u0441\u043e\u043d"
     ],
@@ -151,6 +199,9 @@
     ],
     "name:spa_x_variant":[
         "Luz\u00f3n Central"
+    ],
+    "name:sun_x_preferred":[
+        "Central Luzon"
     ],
     "name:swe_x_preferred":[
         "Olongapo City"
@@ -163,6 +214,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bb2\u0bc2\u0b9a\u0bcb\u0ba9\u0bcd"
+    ],
+    "name:tet_x_preferred":[
+        "Central Luzon"
     ],
     "name:tgl_x_preferred":[
         "Olongapo"
@@ -272,7 +326,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1642551786,
+    "wof:lastmodified":1690851316,
     "wof:name":"Olongapo",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
