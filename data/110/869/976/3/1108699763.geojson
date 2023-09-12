@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020367,
-    "geom:area_square_m":239926033.17242,
+    "geom:area_square_m":239925985.44101,
     "geom:bbox":"121.401929,17.57311,121.599388,17.788685",
     "geom:latitude":17.694754,
     "geom:longitude":121.511195,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.TA",
+    "statoids:name":"Tuao",
+    "statoids:population":57620,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497317,
-    "wof:geomhash":"adc6f6dc7782669327c060111569e7d8",
+    "wof:geomhash":"758cb6194bbb9b6d84c4f994204fd34b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699763,
-    "wof:lastmodified":1626127489,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tuao",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

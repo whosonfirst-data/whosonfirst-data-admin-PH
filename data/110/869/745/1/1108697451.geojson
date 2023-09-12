@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008439,
-    "geom:area_square_m":102215638.044918,
+    "geom:area_square_m":102215564.486202,
     "geom:bbox":"124.70372,11.529555,124.848747,11.732028",
     "geom:latitude":11.623633,
     "geom:longitude":124.778723,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.DR",
+    "statoids:name":"Daram",
+    "statoids:population":41322,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.DR"
+    },
     "wof:country":"PH",
     "wof:created":1474495706,
-    "wof:geomhash":"402e4d7ba320e17ffba5f297acd08053",
+    "wof:geomhash":"d9a7f334f5dd111d289de34b446eba30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697451,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Daram",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

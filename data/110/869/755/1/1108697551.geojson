@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025815,
-    "geom:area_square_m":306519023.724182,
+    "geom:area_square_m":306518530.131328,
     "geom:bbox":"121.064268,16.021089,121.338869,16.337881",
     "geom:latitude":16.2079,
     "geom:longitude":121.237867,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.DN",
+    "statoids:name":"Dupax del Norte",
+    "statoids:population":25697,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474495774,
-    "wof:geomhash":"f0a645d8d72fdaf3c9906dc72c890493",
+    "wof:geomhash":"32b559de782fd8346e30bc596a31814a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697551,
-    "wof:lastmodified":1628266645,
+    "wof:lastmodified":1694492842,
     "wof:name":"Dupax Del Norte",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

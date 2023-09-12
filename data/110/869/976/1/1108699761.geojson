@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010341,
-    "geom:area_square_m":125900698.005602,
+    "geom:area_square_m":125900518.702801,
     "geom:bbox":"124.23427,10.025865,124.411392,10.112619",
     "geom:latitude":10.06358,
     "geom:longitude":124.324124,
@@ -232,16 +232,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.TI",
+    "statoids:name":"Trinidad",
+    "statoids:population":28828,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.TI"
+    },
     "wof:country":"PH",
     "wof:created":1474497316,
-    "wof:geomhash":"9424db638064a634bd267002866c745b",
+    "wof:geomhash":"85e6074ad3918c121ee764374af76e99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -251,7 +261,7 @@
         }
     ],
     "wof:id":1108699761,
-    "wof:lastmodified":1636501025,
+    "wof:lastmodified":1694492933,
     "wof:name":"Trinidad",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

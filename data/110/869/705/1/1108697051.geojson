@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000902,
-    "geom:area_square_m":11114625.533342,
+    "geom:area_square_m":11114516.527217,
     "geom:bbox":"119.737,5.007056,119.778664,5.035417",
     "geom:latitude":5.022316,
     "geom:longitude":119.755941,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TT.BN",
+    "statoids:name":"Bongao",
+    "statoids:population":79362,
+    "statoids:statoid":"PH.TT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TT.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495428,
-    "wof:geomhash":"863ac9f934542e925155b4916f3a7447",
+    "wof:geomhash":"c3c49a4dd91d85f0a8afa1706903795f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697051,
-    "wof:lastmodified":1628266633,
+    "wof:lastmodified":1694492834,
     "wof:name":"Bongao",
     "wof:parent_id":85675929,
     "wof:placetype":"county",

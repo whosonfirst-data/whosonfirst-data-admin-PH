@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007157,
-    "geom:area_square_m":87068032.725479,
+    "geom:area_square_m":87067746.675954,
     "geom:bbox":"125.080914,10.201532,125.157409,10.386887",
     "geom:latitude":10.309104,
     "geom:longitude":125.118376,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.SI",
+    "statoids:name":"Saint Bernard",
+    "statoids:population":25169,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.SI"
+    },
     "wof:country":"PH",
     "wof:created":1474496840,
-    "wof:geomhash":"254641c132e3415b70c2bc7bd9ae3568",
+    "wof:geomhash":"fd459ced928787270a61c9fa0d4aa5a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108699079,
-    "wof:lastmodified":1626127449,
+    "wof:lastmodified":1694492560,
     "wof:name":"Saint Bernard",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

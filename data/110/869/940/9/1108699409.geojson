@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007484,
-    "geom:area_square_m":91274516.127616,
+    "geom:area_square_m":91274177.325764,
     "geom:bbox":"123.295441,9.414528,123.366155,9.555488",
     "geom:latitude":9.486025,
     "geom:longitude":123.32715,
@@ -145,16 +145,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.SM",
+    "statoids:name":"Samboan",
+    "statoids:population":18613,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474497071,
-    "wof:geomhash":"d43d1c06e8f3c5f6c4513abcbbb99927",
+    "wof:geomhash":"4912886c7e8d2dac01187f48c52ce2af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +174,7 @@
         }
     ],
     "wof:id":1108699409,
-    "wof:lastmodified":1626127486,
+    "wof:lastmodified":1694492566,
     "wof:name":"Santander",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036598,
-    "geom:area_square_m":449768535.566024,
+    "geom:area_square_m":449768781.2742,
     "geom:bbox":"124.590522,6.213559,124.920533,6.509054",
     "geom:latitude":6.348833,
     "geom:longitude":124.765322,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.BN",
+    "statoids:name":"Banga",
+    "statoids:population":76343,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474497188,
-    "wof:geomhash":"5e9881001542df1f448315d9852d6f5b",
+    "wof:geomhash":"8a919995232b91991e010489797ef27a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699571,
-    "wof:lastmodified":1628266721,
+    "wof:lastmodified":1694492887,
     "wof:name":"Surallah",
     "wof:parent_id":85676263,
     "wof:placetype":"county",

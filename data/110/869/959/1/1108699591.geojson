@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001988,
-    "geom:area_square_m":24128116.158325,
+    "geom:area_square_m":24128362.03819,
     "geom:bbox":"124.905827,11.016364,124.975307,11.07669",
     "geom:latitude":11.042062,
     "geom:longitude":124.943938,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.TT",
+    "statoids:name":"Tabontabon",
+    "statoids:population":9838,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.TT"
+    },
     "wof:country":"PH",
     "wof:created":1474497201,
-    "wof:geomhash":"b8dd42cf9dac5cb9f63b2ab86fc36c38",
+    "wof:geomhash":"4585fe5d8f1be00d2739dbf1899937b9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699591,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tabontabon",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

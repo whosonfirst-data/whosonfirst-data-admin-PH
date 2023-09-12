@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007937,
-    "geom:area_square_m":93653641.698599,
+    "geom:area_square_m":93653672.645024,
     "geom:bbox":"120.654165,17.356767,120.765452,17.455226",
     "geom:latitude":17.404838,
     "geom:longitude":120.710739,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.MN",
+    "statoids:name":"Manabo",
+    "statoids:population":10756,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496297,
-    "wof:geomhash":"a9bb751b9eb2400743700adcabed90b7",
+    "wof:geomhash":"a17acf126f02c86aa805dc061872a433",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698337,
-    "wof:lastmodified":1626127477,
+    "wof:lastmodified":1694492564,
     "wof:name":"Manabo",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

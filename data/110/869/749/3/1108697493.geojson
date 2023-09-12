@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066143,
-    "geom:area_square_m":783544815.052213,
+    "geom:area_square_m":783544666.224363,
     "geom:bbox":"122.045604,16.508891,122.405418,16.809662",
     "geom:latitude":16.658763,
     "geom:longitude":122.221201,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.DN",
+    "statoids:name":"Dinapigue",
+    "statoids:population":5484,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474495735,
-    "wof:geomhash":"e8b2e85b13c6cba13b9cdeef3da06c4f",
+    "wof:geomhash":"ce2f7d000641f38d1bcefc86206b091e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697493,
-    "wof:lastmodified":1626127485,
+    "wof:lastmodified":1694492566,
     "wof:name":"Dinapigue",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

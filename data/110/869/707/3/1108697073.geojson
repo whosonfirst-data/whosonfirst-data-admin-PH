@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012207,
-    "geom:area_square_m":143940728.573791,
+    "geom:area_square_m":143940719.031619,
     "geom:bbox":"120.6455,17.444215,120.814559,17.579888",
     "geom:latitude":17.515652,
     "geom:longitude":120.719254,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.BU",
+    "statoids:name":"Bucay",
+    "statoids:population":17126,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495442,
-    "wof:geomhash":"cb6c754fd2b7dc6c21f41b530da5105a",
+    "wof:geomhash":"f01457d7482cd9848a90fdd332a75f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108697073,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Bucay",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

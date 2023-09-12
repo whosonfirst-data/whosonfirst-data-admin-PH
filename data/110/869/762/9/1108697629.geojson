@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067531,
-    "geom:area_square_m":805180500.879897,
+    "geom:area_square_m":805180595.715488,
     "geom:bbox":"120.966795,15.179903,121.360383,15.638056",
     "geom:latitude":15.365631,
     "geom:longitude":121.184334,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.GM",
+    "statoids:name":"General Mamerto Natividad",
+    "statoids:population":36720,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.GM"
+    },
     "wof:country":"PH",
     "wof:created":1474495824,
-    "wof:geomhash":"cda4ae8d0f50b043e58a01b81d7df67d",
+    "wof:geomhash":"daaa89f25b5ccd42a249b3d510880083",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697629,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1694492846,
     "wof:name":"Gen. Mamerto Natividad",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

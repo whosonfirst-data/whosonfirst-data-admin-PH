@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010638,
-    "geom:area_square_m":129101081.975299,
+    "geom:area_square_m":129100938.675058,
     "geom:bbox":"124.765801,11.01974,124.947615,11.109886",
     "geom:latitude":11.063526,
     "geom:longitude":124.860963,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.DG",
+    "statoids:name":"Dagami",
+    "statoids:population":31490,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.DG"
+    },
     "wof:country":"PH",
     "wof:created":1474495685,
-    "wof:geomhash":"142695ff4224de47f13c708b99ac8bee",
+    "wof:geomhash":"a7e51db6e4b7a3ed1564e375f8dbfee9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697419,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Dagami",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

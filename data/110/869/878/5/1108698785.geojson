@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003247,
-    "geom:area_square_m":38887992.901251,
+    "geom:area_square_m":38887926.710816,
     "geom:bbox":"121.446899,14.376042,121.554479,14.449824",
     "geom:latitude":14.411062,
     "geom:longitude":121.502044,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.PN",
+    "statoids:name":"Pangil",
+    "statoids:population":23201,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496614,
-    "wof:geomhash":"e3ee372c06037d3f52bbadd053a79c89",
+    "wof:geomhash":"49f49a0672efccc13d566f6eff91f6ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108698785,
-    "wof:lastmodified":1626127511,
+    "wof:lastmodified":1694492570,
     "wof:name":"Pangil",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

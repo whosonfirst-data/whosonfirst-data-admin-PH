@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026715,
-    "geom:area_square_m":327156085.733215,
+    "geom:area_square_m":327156241.107204,
     "geom:bbox":"116.927086,7.803833,117.085442,8.084556",
     "geom:latitude":7.94905,
     "geom:longitude":117.019494,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.BL",
+    "statoids:name":"Balabac",
+    "statoids:population":35758,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495252,
-    "wof:geomhash":"a14ed979199e14ddb7ad5ad2e8c0bfef",
+    "wof:geomhash":"2cdbc3f099d38b66f1a025d6e15a2cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696799,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balabac",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

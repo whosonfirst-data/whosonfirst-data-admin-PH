@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006924,
-    "geom:area_square_m":84511264.866099,
+    "geom:area_square_m":84511544.57861,
     "geom:bbox":"123.452491,9.142983,123.599874,9.239033",
     "geom:latitude":9.196061,
     "geom:longitude":123.535193,
@@ -154,16 +154,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SQ.SQ",
+    "statoids:name":"Siquijor",
+    "statoids:population":25231,
+    "statoids:statoid":"PH.SQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SQ.SQ"
+    },
     "wof:country":"PH",
     "wof:created":1474496528,
-    "wof:geomhash":"c5c0c1dd58afb04b19c284324c2acd8a",
+    "wof:geomhash":"a2e6e050a81f7d008402d33937b484c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +183,7 @@
         }
     ],
     "wof:id":1108698661,
-    "wof:lastmodified":1636501019,
+    "wof:lastmodified":1694492932,
     "wof:name":"Siquijor",
     "wof:parent_id":85675947,
     "wof:placetype":"county",

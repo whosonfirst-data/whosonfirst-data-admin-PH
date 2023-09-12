@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0025,
-    "geom:area_square_m":29884902.613952,
+    "geom:area_square_m":29884663.657031,
     "geom:bbox":"120.803842,14.814099,120.860601,14.878336",
     "geom:latitude":14.847059,
     "geom:longitude":120.833692,
@@ -115,16 +115,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.ML",
+    "statoids:name":"Malolos, City of",
+    "statoids:population":234945,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496286,
-    "wof:geomhash":"eb080d8f838caba3e5b6a07832f104b3",
+    "wof:geomhash":"007768ee4fb90b26d371aa520ed3a148",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +144,7 @@
         }
     ],
     "wof:id":1108698321,
-    "wof:lastmodified":1626127473,
+    "wof:lastmodified":1694492564,
     "wof:name":"Malolos",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

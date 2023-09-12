@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028836,
-    "geom:area_square_m":353889936.113491,
+    "geom:area_square_m":353889760.620327,
     "geom:bbox":"124.96527,6.960288,125.277547,7.119687",
     "geom:latitude":7.026203,
     "geom:longitude":125.097176,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.KD",
+    "statoids:name":"Kidapawan, City of",
+    "statoids:population":125447,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.KD"
+    },
     "wof:country":"PH",
     "wof:created":1474496019,
-    "wof:geomhash":"55fec6735ab17fd150dce7050c5fc481",
+    "wof:geomhash":"0f475f1f233ce2c45a11b2ea95993ad1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108697925,
-    "wof:lastmodified":1626127504,
+    "wof:lastmodified":1694492569,
     "wof:name":"Kidapawan",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

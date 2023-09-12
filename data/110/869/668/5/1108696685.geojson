@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005183,
-    "geom:area_square_m":63151727.159229,
+    "geom:area_square_m":63151917.549108,
     "geom:bbox":"123.860421,9.740135,123.962795,9.839898",
     "geom:latitude":9.789257,
     "geom:longitude":123.912386,
@@ -163,16 +163,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.AT",
+    "statoids:name":"Antequera",
+    "statoids:population":14481,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.AT"
+    },
     "wof:country":"PH",
     "wof:created":1474495177,
-    "wof:geomhash":"a044fdbaae6fdfdd7ea0dfe094ae8f5d",
+    "wof:geomhash":"f5e4214672f695d7ea87be1a9cc34895",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +192,7 @@
         }
     ],
     "wof:id":1108696685,
-    "wof:lastmodified":1626127478,
+    "wof:lastmodified":1694492565,
     "wof:name":"Antequera",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

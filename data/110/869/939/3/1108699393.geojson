@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011572,
-    "geom:area_square_m":138202491.365285,
+    "geom:area_square_m":138202716.970156,
     "geom:bbox":"120.5248,14.942506,120.689723,15.110251",
     "geom:latitude":15.014793,
     "geom:longitude":120.616421,
@@ -151,16 +151,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.BC",
+    "statoids:name":"Bacolor",
+    "statoids:population":31508,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474497061,
-    "wof:geomhash":"70e75eedf58355f64e862fce4e6f7006",
+    "wof:geomhash":"6a9a3e332db663fe503639fbe55623f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +180,7 @@
         }
     ],
     "wof:id":1108699393,
-    "wof:lastmodified":1636501016,
+    "wof:lastmodified":1694492932,
     "wof:name":"Santa Rita",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

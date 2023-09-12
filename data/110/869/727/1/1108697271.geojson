@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048232,
-    "geom:area_square_m":591483253.530798,
+    "geom:area_square_m":591483467.372034,
     "geom:bbox":"126.300807,7.252781,126.604584,7.456711",
     "geom:latitude":7.355873,
     "geom:longitude":126.436561,
@@ -136,16 +136,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.CR",
+    "statoids:name":"Caraga",
+    "statoids:population":36912,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495574,
-    "wof:geomhash":"398506359c02226628077f989cff0088",
+    "wof:geomhash":"144c912f97218145befd7a3f526d637b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +165,7 @@
         }
     ],
     "wof:id":1108697271,
-    "wof:lastmodified":1626127537,
+    "wof:lastmodified":1694492574,
     "wof:name":"Caraga",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

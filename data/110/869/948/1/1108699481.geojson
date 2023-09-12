@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006218,
-    "geom:area_square_m":76025229.520921,
+    "geom:area_square_m":76024994.178386,
     "geom:bbox":"123.455484,8.538511,123.517185,8.704556",
     "geom:latitude":8.609617,
     "geom:longitude":123.484029,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.SB",
+    "statoids:name":"Sibutad",
+    "statoids:population":16783,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474497118,
-    "wof:geomhash":"6a11c19aa06b0e7435615f9c70432f39",
+    "wof:geomhash":"78589ceda809399a4ab2ea2e17190670",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699481,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Sibutad",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

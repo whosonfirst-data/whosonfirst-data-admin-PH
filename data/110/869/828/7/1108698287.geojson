@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00629,
-    "geom:area_square_m":76677825.157417,
+    "geom:area_square_m":76677991.480468,
     "geom:bbox":"123.320389,9.623712,123.408726,9.727885",
     "geom:latitude":9.670092,
     "geom:longitude":123.360682,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.ML",
+    "statoids:name":"Malabuyoc",
+    "statoids:population":18426,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496263,
-    "wof:geomhash":"6623b2714d8ed30c8bea32edfd40e16f",
+    "wof:geomhash":"fccbd3bfe7598e55f053e7df12c68d3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698287,
-    "wof:lastmodified":1626127464,
+    "wof:lastmodified":1694492562,
     "wof:name":"Malabuyoc",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

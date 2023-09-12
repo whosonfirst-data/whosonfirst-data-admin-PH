@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019081,
-    "geom:area_square_m":232861868.412138,
+    "geom:area_square_m":232862108.67307,
     "geom:bbox":"125.741489,9.176718,126.004126,9.407056",
     "geom:latitude":9.271597,
     "geom:longitude":125.869074,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.CA",
+    "statoids:name":"Cantilan",
+    "statoids:population":30231,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495563,
-    "wof:geomhash":"f5e9d5c0a76d1f4cabafe56e55c04306",
+    "wof:geomhash":"d20070f667a3779c9fe0751da0c70784",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697257,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Cantilan",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

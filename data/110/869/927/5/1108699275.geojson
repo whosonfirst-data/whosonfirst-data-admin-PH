@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00751,
-    "geom:area_square_m":92028289.142073,
+    "geom:area_square_m":92028109.28475,
     "geom:bbox":"123.239243,7.620299,123.390108,7.724567",
     "geom:latitude":7.67413,
     "geom:longitude":123.29734,
@@ -157,16 +157,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.DN",
+    "statoids:name":"Dinas",
+    "statoids:population":34768,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474496977,
-    "wof:geomhash":"183fff83e3f6e35d49851084aa315dc1",
+    "wof:geomhash":"5dd559b7f4fe45a0422c5eb44f71f506",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +186,7 @@
         }
     ],
     "wof:id":1108699275,
-    "wof:lastmodified":1636501041,
+    "wof:lastmodified":1694492936,
     "wof:name":"San Miguel",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004592,
-    "geom:area_square_m":56474772.361292,
+    "geom:area_square_m":56474705.926198,
     "geom:bbox":"120.948136,5.898712,121.056667,5.987344",
     "geom:latitude":5.942587,
     "geom:longitude":121.00468,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.MI",
+    "statoids:name":"Maimbung",
+    "statoids:population":28445,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.MI"
+    },
     "wof:country":"PH",
     "wof:created":1474496253,
-    "wof:geomhash":"341f6296d6bc57dd3b3bb0a93593fceb",
+    "wof:geomhash":"6a75f7b42ef722bf8a329962faaadef0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698271,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694492864,
     "wof:name":"Maimbung",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

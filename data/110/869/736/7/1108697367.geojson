@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046548,
-    "geom:area_square_m":571703746.790018,
+    "geom:area_square_m":571703781.450854,
     "geom:bbox":"124.910103,6.529924,125.186179,6.768134",
     "geom:latitude":6.650023,
     "geom:longitude":125.063269,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.CL",
+    "statoids:name":"Columbio",
+    "statoids:population":27440,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495644,
-    "wof:geomhash":"15db392ec16ab12fe9760ec3f1b27ba8",
+    "wof:geomhash":"081d18498dce6332fe6173ed9e9e5c11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697367,
-    "wof:lastmodified":1628266640,
+    "wof:lastmodified":1694492838,
     "wof:name":"Columbio",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

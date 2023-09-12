@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019211,
-    "geom:area_square_m":232402774.923424,
+    "geom:area_square_m":232402556.167431,
     "geom:bbox":"123.795868,11.852739,123.982565,12.069341",
     "geom:latitude":11.947252,
     "geom:longitude":123.876625,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.PA",
+    "statoids:name":"Placer",
+    "statoids:population":55438,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.PA"
+    },
     "wof:country":"PH",
     "wof:created":1474496704,
-    "wof:geomhash":"bac54be979e198dfdf625aa7d5d0346e",
+    "wof:geomhash":"1b3099ff0a4a6394b136cf89a2a919e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108698915,
-    "wof:lastmodified":1626127518,
+    "wof:lastmodified":1694492571,
     "wof:name":"Placer",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

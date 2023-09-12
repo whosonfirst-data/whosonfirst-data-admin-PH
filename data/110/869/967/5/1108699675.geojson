@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005943,
-    "geom:area_square_m":71943367.564281,
+    "geom:area_square_m":71943449.187051,
     "geom:bbox":"122.199689,11.672359,122.283775,11.804343",
     "geom:latitude":11.739501,
     "geom:longitude":122.234622,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.TN",
+    "statoids:name":"Tangalan",
+    "statoids:population":20277,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497258,
-    "wof:geomhash":"2a3901ca6025beaf871baf52a9bf5a73",
+    "wof:geomhash":"d0a932c17aeed7658536210c73fb4021",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699675,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Tangalan",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

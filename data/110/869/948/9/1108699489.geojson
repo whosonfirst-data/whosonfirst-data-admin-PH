@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002588,
-    "geom:area_square_m":31546836.442023,
+    "geom:area_square_m":31546675.826223,
     "geom:bbox":"123.961582,9.659575,124.029993,9.709036",
     "geom:latitude":9.68575,
     "geom:longitude":123.995222,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.SK",
+    "statoids:name":"Sikatuna",
+    "statoids:population":6380,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.SK"
+    },
     "wof:country":"PH",
     "wof:created":1474497130,
-    "wof:geomhash":"ad850a7d5e8959881c603fca73cb670a",
+    "wof:geomhash":"9184648c714d007bbb7d005926b15729",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699489,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694492884,
     "wof:name":"Sikatuna",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

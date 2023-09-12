@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025364,
-    "geom:area_square_m":300250916.396807,
+    "geom:area_square_m":300250844.255676,
     "geom:bbox":"120.848544,16.700129,121.089571,16.87795",
     "geom:latitude":16.794209,
     "geom:longitude":120.957716,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IF.HN",
+    "statoids:name":"Hungduan",
+    "statoids:population":9933,
+    "statoids:statoid":"PH.IF",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IF.HN"
+    },
     "wof:country":"PH",
     "wof:created":1474495895,
-    "wof:geomhash":"e328672b4601f429cbb810579a912292",
+    "wof:geomhash":"eb07a0a59149aac4b45ee56fb67e4b0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697735,
-    "wof:lastmodified":1628266656,
+    "wof:lastmodified":1694492849,
     "wof:name":"Hungduan",
     "wof:parent_id":85676077,
     "wof:placetype":"county",

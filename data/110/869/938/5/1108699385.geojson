@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009801,
-    "geom:area_square_m":115598613.920888,
+    "geom:area_square_m":115598548.913655,
     "geom:bbox":"121.663025,17.432706,121.817746,17.520911",
     "geom:latitude":17.476532,
     "geom:longitude":121.74324,
@@ -163,16 +163,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.ST",
+    "statoids:name":"Santo Tomas",
+    "statoids:population":21688,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.ST"
+    },
     "wof:country":"PH",
     "wof:created":1474497056,
-    "wof:geomhash":"94e0cd547eeb11afc34256791c92aa3b",
+    "wof:geomhash":"dedd0c584be129cbafd64b3be2a08d71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +192,7 @@
         }
     ],
     "wof:id":1108699385,
-    "wof:lastmodified":1636501014,
+    "wof:lastmodified":1694492932,
     "wof:name":"Santa Maria",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024051,
-    "geom:area_square_m":292347529.570741,
+    "geom:area_square_m":292347427.152102,
     "geom:bbox":"122.507889,10.432889,122.710419,10.677917",
     "geom:latitude":10.567055,
     "geom:longitude":122.610026,
@@ -655,16 +655,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.GU.SB",
+    "statoids:name":"Sibunag",
+    "statoids:population":19565,
+    "statoids:statoid":"PH.GU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.GU.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474495962,
-    "wof:geomhash":"4ffa9a839d87ff117cdb96fddd05bac0",
+    "wof:geomhash":"b58beb0ace31e326952b717ce678815e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -674,7 +684,7 @@
         }
     ],
     "wof:id":1108697837,
-    "wof:lastmodified":1626127489,
+    "wof:lastmodified":1694492567,
     "wof:name":"Jordan",
     "wof:parent_id":85675999,
     "wof:placetype":"county",

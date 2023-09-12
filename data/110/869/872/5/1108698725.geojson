@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018871,
-    "geom:area_square_m":231576175.395411,
+    "geom:area_square_m":231576239.864916,
     "geom:bbox":"124.684086,6.969977,124.838192,7.193514",
     "geom:latitude":7.058168,
     "geom:longitude":124.756789,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MG.PG",
+    "statoids:name":"Pagagawan",
+    "statoids:population":31265,
+    "statoids:statoid":"PH.MG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MG.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496572,
-    "wof:geomhash":"3e62a1e3e910ef43d9e0c0735b4bffaa",
+    "wof:geomhash":"0bc5ab730c48b1050fad98ce4a48befa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698725,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Pagalungan",
     "wof:parent_id":85676173,
     "wof:placetype":"county",

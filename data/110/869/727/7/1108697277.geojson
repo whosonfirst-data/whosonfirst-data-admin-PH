@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063314,
-    "geom:area_square_m":752555200.371099,
+    "geom:area_square_m":752555336.251264,
     "geom:bbox":"120.876367,15.851901,121.190602,16.13085",
     "geom:latitude":16.001433,
     "geom:longitude":121.033696,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.CR",
+    "statoids:name":"Carranglan",
+    "statoids:population":37124,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495578,
-    "wof:geomhash":"986be3cf863d3e8e93e803de4dcde6f3",
+    "wof:geomhash":"1a36b01111daf39f473c78cd963e0e9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697277,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Caranglan",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

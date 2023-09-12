@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018956,
-    "geom:area_square_m":229603466.749779,
+    "geom:area_square_m":229603370.315397,
     "geom:bbox":"122.129863,11.536173,122.325311,11.682714",
     "geom:latitude":11.606108,
     "geom:longitude":122.225147,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.ML",
+    "statoids:name":"Malinao",
+    "statoids:population":24108,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496278,
-    "wof:geomhash":"47d1330f3fa5a054018c2d777a6eabd1",
+    "wof:geomhash":"ed5e900361bd896b14acc1d44f916107",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698311,
-    "wof:lastmodified":1626127515,
+    "wof:lastmodified":1694492570,
     "wof:name":"Malinao",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

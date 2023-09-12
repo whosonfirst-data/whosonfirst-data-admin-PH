@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004639,
-    "geom:area_square_m":54867095.181539,
+    "geom:area_square_m":54867305.234671,
     "geom:bbox":"120.409794,16.908078,120.516067,16.993123",
     "geom:latitude":16.940812,
     "geom:longitude":120.46055,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.TG",
+    "statoids:name":"Tagudin",
+    "statoids:population":38122,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474497221,
-    "wof:geomhash":"8ea8c46e3131d5c8e33c32436374b0b9",
+    "wof:geomhash":"6bbcbe9d88c430b11616595e45244e50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699619,
-    "wof:lastmodified":1626127494,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tagudin",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

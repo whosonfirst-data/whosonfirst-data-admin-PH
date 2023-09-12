@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010718,
-    "geom:area_square_m":130648350.43392,
+    "geom:area_square_m":130648248.993208,
     "geom:bbox":"125.887054,9.562028,125.989586,9.76375",
     "geom:latitude":9.659666,
     "geom:longitude":125.941614,
@@ -115,10 +115,12 @@
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SN.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474497157,
-    "wof:geomhash":"6d2df30d1ff0b418ff3513d2588713b4",
+    "wof:geomhash":"2e295ab48d312d9b50dd981988af6575",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1108699527,
-    "wof:lastmodified":1636501017,
+    "wof:lastmodified":1694492932,
     "wof:name":"Socorro",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

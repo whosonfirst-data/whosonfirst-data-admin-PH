@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009127,
-    "geom:area_square_m":108261603.123065,
+    "geom:area_square_m":108261760.748879,
     "geom:bbox":"120.32122,16.354878,120.478977,16.460539",
     "geom:latitude":16.3981,
     "geom:longitude":120.406494,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.AI",
+    "statoids:name":"Aringay",
+    "statoids:population":44949,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495189,
-    "wof:geomhash":"d69b46b0b4f39e99da7b2f8beb04c544",
+    "wof:geomhash":"bcc35be24fd6d16bc04af33ad21dbef2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696703,
-    "wof:lastmodified":1626127512,
+    "wof:lastmodified":1694492570,
     "wof:name":"Aringay",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

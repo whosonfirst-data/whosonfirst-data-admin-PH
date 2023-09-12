@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007706,
-    "geom:area_square_m":94282964.065418,
+    "geom:area_square_m":94282791.03614,
     "geom:bbox":"123.659944,8.2992,123.862083,8.351273",
     "geom:latitude":8.324866,
     "geom:longitude":123.752196,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.JM",
+    "statoids:name":"Jimenez",
+    "statoids:population":25234,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.JM"
+    },
     "wof:country":"PH",
     "wof:created":1474495955,
-    "wof:geomhash":"0c18b302c1ecd1ffd60a09917776d601",
+    "wof:geomhash":"0c3a254693f8448281897d574e12bf55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697827,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jimenez",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

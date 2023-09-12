@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039526,
-    "geom:area_square_m":484225971.897123,
+    "geom:area_square_m":484226157.718441,
     "geom:bbox":"122.116115,7.676278,122.412668,7.957796",
     "geom:latitude":7.802088,
     "geom:longitude":122.2584,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.BL",
+    "statoids:name":"Baliguian",
+    "statoids:population":21190,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495279,
-    "wof:geomhash":"a7e1b6086fc36e9ddd8445ab2485a5f2",
+    "wof:geomhash":"71aac6809b6d2fde832f4c8c17d1061a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696837,
-    "wof:lastmodified":1626127513,
+    "wof:lastmodified":1694492570,
     "wof:name":"Baliguian",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

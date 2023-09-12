@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006423,
-    "geom:area_square_m":75637438.914825,
+    "geom:area_square_m":75637425.791277,
     "geom:bbox":"121.678472,17.670051,121.775327,17.79659",
     "geom:latitude":17.744301,
     "geom:longitude":121.738265,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.IU",
+    "statoids:name":"Iguig",
+    "statoids:population":25559,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.IU"
+    },
     "wof:country":"PH",
     "wof:created":1474495902,
-    "wof:geomhash":"31dcbcb1dfdff89794ef99b7cc815237",
+    "wof:geomhash":"867ed79a3177290bc3ee663569096264",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697745,
-    "wof:lastmodified":1626127533,
+    "wof:lastmodified":1694492573,
     "wof:name":"Iguig",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

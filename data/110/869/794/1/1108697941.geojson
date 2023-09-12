@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016439,
-    "geom:area_square_m":199965874.235445,
+    "geom:area_square_m":199965872.27322,
     "geom:bbox":"122.958895,10.27118,123.177412,10.414368",
     "geom:latitude":10.340778,
     "geom:longitude":123.069864,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.LA",
+    "statoids:name":"La Castellana",
+    "statoids:population":71013,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474496029,
-    "wof:geomhash":"56b910ef64ffbbb40112a2cd1e0aed5f",
+    "wof:geomhash":"66e8b230156208b077a08f04a61e4c59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697941,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"La Castellana",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

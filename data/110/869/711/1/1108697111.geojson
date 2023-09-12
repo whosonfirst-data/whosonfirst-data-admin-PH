@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039391,
-    "geom:area_square_m":483628401.67614,
+    "geom:area_square_m":483628165.264505,
     "geom:bbox":"124.643063,6.646776,124.900197,6.977997",
     "geom:latitude":6.821005,
     "geom:longitude":124.77413,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MG.PL",
+    "statoids:name":"Pagalungan",
+    "statoids:population":31891,
+    "statoids:statoid":"PH.MG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MG.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474495467,
-    "wof:geomhash":"26eea3c0aeecd540d9db410285a96f85",
+    "wof:geomhash":"0cb877504a257822e637b8b6aba24cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697111,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694492835,
     "wof:name":"Buluan",
     "wof:parent_id":85676173,
     "wof:placetype":"county",

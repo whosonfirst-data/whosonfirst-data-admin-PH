@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022563,
-    "geom:area_square_m":276414434.562063,
+    "geom:area_square_m":276413974.310873,
     "geom:bbox":"124.60238,7.625186,124.810234,7.936333",
     "geom:latitude":7.801316,
     "geom:longitude":124.722593,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.KL",
+    "statoids:name":"Kalilangan",
+    "statoids:population":39847,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.KL"
+    },
     "wof:country":"PH",
     "wof:created":1474495991,
-    "wof:geomhash":"f259131fab67a01aa5b444f57688f399",
+    "wof:geomhash":"653055d77db0a70f0b3e1a5fee28535a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697883,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Kalilangan",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

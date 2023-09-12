@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007871,
-    "geom:area_square_m":93272063.401723,
+    "geom:area_square_m":93272095.492665,
     "geom:bbox":"121.110021,16.559552,121.243866,16.648041",
     "geom:latitude":16.600631,
     "geom:longitude":121.170148,
@@ -36,7 +36,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Villaverde (ibung)"
+        "Villaverde"
     ],
     "name:fra_x_preferred":[
         "Ibung"
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.VL",
+    "statoids:name":"Villaverde",
+    "statoids:population":17720,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497391,
-    "wof:geomhash":"c494dd07117dcd6c5ef5c88c27641c95",
+    "wof:geomhash":"d7d93604e322867e02228b9b3071bda5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +75,8 @@
         }
     ],
     "wof:id":1108699873,
-    "wof:lastmodified":1628266742,
-    "wof:name":"Villaverde (ibung)",
+    "wof:lastmodified":1694492892,
+    "wof:name":"Villaverde",
     "wof:parent_id":85676083,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

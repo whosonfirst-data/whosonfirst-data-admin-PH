@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007851,
-    "geom:area_square_m":93778526.202363,
+    "geom:area_square_m":93779019.995085,
     "geom:bbox":"120.723026,14.915648,120.88329,15.032776",
     "geom:latitude":14.985326,
     "geom:longitude":120.808566,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.SS",
+    "statoids:name":"San Simon",
+    "statoids:population":48353,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.SS"
+    },
     "wof:country":"PH",
     "wof:created":1474497010,
-    "wof:geomhash":"ea641ffb851196661dfc569c8df10964",
+    "wof:geomhash":"0e45a56d9563973febf6d044fd5a3db9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108699315,
-    "wof:lastmodified":1626127448,
+    "wof:lastmodified":1694492559,
     "wof:name":"San Simon",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002665,
-    "geom:area_square_m":31912198.492833,
+    "geom:area_square_m":31912235.325742,
     "geom:bbox":"121.434297,14.392837,121.537551,14.474777",
     "geom:latitude":14.43508,
     "geom:longitude":121.486151,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.SN",
+    "statoids:name":"Siniloan",
+    "statoids:population":35363,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497143,
-    "wof:geomhash":"5b5e672a1653689cab3160b4d76e937f",
+    "wof:geomhash":"0ca72c83370b9c5fdc1af8fb1ba35bad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699509,
-    "wof:lastmodified":1626127492,
+    "wof:lastmodified":1694492567,
     "wof:name":"Siniloan",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

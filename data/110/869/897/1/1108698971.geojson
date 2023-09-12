@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021378,
-    "geom:area_square_m":251163649.104224,
+    "geom:area_square_m":251163621.970219,
     "geom:bbox":"121.215092,18.074019,121.411686,18.259784",
     "geom:latitude":18.167453,
     "geom:longitude":121.304193,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AP.PD",
+    "statoids:name":"Pudtol",
+    "statoids:population":13305,
+    "statoids:statoid":"PH.AP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AP.PD"
+    },
     "wof:country":"PH",
     "wof:created":1474496741,
-    "wof:geomhash":"5d695a70d294ea623eac7aa74ad62686",
+    "wof:geomhash":"22be747ad1e8d138432e24392b0b637b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698971,
-    "wof:lastmodified":1626127524,
+    "wof:lastmodified":1694492572,
     "wof:name":"Pudtol",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

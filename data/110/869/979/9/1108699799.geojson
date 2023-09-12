@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012768,
-    "geom:area_square_m":150487614.228353,
+    "geom:area_square_m":150487398.980716,
     "geom:bbox":"121.678575,17.509783,121.85866,17.677401",
     "geom:latitude":17.597997,
     "geom:longitude":121.763117,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.TG",
+    "statoids:name":"Tuguegarao City",
+    "statoids:population":138865,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474497341,
-    "wof:geomhash":"43a20e5b5249cd65bfb7a5abd0358bca",
+    "wof:geomhash":"d116c4bc740bbd3a44c600dbe86acfb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108699799,
-    "wof:lastmodified":1636501021,
+    "wof:lastmodified":1694492933,
     "wof:name":"Tuguegarao",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

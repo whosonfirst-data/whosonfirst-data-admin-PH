@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026854,
-    "geom:area_square_m":325426470.669189,
+    "geom:area_square_m":325426493.604993,
     "geom:bbox":"122.116695,11.314967,122.348166,11.570379",
     "geom:latitude":11.463844,
     "geom:longitude":122.218659,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.MD",
+    "statoids:name":"Madalag",
+    "statoids:population":18168,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.MD"
+    },
     "wof:country":"PH",
     "wof:created":1474496217,
-    "wof:geomhash":"f872ad9da751c38410c77c8ea546aa40",
+    "wof:geomhash":"bcdbf5d336dca0ddf092ef8be7b917a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698215,
-    "wof:lastmodified":1626127466,
+    "wof:lastmodified":1694492563,
     "wof:name":"Madalag",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

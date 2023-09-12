@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017129,
-    "geom:area_square_m":202128639.10888,
+    "geom:area_square_m":202129128.051004,
     "geom:bbox":"120.970613,17.325472,121.226939,17.438349",
     "geom:latitude":17.385072,
     "geom:longitude":121.088027,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.KA.PS",
+    "statoids:name":"Pasil",
+    "statoids:population":9626,
+    "statoids:statoid":"PH.KA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.KA.PS"
+    },
     "wof:country":"PH",
     "wof:created":1474496645,
-    "wof:geomhash":"e9b94c0f98f087345acea67bb5b64530",
+    "wof:geomhash":"fc3d18537a68772a35512bba43cc25be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698825,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pasil",
     "wof:parent_id":85676269,
     "wof:placetype":"county",

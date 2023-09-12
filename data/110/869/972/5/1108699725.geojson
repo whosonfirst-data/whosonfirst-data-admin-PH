@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00854,
-    "geom:area_square_m":103544352.039462,
+    "geom:area_square_m":103544322.947104,
     "geom:bbox":"122.025391,11.24912,122.171442,11.359351",
     "geom:latitude":11.312293,
     "geom:longitude":122.086575,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.TB",
+    "statoids:name":"Tibiao",
+    "statoids:population":24513,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497291,
-    "wof:geomhash":"f636fde444f4c5fc2a450efcf4ef382f",
+    "wof:geomhash":"91180dcc38f4755d583a3358d6be5df9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699725,
-    "wof:lastmodified":1626127538,
+    "wof:lastmodified":1694492574,
     "wof:name":"Tibiao",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006639,
-    "geom:area_square_m":79546621.615707,
+    "geom:area_square_m":79546665.658841,
     "geom:bbox":"120.726528,14.232638,120.859522,14.348434",
     "geom:latitude":14.292285,
     "geom:longitude":120.794081,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.NI",
+    "statoids:name":"Naic",
+    "statoids:population":88144,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.NI"
+    },
     "wof:country":"PH",
     "wof:created":1474496451,
-    "wof:geomhash":"2a3314feea31255a5c5bbe7c7de838f0",
+    "wof:geomhash":"1eff285900a5e86c5aa7f8e82ac893c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108698551,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Naic",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

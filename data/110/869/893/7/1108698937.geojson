@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010413,
-    "geom:area_square_m":126659242.101573,
+    "geom:area_square_m":126659446.544151,
     "geom:bbox":"122.855415,10.306752,123.016753,10.407272",
     "geom:latitude":10.355926,
     "geom:longitude":122.935067,
@@ -208,10 +208,12 @@
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.PV"
+    },
     "wof:country":"PH",
     "wof:created":1474496718,
-    "wof:geomhash":"561de750fb49578ce0341b989342f947",
+    "wof:geomhash":"b79990625d47154f781ac954411471fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -221,7 +223,7 @@
         }
     ],
     "wof:id":1108698937,
-    "wof:lastmodified":1636501020,
+    "wof:lastmodified":1694492932,
     "wof:name":"Pontevedra",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

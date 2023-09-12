@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011394,
-    "geom:area_square_m":139171452.5424,
+    "geom:area_square_m":139171294.983892,
     "geom:bbox":"125.2024,8.86391,125.30082,9.092083",
     "geom:latitude":8.955667,
     "geom:longitude":125.255084,
@@ -196,16 +196,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.CR",
+    "statoids:name":"Carmen",
+    "statoids:population":19781,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495593,
-    "wof:geomhash":"61384b3cef9d03aa8ed58789f2d8c7b1",
+    "wof:geomhash":"da4b9d14ec441ff36e7e8cf6dac0be50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +225,7 @@
         }
     ],
     "wof:id":1108697299,
-    "wof:lastmodified":1626127536,
+    "wof:lastmodified":1694492574,
     "wof:name":"Carmen",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

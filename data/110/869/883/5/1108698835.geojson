@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003724,
-    "geom:area_square_m":45805138.599377,
+    "geom:area_square_m":45805274.003944,
     "geom:bbox":"121.131226,5.77875,121.207916,5.850417",
     "geom:latitude":5.814097,
     "geom:longitude":121.165434,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.PT",
+    "statoids:name":"Pata",
+    "statoids:population":14918,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.PT"
+    },
     "wof:country":"PH",
     "wof:created":1474496651,
-    "wof:geomhash":"085ea27d0a36ee53793fa5a9c3d1e317",
+    "wof:geomhash":"9171187cb9764a68ecec89e69071b6be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698835,
-    "wof:lastmodified":1626127506,
+    "wof:lastmodified":1694492569,
     "wof:name":"Pata",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

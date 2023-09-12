@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005056,
-    "geom:area_square_m":61979092.17059,
+    "geom:area_square_m":61979155.103593,
     "geom:bbox":"123.106479,7.464556,123.248014,7.556456",
     "geom:latitude":7.518412,
     "geom:longitude":123.177213,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.VN",
+    "statoids:name":"Vincenzo A. Sagun",
+    "statoids:population":20583,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.VN"
+    },
     "wof:country":"PH",
     "wof:created":1474497394,
-    "wof:geomhash":"aa9191e73431b7027c38efb4f0ea8e6e",
+    "wof:geomhash":"5d7fcae3868c9f223b67c1ca21c335af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699879,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694492892,
     "wof:name":"Vincenzo A. Sagun",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

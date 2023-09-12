@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007083,
-    "geom:area_square_m":86179823.492976,
+    "geom:area_square_m":86179840.198053,
     "geom:bbox":"125.512032,10.211465,125.65433,10.342584",
     "geom:latitude":10.284844,
     "geom:longitude":125.578177,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DI.TJ",
+    "statoids:name":"Tubajon",
+    "statoids:population":7568,
+    "statoids:statoid":"PH.DI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DI.TJ"
+    },
     "wof:country":"PH",
     "wof:created":1474497320,
-    "wof:geomhash":"e4f15ac79b43582bc8722aa369022371",
+    "wof:geomhash":"34ca4c1c58345a89522920ba817494f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699769,
-    "wof:lastmodified":1628266733,
+    "wof:lastmodified":1694492890,
     "wof:name":"Tubajon",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

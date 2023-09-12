@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01389,
-    "geom:area_square_m":162898953.729925,
+    "geom:area_square_m":162898987.05204,
     "geom:bbox":"120.561226,18.387978,120.715513,18.549555",
     "geom:latitude":18.479753,
     "geom:longitude":120.654192,
@@ -256,16 +256,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.BR",
+    "statoids:name":"Burgos",
+    "statoids:population":9687,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495475,
-    "wof:geomhash":"3dcf60424456816ebee928e7af179748",
+    "wof:geomhash":"7dc482f84968982eb3e4d3ef29f7690a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -275,7 +285,7 @@
         }
     ],
     "wof:id":1108697125,
-    "wof:lastmodified":1626127487,
+    "wof:lastmodified":1694492566,
     "wof:name":"Burgos",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

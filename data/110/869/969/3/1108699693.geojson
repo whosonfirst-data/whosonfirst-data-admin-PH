@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001767,
-    "geom:area_square_m":21640913.525438,
+    "geom:area_square_m":21640924.078001,
     "geom:bbox":"124.327615,7.883016,124.394753,7.928432",
     "geom:latitude":7.907368,
     "geom:longitude":124.362952,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.TR",
+    "statoids:name":"Taraka",
+    "statoids:population":20881,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.TR"
+    },
     "wof:country":"PH",
     "wof:created":1474497271,
-    "wof:geomhash":"36539679c0aaa1de5b724b83c517fbfb",
+    "wof:geomhash":"4835e6a9164ed2d1306c1b1de87ce2f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108699693,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Taraka",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

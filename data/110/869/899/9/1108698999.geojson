@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009947,
-    "geom:area_square_m":117526635.691545,
+    "geom:area_square_m":117526721.16322,
     "geom:bbox":"121.706965,17.09615,121.837528,17.203631",
     "geom:latitude":17.156987,
     "geom:longitude":121.767036,
@@ -139,16 +139,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.QI",
+    "statoids:name":"Quirino",
+    "statoids:population":22285,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.QI"
+    },
     "wof:country":"PH",
     "wof:created":1474496768,
-    "wof:geomhash":"e46648de8c37d7fad0509dda327ace84",
+    "wof:geomhash":"d2a7e950aef51cde3f83dcf4b79dc4d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +168,7 @@
         }
     ],
     "wof:id":1108698999,
-    "wof:lastmodified":1636501038,
+    "wof:lastmodified":1694492935,
     "wof:name":"Quirino",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

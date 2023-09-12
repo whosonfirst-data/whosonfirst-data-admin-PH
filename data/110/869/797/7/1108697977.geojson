@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036186,
-    "geom:area_square_m":434474589.338716,
+    "geom:area_square_m":434474741.997911,
     "geom:bbox":"123.406126,13.713807,123.640187,13.97125",
     "geom:latitude":13.827867,
     "geom:longitude":123.519329,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.LG",
+    "statoids:name":"Lagonoy",
+    "statoids:population":51814,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.LG"
+    },
     "wof:country":"PH",
     "wof:created":1474496053,
-    "wof:geomhash":"58fd6db6100c76b5650bcdf7347adf58",
+    "wof:geomhash":"648efb9ab99460674313029b0b23d505",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697977,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694492858,
     "wof:name":"Lagonoy",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

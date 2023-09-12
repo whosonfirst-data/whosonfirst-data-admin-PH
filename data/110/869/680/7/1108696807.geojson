@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009106,
-    "geom:area_square_m":108919384.569335,
+    "geom:area_square_m":108919322.398159,
     "geom:bbox":"120.382276,14.631648,120.56292,14.732966",
     "geom:latitude":14.67967,
     "geom:longitude":120.474412,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.BL",
+    "statoids:name":"Balanga, City of",
+    "statoids:population":87920,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495258,
-    "wof:geomhash":"8cc7e20fa6bd59545365a44d8c018f7f",
+    "wof:geomhash":"94d05e5f71019c427adbe0dbb09ed761",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108696807,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balanga",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

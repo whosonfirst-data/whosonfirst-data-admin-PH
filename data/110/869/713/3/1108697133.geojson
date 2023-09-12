@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002468,
-    "geom:area_square_m":30054792.091315,
+    "geom:area_square_m":30054593.734333,
     "geom:bbox":"126.026253,9.990631,126.087126,10.062083",
     "geom:latitude":10.023216,
     "geom:longitude":126.054428,
@@ -262,10 +262,12 @@
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SN.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495481,
-    "wof:geomhash":"3e3e27d5e74c038bb61c268dac87842c",
+    "wof:geomhash":"15c769867a79ff042acedb1d954f8a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -275,7 +277,7 @@
         }
     ],
     "wof:id":1108697133,
-    "wof:lastmodified":1626127482,
+    "wof:lastmodified":1694492565,
     "wof:name":"Burgos",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

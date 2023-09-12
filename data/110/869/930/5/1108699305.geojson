@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027856,
-    "geom:area_square_m":332687855.614358,
+    "geom:area_square_m":332687938.532216,
     "geom:bbox":"120.862019,14.947802,121.342462,15.069175",
     "geom:latitude":15.010978,
     "geom:longitude":121.087447,
@@ -127,16 +127,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.DR",
+    "statoids:name":"Do\u00f1a Remedios Trinidad",
+    "statoids:population":19878,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.DR"
+    },
     "wof:country":"PH",
     "wof:created":1474496997,
-    "wof:geomhash":"a7fbf4ff752b4610d1f75b72199f665c",
+    "wof:geomhash":"0fdfb47928580ade6984ae1d9289985d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +156,7 @@
         }
     ],
     "wof:id":1108699305,
-    "wof:lastmodified":1636501016,
+    "wof:lastmodified":1694492932,
     "wof:name":"San Rafael",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

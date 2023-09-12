@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015112,
-    "geom:area_square_m":184623819.187525,
+    "geom:area_square_m":184623939.714778,
     "geom:bbox":"126.147525,8.832445,126.332947,8.947606",
     "geom:latitude":8.884972,
     "geom:longitude":126.236715,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.CG",
+    "statoids:name":"Cagwait",
+    "statoids:population":18899,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.CG"
+    },
     "wof:country":"PH",
     "wof:created":1474495516,
-    "wof:geomhash":"b2a5da16771c4c36f80e549f3a2d62cb",
+    "wof:geomhash":"931f07d14d46c2f20f8b466cc4b44705",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697185,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cagwait",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

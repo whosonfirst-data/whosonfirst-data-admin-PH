@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038678,
-    "geom:area_square_m":458658676.738759,
+    "geom:area_square_m":458658543.399629,
     "geom:bbox":"120.670414,16.310196,120.894243,16.59839",
     "geom:latitude":16.462172,
     "geom:longitude":120.79765,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.BO",
+    "statoids:name":"Bokod",
+    "statoids:population":12648,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.BO"
+    },
     "wof:country":"PH",
     "wof:created":1474495417,
-    "wof:geomhash":"c21ad33a665842464c91dddd1f0fa330",
+    "wof:geomhash":"c965daef3a89ed67f78bb5598dbe37fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108697035,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Bokod",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

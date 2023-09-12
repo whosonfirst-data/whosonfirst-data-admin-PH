@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013832,
-    "geom:area_square_m":164009658.516154,
+    "geom:area_square_m":164009356.977974,
     "geom:bbox":"121.068926,16.414384,121.254319,16.560227",
     "geom:latitude":16.477899,
     "geom:longitude":121.142908,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.BY",
+    "statoids:name":"Bayombong",
+    "statoids:population":57416,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.BY"
+    },
     "wof:country":"PH",
     "wof:created":1474495383,
-    "wof:geomhash":"76d1fa7ff884667e1d5c55994f7ed7f4",
+    "wof:geomhash":"ec198866de533d0484778a327f47f638",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108696983,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Bayombong",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

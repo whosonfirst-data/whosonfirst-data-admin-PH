@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00403,
-    "geom:area_square_m":49079724.981138,
+    "geom:area_square_m":49079799.371648,
     "geom:bbox":"125.562027,9.947889,125.628884,10.056805",
     "geom:latitude":10.004346,
     "geom:longitude":125.60004,
@@ -188,6 +188,14 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DI.SJ",
+    "statoids:name":"San Jose",
+    "statoids:population":31035,
+    "statoids:statoid":"PH.DI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":2604,
     "wof:belongsto":[
         85632509
@@ -195,6 +203,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":29389347,
+        "hasc:id":"PH.DI.SJ",
         "qs_pg:id":264488,
         "wd:id":"Q13807",
         "wk:page":"Dinagat Islands"
@@ -204,7 +213,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"061fa43842b81ed636d3a9e04d82d027",
+    "wof:geomhash":"ad557fe5e66733a19d006189085c5fe3",
     "wof:hierarchy":[
         {
             "country_id":85632509,
@@ -212,7 +221,7 @@
         }
     ],
     "wof:id":890455737,
-    "wof:lastmodified":1690851674,
+    "wof:lastmodified":1694492713,
     "wof:name":"Dinagat",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003288,
-    "geom:area_square_m":38677328.61629,
+    "geom:area_square_m":38677303.630977,
     "geom:bbox":"120.526959,17.919491,120.60647,17.981521",
     "geom:latitude":17.949841,
     "geom:longitude":120.561374,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.PN",
+    "statoids:name":"Pinili",
+    "statoids:population":16732,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496695,
-    "wof:geomhash":"735dc8a57052617c2c5d7626c9b139ba",
+    "wof:geomhash":"88ce0f97ed6e491343803aa224ba0ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698901,
-    "wof:lastmodified":1626127523,
+    "wof:lastmodified":1694492572,
     "wof:name":"Pinili",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

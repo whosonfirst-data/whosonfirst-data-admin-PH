@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031785,
-    "geom:area_square_m":377195648.223265,
+    "geom:area_square_m":377195900.620034,
     "geom:bbox":"120.611922,16.177285,120.792406,16.472412",
     "geom:latitude":16.315995,
     "geom:longitude":120.696049,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.IO",
+    "statoids:name":"Itogon",
+    "statoids:population":55960,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.IO"
+    },
     "wof:country":"PH",
     "wof:created":1474495934,
-    "wof:geomhash":"5ca1ec1081cf1dab24d27a36e31d3a6d",
+    "wof:geomhash":"50838455011c42e0122036b80bd66c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697793,
-    "wof:lastmodified":1628266659,
+    "wof:lastmodified":1694492851,
     "wof:name":"Itogon",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

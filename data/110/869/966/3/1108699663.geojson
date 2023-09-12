@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00769,
-    "geom:area_square_m":94167990.108075,
+    "geom:area_square_m":94167839.737959,
     "geom:bbox":"122.619745,7.923431,122.727045,8.031526",
     "geom:latitude":7.978909,
     "geom:longitude":122.671232,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.TM",
+    "statoids:name":"Tampilisan",
+    "statoids:population":23056,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.TM"
+    },
     "wof:country":"PH",
     "wof:created":1474497250,
-    "wof:geomhash":"203898be6e235ef6a8eed1b7c7a6d5d3",
+    "wof:geomhash":"1957d216545b6cfd55de618669532076",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699663,
-    "wof:lastmodified":1626127494,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tampilisan",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

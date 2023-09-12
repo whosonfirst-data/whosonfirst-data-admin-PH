@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01351,
-    "geom:area_square_m":164030339.395098,
+    "geom:area_square_m":164030625.390451,
     "geom:bbox":"124.672462,10.839573,124.814374,11.002682",
     "geom:latitude":10.927808,
     "geom:longitude":124.742579,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.AB",
+    "statoids:name":"Albuera",
+    "statoids:population":40553,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.AB"
+    },
     "wof:country":"PH",
     "wof:created":1474495119,
-    "wof:geomhash":"7994ed3b428fdb5c99c22d800814e1c3",
+    "wof:geomhash":"59495a7c62488593c78d4c4cce90f7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696597,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694492825,
     "wof:name":"Albuera",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013635,
-    "geom:area_square_m":165407651.412323,
+    "geom:area_square_m":165407567.075759,
     "geom:bbox":"122.033739,11.071983,122.193579,11.260908",
     "geom:latitude":11.161119,
     "geom:longitude":122.106001,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.LU",
+    "statoids:name":"Laua-an",
+    "statoids:population":25211,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.LU"
+    },
     "wof:country":"PH",
     "wof:created":1474496084,
-    "wof:geomhash":"fd77f0c95e69a95576fda4e265455f14",
+    "wof:geomhash":"066c6a30f6189a6e88f7e24d1514f01a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698025,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Laua-an",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

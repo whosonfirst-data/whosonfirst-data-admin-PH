@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019273,
-    "geom:area_square_m":236123889.465275,
+    "geom:area_square_m":236124011.389931,
     "geom:bbox":"126.215184,7.731776,126.505389,7.829593",
     "geom:latitude":7.776655,
     "geom:longitude":126.353027,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.CT",
+    "statoids:name":"Cateel",
+    "statoids:population":38579,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495614,
-    "wof:geomhash":"a4323d025f35a1b50152f1c285cf6a9f",
+    "wof:geomhash":"12439f2855f2d13ea2869ad0775fa200",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697331,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Cateel",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

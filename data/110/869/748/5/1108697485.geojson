@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004987,
-    "geom:area_square_m":60789253.632238,
+    "geom:area_square_m":60789257.690521,
     "geom:bbox":"124.106757,9.598735,124.189707,9.702498",
     "geom:latitude":9.644448,
     "geom:longitude":124.153235,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.DM",
+    "statoids:name":"Dimiao",
+    "statoids:population":15166,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.DM"
+    },
     "wof:country":"PH",
     "wof:created":1474495728,
-    "wof:geomhash":"c7ba182de4f922db72d3ca3159d01b33",
+    "wof:geomhash":"f0b6fd075ed4c1e3ee4089e73e61a1c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697485,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492841,
     "wof:name":"Dimiao",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

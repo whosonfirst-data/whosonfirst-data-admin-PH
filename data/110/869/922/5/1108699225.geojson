@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004671,
-    "geom:area_square_m":55019576.71929,
+    "geom:area_square_m":55019762.024253,
     "geom:bbox":"120.409011,17.682173,120.536739,17.765654",
     "geom:latitude":17.726673,
     "geom:longitude":120.471312,
@@ -205,16 +205,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SJ",
+    "statoids:name":"San Juan (Lapog)",
+    "statoids:population":25199,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496945,
-    "wof:geomhash":"d9e7042b47d13195c177609daf953011",
+    "wof:geomhash":"936d80b154e1aeb21ad94c26f00675c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +234,7 @@
         }
     ],
     "wof:id":1108699225,
-    "wof:lastmodified":1636501026,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Juan",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

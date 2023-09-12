@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005608,
-    "geom:area_square_m":68036569.171977,
+    "geom:area_square_m":68036676.600568,
     "geom:bbox":"124.79985,11.093448,124.935096,11.153455",
     "geom:latitude":11.120321,
     "geom:longitude":124.86582,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.PS",
+    "statoids:name":"Pastrana",
+    "statoids:population":16649,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.PS"
+    },
     "wof:country":"PH",
     "wof:created":1474496648,
-    "wof:geomhash":"7a3ea9d7f4933b02a1656b135893c6b4",
+    "wof:geomhash":"3c24bde8a4b5ad080130e5a9d1dfafa2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108698829,
-    "wof:lastmodified":1626127509,
+    "wof:lastmodified":1694492570,
     "wof:name":"Pastrana",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

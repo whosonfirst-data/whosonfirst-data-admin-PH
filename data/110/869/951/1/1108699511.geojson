@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021491,
-    "geom:area_square_m":263355102.673236,
+    "geom:area_square_m":263354866.756608,
     "geom:bbox":"122.083725,7.605192,122.3184,7.789583",
     "geom:latitude":7.677299,
     "geom:longitude":122.194701,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.SC",
+    "statoids:name":"Siocon",
+    "statoids:population":41637,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474497144,
-    "wof:geomhash":"21d9811cc211e4de6356a8a17b76044e",
+    "wof:geomhash":"02986b379e03dc45dfd809b6992f9839",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699511,
-    "wof:lastmodified":1626127501,
+    "wof:lastmodified":1694492569,
     "wof:name":"Siocon",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

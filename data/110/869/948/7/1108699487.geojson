@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009045,
-    "geom:area_square_m":109624913.816845,
+    "geom:area_square_m":109624957.21491,
     "geom:bbox":"122.605051,11.360267,122.734902,11.493746",
     "geom:latitude":11.432028,
     "geom:longitude":122.672583,
@@ -235,16 +235,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.SG",
+    "statoids:name":"Sigma",
+    "statoids:population":29138,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474497128,
-    "wof:geomhash":"d601e936e81b7bb39567d11ba0e83100",
+    "wof:geomhash":"91a5ed54402276ae43cd8ca95fc5fa90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -254,7 +264,7 @@
         }
     ],
     "wof:id":1108699487,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Sigma",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

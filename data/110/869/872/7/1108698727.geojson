@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005546,
-    "geom:area_square_m":67952314.785042,
+    "geom:area_square_m":67952193.794744,
     "geom:bbox":"124.075137,7.648131,124.152536,7.810878",
     "geom:latitude":7.722142,
     "geom:longitude":124.117198,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.TB",
+    "statoids:name":"Tubaran",
+    "statoids:population":12933,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474496574,
-    "wof:geomhash":"2fe63438e3516ea9c9b39c5a8d0ad58e",
+    "wof:geomhash":"26255ccd679559cc336a4c68247c3e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698727,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Pagayawan",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

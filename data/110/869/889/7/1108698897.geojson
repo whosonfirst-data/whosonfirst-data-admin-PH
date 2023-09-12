@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009107,
-    "geom:area_square_m":110805843.478861,
+    "geom:area_square_m":110805666.717116,
     "geom:bbox":"123.57122,10.206619,123.690281,10.342206",
     "geom:latitude":10.267084,
     "geom:longitude":123.620012,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.PN",
+    "statoids:name":"Pinamungahan",
+    "statoids:population":57997,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496692,
-    "wof:geomhash":"65332da45a31f0f95dc362cb79bc44c9",
+    "wof:geomhash":"5a6c07eeb9e9afa4a31298301d279e11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698897,
-    "wof:lastmodified":1626127462,
+    "wof:lastmodified":1694492562,
     "wof:name":"Pinamungajan",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008237,
-    "geom:area_square_m":100358300.591631,
+    "geom:area_square_m":100358056.271238,
     "geom:bbox":"124.393231,9.794652,124.59539,9.878295",
     "geom:latitude":9.830798,
     "geom:longitude":124.488392,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.CN",
+    "statoids:name":"Candijay",
+    "statoids:population":29043,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495558,
-    "wof:geomhash":"49e4976946f86dd05c27728c9aa33e63",
+    "wof:geomhash":"e86f9417e1902fb7b32abb55b009e97c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697251,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Candijay",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

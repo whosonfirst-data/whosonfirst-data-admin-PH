@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010331,
-    "geom:area_square_m":126265903.007572,
+    "geom:area_square_m":126265759.660353,
     "geom:bbox":"124.74292,8.68378,124.882682,8.796758",
     "geom:latitude":8.73897,
     "geom:longitude":124.819772,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.BA",
+    "statoids:name":"Balingasag",
+    "statoids:population":65876,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.BA"
+    },
     "wof:country":"PH",
     "wof:created":1474495285,
-    "wof:geomhash":"22b7787e4decb902278d0fae5923ea2e",
+    "wof:geomhash":"d41137c2d971a58ff145adcaf0db4863",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696845,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Balingasag",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

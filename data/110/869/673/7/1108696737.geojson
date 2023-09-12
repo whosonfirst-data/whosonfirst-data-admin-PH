@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004093,
-    "geom:area_square_m":49256352.244354,
+    "geom:area_square_m":49256494.047411,
     "geom:bbox":"123.756113,13.225389,123.86792,13.32125",
     "geom:latitude":13.269334,
     "geom:longitude":123.804731,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.BC",
+    "statoids:name":"Bacacay",
+    "statoids:population":65724,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495212,
-    "wof:geomhash":"832380d031fc0f52cc181f1a690c9a31",
+    "wof:geomhash":"a2980c6099be83af177aa41e85d2f1f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696737,
-    "wof:lastmodified":1626127466,
+    "wof:lastmodified":1694492562,
     "wof:name":"Bacacay",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

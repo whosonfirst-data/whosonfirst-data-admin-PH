@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004501,
-    "geom:area_square_m":53072577.470057,
+    "geom:area_square_m":53072587.744934,
     "geom:bbox":"120.535992,17.481937,120.604662,17.577375",
     "geom:latitude":17.534751,
     "geom:longitude":120.572191,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.PD",
+    "statoids:name":"Pidigan",
+    "statoids:population":11528,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.PD"
+    },
     "wof:country":"PH",
     "wof:created":1474496671,
-    "wof:geomhash":"541e078f15fc7aaff4ad5bcab8fa5b20",
+    "wof:geomhash":"3297655bae34c596677c0400caf121fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698865,
-    "wof:lastmodified":1626127468,
+    "wof:lastmodified":1694492563,
     "wof:name":"Pidigan",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

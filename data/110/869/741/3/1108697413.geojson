@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012946,
-    "geom:area_square_m":154043078.977819,
+    "geom:area_square_m":154043279.576602,
     "geom:bbox":"120.612606,15.707779,120.787665,15.846354",
     "geom:latitude":15.786722,
     "geom:longitude":120.697322,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.CY",
+    "statoids:name":"Cuyapo",
+    "statoids:population":59396,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.CY"
+    },
     "wof:country":"PH",
     "wof:created":1474495680,
-    "wof:geomhash":"4e330be153864ad8ea540ab845292ab7",
+    "wof:geomhash":"a42ef04e334104032280e436d7787b74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697413,
-    "wof:lastmodified":1628266641,
+    "wof:lastmodified":1694492840,
     "wof:name":"Cuyapo",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

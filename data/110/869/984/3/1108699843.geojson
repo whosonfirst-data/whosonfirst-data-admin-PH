@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007768,
-    "geom:area_square_m":94499030.316652,
+    "geom:area_square_m":94499082.662376,
     "geom:bbox":"123.252822,10.27503,123.333962,10.40722",
     "geom:latitude":10.338263,
     "geom:longitude":123.29231,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.VH",
+    "statoids:name":"Vallehermoso",
+    "statoids:population":36943,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.VH"
+    },
     "wof:country":"PH",
     "wof:created":1474497370,
-    "wof:geomhash":"b4f1e554ad72bcad3faa4052bbd1a8dc",
+    "wof:geomhash":"507a866cd05a93c04e122d6fffcc2534",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699843,
-    "wof:lastmodified":1626127481,
+    "wof:lastmodified":1694492565,
     "wof:name":"Vallehermoso",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

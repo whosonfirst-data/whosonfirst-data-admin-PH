@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002081,
-    "geom:area_square_m":25179737.864033,
+    "geom:area_square_m":25179909.283509,
     "geom:bbox":"124.27211,11.896222,124.339554,11.961278",
     "geom:latitude":11.928097,
     "geom:longitude":124.306308,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.AM",
+    "statoids:name":"Almagro",
+    "statoids:population":11024,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.AM"
+    },
     "wof:country":"PH",
     "wof:created":1474495151,
-    "wof:geomhash":"ba6ffc4c1a108cce67e7ab5f38818181",
+    "wof:geomhash":"300464da55824e2bfb853ad7889e6b80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696645,
-    "wof:lastmodified":1626127515,
+    "wof:lastmodified":1694492570,
     "wof:name":"Almagro",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

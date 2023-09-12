@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006407,
-    "geom:area_square_m":76716565.530178,
+    "geom:area_square_m":76716190.115955,
     "geom:bbox":"121.293711,14.371219,121.378453,14.525378",
     "geom:latitude":14.454404,
     "geom:longitude":121.34339,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.PL",
+    "statoids:name":"Pililla",
+    "statoids:population":59527,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496687,
-    "wof:geomhash":"958c9f85eeb62816fad52b2ff1127f7e",
+    "wof:geomhash":"cfce6039c44abfccdb8e9eb80143f0a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698891,
-    "wof:lastmodified":1628266700,
+    "wof:lastmodified":1694492875,
     "wof:name":"Pililla",
     "wof:parent_id":85676145,
     "wof:placetype":"county",

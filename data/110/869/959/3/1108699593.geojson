@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006597,
-    "geom:area_square_m":80111009.377152,
+    "geom:area_square_m":80111239.354329,
     "geom:bbox":"123.863724,10.800759,123.957037,10.909202",
     "geom:latitude":10.849595,
     "geom:longitude":123.908657,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.TB",
+    "statoids:name":"Tabuelan",
+    "statoids:population":22292,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497203,
-    "wof:geomhash":"b0c110034513bfac8edb175bc7d0dd41",
+    "wof:geomhash":"5179c9351a8e1f8c88e47e307a6992ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699593,
-    "wof:lastmodified":1626127495,
+    "wof:lastmodified":1694492568,
     "wof:name":"Tabuelan",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

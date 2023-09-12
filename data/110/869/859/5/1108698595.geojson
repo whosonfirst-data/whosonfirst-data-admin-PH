@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03773,
-    "geom:area_square_m":441064397.931902,
+    "geom:area_square_m":441064017.657948,
     "geom:bbox":"121.194527,18.502083,122.157082,19.575417",
     "geom:latitude":19.018074,
     "geom:longitude":121.703566,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.AA",
+    "statoids:name":"Aparri",
+    "statoids:population":61199,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474496485,
-    "wof:geomhash":"772c7c06487fba7eade33c9d6a615176",
+    "wof:geomhash":"61c08583691a45afb9d331e9a61d5967",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108698595,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Calayan",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

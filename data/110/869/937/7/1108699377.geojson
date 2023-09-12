@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004457,
-    "geom:area_square_m":52334805.485242,
+    "geom:area_square_m":52334718.100906,
     "geom:bbox":"121.391399,18.213155,121.484918,18.329217",
     "geom:latitude":18.279351,
     "geom:longitude":121.440567,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AP.SM",
+    "statoids:name":"Santa Marcela",
+    "statoids:population":12010,
+    "statoids:statoid":"PH.AP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AP.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474497050,
-    "wof:geomhash":"f32d5d627eff61f77da4036e4d62b95f",
+    "wof:geomhash":"4bc0ef48bac8127aa538d3fc684e4f31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699377,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1694492561,
     "wof:name":"Santa Marcela",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

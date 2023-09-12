@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004114,
-    "geom:area_square_m":50101079.531779,
+    "geom:area_square_m":50100642.690482,
     "geom:bbox":"125.198723,9.910389,125.291252,10.044073",
     "geom:latitude":9.975076,
     "geom:longitude":125.240942,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.PN",
+    "statoids:name":"Pintuyan",
+    "statoids:population":9261,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496696,
-    "wof:geomhash":"6fd3d574d87cd462b6cf365120b3b80a",
+    "wof:geomhash":"8b31945e083eeeca116a9d7220d92e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698905,
-    "wof:lastmodified":1628266701,
+    "wof:lastmodified":1694492876,
     "wof:name":"Pintuyan",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011148,
-    "geom:area_square_m":134328542.350928,
+    "geom:area_square_m":134328720.750857,
     "geom:bbox":"124.068925,12.827416,124.195419,13.077917",
     "geom:latitude":12.965203,
     "geom:longitude":124.125856,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.GB",
+    "statoids:name":"Gubat",
+    "statoids:population":57327,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.GB"
+    },
     "wof:country":"PH",
     "wof:created":1474495855,
-    "wof:geomhash":"8401672f426e0c3ec1bb62ea7e451f17",
+    "wof:geomhash":"b53b88116518462cbe2aeb485959a47d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697673,
-    "wof:lastmodified":1628266654,
+    "wof:lastmodified":1694492848,
     "wof:name":"Gubat",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

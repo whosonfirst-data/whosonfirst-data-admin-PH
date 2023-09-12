@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003958,
-    "geom:area_square_m":47929531.897186,
+    "geom:area_square_m":47929488.781559,
     "geom:bbox":"122.289291,11.653426,122.365637,11.747239",
     "geom:latitude":11.702463,
     "geom:longitude":122.326949,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.LZ",
+    "statoids:name":"Lezo",
+    "statoids:population":14518,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.LZ"
+    },
     "wof:country":"PH",
     "wof:created":1474496542,
-    "wof:geomhash":"7ffc9bae70b08d01d7ba9016417d1253",
+    "wof:geomhash":"a3e5fea0ea10b34b5ac9c9366e4291dd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108698681,
-    "wof:lastmodified":1626127470,
+    "wof:lastmodified":1694492563,
     "wof:name":"Numancia",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

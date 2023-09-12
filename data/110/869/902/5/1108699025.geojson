@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097641,
-    "geom:area_square_m":1193181430.539362,
+    "geom:area_square_m":1193181530.961094,
     "geom:bbox":"117.208725,8.447572,117.782443,9.089583",
     "geom:latitude":8.784617,
     "geom:longitude":117.501517,
@@ -142,16 +142,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.RZ",
+    "statoids:name":"Rizal (Marcos)",
+    "statoids:population":42759,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.RZ"
+    },
     "wof:country":"PH",
     "wof:created":1474496788,
-    "wof:geomhash":"f2e029dcde55a6c153ceee2e5a1dd0a0",
+    "wof:geomhash":"ec841745646f6445adb71c1128b935fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +171,7 @@
         }
     ],
     "wof:id":1108699025,
-    "wof:lastmodified":1636501032,
+    "wof:lastmodified":1694492934,
     "wof:name":"Rizal",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

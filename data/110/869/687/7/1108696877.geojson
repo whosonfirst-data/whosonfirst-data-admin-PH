@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004299,
-    "geom:area_square_m":50863947.594464,
+    "geom:area_square_m":50863857.115961,
     "geom:bbox":"120.396248,16.828029,120.473039,16.923851",
     "geom:latitude":16.875856,
     "geom:longitude":120.43637,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.BN",
+    "statoids:name":"Bangar",
+    "statoids:population":34522,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495305,
-    "wof:geomhash":"3f6bab193a53b2c9e1de28b718a4cd87",
+    "wof:geomhash":"a67dbae7c3344ccb664c42b196845a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108696877,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Bangar",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008203,
-    "geom:area_square_m":98070766.766983,
+    "geom:area_square_m":98070758.765167,
     "geom:bbox":"122.092087,14.721194,122.260414,14.847083",
     "geom:latitude":14.796283,
     "geom:longitude":122.185493,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.PT",
+    "statoids:name":"Patnanungan",
+    "statoids:population":13865,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.PT"
+    },
     "wof:country":"PH",
     "wof:created":1474496654,
-    "wof:geomhash":"ccc1b9fe6eea950d31952520d2f7aa61",
+    "wof:geomhash":"44afa4c0047b644c0437cf30ef54a972",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698839,
-    "wof:lastmodified":1626127506,
+    "wof:lastmodified":1694492569,
     "wof:name":"Patnanungan",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

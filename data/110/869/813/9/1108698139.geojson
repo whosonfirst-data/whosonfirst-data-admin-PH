@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006731,
-    "geom:area_square_m":80782842.927004,
+    "geom:area_square_m":80782733.511799,
     "geom:bbox":"121.555589,13.889584,121.684327,13.985534",
     "geom:latitude":13.937022,
     "geom:longitude":121.616499,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.LC",
+    "statoids:name":"Lucena City",
+    "statoids:population":246392,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676441
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.LC"
+    },
     "wof:country":"PH",
     "wof:created":1474496166,
-    "wof:geomhash":"c44b3b975538bd0646ce53697b163401",
+    "wof:geomhash":"44ceb6c86f2b6e0c05a9c80045ccebf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698139,
-    "wof:lastmodified":1628266678,
+    "wof:lastmodified":1694492863,
     "wof:name":"Lucena City",
     "wof:parent_id":85676441,
     "wof:placetype":"county",

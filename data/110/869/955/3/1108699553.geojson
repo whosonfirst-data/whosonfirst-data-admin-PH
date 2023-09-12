@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015569,
-    "geom:area_square_m":184324387.589605,
+    "geom:area_square_m":184324384.733376,
     "geom:bbox":"120.506979,16.647318,120.632457,16.858021",
     "geom:latitude":16.767643,
     "geom:longitude":120.576714,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SU",
+    "statoids:name":"Sugpon",
+    "statoids:population":3820,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SU"
+    },
     "wof:country":"PH",
     "wof:created":1474497175,
-    "wof:geomhash":"1264763c24ce45cedb17305c44389b9f",
+    "wof:geomhash":"da277c06764cdaaabbe922544497e740",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699553,
-    "wof:lastmodified":1626127458,
+    "wof:lastmodified":1694492561,
     "wof:name":"Sugpon",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

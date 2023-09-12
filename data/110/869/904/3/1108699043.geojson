@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006073,
-    "geom:area_square_m":72094980.532682,
+    "geom:area_square_m":72094811.752672,
     "geom:bbox":"120.402078,16.196727,120.522276,16.290583",
     "geom:latitude":16.234621,
     "geom:longitude":120.465208,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.RS",
+    "statoids:name":"Rosario",
+    "statoids:population":52679,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.RS"
+    },
     "wof:country":"PH",
     "wof:created":1474496810,
-    "wof:geomhash":"4f6bd31c1af57241db7b9e6ca50e2ff4",
+    "wof:geomhash":"971265cfb6dc3a3d8233924e7f5a47c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108699043,
-    "wof:lastmodified":1636501030,
+    "wof:lastmodified":1694492934,
     "wof:name":"Rosario",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

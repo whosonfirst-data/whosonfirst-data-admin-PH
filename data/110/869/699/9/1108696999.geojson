@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016503,
-    "geom:area_square_m":200873996.188747,
+    "geom:area_square_m":200874013.761063,
     "geom:bbox":"122.840385,10.024858,123.11173,10.227754",
     "geom:latitude":10.136509,
     "geom:longitude":122.99005,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.BN",
+    "statoids:name":"Binalbagan",
+    "statoids:population":65431,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495393,
-    "wof:geomhash":"c185a0fbefa07521a8e498ec06cdea81",
+    "wof:geomhash":"66b5bbfca63ebef8635349a67c827c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108696999,
-    "wof:lastmodified":1626127514,
+    "wof:lastmodified":1694492570,
     "wof:name":"Binalbagan",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022255,
-    "geom:area_square_m":273359020.171745,
+    "geom:area_square_m":273358737.385347,
     "geom:bbox":"124.785148,6.530968,125.006897,6.707908",
     "geom:latitude":6.598636,
     "geom:longitude":124.897376,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.LT",
+    "statoids:name":"Lutayan",
+    "statoids:population":56179,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.LT"
+    },
     "wof:country":"PH",
     "wof:created":1474496187,
-    "wof:geomhash":"f97d3809e74ab6254d8794ac6ebe732c",
+    "wof:geomhash":"207eab39f32002806920b73e956efffa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698171,
-    "wof:lastmodified":1628266679,
+    "wof:lastmodified":1694492864,
     "wof:name":"Lutayan",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

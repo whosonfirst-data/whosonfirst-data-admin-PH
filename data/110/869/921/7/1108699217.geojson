@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002467,
-    "geom:area_square_m":29830887.134312,
+    "geom:area_square_m":29830902.085578,
     "geom:bbox":"121.90786,12.032917,121.960419,12.099556",
     "geom:latitude":12.066134,
     "geom:longitude":121.935468,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.SJ",
+    "statoids:name":"San Jose",
+    "statoids:population":10294,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496939,
-    "wof:geomhash":"99bf1a037ac10817aae8ea85fd84d540",
+    "wof:geomhash":"bca4df0583117685665d11687165c67e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699217,
-    "wof:lastmodified":1636501043,
+    "wof:lastmodified":1694492936,
     "wof:name":"San Jose",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

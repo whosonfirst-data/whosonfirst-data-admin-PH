@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018726,
-    "geom:area_square_m":229044617.88127,
+    "geom:area_square_m":229044345.505928,
     "geom:bbox":"123.04108,8.305855,123.182703,8.535389",
     "geom:latitude":8.439188,
     "geom:longitude":123.124161,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.MN",
+    "statoids:name":"Manukan",
+    "statoids:population":35589,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496318,
-    "wof:geomhash":"db9bb820fbd7b284fff821737cbb0e1c",
+    "wof:geomhash":"f3bb8357817c797119611127a7b8f32f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698369,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Manukan",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

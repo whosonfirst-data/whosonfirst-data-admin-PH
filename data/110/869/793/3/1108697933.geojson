@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013455,
-    "geom:area_square_m":164131114.780084,
+    "geom:area_square_m":164130921.272971,
     "geom:bbox":"125.518183,9.383813,125.73961,9.474133",
     "geom:latitude":9.421066,
     "geom:longitude":125.610942,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.KT",
+    "statoids:name":"Kitcharao",
+    "statoids:population":17377,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.KT"
+    },
     "wof:country":"PH",
     "wof:created":1474496023,
-    "wof:geomhash":"93276c2a2c5836d1b20708bb70373876",
+    "wof:geomhash":"3bfdd6b2892678eb2703ec15e3c3cd47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697933,
-    "wof:lastmodified":1626127495,
+    "wof:lastmodified":1694492568,
     "wof:name":"Kitcharao",
     "wof:parent_id":85676213,
     "wof:placetype":"county",

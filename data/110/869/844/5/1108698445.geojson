@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031307,
-    "geom:area_square_m":372944334.025936,
+    "geom:area_square_m":372944590.264211,
     "geom:bbox":"120.173909,15.457023,120.446905,15.640313",
     "geom:latitude":15.549888,
     "geom:longitude":120.315425,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.MY",
+    "statoids:name":"Mayantoc",
+    "statoids:population":29987,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.MY"
+    },
     "wof:country":"PH",
     "wof:created":1474496375,
-    "wof:geomhash":"8f1055b69ab7471dc5fdbe50362c682f",
+    "wof:geomhash":"7fe10ec483cb6d60dcb60de604285fab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698445,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mayantoc",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

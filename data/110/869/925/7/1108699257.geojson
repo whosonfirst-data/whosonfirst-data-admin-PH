@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01061,
-    "geom:area_square_m":125554300.63077,
+    "geom:area_square_m":125554567.188004,
     "geom:bbox":"121.546317,16.80929,121.705702,16.918447",
     "geom:latitude":16.863972,
     "geom:longitude":121.621969,
@@ -112,16 +112,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.SO",
+    "statoids:name":"San Mateo",
+    "statoids:population":60792,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.SO"
+    },
     "wof:country":"PH",
     "wof:created":1474496966,
-    "wof:geomhash":"e017cb6860d3e961e3d521c0208d94fc",
+    "wof:geomhash":"f8cfa72aaf2eca9fb771864e723fa329",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +141,7 @@
         }
     ],
     "wof:id":1108699257,
-    "wof:lastmodified":1636501026,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Mateo",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022278,
-    "geom:area_square_m":272859616.883101,
+    "geom:area_square_m":272859751.811135,
     "geom:bbox":"122.960923,7.813523,123.116599,8.010187",
     "geom:latitude":7.902542,
     "geom:longitude":123.046695,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.BY",
+    "statoids:name":"Bayog",
+    "statoids:population":30048,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.BY"
+    },
     "wof:country":"PH",
     "wof:created":1474495381,
-    "wof:geomhash":"eec4906b47b3dcbfb4ec11db89e394d8",
+    "wof:geomhash":"a431891deee3c089bd27ad090678293c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696981,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492829,
     "wof:name":"Bayog",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

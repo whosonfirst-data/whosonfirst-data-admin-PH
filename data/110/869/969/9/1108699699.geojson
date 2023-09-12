@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06375,
-    "geom:area_square_m":759818282.274477,
+    "geom:area_square_m":759817868.657607,
     "geom:bbox":"120.161034,15.314013,120.698718,15.556237",
     "geom:latitude":15.444113,
     "geom:longitude":120.418914,
@@ -154,16 +154,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.SJ",
+    "statoids:name":"San Jose",
+    "statoids:population":33960,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474497274,
-    "wof:geomhash":"78883d74196a69672b5c4e72a4e74df7",
+    "wof:geomhash":"5016eedc7fb0ed3fbb8471adb0dd42a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +183,7 @@
         }
     ],
     "wof:id":1108699699,
-    "wof:lastmodified":1636501031,
+    "wof:lastmodified":1694492934,
     "wof:name":"Tarlac",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

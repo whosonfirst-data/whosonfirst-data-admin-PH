@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017415,
-    "geom:area_square_m":210393535.375495,
+    "geom:area_square_m":210393870.669318,
     "geom:bbox":"124.7536,12.21832,124.96191,12.391585",
     "geom:latitude":12.297409,
     "geom:longitude":124.864192,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.SL",
+    "statoids:name":"Silvino Lobos",
+    "statoids:population":14303,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474497136,
-    "wof:geomhash":"67d91fb0867faa7580bf39b863e87b76",
+    "wof:geomhash":"147d394140a202967b8b2935d9d8789c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699499,
-    "wof:lastmodified":1626127488,
+    "wof:lastmodified":1694492566,
     "wof:name":"Silvino Lobos",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

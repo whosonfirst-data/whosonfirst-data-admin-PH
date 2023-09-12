@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006474,
-    "geom:area_square_m":79623253.096705,
+    "geom:area_square_m":79623025.970852,
     "geom:bbox":"121.230362,5.857056,121.426247,5.978216",
     "geom:latitude":5.91841,
     "geom:longitude":121.315336,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.KL",
+    "statoids:name":"Kalingalan Caluang",
+    "statoids:population":26848,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.KL"
+    },
     "wof:country":"PH",
     "wof:created":1474495993,
-    "wof:geomhash":"4db348069b97c359733b0c71c9e40c2b",
+    "wof:geomhash":"8b02fa815ace5aba6daa8a668459384f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697885,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Kalinggalan Caluang",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

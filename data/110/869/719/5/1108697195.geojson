@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006974,
-    "geom:area_square_m":83678053.590406,
+    "geom:area_square_m":83678099.166603,
     "geom:bbox":"120.750063,13.91989,120.855684,14.051656",
     "geom:latitude":13.978242,
     "geom:longitude":120.806235,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.CA",
+    "statoids:name":"Calaca",
+    "statoids:population":70521,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495522,
-    "wof:geomhash":"76330def3751049f26295c0d8e392a1c",
+    "wof:geomhash":"140f76c1ee389934f989911c4a4561fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697195,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Calaca",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

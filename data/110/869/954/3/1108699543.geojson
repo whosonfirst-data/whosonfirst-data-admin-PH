@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013823,
-    "geom:area_square_m":164238462.94744,
+    "geom:area_square_m":164238784.700345,
     "geom:bbox":"119.977156,15.98412,120.11858,16.180389",
     "geom:latitude":16.078378,
     "geom:longitude":120.055995,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.SU",
+    "statoids:name":"Sual",
+    "statoids:population":31216,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.SU"
+    },
     "wof:country":"PH",
     "wof:created":1474497169,
-    "wof:geomhash":"9186c381ccea2171106dae5b3f34da06",
+    "wof:geomhash":"f822d725832fa1ad2fb2c7c5b649de3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699543,
-    "wof:lastmodified":1628266719,
+    "wof:lastmodified":1694492886,
     "wof:name":"Sual",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

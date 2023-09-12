@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009807,
-    "geom:area_square_m":118247041.677109,
+    "geom:area_square_m":118247048.062244,
     "geom:bbox":"123.827942,12.748466,123.94167,12.877084",
     "geom:latitude":12.804421,
     "geom:longitude":123.883914,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.MG",
+    "statoids:name":"Magallanes",
+    "statoids:population":35443,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496229,
-    "wof:geomhash":"87d76b9abdaaefe324138a12c6c3ee45",
+    "wof:geomhash":"47199d014f7420aeb10e1a85da7d0a62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698233,
-    "wof:lastmodified":1626127507,
+    "wof:lastmodified":1694492569,
     "wof:name":"Magallanes",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

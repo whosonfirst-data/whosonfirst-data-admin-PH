@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024847,
-    "geom:area_square_m":300560684.249691,
+    "geom:area_square_m":300560878.972808,
     "geom:bbox":"124.7802,11.874162,124.994275,12.064854",
     "geom:latitude":11.972041,
     "geom:longitude":124.898666,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.SJ",
+    "statoids:name":"San Jorge",
+    "statoids:population":16340,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496924,
-    "wof:geomhash":"af629e6f4a649d08c383e2f69dd502d0",
+    "wof:geomhash":"33d39a121a087734c7b978f7fe98d48f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699197,
-    "wof:lastmodified":1627522511,
+    "wof:lastmodified":1694492715,
     "wof:name":"San Jorge",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

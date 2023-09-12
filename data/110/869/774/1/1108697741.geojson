@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014199,
-    "geom:area_square_m":169301229.644459,
+    "geom:area_square_m":169300966.874498,
     "geom:bbox":"119.938032,15.298902,120.180812,15.401873",
     "geom:latitude":15.36157,
     "geom:longitude":120.051576,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.IA",
+    "statoids:name":"Iba",
+    "statoids:population":46761,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.IA"
+    },
     "wof:country":"PH",
     "wof:created":1474495899,
-    "wof:geomhash":"ce7080e483e14d6776899b8dd828d586",
+    "wof:geomhash":"e8fe2f08a2428973b12b3af49bce0ec0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697741,
-    "wof:lastmodified":1628266656,
+    "wof:lastmodified":1694492849,
     "wof:name":"Iba",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

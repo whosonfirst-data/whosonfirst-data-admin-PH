@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006197,
-    "geom:area_square_m":75423898.317667,
+    "geom:area_square_m":75423861.157015,
     "geom:bbox":"125.462082,10.052805,125.612956,10.462083",
     "geom:latitude":10.141247,
     "geom:longitude":125.541245,
@@ -145,15 +145,25 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DI.LR",
+    "statoids:name":"Loreto",
+    "statoids:population":8920,
+    "statoids:statoid":"PH.DI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DI.LR"
+    },
     "wof:country":"PH",
     "wof:created":1474496497,
-    "wof:geomhash":"ef59daf9ee6cb940778e94b751d22938",
+    "wof:geomhash":"ca0fc60703535c45d1f942fa5e481de5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +172,7 @@
         }
     ],
     "wof:id":1108698613,
-    "wof:lastmodified":1636501019,
+    "wof:lastmodified":1694492932,
     "wof:name":"Loreto",
     "wof:parent_id":-1,
     "wof:placetype":"county",

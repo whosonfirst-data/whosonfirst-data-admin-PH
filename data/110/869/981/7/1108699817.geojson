@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027647,
-    "geom:area_square_m":336678017.074516,
+    "geom:area_square_m":336678052.976107,
     "geom:bbox":"124.338323,9.893557,124.568748,10.107889",
     "geom:latitude":9.985665,
     "geom:longitude":124.456197,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.UA",
+    "statoids:name":"Ubay",
+    "statoids:population":68578,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.UA"
+    },
     "wof:country":"PH",
     "wof:created":1474497353,
-    "wof:geomhash":"8eb5b63711d668f52d5fd9ba0ca65b64",
+    "wof:geomhash":"8fc585d46a3beb0a715808c5227a7abc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699817,
-    "wof:lastmodified":1628266733,
+    "wof:lastmodified":1694492890,
     "wof:name":"Ubay",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

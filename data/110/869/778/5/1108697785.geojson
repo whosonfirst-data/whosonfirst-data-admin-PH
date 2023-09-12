@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016095,
-    "geom:area_square_m":195272042.313004,
+    "geom:area_square_m":195272005.726189,
     "geom:bbox":"124.403451,10.862028,125.028778,11.35102",
     "geom:latitude":11.136336,
     "geom:longitude":124.757125,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.IA",
+    "statoids:name":"Isabel",
+    "statoids:population":43593,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676341
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.IA"
+    },
     "wof:country":"PH",
     "wof:created":1474495929,
-    "wof:geomhash":"7f7a297915c2d1f88e61de603cee88ef",
+    "wof:geomhash":"f61ce0c1782800e11abdf8602ae3911d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108697785,
-    "wof:lastmodified":1636501024,
+    "wof:lastmodified":1694492933,
     "wof:name":"Isabel",
     "wof:parent_id":85676341,
     "wof:placetype":"county",

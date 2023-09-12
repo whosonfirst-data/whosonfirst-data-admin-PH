@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00629,
-    "geom:area_square_m":76305624.265346,
+    "geom:area_square_m":76305555.153667,
     "geom:bbox":"123.941223,11.074011,124.029348,11.206802",
     "geom:latitude":11.140772,
     "geom:longitude":123.978729,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.ME",
+    "statoids:name":"Medellin",
+    "statoids:population":50047,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.ME"
+    },
     "wof:country":"PH",
     "wof:created":1474496382,
-    "wof:geomhash":"dc4302a34e6fc5b864f2a15ee736183d",
+    "wof:geomhash":"fddb80840940641b42de5d27aafa4bb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698455,
-    "wof:lastmodified":1628266685,
+    "wof:lastmodified":1694492866,
     "wof:name":"Medellin",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

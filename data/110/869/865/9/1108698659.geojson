@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069975,
-    "geom:area_square_m":860545081.214315,
+    "geom:area_square_m":860545549.593946,
     "geom:bbox":"124.534164,5.851222,125.104551,6.143941",
     "geom:latitude":5.980676,
     "geom:longitude":124.81362,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SG.KA",
+    "statoids:name":"Kiamba",
+    "statoids:population":54871,
+    "statoids:statoid":"PH.SG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SG.KA"
+    },
     "wof:country":"PH",
     "wof:created":1474496526,
-    "wof:geomhash":"4e4b061eff0f484232d123c6799f9740",
+    "wof:geomhash":"4d4ce61d8daef628335beda5cdcb462e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108698659,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kiamba",
     "wof:parent_id":85676259,
     "wof:placetype":"county",

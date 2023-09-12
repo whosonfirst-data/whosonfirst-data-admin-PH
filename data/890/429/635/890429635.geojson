@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006546,
-    "geom:area_square_m":78523374.95088,
+    "geom:area_square_m":78523481.756932,
     "geom:bbox":"122.04633,14.002889,122.188751,14.106795",
     "geom:latitude":14.054818,
     "geom:longitude":122.121825,
@@ -465,6 +465,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.QE",
+    "statoids:name":"Quezon",
+    "statoids:population":15142,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":9405,
     "wof:belongsto":[
         102191569,
@@ -474,6 +482,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1692193,
+        "hasc:id":"PH.QZ.QE",
         "qs_pg:id":86908,
         "wd:id":"Q1475",
         "wk:page":"Quezon City"
@@ -483,7 +492,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95d5a3a4cf3568c7c01397e939225dd5",
+    "wof:geomhash":"852d31522a21ef57aa0d4839b5cadf88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -493,7 +502,7 @@
         }
     ],
     "wof:id":890429635,
-    "wof:lastmodified":1690851778,
+    "wof:lastmodified":1694492936,
     "wof:name":"Quezon",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

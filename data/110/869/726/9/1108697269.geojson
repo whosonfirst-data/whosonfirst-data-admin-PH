@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002944,
-    "geom:area_square_m":35543949.139104,
+    "geom:area_square_m":35543988.45975,
     "geom:bbox":"124.131248,12.382889,124.191223,12.484555",
     "geom:latitude":12.429942,
     "geom:longitude":124.160422,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.CP",
+    "statoids:name":"Capul",
+    "statoids:population":12659,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.CP"
+    },
     "wof:country":"PH",
     "wof:created":1474495572,
-    "wof:geomhash":"867dd2cc5f38f60df594b54675ca6e4a",
+    "wof:geomhash":"5926235c65a92c85d37d921b9f7bce90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697269,
-    "wof:lastmodified":1626127528,
+    "wof:lastmodified":1694492573,
     "wof:name":"Capul",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

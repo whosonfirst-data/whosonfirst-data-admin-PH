@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061715,
-    "geom:area_square_m":726498665.613152,
+    "geom:area_square_m":726498759.249989,
     "geom:bbox":"120.711847,17.66029,121.119204,17.962509",
     "geom:latitude":17.820981,
     "geom:longitude":120.906668,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.TN",
+    "statoids:name":"Tineg",
+    "statoids:population":4668,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497294,
-    "wof:geomhash":"f224bee7212a3331ae075d3a8f76048b",
+    "wof:geomhash":"c145bf38d11d086d8f02edb54d7542ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699729,
-    "wof:lastmodified":1626127537,
+    "wof:lastmodified":1694492574,
     "wof:name":"Tineg",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

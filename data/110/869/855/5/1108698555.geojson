@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011708,
-    "geom:area_square_m":138120460.04393,
+    "geom:area_square_m":138120397.437291,
     "geom:bbox":"120.430389,17.374272,120.586322,17.499414",
     "geom:latitude":17.441263,
     "geom:longitude":120.512477,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.NG",
+    "statoids:name":"Nagbukel",
+    "statoids:population":4938,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.NG"
+    },
     "wof:country":"PH",
     "wof:created":1474496454,
-    "wof:geomhash":"8589efaf9b9be397cb7710d913139bb3",
+    "wof:geomhash":"93075d9054795ed7b8e1773852a371e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698555,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Narvacan",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

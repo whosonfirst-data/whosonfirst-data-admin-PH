@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008422,
-    "geom:area_square_m":103230916.418959,
+    "geom:area_square_m":103230923.276968,
     "geom:bbox":"124.866696,7.482038,124.964163,7.644298",
     "geom:latitude":7.581287,
     "geom:longitude":124.909976,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.KD",
+    "statoids:name":"Kadingilan",
+    "statoids:population":31756,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.KD"
+    },
     "wof:country":"PH",
     "wof:created":1474495986,
-    "wof:geomhash":"72d71f7660297691510fe684fd18b3c6",
+    "wof:geomhash":"52507712d164640a4246eb39bf655b5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697873,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Kadingilan",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

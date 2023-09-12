@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008675,
-    "geom:area_square_m":105292630.105014,
+    "geom:area_square_m":105292477.148612,
     "geom:bbox":"124.367859,10.912917,124.455655,11.113366",
     "geom:latitude":11.027858,
     "geom:longitude":124.412728,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.PP",
+    "statoids:name":"Palompon",
+    "statoids:population":54163,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.PP"
+    },
     "wof:country":"PH",
     "wof:created":1474496592,
-    "wof:geomhash":"8fb46d42814d060f9619a7f33cdc6396",
+    "wof:geomhash":"0dacb3df5dc050908e25aaea5a8beae6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698751,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Palompon",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

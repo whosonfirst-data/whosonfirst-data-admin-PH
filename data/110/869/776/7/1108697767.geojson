@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006906,
-    "geom:area_square_m":82593967.141616,
+    "geom:area_square_m":82593816.048368,
     "geom:bbox":"121.604751,14.658722,121.732086,14.769841",
     "geom:latitude":14.716228,
     "geom:longitude":121.657678,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.IF",
+    "statoids:name":"Infanta",
+    "statoids:population":64818,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.IF"
+    },
     "wof:country":"PH",
     "wof:created":1474495918,
-    "wof:geomhash":"1739d710f89eec1f0937a970f08f0664",
+    "wof:geomhash":"b7c64612a555a0ec41946aafcc49103b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697767,
-    "wof:lastmodified":1628266656,
+    "wof:lastmodified":1694492849,
     "wof:name":"Infanta",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

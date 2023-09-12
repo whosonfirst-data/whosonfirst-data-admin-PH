@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038726,
-    "geom:area_square_m":475610005.873143,
+    "geom:area_square_m":475609741.064363,
     "geom:bbox":"124.017029,6.586706,124.285469,6.751501",
     "geom:latitude":6.671219,
     "geom:longitude":124.160183,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.LB",
+    "statoids:name":"Lebak",
+    "statoids:population":83280,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496093,
-    "wof:geomhash":"045c0e4a7000c55e2d9885d8fc73cf57",
+    "wof:geomhash":"dcd69a6a4f2eabb36b44dd03d5d653a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698037,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Lebak",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

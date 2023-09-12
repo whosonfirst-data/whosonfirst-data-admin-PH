@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040687,
-    "geom:area_square_m":493262055.498131,
+    "geom:area_square_m":493262360.659601,
     "geom:bbox":"122.180457,11.202406,122.596529,11.475737",
     "geom:latitude":11.348189,
     "geom:longitude":122.385539,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.JM",
+    "statoids:name":"Jamindan",
+    "statoids:population":35002,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.JM"
+    },
     "wof:country":"PH",
     "wof:created":1474495944,
-    "wof:geomhash":"5bce1b251f440fa5b728d2ce9738b0c3",
+    "wof:geomhash":"aa10cf05699a33d9e9ddb6976dc85b29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697809,
-    "wof:lastmodified":1628266660,
+    "wof:lastmodified":1694492851,
     "wof:name":"Jamindan",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

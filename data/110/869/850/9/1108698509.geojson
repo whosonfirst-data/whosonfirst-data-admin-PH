@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014039,
-    "geom:area_square_m":167916350.04554,
+    "geom:area_square_m":167916454.151904,
     "geom:bbox":"120.245392,14.621222,120.417177,14.770439",
     "geom:latitude":14.695874,
     "geom:longitude":120.330009,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.MO",
+    "statoids:name":"Morong",
+    "statoids:population":26171,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.MO"
+    },
     "wof:country":"PH",
     "wof:created":1474496423,
-    "wof:geomhash":"5149e271af606d2abcd06735c4b79c11",
+    "wof:geomhash":"724883cf7809dd8eaa247dd93fed2f80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108698509,
-    "wof:lastmodified":1626127471,
+    "wof:lastmodified":1694492564,
     "wof:name":"Morong",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

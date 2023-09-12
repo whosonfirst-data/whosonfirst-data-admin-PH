@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011318,
-    "geom:area_square_m":132954190.051379,
+    "geom:area_square_m":132954077.960767,
     "geom:bbox":"120.514667,18.126528,120.694132,18.26947",
     "geom:latitude":18.196282,
     "geom:longitude":120.587689,
@@ -63,6 +63,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.LO",
+    "statoids:name":"Laoag City",
+    "statoids:population":104904,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -72,6 +80,7 @@
     "wof:concordances":{
         "gn:id":1707403,
         "gp:id":2346683,
+        "hasc:id":"PH.IN.LO",
         "qs_pg:id":558740
     },
     "wof:country":"PH",
@@ -79,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"949bed4a729906231cd0d344576a99ec",
+    "wof:geomhash":"5c05c03376434c0b665c256dcab3a092",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890442475,
-    "wof:lastmodified":1628266672,
+    "wof:lastmodified":1694492859,
     "wof:name":"Laoag City",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

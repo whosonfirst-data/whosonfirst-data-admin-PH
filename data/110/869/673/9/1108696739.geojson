@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003584,
-    "geom:area_square_m":42090644.15796,
+    "geom:area_square_m":42090561.014705,
     "geom:bbox":"120.560464,18.221269,120.653021,18.290729",
     "geom:latitude":18.261617,
     "geom:longitude":120.609655,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.BC",
+    "statoids:name":"Bacarra",
+    "statoids:population":31648,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495213,
-    "wof:geomhash":"9e7e9577c9f2f9af2f2370d9ff73ed68",
+    "wof:geomhash":"06ec8c762569c2d136c6983af2670af0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696739,
-    "wof:lastmodified":1626127466,
+    "wof:lastmodified":1694492563,
     "wof:name":"Bacarra",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

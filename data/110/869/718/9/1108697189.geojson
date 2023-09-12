@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013538,
-    "geom:area_square_m":163490473.826811,
+    "geom:area_square_m":163490299.518272,
     "geom:bbox":"122.563465,12.318436,122.697113,12.497056",
     "geom:latitude":12.41531,
     "geom:longitude":122.635623,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.CJ",
+    "statoids:name":"Cajidiocan",
+    "statoids:population":21198,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.CJ"
+    },
     "wof:country":"PH",
     "wof:created":1474495519,
-    "wof:geomhash":"ee3a2e6d2366da96594326d16f64e10e",
+    "wof:geomhash":"241d8d05b8fb8281b828ea7fe8be091f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697189,
-    "wof:lastmodified":1626127538,
+    "wof:lastmodified":1694492574,
     "wof:name":"Cajidiocan",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

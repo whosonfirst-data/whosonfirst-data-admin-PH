@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007051,
-    "geom:area_square_m":86543941.376405,
+    "geom:area_square_m":86544054.151986,
     "geom:bbox":"125.722885,6.894583,125.794586,7.053112",
     "geom:latitude":6.975788,
     "geom:longitude":125.759136,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DV.IL",
+    "statoids:name":"Samal, Island Garden City of",
+    "statoids:population":95874,
+    "statoids:statoid":"PH.DV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DV.IL"
+    },
     "wof:country":"PH",
     "wof:created":1474496003,
-    "wof:geomhash":"66ac2ff8bb91a7c5c45cbdd51ef6e822",
+    "wof:geomhash":"7da54ccc33d2b1c4e3724329249dc839",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697901,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694492853,
     "wof:name":"Kaputian",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

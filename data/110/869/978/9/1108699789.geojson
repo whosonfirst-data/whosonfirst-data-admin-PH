@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00503,
-    "geom:area_square_m":61099340.889134,
+    "geom:area_square_m":61099192.431541,
     "geom:bbox":"122.253739,10.719339,122.355457,10.827711",
     "geom:latitude":10.778809,
     "geom:longitude":122.31173,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.TB",
+    "statoids:name":"Tubungan",
+    "statoids:population":21540,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497334,
-    "wof:geomhash":"64464389d75d1ace0c3592c904a34d40",
+    "wof:geomhash":"842cc4d42e2969cdbb92529039491b45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699789,
-    "wof:lastmodified":1626127486,
+    "wof:lastmodified":1694492566,
     "wof:name":"Tubungan",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

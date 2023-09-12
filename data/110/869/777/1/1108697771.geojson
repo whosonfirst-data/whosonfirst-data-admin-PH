@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006652,
-    "geom:area_square_m":81355440.925987,
+    "geom:area_square_m":81355560.629813,
     "geom:bbox":"124.281219,8.452138,124.399186,8.542056",
     "geom:latitude":8.490291,
     "geom:longitude":124.339359,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.II",
+    "statoids:name":"Initao",
+    "statoids:population":29331,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.II"
+    },
     "wof:country":"PH",
     "wof:created":1474495919,
-    "wof:geomhash":"5985b30ecc2dcb9488d8e5169067fc36",
+    "wof:geomhash":"f2fb44cacfbd949fe1df13dd6fd30e52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697771,
-    "wof:lastmodified":1628266657,
+    "wof:lastmodified":1694492849,
     "wof:name":"Initao",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

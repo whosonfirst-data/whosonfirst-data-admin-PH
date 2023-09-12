@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011474,
-    "geom:area_square_m":139546683.833967,
+    "geom:area_square_m":139546940.646915,
     "geom:bbox":"125.072908,10.3328,125.220019,10.473546",
     "geom:latitude":10.406674,
     "geom:longitude":125.141427,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.HG",
+    "statoids:name":"Hinunangan",
+    "statoids:population":28415,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.HG"
+    },
     "wof:country":"PH",
     "wof:created":1474495892,
-    "wof:geomhash":"8bf5129e00406d0bc91c03a87b447d04",
+    "wof:geomhash":"662449b5d1bca171e47b67536b9d628a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697729,
-    "wof:lastmodified":1628266655,
+    "wof:lastmodified":1694492849,
     "wof:name":"Hinunangan",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

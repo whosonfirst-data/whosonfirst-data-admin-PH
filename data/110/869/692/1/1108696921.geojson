@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007404,
-    "geom:area_square_m":89772652.444485,
+    "geom:area_square_m":89772702.107989,
     "geom:bbox":"124.701104,11.252667,124.817063,11.365642",
     "geom:latitude":11.303848,
     "geom:longitude":124.76666,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.BR",
+    "statoids:name":"Barugo",
+    "statoids:population":30092,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495335,
-    "wof:geomhash":"6660904dfa439af18cfeb6a226cfe24d",
+    "wof:geomhash":"24deb723058cb4f486414ac056d67881",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696921,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492828,
     "wof:name":"Barugo",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

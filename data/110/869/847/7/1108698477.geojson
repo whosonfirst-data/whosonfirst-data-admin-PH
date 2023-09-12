@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043521,
-    "geom:area_square_m":525991826.194633,
+    "geom:area_square_m":525992080.665077,
     "geom:bbox":"123.271301,12.072083,123.714577,12.33421",
     "geom:latitude":12.20053,
     "geom:longitude":123.494088,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.ML",
+    "statoids:name":"Milagros",
+    "statoids:population":52619,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496397,
-    "wof:geomhash":"e4cb8709187f0f59ca5df824fa05c253",
+    "wof:geomhash":"09813d87c9bb5c7922e7a53d5e15bdf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108698477,
-    "wof:lastmodified":1626127510,
+    "wof:lastmodified":1694492570,
     "wof:name":"Milagros",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009958,
-    "geom:area_square_m":118595916.362708,
+    "geom:area_square_m":118595787.701993,
     "geom:bbox":"120.881221,15.525809,120.976222,15.706389",
     "geom:latitude":15.607554,
     "geom:longitude":120.929108,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.TA",
+    "statoids:name":"Talavera",
+    "statoids:population":112515,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497229,
-    "wof:geomhash":"091534ba1175a8f65fa2c817aff7a5d5",
+    "wof:geomhash":"795d7de4dfa571e30bce091f0659b254",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699631,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1694492561,
     "wof:name":"Talavera",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

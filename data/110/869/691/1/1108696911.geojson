@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01585,
-    "geom:area_square_m":187359387.892786,
+    "geom:area_square_m":187359180.312592,
     "geom:bbox":"121.075125,17.006503,121.25198,17.169181",
     "geom:latitude":17.06704,
     "geom:longitude":121.160124,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.BR",
+    "statoids:name":"Barlig",
+    "statoids:population":5838,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495327,
-    "wof:geomhash":"383f5aa7e4fbdd7b46dcd598c483fbb4",
+    "wof:geomhash":"fc146c2caa8d3e4607bf11352439ffe4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696911,
-    "wof:lastmodified":1626127520,
+    "wof:lastmodified":1694492571,
     "wof:name":"Barlig",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

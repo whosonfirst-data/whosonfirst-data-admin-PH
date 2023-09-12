@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006207,
-    "geom:area_square_m":75344420.475189,
+    "geom:area_square_m":75344429.562407,
     "geom:bbox":"122.683786,10.945167,122.781836,11.059862",
     "geom:latitude":10.995656,
     "geom:longitude":122.730557,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.AN",
+    "statoids:name":"Anilao",
+    "statoids:population":27486,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.AN"
+    },
     "wof:country":"PH",
     "wof:created":1474495174,
-    "wof:geomhash":"b4dcdef0f1d9632bdfdac911cc17a180",
+    "wof:geomhash":"2245bdb870d48d7aaaf47f1847daf385",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108696681,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492826,
     "wof:name":"Anilao",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

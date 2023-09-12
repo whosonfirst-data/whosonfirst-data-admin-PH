@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012828,
-    "geom:area_square_m":154015871.417072,
+    "geom:area_square_m":154015772.502627,
     "geom:bbox":"124.212213,13.77879,124.420418,13.914289",
     "geom:latitude":13.8476,
     "geom:longitude":124.310279,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CT.VG",
+    "statoids:name":"Viga",
+    "statoids:population":20669,
+    "statoids:statoid":"PH.CT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CT.VG"
+    },
     "wof:country":"PH",
     "wof:created":1474497380,
-    "wof:geomhash":"cd6dea11ff259dadf87febc770d66a72",
+    "wof:geomhash":"231bfcfeaebebc5b086d4d32a9e42384",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108699859,
-    "wof:lastmodified":1626127488,
+    "wof:lastmodified":1694492567,
     "wof:name":"Viga",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

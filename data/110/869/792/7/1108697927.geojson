@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002988,
-    "geom:area_square_m":36496188.523292,
+    "geom:area_square_m":36496075.072855,
     "geom:bbox":"124.780187,8.907753,124.853591,9.004583",
     "geom:latitude":8.962058,
     "geom:longitude":124.820027,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.KN",
+    "statoids:name":"Kinoguitan",
+    "statoids:population":12761,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.KN"
+    },
     "wof:country":"PH",
     "wof:created":1474496020,
-    "wof:geomhash":"5c227524063e2b28055738168dfbe1d8",
+    "wof:geomhash":"526536419bf16c96a7dbdcdb1d1413b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697927,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kinogitan",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

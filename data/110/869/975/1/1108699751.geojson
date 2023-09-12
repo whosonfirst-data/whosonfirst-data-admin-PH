@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002904,
-    "geom:area_square_m":35246529.871871,
+    "geom:area_square_m":35246685.994516,
     "geom:bbox":"124.975268,10.992864,125.039581,11.083903",
     "geom:latitude":11.034804,
     "geom:longitude":125.017168,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.TL",
+    "statoids:name":"Tolosa",
+    "statoids:population":17921,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497307,
-    "wof:geomhash":"2959f16c0d0eb5dc03121ff56302787c",
+    "wof:geomhash":"a9c0cfce9a53373a448a6df9f5a9d478",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108699751,
-    "wof:lastmodified":1626127537,
+    "wof:lastmodified":1694492574,
     "wof:name":"Tolosa",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

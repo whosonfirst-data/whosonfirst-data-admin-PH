@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012044,
-    "geom:area_square_m":145118897.230799,
+    "geom:area_square_m":145118858.039633,
     "geom:bbox":"123.878623,12.925115,124.092631,13.063318",
     "geom:latitude":12.991846,
     "geom:longitude":123.973493,
@@ -156,6 +156,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.SO",
+    "statoids:name":"Sorsogon, City of",
+    "statoids:population":155144,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -164,6 +172,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1685754,
+        "hasc:id":"PH.SR.SO",
         "qs_pg:id":86543
     },
     "wof:country":"PH",
@@ -171,7 +180,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"49adf017b1ff9d116fde5cf2c19b5e10",
+    "wof:geomhash":"ddbba48dc8db061ad6d2563bd5a6ad63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":890455201,
-    "wof:lastmodified":1636501128,
+    "wof:lastmodified":1694492936,
     "wof:name":"Sorsogon",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014798,
-    "geom:area_square_m":176573273.146635,
+    "geom:area_square_m":176573353.145974,
     "geom:bbox":"120.424292,15.148758,120.632857,15.265933",
     "geom:latitude":15.204926,
     "geom:longitude":120.540304,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.MB",
+    "statoids:name":"Mabalacat City",
+    "statoids:population":215610,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.MB"
+    },
     "wof:country":"PH",
     "wof:created":1474496196,
-    "wof:geomhash":"0b1c0037c18046146be09974deb1ce67",
+    "wof:geomhash":"87242412b15ee509d5452dee252a6817",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108698185,
-    "wof:lastmodified":1626127459,
+    "wof:lastmodified":1694492562,
     "wof:name":"Mabalacat",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

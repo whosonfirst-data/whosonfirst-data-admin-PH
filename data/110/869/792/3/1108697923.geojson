@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013825,
-    "geom:area_square_m":163734518.000881,
+    "geom:area_square_m":163734534.048874,
     "geom:bbox":"120.609706,16.64111,120.774401,16.783698",
     "geom:latitude":16.703362,
     "geom:longitude":120.693085,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.KI",
+    "statoids:name":"Kibungan",
+    "statoids:population":16850,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.KI"
+    },
     "wof:country":"PH",
     "wof:created":1474496017,
-    "wof:geomhash":"05bbf00608e5de9dd35483bf7ea677f2",
+    "wof:geomhash":"c2d2b9e38fd73aad2b35675b78341cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697923,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kibungan",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010254,
-    "geom:area_square_m":122549456.16867,
+    "geom:area_square_m":122549704.915822,
     "geom:bbox":"120.258883,14.799477,120.439138,14.913255",
     "geom:latitude":14.868793,
     "geom:longitude":120.334688,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.OO",
+    "statoids:name":"Olongapo City",
+    "statoids:population":221178,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.OO"
+    },
     "wof:country":"PH",
     "wof:created":1474496549,
-    "wof:geomhash":"fb55158c830317e37f8b8f50cfe4b9e6",
+    "wof:geomhash":"7e6fbd63fff7efb362b66a55a7fd50ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698693,
-    "wof:lastmodified":1628266694,
+    "wof:lastmodified":1694492872,
     "wof:name":"Olongapo City",
     "wof:parent_id":85676361,
     "wof:placetype":"county",

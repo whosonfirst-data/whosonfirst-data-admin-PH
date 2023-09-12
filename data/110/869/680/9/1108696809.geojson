@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015046,
-    "geom:area_square_m":182505095.298215,
+    "geom:area_square_m":182505009.963481,
     "geom:bbox":"125.279228,11.082889,125.447383,11.28423",
     "geom:latitude":11.190121,
     "geom:longitude":125.374995,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.BL",
+    "statoids:name":"Balangiga",
+    "statoids:population":12756,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495261,
-    "wof:geomhash":"d4b823c3c6f243071d9b126c978fe838",
+    "wof:geomhash":"fa9f1ba5f447fa4db61585a87e84c95e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696809,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balangiga",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

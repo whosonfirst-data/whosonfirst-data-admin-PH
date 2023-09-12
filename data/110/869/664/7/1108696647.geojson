@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004934,
-    "geom:area_square_m":59754481.86008,
+    "geom:area_square_m":59754470.79447,
     "geom:bbox":"124.354584,11.597937,124.459926,11.684322",
     "geom:latitude":11.641544,
     "geom:longitude":124.408796,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.AM",
+    "statoids:name":"Almeria",
+    "statoids:population":16495,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.AM"
+    },
     "wof:country":"PH",
     "wof:created":1474495152,
-    "wof:geomhash":"e0925f0b1744af198bde6a41e3612fec",
+    "wof:geomhash":"99c0080396fd8da72c04142202b58c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696647,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694492826,
     "wof:name":"Almeria",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

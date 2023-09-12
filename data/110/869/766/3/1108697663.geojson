@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017884,
-    "geom:area_square_m":218990464.00855,
+    "geom:area_square_m":218990365.570656,
     "geom:bbox":"122.709788,7.922926,122.943947,8.035204",
     "geom:latitude":7.983431,
     "geom:longitude":122.826584,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.GD",
+    "statoids:name":"Godod",
+    "statoids:population":17788,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.GD"
+    },
     "wof:country":"PH",
     "wof:created":1474495846,
-    "wof:geomhash":"27a8563877f9e0678ccbae1926270387",
+    "wof:geomhash":"cad0a0653251b127b5f38782aaf48371",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697663,
-    "wof:lastmodified":1626127504,
+    "wof:lastmodified":1694492569,
     "wof:name":"Godod",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

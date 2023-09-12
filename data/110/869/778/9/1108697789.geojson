@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032287,
-    "geom:area_square_m":396578346.659003,
+    "geom:area_square_m":396578619.464142,
     "geom:bbox":"124.280549,6.51487,124.638485,6.702468",
     "geom:latitude":6.60716,
     "geom:longitude":124.435529,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.IU",
+    "statoids:name":"Isulan",
+    "statoids:population":86602,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.IU"
+    },
     "wof:country":"PH",
     "wof:created":1474495931,
-    "wof:geomhash":"bbe5b3d8bab551594055f3c732ed40a3",
+    "wof:geomhash":"297cecde3992bf6dbc3534674c030f47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697789,
-    "wof:lastmodified":1628266659,
+    "wof:lastmodified":1694492851,
     "wof:name":"Isulan",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

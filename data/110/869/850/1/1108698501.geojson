@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026924,
-    "geom:area_square_m":325141319.028966,
+    "geom:area_square_m":325141168.533866,
     "geom:bbox":"124.701449,12.260936,124.844218,12.542084",
     "geom:latitude":12.412065,
     "geom:longitude":124.778932,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.MN",
+    "statoids:name":"Mondragon",
+    "statoids:population":35318,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496418,
-    "wof:geomhash":"be018f954950ac7caddb800f4903b40c",
+    "wof:geomhash":"4b86a51682aad5e127df63814f133074",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698501,
-    "wof:lastmodified":1626127471,
+    "wof:lastmodified":1694492563,
     "wof:name":"Mondragon",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

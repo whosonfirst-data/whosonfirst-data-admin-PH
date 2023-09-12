@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012125,
-    "geom:area_square_m":142775399.523377,
+    "geom:area_square_m":142775070.790446,
     "geom:bbox":"120.668439,17.69865,120.80474,17.855152",
     "geom:latitude":17.775944,
     "geom:longitude":120.723212,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.LA",
+    "statoids:name":"Lagayan",
+    "statoids:population":4477,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474496050,
-    "wof:geomhash":"7ec4d6c997f1f3e041aee54a9c643b07",
+    "wof:geomhash":"0a6c567151b9a63100e6655da394ae30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697973,
-    "wof:lastmodified":1626127446,
+    "wof:lastmodified":1694492559,
     "wof:name":"Lagayan",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

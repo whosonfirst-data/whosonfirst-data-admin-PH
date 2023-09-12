@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001964,
-    "geom:area_square_m":23504437.159713,
+    "geom:area_square_m":23504450.881083,
     "geom:bbox":"121.252518,14.508648,121.295237,14.577087",
     "geom:latitude":14.540704,
     "geom:longitude":121.273616,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.BR",
+    "statoids:name":"Baras",
+    "statoids:population":32609,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495320,
-    "wof:geomhash":"c93f9db8a8eb021da9c4c43d9fd0a016",
+    "wof:geomhash":"a1dc818bf2d2d21307ce13d6ba5cf686",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108696899,
-    "wof:lastmodified":1626127464,
+    "wof:lastmodified":1694492562,
     "wof:name":"Baras",
     "wof:parent_id":85676145,
     "wof:placetype":"county",

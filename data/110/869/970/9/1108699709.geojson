@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097441,
-    "geom:area_square_m":1183499026.446507,
+    "geom:area_square_m":1183499927.163897,
     "geom:bbox":"119.208725,10.523793,119.670387,11.196212",
     "geom:latitude":10.807865,
     "geom:longitude":119.451102,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.TY",
+    "statoids:name":"Taytay",
+    "statoids:population":70837,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.TY"
+    },
     "wof:country":"PH",
     "wof:created":1474497281,
-    "wof:geomhash":"015445e5e641b0630a6cb019bf2953f1",
+    "wof:geomhash":"fc5cbf9e37d33d39bf3b8b1e13b5021f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699709,
-    "wof:lastmodified":1626127481,
+    "wof:lastmodified":1694492565,
     "wof:name":"Taytay",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

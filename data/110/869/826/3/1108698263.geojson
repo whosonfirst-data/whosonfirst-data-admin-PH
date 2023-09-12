@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001178,
-    "geom:area_square_m":13647043.323658,
+    "geom:area_square_m":13647115.592496,
     "geom:bbox":"121.92292,20.38881,121.974506,20.433833",
     "geom:latitude":20.41082,
     "geom:longitude":121.948912,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BN.MH",
+    "statoids:name":"Mahatao",
+    "statoids:population":1583,
+    "statoids:statoid":"PH.BN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BN.MH"
+    },
     "wof:country":"PH",
     "wof:created":1474496247,
-    "wof:geomhash":"f36a104b3a91accc8e8047dfc75c0a26",
+    "wof:geomhash":"a5e022dffd449ecef8540c778fb0fc79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698263,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Mahatao",
     "wof:parent_id":85676043,
     "wof:placetype":"county",

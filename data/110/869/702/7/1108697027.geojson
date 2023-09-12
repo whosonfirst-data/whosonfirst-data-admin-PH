@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017576,
-    "geom:area_square_m":212247601.357109,
+    "geom:area_square_m":212247635.67361,
     "geom:bbox":"124.461768,12.293211,124.588661,12.53125",
     "geom:latitude":12.410572,
     "geom:longitude":124.537003,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.BB",
+    "statoids:name":"Bobon",
+    "statoids:population":20956,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.BB"
+    },
     "wof:country":"PH",
     "wof:created":1474495412,
-    "wof:geomhash":"6f15e833f8a23999dbaa549d103c0aa0",
+    "wof:geomhash":"11b3f1ef3904f3a2b552bec2939732b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697027,
-    "wof:lastmodified":1626127493,
+    "wof:lastmodified":1694492567,
     "wof:name":"Bobon",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

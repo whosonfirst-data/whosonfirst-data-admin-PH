@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030111,
-    "geom:area_square_m":357132232.371084,
+    "geom:area_square_m":357131973.652132,
     "geom:bbox":"121.994711,16.335763,122.244252,16.514587",
     "geom:latitude":16.42725,
     "geom:longitude":122.129885,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AU.DL",
+    "statoids:name":"Dilasag",
+    "statoids:population":15683,
+    "statoids:statoid":"PH.AU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AU.DL"
+    },
     "wof:country":"PH",
     "wof:created":1474495724,
-    "wof:geomhash":"11b5e4625e1c40aab12b6b5cc3c3b57a",
+    "wof:geomhash":"3a28cb186af34f13facea528e1828a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697477,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492841,
     "wof:name":"Dilasag",
     "wof:parent_id":85676065,
     "wof:placetype":"county",

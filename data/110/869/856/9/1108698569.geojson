@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008218,
-    "geom:area_square_m":99544394.723588,
+    "geom:area_square_m":99544386.684022,
     "geom:bbox":"124.388725,11.50865,124.49691,11.642239",
     "geom:latitude":11.578222,
     "geom:longitude":124.442415,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.NV",
+    "statoids:name":"Naval",
+    "statoids:population":48799,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.NV"
+    },
     "wof:country":"PH",
     "wof:created":1474496463,
-    "wof:geomhash":"079d6c324a9897f768995ebd757fbcad",
+    "wof:geomhash":"8cb819baef92406eb0bc643c48d8c2ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698569,
-    "wof:lastmodified":1628266690,
+    "wof:lastmodified":1694492869,
     "wof:name":"Naval",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

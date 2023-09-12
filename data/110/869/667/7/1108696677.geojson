@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004733,
-    "geom:area_square_m":56494500.794,
+    "geom:area_square_m":56494314.650319,
     "geom:bbox":"120.503274,15.106978,120.643314,15.185768",
     "geom:latitude":15.150509,
     "geom:longitude":120.588833,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.AG",
+    "statoids:name":"Angeles City",
+    "statoids:population":326336,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676351
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.AG"
+    },
     "wof:country":"PH",
     "wof:created":1474495171,
-    "wof:geomhash":"ff9125184bcdff3d60c872fd50a9bae4",
+    "wof:geomhash":"bd4206783c1137b2ddc74859a9212ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696677,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492826,
     "wof:name":"Angeles City",
     "wof:parent_id":85676351,
     "wof:placetype":"county",

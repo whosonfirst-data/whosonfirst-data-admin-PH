@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00254,
-    "geom:area_square_m":30606058.744549,
+    "geom:area_square_m":30606072.119836,
     "geom:bbox":"122.031219,12.906222,122.098747,12.965417",
     "geom:latitude":12.94066,
     "geom:longitude":122.068409,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.BN",
+    "statoids:name":"Banton",
+    "statoids:population":5963,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495317,
-    "wof:geomhash":"9e1c5ace79ec2bb09999afe03457739d",
+    "wof:geomhash":"42c652481db249d0f56b2a4561be02f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108696895,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Banton",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

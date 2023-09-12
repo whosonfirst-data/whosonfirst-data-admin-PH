@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038519,
-    "geom:area_square_m":472525631.386698,
+    "geom:area_square_m":472526122.9784,
     "geom:bbox":"124.844996,7.03358,125.045381,7.348349",
     "geom:latitude":7.209046,
     "geom:longitude":124.949055,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.MT",
+    "statoids:name":"Matalam",
+    "statoids:population":74034,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.MT"
+    },
     "wof:country":"PH",
     "wof:created":1474496362,
-    "wof:geomhash":"aa6ac9cdc83c29960b382e9c335786be",
+    "wof:geomhash":"b98e9defb9d850061b1493faec190a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698427,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Matalam",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

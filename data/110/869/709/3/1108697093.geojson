@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007691,
-    "geom:area_square_m":90308418.298515,
+    "geom:area_square_m":90308346.3098,
     "geom:bbox":"121.748417,18.219918,121.896919,18.31239",
     "geom:latitude":18.261823,
     "geom:longitude":121.809418,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.BU",
+    "statoids:name":"Buguey",
+    "statoids:population":28455,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495455,
-    "wof:geomhash":"2f4d9b728a2cc26f70c6a0305a0ea6ed",
+    "wof:geomhash":"3c26fa5429d4f13ffe680f6efa89e14f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697093,
-    "wof:lastmodified":1628266633,
+    "wof:lastmodified":1694492834,
     "wof:name":"Buguey",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00326,
-    "geom:area_square_m":39606526.803424,
+    "geom:area_square_m":39606734.785585,
     "geom:bbox":"122.276286,10.654555,122.35593,10.725649",
     "geom:latitude":10.685548,
     "geom:longitude":122.315193,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.GI",
+    "statoids:name":"Guimbal",
+    "statoids:population":32325,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495860,
-    "wof:geomhash":"9bf6188b9750a366475fe3c5e0e17cb0",
+    "wof:geomhash":"a0c91aefefe6f42decf9928ca74413db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697681,
-    "wof:lastmodified":1628266654,
+    "wof:lastmodified":1694492848,
     "wof:name":"Guimbal",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

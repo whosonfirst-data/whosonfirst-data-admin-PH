@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018919,
-    "geom:area_square_m":223272942.967774,
+    "geom:area_square_m":223272866.724645,
     "geom:bbox":"120.759945,17.319559,121.002016,17.414326",
     "geom:latitude":17.366756,
     "geom:longitude":120.87102,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.BL",
+    "statoids:name":"Boliney",
+    "statoids:population":4063,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495420,
-    "wof:geomhash":"b10cee6a2acdcc807b6078492f10b44f",
+    "wof:geomhash":"685087048c23d1371d7688a04c13bd67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697039,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Boliney",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

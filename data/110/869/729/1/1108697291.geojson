@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003664,
-    "geom:area_square_m":44384396.68936,
+    "geom:area_square_m":44384303.350715,
     "geom:bbox":"123.073239,11.488606,123.163719,11.60125",
     "geom:latitude":11.540325,
     "geom:longitude":123.122409,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.CR",
+    "statoids:name":"Carles",
+    "statoids:population":62690,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495587,
-    "wof:geomhash":"4b52f95ca390c84fc112ce393196aeb6",
+    "wof:geomhash":"6050a5d961864d622b998f48bafce091",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697291,
-    "wof:lastmodified":1626127536,
+    "wof:lastmodified":1694492574,
     "wof:name":"Carles",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

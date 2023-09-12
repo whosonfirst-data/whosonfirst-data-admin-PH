@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010108,
-    "geom:area_square_m":123639752.868739,
+    "geom:area_square_m":123639597.434595,
     "geom:bbox":"125.738279,8.392617,125.881989,8.486408",
     "geom:latitude":8.434709,
     "geom:longitude":125.802567,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.TL",
+    "statoids:name":"Talacogon",
+    "statoids:population":37224,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497224,
-    "wof:geomhash":"f4264ad58ae33eb905428f12f83fb275",
+    "wof:geomhash":"fbc852adc8971440dbefb799f1838dd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699625,
-    "wof:lastmodified":1626127452,
+    "wof:lastmodified":1694492560,
     "wof:name":"Talacogon",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058447,
-    "geom:area_square_m":686696187.758,
+    "geom:area_square_m":686695984.306906,
     "geom:bbox":"121.61561,18.108923,122.233435,18.240501",
     "geom:latitude":18.164197,
     "geom:longitude":121.878196,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.LL",
+    "statoids:name":"Lal-lo",
+    "statoids:population":41388,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.LL"
+    },
     "wof:country":"PH",
     "wof:created":1474496056,
-    "wof:geomhash":"50e0d31fdb6eca0503b2d97e19764d75",
+    "wof:geomhash":"e50316b17982c004096ed7faea246687",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697981,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694492859,
     "wof:name":"Lal-lo",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

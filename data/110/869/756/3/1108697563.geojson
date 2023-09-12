@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051889,
-    "geom:area_square_m":629307252.947327,
+    "geom:area_square_m":629307101.915814,
     "geom:bbox":"119.318726,10.943139,119.872086,11.521222",
     "geom:latitude":11.239132,
     "geom:longitude":119.519602,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.EN",
+    "statoids:name":"El Nido (Bacuit)",
+    "statoids:population":36191,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.EN"
+    },
     "wof:country":"PH",
     "wof:created":1474495781,
-    "wof:geomhash":"6c3f3fe8224202258906b37f53ef07f9",
+    "wof:geomhash":"a7a2d896524189a03eb6ea7cc3afb851",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697563,
-    "wof:lastmodified":1627522507,
+    "wof:lastmodified":1694492714,
     "wof:name":"El Nido",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

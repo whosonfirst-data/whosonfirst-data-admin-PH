@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000288,
-    "geom:area_square_m":3447922.445725,
+    "geom:area_square_m":3447938.210148,
     "geom:bbox":"121.218117,14.380181,121.23392,14.40923",
     "geom:latitude":14.394348,
     "geom:longitude":121.226368,
@@ -91,6 +91,14 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.BN",
+    "statoids:name":"Binangonan",
+    "statoids:population":249872,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -98,10 +106,12 @@
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495396,
-    "wof:geomhash":"31c6b5009d895199c938b1c3f7e193c5",
+    "wof:geomhash":"c40a24efc7457d957a75cb473454d553",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +127,7 @@
         }
     ],
     "wof:id":1108697003,
-    "wof:lastmodified":1626127459,
+    "wof:lastmodified":1694492561,
     "wof:name":"Binangonan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

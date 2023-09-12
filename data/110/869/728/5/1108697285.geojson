@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001467,
-    "geom:area_square_m":17576789.203167,
+    "geom:area_square_m":17576732.273857,
     "geom:bbox":"121.213108,14.297957,121.26075,14.363709",
     "geom:latitude":14.334142,
     "geom:longitude":121.233648,
@@ -82,6 +82,14 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.CR",
+    "statoids:name":"Cardona",
+    "statoids:population":47414,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -89,10 +97,12 @@
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495583,
-    "wof:geomhash":"7f8ba1f4ed30fc78a131860ce50e6fd4",
+    "wof:geomhash":"2e8904ece702bda455ee3c0a975caaca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +118,7 @@
         }
     ],
     "wof:id":1108697285,
-    "wof:lastmodified":1626127530,
+    "wof:lastmodified":1694492573,
     "wof:name":"Cardona",
     "wof:parent_id":-1,
     "wof:placetype":"county",

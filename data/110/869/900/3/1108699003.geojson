@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004396,
-    "geom:area_square_m":53827834.234733,
+    "geom:area_square_m":53827698.300247,
     "geom:bbox":"123.426733,7.983064,123.525837,8.058665",
     "geom:latitude":8.022341,
     "geom:longitude":123.469528,
@@ -166,16 +166,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.RM",
+    "statoids:name":"Ramon Magsaysay (Liargo)",
+    "statoids:population":26194,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.RM"
+    },
     "wof:country":"PH",
     "wof:created":1474496770,
-    "wof:geomhash":"5031fb6cac8efea2bcc0fa2297bc078d",
+    "wof:geomhash":"fc8d01b7d5479b628d0cfa949322741d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +195,7 @@
         }
     ],
     "wof:id":1108699003,
-    "wof:lastmodified":1626127450,
+    "wof:lastmodified":1694492560,
     "wof:name":"Ramon Magsaysay",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

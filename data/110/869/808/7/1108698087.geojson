@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002494,
-    "geom:area_square_m":29910049.111421,
+    "geom:area_square_m":29909978.595947,
     "geom:bbox":"121.417161,14.060653,121.49566,14.164651",
     "geom:latitude":14.115084,
     "geom:longitude":121.454204,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.LL",
+    "statoids:name":"Liliw",
+    "statoids:population":33851,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.LL"
+    },
     "wof:country":"PH",
     "wof:created":1474496131,
-    "wof:geomhash":"54b5c34ec1faf8d9500f5febc832fd03",
+    "wof:geomhash":"8259456f5da3bb83564bb95862c956f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698087,
-    "wof:lastmodified":1626127519,
+    "wof:lastmodified":1694492571,
     "wof:name":"Liliw",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

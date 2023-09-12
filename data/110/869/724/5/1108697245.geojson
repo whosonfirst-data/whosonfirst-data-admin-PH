@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019565,
-    "geom:area_square_m":234797646.688459,
+    "geom:area_square_m":234797859.253925,
     "geom:bbox":"121.298638,13.832033,121.479896,14.064747",
     "geom:latitude":13.943986,
     "geom:longitude":121.410035,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.CN",
+    "statoids:name":"Candelaria",
+    "statoids:population":110570,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495555,
-    "wof:geomhash":"8afdeb7b2bfe1b766aa40ec291c08dbf",
+    "wof:geomhash":"62b581e04d9a2d3576ec3524f93edf74",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108697245,
-    "wof:lastmodified":1626127487,
+    "wof:lastmodified":1694492566,
     "wof:name":"Candelaria",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

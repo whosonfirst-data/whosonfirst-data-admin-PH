@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017542,
-    "geom:area_square_m":208866710.759698,
+    "geom:area_square_m":208866422.36976,
     "geom:bbox":"121.103935,15.571279,121.319543,15.731007",
     "geom:latitude":15.65235,
     "geom:longitude":121.222235,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.PL",
+    "statoids:name":"Palayan City",
+    "statoids:population":37219,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474495425,
-    "wof:geomhash":"682dab3b9c93a2f1fbc32206ead18b94",
+    "wof:geomhash":"0ba0a305bd7873fe925f6182b1f995fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697045,
-    "wof:lastmodified":1628266633,
+    "wof:lastmodified":1694492834,
     "wof:name":"Bongabong",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047126,
-    "geom:area_square_m":565766488.138402,
+    "geom:area_square_m":565766332.544551,
     "geom:bbox":"122.63372,13.715896,122.945553,13.993577",
     "geom:latitude":13.8546,
     "geom:longitude":122.823277,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.LP",
+    "statoids:name":"Lupi",
+    "statoids:population":30118,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496769,
-    "wof:geomhash":"9ae95c90a998a682312ea83e4e62983b",
+    "wof:geomhash":"ca6429a85b2744f68d4f4ffa26e402f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699001,
-    "wof:lastmodified":1628266707,
+    "wof:lastmodified":1694492880,
     "wof:name":"Ragay",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

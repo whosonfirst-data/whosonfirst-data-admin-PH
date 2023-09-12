@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011677,
-    "geom:area_square_m":137841898.462322,
+    "geom:area_square_m":137842131.493057,
     "geom:bbox":"120.606714,17.258931,120.766185,17.391482",
     "geom:latitude":17.320466,
     "geom:longitude":120.684335,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.LU",
+    "statoids:name":"Luba",
+    "statoids:population":6391,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.LU"
+    },
     "wof:country":"PH",
     "wof:created":1474496160,
-    "wof:geomhash":"5550dc95b3bce9d00762b5fd09527456",
+    "wof:geomhash":"b5caf47908c4ebc75291a6e942200f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108698131,
-    "wof:lastmodified":1636501036,
+    "wof:lastmodified":1694492935,
     "wof:name":"Luba",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

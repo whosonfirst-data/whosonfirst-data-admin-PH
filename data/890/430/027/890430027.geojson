@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005666,
-    "geom:area_square_m":68841914.448879,
+    "geom:area_square_m":68842067.174432,
     "geom:bbox":"122.494057,10.677917,122.598558,10.780857",
     "geom:latitude":10.72466,
     "geom:longitude":122.551666,
@@ -372,6 +372,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.IO",
+    "statoids:name":"Iloilo City",
+    "statoids:population":424619,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":8916,
     "wof:belongsto":[
         102191569,
@@ -382,6 +390,7 @@
     "wof:concordances":{
         "gn:id":1711003,
         "gp:id":2346685,
+        "hasc:id":"PH.II.IO",
         "qs_pg:id":87735,
         "wd:id":"Q459787",
         "wk:page":"Iloilo City"
@@ -391,7 +400,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b2c189c8ac8ca7ad37fc2700da9f0fbb",
+    "wof:geomhash":"4e237337583599ea508167db2b1a3cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -401,7 +410,7 @@
         }
     ],
     "wof:id":890430027,
-    "wof:lastmodified":1690851653,
+    "wof:lastmodified":1694492498,
     "wof:name":"Iloilo City",
     "wof:parent_id":85676299,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024258,
-    "geom:area_square_m":295628044.293038,
+    "geom:area_square_m":295627725.219213,
     "geom:bbox":"122.549035,9.659845,122.702212,9.835195",
     "geom:latitude":9.747379,
     "geom:longitude":122.624692,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.CN",
+    "statoids:name":"Candoni",
+    "statoids:population":21336,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495561,
-    "wof:geomhash":"2dd9bae302428ce2c653751f3dcae38d",
+    "wof:geomhash":"935174486536a87f7cd478ded9be638b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697255,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Candoni",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006826,
-    "geom:area_square_m":83558664.621818,
+    "geom:area_square_m":83558805.131973,
     "geom:bbox":"123.442709,8.050873,123.50812,8.230009",
     "geom:latitude":8.14502,
     "geom:longitude":123.483788,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.MH",
+    "statoids:name":"Mahayag",
+    "statoids:population":45015,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.MH"
+    },
     "wof:country":"PH",
     "wof:created":1474496414,
-    "wof:geomhash":"93066871b16aa01fb3cfe0c9edf41086",
+    "wof:geomhash":"cdf9ac1325c6686b22cce3d8d9eba503",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108698495,
-    "wof:lastmodified":1628266687,
+    "wof:lastmodified":1694492867,
     "wof:name":"Molave",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

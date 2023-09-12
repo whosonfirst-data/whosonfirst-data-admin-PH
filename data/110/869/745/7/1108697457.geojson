@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008148,
-    "geom:area_square_m":100048913.065682,
+    "geom:area_square_m":100049168.814259,
     "geom:bbox":"124.8249,6.691781,124.960994,6.81873",
     "geom:latitude":6.75783,
     "geom:longitude":124.886844,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MG.DP",
+    "statoids:name":"Datu Paglas",
+    "statoids:population":20290,
+    "statoids:statoid":"PH.MG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MG.DP"
+    },
     "wof:country":"PH",
     "wof:created":1474495711,
-    "wof:geomhash":"1abc30ff522376216f7ddb01f05a0370",
+    "wof:geomhash":"63ab72e1b284adc27c48e53837f54fc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697457,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Datu Paglas",
     "wof:parent_id":85676173,
     "wof:placetype":"county",

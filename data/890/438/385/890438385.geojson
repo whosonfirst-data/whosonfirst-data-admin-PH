@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003815,
-    "geom:area_square_m":45718252.775907,
+    "geom:area_square_m":45718191.689972,
     "geom:bbox":"120.830941,14.235036,120.900252,14.318173",
     "geom:latitude":14.277711,
     "geom:longitude":120.869588,
@@ -336,6 +336,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.TE",
+    "statoids:name":"Trece Martires City",
+    "statoids:population":104559,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":1683,
     "wof:belongsto":[
         102191569,
@@ -345,6 +353,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1681338,
+        "hasc:id":"PH.CV.TE",
         "qs_pg:id":371402,
         "wd:id":"Q63160",
         "wk:page":"Trece Martires"
@@ -354,7 +363,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f06f3eb7552585f9e15e50513277032",
+    "wof:geomhash":"7cc4f672b308c07820ce9855f438f0fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -364,7 +373,7 @@
         }
     ],
     "wof:id":890438385,
-    "wof:lastmodified":1690851709,
+    "wof:lastmodified":1694492498,
     "wof:name":"Trece Martirez City",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

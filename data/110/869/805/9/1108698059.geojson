@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017678,
-    "geom:area_square_m":214275031.535382,
+    "geom:area_square_m":214274829.763431,
     "geom:bbox":"122.199674,11.313278,122.369712,11.517607",
     "geom:latitude":11.406968,
     "geom:longitude":122.302161,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.LB",
+    "statoids:name":"Libacao",
+    "statoids:population":28005,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496107,
-    "wof:geomhash":"89ca76c9f87c29ea62990bd496883ea0",
+    "wof:geomhash":"cef47187b473bd8473bb5c8a9c323a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698059,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Libacao",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

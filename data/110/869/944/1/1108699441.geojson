@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008543,
-    "geom:area_square_m":104644428.999216,
+    "geom:area_square_m":104644582.989437,
     "geom:bbox":"123.786192,7.783167,123.901885,7.897628",
     "geom:latitude":7.836007,
     "geom:longitude":123.844346,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.SP",
+    "statoids:name":"Sapad",
+    "statoids:population":19479,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.SP"
+    },
     "wof:country":"PH",
     "wof:created":1474497093,
-    "wof:geomhash":"a5ba3a3f41b2207ef2134bc075c71040",
+    "wof:geomhash":"d0d8252b0db32fab96177eb36286d9a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699441,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694492882,
     "wof:name":"Sapad",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017535,
-    "geom:area_square_m":211759478.737863,
+    "geom:area_square_m":211759823.381157,
     "geom:bbox":"123.414112,12.313063,123.558395,12.522917",
     "geom:latitude":12.412463,
     "geom:longitude":123.47222,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.BA",
+    "statoids:name":"Baleno",
+    "statoids:population":24401,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.BA"
+    },
     "wof:country":"PH",
     "wof:created":1474495271,
-    "wof:geomhash":"92c2995fd8629bc1421aeb7c65c6b16c",
+    "wof:geomhash":"49ab4c06b2922b70707bfef5a614f983",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108696825,
-    "wof:lastmodified":1626127507,
+    "wof:lastmodified":1694492569,
     "wof:name":"Baleno",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

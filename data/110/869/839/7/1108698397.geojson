@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005123,
-    "geom:area_square_m":62531951.151797,
+    "geom:area_square_m":62531970.792121,
     "geom:bbox":"123.609684,9.117888,123.701225,9.237",
     "geom:latitude":9.174891,
     "geom:longitude":123.654855,
@@ -130,16 +130,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SQ.MR",
+    "statoids:name":"Maria",
+    "statoids:population":13383,
+    "statoids:statoid":"PH.SQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SQ.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496340,
-    "wof:geomhash":"3768dfffb0aa5a7f5cef9a6be9b0af09",
+    "wof:geomhash":"1412277cf0b00caba0e8c4a386c297f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +159,7 @@
         }
     ],
     "wof:id":1108698397,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Maria",
     "wof:parent_id":85675947,
     "wof:placetype":"county",

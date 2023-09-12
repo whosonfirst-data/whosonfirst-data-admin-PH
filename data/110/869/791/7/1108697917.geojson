@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039761,
-    "geom:area_square_m":470940292.244815,
+    "geom:area_square_m":470940565.475117,
     "geom:bbox":"120.872248,16.591686,121.169274,16.815758",
     "geom:latitude":16.692258,
     "geom:longitude":121.034129,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IF.AI",
+    "statoids:name":"Asipulo",
+    "statoids:population":14403,
+    "statoids:statoid":"PH.IF",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IF.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474496013,
-    "wof:geomhash":"32a29c5d7a4bf2eb894c23da66350e57",
+    "wof:geomhash":"f96995399b961308927f860b228d0aea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697917,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kiangan",
     "wof:parent_id":85676077,
     "wof:placetype":"county",

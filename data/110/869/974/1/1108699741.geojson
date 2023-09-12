@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010688,
-    "geom:area_square_m":128525116.014811,
+    "geom:area_square_m":128524757.90812,
     "geom:bbox":"123.537679,13.384056,123.699758,13.532173",
     "geom:latitude":13.463775,
     "geom:longitude":123.613989,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.TW",
+    "statoids:name":"Tiwi",
+    "statoids:population":50163,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.TW"
+    },
     "wof:country":"PH",
     "wof:created":1474497301,
-    "wof:geomhash":"8e8d964fa1beff3d819837be44e651b2",
+    "wof:geomhash":"7b0b9438b97746f046692d659e1a950e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699741,
-    "wof:lastmodified":1626127529,
+    "wof:lastmodified":1694492573,
     "wof:name":"Tiwi",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

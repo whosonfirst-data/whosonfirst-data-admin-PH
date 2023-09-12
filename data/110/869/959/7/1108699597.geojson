@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012784,
-    "geom:area_square_m":157000192.838537,
+    "geom:area_square_m":157000134.96432,
     "geom:bbox":"124.615084,6.590809,124.744621,6.771792",
     "geom:latitude":6.675105,
     "geom:longitude":124.674734,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.TC",
+    "statoids:name":"Tacurong, City of",
+    "statoids:population":89188,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.TC"
+    },
     "wof:country":"PH",
     "wof:created":1474497206,
-    "wof:geomhash":"b2fe93a71de9df3f4007db1248f7f8d2",
+    "wof:geomhash":"a3e02b8f7239bc8349f7b6fcc74b9efc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699597,
-    "wof:lastmodified":1626127495,
+    "wof:lastmodified":1694492568,
     "wof:name":"Tacurong",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

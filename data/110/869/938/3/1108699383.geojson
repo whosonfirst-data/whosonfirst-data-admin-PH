@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00391,
-    "geom:area_square_m":46144521.791242,
+    "geom:area_square_m":46144691.446308,
     "geom:bbox":"120.443726,17.339936,120.546632,17.398586",
     "geom:latitude":17.367849,
     "geom:longitude":120.49683,
@@ -163,16 +163,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.ST",
+    "statoids:name":"Santiago",
+    "statoids:population":17958,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.ST"
+    },
     "wof:country":"PH",
     "wof:created":1474497055,
-    "wof:geomhash":"a6b3cb02f8e848de14f98d2f5fbf50ab",
+    "wof:geomhash":"4038af2b228108425ff0cc242628f12c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +192,7 @@
         }
     ],
     "wof:id":1108699383,
-    "wof:lastmodified":1636501014,
+    "wof:lastmodified":1694492931,
     "wof:name":"Santa Maria",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

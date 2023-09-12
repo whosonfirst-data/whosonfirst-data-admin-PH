@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027993,
-    "geom:area_square_m":343127125.056482,
+    "geom:area_square_m":343127089.715983,
     "geom:bbox":"125.897572,7.427926,126.115162,7.691158",
     "geom:latitude":7.564795,
     "geom:longitude":126.007581,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.NA",
+    "statoids:name":"Nabunturan",
+    "statoids:population":73196,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.NA"
+    },
     "wof:country":"PH",
     "wof:created":1474496440,
-    "wof:geomhash":"e60bb664dfb34f422e15c8ff6200dcee",
+    "wof:geomhash":"1d2e14076f59e46def56d63f1e9ff6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698533,
-    "wof:lastmodified":1628266690,
+    "wof:lastmodified":1694492869,
     "wof:name":"Nabunturan",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

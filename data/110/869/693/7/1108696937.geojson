@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004748,
-    "geom:area_square_m":57514745.605683,
+    "geom:area_square_m":57514792.739066,
     "geom:bbox":"122.486957,11.505749,122.575417,11.597083",
     "geom:latitude":11.553762,
     "geom:longitude":122.530548,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.BT",
+    "statoids:name":"Batan",
+    "statoids:population":30312,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495346,
-    "wof:geomhash":"8340ab67d3c1785c6c132a6bc8580a50",
+    "wof:geomhash":"19bd9b476447962436b6fdb87f8e9f82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108696937,
-    "wof:lastmodified":1626127474,
+    "wof:lastmodified":1694492564,
     "wof:name":"Batan",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006424,
-    "geom:area_square_m":75811731.19419,
+    "geom:area_square_m":75811478.956442,
     "geom:bbox":"120.582984,17.295458,120.66531,17.46825",
     "geom:latitude":17.38246,
     "geom:longitude":120.628139,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.VL",
+    "statoids:name":"Villaviciosa",
+    "statoids:population":5377,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497392,
-    "wof:geomhash":"854d245e512d42572a1cc0775154d3e8",
+    "wof:geomhash":"cabc6fa69b2cb6b3e2a3bc7b1658312a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699877,
-    "wof:lastmodified":1626127528,
+    "wof:lastmodified":1694492573,
     "wof:name":"Villaviciosa",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

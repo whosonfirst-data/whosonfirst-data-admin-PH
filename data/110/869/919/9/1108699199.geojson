@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024726,
-    "geom:area_square_m":298986767.256221,
+    "geom:area_square_m":298987052.535876,
     "geom:bbox":"124.969415,11.96527,125.127915,12.170604",
     "geom:latitude":12.068192,
     "geom:longitude":125.05052,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.SB",
+    "statoids:name":"San Jose de Buan",
+    "statoids:population":6563,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474496926,
-    "wof:geomhash":"3f60aef339267783ef46d91a6b74fed4",
+    "wof:geomhash":"6f05c663c22b226e1ee892da88b3e1ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699199,
-    "wof:lastmodified":1628266712,
+    "wof:lastmodified":1694492882,
     "wof:name":"San Jose De Buan",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

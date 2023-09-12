@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014448,
-    "geom:area_square_m":176934254.963058,
+    "geom:area_square_m":176934468.66692,
     "geom:bbox":"123.444144,7.88267,123.678617,8.018568",
     "geom:latitude":7.957209,
     "geom:longitude":123.572661,
@@ -298,16 +298,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.AR",
+    "statoids:name":"Aurora",
+    "statoids:population":48434,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.AR"
+    },
     "wof:country":"PH",
     "wof:created":1474495204,
-    "wof:geomhash":"9fd71bb227b89e6a4796dd28f1c3fec5",
+    "wof:geomhash":"c0b400d2e1fc59ccd79f94df1548e92b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -317,7 +327,7 @@
         }
     ],
     "wof:id":1108696727,
-    "wof:lastmodified":1636501017,
+    "wof:lastmodified":1694492932,
     "wof:name":"Aurora",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

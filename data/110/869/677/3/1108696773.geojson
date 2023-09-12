@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009205,
-    "geom:area_square_m":108303951.21199,
+    "geom:area_square_m":108303813.927976,
     "geom:bbox":"120.428696,17.833646,120.587786,17.975036",
     "geom:latitude":17.910803,
     "geom:longitude":120.509498,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.BD",
+    "statoids:name":"Badoc",
+    "statoids:population":30708,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.BD"
+    },
     "wof:country":"PH",
     "wof:created":1474495234,
-    "wof:geomhash":"694dbf2357112b9a8c0e0883ed1b4405",
+    "wof:geomhash":"476d007f53d18708a37b1d76a8329587",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696773,
-    "wof:lastmodified":1626127513,
+    "wof:lastmodified":1694492570,
     "wof:name":"Badoc",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

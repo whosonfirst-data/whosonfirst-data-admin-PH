@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012102,
-    "geom:area_square_m":147708564.710177,
+    "geom:area_square_m":147708803.235885,
     "geom:bbox":"125.77018,9.129387,126.010672,9.29069",
     "geom:latitude":9.210218,
     "geom:longitude":125.885048,
@@ -697,16 +697,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.MD",
+    "statoids:name":"Madrid",
+    "statoids:population":14888,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.MD"
+    },
     "wof:country":"PH",
     "wof:created":1474496223,
-    "wof:geomhash":"70296283be26e979d6f0b4a7018f3644",
+    "wof:geomhash":"54e7072942b27f47bff01a8aa7cd833f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -716,7 +726,7 @@
         }
     ],
     "wof:id":1108698225,
-    "wof:lastmodified":1636501036,
+    "wof:lastmodified":1694492935,
     "wof:name":"Madrid",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

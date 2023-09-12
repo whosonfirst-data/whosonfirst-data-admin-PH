@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007111,
-    "geom:area_square_m":85091237.379744,
+    "geom:area_square_m":85091229.970579,
     "geom:bbox":"120.460572,14.539208,120.590557,14.661436",
     "geom:latitude":14.590128,
     "geom:longitude":120.532879,
@@ -187,16 +187,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.OI",
+    "statoids:name":"Orion",
+    "statoids:population":51454,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.OI"
+    },
     "wof:country":"PH",
     "wof:created":1474496557,
-    "wof:geomhash":"3d0019f4ff9c0bed74976c137686767c",
+    "wof:geomhash":"3395d1dcb1cf29739c40b154bc4ce10a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +216,7 @@
         }
     ],
     "wof:id":1108698703,
-    "wof:lastmodified":1626127506,
+    "wof:lastmodified":1694492569,
     "wof:name":"Orion",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

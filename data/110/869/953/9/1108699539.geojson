@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018169,
-    "geom:area_square_m":222461282.451202,
+    "geom:area_square_m":222461426.56693,
     "geom:bbox":"123.273,7.910353,123.472221,8.125599",
     "geom:latitude":8.034097,
     "geom:longitude":123.380551,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.SO",
+    "statoids:name":"Sominot (Don Mariano Marcos)",
+    "statoids:population":16652,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.SO"
+    },
     "wof:country":"PH",
     "wof:created":1474497165,
-    "wof:geomhash":"5f107b0cc4eac25a2e90d7a64f9add49",
+    "wof:geomhash":"5147f5a69c7a8b66ecf15d9835277976",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699539,
-    "wof:lastmodified":1628266718,
+    "wof:lastmodified":1694492885,
     "wof:name":"Sominot (don M. Mar",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

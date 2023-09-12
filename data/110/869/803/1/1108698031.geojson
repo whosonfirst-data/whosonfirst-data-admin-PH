@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006745,
-    "geom:area_square_m":81423821.329537,
+    "geom:area_square_m":81423771.936471,
     "geom:bbox":"124.287851,12.471835,124.415482,12.57459",
     "geom:latitude":12.524598,
     "geom:longitude":124.360964,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.LV",
+    "statoids:name":"Lavezares",
+    "statoids:population":27464,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.LV"
+    },
     "wof:country":"PH",
     "wof:created":1474496088,
-    "wof:geomhash":"e0ce4e237bbf53031b51a4d2637423da",
+    "wof:geomhash":"630ac7d17a1f1e169e204ae746344df5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698031,
-    "wof:lastmodified":1628266673,
+    "wof:lastmodified":1694492860,
     "wof:name":"Lavezares",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

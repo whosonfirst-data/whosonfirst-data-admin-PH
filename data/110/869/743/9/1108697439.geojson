@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011231,
-    "geom:area_square_m":132269822.567878,
+    "geom:area_square_m":132270334.299503,
     "geom:bbox":"120.568497,17.653798,120.691547,17.82924",
     "geom:latitude":17.746298,
     "geom:longitude":120.638165,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.DN",
+    "statoids:name":"Danglas",
+    "statoids:population":4734,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474495698,
-    "wof:geomhash":"18b6bd0ad1622b08a7d419af8f961a71",
+    "wof:geomhash":"ee764cfe1b58b1c4d5d53f416256782d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697439,
-    "wof:lastmodified":1626127525,
+    "wof:lastmodified":1694492572,
     "wof:name":"Danglas",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

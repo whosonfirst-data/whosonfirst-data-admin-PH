@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011768,
-    "geom:area_square_m":143086718.702049,
+    "geom:area_square_m":143086736.746402,
     "geom:bbox":"122.471191,10.40375,122.616286,10.540061",
     "geom:latitude":10.475486,
     "geom:longitude":122.545009,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.GU.NV",
+    "statoids:name":"Nueva Valencia",
+    "statoids:population":37852,
+    "statoids:statoid":"PH.GU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.GU.NV"
+    },
     "wof:country":"PH",
     "wof:created":1474496540,
-    "wof:geomhash":"aba234a50402f819be0ccf3875282adc",
+    "wof:geomhash":"1897ed8e063a779a2d25f7d84cc7aeee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698679,
-    "wof:lastmodified":1626127476,
+    "wof:lastmodified":1694492564,
     "wof:name":"Nueva Valencia",
     "wof:parent_id":85675999,
     "wof:placetype":"county",

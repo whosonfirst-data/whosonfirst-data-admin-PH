@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013534,
-    "geom:area_square_m":159816578.960992,
+    "geom:area_square_m":159816502.980219,
     "geom:bbox":"121.708345,17.197333,121.852185,17.328501",
     "geom:latitude":17.257909,
     "geom:longitude":121.774229,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.DL",
+    "statoids:name":"Delfin Albano (Magsaysay)",
+    "statoids:population":25422,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.DL"
+    },
     "wof:country":"PH",
     "wof:created":1474495118,
-    "wof:geomhash":"82bb43045e339d3b0affb1a3d6f3a355",
+    "wof:geomhash":"1434c0a4c34aa8718af86ff895464f3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108696595,
-    "wof:lastmodified":1626127477,
+    "wof:lastmodified":1694492564,
     "wof:name":"Albano",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

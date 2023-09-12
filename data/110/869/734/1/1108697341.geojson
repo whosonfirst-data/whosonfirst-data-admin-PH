@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02858,
-    "geom:area_square_m":338124475.992648,
+    "geom:area_square_m":338124442.958591,
     "geom:bbox":"121.705177,16.829861,121.986057,16.981298",
     "geom:latitude":16.907403,
     "geom:longitude":121.849934,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.CU",
+    "statoids:name":"Cauayan, City of",
+    "statoids:population":122335,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.CU"
+    },
     "wof:country":"PH",
     "wof:created":1474495619,
-    "wof:geomhash":"91022968a58faf81c75a3eda89e612d1",
+    "wof:geomhash":"d55be49d8c7038721782b6424e191f96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697341,
-    "wof:lastmodified":1626127494,
+    "wof:lastmodified":1694492567,
     "wof:name":"Cauayan",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

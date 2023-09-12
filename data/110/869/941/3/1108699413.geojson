@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005516,
-    "geom:area_square_m":65125793.406167,
+    "geom:area_square_m":65125876.047306,
     "geom:bbox":"120.415413,17.229763,120.511735,17.317138",
     "geom:latitude":17.272388,
     "geom:longitude":120.456788,
@@ -529,16 +529,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SG",
+    "statoids:name":"Sigay",
+    "statoids:population":2419,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474497074,
-    "wof:geomhash":"81af2a9c319dd0e43fe431fb1120693c",
+    "wof:geomhash":"4975f636f878a0b354d03fa6ce8959bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -548,7 +558,7 @@
         }
     ],
     "wof:id":1108699413,
-    "wof:lastmodified":1636501022,
+    "wof:lastmodified":1694492933,
     "wof:name":"Santiago",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007494,
-    "geom:area_square_m":90883296.318832,
+    "geom:area_square_m":90882904.686207,
     "geom:bbox":"125.440399,11.212279,125.572579,11.328277",
     "geom:latitude":11.263325,
     "geom:longitude":125.512441,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.GM",
+    "statoids:name":"General MacArthur",
+    "statoids:population":12214,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.GM"
+    },
     "wof:country":"PH",
     "wof:created":1474495823,
-    "wof:geomhash":"89b3082f729d4f3c4ef85d8d9437e5a9",
+    "wof:geomhash":"f8b60f872d072f14ba7d6492694a72f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697627,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1694492846,
     "wof:name":"Gen. Macarthur",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

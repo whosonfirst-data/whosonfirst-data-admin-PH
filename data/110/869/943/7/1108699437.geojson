@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000745,
-    "geom:area_square_m":8861639.279913,
+    "geom:area_square_m":8861691.894211,
     "geom:bbox":"120.552865,15.841676,120.590361,15.874467",
     "geom:latitude":15.85875,
     "geom:longitude":120.571939,
@@ -115,16 +115,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.AC",
+    "statoids:name":"Alcala",
+    "statoids:population":41077,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.AC"
+    },
     "wof:country":"PH",
     "wof:created":1474497090,
-    "wof:geomhash":"773480eb57919546c0ad7fe20098b6f5",
+    "wof:geomhash":"0f7d5c0054966c0631a9c7da32d399fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +144,7 @@
         }
     ],
     "wof:id":1108699437,
-    "wof:lastmodified":1636501044,
+    "wof:lastmodified":1694492936,
     "wof:name":"Santo Tomas",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

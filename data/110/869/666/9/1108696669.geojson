@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002028,
-    "geom:area_square_m":24139612.373598,
+    "geom:area_square_m":24139617.601652,
     "geom:bbox":"120.596265,15.691921,120.640792,15.773914",
     "geom:latitude":15.727843,
     "geom:longitude":120.613908,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.AA",
+    "statoids:name":"Anao",
+    "statoids:population":10873,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495167,
-    "wof:geomhash":"c70fc3f76ddb74b75b5355ce8ed07c88",
+    "wof:geomhash":"bc4b6aa2a6ec37e3eebc50134bb86fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696669,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492826,
     "wof:name":"Anao",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

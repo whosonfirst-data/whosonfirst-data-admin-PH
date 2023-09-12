@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009535,
-    "geom:area_square_m":117263602.097122,
+    "geom:area_square_m":117263693.56606,
     "geom:bbox":"121.156395,5.924026,121.292294,6.02375",
     "geom:latitude":5.976257,
     "geom:longitude":121.226799,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.OP",
+    "statoids:name":"Old Panamao",
+    "statoids:population":37933,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.OP"
+    },
     "wof:country":"PH",
     "wof:created":1474496602,
-    "wof:geomhash":"29415c969ec351e2f8524420af724f6c",
+    "wof:geomhash":"2cdeae65489d4e9775823c3773c115fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698767,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Panamao",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0259,
-    "geom:area_square_m":310669305.249212,
+    "geom:area_square_m":310669170.87841,
     "geom:bbox":"121.478992,13.945554,121.770746,14.150116",
     "geom:latitude":14.055796,
     "geom:longitude":121.617562,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.TY",
+    "statoids:name":"Tayabas, City of",
+    "statoids:population":91428,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.TY"
+    },
     "wof:country":"PH",
     "wof:created":1474497276,
-    "wof:geomhash":"1c23a62a7a010d3d6d2bd03b193bd44e",
+    "wof:geomhash":"a4a19371152e7b17e746c0ca390d9629",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699703,
-    "wof:lastmodified":1626127481,
+    "wof:lastmodified":1694492565,
     "wof:name":"Tayabas",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

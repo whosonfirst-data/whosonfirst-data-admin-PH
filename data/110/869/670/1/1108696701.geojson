@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015848,
-    "geom:area_square_m":193037348.940581,
+    "geom:area_square_m":193037172.87929,
     "geom:bbox":"123.486663,9.812083,123.624557,10.00401",
     "geom:latitude":9.9202,
     "geom:longitude":123.552521,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.AG",
+    "statoids:name":"Argao",
+    "statoids:population":69503,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.AG"
+    },
     "wof:country":"PH",
     "wof:created":1474495187,
-    "wof:geomhash":"9cf39992aec245693e8c5f82c469523e",
+    "wof:geomhash":"f6dea42baedaa07f30d54d4e8b6b1d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696701,
-    "wof:lastmodified":1626127512,
+    "wof:lastmodified":1694492570,
     "wof:name":"Argao",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

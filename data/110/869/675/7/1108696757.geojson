@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012904,
-    "geom:area_square_m":155444889.074758,
+    "geom:area_square_m":155444978.540073,
     "geom:bbox":"123.909784,12.967836,124.136182,13.112442",
     "geom:latitude":13.040968,
     "geom:longitude":124.022127,
@@ -205,16 +205,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.SO",
+    "statoids:name":"Sorsogon, City of",
+    "statoids:population":155144,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.SO"
+    },
     "wof:country":"PH",
     "wof:created":1474495224,
-    "wof:geomhash":"61c5ce76b2c8c2f42e0232952734741d",
+    "wof:geomhash":"68567f4051c4243118a8a2167020fe2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +234,7 @@
         }
     ],
     "wof:id":1108696757,
-    "wof:lastmodified":1626127460,
+    "wof:lastmodified":1694492562,
     "wof:name":"Bacon",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

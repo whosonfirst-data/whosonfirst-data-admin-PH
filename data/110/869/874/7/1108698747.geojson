@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051945,
-    "geom:area_square_m":638431375.002593,
+    "geom:area_square_m":638431032.627263,
     "geom:bbox":"124.037086,6.117084,124.397619,6.440296",
     "geom:latitude":6.299306,
     "geom:longitude":124.227698,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.PL",
+    "statoids:name":"Palimbang",
+    "statoids:population":83265,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496589,
-    "wof:geomhash":"b6fb335bec683e8f1187fc38af097df7",
+    "wof:geomhash":"ec62fe75a2bc6f50494ec0ec8a3b8360",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698747,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Palimbang",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007574,
-    "geom:area_square_m":87571676.374541,
+    "geom:area_square_m":87571726.318171,
     "geom:bbox":"121.780357,20.689556,121.881226,20.837944",
     "geom:latitude":20.761746,
     "geom:longitude":121.833723,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BN.IB",
+    "statoids:name":"Itbayat",
+    "statoids:population":2988,
+    "statoids:statoid":"PH.BN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BN.IB"
+    },
     "wof:country":"PH",
     "wof:created":1474495932,
-    "wof:geomhash":"38790bbb75ea5eb3c20e17aa59a27140",
+    "wof:geomhash":"9bfdf61ce8c1a01c61ef6374bd5800d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697791,
-    "wof:lastmodified":1628266659,
+    "wof:lastmodified":1694492851,
     "wof:name":"Itbayat",
     "wof:parent_id":85676043,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030983,
-    "geom:area_square_m":375251061.120472,
+    "geom:area_square_m":375250731.893056,
     "geom:bbox":"125.223212,11.550948,125.492081,11.729889",
     "geom:latitude":11.624773,
     "geom:longitude":125.358288,
@@ -100,16 +100,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.BR",
+    "statoids:name":"Borongan, City of",
+    "statoids:population":64457,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495435,
-    "wof:geomhash":"fc838bbb132409da91a78699803a9478",
+    "wof:geomhash":"942ce38744e16055c331ff1f4a33b8f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +129,7 @@
         }
     ],
     "wof:id":1108697061,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Borongan",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

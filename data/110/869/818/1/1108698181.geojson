@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017641,
-    "geom:area_square_m":214697379.932129,
+    "geom:area_square_m":214697469.58162,
     "geom:bbox":"124.751221,10.109815,124.95571,10.278017",
     "geom:latitude":10.181795,
     "geom:longitude":124.853537,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.MA",
+    "statoids:name":"Maasin, City of",
+    "statoids:population":81250,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.MA"
+    },
     "wof:country":"PH",
     "wof:created":1474496195,
-    "wof:geomhash":"3c8299206d5bd15e48871920a39725e7",
+    "wof:geomhash":"fc191facf8d6e5b2176cdef9c3f34278",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698181,
-    "wof:lastmodified":1626127459,
+    "wof:lastmodified":1694492561,
     "wof:name":"Maasin",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02168,
-    "geom:area_square_m":265649803.72872,
+    "geom:area_square_m":265649783.486695,
     "geom:bbox":"126.024292,7.639043,126.276801,7.803343",
     "geom:latitude":7.709125,
     "geom:longitude":126.155048,
@@ -144,6 +144,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.CM",
+    "statoids:name":"Compostela",
+    "statoids:population":81934,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":69,
     "wof:belongsto":[
         102191569,
@@ -154,6 +162,7 @@
     "wof:concordances":{
         "gn:id":1717055,
         "gp:id":28350148,
+        "hasc:id":"PH.CL.CM",
         "qs_pg:id":87977,
         "wk:page":"Compostela"
     },
@@ -162,7 +171,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6bf665de315f8b50292f0ad9a83c289",
+    "wof:geomhash":"63ee62ef7f2afb4a45af870018c6d1a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -172,7 +181,7 @@
         }
     ],
     "wof:id":890432905,
-    "wof:lastmodified":1636501165,
+    "wof:lastmodified":1694492936,
     "wof:name":"Compostela",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

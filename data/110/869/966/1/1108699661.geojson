@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002011,
-    "geom:area_square_m":24629077.773387,
+    "geom:area_square_m":24628976.053552,
     "geom:bbox":"124.315122,7.857447,124.384865,7.914914",
     "geom:latitude":7.881069,
     "geom:longitude":124.341044,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.LB",
+    "statoids:name":"Lumba-Bayabao (Maguing)",
+    "statoids:population":32412,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474497248,
-    "wof:geomhash":"43f7cfeea6addc1df860fb5a74e8bdc5",
+    "wof:geomhash":"69a36acc39afb49fecb3391a550b0b34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699661,
-    "wof:lastmodified":1626127494,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tamparan",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

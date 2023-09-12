@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001495,
-    "geom:area_square_m":17938955.729635,
+    "geom:area_square_m":17938848.52973,
     "geom:bbox":"121.079082,13.94076,121.12405,13.996217",
     "geom:latitude":13.964473,
     "geom:longitude":121.0993,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.MT",
+    "statoids:name":"Mataas Na Kahoy",
+    "statoids:population":27177,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.MT"
+    },
     "wof:country":"PH",
     "wof:created":1474496359,
-    "wof:geomhash":"581dd9acf8e49d4d68666020d1f5d4e2",
+    "wof:geomhash":"01de2cd7d9629a6c56c2b54cba73c7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698423,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mataas Na Kahoy",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

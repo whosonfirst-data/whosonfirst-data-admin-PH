@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010699,
-    "geom:area_square_m":126553980.934673,
+    "geom:area_square_m":126554221.158188,
     "geom:bbox":"120.836142,16.831645,120.937804,17.058329",
     "geom:latitude":16.936669,
     "geom:longitude":120.882898,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.BU",
+    "statoids:name":"Bauko",
+    "statoids:population":30172,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495368,
-    "wof:geomhash":"4346355ddc8a3d03135043c57f769b94",
+    "wof:geomhash":"07a19fc4b4a23da0c4a369be4d82b93a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696961,
-    "wof:lastmodified":1626127520,
+    "wof:lastmodified":1694492571,
     "wof:name":"Bauko",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

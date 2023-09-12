@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041535,
-    "geom:area_square_m":504414273.641993,
+    "geom:area_square_m":504414158.739668,
     "geom:bbox":"123.14781,10.66322,123.372852,10.99875",
     "geom:latitude":10.846025,
     "geom:longitude":123.250301,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.CD",
+    "statoids:name":"Cadiz City",
+    "statoids:population":151500,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.CD"
+    },
     "wof:country":"PH",
     "wof:created":1474495511,
-    "wof:geomhash":"68ada18548b2ce0627f5e591a74a4610",
+    "wof:geomhash":"5df456f73ed405bc2f9fe33e91ae8ef0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697179,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cadiz City",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

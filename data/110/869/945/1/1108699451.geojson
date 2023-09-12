@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017282,
-    "geom:area_square_m":207408858.348835,
+    "geom:area_square_m":207408872.781162,
     "geom:bbox":"121.431732,13.81786,121.586151,14.057088",
     "geom:latitude":13.928097,
     "geom:longitude":121.502318,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.SR",
+    "statoids:name":"Sariaya",
+    "statoids:population":138894,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497098,
-    "wof:geomhash":"c07ad572802976fed69a32d38a5fa149",
+    "wof:geomhash":"a43acc3064bc317b7be8261b33bc94f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699451,
-    "wof:lastmodified":1626127531,
+    "wof:lastmodified":1694492573,
     "wof:name":"Sariaya",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

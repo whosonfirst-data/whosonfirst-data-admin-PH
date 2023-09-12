@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006072,
-    "geom:area_square_m":71859155.87682,
+    "geom:area_square_m":71859373.690306,
     "geom:bbox":"120.452795,16.792043,120.53452,16.920468",
     "geom:latitude":16.854189,
     "geom:longitude":120.491181,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.SD",
+    "statoids:name":"Sudipen",
+    "statoids:population":16531,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.SD"
+    },
     "wof:country":"PH",
     "wof:created":1474497172,
-    "wof:geomhash":"63baa0d4844c50a0ac3c266343fa7881",
+    "wof:geomhash":"c104e073e9fd0291f1c92bfae4975a0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699547,
-    "wof:lastmodified":1626127450,
+    "wof:lastmodified":1694492560,
     "wof:name":"Sudipen",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

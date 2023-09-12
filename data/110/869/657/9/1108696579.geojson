@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012191,
-    "geom:area_square_m":147900616.265363,
+    "geom:area_square_m":147900262.087051,
     "geom:bbox":"122.922082,11.029555,123.055977,11.220175",
     "geom:latitude":11.137606,
     "geom:longitude":122.980006,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.AU",
+    "statoids:name":"Ajuy",
+    "statoids:population":47248,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.AU"
+    },
     "wof:country":"PH",
     "wof:created":1474495108,
-    "wof:geomhash":"4aff419423b841c7b4db79a6ca2e7144",
+    "wof:geomhash":"3e0f1afd2a83df10f4cb423806fcb562",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108696579,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1694492713,
     "wof:name":"Ajuy",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

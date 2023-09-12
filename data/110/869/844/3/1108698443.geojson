@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015066,
-    "geom:area_square_m":184698125.157045,
+    "geom:area_square_m":184698428.6563,
     "geom:bbox":"125.831951,7.448587,125.997566,7.568018",
     "geom:latitude":7.509703,
     "geom:longitude":125.92264,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.MW",
+    "statoids:name":"Mawab",
+    "statoids:population":35698,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.MW"
+    },
     "wof:country":"PH",
     "wof:created":1474496373,
-    "wof:geomhash":"7897e03ef55e3bd6b3e70282bc45bfe2",
+    "wof:geomhash":"f66ae190db464cf11527130bcd3359af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698443,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mawab",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

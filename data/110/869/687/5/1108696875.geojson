@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005549,
-    "geom:area_square_m":67216181.645974,
+    "geom:area_square_m":67216334.163309,
     "geom:bbox":"122.291082,11.530175,122.366901,11.669625",
     "geom:latitude":11.596144,
     "geom:longitude":122.329637,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.BN",
+    "statoids:name":"Banga",
+    "statoids:population":38063,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495304,
-    "wof:geomhash":"cb223d0bb2a661ee46458607d806887e",
+    "wof:geomhash":"2cf707f604fa042928dacfd24259a64b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108696875,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Banga",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

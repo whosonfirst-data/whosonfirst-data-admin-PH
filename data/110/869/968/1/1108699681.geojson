@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018346,
-    "geom:area_square_m":223727420.046942,
+    "geom:area_square_m":223727731.414301,
     "geom:bbox":"122.890037,9.450656,123.182861,9.564301",
     "geom:latitude":9.513505,
     "geom:longitude":123.032772,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.TN",
+    "statoids:name":"Tanjay, City of",
+    "statoids:population":79098,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497262,
-    "wof:geomhash":"98eadc26506cb392ddef0dd97c3cdc05",
+    "wof:geomhash":"02d1ec9bc1f7011ebc3a73f3057c9ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699681,
-    "wof:lastmodified":1626127493,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tanjay",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

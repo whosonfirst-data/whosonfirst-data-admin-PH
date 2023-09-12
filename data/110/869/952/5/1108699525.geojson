@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01627,
-    "geom:area_square_m":195979109.826633,
+    "geom:area_square_m":195979137.058508,
     "geom:bbox":"121.24045,13.003314,121.424152,13.156551",
     "geom:latitude":13.062754,
     "geom:longitude":121.331178,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.SC",
+    "statoids:name":"Socorro",
+    "statoids:population":38348,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474497155,
-    "wof:geomhash":"4f485f47a034d9843ccee0f36c35fcd8",
+    "wof:geomhash":"b7d6d16b176941cf2c96ecae7a6df4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108699525,
-    "wof:lastmodified":1636501017,
+    "wof:lastmodified":1694492932,
     "wof:name":"Socorro",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

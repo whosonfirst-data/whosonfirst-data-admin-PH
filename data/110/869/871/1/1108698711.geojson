@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007719,
-    "geom:area_square_m":93776959.743554,
+    "geom:area_square_m":93776901.832901,
     "geom:bbox":"122.410462,10.679969,122.533141,10.77776",
     "geom:latitude":10.727216,
     "geom:longitude":122.465742,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.OO",
+    "statoids:name":"Oton",
+    "statoids:population":82572,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.OO"
+    },
     "wof:country":"PH",
     "wof:created":1474496562,
-    "wof:geomhash":"eaaed9a26245278110864d14537b5ffa",
+    "wof:geomhash":"d018965df770acc223bac249fad87143",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698711,
-    "wof:lastmodified":1628266697,
+    "wof:lastmodified":1694492874,
     "wof:name":"Oton",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

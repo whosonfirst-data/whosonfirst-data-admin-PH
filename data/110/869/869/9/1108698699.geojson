@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003645,
-    "geom:area_square_m":43578434.321931,
+    "geom:area_square_m":43578511.820613,
     "geom:bbox":"120.445095,14.783163,120.571437,14.86177",
     "geom:latitude":14.81165,
     "geom:longitude":120.519829,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.OA",
+    "statoids:name":"Orani",
+    "statoids:population":61099,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.OA"
+    },
     "wof:country":"PH",
     "wof:created":1474496554,
-    "wof:geomhash":"b5364b3ef6fa15d04d0141869b6512fc",
+    "wof:geomhash":"9cf74a93d0b9d988adbfcc4229e31c66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108698699,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Orani",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003513,
-    "geom:area_square_m":43283337.514562,
+    "geom:area_square_m":43283463.771358,
     "geom:bbox":"119.787888,4.855417,119.852913,4.93125",
     "geom:latitude":4.892735,
     "geom:longitude":119.819758,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TT.SM",
+    "statoids:name":"Simunul",
+    "statoids:population":34538,
+    "statoids:statoid":"PH.TT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TT.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474497137,
-    "wof:geomhash":"6056f88c706fee7b98b3720f2ea2f1c9",
+    "wof:geomhash":"491b0d30e373a6f2884317592746b294",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699501,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694492884,
     "wof:name":"Simunul",
     "wof:parent_id":85675929,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019491,
-    "geom:area_square_m":239382981.875037,
+    "geom:area_square_m":239383446.919598,
     "geom:bbox":"122.028528,6.55016,122.202929,6.75375",
     "geom:latitude":6.648815,
     "geom:longitude":122.10385,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BS.LM",
+    "statoids:name":"Lamitan, City of",
+    "statoids:population":68996,
+    "statoids:statoid":"PH.BS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BS.LM"
+    },
     "wof:country":"PH",
     "wof:created":1474496060,
-    "wof:geomhash":"f0b68a40f865f09a4bfde04d9a5efd05",
+    "wof:geomhash":"14639fa1c61172eec07ef76760a2340f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108697989,
-    "wof:lastmodified":1626127454,
+    "wof:lastmodified":1694492561,
     "wof:name":"Lamitan",
     "wof:parent_id":85675955,
     "wof:placetype":"county",

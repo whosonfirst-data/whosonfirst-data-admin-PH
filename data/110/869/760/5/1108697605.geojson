@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009464,
-    "geom:area_square_m":111871131.151902,
+    "geom:area_square_m":111870921.247029,
     "geom:bbox":"121.742617,17.027022,121.923626,17.125262",
     "geom:latitude":17.071825,
     "geom:longitude":121.82245,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.GM",
+    "statoids:name":"Gamu",
+    "statoids:population":28657,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.GM"
+    },
     "wof:country":"PH",
     "wof:created":1474495810,
-    "wof:geomhash":"12fc9f0b7d6f9b2c7ad7d60a7067dc98",
+    "wof:geomhash":"fa09ee44c1b39ad8df75ac923925aecd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697605,
-    "wof:lastmodified":1628266650,
+    "wof:lastmodified":1694492845,
     "wof:name":"Gamu",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

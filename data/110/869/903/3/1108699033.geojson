@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001792,
-    "geom:area_square_m":21815997.112094,
+    "geom:area_square_m":21815949.979637,
     "geom:bbox":"123.401253,9.987018,123.492339,10.024553",
     "geom:latitude":10.004505,
     "geom:longitude":123.44207,
@@ -193,16 +193,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.RN",
+    "statoids:name":"Ronda",
+    "statoids:population":18582,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.RN"
+    },
     "wof:country":"PH",
     "wof:created":1474496792,
-    "wof:geomhash":"2c5033128a466033ce1e9c017227a49e",
+    "wof:geomhash":"6e5fed57036110aae686fe3241d12766",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -212,7 +222,7 @@
         }
     ],
     "wof:id":1108699033,
-    "wof:lastmodified":1626127498,
+    "wof:lastmodified":1694492568,
     "wof:name":"Ronda",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

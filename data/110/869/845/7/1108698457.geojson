@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01104,
-    "geom:area_square_m":134872275.787862,
+    "geom:area_square_m":134872344.229289,
     "geom:bbox":"124.894163,8.801948,125.038752,8.961353",
     "geom:latitude":8.883423,
     "geom:longitude":124.964091,
@@ -379,16 +379,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.MD",
+    "statoids:name":"Medina",
+    "statoids:population":31154,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.MD"
+    },
     "wof:country":"PH",
     "wof:created":1474496384,
-    "wof:geomhash":"b2bd715a8a864b35e12767a943226268",
+    "wof:geomhash":"9f021f388c9fcf69a929027e0f7cb308",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -398,7 +408,7 @@
         }
     ],
     "wof:id":1108698457,
-    "wof:lastmodified":1626127462,
+    "wof:lastmodified":1694492562,
     "wof:name":"Medina",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

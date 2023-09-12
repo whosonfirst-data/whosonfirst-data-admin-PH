@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007893,
-    "geom:area_square_m":95963110.769124,
+    "geom:area_square_m":95963085.098305,
     "geom:bbox":"121.911224,10.462132,122.015926,10.589827",
     "geom:latitude":10.522669,
     "geom:longitude":121.969814,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.TF",
+    "statoids:name":"Tobias Fornier (Dao)",
+    "statoids:population":30669,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.TF"
+    },
     "wof:country":"PH",
     "wof:created":1474497302,
-    "wof:geomhash":"2a1ac083512467017eb07b35b17af50d",
+    "wof:geomhash":"f83820817841c0c2dd8a40b33f364b29",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699743,
-    "wof:lastmodified":1626127529,
+    "wof:lastmodified":1694492573,
     "wof:name":"Tobias Fornier",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

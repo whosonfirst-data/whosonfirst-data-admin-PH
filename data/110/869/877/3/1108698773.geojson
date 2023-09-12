@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003242,
-    "geom:area_square_m":39897834.128945,
+    "geom:area_square_m":39898021.814472,
     "geom:bbox":"120.743721,5.495389,120.810448,5.570445",
     "geom:latitude":5.533704,
     "geom:longitude":120.776787,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.PA",
+    "statoids:name":"Pandami",
+    "statoids:population":22474,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.PA"
+    },
     "wof:country":"PH",
     "wof:created":1474496606,
-    "wof:geomhash":"c60a448fab57d0e9b44b07871979dd0a",
+    "wof:geomhash":"332088d3d94cdc389bbb628fd2deebd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698773,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pandami",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003672,
-    "geom:area_square_m":44126564.334227,
+    "geom:area_square_m":44126638.484812,
     "geom:bbox":"123.07148,13.607235,123.185725,13.6617",
     "geom:latitude":13.638262,
     "geom:longitude":123.136245,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.CM",
+    "statoids:name":"Camaligan",
+    "statoids:population":22254,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.CM"
+    },
     "wof:country":"PH",
     "wof:created":1474495549,
-    "wof:geomhash":"10852033a58d7ee37d12e7175b4129f2",
+    "wof:geomhash":"2585cd68138173ce56b432b1823a67a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697237,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Camaligan",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

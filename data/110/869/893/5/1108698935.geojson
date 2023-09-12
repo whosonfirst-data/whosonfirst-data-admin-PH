@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008295,
-    "geom:area_square_m":100518801.429193,
+    "geom:area_square_m":100519326.710256,
     "geom:bbox":"122.796221,11.380033,122.931252,11.544556",
     "geom:latitude":11.457981,
     "geom:longitude":122.866334,
@@ -202,16 +202,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.PV",
+    "statoids:name":"Pontevedra",
+    "statoids:population":43525,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.PV"
+    },
     "wof:country":"PH",
     "wof:created":1474496717,
-    "wof:geomhash":"bbb4f7796aab7e2da19a59bdf5d4e899",
+    "wof:geomhash":"cbd931f176f1893fd7fed0065f8dbd01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -221,7 +231,7 @@
         }
     ],
     "wof:id":1108698935,
-    "wof:lastmodified":1636501020,
+    "wof:lastmodified":1694492932,
     "wof:name":"Pontevedra",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

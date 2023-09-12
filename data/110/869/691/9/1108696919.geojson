@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004681,
-    "geom:area_square_m":57321396.065851,
+    "geom:area_square_m":57321335.538886,
     "geom:bbox":"123.765174,7.916267,123.888125,8.053852",
     "geom:latitude":7.986584,
     "geom:longitude":123.828403,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.BR",
+    "statoids:name":"Baroy",
+    "statoids:population":20948,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495333,
-    "wof:geomhash":"f22953f044e75571335adb962ca2e827",
+    "wof:geomhash":"3dfd50d8857d5723ebd29b3bd8e4fb27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696919,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492828,
     "wof:name":"Baroy",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

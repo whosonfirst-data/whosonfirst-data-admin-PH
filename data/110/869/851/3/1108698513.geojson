@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009504,
-    "geom:area_square_m":115008137.716216,
+    "geom:area_square_m":115008225.063607,
     "geom:bbox":"124.964116,11.767944,125.087812,11.989131",
     "geom:latitude":11.877659,
     "geom:longitude":125.017469,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.MO",
+    "statoids:name":"Motiong",
+    "statoids:population":14829,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.MO"
+    },
     "wof:country":"PH",
     "wof:created":1474496427,
-    "wof:geomhash":"ea22d8745053c1b1aefbf00b9b9e51ca",
+    "wof:geomhash":"578637f134cd65d1b9d543a4652d05b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698513,
-    "wof:lastmodified":1628266688,
+    "wof:lastmodified":1694492867,
     "wof:name":"Motiong",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

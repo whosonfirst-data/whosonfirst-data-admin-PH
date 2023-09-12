@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00957,
-    "geom:area_square_m":115501862.137007,
+    "geom:area_square_m":115501636.453832,
     "geom:bbox":"123.617889,12.487304,123.751896,12.617084",
     "geom:latitude":12.552107,
     "geom:longitude":123.688622,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.SJ",
+    "statoids:name":"San Jacinto",
+    "statoids:population":27974,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496921,
-    "wof:geomhash":"a9c8aeaaafeab8fd50230b9711990d3a",
+    "wof:geomhash":"ba79b2afe2f97d031d41e9ad6502a9d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699193,
-    "wof:lastmodified":1626127532,
+    "wof:lastmodified":1694492573,
     "wof:name":"San Jacinto",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

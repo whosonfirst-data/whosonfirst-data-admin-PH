@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005605,
-    "geom:area_square_m":66268732.088095,
+    "geom:area_square_m":66269166.576101,
     "geom:bbox":"121.580041,17.002656,121.699313,17.069871",
     "geom:latitude":17.035468,
     "geom:longitude":121.641872,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.SL",
+    "statoids:name":"San Manuel",
+    "statoids:population":30407,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474496959,
-    "wof:geomhash":"d66dded91bf4185e025ba9ec4dffbd5f",
+    "wof:geomhash":"94ec85885b9fe7909f4334610ca89894",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699247,
-    "wof:lastmodified":1626127484,
+    "wof:lastmodified":1694492566,
     "wof:name":"San Manuel",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

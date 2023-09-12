@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027869,
-    "geom:area_square_m":329654615.537159,
+    "geom:area_square_m":329654624.057449,
     "geom:bbox":"120.937562,16.867337,121.209619,17.017519",
     "geom:latitude":16.940449,
     "geom:longitude":121.073113,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IF.BN",
+    "statoids:name":"Banaue",
+    "statoids:population":22365,
+    "statoids:statoid":"PH.IF",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IF.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495299,
-    "wof:geomhash":"57dd084e2cf1f96ad1efd2bba041db0c",
+    "wof:geomhash":"ae562d45fbd0e9885a56b48a704e7d5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108696867,
-    "wof:lastmodified":1626127459,
+    "wof:lastmodified":1694492561,
     "wof:name":"Banaue",
     "wof:parent_id":85676077,
     "wof:placetype":"county",

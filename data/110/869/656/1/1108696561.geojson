@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010749,
-    "geom:area_square_m":129045668.025307,
+    "geom:area_square_m":129045924.310204,
     "geom:bbox":"121.933742,13.797456,122.063652,13.924758",
     "geom:latitude":13.866304,
     "geom:longitude":121.998563,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.UI",
+    "statoids:name":"Unisan",
+    "statoids:population":25186,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.UI"
+    },
     "wof:country":"PH",
     "wof:created":1474495096,
-    "wof:geomhash":"305cf1006cdeb2c6ff6e562fcaea0584",
+    "wof:geomhash":"ea6bc667d6a51470b62c1ec59c701fee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696561,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Agdangan",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

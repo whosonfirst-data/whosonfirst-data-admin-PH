@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004018,
-    "geom:area_square_m":47766078.278735,
+    "geom:area_square_m":47766144.355347,
     "geom:bbox":"120.306823,15.95417,120.392515,16.023206",
     "geom:latitude":15.991042,
     "geom:longitude":120.353758,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.CL",
+    "statoids:name":"Calasiao",
+    "statoids:population":91109,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495532,
-    "wof:geomhash":"2079b400c3053bd16482db4593c88973",
+    "wof:geomhash":"7082229515ac06b2b56781f2cc3ac0ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697209,
-    "wof:lastmodified":1626127536,
+    "wof:lastmodified":1694492574,
     "wof:name":"Calasiao",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016611,
-    "geom:area_square_m":204073544.18742,
+    "geom:area_square_m":204073443.498766,
     "geom:bbox":"124.60729,6.399943,124.738729,6.598352",
     "geom:latitude":6.501434,
     "geom:longitude":124.674965,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.NR",
+    "statoids:name":"Norala",
+    "statoids:population":44635,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.NR"
+    },
     "wof:country":"PH",
     "wof:created":1474496538,
-    "wof:geomhash":"08b261d6c887f233b5336ad600a23aa3",
+    "wof:geomhash":"5a040d63aee0bc4e6da7f929ded75e9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698675,
-    "wof:lastmodified":1628266692,
+    "wof:lastmodified":1694492870,
     "wof:name":"Norala",
     "wof:parent_id":85676263,
     "wof:placetype":"county",

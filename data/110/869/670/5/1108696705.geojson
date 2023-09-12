@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024506,
-    "geom:area_square_m":290921235.660698,
+    "geom:area_square_m":290921213.040249,
     "geom:bbox":"120.898931,16.101783,121.118512,16.358301",
     "geom:latitude":16.245606,
     "geom:longitude":121.028435,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.AI",
+    "statoids:name":"Aritao",
+    "statoids:population":37115,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495190,
-    "wof:geomhash":"e5cbc72049f8e68f7d19aaf9af5fb734",
+    "wof:geomhash":"eadd93efb293ee15382c6d5b481af5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696705,
-    "wof:lastmodified":1626127512,
+    "wof:lastmodified":1694492570,
     "wof:name":"Aritao",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

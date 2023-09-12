@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006015,
-    "geom:area_square_m":70731441.307938,
+    "geom:area_square_m":70731728.143508,
     "geom:bbox":"120.629331,17.978091,120.771409,18.078972",
     "geom:latitude":18.024563,
     "geom:longitude":120.702125,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.MR",
+    "statoids:name":"Marcos",
+    "statoids:population":16984,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496333,
-    "wof:geomhash":"1d59620078b95516cbe42a4a631d868c",
+    "wof:geomhash":"bde9901aafee8fd035c329ea1e376ce7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108698389,
-    "wof:lastmodified":1626127515,
+    "wof:lastmodified":1694492571,
     "wof:name":"Marcos",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

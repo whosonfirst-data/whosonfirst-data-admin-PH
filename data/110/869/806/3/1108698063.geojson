@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00745,
-    "geom:area_square_m":90176111.141326,
+    "geom:area_square_m":90176090.629583,
     "geom:bbox":"121.841248,11.745243,122.008173,11.827932",
     "geom:latitude":11.785956,
     "geom:longitude":121.945855,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.LB",
+    "statoids:name":"Libertad",
+    "statoids:population":15669,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496110,
-    "wof:geomhash":"2542e0d0180f38ef0b0b7fa4ed7a7f7e",
+    "wof:geomhash":"1f5c87446da4b5f50c28b23ef20edbd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108698063,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Libertad",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

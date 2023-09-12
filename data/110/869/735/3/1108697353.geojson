@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005644,
-    "geom:area_square_m":68746777.658277,
+    "geom:area_square_m":68746992.216656,
     "geom:bbox":"124.001179,9.880134,124.07738,9.978553",
     "geom:latitude":9.930485,
     "geom:longitude":124.041815,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.CA",
+    "statoids:name":"Clarin",
+    "statoids:population":20296,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495635,
-    "wof:geomhash":"aa6f098718983bb4b0ba22982c9d33a3",
+    "wof:geomhash":"8e3eb3d73a3f407bff8378c03b5070dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108697353,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Clarin",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

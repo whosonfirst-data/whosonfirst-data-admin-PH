@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018288,
-    "geom:area_square_m":221630404.885892,
+    "geom:area_square_m":221630912.023065,
     "geom:bbox":"124.898136,11.350944,125.121695,11.536187",
     "geom:latitude":11.460819,
     "geom:longitude":125.014491,
@@ -151,16 +151,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.SR",
+    "statoids:name":"Santa Rita",
+    "statoids:population":38082,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497062,
-    "wof:geomhash":"bf2ca08d542ce542bd2ae7a43ef15f8e",
+    "wof:geomhash":"3ef773a5a3c634971be9474c8d12e6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +180,7 @@
         }
     ],
     "wof:id":1108699395,
-    "wof:lastmodified":1636501016,
+    "wof:lastmodified":1694492932,
     "wof:name":"Santa Rita",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010926,
-    "geom:area_square_m":128762260.633801,
+    "geom:area_square_m":128762263.284362,
     "geom:bbox":"120.47252,17.535557,120.595694,17.718931",
     "geom:latitude":17.616742,
     "geom:longitude":120.535017,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.LN",
+    "statoids:name":"Langiden",
+    "statoids:population":3170,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496063,
-    "wof:geomhash":"c9f69df23c4058725577bdff3c701294",
+    "wof:geomhash":"af871a88c169251d9da478c30f49deb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697993,
-    "wof:lastmodified":1626127449,
+    "wof:lastmodified":1694492560,
     "wof:name":"Langiden",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

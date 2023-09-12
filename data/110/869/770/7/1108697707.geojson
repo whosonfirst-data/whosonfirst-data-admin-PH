@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003649,
-    "geom:area_square_m":43615781.299978,
+    "geom:area_square_m":43615621.562341,
     "geom:bbox":"120.454816,14.796923,120.54003,14.887149",
     "geom:latitude":14.837598,
     "geom:longitude":120.49131,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.HR",
+    "statoids:name":"Hermosa",
+    "statoids:population":56997,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.HR"
+    },
     "wof:country":"PH",
     "wof:created":1474495878,
-    "wof:geomhash":"faf5d30fe860dca79ca6239606a80bb8",
+    "wof:geomhash":"b079f3235ee35e80ae129fb493eb3b19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697707,
-    "wof:lastmodified":1626127490,
+    "wof:lastmodified":1694492567,
     "wof:name":"Hermosa",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

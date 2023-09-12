@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030429,
-    "geom:area_square_m":368919058.468288,
+    "geom:area_square_m":368919171.272211,
     "geom:bbox":"125.270691,11.241621,125.613823,11.448211",
     "geom:latitude":11.334018,
     "geom:longitude":125.454187,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.LO",
+    "statoids:name":"Llorente",
+    "statoids:population":19101,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.LO"
+    },
     "wof:country":"PH",
     "wof:created":1474496143,
-    "wof:geomhash":"d033e3577ebef4d893be687b8e0619d3",
+    "wof:geomhash":"cce55e61d76d3f9fb07b800a2066fb55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108698105,
-    "wof:lastmodified":1626127464,
+    "wof:lastmodified":1694492562,
     "wof:name":"Llorente",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

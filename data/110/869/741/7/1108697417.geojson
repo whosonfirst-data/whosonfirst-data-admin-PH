@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004016,
-    "geom:area_square_m":48160835.074342,
+    "geom:area_square_m":48160766.661855,
     "geom:bbox":"122.894284,14.072842,122.999111,14.152575",
     "geom:latitude":14.109296,
     "geom:longitude":122.952009,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.DE",
+    "statoids:name":"Daet",
+    "statoids:population":95572,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.DE"
+    },
     "wof:country":"PH",
     "wof:created":1474495683,
-    "wof:geomhash":"e6ab8e67f52361ddb48dad33118e4862",
+    "wof:geomhash":"ca38e84e244f322eb7282758294a5fc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697417,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Daet",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

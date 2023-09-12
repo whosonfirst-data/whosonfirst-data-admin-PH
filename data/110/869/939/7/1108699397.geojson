@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004242,
-    "geom:area_square_m":50831287.922584,
+    "geom:area_square_m":50831323.839192,
     "geom:bbox":"121.047674,14.209238,121.129073,14.335154",
     "geom:latitude":14.269618,
     "geom:longitude":121.089513,
@@ -148,16 +148,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.SR",
+    "statoids:name":"Santa Rosa, City of",
+    "statoids:population":284670,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497063,
-    "wof:geomhash":"917d624f8e60dad5abcc2ce8dd282757",
+    "wof:geomhash":"60558572243e7fb2e3301a999c5f9c17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,7 +177,7 @@
         }
     ],
     "wof:id":1108699397,
-    "wof:lastmodified":1636501015,
+    "wof:lastmodified":1694492932,
     "wof:name":"Santa Rosa",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

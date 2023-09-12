@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029572,
-    "geom:area_square_m":349153101.139172,
+    "geom:area_square_m":349153178.968308,
     "geom:bbox":"121.935207,17.227951,122.340473,17.346222",
     "geom:latitude":17.28259,
     "geom:longitude":122.1302,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.DV",
+    "statoids:name":"Divilacan",
+    "statoids:population":5034,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.DV"
+    },
     "wof:country":"PH",
     "wof:created":1474495747,
-    "wof:geomhash":"4605cea0e67b146eeea1565bd7c65f0c",
+    "wof:geomhash":"9f4ad355160058be31f7392d2d07cd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697511,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492842,
     "wof:name":"Divilican",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

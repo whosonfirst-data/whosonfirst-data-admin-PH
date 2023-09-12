@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004329,
-    "geom:area_square_m":51576778.68661,
+    "geom:area_square_m":51576735.65061,
     "geom:bbox":"120.721834,15.497736,120.796878,15.591196",
     "geom:latitude":15.544998,
     "geom:longitude":120.757845,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.LC",
+    "statoids:name":"Licab",
+    "statoids:population":26187,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.LC"
+    },
     "wof:country":"PH",
     "wof:created":1474496125,
-    "wof:geomhash":"d4074790b6fa91321e5f26d8c4d45d16",
+    "wof:geomhash":"808759758ade1efed1796ac90840c2ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698079,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Licab",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

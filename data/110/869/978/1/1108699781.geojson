@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032339,
-    "geom:area_square_m":381895472.743257,
+    "geom:area_square_m":381895536.366991,
     "geom:bbox":"120.674717,17.145472,120.950344,17.325045",
     "geom:latitude":17.247524,
     "geom:longitude":120.804806,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.TB",
+    "statoids:name":"Tubo",
+    "statoids:population":5719,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497329,
-    "wof:geomhash":"60bdc42467806b57b3d2ee436f32ae41",
+    "wof:geomhash":"0370463221bdf86008bc7077aaea9a9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108699781,
-    "wof:lastmodified":1627522512,
+    "wof:lastmodified":1694492715,
     "wof:name":"Tubo",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

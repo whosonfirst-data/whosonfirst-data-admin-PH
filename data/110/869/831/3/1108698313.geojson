@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00888,
-    "geom:area_square_m":106820528.838379,
+    "geom:area_square_m":106820817.854212,
     "geom:bbox":"123.567299,13.340877,123.742889,13.443357",
     "geom:latitude":13.385982,
     "geom:longitude":123.653207,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.ML",
+    "statoids:name":"Malilipot",
+    "statoids:population":35567,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496279,
-    "wof:geomhash":"35ab9a370a1613a4b67746eff8b98384",
+    "wof:geomhash":"48ecfb7d00244de73835defd9cbb86bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698313,
-    "wof:lastmodified":1626127515,
+    "wof:lastmodified":1694492571,
     "wof:name":"Malinao",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

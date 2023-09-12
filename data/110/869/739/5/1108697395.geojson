@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002961,
-    "geom:area_square_m":36093858.490364,
+    "geom:area_square_m":36093770.85158,
     "geom:bbox":"123.85594,9.692309,123.941407,9.749964",
     "geom:latitude":9.719643,
     "geom:longitude":123.898711,
@@ -121,16 +121,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.CS",
+    "statoids:name":"Cortes",
+    "statoids:population":15294,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.CS"
+    },
     "wof:country":"PH",
     "wof:created":1474495663,
-    "wof:geomhash":"1fcdb5a68a23364befa0bc87372a6b15",
+    "wof:geomhash":"29e352e5e53d3ed08deb8cb261411caa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +150,7 @@
         }
     ],
     "wof:id":1108697395,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Cortes",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

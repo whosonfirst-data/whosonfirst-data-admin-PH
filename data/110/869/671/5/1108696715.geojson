@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019433,
-    "geom:area_square_m":236200222.922494,
+    "geom:area_square_m":236199993.542271,
     "geom:bbox":"123.699532,10.516379,123.91231,10.667762",
     "geom:latitude":10.592251,
     "geom:longitude":123.817809,
@@ -343,16 +343,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.AT",
+    "statoids:name":"Asturias",
+    "statoids:population":44732,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.AT"
+    },
     "wof:country":"PH",
     "wof:created":1474495196,
-    "wof:geomhash":"dd37d904dfa8263ea6ad416c895f33e9",
+    "wof:geomhash":"f8f93d248e218be6ff8b28acb3faa371",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -362,7 +372,7 @@
         }
     ],
     "wof:id":1108696715,
-    "wof:lastmodified":1626127508,
+    "wof:lastmodified":1694492569,
     "wof:name":"Asturias",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

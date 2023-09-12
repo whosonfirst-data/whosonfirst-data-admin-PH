@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018946,
-    "geom:area_square_m":223880012.836735,
+    "geom:area_square_m":223879909.184034,
     "geom:bbox":"120.629972,17.06044,120.874264,17.215476",
     "geom:latitude":17.129535,
     "geom:longitude":120.729696,
@@ -139,16 +139,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.QI",
+    "statoids:name":"Quirino (Angkaki)",
+    "statoids:population":8535,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.QI"
+    },
     "wof:country":"PH",
     "wof:created":1474496766,
-    "wof:geomhash":"77e031f38b4641158081079ffcde9a7b",
+    "wof:geomhash":"1d0dbfa449eceb7a9a3fd562c016e632",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -158,7 +168,7 @@
         }
     ],
     "wof:id":1108698997,
-    "wof:lastmodified":1636501038,
+    "wof:lastmodified":1694492935,
     "wof:name":"Quirino",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

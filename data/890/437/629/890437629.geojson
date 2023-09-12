@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015696,
-    "geom:area_square_m":189604903.454701,
+    "geom:area_square_m":189605114.542151,
     "geom:bbox":"123.487727,12.24492,123.639309,12.456162",
     "geom:latitude":12.33647,
     "geom:longitude":123.564062,
@@ -60,6 +60,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.MS",
+    "statoids:name":"Masbate, City of",
+    "statoids:population":85227,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -69,6 +77,7 @@
     "wof:concordances":{
         "gn:id":1700711,
         "gp:id":2346694,
+        "hasc:id":"PH.MB.MS",
         "qs_pg:id":87269
     },
     "wof:country":"PH",
@@ -76,7 +85,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eabbedc95a000bbad68e36320a88f5a2",
+    "wof:geomhash":"47a375e67497ca7f3e2af223e6e49f97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":890437629,
-    "wof:lastmodified":1628266704,
+    "wof:lastmodified":1694492877,
     "wof:name":"Province of Masbate",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

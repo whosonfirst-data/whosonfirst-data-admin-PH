@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004192,
-    "geom:area_square_m":51035039.72202,
+    "geom:area_square_m":51034970.803621,
     "geom:bbox":"124.519554,10.051222,124.617889,10.15375",
     "geom:latitude":10.103083,
     "geom:longitude":124.562931,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.PG",
+    "statoids:name":"Pres. Carlos P. Garcia (Pitogo)",
+    "statoids:population":23287,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496728,
-    "wof:geomhash":"2d8f0cdd302f712062df9f13ccb4ef0c",
+    "wof:geomhash":"8cff7c7613888a2f796f51242bff04d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698953,
-    "wof:lastmodified":1628266704,
+    "wof:lastmodified":1694492877,
     "wof:name":"Pres. C.p. Garcia",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

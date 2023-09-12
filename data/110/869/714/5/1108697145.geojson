@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053944,
-    "geom:area_square_m":658996655.624166,
+    "geom:area_square_m":658996863.636246,
     "geom:bbox":"125.448596,8.770961,125.725087,9.020624",
     "geom:latitude":8.900674,
     "geom:longitude":125.577232,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.BT",
+    "statoids:name":"Butuan City",
+    "statoids:population":309709,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676327
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495488,
-    "wof:geomhash":"62affb91483c8e13a28630686549665c",
+    "wof:geomhash":"4aeaefebcbf0121e613117ffbfb1d5ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697145,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694492835,
     "wof:name":"Butuan City",
     "wof:parent_id":85676327,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006948,
-    "geom:area_square_m":85165569.852019,
+    "geom:area_square_m":85165455.901562,
     "geom:bbox":"123.102058,7.523304,123.260369,7.634821",
     "geom:latitude":7.571114,
     "geom:longitude":123.187986,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.MR",
+    "statoids:name":"Margosatubig",
+    "statoids:population":35596,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496335,
-    "wof:geomhash":"cbcfd88e6b380ab64f09fa12a672dc9a",
+    "wof:geomhash":"f30ad1387425fb8e772675e1b0481575",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698391,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Margosatubig",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

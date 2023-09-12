@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063874,
-    "geom:area_square_m":784020635.178522,
+    "geom:area_square_m":784020362.996503,
     "geom:bbox":"123.945389,6.746606,124.245547,7.123452",
     "geom:latitude":6.944431,
     "geom:longitude":124.084544,
@@ -52,10 +52,12 @@
         85676173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SF.UI"
+    },
     "wof:country":"PH",
     "wof:created":1474497355,
-    "wof:geomhash":"85b6b7dbc64b369f63199abc8c78e1e5",
+    "wof:geomhash":"900f5122f533e52b70dc5873175094a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108699823,
-    "wof:lastmodified":1628266734,
+    "wof:lastmodified":1694492891,
     "wof:name":"Upi",
     "wof:parent_id":85676173,
     "wof:placetype":"county",

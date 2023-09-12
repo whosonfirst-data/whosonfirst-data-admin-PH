@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014287,
-    "geom:area_square_m":174659580.63661,
+    "geom:area_square_m":174659599.074513,
     "geom:bbox":"125.998458,8.567029,126.176247,8.710198",
     "geom:latitude":8.64406,
     "geom:longitude":126.071858,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.LA",
+    "statoids:name":"Lianga",
+    "statoids:population":28905,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474496105,
-    "wof:geomhash":"178bfac411474c4791b54f349b458a35",
+    "wof:geomhash":"06417e7ca1bdfc957a2582430fcf7163",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698055,
-    "wof:lastmodified":1628266674,
+    "wof:lastmodified":1694492860,
     "wof:name":"Lianga",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

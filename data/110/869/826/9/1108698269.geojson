@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009761,
-    "geom:area_square_m":119492001.97248,
+    "geom:area_square_m":119492008.223147,
     "geom:bbox":"123.921802,8.042496,124.03809,8.184611",
     "geom:latitude":8.112953,
     "geom:longitude":123.982281,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.MI",
+    "statoids:name":"Maigo",
+    "statoids:population":20131,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.MI"
+    },
     "wof:country":"PH",
     "wof:created":1474496252,
-    "wof:geomhash":"1cb4ff02e72098575a3791d1d899a6a5",
+    "wof:geomhash":"43f20fa9fd086c5a4bdf3aec5f159204",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698269,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694492864,
     "wof:name":"Maigo",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

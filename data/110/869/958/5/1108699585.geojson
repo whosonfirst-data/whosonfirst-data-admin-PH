@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005034,
-    "geom:area_square_m":61721392.274073,
+    "geom:area_square_m":61721219.713404,
     "geom:bbox":"123.38989,7.357111,123.454559,7.467889",
     "geom:latitude":7.411286,
     "geom:longitude":123.418833,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.TB",
+    "statoids:name":"Tabina",
+    "statoids:population":24110,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497198,
-    "wof:geomhash":"7824eec43956c8c85692fd52acb80988",
+    "wof:geomhash":"2cdbf872fa7ad5b7fac55610ef61333f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699585,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tabina",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

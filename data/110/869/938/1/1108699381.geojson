@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005086,
-    "geom:area_square_m":61421596.33761,
+    "geom:area_square_m":61421641.911382,
     "geom:bbox":"122.044763,12.353571,122.105446,12.473397",
     "geom:latitude":12.410668,
     "geom:longitude":122.073406,
@@ -36,7 +36,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Santa Maria (imelda)"
+        "Santa Maria"
     ],
     "name:fra_x_preferred":[
         "Santa Maria (Imelda)"
@@ -52,10 +52,12 @@
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.ST"
+    },
     "wof:country":"PH",
     "wof:created":1474497053,
-    "wof:geomhash":"7c467c9768a1ac1863024a8bf128a7d5",
+    "wof:geomhash":"a893cd61fb75ee96b79e0059a5cf7386",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +67,8 @@
         }
     ],
     "wof:id":1108699381,
-    "wof:lastmodified":1628266713,
-    "wof:name":"Santa Maria (imelda)",
+    "wof:lastmodified":1694492882,
+    "wof:name":"Santa Maria",
     "wof:parent_id":85676007,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0443,
-    "geom:area_square_m":540613476.858149,
+    "geom:area_square_m":540613559.925803,
     "geom:bbox":"122.84575,9.149185,123.147878,9.432012",
     "geom:latitude":9.279903,
     "geom:longitude":122.974843,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.SC",
+    "statoids:name":"Santa Catalina",
+    "statoids:population":73306,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474497028,
-    "wof:geomhash":"bca8a243313b8c17c4ea24db36d3e4f3",
+    "wof:geomhash":"6b8830634979a2f236abe974a9a78478",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108699343,
-    "wof:lastmodified":1626127503,
+    "wof:lastmodified":1694492569,
     "wof:name":"Santa Catalina",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

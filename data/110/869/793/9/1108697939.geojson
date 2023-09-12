@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010146,
-    "geom:area_square_m":124308946.728313,
+    "geom:area_square_m":124308888.769882,
     "geom:bbox":"123.094821,7.691039,123.189479,7.850706",
     "geom:latitude":7.772315,
     "geom:longitude":123.141768,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.KM",
+    "statoids:name":"Kumalarang",
+    "statoids:population":28210,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.KM"
+    },
     "wof:country":"PH",
     "wof:created":1474496027,
-    "wof:geomhash":"f336bc6210c9a897dddb53245ce1250c",
+    "wof:geomhash":"2a978de22779cb608e9b76a52980fcee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697939,
-    "wof:lastmodified":1628266670,
+    "wof:lastmodified":1694492858,
     "wof:name":"Kumalarang",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

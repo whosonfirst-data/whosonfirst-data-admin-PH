@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005679,
-    "geom:area_square_m":69521619.538595,
+    "geom:area_square_m":69521805.909343,
     "geom:bbox":"123.823764,8.05606,123.946679,8.146413",
     "geom:latitude":8.093426,
     "geom:longitude":123.891491,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.KL",
+    "statoids:name":"Kolambugan",
+    "statoids:population":26445,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.KL"
+    },
     "wof:country":"PH",
     "wof:created":1474496024,
-    "wof:geomhash":"a67d72e9764711bb7804763a42717795",
+    "wof:geomhash":"f60f4bb9049643d602af7096b3077b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697935,
-    "wof:lastmodified":1628266666,
+    "wof:lastmodified":1694492855,
     "wof:name":"Kolambugan",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

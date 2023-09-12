@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006194,
-    "geom:area_square_m":72907192.128455,
+    "geom:area_square_m":72907103.266766,
     "geom:bbox":"120.438751,17.807716,120.538264,17.892081",
     "geom:latitude":17.853047,
     "geom:longitude":120.490036,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SN",
+    "statoids:name":"Sinait",
+    "statoids:population":25427,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497140,
-    "wof:geomhash":"c93bc4dd044911e4c4461fa7e37f68ae",
+    "wof:geomhash":"1b582077db195e19a7d4a356ff50d924",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699505,
-    "wof:lastmodified":1626127492,
+    "wof:lastmodified":1694492567,
     "wof:name":"Sinait",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008989,
-    "geom:area_square_m":109570794.117769,
+    "geom:area_square_m":109570726.377403,
     "geom:bbox":"124.224566,9.599556,124.335914,9.720872",
     "geom:latitude":9.660872,
     "geom:longitude":124.275468,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.GR",
+    "statoids:name":"Garcia Hernandez",
+    "statoids:population":23038,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.GR"
+    },
     "wof:country":"PH",
     "wof:created":1474495815,
-    "wof:geomhash":"c094c0cff1e6ec499fe83925fbc46305",
+    "wof:geomhash":"1cdae64bf54cd3f50684cde9038be1db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697615,
-    "wof:lastmodified":1628266650,
+    "wof:lastmodified":1694492845,
     "wof:name":"Garcia-hernandez",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

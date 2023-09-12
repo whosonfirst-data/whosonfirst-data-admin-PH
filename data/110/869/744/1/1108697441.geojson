@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005768,
-    "geom:area_square_m":69914348.007008,
+    "geom:area_square_m":69914286.314661,
     "geom:bbox":"122.657491,11.345056,122.756753,11.429595",
     "geom:latitude":11.38074,
     "geom:longitude":122.710385,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.DO",
+    "statoids:name":"Dao",
+    "statoids:population":31911,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.DO"
+    },
     "wof:country":"PH",
     "wof:created":1474495700,
-    "wof:geomhash":"7fc9252cf8dd931e318007027a84c29c",
+    "wof:geomhash":"b809cf96e80b433edc9417c5dcd919c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697441,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Dao",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

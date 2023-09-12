@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017339,
-    "geom:area_square_m":205126449.626637,
+    "geom:area_square_m":205126084.941147,
     "geom:bbox":"121.921473,16.783333,122.054301,17.045039",
     "geom:latitude":16.914455,
     "geom:longitude":121.989118,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.BN",
+    "statoids:name":"Benito Soliven",
+    "statoids:population":27337,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495387,
-    "wof:geomhash":"e8f3bd9166f878abf298a95019d61358",
+    "wof:geomhash":"8fb9ba8a5566d2492f2f850f927cac31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696989,
-    "wof:lastmodified":1628266627,
+    "wof:lastmodified":1694492830,
     "wof:name":"Benito Soliven",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

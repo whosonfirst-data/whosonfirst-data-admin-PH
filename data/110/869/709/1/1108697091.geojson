@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013534,
-    "geom:area_square_m":164215841.248012,
+    "geom:area_square_m":164216257.110191,
     "geom:bbox":"122.036224,11.002459,122.244391,11.218038",
     "geom:latitude":11.105258,
     "geom:longitude":122.135155,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.BG",
+    "statoids:name":"Bugasong",
+    "statoids:population":32264,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495454,
-    "wof:geomhash":"4cc8498862102f265e823d214cca44c0",
+    "wof:geomhash":"aa28388c7a0fbf5298b2d6d340f9fae7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697091,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1694492561,
     "wof:name":"Bugasong",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

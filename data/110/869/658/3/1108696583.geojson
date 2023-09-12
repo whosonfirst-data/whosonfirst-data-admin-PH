@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006336,
-    "geom:area_square_m":75972335.311589,
+    "geom:area_square_m":75972208.952779,
     "geom:bbox":"121.956414,14.078165,122.094404,14.186681",
     "geom:latitude":14.128329,
     "geom:longitude":122.019869,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.AA",
+    "statoids:name":"Alabat",
+    "statoids:population":16120,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495109,
-    "wof:geomhash":"3c64f1ef5b12c200519210fba3f9efb8",
+    "wof:geomhash":"ae188e3f22368e9ccc6c87db6fb254ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108696583,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694492825,
     "wof:name":"Alabat",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

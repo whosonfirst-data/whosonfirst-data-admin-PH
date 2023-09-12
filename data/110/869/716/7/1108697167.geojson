@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009504,
-    "geom:area_square_m":113398590.425284,
+    "geom:area_square_m":113398664.21488,
     "geom:bbox":"120.765458,15.154021,120.906565,15.292001",
     "geom:latitude":15.225788,
     "geom:longitude":120.842872,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.CB",
+    "statoids:name":"Cabiao",
+    "statoids:population":72081,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.CB"
+    },
     "wof:country":"PH",
     "wof:created":1474495504,
-    "wof:geomhash":"fdfaf99a3cee96efb437a0d02d762eb8",
+    "wof:geomhash":"7a54cdc44cf757ae50f1da157758a34b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697167,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cabiao",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

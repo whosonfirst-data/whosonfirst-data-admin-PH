@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003593,
-    "geom:area_square_m":43851150.453498,
+    "geom:area_square_m":43851090.839342,
     "geom:bbox":"123.565254,9.190332,123.629427,9.305388",
     "geom:latitude":9.242181,
     "geom:longitude":123.603382,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SQ.LR",
+    "statoids:name":"Larena",
+    "statoids:population":12931,
+    "statoids:statoid":"PH.SQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SQ.LR"
+    },
     "wof:country":"PH",
     "wof:created":1474496078,
-    "wof:geomhash":"b94d65ed89bb3f007b074c33ad2aeeee",
+    "wof:geomhash":"263a46507ece832bc4e7f24a9799e945",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698015,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Larena",
     "wof:parent_id":85675947,
     "wof:placetype":"county",

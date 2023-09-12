@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012156,
-    "geom:area_square_m":143889119.049408,
+    "geom:area_square_m":143889256.641352,
     "geom:bbox":"121.611663,16.749202,121.790362,16.879369",
     "geom:latitude":16.810677,
     "geom:longitude":121.707783,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.AI",
+    "statoids:name":"Alicia",
+    "statoids:population":64687,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495140,
-    "wof:geomhash":"7cb84bfec7ec6626a78c44f868eaf91c",
+    "wof:geomhash":"5763e2a39135892aeebd6ee1af095789",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696629,
-    "wof:lastmodified":1626127519,
+    "wof:lastmodified":1694492571,
     "wof:name":"Alicia",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

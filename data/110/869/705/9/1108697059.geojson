@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007662,
-    "geom:area_square_m":93048318.97744,
+    "geom:area_square_m":93048250.942212,
     "geom:bbox":"123.939695,10.78556,124.051164,10.893311",
     "geom:latitude":10.847908,
     "geom:longitude":123.995399,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.BB",
+    "statoids:name":"Borbon",
+    "statoids:population":31598,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.BB"
+    },
     "wof:country":"PH",
     "wof:created":1474495433,
-    "wof:geomhash":"0940f14f44f2e1d6524270e79935ded0",
+    "wof:geomhash":"a697de3826dbbbeb7ac82e1296137338",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697059,
-    "wof:lastmodified":1626127492,
+    "wof:lastmodified":1694492567,
     "wof:name":"Borbon",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

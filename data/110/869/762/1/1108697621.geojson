@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003436,
-    "geom:area_square_m":41188381.961001,
+    "geom:area_square_m":41188320.036272,
     "geom:bbox":"120.772508,14.130278,120.837056,14.232107",
     "geom:latitude":14.179181,
     "geom:longitude":120.800832,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.GE",
+    "statoids:name":"General Emilio Aguinaldo",
+    "statoids:population":17507,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.GE"
+    },
     "wof:country":"PH",
     "wof:created":1474495820,
-    "wof:geomhash":"70d7d9b2e14aed43452fe3f67b1d717f",
+    "wof:geomhash":"1770417b255905593b11e1d1af8ca5f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697621,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1694492846,
     "wof:name":"Gen. Emilio Aguinaldo",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

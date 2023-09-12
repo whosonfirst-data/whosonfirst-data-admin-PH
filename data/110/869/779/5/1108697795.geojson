@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001033,
-    "geom:area_square_m":11977198.406902,
+    "geom:area_square_m":11977307.846461,
     "geom:bbox":"121.911224,20.349583,121.94298,20.404634",
     "geom:latitude":20.374751,
     "geom:longitude":121.925716,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BN.IA",
+    "statoids:name":"Ivana",
+    "statoids:population":1249,
+    "statoids:statoid":"PH.BN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BN.IA"
+    },
     "wof:country":"PH",
     "wof:created":1474495935,
-    "wof:geomhash":"0f766220b1fd3d8fea57340cee37abfb",
+    "wof:geomhash":"c1ecfda932eca6fc4ce4154c48637170",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108697795,
-    "wof:lastmodified":1626127491,
+    "wof:lastmodified":1694492567,
     "wof:name":"Ivana",
     "wof:parent_id":85676043,
     "wof:placetype":"county",

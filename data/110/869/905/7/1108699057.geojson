@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008374,
-    "geom:area_square_m":99048355.878401,
+    "geom:area_square_m":99048138.776267,
     "geom:bbox":"120.893197,16.856176,120.973174,17.037504",
     "geom:latitude":16.95501,
     "geom:longitude":120.930929,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.SB",
+    "statoids:name":"Sabangan",
+    "statoids:population":8741,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474496820,
-    "wof:geomhash":"0e2ac67116d8ff975e6025b36512dea3",
+    "wof:geomhash":"d8857453a5fad5b2ca7f797344583c46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699057,
-    "wof:lastmodified":1626127501,
+    "wof:lastmodified":1694492568,
     "wof:name":"Sabangan",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

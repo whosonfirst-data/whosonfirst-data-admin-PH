@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008313,
-    "geom:area_square_m":100789444.901178,
+    "geom:area_square_m":100789693.045898,
     "geom:bbox":"122.657469,11.276373,122.87975,11.352603",
     "geom:latitude":11.315394,
     "geom:longitude":122.759796,
@@ -36,7 +36,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Cuartero (bueg)"
+        "Cuartero"
     ],
     "name:fra_x_preferred":[
         "Cuartero (bueg)"
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.CA",
+    "statoids:name":"Cuartero",
+    "statoids:population":25456,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495666,
-    "wof:geomhash":"aabd97fd4a51fb6822b655b658d1c1e1",
+    "wof:geomhash":"246b33701b3cfadda92e7ca1e746eb94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +75,8 @@
         }
     ],
     "wof:id":1108697399,
-    "wof:lastmodified":1628266641,
-    "wof:name":"Cuartero (bueg)",
+    "wof:lastmodified":1694492840,
+    "wof:name":"Cuartero",
     "wof:parent_id":85675989,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

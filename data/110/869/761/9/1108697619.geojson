@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062068,
-    "geom:area_square_m":729697176.852647,
+    "geom:area_square_m":729697374.546437,
     "geom:bbox":"121.598892,17.961155,122.187889,18.120293",
     "geom:latitude":18.052547,
     "geom:longitude":121.900616,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.GT",
+    "statoids:name":"Gattaran",
+    "statoids:population":54848,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.GT"
+    },
     "wof:country":"PH",
     "wof:created":1474495818,
-    "wof:geomhash":"633b6cb9b70051ed88709d8e12522051",
+    "wof:geomhash":"50442f44979f33ac1774fffe04357657",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697619,
-    "wof:lastmodified":1626127502,
+    "wof:lastmodified":1694492569,
     "wof:name":"Gattaran",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

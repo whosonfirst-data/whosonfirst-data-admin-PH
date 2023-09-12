@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026286,
-    "geom:area_square_m":313292590.112801,
+    "geom:area_square_m":313293043.446285,
     "geom:bbox":"119.887886,15.375695,120.203106,15.522498",
     "geom:latitude":15.444089,
     "geom:longitude":120.047327,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.PL",
+    "statoids:name":"Palauig",
+    "statoids:population":33286,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496586,
-    "wof:geomhash":"50fc5aec7d149909d58efc9ac65cc549",
+    "wof:geomhash":"b85b484d0812e117b181a54f80071c6d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698743,
-    "wof:lastmodified":1626127463,
+    "wof:lastmodified":1694492562,
     "wof:name":"Palauig",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

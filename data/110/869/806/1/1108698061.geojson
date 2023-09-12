@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008896,
-    "geom:area_square_m":108219435.333474,
+    "geom:area_square_m":108219434.491189,
     "geom:bbox":"125.01678,10.23618,125.104308,10.443391",
     "geom:latitude":10.337009,
     "geom:longitude":125.065058,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.LB",
+    "statoids:name":"Libagon",
+    "statoids:population":14352,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496108,
-    "wof:geomhash":"2bb47a0cab4a3a7d2822d5068d3886e5",
+    "wof:geomhash":"c6be33d6ff92b7eda9fdc9ee448eeb9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698061,
-    "wof:lastmodified":1628266674,
+    "wof:lastmodified":1694492860,
     "wof:name":"Libagon",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

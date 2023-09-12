@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001923,
-    "geom:area_square_m":23268419.495076,
+    "geom:area_square_m":23268572.122864,
     "geom:bbox":"124.410385,11.880417,124.466248,11.935389",
     "geom:latitude":11.906862,
     "geom:longitude":124.440226,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.SN",
+    "statoids:name":"Santo Ni\u00f1o",
+    "statoids:population":13504,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497083,
-    "wof:geomhash":"09c23fe8ead318287dbe9be95f8abe71",
+    "wof:geomhash":"a96a4a03b2e721f3fb3ab849de67b9da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108699427,
-    "wof:lastmodified":1626127530,
+    "wof:lastmodified":1694492573,
     "wof:name":"Santo Ni\u00f1o",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

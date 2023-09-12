@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003334,
-    "geom:area_square_m":40041797.752317,
+    "geom:area_square_m":40041947.630413,
     "geom:bbox":"120.870415,13.68375,120.958103,13.767825",
     "geom:latitude":13.729659,
     "geom:longitude":120.909692,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.MB",
+    "statoids:name":"Mabini",
+    "statoids:population":44391,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.MB"
+    },
     "wof:country":"PH",
     "wof:created":1474496199,
-    "wof:geomhash":"afd078eb70a3c8eebefabd7e17aef400",
+    "wof:geomhash":"557bbad775caa7abbe7c55f24f754d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108698189,
-    "wof:lastmodified":1626127459,
+    "wof:lastmodified":1694492562,
     "wof:name":"Mabini",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

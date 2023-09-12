@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006153,
-    "geom:area_square_m":74476592.73125,
+    "geom:area_square_m":74476405.209514,
     "geom:bbox":"123.936812,11.72125,124.072891,11.898926",
     "geom:latitude":11.816051,
     "geom:longitude":124.002309,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.EP",
+    "statoids:name":"Esperanza",
+    "statoids:population":17357,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.EP"
+    },
     "wof:country":"PH",
     "wof:created":1474495792,
-    "wof:geomhash":"9932e91f425f1cae77ce43e9753aef30",
+    "wof:geomhash":"4a7f6f60d7e65b55896bce29e25a4077",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108697579,
-    "wof:lastmodified":1636501032,
+    "wof:lastmodified":1694492934,
     "wof:name":"Esperanza",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

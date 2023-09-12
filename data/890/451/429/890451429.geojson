@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020538,
-    "geom:area_square_m":250401453.699715,
+    "geom:area_square_m":250401288.483015,
     "geom:bbox":"122.888571,9.53848,123.16378,9.681337",
     "geom:latitude":9.595693,
     "geom:longitude":123.024828,
@@ -63,6 +63,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.BI",
+    "statoids:name":"Bais City",
+    "statoids:population":74722,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -72,6 +80,7 @@
     "wof:concordances":{
         "gn:id":1728769,
         "gp:id":2346700,
+        "hasc:id":"PH.NR.BI",
         "qs_pg:id":88435
     },
     "wof:country":"PH",
@@ -79,7 +88,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d052d47ac6e46eb35cf24a43f8a33b66",
+    "wof:geomhash":"9ba272098261f86de281303f97232953",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890451429,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bais City",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

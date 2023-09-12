@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016382,
-    "geom:area_square_m":196549645.949665,
+    "geom:area_square_m":196549677.235844,
     "geom:bbox":"121.754089,13.917977,121.960667,14.085652",
     "geom:latitude":14.001972,
     "geom:longitude":121.865016,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.AI",
+    "statoids:name":"Atimonan",
+    "statoids:population":61587,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495199,
-    "wof:geomhash":"867f9034c4bbc23524a9f3739f380ea1",
+    "wof:geomhash":"6499085843b407fe3f368443718e37a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108696719,
-    "wof:lastmodified":1626127507,
+    "wof:lastmodified":1694492569,
     "wof:name":"Atimonan",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004073,
-    "geom:area_square_m":49355195.53442,
+    "geom:area_square_m":49355232.342655,
     "geom:bbox":"124.525877,11.471278,124.61793,11.532574",
     "geom:latitude":11.501447,
     "geom:longitude":124.568934,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.CB",
+    "statoids:name":"Cabucgayan",
+    "statoids:population":19621,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.CB"
+    },
     "wof:country":"PH",
     "wof:created":1474495506,
-    "wof:geomhash":"d8bbdb268176825f6700f147a32b1182",
+    "wof:geomhash":"d415bea2a5df83844f81d4d275fed0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697169,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cabucgayan",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

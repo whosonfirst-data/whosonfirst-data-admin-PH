@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001289,
-    "geom:area_square_m":15790103.119091,
+    "geom:area_square_m":15790128.947114,
     "geom:bbox":"124.073381,7.844974,124.11904,7.909414",
     "geom:latitude":7.875951,
     "geom:longitude":124.093352,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.MA",
+    "statoids:name":"Madalum",
+    "statoids:population":20243,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.MA"
+    },
     "wof:country":"PH",
     "wof:created":1474496218,
-    "wof:geomhash":"29c96de0a06c5f08948f83a7eea9c79a",
+    "wof:geomhash":"1ae66eec696054473add12281aed0ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698217,
-    "wof:lastmodified":1626127465,
+    "wof:lastmodified":1694492562,
     "wof:name":"Madalum",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

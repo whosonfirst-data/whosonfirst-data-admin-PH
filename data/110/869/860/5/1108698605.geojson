@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000875,
-    "geom:area_square_m":10475549.616729,
+    "geom:area_square_m":10475425.369698,
     "geom:bbox":"120.86487,14.419826,120.919586,14.501278",
     "geom:latitude":14.463574,
     "geom:longitude":120.888209,
@@ -121,16 +121,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.CV",
+    "statoids:name":"Cavite City",
+    "statoids:population":101120,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.CV"
+    },
     "wof:country":"PH",
     "wof:created":1474496491,
-    "wof:geomhash":"11ea7b895dcebea3e199759bdbe0d92c",
+    "wof:geomhash":"dc27bfb53ed3ce7e32176eaca6cab439",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +150,7 @@
         }
     ],
     "wof:id":1108698605,
-    "wof:lastmodified":1626127475,
+    "wof:lastmodified":1694492564,
     "wof:name":"Cavite City",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

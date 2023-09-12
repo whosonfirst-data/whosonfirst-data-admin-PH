@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015745,
-    "geom:area_square_m":188866904.520325,
+    "geom:area_square_m":188866224.321263,
     "geom:bbox":"121.226683,13.972504,121.410601,14.142621",
     "geom:latitude":14.052005,
     "geom:longitude":121.323598,
@@ -129,6 +129,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.SB",
+    "statoids:name":"San Pablo City",
+    "statoids:population":248890,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":388,
     "wof:belongsto":[
         102191569,
@@ -138,6 +146,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1688812,
+        "hasc:id":"PH.LG.SB",
         "qs_pg:id":86704,
         "wk:page":"San Pablo"
     },
@@ -146,7 +155,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"82e09ceda7143ef3f009798e363013a1",
+    "wof:geomhash":"c8ea0cc457c38f62ad1e377eba1218cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":890432695,
-    "wof:lastmodified":1626127573,
+    "wof:lastmodified":1694492574,
     "wof:name":"San Pablo City",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

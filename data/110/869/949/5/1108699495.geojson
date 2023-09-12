@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019336,
-    "geom:area_square_m":234892745.45775,
+    "geom:area_square_m":234892353.56528,
     "geom:bbox":"122.949585,10.64568,123.247798,10.843299",
     "geom:latitude":10.756213,
     "geom:longitude":123.089243,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.SL",
+    "statoids:name":"Silay City",
+    "statoids:population":120999,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474497134,
-    "wof:geomhash":"fdc1d553fa5c1ec2546d1633ba8afc0d",
+    "wof:geomhash":"3e11a6cce96202476ab937bc9c04e9e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699495,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694492884,
     "wof:name":"Silay City",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

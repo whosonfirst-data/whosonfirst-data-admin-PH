@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080034,
-    "geom:area_square_m":979773919.819107,
+    "geom:area_square_m":979774261.350533,
     "geom:bbox":"124.565882,7.913363,124.947437,8.289828",
     "geom:latitude":8.092574,
     "geom:longitude":124.722112,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.TL",
+    "statoids:name":"Talakag",
+    "statoids:population":67123,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497225,
-    "wof:geomhash":"e63fb13a96fdbd10a5c300d9cecb4ac1",
+    "wof:geomhash":"c5f9b227aff3ec038bf3c7edeecc86a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699627,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Talakag",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

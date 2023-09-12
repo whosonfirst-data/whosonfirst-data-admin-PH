@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024605,
-    "geom:area_square_m":302310422.593532,
+    "geom:area_square_m":302310066.674548,
     "geom:bbox":"124.896954,6.386654,125.172654,6.537475",
     "geom:latitude":6.465762,
     "geom:longitude":125.043074,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.TM",
+    "statoids:name":"Tampakan",
+    "statoids:population":36254,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.TM"
+    },
     "wof:country":"PH",
     "wof:created":1474497247,
-    "wof:geomhash":"18caa9d00c9c3b7ca1dfde548830732a",
+    "wof:geomhash":"2f3c35876a9e10b2cd027510602c76be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699657,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tampakan",
     "wof:parent_id":85676263,
     "wof:placetype":"county",

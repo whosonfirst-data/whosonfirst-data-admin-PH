@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01221,
-    "geom:area_square_m":146350695.241272,
+    "geom:area_square_m":146350724.546705,
     "geom:bbox":"120.58622,14.16115,120.831426,14.29595",
     "geom:latitude":14.229847,
     "geom:longitude":120.724523,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.MR",
+    "statoids:name":"Maragondon",
+    "statoids:population":35289,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496325,
-    "wof:geomhash":"3c88a133a4ebb06c1db0f1e3a416f20f",
+    "wof:geomhash":"8cd45a46bcbda1937529806faa6f5c33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698377,
-    "wof:lastmodified":1626127519,
+    "wof:lastmodified":1694492571,
     "wof:name":"Maragondon",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

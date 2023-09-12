@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004092,
-    "geom:area_square_m":50094168.142017,
+    "geom:area_square_m":50094093.189164,
     "geom:bbox":"124.190087,8.079395,124.269394,8.16299",
     "geom:latitude":8.116828,
     "geom:longitude":124.227593,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.BL",
+    "statoids:name":"Baloi",
+    "statoids:population":50387,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495290,
-    "wof:geomhash":"42b176a522016a484058c17263fdace4",
+    "wof:geomhash":"ac445d48bf9777b56b066d18bbc3adaa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108696855,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1694492713,
     "wof:name":"Baloi",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

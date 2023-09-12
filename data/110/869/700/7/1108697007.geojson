@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002379,
-    "geom:area_square_m":28509639.58752,
+    "geom:area_square_m":28509261.874577,
     "geom:bbox":"121.040058,14.255135,121.099024,14.354634",
     "geom:latitude":14.30383,
     "geom:longitude":121.074411,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.BN",
+    "statoids:name":"Bi\u00f1an, City of",
+    "statoids:population":283396,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495399,
-    "wof:geomhash":"b90db6a7644fe10b836874eab3eea43b",
+    "wof:geomhash":"743f573e05060f19052a1a22f945f48c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697007,
-    "wof:lastmodified":1628266630,
+    "wof:lastmodified":1694492833,
     "wof:name":"Binan",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

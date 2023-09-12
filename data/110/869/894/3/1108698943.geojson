@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002951,
-    "geom:area_square_m":36143655.856542,
+    "geom:area_square_m":36143728.12429,
     "geom:bbox":"124.322391,7.80244,124.386724,7.871037",
     "geom:latitude":7.838632,
     "geom:longitude":124.358604,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.PB",
+    "statoids:name":"Poona Bayabao (Gata)",
+    "statoids:population":19229,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.PB"
+    },
     "wof:country":"PH",
     "wof:created":1474496721,
-    "wof:geomhash":"6cd0ace9efb33f3ebf8158c8bd9b1565",
+    "wof:geomhash":"41556b78456830afe77158a92fe9f15f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698943,
-    "wof:lastmodified":1628266703,
+    "wof:lastmodified":1694492877,
     "wof:name":"Poonabayabao",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

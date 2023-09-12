@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02162,
-    "geom:area_square_m":255668573.570608,
+    "geom:area_square_m":255668615.967445,
     "geom:bbox":"120.636651,16.891814,120.786098,17.081131",
     "geom:latitude":16.987272,
     "geom:longitude":120.712468,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.CR",
+    "statoids:name":"Cervantes",
+    "statoids:population":16573,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495632,
-    "wof:geomhash":"c031805d8dbe1adbf9e0acd81647f068",
+    "wof:geomhash":"311d0ce8e11fc6349e564b62a55425bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697349,
-    "wof:lastmodified":1628266638,
+    "wof:lastmodified":1694492837,
     "wof:name":"Cervantes",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018112,
-    "geom:area_square_m":217428833.332733,
+    "geom:area_square_m":217428787.079456,
     "geom:bbox":"122.022942,13.776195,122.204097,13.948967",
     "geom:latitude":13.86575,
     "geom:longitude":122.107058,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.GM",
+    "statoids:name":"Gumaca",
+    "statoids:population":69618,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.GM"
+    },
     "wof:country":"PH",
     "wof:created":1474495870,
-    "wof:geomhash":"067686f0670f180293181a74c2a67acb",
+    "wof:geomhash":"afde9c6112aed2b4f7b7fb438497963e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697695,
-    "wof:lastmodified":1626127498,
+    "wof:lastmodified":1694492568,
     "wof:name":"Gumaca",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018303,
-    "geom:area_square_m":220364537.295749,
+    "geom:area_square_m":220364670.327497,
     "geom:bbox":"123.279556,13.024695,123.611946,13.334519",
     "geom:latitude":13.167939,
     "geom:longitude":123.402606,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.OS",
+    "statoids:name":"Oas",
+    "statoids:population":64785,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.OS"
+    },
     "wof:country":"PH",
     "wof:created":1474496545,
-    "wof:geomhash":"fe9de70efed59303d3161508efd24f6d",
+    "wof:geomhash":"b14409837d560d59d737959415474a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698685,
-    "wof:lastmodified":1628266693,
+    "wof:lastmodified":1694492871,
     "wof:name":"Oas",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

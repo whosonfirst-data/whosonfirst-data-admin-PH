@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050686,
-    "geom:area_square_m":620321773.756459,
+    "geom:area_square_m":620321892.951692,
     "geom:bbox":"125.885733,8.099765,126.248133,8.2919",
     "geom:latitude":8.210377,
     "geom:longitude":126.055833,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.BN",
+    "statoids:name":"Bunawan",
+    "statoids:population":37482,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495471,
-    "wof:geomhash":"9b29178563a39f9a7f1bc55e380b3a20",
+    "wof:geomhash":"3159730f4331d62f1e5861dda2bc431e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697117,
-    "wof:lastmodified":1626127534,
+    "wof:lastmodified":1694492574,
     "wof:name":"Bunawan",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

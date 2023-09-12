@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014422,
-    "geom:area_square_m":169212013.922033,
+    "geom:area_square_m":169212039.088578,
     "geom:bbox":"121.354801,18.304799,121.503113,18.49041",
     "geom:latitude":18.396642,
     "geom:longitude":121.426199,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.AB",
+    "statoids:name":"Abulug",
+    "statoids:population":30675,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.AB"
+    },
     "wof:country":"PH",
     "wof:created":1474495092,
-    "wof:geomhash":"ffed693e820423fd6be7247f0a54c6e0",
+    "wof:geomhash":"f7ce7afe8b44dcea0414c8c464e4ccc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696555,
-    "wof:lastmodified":1628266615,
+    "wof:lastmodified":1694492825,
     "wof:name":"Abulug",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

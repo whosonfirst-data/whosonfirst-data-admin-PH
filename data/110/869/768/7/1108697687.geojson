@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010724,
-    "geom:area_square_m":130682116.962812,
+    "geom:area_square_m":130682062.516493,
     "geom:bbox":"124.36122,9.722055,124.542133,9.84535",
     "geom:latitude":9.782137,
     "geom:longitude":124.44914,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.GI",
+    "statoids:name":"Guindulman",
+    "statoids:population":31789,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495865,
-    "wof:geomhash":"c9b5fa04f5ba829fdbbb41f62f72d4e2",
+    "wof:geomhash":"37527551d53e1f730b1d511a2f25752b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697687,
-    "wof:lastmodified":1626127502,
+    "wof:lastmodified":1694492569,
     "wof:name":"Guindulman",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

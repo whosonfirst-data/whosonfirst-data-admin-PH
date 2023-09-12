@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022851,
-    "geom:area_square_m":276392883.674677,
+    "geom:area_square_m":276393153.452951,
     "geom:bbox":"125.221215,11.913648,125.475069,12.058861",
     "geom:latitude":11.988648,
     "geom:longitude":125.34002,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.CN",
+    "statoids:name":"Can-Avid",
+    "statoids:population":19785,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495552,
-    "wof:geomhash":"8ead01d1baf2cc7d7235841e8b044874",
+    "wof:geomhash":"5510b246e725c74e4fd67e58cbf03c67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697241,
-    "wof:lastmodified":1626127487,
+    "wof:lastmodified":1694492566,
     "wof:name":"Can-avid",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019995,
-    "geom:area_square_m":245058697.355875,
+    "geom:area_square_m":245058675.309837,
     "geom:bbox":"124.939845,7.532672,125.260921,7.695277",
     "geom:latitude":7.611157,
     "geom:longitude":125.111355,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.KT",
+    "statoids:name":"Kitaotao",
+    "statoids:population":49488,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.KT"
+    },
     "wof:country":"PH",
     "wof:created":1474496021,
-    "wof:geomhash":"24931a22cb609d47bb17f65646f27c0e",
+    "wof:geomhash":"2e30f3d9ceead9617a690e0eea9723a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697929,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kitaotao",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

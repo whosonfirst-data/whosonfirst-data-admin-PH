@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026859,
-    "geom:area_square_m":329763758.676743,
+    "geom:area_square_m":329763056.294066,
     "geom:bbox":"124.815384,6.740403,125.143317,6.900267",
     "geom:latitude":6.821465,
     "geom:longitude":124.97444,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.TL",
+    "statoids:name":"Tulunan",
+    "statoids:population":54884,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497344,
-    "wof:geomhash":"413ff823200c5b87d883b1aacfe6c133",
+    "wof:geomhash":"958720a3e32395ed1443be5f005a352d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699805,
-    "wof:lastmodified":1628266733,
+    "wof:lastmodified":1694492890,
     "wof:name":"Tulunan",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016058,
-    "geom:area_square_m":194856344.113153,
+    "geom:area_square_m":194856304.060189,
     "geom:bbox":"122.762764,10.991412,122.942863,11.167588",
     "geom:latitude":11.089062,
     "geom:longitude":122.863618,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.BV",
+    "statoids:name":"Barotac Viejo",
+    "statoids:population":41470,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.BV"
+    },
     "wof:country":"PH",
     "wof:created":1474495332,
-    "wof:geomhash":"b5807502ec84321459b09503abadb98e",
+    "wof:geomhash":"398c931d7b9f96b469e90a2c48944a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108696917,
-    "wof:lastmodified":1626127520,
+    "wof:lastmodified":1694492571,
     "wof:name":"Barotac Viejo",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007394,
-    "geom:area_square_m":88717766.383126,
+    "geom:area_square_m":88717632.525457,
     "geom:bbox":"120.60125,13.930373,120.693364,14.060958",
     "geom:latitude":13.996044,
     "geom:longitude":120.649474,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.LA",
+    "statoids:name":"Lian",
+    "statoids:population":45943,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474496104,
-    "wof:geomhash":"ac6d99749ef6d076a3145e659ed1b564",
+    "wof:geomhash":"f9614b4224de1ee749a0a30c0f5f8169",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108698053,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Lian",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

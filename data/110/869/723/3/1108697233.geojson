@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006497,
-    "geom:area_square_m":76286190.943335,
+    "geom:area_square_m":76286181.85615,
     "geom:bbox":"121.615615,18.234888,121.753334,18.301842",
     "geom:latitude":18.264778,
     "geom:longitude":121.684616,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.CM",
+    "statoids:name":"Camalaniugan",
+    "statoids:population":23404,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.CM"
+    },
     "wof:country":"PH",
     "wof:created":1474495546,
-    "wof:geomhash":"f809bebda5355fdbc34fbcebb8a894cc",
+    "wof:geomhash":"7a1fceb642ab078be5516df0a68f0838",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697233,
-    "wof:lastmodified":1626127488,
+    "wof:lastmodified":1694492566,
     "wof:name":"Camalaniugan",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

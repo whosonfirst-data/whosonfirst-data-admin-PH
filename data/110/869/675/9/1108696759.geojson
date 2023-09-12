@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004351,
-    "geom:area_square_m":52101979.699472,
+    "geom:area_square_m":52101803.684273,
     "geom:bbox":"120.923611,14.350387,121.013483,14.475765",
     "geom:latitude":14.414349,
     "geom:longitude":120.971919,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.BC",
+    "statoids:name":"Bacoor City",
+    "statoids:population":520216,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495226,
-    "wof:geomhash":"c55aba6616d67244f2f07acd179a30bf",
+    "wof:geomhash":"cac92bb8251852fa6a00791eeda846b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108696759,
-    "wof:lastmodified":1626127460,
+    "wof:lastmodified":1694492562,
     "wof:name":"Bacoor",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

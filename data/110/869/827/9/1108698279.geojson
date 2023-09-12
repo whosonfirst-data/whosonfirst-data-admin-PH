@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00646,
-    "geom:area_square_m":77458401.785688,
+    "geom:area_square_m":77458631.239891,
     "geom:bbox":"121.437947,14.074116,121.539457,14.218469",
     "geom:latitude":14.142548,
     "geom:longitude":121.484436,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.MJ",
+    "statoids:name":"Majayjay",
+    "statoids:population":26547,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.MJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496257,
-    "wof:geomhash":"7f5633502b22c7e3507851b3749db952",
+    "wof:geomhash":"bc747bc4d0090f54021511000134cc37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698279,
-    "wof:lastmodified":1626127460,
+    "wof:lastmodified":1694492562,
     "wof:name":"Majayjay",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

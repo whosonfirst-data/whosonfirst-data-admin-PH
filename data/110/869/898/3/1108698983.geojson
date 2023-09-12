@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056955,
-    "geom:area_square_m":697854033.173053,
+    "geom:area_square_m":697854047.146846,
     "geom:bbox":"125.030501,7.590455,125.35129,7.858828",
     "geom:latitude":7.734653,
     "geom:longitude":125.204524,
@@ -145,16 +145,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.QE",
+    "statoids:name":"Quezon",
+    "statoids:population":94584,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.QE"
+    },
     "wof:country":"PH",
     "wof:created":1474496756,
-    "wof:geomhash":"1ef0b8b92e8786d74c470782d83ac9f2",
+    "wof:geomhash":"2f5c640cec5030e668708bdcbd261243",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +174,7 @@
         }
     ],
     "wof:id":1108698983,
-    "wof:lastmodified":1636501037,
+    "wof:lastmodified":1694492935,
     "wof:name":"Quezon",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

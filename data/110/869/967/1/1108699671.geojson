@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031908,
-    "geom:area_square_m":389613289.922428,
+    "geom:area_square_m":389613651.537087,
     "geom:bbox":"125.863966,9.004196,126.208222,9.178455",
     "geom:latitude":9.073107,
     "geom:longitude":126.051505,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.TN",
+    "statoids:name":"Tandag, City of",
+    "statoids:population":52114,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497256,
-    "wof:geomhash":"c9030dd8d7f5e39b1ad814a60dd07471",
+    "wof:geomhash":"3a43d79af6e7aa6b8fcf89ca52c96a78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699671,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Tandag",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011755,
-    "geom:area_square_m":142845771.977942,
+    "geom:area_square_m":142846123.714198,
     "geom:bbox":"122.901888,10.584513,123.098356,10.721984",
     "geom:latitude":10.648108,
     "geom:longitude":122.982311,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.BC",
+    "statoids:name":"Bacolod City",
+    "statoids:population":511820,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676295
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495217,
-    "wof:geomhash":"f873a266aca6c57386c73b9f07b2be5e",
+    "wof:geomhash":"cc004c3edbe2922c82192196f9eae82d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696747,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bacolod City",
     "wof:parent_id":85676295,
     "wof:placetype":"county",

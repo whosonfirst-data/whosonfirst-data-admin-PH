@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007792,
-    "geom:area_square_m":94826620.219928,
+    "geom:area_square_m":94826589.037317,
     "geom:bbox":"123.514611,10.135933,123.642674,10.247916",
     "geom:latitude":10.189032,
     "geom:longitude":123.580049,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.AO",
+    "statoids:name":"Aloguinsan",
+    "statoids:population":27650,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.AO"
+    },
     "wof:country":"PH",
     "wof:created":1474495154,
-    "wof:geomhash":"e6624a8ac82915286e17baad6de55480",
+    "wof:geomhash":"9d79ff2b1331dbe2d50e64d9484e5b45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696649,
-    "wof:lastmodified":1626127515,
+    "wof:lastmodified":1694492570,
     "wof:name":"Aloguinsan",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059196,
-    "geom:area_square_m":699970132.696309,
+    "geom:area_square_m":699969793.840507,
     "geom:bbox":"122.161726,16.880655,122.526253,17.144556",
     "geom:latitude":17.00381,
     "geom:longitude":122.355869,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.PL",
+    "statoids:name":"Palanan",
+    "statoids:population":16094,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496581,
-    "wof:geomhash":"8fd584b22438b11b02982265c5c53b55",
+    "wof:geomhash":"1ab7903f80c3c4445508389d0f2a2dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698735,
-    "wof:lastmodified":1626127464,
+    "wof:lastmodified":1694492562,
     "wof:name":"Palanan",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

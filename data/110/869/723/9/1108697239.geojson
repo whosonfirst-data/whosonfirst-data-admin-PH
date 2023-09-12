@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010358,
-    "geom:area_square_m":123313536.975741,
+    "geom:area_square_m":123313308.680114,
     "geom:bbox":"120.337398,15.620768,120.50536,15.746232",
     "geom:latitude":15.675663,
     "geom:longitude":120.425652,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.CM",
+    "statoids:name":"Camiling",
+    "statoids:population":80241,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.CM"
+    },
     "wof:country":"PH",
     "wof:created":1474495550,
-    "wof:geomhash":"b13a8d3a2b7595ff83758c0395ec5355",
+    "wof:geomhash":"f165e1b1518eb4db49b9de31c80af63d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697239,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Camiling",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

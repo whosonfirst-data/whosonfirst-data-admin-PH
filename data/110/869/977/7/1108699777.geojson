@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006275,
-    "geom:area_square_m":76433213.442474,
+    "geom:area_square_m":76433221.330184,
     "geom:bbox":"123.914306,9.878253,124.023405,9.967083",
     "geom:latitude":9.918828,
     "geom:longitude":123.970052,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.TB",
+    "statoids:name":"Tubigon",
+    "statoids:population":44902,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497326,
-    "wof:geomhash":"e4546368293ee29ed8a0c96841cc9b2e",
+    "wof:geomhash":"f011dee43a59e908c4c9fa567a60677c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699777,
-    "wof:lastmodified":1626127480,
+    "wof:lastmodified":1694492565,
     "wof:name":"Tubigon",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

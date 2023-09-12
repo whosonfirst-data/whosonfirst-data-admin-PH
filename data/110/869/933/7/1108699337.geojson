@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00687,
-    "geom:area_square_m":83441631.163575,
+    "geom:area_square_m":83441615.268123,
     "geom:bbox":"122.473954,10.772646,122.598649,10.883017",
     "geom:latitude":10.829207,
     "geom:longitude":122.529824,
@@ -160,16 +160,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.SB",
+    "statoids:name":"Santa Barbara",
+    "statoids:population":55472,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474497023,
-    "wof:geomhash":"43f40193b2d7e82fe533384f976a0f58",
+    "wof:geomhash":"f00aa749a83a1bb8d8739735282f5f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +189,7 @@
         }
     ],
     "wof:id":1108699337,
-    "wof:lastmodified":1636501034,
+    "wof:lastmodified":1694492934,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

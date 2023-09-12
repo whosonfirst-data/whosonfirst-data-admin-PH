@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011229,
-    "geom:area_square_m":135594084.312684,
+    "geom:area_square_m":135594164.884844,
     "geom:bbox":"124.288645,12.354076,124.498039,12.474954",
     "geom:latitude":12.427067,
     "geom:longitude":124.40401,
@@ -253,16 +253,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.VC",
+    "statoids:name":"Victoria",
+    "statoids:population":13920,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.VC"
+    },
     "wof:country":"PH",
     "wof:created":1474497374,
-    "wof:geomhash":"c7ee70fd6b755834f0ae99c5bbf709b3",
+    "wof:geomhash":"3166c23eadf20eba9b4319f1f6d7d427",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,7 +282,7 @@
         }
     ],
     "wof:id":1108699849,
-    "wof:lastmodified":1636501021,
+    "wof:lastmodified":1694492933,
     "wof:name":"Victoria",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

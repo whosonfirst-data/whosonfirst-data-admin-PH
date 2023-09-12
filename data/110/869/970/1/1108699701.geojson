@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021278,
-    "geom:area_square_m":261098237.424446,
+    "geom:area_square_m":261098323.07575,
     "geom:bbox":"126.287283,6.993722,126.474556,7.155117",
     "geom:latitude":7.076782,
     "geom:longitude":126.380482,
@@ -265,16 +265,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.TR",
+    "statoids:name":"Tarragona",
+    "statoids:population":25671,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.TR"
+    },
     "wof:country":"PH",
     "wof:created":1474497275,
-    "wof:geomhash":"6d6326c6c4eaad23a592909079c298f0",
+    "wof:geomhash":"a5bae37d37f1e426804995034a2f7856",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -284,7 +294,7 @@
         }
     ],
     "wof:id":1108699701,
-    "wof:lastmodified":1626127481,
+    "wof:lastmodified":1694492565,
     "wof:name":"Tarragona",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

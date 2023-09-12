@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001332,
-    "geom:area_square_m":16214589.850411,
+    "geom:area_square_m":16214432.617322,
     "geom:bbox":"124.193726,10.173722,124.264557,10.209583",
     "geom:latitude":10.192009,
     "geom:longitude":124.227952,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.JT",
+    "statoids:name":"Getafe",
+    "statoids:population":27788,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.JT"
+    },
     "wof:country":"PH",
     "wof:created":1474496482,
-    "wof:geomhash":"5562657b11b83834192dff778fe9092b",
+    "wof:geomhash":"0212988f74aa2013b6954a3559bc7c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698591,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jetafe",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

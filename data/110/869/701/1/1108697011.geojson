@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003575,
-    "geom:area_square_m":43359413.412395,
+    "geom:area_square_m":43359643.461057,
     "geom:bbox":"122.526552,11.134759,122.586062,11.247098",
     "geom:latitude":11.188376,
     "geom:longitude":122.56235,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.BI",
+    "statoids:name":"Bingawan",
+    "statoids:population":13432,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.BI"
+    },
     "wof:country":"PH",
     "wof:created":1474495402,
-    "wof:geomhash":"3dacc4ff1bcbf9b8720d847e33c239ff",
+    "wof:geomhash":"5f297eb155e0f4957933e2538b7f0e47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697011,
-    "wof:lastmodified":1628266631,
+    "wof:lastmodified":1694492833,
     "wof:name":"Bingawan",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

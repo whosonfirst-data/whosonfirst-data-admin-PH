@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020795,
-    "geom:area_square_m":244973068.892904,
+    "geom:area_square_m":244973019.263757,
     "geom:bbox":"120.857918,17.633841,121.124678,17.739657",
     "geom:latitude":17.690889,
     "geom:longitude":120.99157,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.LC",
+    "statoids:name":"Lacub",
+    "statoids:population":2977,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.LC"
+    },
     "wof:country":"PH",
     "wof:created":1474496046,
-    "wof:geomhash":"822a3ac05b3d228fb2a70d8d37d75e76",
+    "wof:geomhash":"6e927b78730ab9b3999ca6002ff3e88c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697965,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1694492561,
     "wof:name":"Lacub",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

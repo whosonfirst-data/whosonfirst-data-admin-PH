@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005666,
-    "geom:area_square_m":69084642.774577,
+    "geom:area_square_m":69084495.091178,
     "geom:bbox":"125.582691,9.517525,125.683251,9.616054",
     "geom:latitude":9.570347,
     "geom:longitude":125.627213,
@@ -52,10 +52,12 @@
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SN.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495229,
-    "wof:geomhash":"ae71adf5c76583b2ad35a6da72f91433",
+    "wof:geomhash":"a105799385e7e2999ada3639fb65a722",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108696765,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bacuag",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

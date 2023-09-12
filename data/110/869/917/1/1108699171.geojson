@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039331,
-    "geom:area_square_m":465698272.972588,
+    "geom:area_square_m":465698015.444696,
     "geom:bbox":"121.720901,16.663362,122.041626,16.862548",
     "geom:latitude":16.752006,
     "geom:longitude":121.88158,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.AG",
+    "statoids:name":"Angadanan",
+    "statoids:population":40143,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.AG"
+    },
     "wof:country":"PH",
     "wof:created":1474496908,
-    "wof:geomhash":"9974e9480eeeadf1f7bbec0784254b9d",
+    "wof:geomhash":"caba42f4da95cdc171dc00a1e96b3b02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699171,
-    "wof:lastmodified":1628266711,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Guillermo",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

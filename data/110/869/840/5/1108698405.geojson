@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001577,
-    "geom:area_square_m":18854044.69007,
+    "geom:area_square_m":18854025.097243,
     "geom:bbox":"120.915271,14.733342,120.987215,14.781937",
     "geom:latitude":14.757681,
     "geom:longitude":120.951519,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.MR",
+    "statoids:name":"Marilao",
+    "statoids:population":185624,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496344,
-    "wof:geomhash":"bdc395adc2b4932c1bc79e537cb1f5c7",
+    "wof:geomhash":"517ee5d6293517556d9bc6820db67d92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698405,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Marilao",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011455,
-    "geom:area_square_m":139136276.467174,
+    "geom:area_square_m":139136376.81679,
     "geom:bbox":"125.612862,10.686222,125.835419,11.034583",
     "geom:latitude":10.803514,
     "geom:longitude":125.728415,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.GI",
+    "statoids:name":"Guiuan",
+    "statoids:population":47037,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474496499,
-    "wof:geomhash":"6a558008197035c96c588d8d2992ff90",
+    "wof:geomhash":"be4c68f2b89e3f9d9bc344a07c8305de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698617,
-    "wof:lastmodified":1628266654,
+    "wof:lastmodified":1694492848,
     "wof:name":"Guian",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

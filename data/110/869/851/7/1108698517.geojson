@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002341,
-    "geom:area_square_m":28666180.93973,
+    "geom:area_square_m":28666243.60568,
     "geom:bbox":"124.360314,7.917186,124.452454,7.957207",
     "geom:latitude":7.937207,
     "geom:longitude":124.4091,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.MU",
+    "statoids:name":"Mulondo",
+    "statoids:population":14065,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.MU"
+    },
     "wof:country":"PH",
     "wof:created":1474496430,
-    "wof:geomhash":"c852b645329ce1c1abaade0e4e4d4e13",
+    "wof:geomhash":"9c28b90c22dd1ccbf09396b0e43e77db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108698517,
-    "wof:lastmodified":1628266688,
+    "wof:lastmodified":1694492867,
     "wof:name":"Mulondo",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

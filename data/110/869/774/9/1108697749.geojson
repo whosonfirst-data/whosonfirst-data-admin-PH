@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054868,
-    "geom:area_square_m":671458462.268612,
+    "geom:area_square_m":671458629.891903,
     "geom:bbox":"124.169052,7.995554,124.611945,8.34656",
     "geom:latitude":8.231681,
     "geom:longitude":124.42258,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.II",
+    "statoids:name":"Iligan City",
+    "statoids:population":322821,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676317
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.II"
+    },
     "wof:country":"PH",
     "wof:created":1474495905,
-    "wof:geomhash":"419a3cc3a17dbbcab90550a01f6eb40b",
+    "wof:geomhash":"a9c6dad824109e2ee12aea65caf7f592",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697749,
-    "wof:lastmodified":1628266656,
+    "wof:lastmodified":1694492849,
     "wof:name":"Iligan City",
     "wof:parent_id":85676317,
     "wof:placetype":"county",

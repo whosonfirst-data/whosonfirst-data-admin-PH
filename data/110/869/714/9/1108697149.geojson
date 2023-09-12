@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029368,
-    "geom:area_square_m":358532287.921925,
+    "geom:area_square_m":358532087.850405,
     "geom:bbox":"125.517082,9.068209,125.770336,9.223435",
     "geom:latitude":9.143568,
     "geom:longitude":125.6507,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.CB",
+    "statoids:name":"Cabadbaran, City of",
+    "statoids:population":69241,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.CB"
+    },
     "wof:country":"PH",
     "wof:created":1474495491,
-    "wof:geomhash":"e5fcaf4827aae6e738e5eae22220cf9f",
+    "wof:geomhash":"c83d7b9dbd0fc96810f63ddef030cc71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108697149,
-    "wof:lastmodified":1626127482,
+    "wof:lastmodified":1694492565,
     "wof:name":"Cabadbaran",
     "wof:parent_id":85676213,
     "wof:placetype":"county",

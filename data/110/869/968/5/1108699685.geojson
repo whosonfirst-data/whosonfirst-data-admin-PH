@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033605,
-    "geom:area_square_m":396779936.633504,
+    "geom:area_square_m":396780212.59382,
     "geom:bbox":"121.135739,17.167669,121.410102,17.379224",
     "geom:latitude":17.27628,
     "geom:longitude":121.273491,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.KA.TN",
+    "statoids:name":"Tanudan",
+    "statoids:population":8529,
+    "statoids:statoid":"PH.KA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.KA.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497265,
-    "wof:geomhash":"4dc2a414984a18afa806390d429a5780",
+    "wof:geomhash":"10cbc24dd426c91c8f6e88727f9629b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699685,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tanudan",
     "wof:parent_id":85676269,
     "wof:placetype":"county",

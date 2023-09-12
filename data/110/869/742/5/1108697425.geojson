@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004027,
-    "geom:area_square_m":47848608.791514,
+    "geom:area_square_m":47848617.232715,
     "geom:bbox":"120.29875,16.008933,120.377899,16.108713",
     "geom:latitude":16.049812,
     "geom:longitude":120.340782,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.DG",
+    "statoids:name":"Dagupan City",
+    "statoids:population":163676,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.DG"
+    },
     "wof:country":"PH",
     "wof:created":1474495690,
-    "wof:geomhash":"135a5de560aa935798a5b38e20411b9e",
+    "wof:geomhash":"e8424b2a1d8ed7b01edba6d2dd560858",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697425,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Dagupan City",
     "wof:parent_id":85676365,
     "wof:placetype":"county",

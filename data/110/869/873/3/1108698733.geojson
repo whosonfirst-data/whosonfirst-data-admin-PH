@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001666,
-    "geom:area_square_m":19949842.363878,
+    "geom:area_square_m":19949881.387491,
     "geom:bbox":"121.364532,14.340702,121.52684,14.401442",
     "geom:latitude":14.373906,
     "geom:longitude":121.42578,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.PK",
+    "statoids:name":"Pakil",
+    "statoids:population":20822,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.PK"
+    },
     "wof:country":"PH",
     "wof:created":1474496579,
-    "wof:geomhash":"ec1299d032d4740fce2b35d6ad888274",
+    "wof:geomhash":"dcb1a55deb3d84a0abedc9619bd7e873",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698733,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pakil",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032986,
-    "geom:area_square_m":406194251.984074,
+    "geom:area_square_m":406194293.187726,
     "geom:bbox":"119.808723,5.047861,120.253754,5.352083",
     "geom:latitude":5.208435,
     "geom:longitude":120.052316,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TT.BN",
+    "statoids:name":"Bongao",
+    "statoids:population":79362,
+    "statoids:statoid":"PH.TT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TT.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495282,
-    "wof:geomhash":"48432e38c2b607cf2bd2c40563f01f86",
+    "wof:geomhash":"64364e8ab6447002c6be3d5c6ea3b0fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696841,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Balimbing",
     "wof:parent_id":85675929,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026852,
-    "geom:area_square_m":324267983.13436,
+    "geom:area_square_m":324268080.338416,
     "geom:bbox":"124.567662,12.281897,124.750913,12.521459",
     "geom:latitude":12.41442,
     "geom:longitude":124.646593,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.CT",
+    "statoids:name":"Catubig",
+    "statoids:population":31723,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495611,
-    "wof:geomhash":"2b1d753a3428362f420b7070b48a1b35",
+    "wof:geomhash":"c80d9a54bbb25f4abc6c31b7bee7fcbb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108697327,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Catarman",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

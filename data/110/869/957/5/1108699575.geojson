@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013569,
-    "geom:area_square_m":160466459.794502,
+    "geom:area_square_m":160466155.6217,
     "geom:bbox":"120.462914,16.922589,120.651657,17.052307",
     "geom:latitude":16.976775,
     "geom:longitude":120.549778,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SY",
+    "statoids:name":"Suyo",
+    "statoids:population":10622,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SY"
+    },
     "wof:country":"PH",
     "wof:created":1474497191,
-    "wof:geomhash":"bfdaec815f20c4d8051ea8e8accfaae9",
+    "wof:geomhash":"4317419f90956d1e734631a9a88316bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108699575,
-    "wof:lastmodified":1627522512,
+    "wof:lastmodified":1694492715,
     "wof:name":"Suyo",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

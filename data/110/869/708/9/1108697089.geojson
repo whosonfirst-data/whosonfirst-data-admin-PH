@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013519,
-    "geom:area_square_m":160774965.358078,
+    "geom:area_square_m":160774489.561745,
     "geom:bbox":"120.11157,15.774398,120.249559,15.99698",
     "geom:latitude":15.899404,
     "geom:longitude":120.178596,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BG",
+    "statoids:name":"Bugallon",
+    "statoids:population":64253,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495452,
-    "wof:geomhash":"e5f300ef25cf7f1ed49dc49cfa5d3dfb",
+    "wof:geomhash":"08187a154455353aa13209907fd847ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697089,
-    "wof:lastmodified":1628266633,
+    "wof:lastmodified":1694492834,
     "wof:name":"Bugallon",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

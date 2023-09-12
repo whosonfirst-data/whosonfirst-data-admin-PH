@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086397,
-    "geom:area_square_m":1016585003.611305,
+    "geom:area_square_m":1016585069.526505,
     "geom:bbox":"121.707264,17.794493,122.187889,18.006758",
     "geom:latitude":17.903823,
     "geom:longitude":121.952303,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.BG",
+    "statoids:name":"Baggao",
+    "statoids:population":78188,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495242,
-    "wof:geomhash":"0cc22574d31f112218fcfee1c1495d2c",
+    "wof:geomhash":"b9bbdf381235718b27f802fef799e203",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696785,
-    "wof:lastmodified":1626127509,
+    "wof:lastmodified":1694492570,
     "wof:name":"Baggao",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

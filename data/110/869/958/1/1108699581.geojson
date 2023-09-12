@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00776,
-    "geom:area_square_m":93365324.003046,
+    "geom:area_square_m":93365290.106159,
     "geom:bbox":"123.587636,13.254336,123.740448,13.381675",
     "geom:latitude":13.325335,
     "geom:longitude":123.668969,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.TB",
+    "statoids:name":"Tabaco, City of",
+    "statoids:population":125083,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497195,
-    "wof:geomhash":"ff34b95c29a5ca863b55596b5da70f20",
+    "wof:geomhash":"bdeb01297c1b510f5d73e710df5946d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108699581,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Tabaco",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016294,
-    "geom:area_square_m":199660082.368083,
+    "geom:area_square_m":199660157.369208,
     "geom:bbox":"124.847492,7.635319,125.068579,7.786494",
     "geom:latitude":7.698064,
     "geom:longitude":124.933115,
@@ -151,16 +151,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.DC",
+    "statoids:name":"Don Carlos",
+    "statoids:population":64334,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.DC"
+    },
     "wof:country":"PH",
     "wof:created":1474495753,
-    "wof:geomhash":"bdf5ba7b0d79b98983df48639ca2513b",
+    "wof:geomhash":"9ba0372253deeb65887c7215ee2ff7ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +180,7 @@
         }
     ],
     "wof:id":1108697521,
-    "wof:lastmodified":1626127448,
+    "wof:lastmodified":1694492559,
     "wof:name":"Don Carlos",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028849,
-    "geom:area_square_m":347134591.104761,
+    "geom:area_square_m":347134669.134192,
     "geom:bbox":"120.819616,13.18771,121.077739,13.456182",
     "geom:latitude":13.314227,
     "geom:longitude":120.954854,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.ST",
+    "statoids:name":"San Teodoro",
+    "statoids:population":15810,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.ST"
+    },
     "wof:country":"PH",
     "wof:created":1474497012,
-    "wof:geomhash":"4851b86141d913932bd96a30b0a2d0df",
+    "wof:geomhash":"7648f417a7ebfee174a5c563abee0453",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108699319,
-    "wof:lastmodified":1626127448,
+    "wof:lastmodified":1694492560,
     "wof:name":"San Teodoro",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009586,
-    "geom:area_square_m":116225126.278751,
+    "geom:area_square_m":116224956.672182,
     "geom:bbox":"123.025848,11.256382,123.139682,11.39338",
     "geom:latitude":11.330562,
     "geom:longitude":123.074013,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.SD",
+    "statoids:name":"San Dionisio",
+    "statoids:population":33650,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.SD"
+    },
     "wof:country":"PH",
     "wof:created":1474496881,
-    "wof:geomhash":"273aea2925275316380522341e0b24fa",
+    "wof:geomhash":"da94197ff01a48b728d6a8b4ce3ed845",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699129,
-    "wof:lastmodified":1626127484,
+    "wof:lastmodified":1694492566,
     "wof:name":"San Dionisio",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

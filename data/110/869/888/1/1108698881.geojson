@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009888,
-    "geom:area_square_m":119825866.915826,
+    "geom:area_square_m":119825472.195168,
     "geom:bbox":"122.936242,11.393039,123.101088,11.546524",
     "geom:latitude":11.466162,
     "geom:longitude":123.019292,
@@ -121,16 +121,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.PL",
+    "statoids:name":"Pilar",
+    "statoids:population":41572,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496681,
-    "wof:geomhash":"96349b35f556cf7b29567c5ab0df20e6",
+    "wof:geomhash":"99010bc00e1ba6fe169110411ee35fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +150,7 @@
         }
     ],
     "wof:id":1108698881,
-    "wof:lastmodified":1636501019,
+    "wof:lastmodified":1694492932,
     "wof:name":"Pilar",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

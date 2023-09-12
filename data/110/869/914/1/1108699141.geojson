@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007101,
-    "geom:area_square_m":84347383.613787,
+    "geom:area_square_m":84347261.600045,
     "geom:bbox":"120.373904,16.082261,120.479855,16.207358",
     "geom:latitude":16.137952,
     "geom:longitude":120.431348,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.SF",
+    "statoids:name":"San Fabian",
+    "statoids:population":77899,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.SF"
+    },
     "wof:country":"PH",
     "wof:created":1474496888,
-    "wof:geomhash":"0c3e801b0ab515ad26e3a65f2d08392d",
+    "wof:geomhash":"4be3e5c14468afb2cb7a19bd224f27ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699141,
-    "wof:lastmodified":1628266711,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Fabian",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002449,
-    "geom:area_square_m":29110803.413281,
+    "geom:area_square_m":29110561.088845,
     "geom:bbox":"120.41343,15.97402,120.50652,16.043365",
     "geom:latitude":16.009048,
     "geom:longitude":120.458546,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.SB",
+    "statoids:name":"Santa Barbara",
+    "statoids:population":76637,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474496322,
-    "wof:geomhash":"b0c37ae5ce07341d99f016a0d8a6d0c6",
+    "wof:geomhash":"765d0f518cbcc637452e8e0d335e8c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698373,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mapandan",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027796,
-    "geom:area_square_m":337574440.821488,
+    "geom:area_square_m":337574562.865516,
     "geom:bbox":"123.244815,10.642023,123.525444,10.961161",
     "geom:latitude":10.839501,
     "geom:longitude":123.385269,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.CL",
+    "statoids:name":"Calatrava",
+    "statoids:population":79009,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474496835,
-    "wof:geomhash":"f7ca10e2b2445d6770af623dfbd2973c",
+    "wof:geomhash":"10640c1555a00f284accea809373fc41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699073,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694492881,
     "wof:name":"Sagay",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

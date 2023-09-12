@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01478,
-    "geom:area_square_m":180050851.932917,
+    "geom:area_square_m":180050911.424288,
     "geom:bbox":"122.959416,9.794585,123.151222,9.946703",
     "geom:latitude":9.873329,
     "geom:longitude":123.065256,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.AU",
+    "statoids:name":"Ayungon",
+    "statoids:population":46146,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.AU"
+    },
     "wof:country":"PH",
     "wof:created":1474495206,
-    "wof:geomhash":"beb2bbc8e3daca9ea2fe424a3de2f81a",
+    "wof:geomhash":"3766bbfa66895553117439b8b6ec889d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696729,
-    "wof:lastmodified":1626127459,
+    "wof:lastmodified":1694492561,
     "wof:name":"Ayungon",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

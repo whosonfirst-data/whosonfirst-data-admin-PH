@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01647,
-    "geom:area_square_m":198468787.484406,
+    "geom:area_square_m":198468902.626648,
     "geom:bbox":"123.7439,12.865389,123.889072,13.042272",
     "geom:latitude":12.955234,
     "geom:longitude":123.8166,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.CS",
+    "statoids:name":"Castilla",
+    "statoids:population":52903,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.CS"
+    },
     "wof:country":"PH",
     "wof:created":1474495603,
-    "wof:geomhash":"018d0b71abf9ffed059913a084b2b9d4",
+    "wof:geomhash":"397163eea33c43fe539dbd390c58ce76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697315,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Castilla",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

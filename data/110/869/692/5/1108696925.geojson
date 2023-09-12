@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003009,
-    "geom:area_square_m":34862794.233305,
+    "geom:area_square_m":34862785.155339,
     "geom:bbox":"121.953697,20.425157,122.033752,20.492056",
     "geom:latitude":20.46175,
     "geom:longitude":121.991295,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BN.BS",
+    "statoids:name":"Basco",
+    "statoids:population":7907,
+    "statoids:statoid":"PH.BN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BN.BS"
+    },
     "wof:country":"PH",
     "wof:created":1474495336,
-    "wof:geomhash":"94eff6cf41023c66514e3621914b6558",
+    "wof:geomhash":"769e807dbbf14fb7f7aaf9848844bb9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108696925,
-    "wof:lastmodified":1626127477,
+    "wof:lastmodified":1694492564,
     "wof:name":"Basco",
     "wof:parent_id":85676043,
     "wof:placetype":"county",

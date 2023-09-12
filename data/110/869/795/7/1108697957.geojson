@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010005,
-    "geom:area_square_m":122543827.506138,
+    "geom:area_square_m":122543756.458034,
     "geom:bbox":"123.314091,7.820375,123.551372,7.970175",
     "geom:latitude":7.897135,
     "geom:longitude":123.446814,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.PG",
+    "statoids:name":"Pagadian City",
+    "statoids:population":186852,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496040,
-    "wof:geomhash":"c05500443c6b6fa45c66c12ccbbe3c55",
+    "wof:geomhash":"f3fee5d853e4eb04391400855566cdd5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697957,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694492858,
     "wof:name":"Labangan",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

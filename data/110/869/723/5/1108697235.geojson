@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012157,
-    "geom:area_square_m":146393826.368414,
+    "geom:area_square_m":146393990.30858,
     "geom:bbox":"123.559301,13.056378,123.692864,13.254434",
     "geom:latitude":13.136132,
     "geom:longitude":123.642307,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.CM",
+    "statoids:name":"Camalig",
+    "statoids:population":63585,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.CM"
+    },
     "wof:country":"PH",
     "wof:created":1474495548,
-    "wof:geomhash":"e450ecf15a73f0c4d72fb8cdc1a77263",
+    "wof:geomhash":"f57d797e739ab3fba05c6b19c2f1e749",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697235,
-    "wof:lastmodified":1626127488,
+    "wof:lastmodified":1694492566,
     "wof:name":"Camalig",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

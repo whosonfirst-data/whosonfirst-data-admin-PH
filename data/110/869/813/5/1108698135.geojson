@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016378,
-    "geom:area_square_m":195710304.884193,
+    "geom:area_square_m":195710747.158061,
     "geom:bbox":"120.493114,14.805721,120.637664,14.987424",
     "geom:latitude":14.898871,
     "geom:longitude":120.571959,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.LB",
+    "statoids:name":"Lubao",
+    "statoids:population":150843,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496163,
-    "wof:geomhash":"42c3d5cdec6bc33986324afde65edbe5",
+    "wof:geomhash":"b4cd2424b9ac874d25e71fc2246964d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108698135,
-    "wof:lastmodified":1636501036,
+    "wof:lastmodified":1694492935,
     "wof:name":"Lubao",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

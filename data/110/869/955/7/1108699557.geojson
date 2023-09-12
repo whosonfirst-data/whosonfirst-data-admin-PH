@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004705,
-    "geom:area_square_m":57792239.544702,
+    "geom:area_square_m":57792118.098951,
     "geom:bbox":"125.269283,6.594911,125.388748,6.648431",
     "geom:latitude":6.623046,
     "geom:longitude":125.323594,
@@ -52,10 +52,12 @@
         85676253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DS.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474497178,
-    "wof:geomhash":"2c5f508ab9f3be737b79189b65d8b376",
+    "wof:geomhash":"014d1ebd2d425785209a1bd03068d783",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108699557,
-    "wof:lastmodified":1628266721,
+    "wof:lastmodified":1694492887,
     "wof:name":"Sulop",
     "wof:parent_id":85676253,
     "wof:placetype":"county",

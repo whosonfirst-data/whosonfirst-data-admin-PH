@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016991,
-    "geom:area_square_m":204184245.930669,
+    "geom:area_square_m":204184260.959306,
     "geom:bbox":"124.141269,13.517917,124.263894,13.737824",
     "geom:latitude":13.630442,
     "geom:longitude":124.198602,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CT.VR",
+    "statoids:name":"Virac",
+    "statoids:population":66951,
+    "statoids:statoid":"PH.CT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CT.VR"
+    },
     "wof:country":"PH",
     "wof:created":1474497398,
-    "wof:geomhash":"6185c8594e62e2ba6bda96722e4e4563",
+    "wof:geomhash":"817135488287d797381096239767c8d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699885,
-    "wof:lastmodified":1626127535,
+    "wof:lastmodified":1694492574,
     "wof:name":"Virac",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007387,
-    "geom:area_square_m":89399362.361524,
+    "geom:area_square_m":89399839.527107,
     "geom:bbox":"124.14286,11.619555,124.893753,12.086223",
     "geom:latitude":11.843627,
     "geom:longitude":124.56266,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.TG",
+    "statoids:name":"Tagapul-an",
+    "statoids:population":7828,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474496525,
-    "wof:geomhash":"0072770ea9f4e3432cad6ef150260fd5",
+    "wof:geomhash":"a63dc3ab55704f3418473d0b23c7006a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698657,
-    "wof:lastmodified":1626127517,
+    "wof:lastmodified":1694492571,
     "wof:name":"Almagro",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

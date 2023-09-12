@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004979,
-    "geom:area_square_m":58943534.592985,
+    "geom:area_square_m":58943487.253067,
     "geom:bbox":"120.323723,16.75684,120.458905,16.85004",
     "geom:latitude":16.799919,
     "geom:longitude":120.404234,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.BL",
+    "statoids:name":"Balaoan",
+    "statoids:population":37910,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495264,
-    "wof:geomhash":"709fc26c5896544ff8c741ad0c78f688",
+    "wof:geomhash":"9ef1b3c7e3e5ae0a4919ad25a92b6f88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696813,
-    "wof:lastmodified":1626127460,
+    "wof:lastmodified":1694492562,
     "wof:name":"Balaoan",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

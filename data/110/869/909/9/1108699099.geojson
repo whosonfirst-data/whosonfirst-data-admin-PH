@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008131,
-    "geom:area_square_m":97474848.947114,
+    "geom:area_square_m":97474623.446001,
     "geom:bbox":"121.559516,14.138444,121.692309,14.235871",
     "geom:latitude":14.184231,
     "geom:longitude":121.635524,
@@ -79,6 +79,14 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.SM",
+    "statoids:name":"Sampaloc",
+    "statoids:population":13107,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -86,11 +94,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"PH.QZ.SM",
         "wd:id":"Q3545565"
     },
     "wof:country":"PH",
     "wof:created":1474496856,
-    "wof:geomhash":"325713d6b3259b4c498dcd2bf9a04c8f",
+    "wof:geomhash":"fb841d5c4b22e3479f4b08fead7d617d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":1108699099,
-    "wof:lastmodified":1690851368,
+    "wof:lastmodified":1694492715,
     "wof:name":"Sampaloc",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

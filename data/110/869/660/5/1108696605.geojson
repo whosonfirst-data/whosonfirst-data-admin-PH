@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00361,
-    "geom:area_square_m":42947216.390154,
+    "geom:area_square_m":42947147.601042,
     "geom:bbox":"120.476873,15.814971,120.582469,15.872444",
     "geom:latitude":15.838839,
     "geom:longitude":120.529096,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.AC",
+    "statoids:name":"Alcala",
+    "statoids:population":41077,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.AC"
+    },
     "wof:country":"PH",
     "wof:created":1474495124,
-    "wof:geomhash":"9cd067c1080d44fd637f2197e9f0e4af",
+    "wof:geomhash":"1ab0f77adc584403e76d7cb794180816",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696605,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694492826,
     "wof:name":"Alcala",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003983,
-    "geom:area_square_m":48051571.5153,
+    "geom:area_square_m":48051431.420156,
     "geom:bbox":"124.040005,12.613641,124.132919,12.694472",
     "geom:latitude":12.655766,
     "geom:longitude":124.086588,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.SM",
+    "statoids:name":"Santa Magdalena",
+    "statoids:population":16520,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474497049,
-    "wof:geomhash":"57297f5631552ccb3ee27af40c94933b",
+    "wof:geomhash":"7dbb6b326312ba42cbcdcaf3402af5b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699375,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694492882,
     "wof:name":"Santa Magdalena",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

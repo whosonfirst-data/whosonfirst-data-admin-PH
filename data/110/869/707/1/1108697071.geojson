@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020035,
-    "geom:area_square_m":245326042.602166,
+    "geom:area_square_m":245325704.32385,
     "geom:bbox":"124.35425,7.914159,124.620137,8.090587",
     "geom:latitude":8.005328,
     "geom:longitude":124.514132,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.BB",
+    "statoids:name":"Bubong",
+    "statoids:population":19455,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.BB"
+    },
     "wof:country":"PH",
     "wof:created":1474495440,
-    "wof:geomhash":"710952f03cd9a1c291b1999170388725",
+    "wof:geomhash":"02d4308da8c7455bacef16998b6d8ed3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697071,
-    "wof:lastmodified":1628266633,
+    "wof:lastmodified":1694492834,
     "wof:name":"Bubong",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

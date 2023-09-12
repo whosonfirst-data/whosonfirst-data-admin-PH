@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010163,
-    "geom:area_square_m":120786990.564387,
+    "geom:area_square_m":120786973.174895,
     "geom:bbox":"119.747887,15.941952,119.932354,16.094509",
     "geom:latitude":16.024443,
     "geom:longitude":119.833174,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BR",
+    "statoids:name":"Burgos",
+    "statoids:population":18315,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495709,
-    "wof:geomhash":"1a8a80325e6a37696dc5cf276beccb3f",
+    "wof:geomhash":"5471b9bf94165d09a73e9cf8fc3badec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697455,
-    "wof:lastmodified":1626127534,
+    "wof:lastmodified":1694492574,
     "wof:name":"Dasol",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

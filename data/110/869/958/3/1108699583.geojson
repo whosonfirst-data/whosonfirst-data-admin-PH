@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006378,
-    "geom:area_square_m":77335766.420213,
+    "geom:area_square_m":77335647.872981,
     "geom:bbox":"124.334587,11.240262,124.452847,11.366281",
     "geom:latitude":11.311749,
     "geom:longitude":124.38697,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.TB",
+    "statoids:name":"Tabango",
+    "statoids:population":31932,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497197,
-    "wof:geomhash":"bbc227e89ae85d9ff93753135ce44792",
+    "wof:geomhash":"827f02159c9ef96ac03ea1ae70f01f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699583,
-    "wof:lastmodified":1628266722,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tabango",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

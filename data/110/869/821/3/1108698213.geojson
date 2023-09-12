@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004691,
-    "geom:area_square_m":57105642.207411,
+    "geom:area_square_m":57105438.89828,
     "geom:bbox":"124.895047,10.030624,125.003092,10.130228",
     "geom:latitude":10.085691,
     "geom:longitude":124.951152,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.MC",
+    "statoids:name":"Macrohon",
+    "statoids:population":25386,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.MC"
+    },
     "wof:country":"PH",
     "wof:created":1474496215,
-    "wof:geomhash":"352ecb673f80b5bb31e14fc556fa7033",
+    "wof:geomhash":"1c51bf673a1e8c837e01e73ccd6f5608",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698213,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Macrohon",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

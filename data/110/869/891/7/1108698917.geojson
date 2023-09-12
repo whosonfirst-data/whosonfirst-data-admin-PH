@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006458,
-    "geom:area_square_m":78734575.19901,
+    "geom:area_square_m":78734461.4197,
     "geom:bbox":"125.45345,9.601528,125.634141,9.676914",
     "geom:latitude":9.631636,
     "geom:longitude":125.556152,
@@ -76,10 +76,12 @@
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SN.PA"
+    },
     "wof:country":"PH",
     "wof:created":1474496705,
-    "wof:geomhash":"887aefd982ed0352efb82933c3cd2e2d",
+    "wof:geomhash":"81c10047bf6ae17c3004625aaa2790de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":1108698917,
-    "wof:lastmodified":1626127518,
+    "wof:lastmodified":1694492571,
     "wof:name":"Placer",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008605,
-    "geom:area_square_m":101508917.944628,
+    "geom:area_square_m":101508886.083781,
     "geom:bbox":"120.890622,17.396015,121.002158,17.511826",
     "geom:latitude":17.448943,
     "geom:longitude":120.951944,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.DG",
+    "statoids:name":"Daguioman",
+    "statoids:population":1715,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.DG"
+    },
     "wof:country":"PH",
     "wof:created":1474495688,
-    "wof:geomhash":"9a2c425516514c80d49018e21012394b",
+    "wof:geomhash":"d520efdaab2616c49198e9def2ad5fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697423,
-    "wof:lastmodified":1626127533,
+    "wof:lastmodified":1694492573,
     "wof:name":"Daguioman",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

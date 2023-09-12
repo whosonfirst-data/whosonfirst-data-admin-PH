@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003065,
-    "geom:area_square_m":36726696.955703,
+    "geom:area_square_m":36726949.93645,
     "geom:bbox":"121.411533,14.220315,121.496767,14.285374",
     "geom:latitude":14.254174,
     "geom:longitude":121.452841,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.PG",
+    "statoids:name":"Pagsanjan",
+    "statoids:population":39313,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496578,
-    "wof:geomhash":"10b26086ebe09f9faea4f5de2885ddc5",
+    "wof:geomhash":"2ff64ac53ccc9e3a9b20912b39fd9399",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698731,
-    "wof:lastmodified":1626127463,
+    "wof:lastmodified":1694492562,
     "wof:name":"Pagsanjan",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

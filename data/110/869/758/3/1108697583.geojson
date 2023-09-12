@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008384,
-    "geom:area_square_m":98608352.45328,
+    "geom:area_square_m":98608243.296484,
     "geom:bbox":"120.598516,17.916771,120.720746,18.024011",
     "geom:latitude":17.969959,
     "geom:longitude":120.657083,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.BN",
+    "statoids:name":"Banna (Espiritu)",
+    "statoids:population":19051,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495795,
-    "wof:geomhash":"5ce4e27f9931c5354f086e4d1ce673c3",
+    "wof:geomhash":"80a78f434be3d8bcf72bc26fc9ff8fef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697583,
-    "wof:lastmodified":1628266648,
+    "wof:lastmodified":1694492844,
     "wof:name":"Espiritu",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

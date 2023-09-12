@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015941,
-    "geom:area_square_m":191805221.19538,
+    "geom:area_square_m":191805094.674541,
     "geom:bbox":"121.969425,13.208359,122.149559,13.42446",
     "geom:latitude":13.332869,
     "geom:longitude":122.043617,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MQ.TR",
+    "statoids:name":"Torrijos",
+    "statoids:population":29366,
+    "statoids:statoid":"PH.MQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676149
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MQ.TR"
+    },
     "wof:country":"PH",
     "wof:created":1474497311,
-    "wof:geomhash":"06269a3c3a401ffb12840581fa553b29",
+    "wof:geomhash":"9fa0086f8d92ffc762550448ad305ab6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108699757,
-    "wof:lastmodified":1626127537,
+    "wof:lastmodified":1694492574,
     "wof:name":"Torrijos",
     "wof:parent_id":85676149,
     "wof:placetype":"county",

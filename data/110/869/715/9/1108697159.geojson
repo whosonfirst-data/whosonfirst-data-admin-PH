@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020623,
-    "geom:area_square_m":252473248.814622,
+    "geom:area_square_m":252473572.904112,
     "geom:bbox":"125.223481,7.992371,125.397564,8.159581",
     "geom:latitude":8.081262,
     "geom:longitude":125.31675,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.CB",
+    "statoids:name":"Cabanglasan",
+    "statoids:population":32427,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.CB"
+    },
     "wof:country":"PH",
     "wof:created":1474495498,
-    "wof:geomhash":"58f30894116a0f654de280da3338a5ac",
+    "wof:geomhash":"e3978c8d127399b2e4f90004a078591e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697159,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cabanglasan",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006279,
-    "geom:area_square_m":76236957.345092,
+    "geom:area_square_m":76236769.120698,
     "geom:bbox":"122.653861,10.867267,122.777916,10.948086",
     "geom:latitude":10.907212,
     "geom:longitude":122.711583,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.BN",
+    "statoids:name":"Barotac Nuevo",
+    "statoids:population":51867,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495330,
-    "wof:geomhash":"737b31a229edbb4afb52ea229c39cd43",
+    "wof:geomhash":"e34eda7bd3446146d7ae62910a8822a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108696915,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Barotac Nuevo",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

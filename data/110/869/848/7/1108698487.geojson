@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012578,
-    "geom:area_square_m":151970469.621364,
+    "geom:area_square_m":151970366.825584,
     "geom:bbox":"123.59771,12.201634,123.734439,12.35125",
     "geom:latitude":12.277911,
     "geom:longitude":123.661737,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.MB",
+    "statoids:name":"Mobo",
+    "statoids:population":34896,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.MB"
+    },
     "wof:country":"PH",
     "wof:created":1474496410,
-    "wof:geomhash":"d160d56f7f8a58de712c75e9699ffb0c",
+    "wof:geomhash":"11a3b2a2bdce2a52caf9f0351d445f55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108698487,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Mobo",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

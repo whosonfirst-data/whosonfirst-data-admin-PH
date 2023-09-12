@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005594,
-    "geom:area_square_m":66619359.981405,
+    "geom:area_square_m":66619543.87695,
     "geom:bbox":"120.838012,15.550825,120.91702,15.674627",
     "geom:latitude":15.620768,
     "geom:longitude":120.873594,
@@ -343,16 +343,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.SD",
+    "statoids:name":"Santo Domingo",
+    "statoids:population":50983,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.SD"
+    },
     "wof:country":"PH",
     "wof:created":1474497080,
-    "wof:geomhash":"03a5107215fae724f84259dd3713ae61",
+    "wof:geomhash":"410603b13c93e517e80b2f9fce0390aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -362,7 +372,7 @@
         }
     ],
     "wof:id":1108699421,
-    "wof:lastmodified":1626127530,
+    "wof:lastmodified":1694492573,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

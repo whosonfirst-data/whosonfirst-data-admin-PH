@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014674,
-    "geom:area_square_m":179927985.860035,
+    "geom:area_square_m":179927903.412777,
     "geom:bbox":"125.727541,7.313722,125.838271,7.538155",
     "geom:latitude":7.433452,
     "geom:longitude":125.785434,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DV.TG",
+    "statoids:name":"Tagum, City of",
+    "statoids:population":242801,
+    "statoids:statoid":"PH.DV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DV.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474497222,
-    "wof:geomhash":"e7f385937f8d5e67ef14535085f1b6fd",
+    "wof:geomhash":"610202ea705e5442e6e2509766c6acd8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108699621,
-    "wof:lastmodified":1636501015,
+    "wof:lastmodified":1694492932,
     "wof:name":"Tagum",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

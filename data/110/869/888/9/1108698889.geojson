@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02248,
-    "geom:area_square_m":270188914.678964,
+    "geom:area_square_m":270188979.724504,
     "geom:bbox":"123.225371,13.51689,123.472498,13.665629",
     "geom:latitude":13.585272,
     "geom:longitude":123.34074,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.OA",
+    "statoids:name":"Ocampo",
+    "statoids:population":43523,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.OA"
+    },
     "wof:country":"PH",
     "wof:created":1474496686,
-    "wof:geomhash":"705c053a31b3d7fb4833e9fcc93d42a9",
+    "wof:geomhash":"57692daa4dd674f9182b2a1337266113",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108698889,
-    "wof:lastmodified":1626127468,
+    "wof:lastmodified":1694492563,
     "wof:name":"Pili",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

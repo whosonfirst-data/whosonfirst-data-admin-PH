@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03116,
-    "geom:area_square_m":370126984.523624,
+    "geom:area_square_m":370127054.447107,
     "geom:bbox":"121.052445,15.959426,121.286005,16.32579",
     "geom:latitude":16.134806,
     "geom:longitude":121.182093,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.DS",
+    "statoids:name":"Dupax del Sur",
+    "statoids:population":18146,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.DS"
+    },
     "wof:country":"PH",
     "wof:created":1474495776,
-    "wof:geomhash":"767bddbbb4f0e349779d1a87d709f883",
+    "wof:geomhash":"a056b34c19de39ad6e6a14e72255b029",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697555,
-    "wof:lastmodified":1628266645,
+    "wof:lastmodified":1694492842,
     "wof:name":"Dupax Del Sur",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003045,
-    "geom:area_square_m":36978009.385942,
+    "geom:area_square_m":36978090.729712,
     "geom:bbox":"122.593576,10.793401,122.650667,10.882066",
     "geom:latitude":10.837888,
     "geom:longitude":122.620197,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.ZR",
+    "statoids:name":"Zarraga",
+    "statoids:population":23693,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.ZR"
+    },
     "wof:country":"PH",
     "wof:created":1474497405,
-    "wof:geomhash":"685586d6c3101b5316dd380d9a03fe91",
+    "wof:geomhash":"86971e97ebc4cba31a415e5eacd739ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699897,
-    "wof:lastmodified":1628266749,
+    "wof:lastmodified":1694492897,
     "wof:name":"Zarraga",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

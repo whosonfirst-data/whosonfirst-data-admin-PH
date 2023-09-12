@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026968,
-    "geom:area_square_m":330372275.828713,
+    "geom:area_square_m":330372360.284817,
     "geom:bbox":"123.859039,7.693695,124.061886,7.907103",
     "geom:latitude":7.810097,
     "geom:longitude":123.96164,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.NN",
+    "statoids:name":"Nunungan",
+    "statoids:population":16304,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.NN"
+    },
     "wof:country":"PH",
     "wof:created":1474496543,
-    "wof:geomhash":"fa2d919f2951f900028f3d5bbbab1a39",
+    "wof:geomhash":"b8e92534c0b3de350e53ad157c80016f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698683,
-    "wof:lastmodified":1628266693,
+    "wof:lastmodified":1694492871,
     "wof:name":"Nunungan",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

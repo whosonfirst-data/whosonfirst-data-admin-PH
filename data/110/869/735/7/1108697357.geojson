@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008284,
-    "geom:area_square_m":101387452.091362,
+    "geom:area_square_m":101387583.824152,
     "geom:bbox":"123.658806,8.160256,123.867058,8.232682",
     "geom:latitude":8.19631,
     "geom:longitude":123.75309,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.CA",
+    "statoids:name":"Clarin",
+    "statoids:population":35573,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495636,
-    "wof:geomhash":"d24e42d3ddb5e70e64f43cf2dd1103d6",
+    "wof:geomhash":"26c2776af5f554976684f5287870689d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108697357,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Clarin",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

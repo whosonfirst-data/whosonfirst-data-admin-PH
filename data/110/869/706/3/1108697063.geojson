@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035746,
-    "geom:area_square_m":437803186.696671,
+    "geom:area_square_m":437803230.935162,
     "geom:bbox":"126.14973,7.813662,126.399139,7.999508",
     "geom:latitude":7.910285,
     "geom:longitude":126.272744,
@@ -487,16 +487,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.BS",
+    "statoids:name":"Boston",
+    "statoids:population":12670,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.BS"
+    },
     "wof:country":"PH",
     "wof:created":1474495436,
-    "wof:geomhash":"cd070a967caa65f32094ef87a269f943",
+    "wof:geomhash":"58b7aefc9ab8b9237ede8a1ff4f9ad34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -506,7 +516,7 @@
         }
     ],
     "wof:id":1108697063,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Boston",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

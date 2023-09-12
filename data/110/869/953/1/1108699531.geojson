@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016836,
-    "geom:area_square_m":204721627.331821,
+    "geom:area_square_m":204721520.336803,
     "geom:bbox":"124.923339,10.371257,125.074947,10.530454",
     "geom:latitude":10.45566,
     "geom:longitude":124.997822,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.SG",
+    "statoids:name":"Sogod",
+    "statoids:population":41411,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474497160,
-    "wof:geomhash":"bb64ead76b55b210e733aaa3a737efbb",
+    "wof:geomhash":"75d213cdfca62c812dfcc1a2df8eaf3d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108699531,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Sogod",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

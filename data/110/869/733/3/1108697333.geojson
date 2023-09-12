@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008356,
-    "geom:area_square_m":101797064.021964,
+    "geom:area_square_m":101796944.421739,
     "geom:bbox":"123.967772,9.800363,124.101712,9.89043",
     "geom:latitude":9.843168,
     "geom:longitude":124.03568,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.CT",
+    "statoids:name":"Catigbian",
+    "statoids:population":22686,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495615,
-    "wof:geomhash":"ce551e35952bccc8e62e4352cab89771",
+    "wof:geomhash":"57812544285b95d1df54e469f001a5d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697333,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Catigbian",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

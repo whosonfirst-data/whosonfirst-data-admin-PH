@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015053,
-    "geom:area_square_m":179809989.835956,
+    "geom:area_square_m":179810272.430981,
     "geom:bbox":"121.799553,14.897201,121.971999,15.060445",
     "geom:latitude":14.982404,
     "geom:longitude":121.880827,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.PN",
+    "statoids:name":"Panukulan",
+    "statoids:population":12511,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496632,
-    "wof:geomhash":"f4c5a373710219400a3b692f58336172",
+    "wof:geomhash":"abc678860ace3449a1576a9019516b57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698805,
-    "wof:lastmodified":1626127463,
+    "wof:lastmodified":1694492562,
     "wof:name":"Panukulan",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008747,
-    "geom:area_square_m":107300291.10484,
+    "geom:area_square_m":107300294.75642,
     "geom:bbox":"124.159554,7.130064,124.336154,7.260725",
     "geom:latitude":7.197286,
     "geom:longitude":124.251711,
@@ -121,16 +121,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MG.CT",
+    "statoids:name":"Cotabato City",
+    "statoids:population":271786,
+    "statoids:statoid":"PH.MG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676305
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MG.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474496529,
-    "wof:geomhash":"2bc5d1e337202e1266c32b722f8197ea",
+    "wof:geomhash":"2d53e6ffa8196a8e861cf2e18b7ff355",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +150,7 @@
         }
     ],
     "wof:id":1108698663,
-    "wof:lastmodified":1626127469,
+    "wof:lastmodified":1694492563,
     "wof:name":"Cotabato City",
     "wof:parent_id":85676305,
     "wof:placetype":"county",

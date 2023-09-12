@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081066,
-    "geom:area_square_m":991426113.764513,
+    "geom:area_square_m":991426495.853493,
     "geom:bbox":"125.248049,8.394584,125.833962,8.565317",
     "geom:latitude":8.485476,
     "geom:longitude":125.518569,
@@ -154,16 +154,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.SL",
+    "statoids:name":"San Luis",
+    "statoids:population":32733,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474496953,
-    "wof:geomhash":"7e3f8d5579b65aa2964210163493c6bc",
+    "wof:geomhash":"cce03945b7fd656f44c04ccc87edcc01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +183,7 @@
         }
     ],
     "wof:id":1108699237,
-    "wof:lastmodified":1636501024,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Luis",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

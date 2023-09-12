@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00811,
-    "geom:area_square_m":98821037.714421,
+    "geom:area_square_m":98820892.196227,
     "geom:bbox":"123.782059,9.735997,123.89397,9.885417",
     "geom:latitude":9.811217,
     "geom:longitude":123.830299,
@@ -163,16 +163,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.LO",
+    "statoids:name":"Loon",
+    "statoids:population":42800,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.LO"
+    },
     "wof:country":"PH",
     "wof:created":1474496151,
-    "wof:geomhash":"19821f3d23a5b2deb5029b9c971b3829",
+    "wof:geomhash":"f883b7d0c4e18c25f148353525521e69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +192,7 @@
         }
     ],
     "wof:id":1108698117,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Loon",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

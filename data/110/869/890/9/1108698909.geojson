@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010701,
-    "geom:area_square_m":128901096.408808,
+    "geom:area_square_m":128901225.626452,
     "geom:bbox":"123.387593,12.988221,123.549239,13.115745",
     "geom:latitude":13.059679,
     "geom:longitude":123.467599,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.PO",
+    "statoids:name":"Pio Duran",
+    "statoids:population":45028,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.PO"
+    },
     "wof:country":"PH",
     "wof:created":1474496699,
-    "wof:geomhash":"7540495be1cfbb651a5c40d59a057102",
+    "wof:geomhash":"1bccb65ad81ce46844ff83db5b7ea89e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698909,
-    "wof:lastmodified":1628266701,
+    "wof:lastmodified":1694492876,
     "wof:name":"Pio Duran",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

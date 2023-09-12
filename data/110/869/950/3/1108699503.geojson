@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007524,
-    "geom:area_square_m":92069403.24875,
+    "geom:area_square_m":92069666.458977,
     "geom:bbox":"123.660847,8.260021,123.848423,8.31306",
     "geom:latitude":8.284518,
     "geom:longitude":123.759813,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.SN",
+    "statoids:name":"Sinacaban",
+    "statoids:population":18597,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497139,
-    "wof:geomhash":"59a2a89b872770f17c0c6522f41b5da0",
+    "wof:geomhash":"03659885d67a39f0e63c3cc6b1e740eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699503,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694492884,
     "wof:name":"Sinacaban",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

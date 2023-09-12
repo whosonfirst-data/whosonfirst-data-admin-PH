@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004427,
-    "geom:area_square_m":53030794.444679,
+    "geom:area_square_m":53030577.940755,
     "geom:bbox":"121.470825,14.344645,121.580578,14.413476",
     "geom:latitude":14.371283,
     "geom:longitude":121.528815,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.PE",
+    "statoids:name":"Paete",
+    "statoids:population":23523,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.PE"
+    },
     "wof:country":"PH",
     "wof:created":1474496570,
-    "wof:geomhash":"05ad6f30aa0913fe8f9ce85e7cd022a5",
+    "wof:geomhash":"e97b01cbeaeb420e375cc2f4103e1f6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698721,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Paete",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006804,
-    "geom:area_square_m":82587860.382074,
+    "geom:area_square_m":82587959.167024,
     "geom:bbox":"122.596491,10.94524,122.715522,11.064157",
     "geom:latitude":11.004881,
     "geom:longitude":122.663745,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.DN",
+    "statoids:name":"Dingle",
+    "statoids:population":43290,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474495739,
-    "wof:geomhash":"37d7a7979162115043b1d00c491fb00b",
+    "wof:geomhash":"63c9998a1eaba93d29d70f5f504c3517",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108697501,
-    "wof:lastmodified":1626127501,
+    "wof:lastmodified":1694492568,
     "wof:name":"Dingle",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

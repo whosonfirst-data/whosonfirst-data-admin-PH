@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010802,
-    "geom:area_square_m":131070213.573378,
+    "geom:area_square_m":131069898.645458,
     "geom:bbox":"122.621023,11.032293,122.782367,11.173363",
     "geom:latitude":11.103179,
     "geom:longitude":122.709441,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.SE",
+    "statoids:name":"San Enrique",
+    "statoids:population":32422,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.SE"
+    },
     "wof:country":"PH",
     "wof:created":1474496884,
-    "wof:geomhash":"7348c6acb39982dde13a27728dc10c64",
+    "wof:geomhash":"56e9f6cbdab80f3908368c505c808984",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108699133,
-    "wof:lastmodified":1627522510,
+    "wof:lastmodified":1694492715,
     "wof:name":"San Enrique",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

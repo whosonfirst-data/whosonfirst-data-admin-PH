@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002362,
-    "geom:area_square_m":28376092.351279,
+    "geom:area_square_m":28376030.653576,
     "geom:bbox":"123.142878,13.665862,123.267229,13.704906",
     "geom:latitude":13.685893,
     "geom:longitude":123.207263,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.BM",
+    "statoids:name":"Bombon",
+    "statoids:population":15437,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.BM"
+    },
     "wof:country":"PH",
     "wof:created":1474495423,
-    "wof:geomhash":"61003d18800a5e2fdefe7b71ea2ad661",
+    "wof:geomhash":"42cff158216a40fb6dbda4ddf69eae22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108697043,
-    "wof:lastmodified":1626127501,
+    "wof:lastmodified":1694492568,
     "wof:name":"Bombon",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009881,
-    "geom:area_square_m":118665963.717591,
+    "geom:area_square_m":118665852.166774,
     "geom:bbox":"122.099596,13.714556,122.256825,13.839175",
     "geom:latitude":13.781243,
     "geom:longitude":122.169772,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.MC",
+    "statoids:name":"Macalelon",
+    "statoids:population":26419,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.MC"
+    },
     "wof:country":"PH",
     "wof:created":1474496209,
-    "wof:geomhash":"a4a63d943e4cda9f325355cd10b869bb",
+    "wof:geomhash":"092e3989ddd3f35f21becf53271571d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698205,
-    "wof:lastmodified":1626127461,
+    "wof:lastmodified":1694492562,
     "wof:name":"Macalelon",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

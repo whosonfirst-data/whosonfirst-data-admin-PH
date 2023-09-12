@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012696,
-    "geom:area_square_m":152678948.00516,
+    "geom:area_square_m":152679033.397339,
     "geom:bbox":"123.19641,13.370039,123.324797,13.526416",
     "geom:latitude":13.452507,
     "geom:longitude":123.258656,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.BU",
+    "statoids:name":"Bula",
+    "statoids:population":68011,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495460,
-    "wof:geomhash":"97f8a1f61c0f7bde62f52743667434e4",
+    "wof:geomhash":"114a72168908001098232f4569f4497b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697099,
-    "wof:lastmodified":1628266633,
+    "wof:lastmodified":1694492834,
     "wof:name":"Bula",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

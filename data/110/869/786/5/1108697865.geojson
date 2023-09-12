@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012485,
-    "geom:area_square_m":147931752.907685,
+    "geom:area_square_m":147931837.790886,
     "geom:bbox":"120.761853,16.555811,120.898973,16.67965",
     "geom:latitude":16.616535,
     "geom:longitude":120.832648,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.KA",
+    "statoids:name":"Kabayan",
+    "statoids:population":13588,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.KA"
+    },
     "wof:country":"PH",
     "wof:created":1474495980,
-    "wof:geomhash":"d1f4a0b6afc513c4c1dcd8eda034ca55",
+    "wof:geomhash":"4c424b769377634efe3b066d8a4adf5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697865,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Kabayan",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

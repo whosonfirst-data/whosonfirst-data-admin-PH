@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01166,
-    "geom:area_square_m":138656250.122425,
+    "geom:area_square_m":138656765.364519,
     "geom:bbox":"120.383906,15.842065,120.52457,15.961494",
     "geom:latitude":15.902747,
     "geom:longitude":120.451849,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.ML",
+    "statoids:name":"Malasiqui",
+    "statoids:population":123566,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496269,
-    "wof:geomhash":"7ef72f98949c7352de61471098c92832",
+    "wof:geomhash":"7782471e62f24331657de5db61f62178",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698297,
-    "wof:lastmodified":1626127461,
+    "wof:lastmodified":1694492562,
     "wof:name":"Malasiqui",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

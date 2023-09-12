@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014529,
-    "geom:area_square_m":172887947.052585,
+    "geom:area_square_m":172887868.539807,
     "geom:bbox":"120.915166,15.700669,121.067223,15.866712",
     "geom:latitude":15.780139,
     "geom:longitude":120.992938,
@@ -60,6 +60,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.SJ",
+    "statoids:name":"San Jose City",
+    "statoids:population":129424,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -68,6 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1689403,
+        "hasc:id":"PH.NE.SJ",
         "qs_pg:id":558681
     },
     "wof:country":"PH",
@@ -75,7 +84,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"19de1ec69d52a7655557ffcf0f23f7b8",
+    "wof:geomhash":"bdd460832f043d9b5807b76ee51b9d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890442461,
-    "wof:lastmodified":1628266712,
+    "wof:lastmodified":1694492882,
     "wof:name":"San Jose City",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

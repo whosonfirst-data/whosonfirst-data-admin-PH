@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010848,
-    "geom:area_square_m":130135761.885774,
+    "geom:area_square_m":130135886.678161,
     "geom:bbox":"124.123726,13.952257,124.263725,14.104584",
     "geom:latitude":14.026734,
     "geom:longitude":124.197015,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CT.PN",
+    "statoids:name":"Pandan",
+    "statoids:population":19393,
+    "statoids:statoid":"PH.CT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CT.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496610,
-    "wof:geomhash":"149038b9c006d78af18157e0d47205ac",
+    "wof:geomhash":"37347a2368e4fa0031989e2318428444",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108698779,
-    "wof:lastmodified":1626127506,
+    "wof:lastmodified":1694492569,
     "wof:name":"Pandan",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003814,
-    "geom:area_square_m":45733087.130703,
+    "geom:area_square_m":45733310.544581,
     "geom:bbox":"121.195549,14.073292,121.295148,14.198051",
     "geom:latitude":14.133229,
     "geom:longitude":121.249264,
@@ -331,16 +331,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.CL",
+    "statoids:name":"Calauan",
+    "statoids:population":74890,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495379,
-    "wof:geomhash":"2367acc20d2487ba690812c3499623c3",
+    "wof:geomhash":"243f5e3f6ca1f10bdbc6de557ffb4c5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -350,7 +360,7 @@
         }
     ],
     "wof:id":1108696979,
-    "wof:lastmodified":1636501037,
+    "wof:lastmodified":1694492935,
     "wof:name":"Bay",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

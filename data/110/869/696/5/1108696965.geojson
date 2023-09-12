@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006186,
-    "geom:area_square_m":73602008.4239,
+    "geom:area_square_m":73602059.131207,
     "geom:bbox":"120.452275,15.736571,120.573969,15.825431",
     "geom:latitude":15.78974,
     "geom:longitude":120.516602,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BU",
+    "statoids:name":"Bautista",
+    "statoids:population":30193,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495371,
-    "wof:geomhash":"3f4e800565b63bea8492b8eddeaa3778",
+    "wof:geomhash":"2b0d05dd20f0d600c3ec3ec56fc1dd60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696965,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492829,
     "wof:name":"Bautista",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

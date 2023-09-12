@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006662,
-    "geom:area_square_m":78883965.531382,
+    "geom:area_square_m":78884151.925897,
     "geom:bbox":"120.32872,16.6919,120.429397,16.786436",
     "geom:latitude":16.738418,
     "geom:longitude":120.374235,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.BC",
+    "statoids:name":"Bacnotan",
+    "statoids:population":40307,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495216,
-    "wof:geomhash":"96fe6e2858c9de78ea92a74f3035e9fb",
+    "wof:geomhash":"3aa708380d577b14534140c729e760e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696745,
-    "wof:lastmodified":1626127465,
+    "wof:lastmodified":1694492562,
     "wof:name":"Bacnotan",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

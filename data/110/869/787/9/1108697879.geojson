@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003112,
-    "geom:area_square_m":37284934.833229,
+    "geom:area_square_m":37285030.361922,
     "geom:bbox":"121.46199,14.313546,121.589724,14.357067",
     "geom:latitude":14.333262,
     "geom:longitude":121.522464,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.KL",
+    "statoids:name":"Kalayaan",
+    "statoids:population":20944,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.KL"
+    },
     "wof:country":"PH",
     "wof:created":1474495989,
-    "wof:geomhash":"e73704df6b4652be818c6bc0a8326aad",
+    "wof:geomhash":"63b0fe7965e735d4d21aafd4ee94b59d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108697879,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Kalayaan",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

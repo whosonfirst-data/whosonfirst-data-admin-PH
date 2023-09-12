@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007514,
-    "geom:area_square_m":89500722.336674,
+    "geom:area_square_m":89500755.743625,
     "geom:bbox":"120.422214,15.518768,120.507783,15.652997",
     "geom:latitude":15.587058,
     "geom:longitude":120.46472,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.SI",
+    "statoids:name":"Santa Ignacia",
+    "statoids:population":43787,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.SI"
+    },
     "wof:country":"PH",
     "wof:created":1474497044,
-    "wof:geomhash":"cab0abdf2e2b1ee04d0b2ab92549e094",
+    "wof:geomhash":"2709bfc2accc3fbcf2992c92a80867ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699367,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694492882,
     "wof:name":"Santa Ignacia",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

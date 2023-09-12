@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004785,
-    "geom:area_square_m":58321424.766838,
+    "geom:area_square_m":58321610.308568,
     "geom:bbox":"124.02386,9.668589,124.08788,9.778444",
     "geom:latitude":9.716401,
     "geom:longitude":124.053531,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.SV",
+    "statoids:name":"Sevilla",
+    "statoids:population":10443,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.SV"
+    },
     "wof:country":"PH",
     "wof:created":1474497105,
-    "wof:geomhash":"1290c7f7325d7bfa42dbf720713cee53",
+    "wof:geomhash":"e5af7960090275e0a02e03621aafee5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108699459,
-    "wof:lastmodified":1636501042,
+    "wof:lastmodified":1694492936,
     "wof:name":"Sevilla",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

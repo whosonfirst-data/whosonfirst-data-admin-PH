@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007271,
-    "geom:area_square_m":87165561.403275,
+    "geom:area_square_m":87165696.953013,
     "geom:bbox":"120.819442,14.130559,120.926108,14.247827",
     "geom:latitude":14.188614,
     "geom:longitude":120.870033,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.ID",
+    "statoids:name":"Indang",
+    "statoids:population":62030,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.ID"
+    },
     "wof:country":"PH",
     "wof:created":1474495916,
-    "wof:geomhash":"7dab46426658128e94b4fcb466d8c18d",
+    "wof:geomhash":"b6b6c2a6e7fbe2b73a8df7e8a4a5de20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697765,
-    "wof:lastmodified":1626127486,
+    "wof:lastmodified":1694492566,
     "wof:name":"Indang",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

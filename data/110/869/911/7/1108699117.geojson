@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01559,
-    "geom:area_square_m":186320776.927431,
+    "geom:area_square_m":186320363.303231,
     "geom:bbox":"120.050392,14.740417,120.175808,14.97482",
     "geom:latitude":14.871465,
     "geom:longitude":120.109278,
@@ -370,16 +370,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.SA",
+    "statoids:name":"San Antonio",
+    "statoids:population":34217,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.SA"
+    },
     "wof:country":"PH",
     "wof:created":1474496867,
-    "wof:geomhash":"66f292dea157890abbadbcfc1d730b91",
+    "wof:geomhash":"59ab296bda0429413ff079835abf996b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -389,7 +399,7 @@
         }
     ],
     "wof:id":1108699117,
-    "wof:lastmodified":1626127524,
+    "wof:lastmodified":1694492572,
     "wof:name":"San Antonio",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

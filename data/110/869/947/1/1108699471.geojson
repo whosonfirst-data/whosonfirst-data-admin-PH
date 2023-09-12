@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045074,
-    "geom:area_square_m":550540234.194976,
+    "geom:area_square_m":550539901.195018,
     "geom:bbox":"125.654594,8.812085,125.892699,9.175012",
     "geom:latitude":8.967958,
     "geom:longitude":125.783115,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.SB",
+    "statoids:name":"Sibagat",
+    "statoids:population":30985,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474497112,
-    "wof:geomhash":"55ff74ad8782ef9a035b98e6dbfeb914",
+    "wof:geomhash":"2574a64769dc83fb8c65c81d3729a33a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699471,
-    "wof:lastmodified":1626127487,
+    "wof:lastmodified":1694492566,
     "wof:name":"Sibagat",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

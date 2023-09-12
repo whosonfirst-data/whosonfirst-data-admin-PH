@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003408,
-    "geom:area_square_m":40941179.593284,
+    "geom:area_square_m":40940989.346539,
     "geom:bbox":"123.096055,13.647147,123.246691,13.702001",
     "geom:latitude":13.670721,
     "geom:longitude":123.165022,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.MG",
+    "statoids:name":"Magarao",
+    "statoids:population":24274,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496232,
-    "wof:geomhash":"4c138592ee6cb16cbab41a97ff6aed38",
+    "wof:geomhash":"ed9ab2b1e25b62a18ada7b269d70072b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698239,
-    "wof:lastmodified":1626127507,
+    "wof:lastmodified":1694492569,
     "wof:name":"Magarao",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

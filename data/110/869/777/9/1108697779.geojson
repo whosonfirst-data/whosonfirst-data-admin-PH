@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010623,
-    "geom:area_square_m":128132408.116329,
+    "geom:area_square_m":128132487.099834,
     "geom:bbox":"123.962108,12.656923,124.10803,12.774258",
     "geom:latitude":12.713009,
     "geom:longitude":124.030799,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.IO",
+    "statoids:name":"Irosin",
+    "statoids:population":51777,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.IO"
+    },
     "wof:country":"PH",
     "wof:created":1474495925,
-    "wof:geomhash":"87d465874f668063eed36360427abfbf",
+    "wof:geomhash":"f59842d2395f3611578cfd796a519974",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697779,
-    "wof:lastmodified":1628266658,
+    "wof:lastmodified":1694492850,
     "wof:name":"Irosin",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

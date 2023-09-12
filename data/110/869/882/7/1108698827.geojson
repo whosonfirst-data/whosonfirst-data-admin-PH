@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019564,
-    "geom:area_square_m":237331401.405426,
+    "geom:area_square_m":237331439.695967,
     "geom:bbox":"122.575989,11.086015,122.785986,11.242755",
     "geom:latitude":11.172672,
     "geom:longitude":122.662949,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.PS",
+    "statoids:name":"Passi, City of",
+    "statoids:population":79663,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.PS"
+    },
     "wof:country":"PH",
     "wof:created":1474496647,
-    "wof:geomhash":"b875046297c5a9cf83cd11e23507b97c",
+    "wof:geomhash":"10bf50ca5d9088b6565cb86bfc016919",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108698827,
-    "wof:lastmodified":1626127509,
+    "wof:lastmodified":1694492570,
     "wof:name":"Passi",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

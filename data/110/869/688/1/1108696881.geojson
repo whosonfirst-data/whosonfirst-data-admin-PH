@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015045,
-    "geom:area_square_m":178637078.741665,
+    "geom:area_square_m":178637141.351468,
     "geom:bbox":"119.761223,16.130698,119.949022,16.266513",
     "geom:latitude":16.205735,
     "geom:longitude":119.856253,
@@ -112,16 +112,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BA",
+    "statoids:name":"Bani",
+    "statoids:population":45758,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BA"
+    },
     "wof:country":"PH",
     "wof:created":1474495308,
-    "wof:geomhash":"05a2a7e4270ecd18fc9a8bde52f618a9",
+    "wof:geomhash":"5d82541bf4aa79fb3126675cd5c3484c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +141,7 @@
         }
     ],
     "wof:id":1108696881,
-    "wof:lastmodified":1636501018,
+    "wof:lastmodified":1694492932,
     "wof:name":"Bani",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009077,
-    "geom:area_square_m":109619804.623469,
+    "geom:area_square_m":109619476.51861,
     "geom:bbox":"121.944567,12.331136,122.055736,12.480163",
     "geom:latitude":12.40461,
     "geom:longitude":122.011635,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.OI",
+    "statoids:name":"Odiongan",
+    "statoids:population":43676,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.OI"
+    },
     "wof:country":"PH",
     "wof:created":1474496546,
-    "wof:geomhash":"4586aabc63275be85bf3d2f8d59f2bdb",
+    "wof:geomhash":"b4fa3c2ac810f22ddc112d94321c2cf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698689,
-    "wof:lastmodified":1626127470,
+    "wof:lastmodified":1694492563,
     "wof:name":"Odiongan",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046202,
-    "geom:area_square_m":564905749.529084,
+    "geom:area_square_m":564905328.846223,
     "geom:bbox":"117.17292,8.332916,117.68157,8.786206",
     "geom:latitude":8.577407,
     "geom:longitude":117.444754,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.BT",
+    "statoids:name":"Bataraza",
+    "statoids:population":63644,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495349,
-    "wof:geomhash":"3a27da247aad4711850445ee5939190d",
+    "wof:geomhash":"181939762273fd8b606e828a7737bced",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696943,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Bataraza",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

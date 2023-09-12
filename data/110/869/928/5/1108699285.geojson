@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003493,
-    "geom:area_square_m":41039862.625651,
+    "geom:area_square_m":41039995.219143,
     "geom:bbox":"120.559205,18.104337,120.637528,18.178443",
     "geom:latitude":18.143774,
     "geom:longitude":120.598034,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.SN",
+    "statoids:name":"San Nicolas",
+    "statoids:population":34237,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474496983,
-    "wof:geomhash":"63e0d0f58485317b6f2b4a31572ce700",
+    "wof:geomhash":"c7f0239ab00a51792cd48f5947396cb9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699285,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694492882,
     "wof:name":"San Nicolas",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

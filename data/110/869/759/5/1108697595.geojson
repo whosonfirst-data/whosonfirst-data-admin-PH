@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013784,
-    "geom:area_square_m":164652496.507806,
+    "geom:area_square_m":164652127.123662,
     "geom:bbox":"120.401323,14.872752,120.553391,15.050875",
     "geom:latitude":14.975632,
     "geom:longitude":120.475684,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.FO",
+    "statoids:name":"Floridablanca",
+    "statoids:population":110846,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.FO"
+    },
     "wof:country":"PH",
     "wof:created":1474495803,
-    "wof:geomhash":"93938bfe90ec4522f770bb4a6f93f2d7",
+    "wof:geomhash":"d4402a6c39b71ca498eee15c73bd2774",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108697595,
-    "wof:lastmodified":1626127504,
+    "wof:lastmodified":1694492569,
     "wof:name":"Floridablanca",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017441,
-    "geom:area_square_m":209020885.006566,
+    "geom:area_square_m":209020898.751153,
     "geom:bbox":"122.565081,14.195612,122.751767,14.347111",
     "geom:latitude":14.260789,
     "geom:longitude":122.658364,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.JP",
+    "statoids:name":"Jose Panganiban",
+    "statoids:population":55557,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.JP"
+    },
     "wof:country":"PH",
     "wof:created":1474495967,
-    "wof:geomhash":"5bb492b9314a7eea90f1d37ea1542504",
+    "wof:geomhash":"14ba8b816ad65c3f0cfae91c61132d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697845,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jose Panganiban",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

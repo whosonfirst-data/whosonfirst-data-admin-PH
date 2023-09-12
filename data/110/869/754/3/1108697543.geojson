@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007577,
-    "geom:area_square_m":92254277.539273,
+    "geom:area_square_m":92254399.69787,
     "geom:bbox":"123.40126,10.000133,123.534619,10.105056",
     "geom:latitude":10.045871,
     "geom:longitude":123.469493,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.DM",
+    "statoids:name":"Dumanjug",
+    "statoids:population":46754,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.DM"
+    },
     "wof:country":"PH",
     "wof:created":1474495768,
-    "wof:geomhash":"814a826bde158f951cc0bb877b2ac01d",
+    "wof:geomhash":"0426bc908c303e244a4c3a5eb0275f60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697543,
-    "wof:lastmodified":1626127453,
+    "wof:lastmodified":1694492560,
     "wof:name":"Dumanjug",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

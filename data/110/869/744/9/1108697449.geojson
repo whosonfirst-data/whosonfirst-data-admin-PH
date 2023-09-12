@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006641,
-    "geom:area_square_m":79964055.238155,
+    "geom:area_square_m":79963860.407961,
     "geom:bbox":"123.666656,13.037496,123.724611,13.24452",
     "geom:latitude":13.133166,
     "geom:longitude":123.697637,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.DR",
+    "statoids:name":"Daraga (Locsin)",
+    "statoids:population":115804,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.DR"
+    },
     "wof:country":"PH",
     "wof:created":1474495705,
-    "wof:geomhash":"22f25fdf9549bb04ae2a2e14c998e1f0",
+    "wof:geomhash":"dc5a040e2890aa7742cc750e2da7a29f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108697449,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Daraga",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

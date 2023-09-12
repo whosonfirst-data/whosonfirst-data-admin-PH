@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009901,
-    "geom:area_square_m":116683495.462732,
+    "geom:area_square_m":116683791.130268,
     "geom:bbox":"120.713145,17.552656,120.858349,17.695755",
     "geom:latitude":17.613377,
     "geom:longitude":120.789283,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.LG",
+    "statoids:name":"Lagangilang",
+    "statoids:population":13824,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.LG"
+    },
     "wof:country":"PH",
     "wof:created":1474496047,
-    "wof:geomhash":"b9fa6387fc9a3727bf2d045a822fc201",
+    "wof:geomhash":"8bbcdcdb37bed8be8e6446f4f6ef4c45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697969,
-    "wof:lastmodified":1626127455,
+    "wof:lastmodified":1694492561,
     "wof:name":"Lagangilang",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

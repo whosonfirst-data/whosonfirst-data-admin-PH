@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003062,
-    "geom:area_square_m":36715683.462519,
+    "geom:area_square_m":36715625.094906,
     "geom:bbox":"122.878042,14.111516,122.974462,14.183181",
     "geom:latitude":14.141305,
     "geom:longitude":122.925835,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.TL",
+    "statoids:name":"Talisay",
+    "statoids:population":23904,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497238,
-    "wof:geomhash":"69173aabcdcb29c22b0ef594bdea5e47",
+    "wof:geomhash":"0eee232bd0f97097b5abdd7e6230905a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699645,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Talisay",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

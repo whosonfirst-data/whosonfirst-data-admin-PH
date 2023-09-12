@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01219,
-    "geom:area_square_m":148316887.158031,
+    "geom:area_square_m":148316818.671697,
     "geom:bbox":"122.840416,10.208555,122.990877,10.330682",
     "geom:latitude":10.2678,
     "geom:longitude":122.905661,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.HN",
+    "statoids:name":"Hinigaran",
+    "statoids:population":81925,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.HN"
+    },
     "wof:country":"PH",
     "wof:created":1474495889,
-    "wof:geomhash":"ed84733f201987f531a5385143fd0598",
+    "wof:geomhash":"5b44d977f67cdc4bc9dad4d1c188c880",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108697725,
-    "wof:lastmodified":1626127528,
+    "wof:lastmodified":1694492573,
     "wof:name":"Hinigaran",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

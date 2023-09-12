@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023848,
-    "geom:area_square_m":291848611.619015,
+    "geom:area_square_m":291848683.442622,
     "geom:bbox":"122.935417,8.093303,123.122509,8.405887",
     "geom:latitude":8.226304,
     "geom:longitude":123.027019,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.SN",
+    "statoids:name":"Sindangan",
+    "statoids:population":94146,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497141,
-    "wof:geomhash":"caf68f8a0350fc484e582ec3d89998d4",
+    "wof:geomhash":"2151728f2344c0a086db61532966f230",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699507,
-    "wof:lastmodified":1626127492,
+    "wof:lastmodified":1694492567,
     "wof:name":"Sindangan",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

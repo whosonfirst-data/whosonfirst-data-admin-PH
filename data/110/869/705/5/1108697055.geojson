@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028991,
-    "geom:area_square_m":342633980.585907,
+    "geom:area_square_m":342633914.272512,
     "geom:bbox":"120.904149,16.983114,121.171571,17.209136",
     "geom:latitude":17.096249,
     "geom:longitude":121.015811,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.BN",
+    "statoids:name":"Bontoc",
+    "statoids:population":23980,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495430,
-    "wof:geomhash":"ac6b542fce5e7698cc3cb82030db4823",
+    "wof:geomhash":"c34d73fe88aedd85a032aabf489b96db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697055,
-    "wof:lastmodified":1626127493,
+    "wof:lastmodified":1694492567,
     "wof:name":"Bontoc",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

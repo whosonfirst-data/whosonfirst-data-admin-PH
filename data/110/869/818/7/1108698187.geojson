@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033529,
-    "geom:area_square_m":408648677.631083,
+    "geom:area_square_m":408648662.269875,
     "geom:bbox":"122.816807,9.586559,123.038005,9.847366",
     "geom:latitude":9.713165,
     "geom:longitude":122.9383,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.MB",
+    "statoids:name":"Mabinay",
+    "statoids:population":74187,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.MB"
+    },
     "wof:country":"PH",
     "wof:created":1474496198,
-    "wof:geomhash":"78dcdf39242429658faeb7dbb3cbf7f5",
+    "wof:geomhash":"86a4ab150f1779d6baea38f6c3a09bcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698187,
-    "wof:lastmodified":1626127459,
+    "wof:lastmodified":1694492562,
     "wof:name":"Mabinay",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

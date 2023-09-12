@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050024,
-    "geom:area_square_m":587080906.053511,
+    "geom:area_square_m":587080966.728122,
     "geom:bbox":"120.675949,18.008073,120.975641,18.652916",
     "geom:latitude":18.354691,
     "geom:longitude":120.813079,
@@ -382,16 +382,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.BG",
+    "statoids:name":"Bangui",
+    "statoids:population":15025,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474496501,
-    "wof:geomhash":"7a1e2636799cb7349bc2e6a16c901d47",
+    "wof:geomhash":"d6b73df355b199888f6c779f839f1a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -401,7 +411,7 @@
         }
     ],
     "wof:id":1108698621,
-    "wof:lastmodified":1626127517,
+    "wof:lastmodified":1694492571,
     "wof:name":"Bangui",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

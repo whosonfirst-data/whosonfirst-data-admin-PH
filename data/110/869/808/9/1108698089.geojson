@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007283,
-    "geom:area_square_m":88649306.328133,
+    "geom:area_square_m":88649152.777596,
     "geom:bbox":"125.07335,10.057058,125.237083,10.251882",
     "geom:latitude":10.140419,
     "geom:longitude":125.156759,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.LL",
+    "statoids:name":"Liloan",
+    "statoids:population":22817,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.LL"
+    },
     "wof:country":"PH",
     "wof:created":1474496132,
-    "wof:geomhash":"faeb52bc66e05715ffd889832d561a10",
+    "wof:geomhash":"3b6e093592fc186468b48c62977741a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698089,
-    "wof:lastmodified":1626127519,
+    "wof:lastmodified":1694492571,
     "wof:name":"Liloan",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

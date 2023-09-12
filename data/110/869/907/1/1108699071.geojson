@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002628,
-    "geom:area_square_m":32078426.76614,
+    "geom:area_square_m":32078429.249394,
     "geom:bbox":"124.700501,9.079522,124.763658,9.170252",
     "geom:latitude":9.125511,
     "geom:longitude":124.731671,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CM.SG",
+    "statoids:name":"Sagay",
+    "statoids:population":11873,
+    "statoids:statoid":"PH.CM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676225
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CM.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474496834,
-    "wof:geomhash":"961cff7ffc3d682d0e6ebda48a7a0517",
+    "wof:geomhash":"b00b7ec3afb16f8e8df09ce06c4cd457",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699071,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694492881,
     "wof:name":"Sagay",
     "wof:parent_id":85676225,
     "wof:placetype":"county",

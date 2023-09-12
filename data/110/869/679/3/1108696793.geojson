@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08184,
-    "geom:area_square_m":1005549706.090322,
+    "geom:area_square_m":1005549760.868896,
     "geom:bbox":"124.280141,6.341467,124.723161,6.617711",
     "geom:latitude":6.454839,
     "geom:longitude":124.4798,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.BG",
+    "statoids:name":"Bagumbayan",
+    "statoids:population":63700,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495248,
-    "wof:geomhash":"f57f6ecc891208a4f83e988c08b6371a",
+    "wof:geomhash":"1617df03cbd0ed31811c36b9e300b1fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108696793,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bagumbayan",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

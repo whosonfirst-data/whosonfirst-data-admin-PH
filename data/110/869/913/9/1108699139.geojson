@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001664,
-    "geom:area_square_m":19645705.27906,
+    "geom:area_square_m":19645615.760085,
     "geom:bbox":"120.425392,17.297042,120.488073,17.346053",
     "geom:latitude":17.324995,
     "geom:longitude":120.45713,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SB",
+    "statoids:name":"San Esteban",
+    "statoids:population":8072,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474496887,
-    "wof:geomhash":"d58bb4f0edba3cbf60ebfbe69f9a7c6c",
+    "wof:geomhash":"260d533842d45111ee7cfa62c24b8b59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699139,
-    "wof:lastmodified":1626127491,
+    "wof:lastmodified":1694492567,
     "wof:name":"San Esteban",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

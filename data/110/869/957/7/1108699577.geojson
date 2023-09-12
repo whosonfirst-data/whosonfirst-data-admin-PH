@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141395,
-    "geom:area_square_m":1738171896.78509,
+    "geom:area_square_m":1738171440.830275,
     "geom:bbox":"124.250147,5.965066,125.041748,6.35",
     "geom:latitude":6.193123,
     "geom:longitude":124.708432,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.LK",
+    "statoids:name":"Lake Sebu",
+    "statoids:population":76170,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.LK"
+    },
     "wof:country":"PH",
     "wof:created":1474497192,
-    "wof:geomhash":"0b517618a98c3305865f2caa06aa61ba",
+    "wof:geomhash":"fa2cac449785d1524917648bbcd55d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699577,
-    "wof:lastmodified":1628266722,
+    "wof:lastmodified":1694492888,
     "wof:name":"T'boli",
     "wof:parent_id":85676263,
     "wof:placetype":"county",

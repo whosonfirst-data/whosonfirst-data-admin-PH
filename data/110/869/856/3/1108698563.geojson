@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007892,
-    "geom:area_square_m":93787845.72989,
+    "geom:area_square_m":93787930.727622,
     "geom:bbox":"120.758491,15.99182,120.897304,16.095686",
     "geom:latitude":16.040836,
     "geom:longitude":120.83218,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.NT",
+    "statoids:name":"Natividad",
+    "statoids:population":22713,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.NT"
+    },
     "wof:country":"PH",
     "wof:created":1474496458,
-    "wof:geomhash":"593f54fac5f35e6ff0dc2ee5e1457932",
+    "wof:geomhash":"06004c2095ab01bfb3cc602e394a2ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108698563,
-    "wof:lastmodified":1626127475,
+    "wof:lastmodified":1694492564,
     "wof:name":"Natividad",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

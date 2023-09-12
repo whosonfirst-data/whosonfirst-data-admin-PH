@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000389,
-    "geom:area_square_m":4611499.812796,
+    "geom:area_square_m":4611584.663516,
     "geom:bbox":"122.037159,16.498244,122.066197,16.521522",
     "geom:latitude":16.509426,
     "geom:longitude":122.053116,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QR.MD",
+    "statoids:name":"Maddela",
+    "statoids:population":35634,
+    "statoids:statoid":"PH.QR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QR.MD"
+    },
     "wof:country":"PH",
     "wof:created":1474495778,
-    "wof:geomhash":"10926fc2f6b2889708e6559adec4a2c9",
+    "wof:geomhash":"435b55f1ab47526d3850508cdc08daa0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697559,
-    "wof:lastmodified":1626127449,
+    "wof:lastmodified":1694492560,
     "wof:name":"Echague",
     "wof:parent_id":85676065,
     "wof:placetype":"county",

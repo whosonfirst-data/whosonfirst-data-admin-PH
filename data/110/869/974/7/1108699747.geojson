@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017941,
-    "geom:area_square_m":218226827.036672,
+    "geom:area_square_m":218226975.916482,
     "geom:bbox":"123.584282,10.265375,123.772692,10.443074",
     "geom:latitude":10.355046,
     "geom:longitude":123.68715,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.TO",
+    "statoids:name":"Toledo City",
+    "statoids:population":157078,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.TO"
+    },
     "wof:country":"PH",
     "wof:created":1474497305,
-    "wof:geomhash":"e531b76f493af454d07bf98e01c2f8e9",
+    "wof:geomhash":"2a6b1ea75843e92733fa366568514385",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699747,
-    "wof:lastmodified":1628266726,
+    "wof:lastmodified":1694492889,
     "wof:name":"Toledo City",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

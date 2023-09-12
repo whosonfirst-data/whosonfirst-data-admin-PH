@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025966,
-    "geom:area_square_m":316436959.063448,
+    "geom:area_square_m":316437043.412137,
     "geom:bbox":"122.378723,9.661004,122.555741,9.837128",
     "geom:latitude":9.750371,
     "geom:longitude":122.473755,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.SP",
+    "statoids:name":"Sipalay, City of",
+    "statoids:population":67403,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.SP"
+    },
     "wof:country":"PH",
     "wof:created":1474497146,
-    "wof:geomhash":"ac26388ad3ba723c6d7d6242148f7d9f",
+    "wof:geomhash":"87540eb1ad01dfb01c34901b1249ecf8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699513,
-    "wof:lastmodified":1626127501,
+    "wof:lastmodified":1694492569,
     "wof:name":"Sipalay",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

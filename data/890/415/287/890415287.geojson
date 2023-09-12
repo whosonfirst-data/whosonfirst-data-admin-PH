@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013409,
-    "geom:area_square_m":163102484.326315,
+    "geom:area_square_m":163102180.446333,
     "geom:bbox":"123.138044,10.274708,123.270067,10.420465",
     "geom:latitude":10.351081,
     "geom:longitude":123.208887,
@@ -60,6 +60,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.CN",
+    "statoids:name":"Canlaon City",
+    "statoids:population":50627,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -68,6 +76,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1719051,
+        "hasc:id":"PH.NR.CN",
         "qs_pg:id":88047
     },
     "wof:country":"PH",
@@ -75,7 +84,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ac6fb7f09c78c779cdc15d3f2b7de05",
+    "wof:geomhash":"8737bcab9ddb6c49da75cd95720d9487",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890415287,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492835,
     "wof:name":"Canlaon City",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

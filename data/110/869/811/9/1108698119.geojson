@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007091,
-    "geom:area_square_m":86708794.799822,
+    "geom:area_square_m":86708786.816655,
     "geom:bbox":"123.657386,8.472904,123.784584,8.577371",
     "geom:latitude":8.522921,
     "geom:longitude":123.716721,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.LP",
+    "statoids:name":"Lopez Jaena",
+    "statoids:population":23767,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496152,
-    "wof:geomhash":"25fb9a2e412bba6619fa1454c99077f7",
+    "wof:geomhash":"24d8d7b8765c328efa18b8885b3bab94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698119,
-    "wof:lastmodified":1628266677,
+    "wof:lastmodified":1694492862,
     "wof:name":"Lopez Jaena",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

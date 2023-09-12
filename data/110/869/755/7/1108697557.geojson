@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027893,
-    "geom:area_square_m":333462951.547461,
+    "geom:area_square_m":333462883.379272,
     "geom:bbox":"121.092727,14.710888,121.353257,14.89551",
     "geom:latitude":14.794236,
     "geom:longitude":121.241434,
@@ -36,7 +36,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "E. Rodriguez (montalban)"
+        "E. Rodriguez"
     ],
     "name:fra_x_preferred":[
         "Rodriguez (Montalban)"
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.RD",
+    "statoids:name":"Rodriguez (Montalban)",
+    "statoids:population":280904,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.RD"
+    },
     "wof:country":"PH",
     "wof:created":1474495777,
-    "wof:geomhash":"5e69d13a52632b1b39e3383fecb8958b",
+    "wof:geomhash":"1237500646912ba39f6dc59ea46153c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +75,8 @@
         }
     ],
     "wof:id":1108697557,
-    "wof:lastmodified":1628266645,
-    "wof:name":"E. Rodriguez (montalban)",
+    "wof:lastmodified":1694492842,
+    "wof:name":"E. Rodriguez",
     "wof:parent_id":85676145,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001641,
-    "geom:area_square_m":19641185.25685,
+    "geom:area_square_m":19641199.698338,
     "geom:bbox":"121.139595,14.519311,121.199028,14.568644",
     "geom:latitude":14.542686,
     "geom:longitude":121.16999,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.AG",
+    "statoids:name":"Angono",
+    "statoids:population":102407,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.AG"
+    },
     "wof:country":"PH",
     "wof:created":1474495173,
-    "wof:geomhash":"e96a64807bf6ed40b633bee5de909172",
+    "wof:geomhash":"5bcaa5b4d5721e526d33f9dbdce98b7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696679,
-    "wof:lastmodified":1626127474,
+    "wof:lastmodified":1694492564,
     "wof:name":"Angono",
     "wof:parent_id":85676145,
     "wof:placetype":"county",

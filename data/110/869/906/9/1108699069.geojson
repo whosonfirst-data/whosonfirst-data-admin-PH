@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006471,
-    "geom:area_square_m":76478756.584572,
+    "geom:area_square_m":76478821.815878,
     "geom:bbox":"120.870882,17.022336,120.949918,17.183285",
     "geom:latitude":17.096659,
     "geom:longitude":120.910347,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.SG",
+    "statoids:name":"Sagada",
+    "statoids:population":11244,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474496832,
-    "wof:geomhash":"fda7d623fdc9be5140c0ce12e2398cd6",
+    "wof:geomhash":"eccc603c8cea0a276286e60f14e7024d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699069,
-    "wof:lastmodified":1626127454,
+    "wof:lastmodified":1694492561,
     "wof:name":"Sagada",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

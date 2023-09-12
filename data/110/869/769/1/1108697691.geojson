@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002693,
-    "geom:area_square_m":32882819.600808,
+    "geom:area_square_m":32882732.271417,
     "geom:bbox":"124.740122,9.077888,124.806252,9.161666",
     "geom:latitude":9.119733,
     "geom:longitude":124.772028,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CM.GI",
+    "statoids:name":"Guinsiliban",
+    "statoids:population":5580,
+    "statoids:statoid":"PH.CM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676225
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CM.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495868,
-    "wof:geomhash":"b37d273319c190ad09385cb119ea5669",
+    "wof:geomhash":"8ff169465e7448fdec7d62fedd10f34c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697691,
-    "wof:lastmodified":1626127498,
+    "wof:lastmodified":1694492568,
     "wof:name":"Guinsiliban",
     "wof:parent_id":85676225,
     "wof:placetype":"county",

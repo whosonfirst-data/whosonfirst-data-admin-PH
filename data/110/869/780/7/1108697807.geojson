@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003386,
-    "geom:area_square_m":40564036.485699,
+    "geom:area_square_m":40563901.61995,
     "geom:bbox":"121.300672,14.290711,121.379792,14.38029",
     "geom:latitude":14.338988,
     "geom:longitude":121.335091,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.JL",
+    "statoids:name":"Jala-Jala",
+    "statoids:population":30074,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.JL"
+    },
     "wof:country":"PH",
     "wof:created":1474495942,
-    "wof:geomhash":"8ee76808f38b3394b242176d4577e31f",
+    "wof:geomhash":"b0c3ede50f9c23d59dccd6fcb823a828",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697807,
-    "wof:lastmodified":1628266660,
+    "wof:lastmodified":1694492851,
     "wof:name":"Jala-jala",
     "wof:parent_id":85676145,
     "wof:placetype":"county",

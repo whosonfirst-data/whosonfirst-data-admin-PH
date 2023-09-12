@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007973,
-    "geom:area_square_m":95258293.821842,
+    "geom:area_square_m":95258272.641544,
     "geom:bbox":"120.136203,14.876501,120.365175,14.972519",
     "geom:latitude":14.932465,
     "geom:longitude":120.221062,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.CS",
+    "statoids:name":"Castillejos",
+    "statoids:population":48845,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.CS"
+    },
     "wof:country":"PH",
     "wof:created":1474495604,
-    "wof:geomhash":"1abbac94b1253d423e2f22784f45ecf9",
+    "wof:geomhash":"1f9e4e53b922d0b01949c72ed971d4f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697317,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Castillejos",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

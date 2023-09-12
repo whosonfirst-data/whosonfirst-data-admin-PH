@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025575,
-    "geom:area_square_m":308629937.078373,
+    "geom:area_square_m":308630172.772467,
     "geom:bbox":"120.912902,12.549049,121.24504,12.639613",
     "geom:latitude":12.593549,
     "geom:longitude":121.085366,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MC.CL",
+    "statoids:name":"Calintaan",
+    "statoids:population":28148,
+    "statoids:statoid":"PH.MC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MC.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495543,
-    "wof:geomhash":"6b683b867b3cc4610adfe4220b19d818",
+    "wof:geomhash":"5b54f4b2c4cd07d978627b8e5cd6a40d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697227,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Calintaan",
     "wof:parent_id":85676153,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010342,
-    "geom:area_square_m":125285411.801913,
+    "geom:area_square_m":125285224.522705,
     "geom:bbox":"124.970546,11.522721,125.229359,11.635444",
     "geom:latitude":11.568081,
     "geom:longitude":125.089737,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.PN",
+    "statoids:name":"Pinabacdao",
+    "statoids:population":16208,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496689,
-    "wof:geomhash":"a9aa15933e835ac39746b91480a84879",
+    "wof:geomhash":"43cb13267557d6efdac4a755cd6b84fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698893,
-    "wof:lastmodified":1628266700,
+    "wof:lastmodified":1694492875,
     "wof:name":"Pinabacdao",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

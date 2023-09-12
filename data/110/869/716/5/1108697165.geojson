@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00681,
-    "geom:area_square_m":80559857.020022,
+    "geom:area_square_m":80559749.267979,
     "geom:bbox":"121.607793,16.886708,121.727515,16.986429",
     "geom:latitude":16.931301,
     "geom:longitude":121.676178,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.CB",
+    "statoids:name":"Cabatuan",
+    "statoids:population":37299,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.CB"
+    },
     "wof:country":"PH",
     "wof:created":1474495503,
-    "wof:geomhash":"d9750b108753f5766fe0e687bfe0973b",
+    "wof:geomhash":"f599ee9d84979ba3da0a277201254528",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697165,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Cabatuan",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

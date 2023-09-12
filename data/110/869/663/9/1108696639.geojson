@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002282,
-    "geom:area_square_m":27391359.782001,
+    "geom:area_square_m":27391260.360433,
     "geom:bbox":"120.983114,13.841495,121.047009,13.901085",
     "geom:latitude":13.865472,
     "geom:longitude":121.015506,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.AI",
+    "statoids:name":"Alitagtag",
+    "statoids:population":23649,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495146,
-    "wof:geomhash":"478c5257dd316c1e46054571c5476f2a",
+    "wof:geomhash":"1c62628ffc70d92c606651e8a162e2da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696639,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694492826,
     "wof:name":"Alitagtag",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

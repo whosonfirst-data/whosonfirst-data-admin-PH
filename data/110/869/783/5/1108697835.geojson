@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004874,
-    "geom:area_square_m":57766811.208897,
+    "geom:area_square_m":57766785.319456,
     "geom:bbox":"121.561504,16.507149,121.66689,16.601483",
     "geom:latitude":16.546341,
     "geom:longitude":121.606376,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QR.SG",
+    "statoids:name":"Saguday",
+    "statoids:population":14596,
+    "statoids:statoid":"PH.QR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QR.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474495961,
-    "wof:geomhash":"2a081276a1975e95f989322efd310c2a",
+    "wof:geomhash":"b5c4474e5e1f4f6ff746197d98920ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108697835,
-    "wof:lastmodified":1626127490,
+    "wof:lastmodified":1694492567,
     "wof:name":"Jones",
     "wof:parent_id":85676089,
     "wof:placetype":"county",

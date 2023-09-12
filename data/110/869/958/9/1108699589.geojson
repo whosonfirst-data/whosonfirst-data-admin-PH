@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007779,
-    "geom:area_square_m":94436443.377785,
+    "geom:area_square_m":94436270.706635,
     "geom:bbox":"123.951227,10.879585,124.052887,10.99375",
     "geom:latitude":10.936769,
     "geom:longitude":123.999572,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.TA",
+    "statoids:name":"Tabogon",
+    "statoids:population":33024,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497200,
-    "wof:geomhash":"ea93fbc0f1b5e1bdedfc1d91b810389d",
+    "wof:geomhash":"f1d12fe0fdaba10fd4a7247b61d60897",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699589,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Tabogon",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

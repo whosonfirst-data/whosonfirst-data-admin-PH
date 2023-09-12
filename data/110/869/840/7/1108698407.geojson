@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002581,
-    "geom:area_square_m":31241294.413761,
+    "geom:area_square_m":31241185.010147,
     "geom:bbox":"124.29039,11.760361,124.350418,11.819583",
     "geom:latitude":11.790681,
     "geom:longitude":124.32248,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.MR",
+    "statoids:name":"Maripipi",
+    "statoids:population":6699,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496346,
-    "wof:geomhash":"6a47cce1b7272c5120ebede14417961a",
+    "wof:geomhash":"b1cd78bf78555f722d2b0c4d443999ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698407,
-    "wof:lastmodified":1626127511,
+    "wof:lastmodified":1694492570,
     "wof:name":"Maripipi",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007597,
-    "geom:area_square_m":90803948.315992,
+    "geom:area_square_m":90804067.167808,
     "geom:bbox":"120.902808,14.784868,121.003431,14.912304",
     "geom:latitude":14.844932,
     "geom:longitude":120.955849,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.ST",
+    "statoids:name":"Santa Maria",
+    "statoids:population":218351,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.ST"
+    },
     "wof:country":"PH",
     "wof:created":1474495414,
-    "wof:geomhash":"2aecbd3992db10bd827c904d105c9962",
+    "wof:geomhash":"ffaccf9a104757b636a80beb901b2eba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697029,
-    "wof:lastmodified":1628266631,
+    "wof:lastmodified":1694492833,
     "wof:name":"Bocaue",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

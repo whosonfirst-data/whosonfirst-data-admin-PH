@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032117,
-    "geom:area_square_m":380185879.594398,
+    "geom:area_square_m":380185831.565759,
     "geom:bbox":"121.102547,16.667754,121.3899,16.88658",
     "geom:latitude":16.799028,
     "geom:longitude":121.252658,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IF.LG",
+    "statoids:name":"Lagawe",
+    "statoids:population":18077,
+    "statoids:statoid":"PH.IF",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IF.LG"
+    },
     "wof:country":"PH",
     "wof:created":1474496048,
-    "wof:geomhash":"99acded57bf083a31f4563f0de760922",
+    "wof:geomhash":"e9bf2b3624309b4da2d79ce924a33461",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697971,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694492858,
     "wof:name":"Lagawe",
     "wof:parent_id":85676077,
     "wof:placetype":"county",

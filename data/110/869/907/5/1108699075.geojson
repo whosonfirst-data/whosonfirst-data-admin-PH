@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006109,
-    "geom:area_square_m":74408069.447913,
+    "geom:area_square_m":74408102.360189,
     "geom:bbox":"124.070927,9.862434,124.168997,9.967082",
     "geom:latitude":9.920479,
     "geom:longitude":124.112375,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.SG",
+    "statoids:name":"Sagbayan (Borja)",
+    "statoids:population":20091,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474496837,
-    "wof:geomhash":"0d187dc9224dc703c4d597ea1e20cc91",
+    "wof:geomhash":"4a3ee59536517ec16c38c2209ae88469",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699075,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694492881,
     "wof:name":"Sagbayan",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

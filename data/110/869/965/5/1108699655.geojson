@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011542,
-    "geom:area_square_m":141317958.678416,
+    "geom:area_square_m":141317851.600736,
     "geom:bbox":"123.480658,7.976425,123.666275,8.148429",
     "geom:latitude":8.05162,
     "geom:longitude":123.561028,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.TM",
+    "statoids:name":"Tambulig",
+    "statoids:population":34883,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.TM"
+    },
     "wof:country":"PH",
     "wof:created":1474497245,
-    "wof:geomhash":"19486e8dc572a5044fd879e96be72419",
+    "wof:geomhash":"e7aa1956ddc98443a30f0b6e3f59d5eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699655,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Tambulig",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

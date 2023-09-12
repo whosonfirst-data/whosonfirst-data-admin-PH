@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002644,
-    "geom:area_square_m":32387865.35787,
+    "geom:area_square_m":32387727.398251,
     "geom:bbox":"124.138175,7.879401,124.220041,7.944922",
     "geom:latitude":7.919355,
     "geom:longitude":124.180572,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.BL",
+    "statoids:name":"Balindong (Watu)",
+    "statoids:population":26007,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495283,
-    "wof:geomhash":"427996bb4e6993c95061a64a8027c88d",
+    "wof:geomhash":"170109e31213a7a2e826bcff6c1fa111",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696843,
-    "wof:lastmodified":1626127513,
+    "wof:lastmodified":1694492570,
     "wof:name":"Balindong",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

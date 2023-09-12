@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003473,
-    "geom:area_square_m":41210571.615903,
+    "geom:area_square_m":41210822.837989,
     "geom:bbox":"120.452924,16.247757,120.510149,16.383024",
     "geom:latitude":16.318621,
     "geom:longitude":120.481697,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.PG",
+    "statoids:name":"Pugo",
+    "statoids:population":16518,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496753,
-    "wof:geomhash":"b7db354be5a36dd43d82a76f86f3b230",
+    "wof:geomhash":"d3cd0fb93c808f03f6a0d3341c7a5144",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108698979,
-    "wof:lastmodified":1627522510,
+    "wof:lastmodified":1694492715,
     "wof:name":"Pugo",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

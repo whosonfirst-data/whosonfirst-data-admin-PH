@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04288,
-    "geom:area_square_m":524014284.933863,
+    "geom:area_square_m":524014306.018817,
     "geom:bbox":"124.937092,8.672501,125.233615,8.89546",
     "geom:latitude":8.776796,
     "geom:longitude":125.089774,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.GN",
+    "statoids:name":"Gingoog City",
+    "statoids:population":117908,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.GN"
+    },
     "wof:country":"PH",
     "wof:created":1474495837,
-    "wof:geomhash":"05906d3dc091857a5554c85db4e1d313",
+    "wof:geomhash":"c28d539a67843e9558e65d37247a4e13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697649,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1694492846,
     "wof:name":"Gingoog City",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007971,
-    "geom:area_square_m":97702914.657591,
+    "geom:area_square_m":97702629.024801,
     "geom:bbox":"124.954859,7.533637,125.079229,7.646114",
     "geom:latitude":7.594068,
     "geom:longitude":125.019542,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.DN",
+    "statoids:name":"Dangcagan",
+    "statoids:population":22448,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474495697,
-    "wof:geomhash":"6e4df0ac5b3562516113f405c50c5e8e",
+    "wof:geomhash":"71ab64bc6d7b9664848baffa912df75b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697437,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Dangcagan",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

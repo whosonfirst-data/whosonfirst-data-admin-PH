@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006355,
-    "geom:area_square_m":76128319.087111,
+    "geom:area_square_m":76128402.612374,
     "geom:bbox":"120.778363,14.268257,120.873949,14.408637",
     "geom:latitude":14.348223,
     "geom:longitude":120.835899,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.TN",
+    "statoids:name":"Tanza",
+    "statoids:population":188755,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497266,
-    "wof:geomhash":"f0b59acd7aff36fe42e3085a2d1968cf",
+    "wof:geomhash":"1c8a7eef06c22397e059af7f53557d31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699687,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tanza",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

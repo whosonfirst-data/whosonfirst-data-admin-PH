@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004103,
-    "geom:area_square_m":48524091.287726,
+    "geom:area_square_m":48524074.314747,
     "geom:bbox":"121.769708,16.951789,121.862407,17.027997",
     "geom:latitude":16.992953,
     "geom:longitude":121.813313,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.RI",
+    "statoids:name":"Reina Mercedes",
+    "statoids:population":23497,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.RI"
+    },
     "wof:country":"PH",
     "wof:created":1474496779,
-    "wof:geomhash":"6d7cd47ffdd3d4d9e3894a8d4022d8c3",
+    "wof:geomhash":"19aff896d164289c8828cc30a39f7b56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108699013,
-    "wof:lastmodified":1628266708,
+    "wof:lastmodified":1694492880,
     "wof:name":"Reina Mercedes",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

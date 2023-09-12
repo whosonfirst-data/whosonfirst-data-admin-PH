@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009329,
-    "geom:area_square_m":113062793.804994,
+    "geom:area_square_m":113062644.961899,
     "geom:bbox":"122.514759,11.36093,122.648867,11.485133",
     "geom:latitude":11.433251,
     "geom:longitude":122.584766,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.MM",
+    "statoids:name":"Mambusao",
+    "statoids:population":37672,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.MM"
+    },
     "wof:country":"PH",
     "wof:created":1474496296,
-    "wof:geomhash":"a57adfff39ce2c2b72bd4b8c1df12ff6",
+    "wof:geomhash":"b15e0815a34194fad17d568d3a13764e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698335,
-    "wof:lastmodified":1628266682,
+    "wof:lastmodified":1694492864,
     "wof:name":"Mambusao",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

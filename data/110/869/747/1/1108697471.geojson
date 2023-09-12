@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020399,
-    "geom:area_square_m":241698550.673172,
+    "geom:area_square_m":241698522.723698,
     "geom:bbox":"121.300404,16.469876,121.422594,16.755421",
     "geom:latitude":16.61853,
     "geom:longitude":121.363558,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.DA",
+    "statoids:name":"Diadi",
+    "statoids:population":16484,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.DA"
+    },
     "wof:country":"PH",
     "wof:created":1474495719,
-    "wof:geomhash":"82247cada2689307e7063c7dcc532d65",
+    "wof:geomhash":"46a7f361eadbd1a8abb3254f7884c582",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697471,
-    "wof:lastmodified":1626127484,
+    "wof:lastmodified":1694492566,
     "wof:name":"Diadi",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

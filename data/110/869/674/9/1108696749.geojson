@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001391,
-    "geom:area_square_m":17038996.769158,
+    "geom:area_square_m":17038968.966341,
     "geom:bbox":"124.089503,7.854787,124.153948,7.907701",
     "geom:latitude":7.878275,
     "geom:longitude":124.120256,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.BC",
+    "statoids:name":"Bacolod-Kalawi (Bacolod Grande)",
+    "statoids:population":18555,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495219,
-    "wof:geomhash":"01db20efb061a0a91f9228c21ec7cfe8",
+    "wof:geomhash":"d224fdc140c66142e52992bbef9d54ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696749,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bacolod Grande",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

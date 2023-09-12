@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005246,
-    "geom:area_square_m":63846819.742163,
+    "geom:area_square_m":63846782.353027,
     "geom:bbox":"124.907092,10.112998,125.00872,10.203871",
     "geom:latitude":10.163789,
     "geom:longitude":124.963074,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.ML",
+    "statoids:name":"Malitbog",
+    "statoids:population":22009,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496284,
-    "wof:geomhash":"0efb9dff0d8b623137c613fdbae1ac53",
+    "wof:geomhash":"8603d148e8beadbf1d032e7873ac6331",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698319,
-    "wof:lastmodified":1626127515,
+    "wof:lastmodified":1694492571,
     "wof:name":"Malitbog",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

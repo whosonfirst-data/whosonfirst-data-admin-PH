@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05126,
-    "geom:area_square_m":609485943.455915,
+    "geom:area_square_m":609485634.481342,
     "geom:bbox":"121.18269,15.759136,121.49551,16.102516",
     "geom:latitude":15.933817,
     "geom:longitude":121.328425,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.AF",
+    "statoids:name":"Alfonso Castaneda",
+    "statoids:population":7428,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.AF"
+    },
     "wof:country":"PH",
     "wof:created":1474495134,
-    "wof:geomhash":"d0943658c5e0182deac3c6f699cf47c8",
+    "wof:geomhash":"eab88c4387c11f14f1a3485cfe402c47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696621,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694492826,
     "wof:name":"Alfonso Castaneda",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

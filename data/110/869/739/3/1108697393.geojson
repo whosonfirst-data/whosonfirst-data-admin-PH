@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055688,
-    "geom:area_square_m":673333436.309225,
+    "geom:area_square_m":673333971.869598,
     "geom:bbox":"119.968077,11.961223,120.340416,12.238228",
     "geom:latitude":12.082396,
     "geom:longitude":120.14325,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.CR",
+    "statoids:name":"Coron",
+    "statoids:population":42941,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495661,
-    "wof:geomhash":"a30cbce90a35467a611f2a08a7f3a17d",
+    "wof:geomhash":"0712606de9d5440c8fc6b0d27313435e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108697393,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Coron",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

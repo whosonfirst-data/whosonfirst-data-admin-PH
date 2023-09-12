@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013931,
-    "geom:area_square_m":165074521.90824,
+    "geom:area_square_m":165074496.232466,
     "geom:bbox":"120.510331,16.542025,120.686098,16.695565",
     "geom:latitude":16.603695,
     "geom:longitude":120.60761,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.KP",
+    "statoids:name":"Kapangan",
+    "statoids:population":20084,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.KP"
+    },
     "wof:country":"PH",
     "wof:created":1474495999,
-    "wof:geomhash":"2d7cf1da9ea3b782cfbf94a785fe80bd",
+    "wof:geomhash":"165b6d6e52fab00f09361cdce13916a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697893,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694492853,
     "wof:name":"Kapangan",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

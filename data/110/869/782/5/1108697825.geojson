@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021636,
-    "geom:area_square_m":263668011.729199,
+    "geom:area_square_m":263667905.048232,
     "geom:bbox":"122.614983,9.377889,123.225388,10.07551",
     "geom:latitude":9.745787,
     "geom:longitude":122.913857,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.BS",
+    "statoids:name":"Basay",
+    "statoids:population":24913,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.BS"
+    },
     "wof:country":"PH",
     "wof:created":1474495954,
-    "wof:geomhash":"3e6d53d754a6c629d2dd8b0e26c3e7e5",
+    "wof:geomhash":"375c8eff42a76ea43c073bf0c0064761",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697825,
-    "wof:lastmodified":1626127486,
+    "wof:lastmodified":1694492566,
     "wof:name":"Jimalalud",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

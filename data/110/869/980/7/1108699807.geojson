@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013823,
-    "geom:area_square_m":163208454.999403,
+    "geom:area_square_m":163208430.31312,
     "geom:bbox":"121.782956,17.18684,121.942524,17.371676",
     "geom:latitude":17.280925,
     "geom:longitude":121.869493,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.TM",
+    "statoids:name":"Tumauini",
+    "statoids:population":58463,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.TM"
+    },
     "wof:country":"PH",
     "wof:created":1474497345,
-    "wof:geomhash":"fb301b4f260507e00a49f731df995e41",
+    "wof:geomhash":"518e5819fe0d8e9dbea6a92ff738b293",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699807,
-    "wof:lastmodified":1626127529,
+    "wof:lastmodified":1694492573,
     "wof:name":"Tumauini",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

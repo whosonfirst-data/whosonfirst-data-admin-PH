@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002368,
-    "geom:area_square_m":28994041.987605,
+    "geom:area_square_m":28994028.28876,
     "geom:bbox":"124.27534,7.988758,124.358216,8.057953",
     "geom:latitude":8.020763,
     "geom:longitude":124.31801,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.MW",
+    "statoids:name":"Marawi City",
+    "statoids:population":187106,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.MW"
+    },
     "wof:country":"PH",
     "wof:created":1474496332,
-    "wof:geomhash":"4c33a9f253a5cb115531945edf4502aa",
+    "wof:geomhash":"fa168d3e95cba996c6777fe39bd525f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698387,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Marawi City",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027633,
-    "geom:area_square_m":338516308.926247,
+    "geom:area_square_m":338516217.719522,
     "geom:bbox":"124.859996,7.693981,125.101575,7.882798",
     "geom:latitude":7.806634,
     "geom:longitude":124.979082,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.MR",
+    "statoids:name":"Maramag",
+    "statoids:population":90901,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496328,
-    "wof:geomhash":"4188df94671cb076901b323ed8d036a6",
+    "wof:geomhash":"4800f8638fe2335767479f6b215f4687",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698383,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Maramag",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

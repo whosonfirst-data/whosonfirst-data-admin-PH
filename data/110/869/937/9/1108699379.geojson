@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011953,
-    "geom:area_square_m":144532433.657272,
+    "geom:area_square_m":144532400.964503,
     "geom:bbox":"124.637074,11.98197,124.773163,12.165769",
     "geom:latitude":12.062724,
     "geom:longitude":124.714848,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.SM",
+    "statoids:name":"Santa Margarita",
+    "statoids:population":24850,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474497052,
-    "wof:geomhash":"aa1a7db73b44e27a5dabd87e1c69cd1b",
+    "wof:geomhash":"8630afa6bc56cf86b9c81fbc1660e043",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699379,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1694492561,
     "wof:name":"Santa Margarita",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

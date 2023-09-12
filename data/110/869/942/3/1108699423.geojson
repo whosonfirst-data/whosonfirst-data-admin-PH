@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041186,
-    "geom:area_square_m":484563549.029734,
+    "geom:area_square_m":484563447.098382,
     "geom:bbox":"121.348719,17.791289,121.655237,18.059279",
     "geom:latitude":17.920882,
     "geom:longitude":121.490052,
@@ -36,7 +36,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Santo Ni\u00f1o (faire)"
+        "Santo Ni\u00f1o"
     ],
     "name:fra_x_preferred":[
         "Santo Ni\u00f1o"
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.SN",
+    "statoids:name":"Santo Ni\u00f1o (Faire)",
+    "statoids:population":26126,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497081,
-    "wof:geomhash":"69a616b9d038861cea27ad4d9c41ce13",
+    "wof:geomhash":"7538fa7c7d9b358803c276b7d53b5df9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +75,8 @@
         }
     ],
     "wof:id":1108699423,
-    "wof:lastmodified":1628266713,
-    "wof:name":"Santo Ni\u00f1o (faire)",
+    "wof:lastmodified":1694492882,
+    "wof:name":"Santo Ni\u00f1o",
     "wof:parent_id":85676047,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020411,
-    "geom:area_square_m":249178043.977661,
+    "geom:area_square_m":249177516.620918,
     "geom:bbox":"125.82573,9.04266,126.167619,9.298744",
     "geom:latitude":9.15411,
     "geom:longitude":126.002359,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.LN",
+    "statoids:name":"Lanuza",
+    "statoids:population":11857,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496067,
-    "wof:geomhash":"edff8df3e152ffb561e97920568ed511",
+    "wof:geomhash":"f8b20bfa46acde21878ee8f7eeba838f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697999,
-    "wof:lastmodified":1628266672,
+    "wof:lastmodified":1694492859,
     "wof:name":"Lanuza",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

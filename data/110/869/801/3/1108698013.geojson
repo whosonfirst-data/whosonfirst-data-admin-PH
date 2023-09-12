@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014394,
-    "geom:area_square_m":176380287.176075,
+    "geom:area_square_m":176380296.143875,
     "geom:bbox":"123.126221,7.599563,123.261016,7.816635",
     "geom:latitude":7.694102,
     "geom:longitude":123.202065,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.LP",
+    "statoids:name":"Lapuyan",
+    "statoids:population":26175,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496077,
-    "wof:geomhash":"615501fba1a32460c8196648b5ab51a0",
+    "wof:geomhash":"838c85cd06b436622bcfcc5489781f94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698013,
-    "wof:lastmodified":1628266672,
+    "wof:lastmodified":1694492859,
     "wof:name":"Lapuyan",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

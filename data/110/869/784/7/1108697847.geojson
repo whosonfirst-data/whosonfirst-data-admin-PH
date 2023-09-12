@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003963,
-    "geom:area_square_m":48508176.145851,
+    "geom:area_square_m":48508229.055395,
     "geom:bbox":"123.502055,8.141428,123.557008,8.229202",
     "geom:latitude":8.184102,
     "geom:longitude":123.529311,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.JS",
+    "statoids:name":"Josefina",
+    "statoids:population":10826,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.JS"
+    },
     "wof:country":"PH",
     "wof:created":1474495968,
-    "wof:geomhash":"530261b61ecd8debece5b237b54f7382",
+    "wof:geomhash":"58dc3b01fcfe3e47dc70607500f16758",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108697847,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Josefina",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

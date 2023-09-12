@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005851,
-    "geom:area_square_m":70235129.667673,
+    "geom:area_square_m":70235230.916146,
     "geom:bbox":"124.207617,13.838118,124.357086,13.940389",
     "geom:latitude":13.891927,
     "geom:longitude":124.273831,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CT.PG",
+    "statoids:name":"Panganiban (Payo)",
+    "statoids:population":9738,
+    "statoids:statoid":"PH.CT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CT.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496611,
-    "wof:geomhash":"802073f1d371f28b331dcf6fefe34e20",
+    "wof:geomhash":"63d30dff5985d1347d933a5648afc9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108698781,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Panganiban",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

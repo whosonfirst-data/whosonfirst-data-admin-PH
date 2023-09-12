@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026201,
-    "geom:area_square_m":310872450.918468,
+    "geom:area_square_m":310872840.093097,
     "geom:bbox":"121.196534,16.256451,121.465268,16.44143",
     "geom:latitude":16.351666,
     "geom:longitude":121.336529,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.KS",
+    "statoids:name":"Kasibu",
+    "statoids:population":33379,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.KS"
+    },
     "wof:country":"PH",
     "wof:created":1474496004,
-    "wof:geomhash":"e20258e8a28ce17e2358ca4c0bed74f6",
+    "wof:geomhash":"1ffb973fad86628d85f63b678e9920fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697903,
-    "wof:lastmodified":1626127448,
+    "wof:lastmodified":1694492559,
     "wof:name":"Kasibu",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

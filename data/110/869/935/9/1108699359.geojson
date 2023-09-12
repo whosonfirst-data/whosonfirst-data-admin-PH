@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016248,
-    "geom:area_square_m":194794718.048995,
+    "geom:area_square_m":194794698.740808,
     "geom:bbox":"122.299929,14.06471,122.457859,14.272018",
     "geom:latitude":14.172814,
     "geom:longitude":122.386806,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.SE",
+    "statoids:name":"Santa Elena",
+    "statoids:population":40828,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.SE"
+    },
     "wof:country":"PH",
     "wof:created":1474497038,
-    "wof:geomhash":"531f394005472d2c19719c5e02e66e50",
+    "wof:geomhash":"a899fd7404f7a2623ac1f2a2d0def785",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108699359,
-    "wof:lastmodified":1636501028,
+    "wof:lastmodified":1694492934,
     "wof:name":"Santa Elena",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020549,
-    "geom:area_square_m":242223826.873646,
+    "geom:area_square_m":242223839.944984,
     "geom:bbox":"120.94816,17.479612,121.120448,17.665608",
     "geom:latitude":17.579578,
     "geom:longitude":121.034237,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.ML",
+    "statoids:name":"Malibcong",
+    "statoids:population":3807,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496274,
-    "wof:geomhash":"d04cdf2c1e1071ae1ba11e060d066c45",
+    "wof:geomhash":"270fa7bd2ba617fd4022d48e975de0ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108698303,
-    "wof:lastmodified":1626127520,
+    "wof:lastmodified":1694492572,
     "wof:name":"Malibcong",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

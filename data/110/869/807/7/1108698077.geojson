@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012623,
-    "geom:area_square_m":154823412.93281,
+    "geom:area_square_m":154823183.004034,
     "geom:bbox":"124.472185,7.228097,124.638378,7.325001",
     "geom:latitude":7.280901,
     "geom:longitude":124.552555,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.LB",
+    "statoids:name":"Libungan",
+    "statoids:population":45295,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496124,
-    "wof:geomhash":"b9f3030945fe9320d29d42c9db1dea88",
+    "wof:geomhash":"e8bce0c5a51b1c9fc973011ac8b649c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698077,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Libungan",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

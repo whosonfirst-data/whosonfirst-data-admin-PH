@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044256,
-    "geom:area_square_m":519499414.27318,
+    "geom:area_square_m":519499223.757281,
     "geom:bbox":"120.62578,18.205832,120.957064,18.432179",
     "geom:latitude":18.319778,
     "geom:longitude":120.79488,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.VN",
+    "statoids:name":"Vintar",
+    "statoids:population":31448,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.VN"
+    },
     "wof:country":"PH",
     "wof:created":1474497395,
-    "wof:geomhash":"05f11dcc415e50beafe1efa9abfebd6d",
+    "wof:geomhash":"a62ca0652b9e3636069c328b6ab4b0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699881,
-    "wof:lastmodified":1626127535,
+    "wof:lastmodified":1694492574,
     "wof:name":"Vintar",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

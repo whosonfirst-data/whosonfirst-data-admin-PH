@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011896,
-    "geom:area_square_m":144434214.518598,
+    "geom:area_square_m":144434268.540941,
     "geom:bbox":"123.077914,10.828795,123.211119,11.004528",
     "geom:latitude":10.920101,
     "geom:longitude":123.146721,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.MN",
+    "statoids:name":"Manapla",
+    "statoids:population":52687,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496300,
-    "wof:geomhash":"a1cbef4bfc8ac431a8da6c26c63d00b3",
+    "wof:geomhash":"6b2ac86d08fc1fbced3e3b6a01186057",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698341,
-    "wof:lastmodified":1626127478,
+    "wof:lastmodified":1694492565,
     "wof:name":"Manapla",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

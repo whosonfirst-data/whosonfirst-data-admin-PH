@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030365,
-    "geom:area_square_m":372385670.450097,
+    "geom:area_square_m":372385721.368905,
     "geom:bbox":"124.850227,7.189112,125.121783,7.452949",
     "geom:latitude":7.344697,
     "geom:longitude":125.013332,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.AT",
+    "statoids:name":"Antipas",
+    "statoids:population":25242,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.AT"
+    },
     "wof:country":"PH",
     "wof:created":1474495179,
-    "wof:geomhash":"3be5803574e3963c8779ace4e7160aab",
+    "wof:geomhash":"9bf529f817d8fe72739ffd0fb462b7b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108696687,
-    "wof:lastmodified":1626127478,
+    "wof:lastmodified":1694492565,
     "wof:name":"Antipas",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

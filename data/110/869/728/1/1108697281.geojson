@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006478,
-    "geom:area_square_m":78856405.990558,
+    "geom:area_square_m":78856228.606666,
     "geom:bbox":"123.577407,10.057804,123.686249,10.170335",
     "geom:latitude":10.11381,
     "geom:longitude":123.633268,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.CA",
+    "statoids:name":"Carcar, City of",
+    "statoids:population":107323,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495581,
-    "wof:geomhash":"06f4afd5c4e61aa4d0c1c5dd967a311c",
+    "wof:geomhash":"cc3b1f1f47cf69424e06932b6e1c55a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697281,
-    "wof:lastmodified":1626127530,
+    "wof:lastmodified":1694492573,
     "wof:name":"Carcar",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

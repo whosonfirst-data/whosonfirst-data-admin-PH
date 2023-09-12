@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015268,
-    "geom:area_square_m":182229084.441363,
+    "geom:area_square_m":182229235.772326,
     "geom:bbox":"120.027714,15.099252,120.224996,15.227002",
     "geom:latitude":15.154981,
     "geom:longitude":120.11904,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.CB",
+    "statoids:name":"Cabangan",
+    "statoids:population":23082,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.CB"
+    },
     "wof:country":"PH",
     "wof:created":1474495496,
-    "wof:geomhash":"531e9fd338611453338ee27e6206525f",
+    "wof:geomhash":"5baa298bd694524e3904b511b9a2fa7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697155,
-    "wof:lastmodified":1626127486,
+    "wof:lastmodified":1694492566,
     "wof:name":"Cabangan",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

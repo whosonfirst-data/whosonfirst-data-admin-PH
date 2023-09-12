@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053384,
-    "geom:area_square_m":642912717.875963,
+    "geom:area_square_m":642912365.693063,
     "geom:bbox":"120.690837,12.964374,120.9953,13.254397",
     "geom:latitude":13.105409,
     "geom:longitude":120.83487,
@@ -199,16 +199,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MC.SC",
+    "statoids:name":"Santa Cruz",
+    "statoids:population":34544,
+    "statoids:statoid":"PH.MC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MC.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474497036,
-    "wof:geomhash":"9b6bf298420f8f9c02c39070697a1174",
+    "wof:geomhash":"3f9681a30539bf5e152b3fc866e7b0e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -218,7 +228,7 @@
         }
     ],
     "wof:id":1108699355,
-    "wof:lastmodified":1636501029,
+    "wof:lastmodified":1694492934,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85676153,
     "wof:placetype":"county",

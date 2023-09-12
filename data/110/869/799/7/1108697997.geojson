@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011163,
-    "geom:area_square_m":137113657.962307,
+    "geom:area_square_m":137113369.75007,
     "geom:bbox":"121.793724,6.574174,121.93121,6.686222",
     "geom:latitude":6.627309,
     "geom:longitude":121.865158,
@@ -97,10 +97,12 @@
         85675955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BS.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496066,
-    "wof:geomhash":"54bbb6157d44052dcb934ee81663d20e",
+    "wof:geomhash":"68ec242b3596c3dd8b46ee628ed0e38f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +112,7 @@
         }
     ],
     "wof:id":1108697997,
-    "wof:lastmodified":1626127449,
+    "wof:lastmodified":1694492560,
     "wof:name":"Lantawan",
     "wof:parent_id":85675955,
     "wof:placetype":"county",

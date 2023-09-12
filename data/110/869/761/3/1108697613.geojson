@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013288,
-    "geom:area_square_m":159520560.136551,
+    "geom:area_square_m":159520915.785182,
     "geom:bbox":"123.571212,13.797383,123.756523,13.944555",
     "geom:latitude":13.858668,
     "geom:longitude":123.667517,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.GR",
+    "statoids:name":"Garchitorena",
+    "statoids:population":25204,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.GR"
+    },
     "wof:country":"PH",
     "wof:created":1474495814,
-    "wof:geomhash":"fce99679e1f6a2c7466a3ef6c356e849",
+    "wof:geomhash":"86aaf72b16d64da14551bdffe6473c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697613,
-    "wof:lastmodified":1628266650,
+    "wof:lastmodified":1694492845,
     "wof:name":"Garchitorena",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

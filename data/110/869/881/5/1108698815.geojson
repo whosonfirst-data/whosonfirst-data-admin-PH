@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037064,
-    "geom:area_square_m":437819312.57039,
+    "geom:area_square_m":437819472.18422,
     "geom:bbox":"121.341897,17.086071,121.589147,17.297125",
     "geom:latitude":17.192793,
     "geom:longitude":121.479378,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.PR",
+    "statoids:name":"Paracelis",
+    "statoids:population":26476,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.PR"
+    },
     "wof:country":"PH",
     "wof:created":1474496638,
-    "wof:geomhash":"f49aa8dd986f41b56034f299a63ff8d1",
+    "wof:geomhash":"c68e73c786a25224389c2d76d879de4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698815,
-    "wof:lastmodified":1626127468,
+    "wof:lastmodified":1694492563,
     "wof:name":"Paracelis",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

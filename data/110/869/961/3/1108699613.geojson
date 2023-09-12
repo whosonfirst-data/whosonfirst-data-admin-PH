@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021094,
-    "geom:area_square_m":258200460.140821,
+    "geom:area_square_m":258200621.322801,
     "geom:bbox":"124.28402,8.021831,124.451822,8.242241",
     "geom:latitude":8.142834,
     "geom:longitude":124.357196,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.KI",
+    "statoids:name":"Kapai",
+    "statoids:population":17370,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.KI"
+    },
     "wof:country":"PH",
     "wof:created":1474497217,
-    "wof:geomhash":"9b942bf982e72047c1cadf6b117b810a",
+    "wof:geomhash":"ce341e8ad78f8922638256697da2d7e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699613,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tagoloan Ii",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

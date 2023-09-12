@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004617,
-    "geom:area_square_m":56516404.628964,
+    "geom:area_square_m":56516663.317326,
     "geom:bbox":"124.056872,8.109103,124.203905,8.151921",
     "geom:latitude":8.129145,
     "geom:longitude":124.129978,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.MT",
+    "statoids:name":"Matungao",
+    "statoids:population":12217,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.MT"
+    },
     "wof:country":"PH",
     "wof:created":1474496369,
-    "wof:geomhash":"f4ef39d41f5c6abf9f64125080cce7b1",
+    "wof:geomhash":"33b50c49e910ac411a88d880920bd5d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698439,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Matungao",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

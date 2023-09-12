@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01055,
-    "geom:area_square_m":127986397.525311,
+    "geom:area_square_m":127986057.200701,
     "geom:bbox":"122.407281,11.090383,122.582697,11.200528",
     "geom:latitude":11.148669,
     "geom:longitude":122.498802,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.CL",
+    "statoids:name":"Calinog",
+    "statoids:population":54430,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495542,
-    "wof:geomhash":"b719898320f520ac6414af4aa943ef24",
+    "wof:geomhash":"f516de16f68d03d225bf537f097239c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697225,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Calinog",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

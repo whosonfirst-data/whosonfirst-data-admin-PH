@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019608,
-    "geom:area_square_m":235584639.729426,
+    "geom:area_square_m":235584614.143921,
     "geom:bbox":"121.166908,13.597861,121.379684,13.744764",
     "geom:latitude":13.674431,
     "geom:longitude":121.268082,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.LB",
+    "statoids:name":"Lobo",
+    "statoids:population":37070,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496146,
-    "wof:geomhash":"37dcb95118a861b3137729f6b05cde8d",
+    "wof:geomhash":"0e665f44b016eb4a4fe7432e9c85bb79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698109,
-    "wof:lastmodified":1626127464,
+    "wof:lastmodified":1694492562,
     "wof:name":"Lobo",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

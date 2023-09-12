@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005219,
-    "geom:area_square_m":63254744.069399,
+    "geom:area_square_m":63255035.70525,
     "geom:bbox":"123.037649,11.364326,123.152084,11.453073",
     "geom:latitude":11.407009,
     "geom:longitude":123.100998,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.BT",
+    "statoids:name":"Batad",
+    "statoids:population":19385,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495344,
-    "wof:geomhash":"a6249130a67a1a678c1b0bbbce2145d8",
+    "wof:geomhash":"8a622a24495a9722180254e11a554fc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108696935,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Batad",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

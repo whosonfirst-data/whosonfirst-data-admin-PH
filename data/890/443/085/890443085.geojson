@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015643,
-    "geom:area_square_m":186401617.906204,
+    "geom:area_square_m":186401456.808828,
     "geom:bbox":"120.876209,15.426954,121.090622,15.546691",
     "geom:latitude":15.487504,
     "geom:longitude":120.992175,
@@ -327,6 +327,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.CA",
+    "statoids:name":"Cabanatuan City",
+    "statoids:population":272676,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":4020,
     "wof:belongsto":[
         102191569,
@@ -336,6 +344,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1721905,
+        "hasc:id":"PH.NE.CA",
         "qs_pg:id":371843,
         "wd:id":"Q55595",
         "wk:page":"Cabanatuan"
@@ -345,7 +354,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"93d3a8e484840962904b17de53b353c4",
+    "wof:geomhash":"859c88085d781261be7e9a2b5447df6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -355,7 +364,7 @@
         }
     ],
     "wof:id":890443085,
-    "wof:lastmodified":1690851757,
+    "wof:lastmodified":1694492498,
     "wof:name":"Cabanatuan City",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

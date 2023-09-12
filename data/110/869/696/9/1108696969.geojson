@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011351,
-    "geom:area_square_m":135070309.450363,
+    "geom:area_square_m":135070368.543346,
     "geom:bbox":"120.373312,15.710401,120.524495,15.855767",
     "geom:latitude":15.782458,
     "geom:longitude":120.443721,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BY",
+    "statoids:name":"Bayambang",
+    "statoids:population":111521,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BY"
+    },
     "wof:country":"PH",
     "wof:created":1474495373,
-    "wof:geomhash":"47aa37c769dbf068f3b80811e64e9c1e",
+    "wof:geomhash":"e9b05a6b802a12fcb5973d0df2a40021",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696969,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492829,
     "wof:name":"Bayambang",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

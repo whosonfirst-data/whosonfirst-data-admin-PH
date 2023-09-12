@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067491,
-    "geom:area_square_m":826703135.701654,
+    "geom:area_square_m":826703005.957017,
     "geom:bbox":"125.672322,7.678251,125.939079,8.001232",
     "geom:latitude":7.859243,
     "geom:longitude":125.818277,
@@ -127,16 +127,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.LA",
+    "statoids:name":"Laak (San Vicente)",
+    "statoids:population":70856,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474497014,
-    "wof:geomhash":"386f4dc361556537461d3392b204c812",
+    "wof:geomhash":"31d7c2b20caafdb0247a284f83d0d017",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +156,7 @@
         }
     ],
     "wof:id":1108699323,
-    "wof:lastmodified":1636501027,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Vicente",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

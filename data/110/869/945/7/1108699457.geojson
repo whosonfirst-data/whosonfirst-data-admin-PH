@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04234,
-    "geom:area_square_m":518084349.867613,
+    "geom:area_square_m":518084732.660623,
     "geom:bbox":"123.162206,8.219315,123.554892,8.342721",
     "geom:latitude":8.282054,
     "geom:longitude":123.362103,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.SO",
+    "statoids:name":"Sergio Osme\u00f1a Sr.",
+    "statoids:population":29453,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.SO"
+    },
     "wof:country":"PH",
     "wof:created":1474497103,
-    "wof:geomhash":"3a6bf7eaa6fff744b38e29fe417ddaa1",
+    "wof:geomhash":"2ff1bdc25dd55649270fbecaf961ec8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699457,
-    "wof:lastmodified":1628266714,
+    "wof:lastmodified":1694492883,
     "wof:name":"Sergio Osme\u00f1a Sr.",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

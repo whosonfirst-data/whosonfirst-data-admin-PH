@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007235,
-    "geom:area_square_m":88482249.291013,
+    "geom:area_square_m":88482179.891167,
     "geom:bbox":"123.350509,8.414991,123.454139,8.553887",
     "geom:latitude":8.498533,
     "geom:longitude":123.393542,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.PL",
+    "statoids:name":"Polanco",
+    "statoids:population":37472,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496710,
-    "wof:geomhash":"1ae4c47f70f7f998369c96972be56bfb",
+    "wof:geomhash":"3460ca2bc24565c2caf1aa7a12ba1e08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698925,
-    "wof:lastmodified":1628266703,
+    "wof:lastmodified":1694492877,
     "wof:name":"Polanco",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

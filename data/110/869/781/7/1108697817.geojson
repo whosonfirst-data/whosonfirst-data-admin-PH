@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011853,
-    "geom:area_square_m":143979912.974212,
+    "geom:area_square_m":143980458.029621,
     "geom:bbox":"124.847111,10.679219,125.005828,10.823193",
     "geom:latitude":10.763475,
     "geom:longitude":124.917261,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.JV",
+    "statoids:name":"Javier (Bugho)",
+    "statoids:population":23878,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.JV"
+    },
     "wof:country":"PH",
     "wof:created":1474495949,
-    "wof:geomhash":"e842370285e33e9ac9b36103a8216659",
+    "wof:geomhash":"ccbc6f99e39f69ab2af8349954d34b10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108697817,
-    "wof:lastmodified":1626127526,
+    "wof:lastmodified":1694492573,
     "wof:name":"Javier",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

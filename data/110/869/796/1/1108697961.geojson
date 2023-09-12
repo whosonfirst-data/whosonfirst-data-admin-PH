@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054084,
-    "geom:area_square_m":648519397.391825,
+    "geom:area_square_m":648519316.100108,
     "geom:bbox":"122.446798,13.997044,122.871817,14.220437",
     "geom:latitude":14.133645,
     "geom:longitude":122.681304,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.LB",
+    "statoids:name":"Labo",
+    "statoids:population":92041,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496043,
-    "wof:geomhash":"f8d3fc99e71d949686e997a1d15b188e",
+    "wof:geomhash":"774ed65b008bb2ad0f5d692fdbdd6a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108697961,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1694492561,
     "wof:name":"Labo",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

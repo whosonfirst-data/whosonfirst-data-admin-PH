@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004847,
-    "geom:area_square_m":59096583.400929,
+    "geom:area_square_m":59096692.688774,
     "geom:bbox":"123.306135,9.548288,123.386492,9.629947",
     "geom:latitude":9.589728,
     "geom:longitude":123.346429,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.GN",
+    "statoids:name":"Ginatilan",
+    "statoids:population":15327,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.GN"
+    },
     "wof:country":"PH",
     "wof:created":1474495836,
-    "wof:geomhash":"1063cf912e4550915005974ae423ae80",
+    "wof:geomhash":"dd02e66e2d9ba856c5b0c0334c035d4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697647,
-    "wof:lastmodified":1626127447,
+    "wof:lastmodified":1694492559,
     "wof:name":"Ginatilan",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

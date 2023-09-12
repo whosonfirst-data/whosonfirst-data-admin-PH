@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001794,
-    "geom:area_square_m":21942916.038948,
+    "geom:area_square_m":21942734.994618,
     "geom:bbox":"124.245498,8.328012,124.317291,8.370771",
     "geom:latitude":8.34687,
     "geom:longitude":124.280956,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.LU",
+    "statoids:name":"Lugait",
+    "statoids:population":18639,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.LU"
+    },
     "wof:country":"PH",
     "wof:created":1474496167,
-    "wof:geomhash":"6e2dbd464d2ce3a67a5a217c62f6cee8",
+    "wof:geomhash":"9f7ac3bc4235308cf78bb741fcac6de6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698141,
-    "wof:lastmodified":1628266678,
+    "wof:lastmodified":1694492863,
     "wof:name":"Lugait",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

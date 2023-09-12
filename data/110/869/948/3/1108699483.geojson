@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011495,
-    "geom:area_square_m":140073380.716402,
+    "geom:area_square_m":140073297.68868,
     "geom:bbox":"124.225309,9.712797,124.359369,9.876285",
     "geom:latitude":9.789967,
     "geom:longitude":124.284877,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.SE",
+    "statoids:name":"Sierra Bullones",
+    "statoids:population":24698,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.SE"
+    },
     "wof:country":"PH",
     "wof:created":1474497125,
-    "wof:geomhash":"7f5b1008fedbc6495ec6d7aa5dea25c9",
+    "wof:geomhash":"e526c3447366319fa65275d9c0b69bcd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699483,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Sierra Bullones",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002663,
-    "geom:area_square_m":31923437.430778,
+    "geom:area_square_m":31923130.349955,
     "geom:bbox":"121.403541,14.159944,121.460054,14.232655",
     "geom:latitude":14.199151,
     "geom:longitude":121.430495,
@@ -145,16 +145,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.MG",
+    "statoids:name":"Magdalena",
+    "statoids:population":22976,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496233,
-    "wof:geomhash":"b05df4d107439a0ccba9feff57cf81d1",
+    "wof:geomhash":"afaf4e282d64dc086cb3e84d44bf18cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +174,7 @@
         }
     ],
     "wof:id":1108698241,
-    "wof:lastmodified":1636501035,
+    "wof:lastmodified":1694492935,
     "wof:name":"Magdalena",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

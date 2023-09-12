@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067877,
-    "geom:area_square_m":799282948.325964,
+    "geom:area_square_m":799282810.034158,
     "geom:bbox":"121.083957,17.628744,121.439856,17.934856",
     "geom:latitude":17.766061,
     "geom:longitude":121.254858,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AP.CN",
+    "statoids:name":"Conner",
+    "statoids:population":24811,
+    "statoids:statoid":"PH.AP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AP.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495654,
-    "wof:geomhash":"c4e452e2f9ff7e99e6c0f39845d9de09",
+    "wof:geomhash":"2001eea4167964b3e13f0eb5da185fba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697381,
-    "wof:lastmodified":1626127458,
+    "wof:lastmodified":1694492561,
     "wof:name":"Conner",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

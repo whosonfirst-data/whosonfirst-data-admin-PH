@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013727,
-    "geom:area_square_m":163041368.688602,
+    "geom:area_square_m":163041369.871948,
     "geom:bbox":"119.888886,16.072798,120.06197,16.23956",
     "geom:latitude":16.149576,
     "geom:longitude":119.972315,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.AA",
+    "statoids:name":"Alaminos, City of",
+    "statoids:population":85025,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495115,
-    "wof:geomhash":"e8ff3df53d62d7f38bab968bd9c38dd9",
+    "wof:geomhash":"c3e53feb21aade2b16f8a8209f8d5f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108696591,
-    "wof:lastmodified":1626127476,
+    "wof:lastmodified":1694492564,
     "wof:name":"Alaminos",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

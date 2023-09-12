@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002497,
-    "geom:area_square_m":29974315.805361,
+    "geom:area_square_m":29974344.69356,
     "geom:bbox":"121.028127,13.85615,121.072777,13.945313",
     "geom:latitude":13.903161,
     "geom:longitude":121.050151,
@@ -166,16 +166,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.CE",
+    "statoids:name":"Cuenca",
+    "statoids:population":31236,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.CE"
+    },
     "wof:country":"PH",
     "wof:created":1474495672,
-    "wof:geomhash":"18f9f861123094c58c7a54cc04523975",
+    "wof:geomhash":"930b74d09b9027bfba2c0bfdba036823",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +195,7 @@
         }
     ],
     "wof:id":1108697401,
-    "wof:lastmodified":1626127483,
+    "wof:lastmodified":1694492565,
     "wof:name":"Cuenca",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

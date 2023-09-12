@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01181,
-    "geom:area_square_m":142600428.775832,
+    "geom:area_square_m":142600220.86705,
     "geom:bbox":"125.117892,12.383111,125.292084,12.520352",
     "geom:latitude":12.450044,
     "geom:longitude":125.206571,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.MP",
+    "statoids:name":"Mapanas",
+    "statoids:population":12423,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.MP"
+    },
     "wof:country":"PH",
     "wof:created":1474496320,
-    "wof:geomhash":"2ee89285d2348360a9c726bcef2cb4c7",
+    "wof:geomhash":"eb7beaf9f6f2ea5cd4784ca7b4e38d2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698371,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mapanas",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

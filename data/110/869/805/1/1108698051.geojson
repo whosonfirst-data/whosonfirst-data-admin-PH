@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02495,
-    "geom:area_square_m":302495467.431373,
+    "geom:area_square_m":302495892.727598,
     "geom:bbox":"124.387313,11.207768,124.55427,11.455389",
     "geom:latitude":11.334418,
     "geom:longitude":124.478567,
@@ -196,16 +196,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.LY",
+    "statoids:name":"Leyte",
+    "statoids:population":37505,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.LY"
+    },
     "wof:country":"PH",
     "wof:created":1474496102,
-    "wof:geomhash":"8d4663d56e3d0903bdec2c5e8628d15f",
+    "wof:geomhash":"a8a4adc61e576c6f8b958189813df86e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +225,7 @@
         }
     ],
     "wof:id":1108698051,
-    "wof:lastmodified":1636501021,
+    "wof:lastmodified":1694492932,
     "wof:name":"Leyte",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

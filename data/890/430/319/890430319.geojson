@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005056,
-    "geom:area_square_m":60632925.438624,
+    "geom:area_square_m":60632868.094643,
     "geom:bbox":"120.885608,14.07438,121.036209,14.153167",
     "geom:latitude":14.113194,
     "geom:longitude":120.958302,
@@ -330,6 +330,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.TG",
+    "statoids:name":"Tagaytay City",
+    "statoids:population":62030,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":3088,
     "wof:belongsto":[
         102191569,
@@ -339,6 +347,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1684552,
+        "hasc:id":"PH.CV.TG",
         "qs_pg:id":86491,
         "wd:id":"Q63154",
         "wk:page":"Tagaytay"
@@ -348,7 +357,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"985d268d695f9cea8fe75ac00bfd894b",
+    "wof:geomhash":"432005cb9c2f844fe062878498e02b00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -358,7 +367,7 @@
         }
     ],
     "wof:id":890430319,
-    "wof:lastmodified":1690851656,
+    "wof:lastmodified":1694492498,
     "wof:name":"Tagaytay City",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

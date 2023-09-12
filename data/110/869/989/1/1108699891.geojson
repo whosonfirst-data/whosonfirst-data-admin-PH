@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012668,
-    "geom:area_square_m":154649000.358113,
+    "geom:area_square_m":154649037.999878,
     "geom:bbox":"123.1112,9.047083,123.24214,9.242806",
     "geom:latitude":9.149473,
     "geom:longitude":123.162759,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.ZM",
+    "statoids:name":"Zamboanguita",
+    "statoids:population":24996,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.ZM"
+    },
     "wof:country":"PH",
     "wof:created":1474497402,
-    "wof:geomhash":"c59e6dd5813e3d271f6a0ffa064926f6",
+    "wof:geomhash":"9bbbb62a70ae527cee860374b6e68c43",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699891,
-    "wof:lastmodified":1626127530,
+    "wof:lastmodified":1694492573,
     "wof:name":"Zamboanguita",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

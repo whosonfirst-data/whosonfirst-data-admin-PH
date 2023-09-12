@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005631,
-    "geom:area_square_m":68332716.879306,
+    "geom:area_square_m":68332704.67521,
     "geom:bbox":"124.937554,11.025427,125.028195,11.143353",
     "geom:latitude":11.087205,
     "geom:longitude":124.986914,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.TN",
+    "statoids:name":"Tanauan",
+    "statoids:population":50119,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497253,
-    "wof:geomhash":"7cbe2b7acebffd9cc2c6aae96b1e0430",
+    "wof:geomhash":"5f4c1c8677ae35142dffc17bc190f741",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699667,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tanauan",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

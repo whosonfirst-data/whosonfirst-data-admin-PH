@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004864,
-    "geom:area_square_m":58312572.831675,
+    "geom:area_square_m":58312463.122595,
     "geom:bbox":"121.166837,14.11026,121.265033,14.199623",
     "geom:latitude":14.154655,
     "geom:longitude":121.221999,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.LS",
+    "statoids:name":"Los Ba\u00f1os",
+    "statoids:population":101884,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.LS"
+    },
     "wof:country":"PH",
     "wof:created":1474496158,
-    "wof:geomhash":"b9b193ecf9cbb4c596106a9cd8b255d8",
+    "wof:geomhash":"0c600eec40073e9c327ba4d6a272d81e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108698127,
-    "wof:lastmodified":1626127508,
+    "wof:lastmodified":1694492570,
     "wof:name":"Los Banos",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

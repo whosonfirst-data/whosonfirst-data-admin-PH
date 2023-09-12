@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005556,
-    "geom:area_square_m":67317953.474898,
+    "geom:area_square_m":67318024.175228,
     "geom:bbox":"122.518578,11.472426,122.675186,11.556222",
     "geom:latitude":11.498351,
     "geom:longitude":122.595826,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.SP",
+    "statoids:name":"Sapi-an",
+    "statoids:population":24779,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.SP"
+    },
     "wof:country":"PH",
     "wof:created":1474497096,
-    "wof:geomhash":"7996b3c23f248695fca7b118d3fcfc2d",
+    "wof:geomhash":"be37db309100dfd9cfe92f3d8776f492",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699447,
-    "wof:lastmodified":1626127535,
+    "wof:lastmodified":1694492574,
     "wof:name":"Sapian",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

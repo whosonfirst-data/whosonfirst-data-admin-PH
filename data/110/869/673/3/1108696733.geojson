@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008926,
-    "geom:area_square_m":109516185.432614,
+    "geom:area_square_m":109516195.893637,
     "geom:bbox":"125.663719,7.083096,125.798721,7.202083",
     "geom:latitude":7.135666,
     "geom:longitude":125.725393,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DV.IL",
+    "statoids:name":"Samal, Island Garden City of",
+    "statoids:population":95874,
+    "statoids:statoid":"PH.DV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DV.IL"
+    },
     "wof:country":"PH",
     "wof:created":1474495209,
-    "wof:geomhash":"31d679091f27a95504041941494651b0",
+    "wof:geomhash":"0904f4053b59108069bd627fa7d6b21d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108696733,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1694492713,
     "wof:name":"Babak",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

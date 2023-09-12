@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003865,
-    "geom:area_square_m":46933592.171487,
+    "geom:area_square_m":46933488.656215,
     "geom:bbox":"121.945713,10.819593,122.047564,10.888598",
     "geom:latitude":10.85655,
     "geom:longitude":121.993554,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.BL",
+    "statoids:name":"Belison",
+    "statoids:population":12807,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495386,
-    "wof:geomhash":"1c3b8351a9765c8734c23a34efa38b8d",
+    "wof:geomhash":"27a806d1e6eb8ad1a82a0da3005a8566",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696987,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Belison",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

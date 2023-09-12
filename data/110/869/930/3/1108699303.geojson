@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00833,
-    "geom:area_square_m":99021897.569636,
+    "geom:area_square_m":99021728.473109,
     "geom:bbox":"120.715746,15.920223,120.915723,16.029836",
     "geom:latitude":15.973385,
     "geom:longitude":120.828497,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.SQ",
+    "statoids:name":"San Quintin",
+    "statoids:population":32626,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.SQ"
+    },
     "wof:country":"PH",
     "wof:created":1474496996,
-    "wof:geomhash":"29f61cf5e8b426e0e885fd45f8e436a4",
+    "wof:geomhash":"183a369ff3abc3753bc4688c08a6e6a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108699303,
-    "wof:lastmodified":1626127455,
+    "wof:lastmodified":1694492561,
     "wof:name":"San Quintin",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

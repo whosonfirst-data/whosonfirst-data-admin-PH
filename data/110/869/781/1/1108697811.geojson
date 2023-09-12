@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012978,
-    "geom:area_square_m":157527748.77796,
+    "geom:area_square_m":157527872.110685,
     "geom:bbox":"122.316942,10.930368,122.529433,11.052691",
     "geom:latitude":10.99276,
     "geom:longitude":122.412592,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.JN",
+    "statoids:name":"Janiuay",
+    "statoids:population":63031,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.JN"
+    },
     "wof:country":"PH",
     "wof:created":1474495945,
-    "wof:geomhash":"409271827f466a6258225d33c81a6fad",
+    "wof:geomhash":"fa777410e075aa0f141676fcbab308b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697811,
-    "wof:lastmodified":1626127526,
+    "wof:lastmodified":1694492573,
     "wof:name":"Janiuay",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

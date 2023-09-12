@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003331,
-    "geom:area_square_m":40889992.473569,
+    "geom:area_square_m":40890183.118116,
     "geom:bbox":"122.192085,6.923695,122.284554,7.002111",
     "geom:latitude":6.969088,
     "geom:longitude":122.237526,
@@ -175,16 +175,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.ZM",
+    "statoids:name":"Zamboanga City",
+    "statoids:population":807129,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.ZM"
+    },
     "wof:country":"PH",
     "wof:created":1474496536,
-    "wof:geomhash":"07854b8e2db0cf21e2a4677d1a5917ac",
+    "wof:geomhash":"2ee7fa4c69d0f39f1418d3b3350deb8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +204,7 @@
         }
     ],
     "wof:id":1108698673,
-    "wof:lastmodified":1626127476,
+    "wof:lastmodified":1694492564,
     "wof:name":"Zamboanga City",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

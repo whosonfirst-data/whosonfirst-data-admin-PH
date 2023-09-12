@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010207,
-    "geom:area_square_m":120771855.213829,
+    "geom:area_square_m":120771860.131007,
     "geom:bbox":"120.506926,16.83901,120.654896,16.937219",
     "geom:latitude":16.889667,
     "geom:longitude":120.57703,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.AI",
+    "statoids:name":"Alilem",
+    "statoids:population":6640,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495144,
-    "wof:geomhash":"d6ff23ad32d80ab72c035b6788a8176d",
+    "wof:geomhash":"b3d3d76e8d72f43f290e55e88265d719",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696633,
-    "wof:lastmodified":1626127516,
+    "wof:lastmodified":1694492571,
     "wof:name":"Alilem",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

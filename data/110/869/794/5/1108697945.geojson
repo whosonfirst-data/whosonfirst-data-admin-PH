@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00374,
-    "geom:area_square_m":45742431.137369,
+    "geom:area_square_m":45742536.525947,
     "geom:bbox":"123.508198,8.415587,123.553748,8.530493",
     "geom:latitude":8.469655,
     "geom:longitude":123.531438,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.LL",
+    "statoids:name":"La Libertad",
+    "statoids:population":7771,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.LL"
+    },
     "wof:country":"PH",
     "wof:created":1474496032,
-    "wof:geomhash":"75ff5dca6ddc859ae94df2ef5bc0c355",
+    "wof:geomhash":"6205bda03c1ab07782e476fc90706931",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108697945,
-    "wof:lastmodified":1636501028,
+    "wof:lastmodified":1694492933,
     "wof:name":"La Libertad",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

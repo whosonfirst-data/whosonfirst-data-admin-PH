@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006591,
-    "geom:area_square_m":80623172.442973,
+    "geom:area_square_m":80623139.76088,
     "geom:bbox":"123.455241,8.335876,123.554195,8.441827",
     "geom:latitude":8.389042,
     "geom:longitude":123.508764,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.MT",
+    "statoids:name":"Mutia",
+    "statoids:population":11975,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.MT"
+    },
     "wof:country":"PH",
     "wof:created":1474496434,
-    "wof:geomhash":"0e1e26870186178376a74951aeace2a6",
+    "wof:geomhash":"292c7d76b28ef0e20d2cb02a74117e21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698523,
-    "wof:lastmodified":1628266688,
+    "wof:lastmodified":1694492868,
     "wof:name":"Mutia",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

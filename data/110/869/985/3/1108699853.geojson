@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008138,
-    "geom:area_square_m":98832658.145521,
+    "geom:area_square_m":98832847.572603,
     "geom:bbox":"123.032923,10.734132,123.187869,10.919583",
     "geom:latitude":10.842861,
     "geom:longitude":123.103002,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.VC",
+    "statoids:name":"Victorias, City of",
+    "statoids:population":88299,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.VC"
+    },
     "wof:country":"PH",
     "wof:created":1474497377,
-    "wof:geomhash":"87c194e971b78da4fd23332d5a07f82c",
+    "wof:geomhash":"9e325f9c8de6078fea86bd5bc959e1d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699853,
-    "wof:lastmodified":1626127488,
+    "wof:lastmodified":1694492566,
     "wof:name":"Victorias",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

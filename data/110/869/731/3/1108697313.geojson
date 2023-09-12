@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008409,
-    "geom:area_square_m":101366639.575925,
+    "geom:area_square_m":101366618.487345,
     "geom:bbox":"123.99454,12.784616,124.081242,12.937659",
     "geom:latitude":12.858087,
     "geom:longitude":124.043477,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.CS",
+    "statoids:name":"Castilla",
+    "statoids:population":52903,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.CS"
+    },
     "wof:country":"PH",
     "wof:created":1474495601,
-    "wof:geomhash":"112e46834017bd250595b69d0c59499f",
+    "wof:geomhash":"59b2ed894f5c6de77ce2afaf05834b51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697313,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Casiguran",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

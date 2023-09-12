@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049547,
-    "geom:area_square_m":595997334.305304,
+    "geom:area_square_m":595997122.69265,
     "geom:bbox":"120.601364,13.253744,120.894183,13.502916",
     "geom:latitude":13.39459,
     "geom:longitude":120.742911,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MC.AR",
+    "statoids:name":"Abra de Ilog",
+    "statoids:population":29225,
+    "statoids:statoid":"PH.MC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MC.AR"
+    },
     "wof:country":"PH",
     "wof:created":1474495089,
-    "wof:geomhash":"4521b04804e6f56eba0bcafc5ad0da08",
+    "wof:geomhash":"9078aae33aa4877511dd9f7fdb30150f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696551,
-    "wof:lastmodified":1628266614,
+    "wof:lastmodified":1694492824,
     "wof:name":"Abra De Ilog",
     "wof:parent_id":85676153,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011291,
-    "geom:area_square_m":138400986.074536,
+    "geom:area_square_m":138400940.35778,
     "geom:bbox":"123.239555,7.448182,123.397026,7.639608",
     "geom:latitude":7.557263,
     "geom:longitude":123.309653,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.DI",
+    "statoids:name":"Dimataling",
+    "statoids:population":27715,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.DI"
+    },
     "wof:country":"PH",
     "wof:created":1474495727,
-    "wof:geomhash":"f130f3b82897695a8150e81da3ba8888",
+    "wof:geomhash":"bff351b366466b2b215ef8b0a011f8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697483,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492841,
     "wof:name":"Dimataling",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

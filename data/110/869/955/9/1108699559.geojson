@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008541,
-    "geom:area_square_m":104658443.009902,
+    "geom:area_square_m":104658488.261808,
     "geom:bbox":"123.856884,7.620195,124.076218,7.744073",
     "geom:latitude":7.680918,
     "geom:longitude":123.972016,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.SG",
+    "statoids:name":"Picong (Sultan Gumander)",
+    "statoids:population":14136,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474497180,
-    "wof:geomhash":"bbf2918c93a69e6230768228a8efba18",
+    "wof:geomhash":"483333e3919667c8759259f4874e063e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699559,
-    "wof:lastmodified":1628266721,
+    "wof:lastmodified":1694492887,
     "wof:name":"Sultan Gumander",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

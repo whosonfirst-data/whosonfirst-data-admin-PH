@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017543,
-    "geom:area_square_m":213225444.283892,
+    "geom:area_square_m":213225364.184038,
     "geom:bbox":"121.99686,10.463412,122.170547,10.690679",
     "geom:latitude":10.589707,
     "geom:longitude":122.07076,
@@ -100,16 +100,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.SJ",
+    "statoids:name":"San Joaquin",
+    "statoids:population":51645,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496922,
-    "wof:geomhash":"5a8d92c6bbbe0a8d2674fa546ae5c21a",
+    "wof:geomhash":"53094fb9fd79f9c38b7ee75bf9de0632",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +129,7 @@
         }
     ],
     "wof:id":1108699195,
-    "wof:lastmodified":1636501042,
+    "wof:lastmodified":1694492936,
     "wof:name":"San Joaquin",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024194,
-    "geom:area_square_m":283623297.667286,
+    "geom:area_square_m":283623615.891861,
     "geom:bbox":"120.959081,18.444404,121.17164,18.63125",
     "geom:latitude":18.550387,
     "geom:longitude":121.06312,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.CA",
+    "statoids:name":"Claveria",
+    "statoids:population":30482,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495638,
-    "wof:geomhash":"7a3078203c50ea8487adeda84ff18536",
+    "wof:geomhash":"63c2b7294561909871dc5d2f0856ab90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697359,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Claveria",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

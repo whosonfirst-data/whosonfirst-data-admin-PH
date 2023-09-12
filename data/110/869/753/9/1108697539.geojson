@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007209,
-    "geom:area_square_m":84547311.223335,
+    "geom:area_square_m":84547371.0526,
     "geom:bbox":"120.788028,18.420323,120.894353,18.534665",
     "geom:latitude":18.471079,
     "geom:longitude":120.831854,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.DM",
+    "statoids:name":"Dumalneg",
+    "statoids:population":1814,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.DM"
+    },
     "wof:country":"PH",
     "wof:created":1474495765,
-    "wof:geomhash":"7f990079e506b1452765a8c3e1bbc063",
+    "wof:geomhash":"5feff1b32cd2b3aeac36d38cdc3e889e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697539,
-    "wof:lastmodified":1626127453,
+    "wof:lastmodified":1694492560,
     "wof:name":"Dumalneg",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

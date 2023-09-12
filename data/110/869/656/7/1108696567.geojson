@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013042,
-    "geom:area_square_m":154927025.101186,
+    "geom:area_square_m":154927437.472005,
     "geom:bbox":"119.751221,16.012069,119.888985,16.21",
     "geom:latitude":16.111718,
     "geom:longitude":119.804861,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.AN",
+    "statoids:name":"Agno",
+    "statoids:population":27508,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.AN"
+    },
     "wof:country":"PH",
     "wof:created":1474495099,
-    "wof:geomhash":"e477859b21d3b34d2336fea686eabd73",
+    "wof:geomhash":"c22feb84544b614a281f4af8200b4137",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108696567,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Agno",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

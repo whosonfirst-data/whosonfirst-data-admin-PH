@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00097,
-    "geom:area_square_m":11614352.916211,
+    "geom:area_square_m":11614529.640339,
     "geom:bbox":"120.872287,14.425362,120.92491,14.460682",
     "geom:latitude":14.443413,
     "geom:longitude":120.898415,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.KW",
+    "statoids:name":"Kawit",
+    "statoids:population":78209,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.KW"
+    },
     "wof:country":"PH",
     "wof:created":1474496010,
-    "wof:geomhash":"b9b1655915c59044688d03ee78903c2a",
+    "wof:geomhash":"fe450ce1d62dee0d5324e3cb26100c22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697911,
-    "wof:lastmodified":1628266664,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kawit",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

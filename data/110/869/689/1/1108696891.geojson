@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009685,
-    "geom:area_square_m":117471561.269378,
+    "geom:area_square_m":117471627.114152,
     "geom:bbox":"123.687111,11.136222,123.809586,11.302083",
     "geom:latitude":11.20923,
     "geom:longitude":123.741708,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.BN",
+    "statoids:name":"Bantayan",
+    "statoids:population":74785,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495314,
-    "wof:geomhash":"70a5298e4c0285121e76f363496af881",
+    "wof:geomhash":"f38d667ec4b076260f26da90e7492df7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108696891,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Bantayan",
     "wof:parent_id":85675939,
     "wof:placetype":"county",
