@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006358,
-    "geom:area_square_m":76200475.285051,
+    "geom:area_square_m":76200318.4985,
     "geom:bbox":"121.469552,14.205655,121.598821,14.279452",
     "geom:latitude":14.24184,
     "geom:longitude":121.540381,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.CV",
+    "statoids:name":"Cavinti",
+    "statoids:population":20809,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.CV"
+    },
     "wof:country":"PH",
     "wof:created":1474495628,
-    "wof:geomhash":"c6eaa2386e8b0d5e83d6d8f608c80d2c",
+    "wof:geomhash":"0c69d4efa11d4b29bf6fafb7e814fc93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697345,
-    "wof:lastmodified":1626127494,
+    "wof:lastmodified":1694492567,
     "wof:name":"Cavinti",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

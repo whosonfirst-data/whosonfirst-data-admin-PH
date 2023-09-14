@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01132,
-    "geom:area_square_m":137411022.264629,
+    "geom:area_square_m":137411236.600553,
     "geom:bbox":"124.440308,10.864487,124.549614,11.082621",
     "geom:latitude":10.972441,
     "geom:longitude":124.4976,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.MR",
+    "statoids:name":"Merida",
+    "statoids:population":27224,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496390,
-    "wof:geomhash":"0c8770bdcdec3ec2cebbab41c616a92a",
+    "wof:geomhash":"706c4c381c7bb204cece8d682d291594",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108698465,
-    "wof:lastmodified":1628266685,
+    "wof:lastmodified":1694492866,
     "wof:name":"Merida",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

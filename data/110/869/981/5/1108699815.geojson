@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009054,
-    "geom:area_square_m":108610530.634996,
+    "geom:area_square_m":108610523.239148,
     "geom:bbox":"120.687479,13.960887,120.832682,14.085046",
     "geom:latitude":14.031826,
     "geom:longitude":120.749724,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.TU",
+    "statoids:name":"Tuy",
+    "statoids:population":40734,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.TU"
+    },
     "wof:country":"PH",
     "wof:created":1474497351,
-    "wof:geomhash":"d26bcda69ad81ad9561f776cd8541b6b",
+    "wof:geomhash":"722ae138babdef446d852728f8991ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699815,
-    "wof:lastmodified":1636501044,
+    "wof:lastmodified":1694492936,
     "wof:name":"Tuy",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

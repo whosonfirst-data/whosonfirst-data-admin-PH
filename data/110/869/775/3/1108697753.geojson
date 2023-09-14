@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02304,
-    "geom:area_square_m":280698775.124931,
+    "geom:area_square_m":280698976.63935,
     "geom:bbox":"122.68698,9.556727,122.800232,10.047083",
     "geom:latitude":9.837791,
     "geom:longitude":122.72937,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.IO",
+    "statoids:name":"Ilog",
+    "statoids:population":54423,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.IO"
+    },
     "wof:country":"PH",
     "wof:created":1474495907,
-    "wof:geomhash":"f34745d6de3ef6ba2eaa8afe7cb69570",
+    "wof:geomhash":"5a9515a211999fdf58458e119db79fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108697753,
-    "wof:lastmodified":1626127526,
+    "wof:lastmodified":1694492572,
     "wof:name":"Ilog",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

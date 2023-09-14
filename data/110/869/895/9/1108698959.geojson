@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008863,
-    "geom:area_square_m":108842143.481776,
+    "geom:area_square_m":108842297.599871,
     "geom:bbox":"124.668809,6.592119,124.8304,6.776688",
     "geom:latitude":6.694507,
     "geom:longitude":124.753242,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.PQ",
+    "statoids:name":"President Quirino",
+    "statoids:population":38753,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.PQ"
+    },
     "wof:country":"PH",
     "wof:created":1474496732,
-    "wof:geomhash":"e7ae80571f09c98c1fa55f2d185a220c",
+    "wof:geomhash":"b2d2069ef06ece633909d43adebb7fa8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698959,
-    "wof:lastmodified":1628266704,
+    "wof:lastmodified":1694492878,
     "wof:name":"Pres. Quirino",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

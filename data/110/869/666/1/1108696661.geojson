@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015952,
-    "geom:area_square_m":189082111.480856,
+    "geom:area_square_m":189082024.983637,
     "geom:bbox":"120.986796,16.448274,121.131877,16.632014",
     "geom:latitude":16.551264,
     "geom:longitude":121.049615,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.AB",
+    "statoids:name":"Ambaguio",
+    "statoids:population":13452,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.AB"
+    },
     "wof:country":"PH",
     "wof:created":1474495161,
-    "wof:geomhash":"8faebe63b44dfd894fb16debcc6758dc",
+    "wof:geomhash":"33314a474f2072c79678bbda4cb81339",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696661,
-    "wof:lastmodified":1626127477,
+    "wof:lastmodified":1694492564,
     "wof:name":"Ambaguio",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

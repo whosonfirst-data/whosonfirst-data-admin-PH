@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060285,
-    "geom:area_square_m":736894923.602782,
+    "geom:area_square_m":736894652.136086,
     "geom:bbox":"124.796159,8.560351,125.249924,8.878853",
     "geom:latitude":8.679662,
     "geom:longitude":125.002391,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.CA",
+    "statoids:name":"Claveria",
+    "statoids:population":44544,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495641,
-    "wof:geomhash":"e223c33fe360f46f29b76da08bce2255",
+    "wof:geomhash":"937faaea4b3d14c841facd9fb99f4c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697363,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Claveria",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

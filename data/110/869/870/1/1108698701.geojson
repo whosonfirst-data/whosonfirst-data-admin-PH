@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014369,
-    "geom:area_square_m":173688312.994239,
+    "geom:area_square_m":173688244.413776,
     "geom:bbox":"125.27734,12.07152,125.488747,12.225893",
     "geom:latitude":12.152794,
     "geom:longitude":125.390642,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.OA",
+    "statoids:name":"Oras",
+    "statoids:population":34760,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.OA"
+    },
     "wof:country":"PH",
     "wof:created":1474496555,
-    "wof:geomhash":"c87f55490474ef4086fd5e07fb146255",
+    "wof:geomhash":"eacf8dd6e3dfb318b9a342162e5f16fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698701,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Oras",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

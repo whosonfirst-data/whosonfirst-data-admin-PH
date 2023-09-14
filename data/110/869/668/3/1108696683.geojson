@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004649,
-    "geom:area_square_m":56538246.620629,
+    "geom:area_square_m":56538372.65592,
     "geom:bbox":"121.907059,10.414611,122.027032,10.483813",
     "geom:latitude":10.449783,
     "geom:longitude":121.962221,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.AI",
+    "statoids:name":"Anini-y",
+    "statoids:population":20349,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495176,
-    "wof:geomhash":"885a3cc66c783a23ea701a030d3a9b27",
+    "wof:geomhash":"17f3799e17cfca802c35e96f6cb5982b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696683,
-    "wof:lastmodified":1626127478,
+    "wof:lastmodified":1694492564,
     "wof:name":"Anini-y",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

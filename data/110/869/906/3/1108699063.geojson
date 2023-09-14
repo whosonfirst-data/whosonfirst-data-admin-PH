@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00311,
-    "geom:area_square_m":36064679.3838,
+    "geom:area_square_m":36064795.629103,
     "geom:bbox":"121.835358,20.262056,121.888725,20.357056",
     "geom:latitude":20.310611,
     "geom:longitude":121.859647,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BN.SB",
+    "statoids:name":"Sabtang",
+    "statoids:population":1637,
+    "statoids:statoid":"PH.BN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BN.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474496825,
-    "wof:geomhash":"6e2e7d8dd1ae657b86a473cd4ce14336",
+    "wof:geomhash":"fd5ede6f60226f272cac3cd40279bcf0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699063,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694492881,
     "wof:name":"Sabtang",
     "wof:parent_id":85676043,
     "wof:placetype":"county",

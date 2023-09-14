@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005626,
-    "geom:area_square_m":68555534.253183,
+    "geom:area_square_m":68555340.538618,
     "geom:bbox":"124.32141,9.689961,124.434435,9.826156",
     "geom:latitude":9.75378,
     "geom:longitude":124.380476,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.DE",
+    "statoids:name":"Duero",
+    "statoids:population":17580,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.DE"
+    },
     "wof:country":"PH",
     "wof:created":1474495759,
-    "wof:geomhash":"deb065362027f3d34359597ab8e224b0",
+    "wof:geomhash":"4c544593a0f2e60399cd72330e455292",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697529,
-    "wof:lastmodified":1636501015,
+    "wof:lastmodified":1694492932,
     "wof:name":"Duero",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

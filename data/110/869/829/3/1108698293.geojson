@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009232,
-    "geom:area_square_m":113151206.687458,
+    "geom:area_square_m":113151052.901053,
     "geom:bbox":"122.967917,7.532726,123.059525,7.733031",
     "geom:latitude":7.623349,
     "geom:longitude":123.008231,
@@ -52,10 +52,12 @@
         85675963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496266,
-    "wof:geomhash":"8afad9a0eebdbdd13622cb8407ee601e",
+    "wof:geomhash":"f1b4dd93a513444e2a1a62ea8c2360ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108698293,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694492864,
     "wof:name":"Malangas",
     "wof:parent_id":85675963,
     "wof:placetype":"county",

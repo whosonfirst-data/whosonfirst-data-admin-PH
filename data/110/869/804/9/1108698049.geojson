@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014175,
-    "geom:area_square_m":172162355.44391,
+    "geom:area_square_m":172162344.553063,
     "geom:bbox":"122.204594,10.734471,122.421848,10.91223",
     "geom:latitude":10.826425,
     "geom:longitude":122.315151,
@@ -163,16 +163,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.LO",
+    "statoids:name":"Leon",
+    "statoids:population":47522,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.LO"
+    },
     "wof:country":"PH",
     "wof:created":1474496101,
-    "wof:geomhash":"515a957f8e2915be7328ef3fe2cb0dd0",
+    "wof:geomhash":"a1a09e348661a32da856b5555236b44f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +192,7 @@
         }
     ],
     "wof:id":1108698049,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Leon",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

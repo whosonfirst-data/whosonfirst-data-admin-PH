@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001295,
-    "geom:area_square_m":15008648.332515,
+    "geom:area_square_m":15008590.004427,
     "geom:bbox":"121.930082,20.34786,121.978691,20.398926",
     "geom:latitude":20.374533,
     "geom:longitude":121.953256,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BN.UU",
+    "statoids:name":"Uyugan",
+    "statoids:population":1240,
+    "statoids:statoid":"PH.BN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676043
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BN.UU"
+    },
     "wof:country":"PH",
     "wof:created":1474497361,
-    "wof:geomhash":"8de81bda2165ab4fb2ff2be709490d0b",
+    "wof:geomhash":"acbb36439ca1eb5c5322a032d22731e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699831,
-    "wof:lastmodified":1628266735,
+    "wof:lastmodified":1694492891,
     "wof:name":"Uyugan",
     "wof:parent_id":85676043,
     "wof:placetype":"county",

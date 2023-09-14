@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01561,
-    "geom:area_square_m":190782414.524082,
+    "geom:area_square_m":190782554.283912,
     "geom:bbox":"125.966288,8.673789,126.258108,8.782718",
     "geom:latitude":8.730141,
     "geom:longitude":126.115916,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.SA",
+    "statoids:name":"San Agustin",
+    "statoids:population":20655,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.SA"
+    },
     "wof:country":"PH",
     "wof:created":1474496859,
-    "wof:geomhash":"272a8b769886d7f097e16fe02b995c54",
+    "wof:geomhash":"e5086424c70f4486dd5ebc99cf0d90f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699105,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Agustin",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

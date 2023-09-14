@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007221,
-    "geom:area_square_m":87086417.132064,
+    "geom:area_square_m":87086421.328682,
     "geom:bbox":"124.046245,12.689044,124.151951,12.811127",
     "geom:latitude":12.7567,
     "geom:longitude":124.104402,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.BL",
+    "statoids:name":"Bulusan",
+    "statoids:population":22089,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495468,
-    "wof:geomhash":"32f6d2f64ab03b7fed9ea93fc22d3a3b",
+    "wof:geomhash":"8d1bed1b435b6356a402c9808bef4d04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697113,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694492835,
     "wof:name":"Bulusan",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051981,
-    "geom:area_square_m":639445601.103672,
+    "geom:area_square_m":639445531.209629,
     "geom:bbox":"125.325386,5.555389,125.689583,5.994114",
     "geom:latitude":5.816332,
     "geom:longitude":125.506145,
@@ -52,10 +52,12 @@
         1108810255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DS.JA"
+    },
     "wof:country":"PH",
     "wof:created":1474495964,
-    "wof:geomhash":"169f0dc4d24cb1924a6913b77b24135e",
+    "wof:geomhash":"dc4cf1440e8735f82e28a1b72b38003b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108697839,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jose Abad Santos",
     "wof:parent_id":1108810255,
     "wof:placetype":"county",

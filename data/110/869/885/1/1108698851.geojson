@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095815,
-    "geom:area_square_m":1128867172.66256,
+    "geom:area_square_m":1128867123.167933,
     "geom:bbox":"121.766215,17.53894,122.189552,17.803768",
     "geom:latitude":17.671169,
     "geom:longitude":121.972834,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.PB",
+    "statoids:name":"Pe\u00f1ablanca",
+    "statoids:population":42736,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.PB"
+    },
     "wof:country":"PH",
     "wof:created":1474496661,
-    "wof:geomhash":"5bc52de9b612136f5e66fe1e62d5d10f",
+    "wof:geomhash":"a021640139ab709daf5be649bd62bfa4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698851,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492874,
     "wof:name":"Penablanca",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

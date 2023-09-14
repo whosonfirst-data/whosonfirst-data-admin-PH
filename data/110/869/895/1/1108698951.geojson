@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007882,
-    "geom:area_square_m":93637923.211992,
+    "geom:area_square_m":93638034.959286,
     "geom:bbox":"120.456875,16.069714,120.578526,16.168496",
     "geom:latitude":16.115396,
     "geom:longitude":120.520531,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.PZ",
+    "statoids:name":"Pozorrubio",
+    "statoids:population":66111,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.PZ"
+    },
     "wof:country":"PH",
     "wof:created":1474496727,
-    "wof:geomhash":"0ff05958e19223b0c63cb95c9ab45c08",
+    "wof:geomhash":"eabc3c7c1f0a44c1c2316114ba792a86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698951,
-    "wof:lastmodified":1628266704,
+    "wof:lastmodified":1694492877,
     "wof:name":"Pozzorubio",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

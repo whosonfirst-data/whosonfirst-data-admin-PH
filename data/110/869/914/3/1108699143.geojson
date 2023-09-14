@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010044,
-    "geom:area_square_m":119915636.944981,
+    "geom:area_square_m":119915587.463593,
     "geom:bbox":"120.046445,15.032791,120.234791,15.129662",
     "geom:latitude":15.07913,
     "geom:longitude":120.126229,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.SF",
+    "statoids:name":"San Felipe",
+    "statoids:population":22020,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.SF"
+    },
     "wof:country":"PH",
     "wof:created":1474496889,
-    "wof:geomhash":"13884e9c28d6204fe9d3567b996704dd",
+    "wof:geomhash":"e53a9b6f4ee9be1d180c8673560a945c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108699143,
-    "wof:lastmodified":1636501027,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Felipe",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

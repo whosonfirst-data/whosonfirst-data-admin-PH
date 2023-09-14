@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018117,
-    "geom:area_square_m":222097862.780204,
+    "geom:area_square_m":222097685.837101,
     "geom:bbox":"124.90978,7.418576,125.182183,7.589281",
     "geom:latitude":7.515366,
     "geom:longitude":125.051458,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.KB",
+    "statoids:name":"Kibawe",
+    "statoids:population":35767,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.KB"
+    },
     "wof:country":"PH",
     "wof:created":1474496014,
-    "wof:geomhash":"a57f0a643f5ed968aff30c5a4f4127b4",
+    "wof:geomhash":"2b456eebc0052b74f2e7878ccc9a7741",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697919,
-    "wof:lastmodified":1628266665,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kibawe",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043063,
-    "geom:area_square_m":505688823.117947,
+    "geom:area_square_m":505688721.337963,
     "geom:bbox":"121.918093,18.161249,122.301247,18.37345",
     "geom:latitude":18.252598,
     "geom:longitude":122.11268,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.GN",
+    "statoids:name":"Gonzaga",
+    "statoids:population":36303,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.GN"
+    },
     "wof:country":"PH",
     "wof:created":1474495848,
-    "wof:geomhash":"6079a0388afbcabc46f53596006ebf5f",
+    "wof:geomhash":"b04c78892557fa0a2d257a9b8c697210",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108697665,
-    "wof:lastmodified":1626127504,
+    "wof:lastmodified":1694492569,
     "wof:name":"Gonzaga",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

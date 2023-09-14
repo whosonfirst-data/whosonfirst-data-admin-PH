@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008576,
-    "geom:area_square_m":103284406.153877,
+    "geom:area_square_m":103284470.205627,
     "geom:bbox":"123.805588,13.033131,123.946291,13.145416",
     "geom:latitude":13.087871,
     "geom:longitude":123.877219,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.MN",
+    "statoids:name":"Manito",
+    "statoids:population":22819,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496309,
-    "wof:geomhash":"b9c349b3f476cb38d0811f25115cd423",
+    "wof:geomhash":"784ba3ba91281522d23d51562df5a279",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108698355,
-    "wof:lastmodified":1628266682,
+    "wof:lastmodified":1694492865,
     "wof:name":"Manito",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

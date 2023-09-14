@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003733,
-    "geom:area_square_m":45462179.372955,
+    "geom:area_square_m":45462084.060965,
     "geom:bbox":"123.395174,9.95,123.503924,10.001293",
     "geom:latitude":9.97536,
     "geom:longitude":123.451912,
@@ -115,16 +115,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.AL",
+    "statoids:name":"Alcantara",
+    "statoids:population":13556,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.AL"
+    },
     "wof:country":"PH",
     "wof:created":1474495125,
-    "wof:geomhash":"5af72ffaf7c543532d42d5dc59c0ea8d",
+    "wof:geomhash":"2de546296fcba517babf434869b23522",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +144,7 @@
         }
     ],
     "wof:id":1108696607,
-    "wof:lastmodified":1626127473,
+    "wof:lastmodified":1694492564,
     "wof:name":"Alcantara",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

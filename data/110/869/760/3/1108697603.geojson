@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009203,
-    "geom:area_square_m":111151427.925342,
+    "geom:area_square_m":111151654.151467,
     "geom:bbox":"125.166932,12.336201,125.338364,12.457144",
     "geom:latitude":12.387131,
     "geom:longitude":125.250705,
@@ -100,16 +100,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.GM",
+    "statoids:name":"Gamay",
+    "statoids:population":22425,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.GM"
+    },
     "wof:country":"PH",
     "wof:created":1474495808,
-    "wof:geomhash":"f8b0d1726ab18177878e0d7cc8cb960f",
+    "wof:geomhash":"47772ddac631592ec7143d2566debe38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +129,7 @@
         }
     ],
     "wof:id":1108697603,
-    "wof:lastmodified":1626127497,
+    "wof:lastmodified":1694492568,
     "wof:name":"Gamay",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

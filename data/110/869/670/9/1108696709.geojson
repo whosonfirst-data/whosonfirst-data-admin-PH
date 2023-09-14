@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033987,
-    "geom:area_square_m":410365828.898998,
+    "geom:area_square_m":410365664.855432,
     "geom:bbox":"123.228752,12.332443,123.430149,12.603778",
     "geom:latitude":12.452214,
     "geom:longitude":123.331986,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.AO",
+    "statoids:name":"Aroroy",
+    "statoids:population":76139,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.AO"
+    },
     "wof:country":"PH",
     "wof:created":1474495191,
-    "wof:geomhash":"4401009b214c79d70fb665c8f5f9b4ab",
+    "wof:geomhash":"fbb2522759882a5f5fcde2285aabe73c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108696709,
-    "wof:lastmodified":1626127512,
+    "wof:lastmodified":1694492570,
     "wof:name":"Aroroy",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

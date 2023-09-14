@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011307,
-    "geom:area_square_m":137661254.30876,
+    "geom:area_square_m":137661350.11236,
     "geom:bbox":"123.060715,10.012876,123.24935,10.130967",
     "geom:latitude":10.070584,
     "geom:longitude":123.15605,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.LL",
+    "statoids:name":"La Libertad",
+    "statoids:population":38904,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.LL"
+    },
     "wof:country":"PH",
     "wof:created":1474496031,
-    "wof:geomhash":"67fef27a30a2c7f134562da9be582f6c",
+    "wof:geomhash":"bdc9ca3d523f0ff3b9be73b6e2e14081",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108697943,
-    "wof:lastmodified":1636501028,
+    "wof:lastmodified":1694492933,
     "wof:name":"La Libertad",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

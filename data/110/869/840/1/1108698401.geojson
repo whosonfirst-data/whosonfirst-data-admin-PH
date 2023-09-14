@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003732,
-    "geom:area_square_m":45482071.298766,
+    "geom:area_square_m":45482068.771659,
     "geom:bbox":"123.790455,9.717787,123.902275,9.795127",
     "geom:latitude":9.754854,
     "geom:longitude":123.856545,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.MR",
+    "statoids:name":"Maribojoc",
+    "statoids:population":20491,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496342,
-    "wof:geomhash":"1f9567b85d30d75ac1fc0cfb7e05fc5b",
+    "wof:geomhash":"b49eca47a949cd499ec26fc16bcab40a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698401,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Maribojoc",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033888,
-    "geom:area_square_m":406083298.985886,
+    "geom:area_square_m":406082966.696509,
     "geom:bbox":"121.54126,14.075542,121.829905,14.438725",
     "geom:latitude":14.283311,
     "geom:longitude":121.668124,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.MU",
+    "statoids:name":"Mauban",
+    "statoids:population":61141,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.MU"
+    },
     "wof:country":"PH",
     "wof:created":1474496371,
-    "wof:geomhash":"6bf5840fe6ada6b0dfad6addf5ef4cc1",
+    "wof:geomhash":"4bbafe0a6e0719b372a2bbeb29749e5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698441,
-    "wof:lastmodified":1626127469,
+    "wof:lastmodified":1694492563,
     "wof:name":"Mauban",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

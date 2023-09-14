@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026819,
-    "geom:area_square_m":322891475.521075,
+    "geom:area_square_m":322891614.386148,
     "geom:bbox":"123.307053,13.007889,123.686083,13.304925",
     "geom:latitude":13.17732,
     "geom:longitude":123.497736,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.LG",
+    "statoids:name":"Ligao, City of",
+    "statoids:population":104914,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.LG"
+    },
     "wof:country":"PH",
     "wof:created":1474496128,
-    "wof:geomhash":"2766aad90e044074aea98ab4811d6cd1",
+    "wof:geomhash":"2cd1f21998f456eb210833da3f9b0843",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108698083,
-    "wof:lastmodified":1626127520,
+    "wof:lastmodified":1694492571,
     "wof:name":"Ligao",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

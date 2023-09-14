@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016851,
-    "geom:area_square_m":203910470.935365,
+    "geom:area_square_m":203910365.850181,
     "geom:bbox":"125.250776,11.786542,125.43244,11.955534",
     "geom:latitude":11.878004,
     "geom:longitude":125.342602,
@@ -100,16 +100,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.TF",
+    "statoids:name":"Taft",
+    "statoids:population":17183,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.TF"
+    },
     "wof:country":"PH",
     "wof:created":1474497208,
-    "wof:geomhash":"26644a677576e75755e55194d21d708c",
+    "wof:geomhash":"02fc7b7a437ec135e3458ac0debc3e32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +129,7 @@
         }
     ],
     "wof:id":1108699601,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Taft",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002025,
-    "geom:area_square_m":24594493.234035,
+    "geom:area_square_m":24594589.840404,
     "geom:bbox":"122.494436,10.740944,122.56913,10.803893",
     "geom:latitude":10.773558,
     "geom:longitude":122.530613,
@@ -253,16 +253,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.PV",
+    "statoids:name":"Pavia",
+    "statoids:population":43614,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676299
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.PV"
+    },
     "wof:country":"PH",
     "wof:created":1474496657,
-    "wof:geomhash":"17d1313fecbceaa9d6eb5459055935cd",
+    "wof:geomhash":"b206dbd858d5cb8f0165ba12a55e4258",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,7 +282,7 @@
         }
     ],
     "wof:id":1108698843,
-    "wof:lastmodified":1626127505,
+    "wof:lastmodified":1694492569,
     "wof:name":"Pavia",
     "wof:parent_id":85676299,
     "wof:placetype":"county",

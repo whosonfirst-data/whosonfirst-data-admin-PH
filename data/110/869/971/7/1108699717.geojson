@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002819,
-    "geom:area_square_m":33222970.40072,
+    "geom:area_square_m":33223066.194881,
     "geom:bbox":"120.639508,17.572554,120.724448,17.627204",
     "geom:latitude":17.601942,
     "geom:longitude":120.685056,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.TY",
+    "statoids:name":"Tayum",
+    "statoids:population":13940,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.TY"
+    },
     "wof:country":"PH",
     "wof:created":1474497285,
-    "wof:geomhash":"2a66a394cfc2ed1578aa7fc5809c1027",
+    "wof:geomhash":"f3b5868c03977e9874dda36b7bd3bea5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699717,
-    "wof:lastmodified":1626127487,
+    "wof:lastmodified":1694492566,
     "wof:name":"Tayum",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018367,
-    "geom:area_square_m":223636242.637853,
+    "geom:area_square_m":223636357.104242,
     "geom:bbox":"125.596889,9.854555,125.706253,10.182055",
     "geom:latitude":10.028162,
     "geom:longitude":125.650638,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DI.CG",
+    "statoids:name":"Cagdianao",
+    "statoids:population":15047,
+    "statoids:statoid":"PH.DI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DI.CG"
+    },
     "wof:country":"PH",
     "wof:created":1474495514,
-    "wof:geomhash":"e1058294f544ac28e0217b9ef7563f3b",
+    "wof:geomhash":"2e08f2b51e6f521f06f10f21a8d80836",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697183,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cagdianao",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

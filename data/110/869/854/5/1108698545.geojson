@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125231,
-    "geom:area_square_m":1487217024.463352,
+    "geom:area_square_m":1487217233.121,
     "geom:bbox":"121.292524,15.944806,121.893575,16.358805",
     "geom:latitude":16.174159,
     "geom:longitude":121.539713,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QR.NG",
+    "statoids:name":"Nagtipunan",
+    "statoids:population":22473,
+    "statoids:statoid":"PH.QR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QR.NG"
+    },
     "wof:country":"PH",
     "wof:created":1474496447,
-    "wof:geomhash":"8f56c2e84a6d5e959d907bc8d1323b6b",
+    "wof:geomhash":"ca1d5af189ef19ad41c91c4011997625",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698545,
-    "wof:lastmodified":1626127519,
+    "wof:lastmodified":1694492571,
     "wof:name":"Nagtipunan",
     "wof:parent_id":85676089,
     "wof:placetype":"county",

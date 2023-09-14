@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011818,
-    "geom:area_square_m":143180277.328905,
+    "geom:area_square_m":143180047.974869,
     "geom:bbox":"124.857203,11.462916,125.022653,11.609583",
     "geom:latitude":11.536763,
     "geom:longitude":124.939067,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.VL",
+    "statoids:name":"Villareal",
+    "statoids:population":26221,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497388,
-    "wof:geomhash":"c0c2ae5475654257821243f55a878023",
+    "wof:geomhash":"052f44ff7521d6964b7a3acd47045d71",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699869,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694492892,
     "wof:name":"Villareal",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

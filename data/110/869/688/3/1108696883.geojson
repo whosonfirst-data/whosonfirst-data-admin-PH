@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031432,
-    "geom:area_square_m":385342590.658209,
+    "geom:area_square_m":385342686.175272,
     "geom:bbox":"124.639307,7.32674,124.830275,7.622346",
     "geom:latitude":7.499548,
     "geom:longitude":124.729502,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.BN",
+    "statoids:name":"Banisilan",
+    "statoids:population":39914,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495310,
-    "wof:geomhash":"bd077f4d44c1b1e0c863daab536bec1f",
+    "wof:geomhash":"85b55b0379fe6ec4795d173fd406b18b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696883,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Banisilan",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037222,
-    "geom:area_square_m":457285597.959169,
+    "geom:area_square_m":457285277.298786,
     "geom:bbox":"124.022888,6.433277,124.28612,6.591527",
     "geom:latitude":6.512551,
     "geom:longitude":124.16121,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.KL",
+    "statoids:name":"Kalamansig",
+    "statoids:population":46408,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.KL"
+    },
     "wof:country":"PH",
     "wof:created":1474495987,
-    "wof:geomhash":"4fbd6cc285aed3bdd3167606bd26ceb1",
+    "wof:geomhash":"24c547c01fa20848277995db993308fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697875,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Kalamansig",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003629,
-    "geom:area_square_m":44370738.690284,
+    "geom:area_square_m":44370752.473064,
     "geom:bbox":"124.409631,8.529611,124.47789,8.627889",
     "geom:latitude":8.587334,
     "geom:longitude":124.441521,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.LG",
+    "statoids:name":"Laguindingan",
+    "statoids:population":21822,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.LG"
+    },
     "wof:country":"PH",
     "wof:created":1474495158,
-    "wof:geomhash":"2bd0f62d19c37e36e3f7449896b8f34f",
+    "wof:geomhash":"8d0642939f9e18416893ac24f4aec77e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696657,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Alubijid",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

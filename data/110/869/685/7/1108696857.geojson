@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018019,
-    "geom:area_square_m":217920911.845347,
+    "geom:area_square_m":217920872.222037,
     "geom:bbox":"123.141251,11.904555,123.333037,12.135389",
     "geom:latitude":12.029611,
     "geom:longitude":123.233922,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.BL",
+    "statoids:name":"Balud",
+    "statoids:population":35841,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495292,
-    "wof:geomhash":"2d5bc057d80d22ad1421910a2c7dfcb8",
+    "wof:geomhash":"11cc220049f8e99af704f294e4a5bba3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696857,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Balud",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

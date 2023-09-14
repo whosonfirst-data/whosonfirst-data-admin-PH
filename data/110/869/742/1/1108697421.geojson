@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008732,
-    "geom:area_square_m":106361446.170328,
+    "geom:area_square_m":106361353.058587,
     "geom:bbox":"124.211572,9.851235,124.360446,9.970719",
     "geom:latitude":9.912536,
     "geom:longitude":124.287037,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.DG",
+    "statoids:name":"Dagohoy",
+    "statoids:population":18868,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.DG"
+    },
     "wof:country":"PH",
     "wof:created":1474495687,
-    "wof:geomhash":"ac4a7f7ee7e8dfc2d5b1612ecb45581c",
+    "wof:geomhash":"4872cd71c34799d500f97ba129bb5a84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697421,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Dagohoy",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

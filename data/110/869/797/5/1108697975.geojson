@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003714,
-    "geom:area_square_m":45382678.238314,
+    "geom:area_square_m":45382632.3392,
     "geom:bbox":"124.773896,8.787693,124.860969,8.841968",
     "geom:latitude":8.813805,
     "geom:longitude":124.820361,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.LA",
+    "statoids:name":"Lagonglong",
+    "statoids:population":19303,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474496051,
-    "wof:geomhash":"f70f3de63d48fd43bd8ec7f986d16004",
+    "wof:geomhash":"e7ad6ff2950a7f3d9e18d5625eea1415",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697975,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694492858,
     "wof:name":"Lagonglong",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

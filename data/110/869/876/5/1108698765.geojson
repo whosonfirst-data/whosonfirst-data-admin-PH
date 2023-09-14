@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020256,
-    "geom:area_square_m":248430018.884415,
+    "geom:area_square_m":248430418.953876,
     "geom:bbox":"125.54297,7.216772,125.716248,7.441595",
     "geom:latitude":7.320172,
     "geom:longitude":125.603836,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DV.PN",
+    "statoids:name":"Panabo, City of",
+    "statoids:population":174364,
+    "statoids:statoid":"PH.DV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DV.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496601,
-    "wof:geomhash":"06d6839a11c8e0253f22da9246e903fa",
+    "wof:geomhash":"d742cf70b5e3e52467de7f33aec52f92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698765,
-    "wof:lastmodified":1626127509,
+    "wof:lastmodified":1694492570,
     "wof:name":"Panabo",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

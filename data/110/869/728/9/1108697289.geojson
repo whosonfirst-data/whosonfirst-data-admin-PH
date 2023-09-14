@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008909,
-    "geom:area_square_m":108047986.885816,
+    "geom:area_square_m":108048302.355777,
     "geom:bbox":"124.646934,11.151609,124.736338,11.306395",
     "geom:latitude":11.237577,
     "geom:longitude":124.687732,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.CR",
+    "statoids:name":"Carigara",
+    "statoids:population":47444,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495585,
-    "wof:geomhash":"b772861b14687ecf283c045bd7d01cfc",
+    "wof:geomhash":"3f3107fbf7861388c9b5d1a2c861e430",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697289,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Carigara",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

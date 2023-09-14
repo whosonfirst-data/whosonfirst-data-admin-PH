@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003243,
-    "geom:area_square_m":39571545.834392,
+    "geom:area_square_m":39571552.173748,
     "geom:bbox":"123.247416,9.264041,123.31208,9.326202",
     "geom:latitude":9.296595,
     "geom:longitude":123.279332,
@@ -345,6 +345,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.DM",
+    "statoids:name":"Dumaguete City",
+    "statoids:population":120883,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":2926,
     "wof:belongsto":[
         102191569,
@@ -354,6 +362,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1714200,
+        "hasc:id":"PH.NR.DM",
         "qs_pg:id":87858,
         "wd:id":"Q873377",
         "wk:page":"Dumaguete"
@@ -363,7 +372,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9c0baa973786dbf65ca078bc19f819b",
+    "wof:geomhash":"4552b47c97dbf80b94e11f812c9e6073",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -373,7 +382,7 @@
         }
     ],
     "wof:id":890415251,
-    "wof:lastmodified":1690851630,
+    "wof:lastmodified":1694492498,
     "wof:name":"Dumaguete City",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

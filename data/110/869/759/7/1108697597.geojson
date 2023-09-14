@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021608,
-    "geom:area_square_m":257444446.098957,
+    "geom:area_square_m":257444764.616928,
     "geom:bbox":"121.190897,15.434165,121.370978,15.628025",
     "geom:latitude":15.516816,
     "geom:longitude":121.285421,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.GB",
+    "statoids:name":"Gabaldon (Bitulok & Sabani)",
+    "statoids:population":32246,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.GB"
+    },
     "wof:country":"PH",
     "wof:created":1474495804,
-    "wof:geomhash":"b0e1c365dd25486d00c4e2e192ddb7aa",
+    "wof:geomhash":"1b23e345714180848dde0fec8893d6c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697597,
-    "wof:lastmodified":1628266649,
+    "wof:lastmodified":1694492844,
     "wof:name":"Gabaldon",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024169,
-    "geom:area_square_m":291284031.294615,
+    "geom:area_square_m":291283844.835714,
     "geom:bbox":"121.240516,12.869918,121.497917,12.996427",
     "geom:latitude":12.925285,
     "geom:longitude":121.380067,
@@ -112,16 +112,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.GO",
+    "statoids:name":"Gloria",
+    "statoids:population":42012,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.GO"
+    },
     "wof:country":"PH",
     "wof:created":1474495843,
-    "wof:geomhash":"d49fe10f51fa7c9fa12eb858fd530b50",
+    "wof:geomhash":"378350d79a9fbef0f72b0da8e2ebce9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +141,7 @@
         }
     ],
     "wof:id":1108697657,
-    "wof:lastmodified":1626127454,
+    "wof:lastmodified":1694492560,
     "wof:name":"Gloria",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

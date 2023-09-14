@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009717,
-    "geom:area_square_m":114881316.732308,
+    "geom:area_square_m":114881464.336802,
     "geom:bbox":"120.539438,16.972968,120.655411,17.09345",
     "geom:latitude":17.03519,
     "geom:longitude":120.603487,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SG",
+    "statoids:name":"Sigay",
+    "statoids:population":2419,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474497127,
-    "wof:geomhash":"e26ae348afce81d1e7cfef31173c04aa",
+    "wof:geomhash":"2d063cff56259df75b8d7a7df88c51b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699485,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Sigay",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

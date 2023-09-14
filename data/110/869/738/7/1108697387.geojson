@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013296,
-    "geom:area_square_m":157476529.763529,
+    "geom:area_square_m":157476377.652646,
     "geom:bbox":"121.404204,16.631088,121.554717,16.761573",
     "geom:latitude":16.69023,
     "geom:longitude":121.478255,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.CR",
+    "statoids:name":"Cordon",
+    "statoids:population":40877,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495658,
-    "wof:geomhash":"aa1a19e1ba476b00ce9f9dfb4456594b",
+    "wof:geomhash":"61e1c1023e81baad37130c8418682646",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108697387,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Cordon",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

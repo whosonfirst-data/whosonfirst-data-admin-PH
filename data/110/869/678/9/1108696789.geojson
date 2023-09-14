@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004784,
-    "geom:area_square_m":56751838.781158,
+    "geom:area_square_m":56751560.246548,
     "geom:bbox":"120.544063,16.360977,120.63292,16.436491",
     "geom:latitude":16.401377,
     "geom:longitude":120.593823,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.BG",
+    "statoids:name":"Baguio City",
+    "statoids:population":318676,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676359
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495245,
-    "wof:geomhash":"015520bfbd00a48b9ea8f61b442cc497",
+    "wof:geomhash":"2afaa4916eea8bf3dc493b4a4e524a57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108696789,
-    "wof:lastmodified":1636501035,
+    "wof:lastmodified":1694492934,
     "wof:name":"Baguio City",
     "wof:parent_id":85676359,
     "wof:placetype":"county",

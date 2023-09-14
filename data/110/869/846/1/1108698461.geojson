@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001733,
-    "geom:area_square_m":20780527.551938,
+    "geom:area_square_m":20780408.837648,
     "geom:bbox":"122.989702,14.067783,123.048775,14.125774",
     "geom:latitude":14.093212,
     "geom:longitude":123.020999,
@@ -160,16 +160,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.MR",
+    "statoids:name":"Mercedes",
+    "statoids:population":47674,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496387,
-    "wof:geomhash":"87ffb725899cdb9e13444e3dcef3db12",
+    "wof:geomhash":"8187eea2d583ac07958a92f45ea21123",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +189,7 @@
         }
     ],
     "wof:id":1108698461,
-    "wof:lastmodified":1636501034,
+    "wof:lastmodified":1694492934,
     "wof:name":"Mercedes",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

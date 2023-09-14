@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006798,
-    "geom:area_square_m":83163691.419922,
+    "geom:area_square_m":83163822.120464,
     "geom:bbox":"123.660783,8.340872,123.84375,8.451063",
     "geom:latitude":8.384996,
     "geom:longitude":123.767166,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.AO",
+    "statoids:name":"Aloran",
+    "statoids:population":26630,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.AO"
+    },
     "wof:country":"PH",
     "wof:created":1474495155,
-    "wof:geomhash":"707cee429e1342b8fc7173334d2dfc40",
+    "wof:geomhash":"60f537602ace310a77d6f46d3d166021",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696651,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694492826,
     "wof:name":"Aloran",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

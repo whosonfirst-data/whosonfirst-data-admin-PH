@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02015,
-    "geom:area_square_m":242389811.268217,
+    "geom:area_square_m":242389672.412077,
     "geom:bbox":"120.774658,13.233617,121.000366,13.528722",
     "geom:latitude":13.388291,
     "geom:longitude":120.898234,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.PE",
+    "statoids:name":"Puerto Galera",
+    "statoids:population":32521,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.PE"
+    },
     "wof:country":"PH",
     "wof:created":1474496742,
-    "wof:geomhash":"f727cc3da0539414f1879abf25957b1a",
+    "wof:geomhash":"f329af11fc554c0fd96b7712199ab9b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698973,
-    "wof:lastmodified":1626127524,
+    "wof:lastmodified":1694492572,
     "wof:name":"Puerto Galera",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

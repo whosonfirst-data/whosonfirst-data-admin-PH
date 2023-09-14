@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006992,
-    "geom:area_square_m":85138013.676044,
+    "geom:area_square_m":85138417.388273,
     "geom:bbox":"124.187326,9.933849,124.25661,10.087395",
     "geom:latitude":10.001458,
     "geom:longitude":124.222555,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.DN",
+    "statoids:name":"Danao",
+    "statoids:population":17952,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474495695,
-    "wof:geomhash":"c2cbb0731ca84f525caecaa154d2f0fb",
+    "wof:geomhash":"e1bb7acd41cb1f14980f74a254344e47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108697435,
-    "wof:lastmodified":1626127526,
+    "wof:lastmodified":1694492572,
     "wof:name":"Danao",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

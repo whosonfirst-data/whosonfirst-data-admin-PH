@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006103,
-    "geom:area_square_m":74544658.725891,
+    "geom:area_square_m":74544462.364731,
     "geom:bbox":"124.863139,8.879412,124.954875,9.015417",
     "geom:latitude":8.948542,
     "geom:longitude":124.907003,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.TL",
+    "statoids:name":"Talisayan",
+    "statoids:population":23289,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497234,
-    "wof:geomhash":"fe017a58a9398a28b67f9c11b54e74b3",
+    "wof:geomhash":"787a8cc5291bc9698310e34f8abefd27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699639,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Talisayan",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072588,
-    "geom:area_square_m":877316561.89681,
+    "geom:area_square_m":877316926.708377,
     "geom:bbox":"124.353932,12.050894,124.843369,12.342253",
     "geom:latitude":12.192844,
     "geom:longitude":124.583364,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.CA",
+    "statoids:name":"Calbayog City",
+    "statoids:population":172778,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495539,
-    "wof:geomhash":"90bbafe5e46416e5d6c31293fa1da23d",
+    "wof:geomhash":"4d7cb48e98ef636b02025f2c27e31f3e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697221,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Calbayog City",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007223,
-    "geom:area_square_m":86532098.420569,
+    "geom:area_square_m":86532333.680239,
     "geom:bbox":"120.85541,14.232335,120.941498,14.423528",
     "geom:latitude":14.32964,
     "geom:longitude":120.899997,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.GT",
+    "statoids:name":"General Trias",
+    "statoids:population":243322,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.GT"
+    },
     "wof:country":"PH",
     "wof:created":1474495830,
-    "wof:geomhash":"b347cafeb62f556967487cc93ca73bf9",
+    "wof:geomhash":"1f3b9e583916eebb805cf233f0f6be03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697637,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1694492846,
     "wof:name":"General Trias",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

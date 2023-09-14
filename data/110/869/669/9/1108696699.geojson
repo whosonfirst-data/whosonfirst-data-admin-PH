@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015336,
-    "geom:area_square_m":186417395.782675,
+    "geom:area_square_m":186417313.103504,
     "geom:bbox":"119.791222,10.502372,120.004608,10.655389",
     "geom:latitude":10.574613,
     "geom:longitude":119.895989,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.AA",
+    "statoids:name":"Araceli",
+    "statoids:population":14113,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495186,
-    "wof:geomhash":"3bab879b79f73e19e837086278ca27a0",
+    "wof:geomhash":"00abdcd6f3576eb3863598d3b8300425",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108696699,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1694492713,
     "wof:name":"Araceli",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

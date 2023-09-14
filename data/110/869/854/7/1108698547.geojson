@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006412,
-    "geom:area_square_m":75824588.86256,
+    "geom:area_square_m":75824665.909363,
     "geom:bbox":"121.828855,16.958316,121.947044,17.045838",
     "geom:latitude":17.004468,
     "geom:longitude":121.892036,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.NG",
+    "statoids:name":"Naguilian",
+    "statoids:population":29491,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.NG"
+    },
     "wof:country":"PH",
     "wof:created":1474496448,
-    "wof:geomhash":"b2ec0737627c26c89b7cee44456564b1",
+    "wof:geomhash":"af387024994b3b4f638b24abd7cc76b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108698547,
-    "wof:lastmodified":1626127519,
+    "wof:lastmodified":1694492571,
     "wof:name":"Naguilian",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003838,
-    "geom:area_square_m":45823085.051245,
+    "geom:area_square_m":45822987.976014,
     "geom:bbox":"120.70129,15.061508,120.795151,15.149518",
     "geom:latitude":15.105028,
     "geom:longitude":120.753637,
@@ -178,16 +178,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.MX",
+    "statoids:name":"Mexico",
+    "statoids:population":146851,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.MX"
+    },
     "wof:country":"PH",
     "wof:created":1474497022,
-    "wof:geomhash":"2f3d8836b35b260c7b5c4f4249f0fe8a",
+    "wof:geomhash":"2711cf07fd6282eabd9f561d17da6013",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,7 +207,7 @@
         }
     ],
     "wof:id":1108699333,
-    "wof:lastmodified":1636501034,
+    "wof:lastmodified":1694492934,
     "wof:name":"Santa Ana",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

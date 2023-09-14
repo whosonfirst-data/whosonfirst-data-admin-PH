@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009144,
-    "geom:area_square_m":108787658.436777,
+    "geom:area_square_m":108787932.887099,
     "geom:bbox":"120.151478,15.733437,120.272143,15.893222",
     "geom:latitude":15.824139,
     "geom:longitude":120.206931,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.AU",
+    "statoids:name":"Aguilar",
+    "statoids:population":39529,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.AU"
+    },
     "wof:country":"PH",
     "wof:created":1474495103,
-    "wof:geomhash":"bf5d80b3d8e3348108e604e19ce0c68d",
+    "wof:geomhash":"d7ad63424333fcdd21cf1a64de7819e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108696573,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Aguilar",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008055,
-    "geom:area_square_m":97368917.107368,
+    "geom:area_square_m":97368891.734096,
     "geom:bbox":"123.776104,12.068896,123.897888,12.224584",
     "geom:latitude":12.148874,
     "geom:longitude":123.837034,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.DM",
+    "statoids:name":"Dimasalang",
+    "statoids:population":25245,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.DM"
+    },
     "wof:country":"PH",
     "wof:created":1474495725,
-    "wof:geomhash":"9365cf655e9d292cc94702050bc9b7c6",
+    "wof:geomhash":"0d5fb860d46b4fe34c29cc1043a120a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697479,
-    "wof:lastmodified":1626127484,
+    "wof:lastmodified":1694492566,
     "wof:name":"Dimasalang",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

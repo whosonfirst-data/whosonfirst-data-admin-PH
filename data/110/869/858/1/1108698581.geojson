@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000905,
-    "geom:area_square_m":10946389.917035,
+    "geom:area_square_m":10946475.459315,
     "geom:bbox":"121.903748,11.940361,121.947052,11.999583",
     "geom:latitude":11.972082,
     "geom:longitude":121.924059,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.MA",
+    "statoids:name":"Malay",
+    "statoids:population":45811,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.MA"
+    },
     "wof:country":"PH",
     "wof:created":1474496470,
-    "wof:geomhash":"e28d407278fd32ccae71cb1bd463c62c",
+    "wof:geomhash":"fccef218774d44bb2b6a4790cd9dcb6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698581,
-    "wof:lastmodified":1626127476,
+    "wof:lastmodified":1694492564,
     "wof:name":"Malay",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

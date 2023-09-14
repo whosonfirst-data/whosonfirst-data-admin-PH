@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051785,
-    "geom:area_square_m":609245893.964231,
+    "geom:area_square_m":609245733.843172,
     "geom:bbox":"120.507899,17.696402,120.948667,18.13216",
     "geom:latitude":17.925122,
     "geom:longitude":120.736146,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.NE",
+    "statoids:name":"Nueva Era",
+    "statoids:population":7837,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.NE"
+    },
     "wof:country":"PH",
     "wof:created":1474496539,
-    "wof:geomhash":"892cadfa0dd36bf33129b4418a61d46d",
+    "wof:geomhash":"4b528cc529c9a65ce9513e1b625cd710",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698677,
-    "wof:lastmodified":1628266693,
+    "wof:lastmodified":1694492870,
     "wof:name":"Nueva Era",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043984,
-    "geom:area_square_m":521721324.452534,
+    "geom:area_square_m":521721184.357093,
     "geom:bbox":"120.752063,16.233538,121.03115,16.610368",
     "geom:latitude":16.407635,
     "geom:longitude":120.917825,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.KY",
+    "statoids:name":"Kayapa",
+    "statoids:population":21453,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.KY"
+    },
     "wof:country":"PH",
     "wof:created":1474496011,
-    "wof:geomhash":"453ed909bf31b2016bfff5d56db24283",
+    "wof:geomhash":"3fc3970c569acbdce076e5f96b592592",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697915,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Kayapa",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

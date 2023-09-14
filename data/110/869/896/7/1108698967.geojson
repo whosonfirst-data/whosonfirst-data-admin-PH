@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043778,
-    "geom:area_square_m":535123827.073921,
+    "geom:area_square_m":535123844.69224,
     "geom:bbox":"125.796871,8.551631,126.01733,8.879495",
     "geom:latitude":8.678989,
     "geom:longitude":125.896917,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.PO",
+    "statoids:name":"Prosperidad",
+    "statoids:population":76628,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.PO"
+    },
     "wof:country":"PH",
     "wof:created":1474496738,
-    "wof:geomhash":"9b58f4b241697462ccdefd204000fde4",
+    "wof:geomhash":"892a42e2e979e55fe827c4380e3e49f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108698967,
-    "wof:lastmodified":1626127517,
+    "wof:lastmodified":1694492571,
     "wof:name":"Prosperidad",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

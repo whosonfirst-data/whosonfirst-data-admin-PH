@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021019,
-    "geom:area_square_m":252338101.014772,
+    "geom:area_square_m":252338080.720177,
     "geom:bbox":"124.124557,13.734594,124.260491,14.011593",
     "geom:latitude":13.858767,
     "geom:longitude":124.176524,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CT.VG",
+    "statoids:name":"Viga",
+    "statoids:population":20669,
+    "statoids:statoid":"PH.CT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CT.VG"
+    },
     "wof:country":"PH",
     "wof:created":1474495577,
-    "wof:geomhash":"ab18d9fd78963017c4138b6e14aadfec",
+    "wof:geomhash":"d9b96e95440f720957e6ce2f22252212",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697275,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Caramoran",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

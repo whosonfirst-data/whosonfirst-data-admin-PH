@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019949,
-    "geom:area_square_m":241002655.812371,
+    "geom:area_square_m":241002591.998683,
     "geom:bbox":"124.911708,12.238155,125.162359,12.383575",
     "geom:latitude":12.306108,
     "geom:longitude":125.024622,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.LN",
+    "statoids:name":"Las Navas",
+    "statoids:population":36539,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496080,
-    "wof:geomhash":"aa403da5aa7264e24b94f14bf01c0c49",
+    "wof:geomhash":"943fbf8aff3b041b8cf1c3c802142105",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698017,
-    "wof:lastmodified":1628266672,
+    "wof:lastmodified":1694492859,
     "wof:name":"Las Navas",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079602,
-    "geom:area_square_m":975666153.831824,
+    "geom:area_square_m":975665781.365566,
     "geom:bbox":"126.249441,7.447083,126.599586,7.742944",
     "geom:latitude":7.593411,
     "geom:longitude":126.433018,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.BG",
+    "statoids:name":"Baganga",
+    "statoids:population":53426,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495240,
-    "wof:geomhash":"d0b2f2c9d299f3de1c640d48ac48485f",
+    "wof:geomhash":"63fec45a845b8792e61082fc09c9a99a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696783,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Baganga",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006037,
-    "geom:area_square_m":72421060.571618,
+    "geom:area_square_m":72421219.090611,
     "geom:bbox":"120.843784,14.011685,120.968807,14.098294",
     "geom:latitude":14.04871,
     "geom:longitude":120.904372,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.LU",
+    "statoids:name":"Laurel",
+    "statoids:population":35674,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.LU"
+    },
     "wof:country":"PH",
     "wof:created":1474496085,
-    "wof:geomhash":"152c80955ea29526b3731a3d9f2e14f0",
+    "wof:geomhash":"a09b37f326bdd5b91426f9e1273bf0ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108698027,
-    "wof:lastmodified":1636501021,
+    "wof:lastmodified":1694492932,
     "wof:name":"Laurel",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

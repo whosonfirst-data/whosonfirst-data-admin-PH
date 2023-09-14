@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004096,
-    "geom:area_square_m":48383868.590105,
+    "geom:area_square_m":48383917.801069,
     "geom:bbox":"120.464681,17.148578,120.57198,17.213606",
     "geom:latitude":17.180703,
     "geom:longitude":120.521239,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.GL",
+    "statoids:name":"Galimuyod",
+    "statoids:population":10011,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.GL"
+    },
     "wof:country":"PH",
     "wof:created":1474495807,
-    "wof:geomhash":"bdc6825cfd3f180fcb36997ebd6fafa4",
+    "wof:geomhash":"caa49af0ee7bbc07fb2b1475301d63c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697601,
-    "wof:lastmodified":1626127497,
+    "wof:lastmodified":1694492568,
     "wof:name":"Galimuyod",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

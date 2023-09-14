@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022527,
-    "geom:area_square_m":273726905.973194,
+    "geom:area_square_m":273726728.064008,
     "geom:bbox":"123.87458,10.237056,124.567917,11.354584",
     "geom:latitude":10.681339,
     "geom:longitude":124.353243,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.CO",
+    "statoids:name":"Cordoba",
+    "statoids:population":50353,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.CO"
+    },
     "wof:country":"PH",
     "wof:created":1474496493,
-    "wof:geomhash":"fb7e7251b95bcc3d2e0e623b604165bc",
+    "wof:geomhash":"4b6c401aab422f14e01f7123418ccecb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108698607,
-    "wof:lastmodified":1636501020,
+    "wof:lastmodified":1694492932,
     "wof:name":"Cordova",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

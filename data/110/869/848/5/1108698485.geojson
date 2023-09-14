@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006282,
-    "geom:area_square_m":76512828.772352,
+    "geom:area_square_m":76512774.414641,
     "geom:bbox":"123.365448,9.901309,123.495495,9.999084",
     "geom:latitude":9.938965,
     "geom:longitude":123.429418,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.MA",
+    "statoids:name":"Moalboal",
+    "statoids:population":27676,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.MA"
+    },
     "wof:country":"PH",
     "wof:created":1474496408,
-    "wof:geomhash":"3dd736619e4baebdc2b611f4a8d982fd",
+    "wof:geomhash":"a8a45952dc86f4b525f59daf3f12fc81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698485,
-    "wof:lastmodified":1626127506,
+    "wof:lastmodified":1694492569,
     "wof:name":"Moalboal",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

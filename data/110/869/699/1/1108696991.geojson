@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010048,
-    "geom:area_square_m":118749020.622177,
+    "geom:area_square_m":118749315.653643,
     "geom:bbox":"120.780862,17.053352,120.895574,17.186567",
     "geom:latitude":17.11197,
     "geom:longitude":120.843106,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.BS",
+    "statoids:name":"Besao",
+    "statoids:population":7818,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.BS"
+    },
     "wof:country":"PH",
     "wof:created":1474495389,
-    "wof:geomhash":"036b665240082f202c7c190201dc7137",
+    "wof:geomhash":"5b2b31d5df86779ec4317e556cec61a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696991,
-    "wof:lastmodified":1626127515,
+    "wof:lastmodified":1694492570,
     "wof:name":"Besao",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

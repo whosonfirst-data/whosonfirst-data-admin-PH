@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025797,
-    "geom:area_square_m":315969611.847712,
+    "geom:area_square_m":315969624.649794,
     "geom:bbox":"123.209751,7.788221,123.489178,7.967143",
     "geom:latitude":7.884572,
     "geom:longitude":123.334891,
@@ -324,6 +324,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.PG",
+    "statoids:name":"Pagadian City",
+    "statoids:population":186852,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":3370,
     "wof:belongsto":[
         102191569,
@@ -333,6 +341,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1696707,
+        "hasc:id":"PH.ZS.PG",
         "qs_pg:id":87104,
         "wd:id":"Q874270",
         "wk:page":"Pagadian"
@@ -342,7 +351,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d40b90f097071a5264a06bac69ce97f",
+    "wof:geomhash":"3df21a7ce19efcc6b54c2013ea8e4c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -352,7 +361,7 @@
         }
     ],
     "wof:id":890429639,
-    "wof:lastmodified":1690851780,
+    "wof:lastmodified":1694492498,
     "wof:name":"Pagadian City",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

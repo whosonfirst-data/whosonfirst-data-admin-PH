@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019458,
-    "geom:area_square_m":229219142.207264,
+    "geom:area_square_m":229219384.585991,
     "geom:bbox":"121.571015,17.613625,121.743542,17.800314",
     "geom:latitude":17.695028,
     "geom:longitude":121.654179,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.SL",
+    "statoids:name":"Solana",
+    "statoids:population":76596,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474497162,
-    "wof:geomhash":"5c3076c281e0da3e61ae8f93deae149a",
+    "wof:geomhash":"670c565d69e62dc5620559b10b1da81a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699535,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Solana",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

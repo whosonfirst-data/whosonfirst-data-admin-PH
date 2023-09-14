@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015702,
-    "geom:area_square_m":184476445.874484,
+    "geom:area_square_m":184476299.588257,
     "geom:bbox":"120.688715,18.1161,120.869182,18.252047",
     "geom:latitude":18.175704,
     "geom:longitude":120.778805,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.PD",
+    "statoids:name":"Piddig",
+    "statoids:population":20606,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.PD"
+    },
     "wof:country":"PH",
     "wof:created":1474496670,
-    "wof:geomhash":"6e55faeef57ff2fd60f2dadafab55c49",
+    "wof:geomhash":"49693129d6a5313133487b06b6150de1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698863,
-    "wof:lastmodified":1626127468,
+    "wof:lastmodified":1694492563,
     "wof:name":"Piddig",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

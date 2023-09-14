@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009039,
-    "geom:area_square_m":108516798.697247,
+    "geom:area_square_m":108516663.834665,
     "geom:bbox":"120.614555,13.769555,120.721252,13.937537",
     "geom:latitude":13.864264,
     "geom:longitude":120.656016,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.CL",
+    "statoids:name":"Calatagan",
+    "statoids:population":51997,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495533,
-    "wof:geomhash":"ba2019bd1b5adf097fb17d91c68f4f56",
+    "wof:geomhash":"f1883fc16e1ec904b51dbd1dbf4dd2be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697213,
-    "wof:lastmodified":1626127529,
+    "wof:lastmodified":1694492573,
     "wof:name":"Calatagan",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

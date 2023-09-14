@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006951,
-    "geom:area_square_m":83405914.367249,
+    "geom:area_square_m":83405617.767949,
     "geom:bbox":"120.667387,13.898107,120.844017,14.064884",
     "geom:latitude":13.969773,
     "geom:longitude":120.732318,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.BA",
+    "statoids:name":"Balayan",
+    "statoids:population":81805,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.BA"
+    },
     "wof:country":"PH",
     "wof:created":1474495268,
-    "wof:geomhash":"dead206ee21e255bbe3b947054ad3fae",
+    "wof:geomhash":"92f59e085b9e1614a4b13ad9518b40bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696821,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balayan",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

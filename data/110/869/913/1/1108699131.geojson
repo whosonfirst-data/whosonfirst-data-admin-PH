@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012666,
-    "geom:area_square_m":149591624.567539,
+    "geom:area_square_m":149591736.64739,
     "geom:bbox":"120.542727,17.177371,120.686468,17.308281",
     "geom:latitude":17.232773,
     "geom:longitude":120.612101,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SE",
+    "statoids:name":"San Emilio",
+    "statoids:population":7427,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SE"
+    },
     "wof:country":"PH",
     "wof:created":1474496882,
-    "wof:geomhash":"fde861e162f3b704d9272fbd1e4b33d6",
+    "wof:geomhash":"a7bfb0d3a9cb401209346e88fa4de3a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699131,
-    "wof:lastmodified":1626127491,
+    "wof:lastmodified":1694492567,
     "wof:name":"San Emilio",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

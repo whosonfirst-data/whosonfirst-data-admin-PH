@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008792,
-    "geom:area_square_m":106603756.510132,
+    "geom:area_square_m":106603819.727577,
     "geom:bbox":"122.569864,11.230394,122.667227,11.369137",
     "geom:latitude":11.305151,
     "geom:longitude":122.620216,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.DU",
+    "statoids:name":"Dumalag",
+    "statoids:population":29298,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.DU"
+    },
     "wof:country":"PH",
     "wof:created":1474495762,
-    "wof:geomhash":"29a650ac763a176f0a30005de25682ea",
+    "wof:geomhash":"83acfb6053d98c8474c906f12cdc2a96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697533,
-    "wof:lastmodified":1628266645,
+    "wof:lastmodified":1694492842,
     "wof:name":"Dumalag",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

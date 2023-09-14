@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001624,
-    "geom:area_square_m":19438016.062707,
+    "geom:area_square_m":19437986.780949,
     "geom:bbox":"121.19388,14.545782,121.257708,14.595343",
     "geom:latitude":14.56899,
     "geom:longitude":121.224825,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.TR",
+    "statoids:name":"Teresa",
+    "statoids:population":47163,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.TR"
+    },
     "wof:country":"PH",
     "wof:created":1474497287,
-    "wof:geomhash":"0384ecaed3d55f91e460d07c1a719117",
+    "wof:geomhash":"2112e8e65057c7d585baed908b0668a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699719,
-    "wof:lastmodified":1627522512,
+    "wof:lastmodified":1694492715,
     "wof:name":"Teresa",
     "wof:parent_id":85676145,
     "wof:placetype":"county",

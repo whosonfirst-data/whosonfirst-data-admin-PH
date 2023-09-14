@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027803,
-    "geom:area_square_m":340087828.738644,
+    "geom:area_square_m":340087900.275541,
     "geom:bbox":"124.472656,8.265607,124.803244,8.524583",
     "geom:latitude":8.412325,
     "geom:longitude":124.618819,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.CG",
+    "statoids:name":"Cagayan de Oro City",
+    "statoids:population":602088,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676323
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.CG"
+    },
     "wof:country":"PH",
     "wof:created":1474495513,
-    "wof:geomhash":"85cf142ac0af628a8f0ba20a36910590",
+    "wof:geomhash":"bfa914c009b578cf6efbfca6834d021d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697181,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cagayan De Oro City",
     "wof:parent_id":85676323,
     "wof:placetype":"county",

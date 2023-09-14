@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009312,
-    "geom:area_square_m":112955892.836228,
+    "geom:area_square_m":112955878.372382,
     "geom:bbox":"124.377913,11.123964,124.481679,11.267512",
     "geom:latitude":11.194913,
     "geom:longitude":124.424127,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.VL",
+    "statoids:name":"Villaba",
+    "statoids:population":38819,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497383,
-    "wof:geomhash":"0c281a374d46ed9f867a5ef19c61282a",
+    "wof:geomhash":"9aa836d163e5b5f02952d821e1b3a03d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699863,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694492892,
     "wof:name":"Villaba",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

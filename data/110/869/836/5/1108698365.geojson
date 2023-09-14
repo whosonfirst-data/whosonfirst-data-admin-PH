@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039683,
-    "geom:area_square_m":478965838.565776,
+    "geom:area_square_m":478965998.48226,
     "geom:bbox":"121.2397,12.454595,121.503806,12.655248",
     "geom:latitude":12.550815,
     "geom:longitude":121.350849,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.MN",
+    "statoids:name":"Mansalay",
+    "statoids:population":51705,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496315,
-    "wof:geomhash":"e226af86f4db095b9fecea0290fb50a5",
+    "wof:geomhash":"1826ea7ab45b0c214fce165a6419bfc6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698365,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mansalay",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

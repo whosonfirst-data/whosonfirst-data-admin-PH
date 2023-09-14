@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007521,
-    "geom:area_square_m":90993794.906646,
+    "geom:area_square_m":90993815.454647,
     "geom:bbox":"124.72039,11.840389,124.869437,11.960397",
     "geom:latitude":11.906562,
     "geom:longitude":124.79717,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.TR",
+    "statoids:name":"Tarangnan",
+    "statoids:population":24146,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.TR"
+    },
     "wof:country":"PH",
     "wof:created":1474497272,
-    "wof:geomhash":"515e2f556c0f07540f2b14c0450fdaf3",
+    "wof:geomhash":"0f7c0d4d04e4e5af9302a870f6c6df8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699697,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tarangnan",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

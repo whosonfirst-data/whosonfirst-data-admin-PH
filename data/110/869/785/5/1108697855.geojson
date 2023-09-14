@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004674,
-    "geom:area_square_m":55906156.863937,
+    "geom:area_square_m":55906168.58694,
     "geom:bbox":"122.304527,14.675361,122.439583,14.735416",
     "geom:latitude":14.701666,
     "geom:longitude":122.375204,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.JM",
+    "statoids:name":"Jomalig",
+    "statoids:population":6884,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.JM"
+    },
     "wof:country":"PH",
     "wof:created":1474495974,
-    "wof:geomhash":"111117a611c7088a55ab2c2ff127197e",
+    "wof:geomhash":"f327766fb5a83223fa1ff52a0acff254",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697855,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jumalig",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

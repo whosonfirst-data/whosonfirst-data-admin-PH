@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027381,
-    "geom:area_square_m":331036401.876685,
+    "geom:area_square_m":331036220.43171,
     "geom:bbox":"125.116907,11.973782,125.272335,12.232229",
     "geom:latitude":12.106573,
     "geom:longitude":125.18253,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.MS",
+    "statoids:name":"Maslog",
+    "statoids:population":4781,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.MS"
+    },
     "wof:country":"PH",
     "wof:created":1474496357,
-    "wof:geomhash":"a9b0f02ccb61317df9563ad033036b68",
+    "wof:geomhash":"ae01c84ec7d75e6fe0c4c2dbdfa95fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698421,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Maslog",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

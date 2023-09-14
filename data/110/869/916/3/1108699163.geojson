@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030788,
-    "geom:area_square_m":370436501.064497,
+    "geom:area_square_m":370436668.370825,
     "geom:bbox":"122.45979,13.164556,122.656281,13.51682",
     "geom:latitude":13.330722,
     "geom:longitude":122.555877,
@@ -520,16 +520,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.SF",
+    "statoids:name":"San Francisco (Aurora)",
+    "statoids:population":57979,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.SF"
+    },
     "wof:country":"PH",
     "wof:created":1474496902,
-    "wof:geomhash":"3296af8a5f402bdad32093bb6aa967e6",
+    "wof:geomhash":"97024a93008f1c17f9a5f6ddc0017e10",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -539,7 +549,7 @@
         }
     ],
     "wof:id":1108699163,
-    "wof:lastmodified":1636501039,
+    "wof:lastmodified":1694492935,
     "wof:name":"San Francisco",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

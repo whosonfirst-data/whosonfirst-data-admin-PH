@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031975,
-    "geom:area_square_m":391360034.697109,
+    "geom:area_square_m":391360360.64505,
     "geom:bbox":"126.176237,8.062229,126.456477,8.290434",
     "geom:latitude":8.179608,
     "geom:longitude":126.288068,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.BS",
+    "statoids:name":"Bislig, City of",
+    "statoids:population":96578,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.BS"
+    },
     "wof:country":"PH",
     "wof:created":1474495410,
-    "wof:geomhash":"4af4f7917f5ae38222e5ce2ffc63d240",
+    "wof:geomhash":"08816fd59e1c37da90ac9a55f836014c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697023,
-    "wof:lastmodified":1626127493,
+    "wof:lastmodified":1694492567,
     "wof:name":"Bislig",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

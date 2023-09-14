@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007563,
-    "geom:area_square_m":92312018.862082,
+    "geom:area_square_m":92311992.440801,
     "geom:bbox":"125.493752,9.134344,125.581195,9.318028",
     "geom:latitude":9.217556,
     "geom:longitude":125.537745,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.TB",
+    "statoids:name":"Tubay",
+    "statoids:population":20426,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497324,
-    "wof:geomhash":"802fcf14ef49e1ad92a2e53a0160f725",
+    "wof:geomhash":"c494e06f940ca1051090584d2b430081",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699775,
-    "wof:lastmodified":1626127480,
+    "wof:lastmodified":1694492565,
     "wof:name":"Tubay",
     "wof:parent_id":85676213,
     "wof:placetype":"county",

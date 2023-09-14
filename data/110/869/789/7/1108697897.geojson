@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01609,
-    "geom:area_square_m":197083498.799502,
+    "geom:area_square_m":197083469.285735,
     "geom:bbox":"123.639402,7.794652,123.818391,7.972249",
     "geom:latitude":7.876404,
     "geom:longitude":123.733122,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.KP",
+    "statoids:name":"Kapatagan",
+    "statoids:population":53916,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.KP"
+    },
     "wof:country":"PH",
     "wof:created":1474496000,
-    "wof:geomhash":"b59f1bf2a5e7a0141c09177b24fb1464",
+    "wof:geomhash":"64a0964ff07e5ba37b1064bd9b82dc8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697897,
-    "wof:lastmodified":1626127533,
+    "wof:lastmodified":1694492574,
     "wof:name":"Kapatagan",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015105,
-    "geom:area_square_m":178649781.875483,
+    "geom:area_square_m":178649964.817621,
     "geom:bbox":"121.170443,16.877937,121.325861,17.041109",
     "geom:latitude":16.958839,
     "geom:longitude":121.245397,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IF.MY",
+    "statoids:name":"Mayoyao",
+    "statoids:population":16413,
+    "statoids:statoid":"PH.IF",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IF.MY"
+    },
     "wof:country":"PH",
     "wof:created":1474496380,
-    "wof:geomhash":"cd9ff7ab3ec02d08685f15eafa2fc657",
+    "wof:geomhash":"6f08a3510aca154d3ea69f3694440538",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698451,
-    "wof:lastmodified":1628266685,
+    "wof:lastmodified":1694492866,
     "wof:name":"Mayoyao",
     "wof:parent_id":85676077,
     "wof:placetype":"county",

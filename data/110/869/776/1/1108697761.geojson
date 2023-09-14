@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011489,
-    "geom:area_square_m":139904712.659581,
+    "geom:area_square_m":139905030.546654,
     "geom:bbox":"124.030879,9.952807,124.190882,10.075417",
     "geom:latitude":10.004993,
     "geom:longitude":124.10687,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.IA",
+    "statoids:name":"Inabanga",
+    "statoids:population":43291,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.IA"
+    },
     "wof:country":"PH",
     "wof:created":1474495913,
-    "wof:geomhash":"fedc63e3763b7618a3d02cf6a6fcc532",
+    "wof:geomhash":"c7087db58d63886faee217c0d260d785",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697761,
-    "wof:lastmodified":1628266656,
+    "wof:lastmodified":1694492849,
     "wof:name":"Inabanga",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

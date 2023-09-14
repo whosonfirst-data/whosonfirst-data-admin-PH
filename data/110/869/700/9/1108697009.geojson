@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01688,
-    "geom:area_square_m":205681281.707899,
+    "geom:area_square_m":205681795.032861,
     "geom:bbox":"122.930271,9.711089,123.157913,9.88318",
     "geom:latitude":9.792289,
     "geom:longitude":123.054722,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
+        "Bindoy"
+    ],
+    "name:eng_x_variant":[
         "Bindoy (payabon)"
     ],
     "name:fra_x_preferred":[
@@ -46,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.BN",
+    "statoids:name":"Bindoy (Payabon)",
+    "statoids:population":39416,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495401,
-    "wof:geomhash":"6370d119269ec68494bb0dd434b9d53c",
+    "wof:geomhash":"3e3049ed0b23f17ab5531eb81037c5c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +78,8 @@
         }
     ],
     "wof:id":1108697009,
-    "wof:lastmodified":1628266631,
-    "wof:name":"Bindoy (payabon)",
+    "wof:lastmodified":1694639797,
+    "wof:name":"Bindoy",
     "wof:parent_id":85675945,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

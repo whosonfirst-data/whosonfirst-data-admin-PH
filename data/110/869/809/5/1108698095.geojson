@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005487,
-    "geom:area_square_m":65674496.804757,
+    "geom:area_square_m":65674338.365299,
     "geom:bbox":"120.505406,14.496931,120.61042,14.583894",
     "geom:latitude":14.533497,
     "geom:longitude":120.563541,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.LM",
+    "statoids:name":"Limay",
+    "statoids:population":57207,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.LM"
+    },
     "wof:country":"PH",
     "wof:created":1474496135,
-    "wof:geomhash":"5e56fce39de02996b5aee0ee9490fc6a",
+    "wof:geomhash":"39bc4f35021176af60f6c6ec23ce27ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108698095,
-    "wof:lastmodified":1636501037,
+    "wof:lastmodified":1694492935,
     "wof:name":"Limay",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

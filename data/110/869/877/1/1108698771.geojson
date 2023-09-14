@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008859,
-    "geom:area_square_m":107329486.479774,
+    "geom:area_square_m":107329321.571112,
     "geom:bbox":"122.76706,11.475779,122.882057,11.612056",
     "geom:latitude":11.539142,
     "geom:longitude":122.817855,
@@ -187,16 +187,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.PY",
+    "statoids:name":"Panay",
+    "statoids:population":43449,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.PY"
+    },
     "wof:country":"PH",
     "wof:created":1474496605,
-    "wof:geomhash":"cb2b192bce8602cada23194e4b035c6e",
+    "wof:geomhash":"69fd2b861aa47cb5b0fe7e2b41f68dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +216,7 @@
         }
     ],
     "wof:id":1108698771,
-    "wof:lastmodified":1636501034,
+    "wof:lastmodified":1694492934,
     "wof:name":"Panay",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

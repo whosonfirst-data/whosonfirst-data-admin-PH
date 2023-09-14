@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016044,
-    "geom:area_square_m":195083713.507996,
+    "geom:area_square_m":195083795.998813,
     "geom:bbox":"123.671249,10.385868,123.840875,10.553312",
     "geom:latitude":10.478017,
     "geom:longitude":123.757187,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.BL",
+    "statoids:name":"Balamban",
+    "statoids:population":71237,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495257,
-    "wof:geomhash":"95ecfe94971fd744ec474643fd45329e",
+    "wof:geomhash":"9c571e115e230843b95e461de26407ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108696805,
-    "wof:lastmodified":1626127465,
+    "wof:lastmodified":1694492562,
     "wof:name":"Balamban",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

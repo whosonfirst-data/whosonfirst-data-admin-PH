@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004558,
-    "geom:area_square_m":54703501.276371,
+    "geom:area_square_m":54703428.640326,
     "geom:bbox":"121.951195,13.907028,122.042445,13.985322",
     "geom:latitude":13.943771,
     "geom:longitude":121.992593,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.PA",
+    "statoids:name":"Plaridel",
+    "statoids:population":10238,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.PA"
+    },
     "wof:country":"PH",
     "wof:created":1474496708,
-    "wof:geomhash":"df1b836cf9cefaf921ff89103c44a661",
+    "wof:geomhash":"8de603afb258799c71ad5c76a7b78314",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698923,
-    "wof:lastmodified":1626127470,
+    "wof:lastmodified":1694492563,
     "wof:name":"Plaridel",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

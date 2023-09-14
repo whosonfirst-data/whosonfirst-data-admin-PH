@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006398,
-    "geom:area_square_m":76958502.288802,
+    "geom:area_square_m":76958921.387127,
     "geom:bbox":"123.28238,13.362119,123.40171,13.435612",
     "geom:latitude":13.399172,
     "geom:longitude":123.348187,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.NB",
+    "statoids:name":"Nabua",
+    "statoids:population":80111,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.NB"
+    },
     "wof:country":"PH",
     "wof:created":1474496438,
-    "wof:geomhash":"a8d0c4e7a355f08858f1549b799fafef",
+    "wof:geomhash":"4936a6218d8ab113b1b6832ca84ed9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108698531,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Nabua",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

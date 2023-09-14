@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015834,
-    "geom:area_square_m":194411007.701652,
+    "geom:area_square_m":194410991.693638,
     "geom:bbox":"124.559932,6.667511,124.708811,6.880256",
     "geom:latitude":6.796726,
     "geom:longitude":124.627267,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SK.LM",
+    "statoids:name":"Lambayong (Mariano Marcos)",
+    "statoids:population":65557,
+    "statoids:statoid":"PH.SK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676183
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SK.LM"
+    },
     "wof:country":"PH",
     "wof:created":1474496338,
-    "wof:geomhash":"928b3a1c78248f45701125fe5abfeb75",
+    "wof:geomhash":"22423b98e9c029aac0be50d720a79fba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698395,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Mariano Marcos (lambayong",
     "wof:parent_id":85676183,
     "wof:placetype":"county",

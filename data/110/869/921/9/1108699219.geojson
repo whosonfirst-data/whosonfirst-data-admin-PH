@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00323,
-    "geom:area_square_m":39302268.360784,
+    "geom:area_square_m":39302562.977909,
     "geom:bbox":"125.148654,10.245389,125.249974,10.320162",
     "geom:latitude":10.274048,
     "geom:longitude":125.191669,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
+        "San Juan"
+    ],
+    "name:eng_x_variant":[
         "San Juan (cabalian)"
     ],
     "name:fra_x_preferred":[
@@ -46,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.SJ",
+    "statoids:name":"San Juan (Cabalian)",
+    "statoids:population":14073,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496941,
-    "wof:geomhash":"71a36ce28af3dc32aac7bf483e445cdd",
+    "wof:geomhash":"92d810c48ed9419303ee378e9c7395bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +78,8 @@
         }
     ],
     "wof:id":1108699219,
-    "wof:lastmodified":1628266712,
-    "wof:name":"San Juan (cabalian)",
+    "wof:lastmodified":1694639798,
+    "wof:name":"San Juan",
     "wof:parent_id":85676203,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

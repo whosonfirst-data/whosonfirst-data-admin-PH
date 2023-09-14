@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005201,
-    "geom:area_square_m":61863893.793814,
+    "geom:area_square_m":61863702.593017,
     "geom:bbox":"120.585792,15.812204,120.677026,15.913717",
     "geom:latitude":15.861463,
     "geom:longitude":120.633317,
@@ -229,16 +229,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.RS",
+    "statoids:name":"Rosales",
+    "statoids:population":59687,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.RS"
+    },
     "wof:country":"PH",
     "wof:created":1474496794,
-    "wof:geomhash":"c74ee0e1162c0124c27306ce92150920",
+    "wof:geomhash":"cd97cd55f6c8b7d82fb242ff7883d7a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -248,7 +258,7 @@
         }
     ],
     "wof:id":1108699035,
-    "wof:lastmodified":1626127498,
+    "wof:lastmodified":1694492568,
     "wof:name":"Rosales",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

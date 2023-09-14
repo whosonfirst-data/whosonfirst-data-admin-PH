@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009133,
-    "geom:area_square_m":111561486.131428,
+    "geom:area_square_m":111561497.522213,
     "geom:bbox":"125.29489,8.861074,125.392768,8.994583",
     "geom:latitude":8.93313,
     "geom:longitude":125.336059,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.NS",
+    "statoids:name":"Nasipit",
+    "statoids:population":40663,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.NS"
+    },
     "wof:country":"PH",
     "wof:created":1474496455,
-    "wof:geomhash":"32565bb1e2e24427f648f80c4c6d5e3f",
+    "wof:geomhash":"858c219faa5f18bf49fbbc04ae1847d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698557,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Nasipit",
     "wof:parent_id":85676213,
     "wof:placetype":"county",

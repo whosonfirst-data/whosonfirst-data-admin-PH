@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041177,
-    "geom:area_square_m":504155422.805902,
+    "geom:area_square_m":504155439.986269,
     "geom:bbox":"125.383638,7.992035,125.987433,8.157543",
     "geom:latitude":8.041322,
     "geom:longitude":125.73781,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.VR",
+    "statoids:name":"Veruela",
+    "statoids:population":40457,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.VR"
+    },
     "wof:country":"PH",
     "wof:created":1474497371,
-    "wof:geomhash":"b5d99d9ba90421e1c2623c36d7d2ab4e",
+    "wof:geomhash":"276b99c33de5d74e5d0809e9839bc86f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699845,
-    "wof:lastmodified":1626127481,
+    "wof:lastmodified":1694492565,
     "wof:name":"Veruela",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

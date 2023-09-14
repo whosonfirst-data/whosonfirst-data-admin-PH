@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004307,
-    "geom:area_square_m":50785904.41813,
+    "geom:area_square_m":50786168.665133,
     "geom:bbox":"120.402054,17.457113,120.4774,17.570261",
     "geom:latitude":17.512026,
     "geom:longitude":120.446851,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SA",
+    "statoids:name":"Santa",
+    "statoids:population":15106,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SA"
+    },
     "wof:country":"PH",
     "wof:created":1474497070,
-    "wof:geomhash":"60aa27095502ce1e1bebed40c069c328",
+    "wof:geomhash":"e041474840d3193491f37838200ea49f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699405,
-    "wof:lastmodified":1636501025,
+    "wof:lastmodified":1694492933,
     "wof:name":"Santa",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

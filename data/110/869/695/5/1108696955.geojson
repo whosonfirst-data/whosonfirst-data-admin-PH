@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003261,
-    "geom:area_square_m":39157352.753303,
+    "geom:area_square_m":39157164.556959,
     "geom:bbox":"120.909554,13.763532,121.020635,13.81968",
     "geom:latitude":13.791006,
     "geom:longitude":120.961624,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.BU",
+    "statoids:name":"Bauan",
+    "statoids:population":81351,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495365,
-    "wof:geomhash":"1e20aeaac6a7f6355cfcdd5e46e31221",
+    "wof:geomhash":"b6a6a8d8d5b19400302e4ea07d990437",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696955,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492829,
     "wof:name":"Bauan",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02119,
-    "geom:area_square_m":256212369.141727,
+    "geom:area_square_m":256212456.912493,
     "geom:bbox":"125.215328,11.995111,125.513748,12.182261",
     "geom:latitude":12.081884,
     "geom:longitude":125.330843,
@@ -112,16 +112,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.DL",
+    "statoids:name":"Dolores",
+    "statoids:population":37912,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.DL"
+    },
     "wof:country":"PH",
     "wof:created":1474495750,
-    "wof:geomhash":"61951e46351e4688f97ef8e020f5c826",
+    "wof:geomhash":"7072a4b67abdf711b913dea40ae1f9c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +141,7 @@
         }
     ],
     "wof:id":1108697515,
-    "wof:lastmodified":1636501030,
+    "wof:lastmodified":1694492934,
     "wof:name":"Dolores",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

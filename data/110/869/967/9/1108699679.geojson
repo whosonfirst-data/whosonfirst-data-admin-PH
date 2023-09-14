@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013754,
-    "geom:area_square_m":168438009.18399,
+    "geom:area_square_m":168437892.477264,
     "geom:bbox":"123.884781,7.88482,124.061656,8.045146",
     "geom:latitude":7.951338,
     "geom:longitude":123.986013,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.TN",
+    "statoids:name":"Tangcal",
+    "statoids:population":12588,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497260,
-    "wof:geomhash":"82fe885961b46a85e11a2ff617f656c9",
+    "wof:geomhash":"1fe24317b834d63c2f8e7ae4379ecf78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699679,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tangkal",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

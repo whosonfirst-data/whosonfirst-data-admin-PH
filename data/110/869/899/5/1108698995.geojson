@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009196,
-    "geom:area_square_m":111547820.822585,
+    "geom:area_square_m":111548009.266255,
     "geom:bbox":"125.410874,11.14375,125.575037,11.243286",
     "geom:latitude":11.188775,
     "geom:longitude":125.485021,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.QI",
+    "statoids:name":"Quinapondan",
+    "statoids:population":13841,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.QI"
+    },
     "wof:country":"PH",
     "wof:created":1474496765,
-    "wof:geomhash":"c96e6e82069f5eee56dac838e9e0e5f9",
+    "wof:geomhash":"bc5983e39a5859a193b4d54b310e43eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698995,
-    "wof:lastmodified":1628266706,
+    "wof:lastmodified":1694492879,
     "wof:name":"Quinapundan",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040192,
-    "geom:area_square_m":479291662.197488,
+    "geom:area_square_m":479291642.664153,
     "geom:bbox":"120.246634,15.234848,120.61565,15.429787",
     "geom:latitude":15.332227,
     "geom:longitude":120.448481,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.CP",
+    "statoids:name":"Capas",
+    "statoids:population":125852,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.CP"
+    },
     "wof:country":"PH",
     "wof:created":1474495569,
-    "wof:geomhash":"642cb15d8052442af99b11eb3f572d5a",
+    "wof:geomhash":"411cf7d0318df8236c2a6aa42855b9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108697263,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Capas",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

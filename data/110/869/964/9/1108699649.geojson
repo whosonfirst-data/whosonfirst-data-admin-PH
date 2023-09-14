@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043687,
-    "geom:area_square_m":530942930.499142,
+    "geom:area_square_m":530942922.441692,
     "geom:bbox":"122.95151,10.470845,123.247323,10.769932",
     "geom:latitude":10.618174,
     "geom:longitude":123.102028,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.MR",
+    "statoids:name":"Murcia",
+    "statoids:population":75207,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474497240,
-    "wof:geomhash":"e5950270d5c3e52485c77a337d621d26",
+    "wof:geomhash":"8318a5433e3150cb5c05238a988032d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699649,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Talisay",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

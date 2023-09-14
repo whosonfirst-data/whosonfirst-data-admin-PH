@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012133,
-    "geom:area_square_m":144326666.940619,
+    "geom:area_square_m":144326808.242897,
     "geom:bbox":"120.832803,15.775442,120.979422,15.920971",
     "geom:latitude":15.844258,
     "geom:longitude":120.90361,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.LP",
+    "statoids:name":"Lupao",
+    "statoids:population":40931,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496182,
-    "wof:geomhash":"5d78f71f6667647f4a58c5e3d91749b3",
+    "wof:geomhash":"fe6c22e807d67b588dd55117937a6ca7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698163,
-    "wof:lastmodified":1628266679,
+    "wof:lastmodified":1694492863,
     "wof:name":"Lupao",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

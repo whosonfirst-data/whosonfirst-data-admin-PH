@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022256,
-    "geom:area_square_m":272328043.597676,
+    "geom:area_square_m":272327512.172539,
     "geom:bbox":"124.59786,8.159003,124.934106,8.437814",
     "geom:latitude":8.287953,
     "geom:longitude":124.702898,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.BU",
+    "statoids:name":"Baungon",
+    "statoids:population":32868,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495369,
-    "wof:geomhash":"6ff24b1ae574998903da63c8924dfa66",
+    "wof:geomhash":"486a24c0d664c7864b0c1ec85cbee31e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696963,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492829,
     "wof:name":"Baungon",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016033,
-    "geom:area_square_m":194192769.374517,
+    "geom:area_square_m":194193115.964067,
     "geom:bbox":"124.972885,11.565913,125.242973,11.687319",
     "geom:latitude":11.619632,
     "geom:longitude":125.097537,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.CL",
+    "statoids:name":"Calbiga",
+    "statoids:population":21434,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495540,
-    "wof:geomhash":"f906c1d9e0cbbf2b2b4533ba1fb7c0ec",
+    "wof:geomhash":"b4ba836771b9a616c1517b46326b1ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697223,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Calbiga",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

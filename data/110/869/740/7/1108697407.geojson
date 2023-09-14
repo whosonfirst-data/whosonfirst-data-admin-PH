@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033416,
-    "geom:area_square_m":404417165.927865,
+    "geom:area_square_m":404417158.406775,
     "geom:bbox":"119.842888,11.658694,120.073776,11.979584",
     "geom:latitude":11.827657,
     "geom:longitude":119.965916,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.CL",
+    "statoids:name":"Culion",
+    "statoids:population":19543,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495677,
-    "wof:geomhash":"094efcabe7f5c73500222f03a3f5fb78",
+    "wof:geomhash":"33ecc6cf231c96e46399cb113f0ac534",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108697407,
-    "wof:lastmodified":1626127483,
+    "wof:lastmodified":1694492566,
     "wof:name":"Culion",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

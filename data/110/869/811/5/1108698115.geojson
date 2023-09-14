@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006906,
-    "geom:area_square_m":83445912.743719,
+    "geom:area_square_m":83446010.672622,
     "geom:bbox":"121.94459,12.198932,122.045368,12.358058",
     "geom:latitude":12.278274,
     "geom:longitude":122.004378,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.LO",
+    "statoids:name":"Looc",
+    "statoids:population":21841,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.LO"
+    },
     "wof:country":"PH",
     "wof:created":1474496149,
-    "wof:geomhash":"aa0bdef88cb1718d0a365eec5de4ffbd",
+    "wof:geomhash":"fdd570ada0ddfdd0cde296f4ca5dab19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698115,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Looc",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

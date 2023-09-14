@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007966,
-    "geom:area_square_m":96118137.729276,
+    "geom:area_square_m":96118506.483315,
     "geom:bbox":"123.575417,12.573597,123.708748,12.695389",
     "geom:latitude":12.628405,
     "geom:longitude":123.637436,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.MO",
+    "statoids:name":"Monreal",
+    "statoids:population":25366,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.MO"
+    },
     "wof:country":"PH",
     "wof:created":1474496420,
-    "wof:geomhash":"e3438313a5e0c42f1b3bf57a0cc78772",
+    "wof:geomhash":"60ce4375f4df4c8a3ae9411d9b8ce8de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108698503,
-    "wof:lastmodified":1626127471,
+    "wof:lastmodified":1694492563,
     "wof:name":"Monreal",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022282,
-    "geom:area_square_m":267743989.156629,
+    "geom:area_square_m":267743934.07946,
     "geom:bbox":"122.197029,13.551617,122.409137,13.728933",
     "geom:latitude":13.64787,
     "geom:longitude":122.319885,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.CT",
+    "statoids:name":"Catanauan",
+    "statoids:population":65832,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495608,
-    "wof:geomhash":"ade376dc64b1ef1bd32f6adc1f10ac0a",
+    "wof:geomhash":"96e085ba6661108f3f1b827289534286",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697323,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Catanauan",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008639,
-    "geom:area_square_m":105290160.572708,
+    "geom:area_square_m":105290310.277318,
     "geom:bbox":"124.294974,9.62691,124.401276,9.774938",
     "geom:latitude":9.698396,
     "geom:longitude":124.345718,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.JG",
+    "statoids:name":"Jagna",
+    "statoids:population":32566,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.JG"
+    },
     "wof:country":"PH",
     "wof:created":1474495941,
-    "wof:geomhash":"b94e22f4f0949f5d54e3dad876a8152b",
+    "wof:geomhash":"489a0091c133376331806d2a8cf8c6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697803,
-    "wof:lastmodified":1628266660,
+    "wof:lastmodified":1694492851,
     "wof:name":"Jagna",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

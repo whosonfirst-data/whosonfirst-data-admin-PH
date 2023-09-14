@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022834,
-    "geom:area_square_m":280342041.003644,
+    "geom:area_square_m":280342060.526517,
     "geom:bbox":"124.108575,6.746459,124.247807,6.939947",
     "geom:latitude":6.84116,
     "geom:longitude":124.1802,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MG.SU",
+    "statoids:name":"South Upi",
+    "statoids:population":35990,
+    "statoids:statoid":"PH.MG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MG.SU"
+    },
     "wof:country":"PH",
     "wof:created":1474497167,
-    "wof:geomhash":"789389fc0db50fd507744abd3db733d6",
+    "wof:geomhash":"32a9f59b700daa441c2a5533459e40f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699541,
-    "wof:lastmodified":1626127450,
+    "wof:lastmodified":1694492560,
     "wof:name":"South Upi",
     "wof:parent_id":85676173,
     "wof:placetype":"county",

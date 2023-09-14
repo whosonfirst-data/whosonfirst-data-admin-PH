@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009132,
-    "geom:area_square_m":110603112.821908,
+    "geom:area_square_m":110603231.846547,
     "geom:bbox":"122.35132,11.548871,122.493752,11.678175",
     "geom:latitude":11.61601,
     "geom:longitude":122.420083,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.NW",
+    "statoids:name":"New Washington",
+    "statoids:population":42112,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.NW"
+    },
     "wof:country":"PH",
     "wof:created":1474496469,
-    "wof:geomhash":"1df8457f0a1ce462804abb910f782764",
+    "wof:geomhash":"b95b89e520d934a4e1cceeb793b16141",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108698577,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"New Washington",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

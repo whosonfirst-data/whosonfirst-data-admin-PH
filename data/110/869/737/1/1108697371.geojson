@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004733,
-    "geom:area_square_m":57409901.640415,
+    "geom:area_square_m":57410060.216084,
     "geom:bbox":"123.049113,11.15625,123.127892,11.261096",
     "geom:latitude":11.208124,
     "geom:longitude":123.087586,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.CN",
+    "statoids:name":"Concepcion",
+    "statoids:population":39617,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495648,
-    "wof:geomhash":"5445ab64f9b66cfd57403eee2ee0f336",
+    "wof:geomhash":"ea1d85abc767cad41bb718574549629e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697371,
-    "wof:lastmodified":1628266640,
+    "wof:lastmodified":1694492839,
     "wof:name":"Concepcion",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

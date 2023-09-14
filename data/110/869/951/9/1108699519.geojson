@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013312,
-    "geom:area_square_m":158097102.520357,
+    "geom:area_square_m":158096970.067493,
     "geom:bbox":"120.453752,16.084486,120.650394,16.23216",
     "geom:latitude":16.16513,
     "geom:longitude":120.563748,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.SS",
+    "statoids:name":"Sison",
+    "statoids:population":43979,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.SS"
+    },
     "wof:country":"PH",
     "wof:created":1474497149,
-    "wof:geomhash":"d49d62eb77d12b3d46f0848f24898c3c",
+    "wof:geomhash":"a8b4c1b81a6fad8930211849f00e8a7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699519,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Sison",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

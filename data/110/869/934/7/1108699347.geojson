@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00685,
-    "geom:area_square_m":80970994.897331,
+    "geom:area_square_m":80970893.917426,
     "geom:bbox":"120.435364,16.988753,120.568682,17.099129",
     "geom:latitude":17.055132,
     "geom:longitude":120.487962,
@@ -199,16 +199,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.SC",
+    "statoids:name":"Santa Catalina",
+    "statoids:population":13597,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474497031,
-    "wof:geomhash":"756298afdc445fe82ad7de81bce82753",
+    "wof:geomhash":"99ddc0781168aeebba2feaef8fe469f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -218,7 +228,7 @@
         }
     ],
     "wof:id":1108699347,
-    "wof:lastmodified":1636501033,
+    "wof:lastmodified":1694492934,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001825,
-    "geom:area_square_m":22337508.615576,
+    "geom:area_square_m":22337493.363241,
     "geom:bbox":"124.131095,8.145749,124.197636,8.19125",
     "geom:latitude":8.166895,
     "geom:longitude":124.162031,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.LN",
+    "statoids:name":"Linamon",
+    "statoids:population":17484,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496137,
-    "wof:geomhash":"e1b65b577b8839351596e311d5ff5278",
+    "wof:geomhash":"072a24aa98f1288355d8c2e4db6bbcf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698097,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Linamon",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

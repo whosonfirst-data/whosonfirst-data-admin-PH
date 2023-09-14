@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014022,
-    "geom:area_square_m":170534770.594665,
+    "geom:area_square_m":170534697.09406,
     "geom:bbox":"124.721771,10.334043,124.92056,10.459567",
     "geom:latitude":10.393395,
     "geom:longitude":124.830641,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.HL",
+    "statoids:name":"Hilongos",
+    "statoids:population":56803,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.HL"
+    },
     "wof:country":"PH",
     "wof:created":1474495881,
-    "wof:geomhash":"4c47fa46a7bc7f8b5edd6f09c2e28cdd",
+    "wof:geomhash":"b7508c2e254772680936f8ec7dc27e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697711,
-    "wof:lastmodified":1626127485,
+    "wof:lastmodified":1694492566,
     "wof:name":"Hilongos",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

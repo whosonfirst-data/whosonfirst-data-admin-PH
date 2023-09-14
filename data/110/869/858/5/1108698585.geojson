@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008494,
-    "geom:area_square_m":102745973.434668,
+    "geom:area_square_m":102745732.818303,
     "geom:bbox":"121.341225,11.825417,121.530357,12.122084",
     "geom:latitude":11.96384,
     "geom:longitude":121.42123,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.CA",
+    "statoids:name":"Caluya",
+    "statoids:population":30046,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474496473,
-    "wof:geomhash":"dfb96c706edf56f1f0d8c4b251268883",
+    "wof:geomhash":"d70990ce574ec6c912edd92d21f60613",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698585,
-    "wof:lastmodified":1626127476,
+    "wof:lastmodified":1694492564,
     "wof:name":"Caluya",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

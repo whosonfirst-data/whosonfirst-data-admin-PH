@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006539,
-    "geom:area_square_m":79134828.816258,
+    "geom:area_square_m":79134944.506381,
     "geom:bbox":"121.850465,11.770049,122.000987,11.901284",
     "geom:latitude":11.834862,
     "geom:longitude":121.915492,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.BR",
+    "statoids:name":"Buruanga",
+    "statoids:population":16962,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495483,
-    "wof:geomhash":"080f6b6297b26dd18d66c69626c5df12",
+    "wof:geomhash":"e66595a27c602281ccdc1544e0fd884d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697135,
-    "wof:lastmodified":1626127482,
+    "wof:lastmodified":1694492565,
     "wof:name":"Buruanga",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

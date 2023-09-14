@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01209,
-    "geom:area_square_m":146636804.611582,
+    "geom:area_square_m":146636919.81056,
     "geom:bbox":"124.790089,11.146004,124.930509,11.292042",
     "geom:latitude":11.218105,
     "geom:longitude":124.861347,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.AA",
+    "statoids:name":"Alangalang",
+    "statoids:population":46411,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495117,
-    "wof:geomhash":"b1446bacee9d97ecddf2d31744264a6b",
+    "wof:geomhash":"a9ba94d557b7c21c5ea95322f622013f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696593,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694492825,
     "wof:name":"Alangalang",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

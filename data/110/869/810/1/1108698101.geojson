@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017889,
-    "geom:area_square_m":219009429.349638,
+    "geom:area_square_m":219009417.982952,
     "geom:bbox":"126.272377,7.945275,126.450417,8.22789",
     "geom:latitude":8.07773,
     "geom:longitude":126.381992,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.LI",
+    "statoids:name":"Lingig",
+    "statoids:population":31544,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.LI"
+    },
     "wof:country":"PH",
     "wof:created":1474496140,
-    "wof:geomhash":"a92b6f0db0abe7adb6eae0010a565c2e",
+    "wof:geomhash":"e6da6a412478fb0af73ce4824f9d2b72",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698101,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Lingig",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

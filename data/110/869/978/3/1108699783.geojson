@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009478,
-    "geom:area_square_m":116053686.558966,
+    "geom:area_square_m":116053667.718975,
     "geom:bbox":"123.785128,7.930823,123.959606,8.087112",
     "geom:latitude":8.009277,
     "geom:longitude":123.872125,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.TB",
+    "statoids:name":"Tubod",
+    "statoids:population":46332,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497331,
-    "wof:geomhash":"383a7e4348f00f77ebcfd01fc0af32dc",
+    "wof:geomhash":"388cbf92391f7f43fceb7040f0eeb686",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108699783,
-    "wof:lastmodified":1626127487,
+    "wof:lastmodified":1694492566,
     "wof:name":"Tubod",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

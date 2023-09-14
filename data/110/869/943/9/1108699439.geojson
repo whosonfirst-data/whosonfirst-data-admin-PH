@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008917,
-    "geom:area_square_m":105579956.03889,
+    "geom:area_square_m":105580109.322093,
     "geom:bbox":"120.424794,16.693797,120.54664,16.814782",
     "geom:latitude":16.757323,
     "geom:longitude":120.491305,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.SN",
+    "statoids:name":"Santol",
+    "statoids:population":12007,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497091,
-    "wof:geomhash":"772862f0093b4d7dc54a6493f1f34387",
+    "wof:geomhash":"b5f2b5e49b6d605b2a7ff16b710b48bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108699439,
-    "wof:lastmodified":1627522512,
+    "wof:lastmodified":1694492715,
     "wof:name":"Santol",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

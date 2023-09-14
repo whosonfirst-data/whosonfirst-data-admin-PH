@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014418,
-    "geom:area_square_m":175913902.224222,
+    "geom:area_square_m":175913798.259859,
     "geom:bbox":"122.999138,9.314713,123.311143,9.391349",
     "geom:latitude":9.348887,
     "geom:longitude":123.156099,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.SB",
+    "statoids:name":"Sibulan",
+    "statoids:population":51519,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474497117,
-    "wof:geomhash":"ae698d69ff95b7a1b9b96f32763d8e26",
+    "wof:geomhash":"238ac8db9fe3380fa10bd932a31df52c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699477,
-    "wof:lastmodified":1626127487,
+    "wof:lastmodified":1694492566,
     "wof:name":"Sibulan",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

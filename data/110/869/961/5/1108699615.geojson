@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004235,
-    "geom:area_square_m":51789771.514392,
+    "geom:area_square_m":51789610.8872,
     "geom:bbox":"124.738747,8.486658,124.844954,8.563895",
     "geom:latitude":8.532125,
     "geom:longitude":124.791562,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.TG",
+    "statoids:name":"Tagoloan",
+    "statoids:population":63850,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676323
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474497218,
-    "wof:geomhash":"2bf0f3ac4eb4d9aa9ffdefbf93e61e35",
+    "wof:geomhash":"262bc9057d1fbc91643d11bc006f906f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108699615,
-    "wof:lastmodified":1626127494,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tagoloan",
     "wof:parent_id":85676323,
     "wof:placetype":"county",

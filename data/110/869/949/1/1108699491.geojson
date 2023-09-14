@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017624,
-    "geom:area_square_m":214255306.955235,
+    "geom:area_square_m":214255532.332645,
     "geom:bbox":"125.036279,10.443257,125.190414,10.622891",
     "geom:latitude":10.531613,
     "geom:longitude":125.121801,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.SL",
+    "statoids:name":"Silago",
+    "statoids:population":12310,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474497131,
-    "wof:geomhash":"28db01b90c7c9a62ab07d56de5eeb19b",
+    "wof:geomhash":"b31f1e00d9d445ffeed04618f6885f9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699491,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694492884,
     "wof:name":"Silago",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

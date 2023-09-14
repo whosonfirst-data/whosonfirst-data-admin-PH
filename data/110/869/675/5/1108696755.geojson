@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002423,
-    "geom:area_square_m":29577552.231793,
+    "geom:area_square_m":29577609.272772,
     "geom:bbox":"123.215174,9.217152,123.299614,9.267399",
     "geom:latitude":9.243451,
     "geom:longitude":123.2645,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.BC",
+    "statoids:name":"Bacong",
+    "statoids:population":32286,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495223,
-    "wof:geomhash":"231596db20f4b0d402d26a538278abe6",
+    "wof:geomhash":"61ced9b7738b547d92c090a0ad201712",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696755,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bacong",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

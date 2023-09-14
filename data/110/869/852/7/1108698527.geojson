@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005613,
-    "geom:area_square_m":68651637.475788,
+    "geom:area_square_m":68651497.578351,
     "geom:bbox":"124.282533,8.393437,124.429869,8.461583",
     "geom:latitude":8.430413,
     "geom:longitude":124.349604,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.NA",
+    "statoids:name":"Naawan",
+    "statoids:population":18895,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.NA"
+    },
     "wof:country":"PH",
     "wof:created":1474496435,
-    "wof:geomhash":"d43033273f130273d45d5711f1e61b90",
+    "wof:geomhash":"0d8f46c7487ea48fc96c485f43bbd9ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698527,
-    "wof:lastmodified":1628266689,
+    "wof:lastmodified":1694492868,
     "wof:name":"Naawan",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

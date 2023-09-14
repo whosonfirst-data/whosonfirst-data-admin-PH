@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003622,
-    "geom:area_square_m":43700292.023877,
+    "geom:area_square_m":43700385.526212,
     "geom:bbox":"122.013473,12.588882,122.14747,12.677889",
     "geom:latitude":12.624351,
     "geom:longitude":122.080532,
@@ -134,16 +134,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.CL",
+    "statoids:name":"Calatrava",
+    "statoids:population":9776,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495536,
-    "wof:geomhash":"1165c0f19364012ce5d8f5f0a416f115",
+    "wof:geomhash":"b42be8d49e41aeb92d0cc8702664f38c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +163,7 @@
         }
     ],
     "wof:id":1108697217,
-    "wof:lastmodified":1636501041,
+    "wof:lastmodified":1694492935,
     "wof:name":"Calatrava",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

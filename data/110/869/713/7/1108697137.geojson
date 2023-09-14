@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003574,
-    "geom:area_square_m":42712956.585558,
+    "geom:area_square_m":42712820.373432,
     "geom:bbox":"120.881982,14.83862,120.968372,14.931079",
     "geom:latitude":14.887461,
     "geom:longitude":120.92032,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.BS",
+    "statoids:name":"Bustos",
+    "statoids:population":62415,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.BS"
+    },
     "wof:country":"PH",
     "wof:created":1474495484,
-    "wof:geomhash":"c96bb2d18cd42d2004b34afa7a037799",
+    "wof:geomhash":"08e7b5b5ca47e06859cd29398a266fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697137,
-    "wof:lastmodified":1626127482,
+    "wof:lastmodified":1694492565,
     "wof:name":"Bustos",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009944,
-    "geom:area_square_m":118709111.940325,
+    "geom:area_square_m":118709024.703086,
     "geom:bbox":"120.62435,15.026094,120.781492,15.190228",
     "geom:latitude":15.099047,
     "geom:longitude":120.69807,
@@ -760,16 +760,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.MX",
+    "statoids:name":"Mexico",
+    "statoids:population":146851,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.MX"
+    },
     "wof:country":"PH",
     "wof:created":1474496391,
-    "wof:geomhash":"3e84a105f75ee2f51d43a63bbb7ae422",
+    "wof:geomhash":"1ddc10c5753ed1c48829676f5560d709",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -779,7 +789,7 @@
         }
     ],
     "wof:id":1108698467,
-    "wof:lastmodified":1626127505,
+    "wof:lastmodified":1694492569,
     "wof:name":"Mexico",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

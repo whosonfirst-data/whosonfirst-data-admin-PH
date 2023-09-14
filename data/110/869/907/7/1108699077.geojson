@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005206,
-    "geom:area_square_m":63747151.581255,
+    "geom:area_square_m":63746850.564032,
     "geom:bbox":"124.228097,7.9847,124.321652,8.088534",
     "geom:latitude":8.034061,
     "geom:longitude":124.27111,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.MW",
+    "statoids:name":"Marawi City",
+    "statoids:population":187106,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.MW"
+    },
     "wof:country":"PH",
     "wof:created":1474496838,
-    "wof:geomhash":"75edecb74be2758d8e96f1179fb24a54",
+    "wof:geomhash":"2c66064628a5f37fac3d5a9e7ed5bc16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699077,
-    "wof:lastmodified":1626127449,
+    "wof:lastmodified":1694492560,
     "wof:name":"Saguiaran",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

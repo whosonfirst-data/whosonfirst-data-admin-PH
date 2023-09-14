@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021098,
-    "geom:area_square_m":257403450.039629,
+    "geom:area_square_m":257403573.024426,
     "geom:bbox":"125.741612,9.251732,125.963092,9.487083",
     "geom:latitude":9.359192,
     "geom:longitude":125.854979,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.CR",
+    "statoids:name":"Carrascal",
+    "statoids:population":16529,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495598,
-    "wof:geomhash":"8464c90545f10e2fd750c34ab92b2e36",
+    "wof:geomhash":"dbfe649d9625359d8572a4505f8a22e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697309,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Carrascal",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

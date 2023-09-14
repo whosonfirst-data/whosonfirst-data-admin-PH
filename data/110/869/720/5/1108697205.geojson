@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016099,
-    "geom:area_square_m":193693156.004977,
+    "geom:area_square_m":193693052.585643,
     "geom:bbox":"121.096809,13.274538,121.275097,13.439555",
     "geom:latitude":13.34608,
     "geom:longitude":121.183304,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.CL",
+    "statoids:name":"Calapan, City of",
+    "statoids:population":124173,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495529,
-    "wof:geomhash":"3bd05ad288061d4e6d44f90347d8b473",
+    "wof:geomhash":"2732273a038d335aa0055362b26e95de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108697205,
-    "wof:lastmodified":1626127536,
+    "wof:lastmodified":1694492574,
     "wof:name":"Calapan",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

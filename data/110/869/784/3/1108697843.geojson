@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015816,
-    "geom:area_square_m":193473986.429478,
+    "geom:area_square_m":193474110.37568,
     "geom:bbox":"122.976219,8.298905,123.157656,8.495859",
     "geom:latitude":8.37992,
     "geom:longitude":123.057115,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
+        "Jose Dalman"
+    ],
+    "name:eng_x_variant":[
         "Jose Dalman (ponot)"
     ],
     "name:fra_x_preferred":[
@@ -46,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.JD",
+    "statoids:name":"Jose Dalman (Ponot)",
+    "statoids:population":27033,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.JD"
+    },
     "wof:country":"PH",
     "wof:created":1474495965,
-    "wof:geomhash":"f3f97c0e072d564161f4dc9c31f01c5c",
+    "wof:geomhash":"daf6b3c87aa9d58220537b84a9d17c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +78,8 @@
         }
     ],
     "wof:id":1108697843,
-    "wof:lastmodified":1628266662,
-    "wof:name":"Jose Dalman (ponot)",
+    "wof:lastmodified":1694639797,
+    "wof:name":"Jose Dalman",
     "wof:parent_id":85675961,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

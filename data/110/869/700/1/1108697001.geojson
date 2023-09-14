@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006552,
-    "geom:area_square_m":77854945.623058,
+    "geom:area_square_m":77854564.54945,
     "geom:bbox":"120.560153,15.996776,120.646799,16.113333",
     "geom:latitude":16.053816,
     "geom:longitude":120.602666,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BN",
+    "statoids:name":"Binalonan",
+    "statoids:population":52832,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495395,
-    "wof:geomhash":"17df0282ade9e2459eaa1f8b42f010cb",
+    "wof:geomhash":"20ba92faedcd75c632231a9e7b5f35d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697001,
-    "wof:lastmodified":1628266630,
+    "wof:lastmodified":1694492833,
     "wof:name":"Binalonan",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

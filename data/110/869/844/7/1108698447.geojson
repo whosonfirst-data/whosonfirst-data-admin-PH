@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035855,
-    "geom:area_square_m":434476349.78385,
+    "geom:area_square_m":434476380.482318,
     "geom:bbox":"125.21627,11.386872,125.514286,11.560412",
     "geom:latitude":11.483693,
     "geom:longitude":125.337821,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.MY",
+    "statoids:name":"Maydolong",
+    "statoids:population":13614,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.MY"
+    },
     "wof:country":"PH",
     "wof:created":1474496377,
-    "wof:geomhash":"449bcebdd5480fd89bb83de986ed2dfe",
+    "wof:geomhash":"8f1567aee63bca46868f375cd29580cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698447,
-    "wof:lastmodified":1626127469,
+    "wof:lastmodified":1694492563,
     "wof:name":"Maydolong",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

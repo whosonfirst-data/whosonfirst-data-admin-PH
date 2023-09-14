@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012285,
-    "geom:area_square_m":144773065.104261,
+    "geom:area_square_m":144772846.879434,
     "geom:bbox":"120.548063,17.48371,120.682653,17.754782",
     "geom:latitude":17.622509,
     "geom:longitude":120.605499,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.BN",
+    "statoids:name":"Bangued",
+    "statoids:population":43936,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495307,
-    "wof:geomhash":"bf59c895a1188e5a7e9f9aacfad8f2c8",
+    "wof:geomhash":"d47a07e1a54330f705f5a8e3a8c2aba2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108696879,
-    "wof:lastmodified":1626127466,
+    "wof:lastmodified":1694492563,
     "wof:name":"Bangued",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

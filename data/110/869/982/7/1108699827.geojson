@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009159,
-    "geom:area_square_m":108888609.839713,
+    "geom:area_square_m":108888721.280129,
     "geom:bbox":"120.479895,15.918054,120.634081,16.00566",
     "geom:latitude":15.962612,
     "geom:longitude":120.55871,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.UD",
+    "statoids:name":"Urdaneta, City of",
+    "statoids:population":125451,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.UD"
+    },
     "wof:country":"PH",
     "wof:created":1474497358,
-    "wof:geomhash":"05cdf7bcae624a92a1834ff2c20bbb47",
+    "wof:geomhash":"ce8736e0daceb3644324b5e6f3b94d01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699827,
-    "wof:lastmodified":1626127488,
+    "wof:lastmodified":1694492566,
     "wof:name":"Urdaneta",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

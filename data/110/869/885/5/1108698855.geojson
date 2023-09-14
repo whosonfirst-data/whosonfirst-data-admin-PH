@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003101,
-    "geom:area_square_m":36563239.501371,
+    "geom:area_square_m":36563038.270032,
     "geom:bbox":"120.620748,17.501533,120.683355,17.573263",
     "geom:latitude":17.533904,
     "geom:longitude":120.649641,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AB.PN",
+    "statoids:name":"Pe\u00f1arrubia",
+    "statoids:population":6544,
+    "statoids:statoid":"PH.AB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676039
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AB.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496664,
-    "wof:geomhash":"095b8cf7b7010ea4a6fda2c4b26b7667",
+    "wof:geomhash":"96ccf5207450fc9f79ec18216d903df6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698855,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492875,
     "wof:name":"Penarrubia",
     "wof:parent_id":85676039,
     "wof:placetype":"county",

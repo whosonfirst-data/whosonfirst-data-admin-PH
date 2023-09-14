@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021195,
-    "geom:area_square_m":259348959.509768,
+    "geom:area_square_m":259348782.559717,
     "geom:bbox":"123.550623,8.171827,123.668102,8.374012",
     "geom:latitude":8.271745,
     "geom:longitude":123.608342,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.DV",
+    "statoids:name":"Don Victoriano Chiongbian (Don Mariano Marcos)",
+    "statoids:population":9774,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.DV"
+    },
     "wof:country":"PH",
     "wof:created":1474496513,
-    "wof:geomhash":"691d014184ed0bede228da433b2641ce",
+    "wof:geomhash":"482b84448b948795c76988420b784cd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698639,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492842,
     "wof:name":"Don Victoriano",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

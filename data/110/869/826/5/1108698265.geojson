@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014554,
-    "geom:area_square_m":178138657.748131,
+    "geom:area_square_m":178138252.605736,
     "geom:bbox":"123.34974,8.053793,123.474019,8.229235",
     "geom:latitude":8.155178,
     "geom:longitude":123.415256,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.MH",
+    "statoids:name":"Mahayag",
+    "statoids:population":45015,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.MH"
+    },
     "wof:country":"PH",
     "wof:created":1474496249,
-    "wof:geomhash":"f0936eb04601b13331da1eaabdd5b6a9",
+    "wof:geomhash":"c339741678cc2430d4b5e371cf2155f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698265,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694492864,
     "wof:name":"Mahayag",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

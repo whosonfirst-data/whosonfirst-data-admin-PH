@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010333,
-    "geom:area_square_m":126606788.635762,
+    "geom:area_square_m":126606940.657175,
     "geom:bbox":"125.925623,7.685665,126.061804,7.781076",
     "geom:latitude":7.732725,
     "geom:longitude":125.991008,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.MV",
+    "statoids:name":"Montevista",
+    "statoids:population":39602,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.MV"
+    },
     "wof:country":"PH",
     "wof:created":1474496422,
-    "wof:geomhash":"d6eef46d02f7a705e750f200b7248ffa",
+    "wof:geomhash":"5761747c7a478b3fbaaa5b66ab8c3f5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698505,
-    "wof:lastmodified":1628266688,
+    "wof:lastmodified":1694492867,
     "wof:name":"Montevista",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

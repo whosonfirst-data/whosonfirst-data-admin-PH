@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00308,
-    "geom:area_square_m":37901168.603475,
+    "geom:area_square_m":37901292.301398,
     "geom:bbox":"120.793747,5.662083,120.890419,5.71125",
     "geom:latitude":5.687007,
     "geom:longitude":120.837208,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.LG",
+    "statoids:name":"Lugus",
+    "statoids:population":19839,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.LG"
+    },
     "wof:country":"PH",
     "wof:created":1474496168,
-    "wof:geomhash":"103981b933f787892817d04d27ce8649",
+    "wof:geomhash":"2deb5370d3ea93ab2c9eb766b49b85c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108698143,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Lugus",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

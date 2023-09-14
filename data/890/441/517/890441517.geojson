@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012429,
-    "geom:area_square_m":151153243.338236,
+    "geom:area_square_m":151153199.935404,
     "geom:bbox":"122.893685,10.381858,123.133451,10.467152",
     "geom:latitude":10.422355,
     "geom:longitude":123.002789,
@@ -93,6 +93,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.LC",
+    "statoids:name":"La Carlota City",
+    "statoids:population":63852,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":66,
     "wof:belongsto":[
         102191569,
@@ -103,6 +111,7 @@
     "wof:concordances":{
         "gn:id":1708224,
         "gp:id":2346788,
+        "hasc:id":"PH.ND.LC",
         "qs_pg:id":87606,
         "wk:page":"La Carlota"
     },
@@ -111,7 +120,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b142e064a20942150dca767972bc0184",
+    "wof:geomhash":"ad1fa75c914ba214debc9b57715a4074",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":890441517,
-    "wof:lastmodified":1626127560,
+    "wof:lastmodified":1694492574,
     "wof:name":"La Carlota City",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

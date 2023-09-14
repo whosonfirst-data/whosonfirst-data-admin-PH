@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014828,
-    "geom:area_square_m":177899363.589524,
+    "geom:area_square_m":177899503.099412,
     "geom:bbox":"121.637251,13.919528,121.815914,14.084858",
     "geom:latitude":14.004164,
     "geom:longitude":121.721343,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.PG",
+    "statoids:name":"Pagbilao",
+    "statoids:population":65996,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496576,
-    "wof:geomhash":"f3732a5fc53e01eccfad23acb71344b2",
+    "wof:geomhash":"99969e20de6ac4d951f7b47f75c602c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698729,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Pagbilao",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

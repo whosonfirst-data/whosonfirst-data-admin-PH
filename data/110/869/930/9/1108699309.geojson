@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033644,
-    "geom:area_square_m":408487198.299498,
+    "geom:area_square_m":408487007.078813,
     "geom:bbox":"122.029883,10.809012,122.328194,11.046927",
     "geom:latitude":10.916553,
     "geom:longitude":122.189917,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.SR",
+    "statoids:name":"San Remigio",
+    "statoids:population":30446,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497006,
-    "wof:geomhash":"8e61e284182ea1f37739e056738b41ee",
+    "wof:geomhash":"a8967addf245179d38be84d54b30f1ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108699309,
-    "wof:lastmodified":1626127455,
+    "wof:lastmodified":1694492561,
     "wof:name":"San Remigio",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

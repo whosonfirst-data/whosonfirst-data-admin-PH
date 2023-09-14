@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007509,
-    "geom:area_square_m":90873303.550534,
+    "geom:area_square_m":90873112.101758,
     "geom:bbox":"124.927003,11.753019,125.008093,11.953781",
     "geom:latitude":11.844957,
     "geom:longitude":124.96686,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.JA",
+    "statoids:name":"Jiabong",
+    "statoids:population":17075,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.JA"
+    },
     "wof:country":"PH",
     "wof:created":1474495952,
-    "wof:geomhash":"799f6471e041e9f93e68f42edd273415",
+    "wof:geomhash":"f4292f53803e7b6e184556b5d36c2c51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697821,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jiabong",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

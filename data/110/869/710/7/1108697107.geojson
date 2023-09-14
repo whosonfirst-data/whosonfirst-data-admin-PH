@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015627,
-    "geom:area_square_m":188517230.7485,
+    "geom:area_square_m":188517348.008942,
     "geom:bbox":"123.84294,12.562665,123.989459,12.757674",
     "geom:latitude":12.679744,
     "geom:longitude":123.924688,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.BU",
+    "statoids:name":"Bulan",
+    "statoids:population":93943,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495464,
-    "wof:geomhash":"6b16baafd4a621f866ab0595f46c4e07",
+    "wof:geomhash":"08a99dead1af5c606de7108b5165af0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108697107,
-    "wof:lastmodified":1626127531,
+    "wof:lastmodified":1694492573,
     "wof:name":"Bulan",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

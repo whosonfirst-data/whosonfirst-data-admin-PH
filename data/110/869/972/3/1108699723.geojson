@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005321,
-    "geom:area_square_m":63856708.319267,
+    "geom:area_square_m":63856551.116485,
     "geom:bbox":"121.260991,13.916451,121.375648,14.003746",
     "geom:latitude":13.959305,
     "geom:longitude":121.328265,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.TA",
+    "statoids:name":"Tiaong",
+    "statoids:population":91599,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497289,
-    "wof:geomhash":"5ecce99a2d1aee5531c90c57610b247b",
+    "wof:geomhash":"fc7b26139a165a7ff0287137eb3dae2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699723,
-    "wof:lastmodified":1626127538,
+    "wof:lastmodified":1694492574,
     "wof:name":"Tiaong",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

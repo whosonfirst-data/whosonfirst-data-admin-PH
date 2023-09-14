@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046154,
-    "geom:area_square_m":557238973.02564,
+    "geom:area_square_m":557238758.963556,
     "geom:bbox":"120.916252,12.329556,121.244812,12.559088",
     "geom:latitude":12.471941,
     "geom:longitude":121.084565,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MC.RZ",
+    "statoids:name":"Rizal",
+    "statoids:population":34458,
+    "statoids:statoid":"PH.MC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MC.RZ"
+    },
     "wof:country":"PH",
     "wof:created":1474496936,
-    "wof:geomhash":"c3a69dcd2321dccf9c2839f18adde461",
+    "wof:geomhash":"3b6a546795dc90f63cccd3ea7fda6813",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699215,
-    "wof:lastmodified":1636501043,
+    "wof:lastmodified":1694492936,
     "wof:name":"San Jose",
     "wof:parent_id":85676153,
     "wof:placetype":"county",

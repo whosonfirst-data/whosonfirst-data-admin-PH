@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003849,
-    "geom:area_square_m":45753257.526161,
+    "geom:area_square_m":45753071.018969,
     "geom:bbox":"120.205829,15.933111,120.267864,16.042276",
     "geom:latitude":15.992388,
     "geom:longitude":120.238162,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.LN",
+    "statoids:name":"Lingayen",
+    "statoids:population":98740,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496138,
-    "wof:geomhash":"24e28832c8ec042745cfb614844e62c5",
+    "wof:geomhash":"154cc1e7479ed51203f043d967c3fef5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108698099,
-    "wof:lastmodified":1626127516,
+    "wof:lastmodified":1694492571,
     "wof:name":"Lingayen",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

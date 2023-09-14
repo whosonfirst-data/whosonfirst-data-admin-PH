@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004785,
-    "geom:area_square_m":58587419.971424,
+    "geom:area_square_m":58587521.398442,
     "geom:bbox":"124.141212,7.987516,124.235628,8.060766",
     "geom:latitude":8.024052,
     "geom:longitude":124.194169,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.PN",
+    "statoids:name":"Pantar",
+    "statoids:population":18440,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496667,
-    "wof:geomhash":"ba67497a821a90b99149a511336586a9",
+    "wof:geomhash":"78348497e801513b14c5a94e76022dd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698859,
-    "wof:lastmodified":1626127510,
+    "wof:lastmodified":1694492570,
     "wof:name":"Piagapo",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

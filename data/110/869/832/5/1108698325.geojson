@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0045,
-    "geom:area_square_m":55284126.831168,
+    "geom:area_square_m":55284314.88045,
     "geom:bbox":"121.864555,6.476819,121.930374,6.580274",
     "geom:latitude":6.536196,
     "geom:longitude":121.896994,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BS.ML",
+    "statoids:name":"Maluso",
+    "statoids:population":33803,
+    "statoids:statoid":"PH.BS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BS.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496290,
-    "wof:geomhash":"2432cf2ceeb3ef736437baaca815f39c",
+    "wof:geomhash":"910a893cd582fa42601bcac787884c73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698325,
-    "wof:lastmodified":1626127473,
+    "wof:lastmodified":1694492564,
     "wof:name":"Maluso",
     "wof:parent_id":85675955,
     "wof:placetype":"county",

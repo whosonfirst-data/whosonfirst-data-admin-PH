@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034815,
-    "geom:area_square_m":414209793.659505,
+    "geom:area_square_m":414209446.924221,
     "geom:bbox":"121.015772,15.720162,121.27782,15.933549",
     "geom:latitude":15.811229,
     "geom:longitude":121.151976,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.PN",
+    "statoids:name":"Pantabangan",
+    "statoids:population":27353,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496626,
-    "wof:geomhash":"be7655d19056c054f6eb3f7abfa99667",
+    "wof:geomhash":"6e7686ba6b0e78d651cc6f5625159ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698797,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pantabangan",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00767,
-    "geom:area_square_m":89970045.034682,
+    "geom:area_square_m":89970163.547401,
     "geom:bbox":"120.875538,18.364396,120.967252,18.510972",
     "geom:latitude":18.440902,
     "geom:longitude":120.926669,
@@ -145,16 +145,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.AA",
+    "statoids:name":"Adams",
+    "statoids:population":1785,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495095,
-    "wof:geomhash":"560d4fca4b187caee2cffd097728ced3",
+    "wof:geomhash":"cd810a09d85d2a9d9b03186f49867654",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +174,7 @@
         }
     ],
     "wof:id":1108696559,
-    "wof:lastmodified":1626127514,
+    "wof:lastmodified":1694492570,
     "wof:name":"Adams",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

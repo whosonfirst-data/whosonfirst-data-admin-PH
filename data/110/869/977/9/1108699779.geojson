@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005246,
-    "geom:area_square_m":62194504.653285,
+    "geom:area_square_m":62194582.928516,
     "geom:bbox":"120.574839,16.451835,120.693455,16.546727",
     "geom:latitude":16.508053,
     "geom:longitude":120.63634,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.TL",
+    "statoids:name":"Tublay",
+    "statoids:population":16555,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497328,
-    "wof:geomhash":"61a98d62b2f6b8eea4dabb16d5aede51",
+    "wof:geomhash":"19bffaea73c7a4bb0f504d3acd35e2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699779,
-    "wof:lastmodified":1628266733,
+    "wof:lastmodified":1694492890,
     "wof:name":"Tublay",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00421,
-    "geom:area_square_m":50677098.915623,
+    "geom:area_square_m":50677039.481475,
     "geom:bbox":"123.688218,13.208842,123.823681,13.278778",
     "geom:latitude":13.246384,
     "geom:longitude":123.751562,
@@ -343,16 +343,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.SD",
+    "statoids:name":"Santo Domingo (Libog)",
+    "statoids:population":32414,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.SD"
+    },
     "wof:country":"PH",
     "wof:created":1474497077,
-    "wof:geomhash":"8e6a2cdce28f0ac5ea03e25332943428",
+    "wof:geomhash":"ab617e27ee3a7a7a7ac3c2d12de0bfb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -362,7 +372,7 @@
         }
     ],
     "wof:id":1108699417,
-    "wof:lastmodified":1626127483,
+    "wof:lastmodified":1694492566,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002898,
-    "geom:area_square_m":35495410.85594,
+    "geom:area_square_m":35495448.251545,
     "geom:bbox":"124.104048,7.867947,124.190751,7.941193",
     "geom:latitude":7.899859,
     "geom:longitude":124.14447,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.TU",
+    "statoids:name":"Tugaya",
+    "statoids:population":22235,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.TU"
+    },
     "wof:country":"PH",
     "wof:created":1474497340,
-    "wof:geomhash":"c404d542459fdec592e12877a12c5b1e",
+    "wof:geomhash":"985fd838b76d1a3e287da5da9c89579e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699797,
-    "wof:lastmodified":1628266733,
+    "wof:lastmodified":1694492890,
     "wof:name":"Tugaya",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

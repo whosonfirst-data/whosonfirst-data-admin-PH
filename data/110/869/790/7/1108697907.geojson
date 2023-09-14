@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004135,
-    "geom:area_square_m":50614172.486089,
+    "geom:area_square_m":50613965.690782,
     "geom:bbox":"124.050939,8.139574,124.143873,8.196222",
     "geom:latitude":8.166785,
     "geom:longitude":124.096399,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.KU",
+    "statoids:name":"Kauswagan",
+    "statoids:population":24006,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.KU"
+    },
     "wof:country":"PH",
     "wof:created":1474496007,
-    "wof:geomhash":"bb3a4bd5c64be4b6a3f3434ff1ad3909",
+    "wof:geomhash":"ee3b107050a2d1f435ab6d52e57377be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697907,
-    "wof:lastmodified":1628266664,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kauswagan",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

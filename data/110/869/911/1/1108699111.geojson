@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00802,
-    "geom:area_square_m":96804911.824959,
+    "geom:area_square_m":96804792.976229,
     "geom:bbox":"121.990364,12.476201,122.080173,12.606625",
     "geom:latitude":12.54147,
     "geom:longitude":122.035839,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.SA",
+    "statoids:name":"San Andres",
+    "statoids:population":15028,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.SA"
+    },
     "wof:country":"PH",
     "wof:created":1474496863,
-    "wof:geomhash":"7fc6f37b16c2f9b88307b8fea510409f",
+    "wof:geomhash":"a6c2881eb5b5f9d11e7c3184506fa028",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699111,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Andres",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

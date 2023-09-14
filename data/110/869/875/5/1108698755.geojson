@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011912,
-    "geom:area_square_m":143829393.485877,
+    "geom:area_square_m":143829445.193782,
     "geom:bbox":"124.8935,12.34828,124.980309,12.58625",
     "geom:latitude":12.456478,
     "geom:longitude":124.942867,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.PM",
+    "statoids:name":"Pambujan",
+    "statoids:population":31057,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.PM"
+    },
     "wof:country":"PH",
     "wof:created":1474496595,
-    "wof:geomhash":"2700a1aeb458d8edc594ec58716fb60b",
+    "wof:geomhash":"16f91b02425ba69ef782fbf5ad1346d4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698755,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pambuyan",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

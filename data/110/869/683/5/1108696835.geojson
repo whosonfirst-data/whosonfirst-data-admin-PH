@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00485,
-    "geom:area_square_m":59300293.832921,
+    "geom:area_square_m":59300526.742332,
     "geom:bbox":"123.577942,8.558908,123.650577,8.672889",
     "geom:latitude":8.615204,
     "geom:longitude":123.615186,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.BL",
+    "statoids:name":"Baliangao",
+    "statoids:population":16155,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495277,
-    "wof:geomhash":"11b73f989e76eb94193fecb053019eca",
+    "wof:geomhash":"3fe4255fb91783c2f753ee19130842eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696835,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Baliangao",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

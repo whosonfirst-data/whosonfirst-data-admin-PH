@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058658,
-    "geom:area_square_m":699853589.434097,
+    "geom:area_square_m":699853347.433518,
     "geom:bbox":"119.987744,15.067065,120.390991,15.347696",
     "geom:latitude":15.22829,
     "geom:longitude":120.203603,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.BT",
+    "statoids:name":"Botolan",
+    "statoids:population":54434,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495438,
-    "wof:geomhash":"ce5b7f79f5b64dca1ef99cc174631bec",
+    "wof:geomhash":"211752e9c339608e7e93f34da46f9cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697065,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Botolan",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

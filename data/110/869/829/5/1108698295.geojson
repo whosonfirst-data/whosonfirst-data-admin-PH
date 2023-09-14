@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053031,
-    "geom:area_square_m":652138483.332885,
+    "geom:area_square_m":652138251.935806,
     "geom:bbox":"125.260902,5.871369,125.535617,6.194734",
     "geom:latitude":6.003904,
     "geom:longitude":125.402046,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SG.MP",
+    "statoids:name":"Malapatan",
+    "statoids:population":72386,
+    "statoids:statoid":"PH.SG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SG.MP"
+    },
     "wof:country":"PH",
     "wof:created":1474496268,
-    "wof:geomhash":"7551501dae9dee421a1864af9c7595a0",
+    "wof:geomhash":"6b959b500d7541a07cef1b1c2090c8de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698295,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694492864,
     "wof:name":"Malapatan",
     "wof:parent_id":85676259,
     "wof:placetype":"county",

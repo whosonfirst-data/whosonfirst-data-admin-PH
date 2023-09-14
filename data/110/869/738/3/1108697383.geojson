@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003563,
-    "geom:area_square_m":43331963.653609,
+    "geom:area_square_m":43331942.679946,
     "geom:bbox":"123.915624,10.349527,124.003624,10.447582",
     "geom:latitude":10.387111,
     "geom:longitude":123.952253,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.CN",
+    "statoids:name":"Consolacion",
+    "statoids:population":106649,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676287
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495655,
-    "wof:geomhash":"3361bf868e428d7712b654557df12364",
+    "wof:geomhash":"540d443a763e29d306c2d0f4773d382d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697383,
-    "wof:lastmodified":1628266640,
+    "wof:lastmodified":1694492839,
     "wof:name":"Consolacion",
     "wof:parent_id":85676287,
     "wof:placetype":"county",

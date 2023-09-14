@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053793,
-    "geom:area_square_m":645323864.74146,
+    "geom:area_square_m":645323678.06835,
     "geom:bbox":"122.351049,13.923722,122.791186,14.157409",
     "geom:latitude":14.030016,
     "geom:longitude":122.530123,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.TG",
+    "statoids:name":"Tagkawayan",
+    "statoids:population":50833,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474497215,
-    "wof:geomhash":"8fa18a79a4bc7a4be9f7c4426c7f6cea",
+    "wof:geomhash":"d083a68584529690f0bdf6b2d9cc74fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699611,
-    "wof:lastmodified":1626127494,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tagkawayan",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017616,
-    "geom:area_square_m":212026440.768286,
+    "geom:area_square_m":212026489.308781,
     "geom:bbox":"123.287109,13.139102,123.464106,13.334926",
     "geom:latitude":13.2451,
     "geom:longitude":123.374569,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.LB",
+    "statoids:name":"Libon",
+    "statoids:population":71527,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496122,
-    "wof:geomhash":"e88907934b21c5a873e1d827c728dcb1",
+    "wof:geomhash":"41ae3ab77bb95ce24c188acb15d3d1d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698073,
-    "wof:lastmodified":1626127514,
+    "wof:lastmodified":1694492570,
     "wof:name":"Libon",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

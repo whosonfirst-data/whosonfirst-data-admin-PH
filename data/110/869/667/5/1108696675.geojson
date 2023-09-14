@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006511,
-    "geom:area_square_m":77280033.981693,
+    "geom:area_square_m":77279943.661096,
     "geom:bbox":"119.916252,16.223722,120.020416,16.353722",
     "geom:latitude":16.293493,
     "geom:longitude":119.975868,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.AD",
+    "statoids:name":"Anda",
+    "statoids:population":37011,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.AD"
+    },
     "wof:country":"PH",
     "wof:created":1474495170,
-    "wof:geomhash":"69480273c2e0aa44d129b3a064f64673",
+    "wof:geomhash":"7ddc29a7d55823588d048a0900ea5977",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108696675,
-    "wof:lastmodified":1636501020,
+    "wof:lastmodified":1694492932,
     "wof:name":"Anda",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

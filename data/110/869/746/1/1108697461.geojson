@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006858,
-    "geom:area_square_m":83713206.828783,
+    "geom:area_square_m":83713305.419275,
     "geom:bbox":"123.135071,9.154434,123.286438,9.252589",
     "geom:latitude":9.210077,
     "geom:longitude":123.216666,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.DU",
+    "statoids:name":"Dauin",
+    "statoids:population":25239,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.DU"
+    },
     "wof:country":"PH",
     "wof:created":1474495714,
-    "wof:geomhash":"4201381f6a25063ab31408f26706c2fa",
+    "wof:geomhash":"2bb2f2b4e1122da2dedc068caae2e12f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697461,
-    "wof:lastmodified":1626127491,
+    "wof:lastmodified":1694492567,
     "wof:name":"Dauin",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

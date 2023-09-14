@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010592,
-    "geom:area_square_m":129165889.266608,
+    "geom:area_square_m":129165636.086308,
     "geom:bbox":"123.349906,9.428137,123.470128,9.627145",
     "geom:latitude":9.541531,
     "geom:longitude":123.399886,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.OL",
+    "statoids:name":"Oslob",
+    "statoids:population":26116,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.OL"
+    },
     "wof:country":"PH",
     "wof:created":1474496560,
-    "wof:geomhash":"37cbe4121d644e8a5b51a1913cd7e560",
+    "wof:geomhash":"db35dad726bc054174fcfd86d69f1b77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698709,
-    "wof:lastmodified":1628266696,
+    "wof:lastmodified":1694492873,
     "wof:name":"Oslob",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

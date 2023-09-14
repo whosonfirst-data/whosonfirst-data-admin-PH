@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003078,
-    "geom:area_square_m":36528469.013607,
+    "geom:area_square_m":36528292.042821,
     "geom:bbox":"120.337029,16.302225,120.410933,16.362624",
     "geom:latitude":16.332437,
     "geom:longitude":120.369221,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.AO",
+    "statoids:name":"Agoo",
+    "statoids:population":60596,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.AO"
+    },
     "wof:country":"PH",
     "wof:created":1474495102,
-    "wof:geomhash":"70599397e62d6c39fbbc79fb12c6211b",
+    "wof:geomhash":"0f10a1ad7c5e7a960705dab94b7963d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696571,
-    "wof:lastmodified":1626127479,
+    "wof:lastmodified":1694492565,
     "wof:name":"Agoo",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

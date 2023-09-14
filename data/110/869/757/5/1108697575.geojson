@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014386,
-    "geom:area_square_m":174735382.221724,
+    "geom:area_square_m":174735358.752182,
     "geom:bbox":"123.357889,10.741176,123.565414,10.88724",
     "geom:latitude":10.801973,
     "geom:longitude":123.478147,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.EC",
+    "statoids:name":"Escalante, City of",
+    "statoids:population":93005,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.EC"
+    },
     "wof:country":"PH",
     "wof:created":1474495789,
-    "wof:geomhash":"2866e87d87c2b59031ccf8e167795495",
+    "wof:geomhash":"7614d42cdeebed4f352cd6d8bb463667",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108697575,
-    "wof:lastmodified":1626127502,
+    "wof:lastmodified":1694492569,
     "wof:name":"Escalante",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029351,
-    "geom:area_square_m":359011552.673453,
+    "geom:area_square_m":359011361.827429,
     "geom:bbox":"126.069126,8.337874,126.335691,8.512518",
     "geom:latitude":8.430583,
     "geom:longitude":126.217828,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.TA",
+    "statoids:name":"Tagbina",
+    "statoids:population":34812,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497214,
-    "wof:geomhash":"f1877b2baaa89f839dec3207f22bcdc5",
+    "wof:geomhash":"f7d0570afd0b0285ea0c97036b367c41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699609,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tagbina",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084526,
-    "geom:area_square_m":1000213448.072441,
+    "geom:area_square_m":1000213967.939357,
     "geom:bbox":"121.973244,16.670266,122.458831,17.059994",
     "geom:latitude":16.868298,
     "geom:longitude":122.168072,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.SR",
+    "statoids:name":"San Mariano",
+    "statoids:population":51438,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474496964,
-    "wof:geomhash":"99b8f8316ba73de9c02f4a08e5eae48c",
+    "wof:geomhash":"24aa3de4946b5505c0564eb8fb2d5412",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699255,
-    "wof:lastmodified":1628266712,
+    "wof:lastmodified":1694492882,
     "wof:name":"San Mariano",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

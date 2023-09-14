@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005689,
-    "geom:area_square_m":68483872.40581,
+    "geom:area_square_m":68483809.791871,
     "geom:bbox":"124.056221,13.171223,124.217918,13.237917",
     "geom:latitude":13.204272,
     "geom:longitude":124.149017,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.RP",
+    "statoids:name":"Rapu-Rapu",
+    "statoids:population":35875,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.RP"
+    },
     "wof:country":"PH",
     "wof:created":1474496776,
-    "wof:geomhash":"6a74540f5d67c41949898acfee48f643",
+    "wof:geomhash":"c2ea6338fcbbc486dd60fddecc79c891",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699007,
-    "wof:lastmodified":1628266707,
+    "wof:lastmodified":1694492880,
     "wof:name":"Rapu-rapu",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

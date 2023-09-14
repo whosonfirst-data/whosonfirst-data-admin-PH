@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00223,
-    "geom:area_square_m":26524274.663204,
+    "geom:area_square_m":26524098.542962,
     "geom:bbox":"120.362695,15.837119,120.42256,15.891779",
     "geom:latitude":15.861709,
     "geom:longitude":120.390231,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BS",
+    "statoids:name":"Basista",
+    "statoids:population":30385,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BS"
+    },
     "wof:country":"PH",
     "wof:created":1474495339,
-    "wof:geomhash":"fe39896d64219bb5f807e99977b48248",
+    "wof:geomhash":"38261c1374ee901e15dca8ce5bc18334",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696929,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492828,
     "wof:name":"Basista",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

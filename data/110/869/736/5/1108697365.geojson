@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02809,
-    "geom:area_square_m":342603622.265678,
+    "geom:area_square_m":342603621.513426,
     "geom:bbox":"125.673443,9.321183,125.922058,9.594584",
     "geom:latitude":9.474295,
     "geom:longitude":125.790688,
@@ -52,10 +52,12 @@
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SN.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495643,
-    "wof:geomhash":"7456cfaf85fd956f259cfa3d7352b38d",
+    "wof:geomhash":"895c9573a7710f31f23d25f0362a1e3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108697365,
-    "wof:lastmodified":1628266640,
+    "wof:lastmodified":1694492838,
     "wof:name":"Claver",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

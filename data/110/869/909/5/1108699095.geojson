@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005009,
-    "geom:area_square_m":59888404.147177,
+    "geom:area_square_m":59888359.843412,
     "geom:bbox":"120.416882,14.740461,120.551247,14.791961",
     "geom:latitude":14.76607,
     "geom:longitude":120.485948,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.SM",
+    "statoids:name":"Samal",
+    "statoids:population":33578,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474496853,
-    "wof:geomhash":"1d8d2ea535e88b99039611c16375bf0f",
+    "wof:geomhash":"5b617deed2629e60df08b4cacdc4f982",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699095,
-    "wof:lastmodified":1626127447,
+    "wof:lastmodified":1694492559,
     "wof:name":"Samal",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

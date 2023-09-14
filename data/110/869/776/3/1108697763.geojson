@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009391,
-    "geom:area_square_m":115491182.331466,
+    "geom:area_square_m":115491024.761828,
     "geom:bbox":"120.889437,5.931788,121.03399,6.04875",
     "geom:latitude":5.991452,
     "geom:longitude":120.95767,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.ID",
+    "statoids:name":"Indanan",
+    "statoids:population":65858,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.ID"
+    },
     "wof:country":"PH",
     "wof:created":1474495915,
-    "wof:geomhash":"7f8702e2f583d022f158c336d0e51bdd",
+    "wof:geomhash":"b28fefbe11841fda5e884f0982de587b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697763,
-    "wof:lastmodified":1628266656,
+    "wof:lastmodified":1694492849,
     "wof:name":"Indanan",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

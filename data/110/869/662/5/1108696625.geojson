@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009563,
-    "geom:area_square_m":113942096.384627,
+    "geom:area_square_m":113942221.246802,
     "geom:bbox":"120.770943,15.445963,120.937535,15.551949",
     "geom:latitude":15.503814,
     "geom:longitude":120.857257,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.AI",
+    "statoids:name":"Aliaga",
+    "statoids:population":57805,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495137,
-    "wof:geomhash":"0e104127c5e3557167814169c776f082",
+    "wof:geomhash":"ca2d58cf9d8312e95292ff5061ce44bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108696625,
-    "wof:lastmodified":1626127519,
+    "wof:lastmodified":1694492571,
     "wof:name":"Aliaga",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

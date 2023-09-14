@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059711,
-    "geom:area_square_m":707454145.099489,
+    "geom:area_square_m":707454055.482561,
     "geom:bbox":"121.604193,16.497269,122.1301,16.778689",
     "geom:latitude":16.630052,
     "geom:longitude":121.856088,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.EH",
+    "statoids:name":"Echague",
+    "statoids:population":74680,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.EH"
+    },
     "wof:country":"PH",
     "wof:created":1474495780,
-    "wof:geomhash":"84636c8a0d66fc5d91a2ef45ba8575f5",
+    "wof:geomhash":"eaa8b3922c1576c8fdfeee98c8752c44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697561,
-    "wof:lastmodified":1626127497,
+    "wof:lastmodified":1694492568,
     "wof:name":"Echague",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

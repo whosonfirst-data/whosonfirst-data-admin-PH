@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00569,
-    "geom:area_square_m":68214694.557945,
+    "geom:area_square_m":68214864.985817,
     "geom:bbox":"121.459022,14.143778,121.590104,14.221542",
     "geom:latitude":14.190376,
     "geom:longitude":121.523934,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.LI",
+    "statoids:name":"Luisiana",
+    "statoids:population":20148,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.LI"
+    },
     "wof:country":"PH",
     "wof:created":1474496170,
-    "wof:geomhash":"6f340f000184e4a34c07c22ffdfe8d57",
+    "wof:geomhash":"e77e96864dc12566135282cf2ee3f75c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698145,
-    "wof:lastmodified":1628266678,
+    "wof:lastmodified":1694492863,
     "wof:name":"Luisiana",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

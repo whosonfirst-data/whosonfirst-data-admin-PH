@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016735,
-    "geom:area_square_m":200970008.624501,
+    "geom:area_square_m":200969718.173931,
     "geom:bbox":"120.074554,13.672055,120.293747,13.867084",
     "geom:latitude":13.78346,
     "geom:longitude":120.181542,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MC.LO",
+    "statoids:name":"Looc",
+    "statoids:population":9758,
+    "statoids:statoid":"PH.MC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MC.LO"
+    },
     "wof:country":"PH",
     "wof:created":1474496161,
-    "wof:geomhash":"0f5da233f0e9d1f6d7edad64a23dd051",
+    "wof:geomhash":"51e27dca38e012e0e76c4077c8ed0279",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108698133,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Lubang",
     "wof:parent_id":85676153,
     "wof:placetype":"county",

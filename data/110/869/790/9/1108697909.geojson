@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003842,
-    "geom:area_square_m":46523449.432103,
+    "geom:area_square_m":46523498.374254,
     "geom:bbox":"124.332886,11.656025,124.481702,11.712055",
     "geom:latitude":11.686556,
     "geom:longitude":124.404934,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.KW",
+    "statoids:name":"Kawayan",
+    "statoids:population":20238,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.KW"
+    },
     "wof:country":"PH",
     "wof:created":1474496009,
-    "wof:geomhash":"ba709d06a9b9574ba8a8c4c15ef101dc",
+    "wof:geomhash":"1514db7c7d4f1e7b2fd76e3f3386d393",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697909,
-    "wof:lastmodified":1628266664,
+    "wof:lastmodified":1694492854,
     "wof:name":"Kawayan",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

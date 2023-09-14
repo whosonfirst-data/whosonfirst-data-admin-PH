@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012897,
-    "geom:area_square_m":158429499.164143,
+    "geom:area_square_m":158429809.88693,
     "geom:bbox":"124.657699,6.482657,124.815858,6.660115",
     "geom:latitude":6.576042,
     "geom:longitude":124.746533,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.TN",
+    "statoids:name":"Tantangan",
+    "statoids:population":40461,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497264,
-    "wof:geomhash":"444c58d450407b23598bcf13ff7cbc99",
+    "wof:geomhash":"f4e866e525e35548fa9f23c906b89053",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699683,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tantangan",
     "wof:parent_id":85676263,
     "wof:placetype":"county",

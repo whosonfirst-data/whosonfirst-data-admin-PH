@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04974,
-    "geom:area_square_m":601915531.353026,
+    "geom:area_square_m":601915263.322928,
     "geom:bbox":"124.989803,11.662433,125.282003,11.995619",
     "geom:latitude":11.857526,
     "geom:longitude":125.129971,
@@ -36,6 +36,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
+        "Paranas"
+    ],
+    "name:eng_x_variant":[
         "Paranas (wright)"
     ],
     "name:fra_x_preferred":[
@@ -46,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.PR",
+    "statoids:name":"Paranas (Wright)",
+    "statoids:population":29327,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.PR"
+    },
     "wof:country":"PH",
     "wof:created":1474496639,
-    "wof:geomhash":"2d484533aaa754c376b1dbd388119d3d",
+    "wof:geomhash":"4acc914e9ff7454a818e38153fe98189",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,8 +78,8 @@
         }
     ],
     "wof:id":1108698817,
-    "wof:lastmodified":1628266699,
-    "wof:name":"Paranas (wright)",
+    "wof:lastmodified":1694639798,
+    "wof:name":"Paranas",
     "wof:parent_id":85676201,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ph",

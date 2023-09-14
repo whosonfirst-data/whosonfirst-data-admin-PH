@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002749,
-    "geom:area_square_m":33820262.396768,
+    "geom:area_square_m":33820395.755332,
     "geom:bbox":"120.878723,5.694556,120.935387,5.761222",
     "geom:latitude":5.727997,
     "geom:longitude":120.906799,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.TP",
+    "statoids:name":"Tapul",
+    "statoids:population":16370,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.TP"
+    },
     "wof:country":"PH",
     "wof:created":1474497269,
-    "wof:geomhash":"03220731b00d10159827e9128f81a153",
+    "wof:geomhash":"fd85f7c34dd8a358e697e6a60697f820",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699691,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tapul",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

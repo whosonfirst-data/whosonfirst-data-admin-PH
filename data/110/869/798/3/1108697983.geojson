@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011836,
-    "geom:area_square_m":144939569.467897,
+    "geom:area_square_m":144939721.027458,
     "geom:bbox":"123.685417,7.891773,123.843062,8.022536",
     "geom:latitude":7.955807,
     "geom:longitude":123.772589,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.LL",
+    "statoids:name":"Lala",
+    "statoids:population":65355,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.LL"
+    },
     "wof:country":"PH",
     "wof:created":1474496057,
-    "wof:geomhash":"bd9d1afacf9e20bc46210904b44fef05",
+    "wof:geomhash":"d581af8f7c131f99061a8f585141d3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108697983,
-    "wof:lastmodified":1626127454,
+    "wof:lastmodified":1694492560,
     "wof:name":"Lala",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

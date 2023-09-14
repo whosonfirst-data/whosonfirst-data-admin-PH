@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006257,
-    "geom:area_square_m":74439122.80455,
+    "geom:area_square_m":74438942.272572,
     "geom:bbox":"120.280403,15.761544,120.394428,15.867774",
     "geom:latitude":15.820995,
     "geom:longitude":120.34357,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.UB",
+    "statoids:name":"Urbiztondo",
+    "statoids:population":47831,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.UB"
+    },
     "wof:country":"PH",
     "wof:created":1474497357,
-    "wof:geomhash":"62f38f3938976e9a50cc93e0cd044671",
+    "wof:geomhash":"f298d79ea17456977330f15b31329b4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699825,
-    "wof:lastmodified":1628266735,
+    "wof:lastmodified":1694492891,
     "wof:name":"Urbiztondo",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011274,
-    "geom:area_square_m":138011418.284863,
+    "geom:area_square_m":138011399.272455,
     "geom:bbox":"123.552526,8.023151,123.656261,8.180283",
     "geom:latitude":8.102404,
     "geom:longitude":123.599546,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.BN",
+    "statoids:name":"Bonifacio",
+    "statoids:population":30904,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495429,
-    "wof:geomhash":"5f7162366d2b3e809705f7eca4e8d366",
+    "wof:geomhash":"008e2e46669a17bbfe624bfe235adc86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697053,
-    "wof:lastmodified":1626127493,
+    "wof:lastmodified":1694492567,
     "wof:name":"Bonifacio",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002905,
-    "geom:area_square_m":34777613.441903,
+    "geom:area_square_m":34777498.829277,
     "geom:bbox":"121.437754,14.421447,121.524981,14.507955",
     "geom:latitude":14.467935,
     "geom:longitude":121.484142,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.FM",
+    "statoids:name":"Famy",
+    "statoids:population":15021,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.FM"
+    },
     "wof:country":"PH",
     "wof:created":1474495798,
-    "wof:geomhash":"ce15cd6183a60df5f1d5ecda91c3e16d",
+    "wof:geomhash":"853cb0bb4ae2ed577d4698671e500508",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697587,
-    "wof:lastmodified":1628266648,
+    "wof:lastmodified":1694492844,
     "wof:name":"Famy",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

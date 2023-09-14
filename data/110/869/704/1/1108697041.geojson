@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006933,
-    "geom:area_square_m":84521153.863001,
+    "geom:area_square_m":84521068.957691,
     "geom:bbox":"123.386922,9.583578,123.498079,9.692935",
     "geom:latitude":9.641187,
     "geom:longitude":123.441783,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.BJ",
+    "statoids:name":"Boljoon",
+    "statoids:population":15027,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.BJ"
+    },
     "wof:country":"PH",
     "wof:created":1474495421,
-    "wof:geomhash":"5563d91c2934e7a031fac82a11ebdbb8",
+    "wof:geomhash":"9701e5bf7d95f467fd3e4cd22fae1590",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697041,
-    "wof:lastmodified":1626127501,
+    "wof:lastmodified":1694492568,
     "wof:name":"Boljoon",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

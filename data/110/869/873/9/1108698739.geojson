@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025066,
-    "geom:area_square_m":302585359.916569,
+    "geom:area_square_m":302585244.506228,
     "geom:bbox":"124.962172,12.441549,125.231487,12.585417",
     "geom:latitude":12.508,
     "geom:longitude":125.084129,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.LO",
+    "statoids:name":"Laoang",
+    "statoids:population":58037,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.LO"
+    },
     "wof:country":"PH",
     "wof:created":1474496585,
-    "wof:geomhash":"af7f00a887ef6bdb23621ec2c784d618",
+    "wof:geomhash":"268d2d546624fca81d00ded2e31e0654",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698739,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Palapag",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

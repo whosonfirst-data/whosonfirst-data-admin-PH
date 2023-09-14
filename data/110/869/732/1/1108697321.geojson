@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016374,
-    "geom:area_square_m":198040977.159378,
+    "geom:area_square_m":198040934.277411,
     "geom:bbox":"123.867196,11.904098,124.052948,12.104441",
     "geom:latitude":12.002834,
     "geom:longitude":123.958063,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.CT",
+    "statoids:name":"Cataingan",
+    "statoids:population":49078,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495606,
-    "wof:geomhash":"9dc15801765a165d712811b05bcc3a9d",
+    "wof:geomhash":"544995eaedb1b02383d60120b507c5c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697321,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Cataingan",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

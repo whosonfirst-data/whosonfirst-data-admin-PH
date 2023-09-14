@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022708,
-    "geom:area_square_m":278669768.005871,
+    "geom:area_square_m":278669615.687216,
     "geom:bbox":"125.988604,6.869555,126.315862,7.183921",
     "geom:latitude":7.038315,
     "geom:longitude":126.136147,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.LP",
+    "statoids:name":"Lupon",
+    "statoids:population":61723,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496185,
-    "wof:geomhash":"78645558ff2ef92a59605e3ecd891926",
+    "wof:geomhash":"7d5ac8c21636dad9abb608a0d6b80a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698169,
-    "wof:lastmodified":1628266679,
+    "wof:lastmodified":1694492864,
     "wof:name":"Lupon",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

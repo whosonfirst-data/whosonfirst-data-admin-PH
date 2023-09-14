@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004372,
-    "geom:area_square_m":51879664.837893,
+    "geom:area_square_m":51879317.487028,
     "geom:bbox":"120.394466,16.286837,120.470423,16.385627",
     "geom:latitude":16.334757,
     "geom:longitude":120.435231,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.TB",
+    "statoids:name":"Tubao",
+    "statoids:population":26993,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497322,
-    "wof:geomhash":"a7405ff04966a0a2ac1d307a3c885c87",
+    "wof:geomhash":"c04bb3a59e463083532c15834e857718",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108699771,
-    "wof:lastmodified":1626127480,
+    "wof:lastmodified":1694492565,
     "wof:name":"Tubao",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

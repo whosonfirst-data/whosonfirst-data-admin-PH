@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011274,
-    "geom:area_square_m":136608132.636315,
+    "geom:area_square_m":136608140.353494,
     "geom:bbox":"122.385152,11.451554,122.544014,11.55875",
     "geom:latitude":11.502923,
     "geom:longitude":122.457701,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.AT",
+    "statoids:name":"Altavas",
+    "statoids:population":23919,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.AT"
+    },
     "wof:country":"PH",
     "wof:created":1474495157,
-    "wof:geomhash":"433c1e41c375d0c10f0551a85337d546",
+    "wof:geomhash":"0ecadaa20a4851b4e2a6148f67aa9a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108696655,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Altavas",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

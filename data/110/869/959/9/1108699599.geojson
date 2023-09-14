@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015244,
-    "geom:area_square_m":180304860.303529,
+    "geom:area_square_m":180304829.610214,
     "geom:bbox":"120.76587,16.84719,120.88142,17.060512",
     "geom:latitude":16.955434,
     "geom:longitude":120.820976,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MT.TD",
+    "statoids:name":"Tadian",
+    "statoids:population":20689,
+    "statoids:statoid":"PH.MT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676079
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MT.TD"
+    },
     "wof:country":"PH",
     "wof:created":1474497207,
-    "wof:geomhash":"f4827fb8d56767eafd212ecbef2b25a9",
+    "wof:geomhash":"fffbab267e2f544982a35a7bbb667686",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699599,
-    "wof:lastmodified":1626127495,
+    "wof:lastmodified":1694492568,
     "wof:name":"Tadian",
     "wof:parent_id":85676079,
     "wof:placetype":"county",

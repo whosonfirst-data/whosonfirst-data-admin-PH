@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008019,
-    "geom:area_square_m":97153777.942726,
+    "geom:area_square_m":97153522.168447,
     "geom:bbox":"122.340681,11.43129,122.419068,11.620198",
     "geom:latitude":11.532447,
     "geom:longitude":122.375102,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.BL",
+    "statoids:name":"Balete",
+    "statoids:population":27197,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495274,
-    "wof:geomhash":"6a7ad9c58500178e4a2703359209780c",
+    "wof:geomhash":"58d0f6a7c3843127c269e2dc2539b12e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108696829,
-    "wof:lastmodified":1626127507,
+    "wof:lastmodified":1694492569,
     "wof:name":"Balete",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

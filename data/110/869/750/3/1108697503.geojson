@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027932,
-    "geom:area_square_m":332021122.21345,
+    "geom:area_square_m":332021539.131501,
     "geom:bbox":"121.489156,15.792058,121.794408,16.159723",
     "geom:latitude":15.99136,
     "geom:longitude":121.621341,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AU.DP",
+    "statoids:name":"Dipaculao",
+    "statoids:population":27729,
+    "statoids:statoid":"PH.AU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AU.DP"
+    },
     "wof:country":"PH",
     "wof:created":1474495741,
-    "wof:geomhash":"0409ef6455b4cf9886b33c252c9f1266",
+    "wof:geomhash":"e8ef8930e25c78f6bd19c6879ff2c72b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697503,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492842,
     "wof:name":"Dipaculao",
     "wof:parent_id":85676065,
     "wof:placetype":"county",

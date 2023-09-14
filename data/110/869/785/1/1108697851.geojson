@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010903,
-    "geom:area_square_m":131458563.296947,
+    "geom:area_square_m":131458780.815861,
     "geom:bbox":"123.912068,12.730315,124.049455,12.882028",
     "geom:latitude":12.808468,
     "geom:longitude":123.972752,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SR.JB",
+    "statoids:name":"Juban",
+    "statoids:population":30335,
+    "statoids:statoid":"PH.SR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676035
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SR.JB"
+    },
     "wof:country":"PH",
     "wof:created":1474495971,
-    "wof:geomhash":"9c6426f8abe525a5502d6a7de6e7d02d",
+    "wof:geomhash":"9549fd03b09dd777ae07b1f8c4896c55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697851,
-    "wof:lastmodified":1626127484,
+    "wof:lastmodified":1694492566,
     "wof:name":"Juban",
     "wof:parent_id":85676035,
     "wof:placetype":"county",

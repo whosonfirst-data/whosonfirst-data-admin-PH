@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013753,
-    "geom:area_square_m":165482623.063479,
+    "geom:area_square_m":165482732.194053,
     "geom:bbox":"123.388664,13.266705,123.599036,13.385978",
     "geom:latitude":13.328143,
     "geom:longitude":123.500771,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.PL",
+    "statoids:name":"Polangui",
+    "statoids:population":82307,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496711,
-    "wof:geomhash":"391009cb31816d117eb1e8ff0a9ef3f0",
+    "wof:geomhash":"848ad073b4dfa4227c8567a5425ff4c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698927,
-    "wof:lastmodified":1626127470,
+    "wof:lastmodified":1694492563,
     "wof:name":"Polangui",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

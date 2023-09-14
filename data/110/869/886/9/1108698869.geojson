@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029362,
-    "geom:area_square_m":360007896.421419,
+    "geom:area_square_m":360007839.973083,
     "geom:bbox":"124.338434,7.161525,124.503336,7.703382",
     "geom:latitude":7.443716,
     "geom:longitude":124.452349,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.PG",
+    "statoids:name":"Pigkawayan",
+    "statoids:population":59975,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.PG"
+    },
     "wof:country":"PH",
     "wof:created":1474496673,
-    "wof:geomhash":"cfca7cf61ec30724f9d466fe94f76717",
+    "wof:geomhash":"3adad5090c25854a511d2b69ae665c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698869,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Pigcawayan",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

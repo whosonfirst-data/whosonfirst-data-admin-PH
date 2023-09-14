@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021389,
-    "geom:area_square_m":251461316.023883,
+    "geom:area_square_m":251461494.598185,
     "geom:bbox":"121.437234,17.957279,121.675493,18.120837",
     "geom:latitude":18.054944,
     "geom:longitude":121.55198,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.LS",
+    "statoids:name":"Lasam",
+    "statoids:population":36994,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.LS"
+    },
     "wof:country":"PH",
     "wof:created":1474496083,
-    "wof:geomhash":"beb3ffe7902f1b762cec5aef341f958c",
+    "wof:geomhash":"dbdcc4b30ad4b314eb554bbf00deff24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698023,
-    "wof:lastmodified":1628266673,
+    "wof:lastmodified":1694492860,
     "wof:name":"Lasam",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

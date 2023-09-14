@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012786,
-    "geom:area_square_m":151097738.092108,
+    "geom:area_square_m":151097732.546968,
     "geom:bbox":"121.573481,17.055036,121.711958,17.177571",
     "geom:latitude":17.113772,
     "geom:longitude":121.638719,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.RX",
+    "statoids:name":"Roxas",
+    "statoids:population":57699,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.RX"
+    },
     "wof:country":"PH",
     "wof:created":1474496815,
-    "wof:geomhash":"0ed1ab4ded835dabbc198b17b3007c49",
+    "wof:geomhash":"f637fa764f5c2882dcf429b36073140c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108699051,
-    "wof:lastmodified":1636501031,
+    "wof:lastmodified":1694492934,
     "wof:name":"Roxas",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

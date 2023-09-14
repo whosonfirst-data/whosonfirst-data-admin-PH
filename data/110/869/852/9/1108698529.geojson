@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008088,
-    "geom:area_square_m":97879195.781119,
+    "geom:area_square_m":97879415.309545,
     "geom:bbox":"121.964389,11.773734,122.116143,11.925074",
     "geom:latitude":11.84182,
     "geom:longitude":122.041238,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.NB",
+    "statoids:name":"Nabas",
+    "statoids:population":31052,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.NB"
+    },
     "wof:country":"PH",
     "wof:created":1474496437,
-    "wof:geomhash":"b1faa61586ebba28f6260a422ccd3512",
+    "wof:geomhash":"47970d11ae1c66d9e0a6c7cfd1ce2bfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108698529,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Nabas",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

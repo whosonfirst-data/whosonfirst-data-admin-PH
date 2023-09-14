@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036946,
-    "geom:area_square_m":454195057.922215,
+    "geom:area_square_m":454195439.745253,
     "geom:bbox":"125.231988,6.037572,125.506309,6.291131",
     "geom:latitude":6.173042,
     "geom:longitude":125.345184,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SG.AA",
+    "statoids:name":"Alabel",
+    "statoids:population":75477,
+    "statoids:statoid":"PH.SG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SG.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495110,
-    "wof:geomhash":"bbb633a8e8232001bb9e01a10832daf1",
+    "wof:geomhash":"60d32ac005ad7f067313c846b80eb139",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696585,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694492825,
     "wof:name":"Alabel",
     "wof:parent_id":85676259,
     "wof:placetype":"county",

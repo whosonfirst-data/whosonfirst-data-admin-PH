@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010307,
-    "geom:area_square_m":122943748.418021,
+    "geom:area_square_m":122943794.967793,
     "geom:bbox":"120.919978,15.227736,121.103169,15.359764",
     "geom:latitude":15.28497,
     "geom:longitude":120.993345,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.GP",
+    "statoids:name":"Gapan, City of",
+    "statoids:population":101488,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.GP"
+    },
     "wof:country":"PH",
     "wof:created":1474495813,
-    "wof:geomhash":"2ddc44f71fe99fb44024ea7e2d4e8e22",
+    "wof:geomhash":"fb06d1ff33629d408b146b04d75d9afb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697611,
-    "wof:lastmodified":1626127503,
+    "wof:lastmodified":1694492569,
     "wof:name":"Gapan",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

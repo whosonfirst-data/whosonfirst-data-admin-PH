@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032365,
-    "geom:area_square_m":396262134.736136,
+    "geom:area_square_m":396261620.314827,
     "geom:bbox":"126.020594,7.947324,126.371508,8.16647",
     "geom:latitude":8.044593,
     "geom:longitude":126.173219,
@@ -274,16 +274,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.TE",
+    "statoids:name":"Trento",
+    "statoids:population":47193,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.TE"
+    },
     "wof:country":"PH",
     "wof:created":1474497314,
-    "wof:geomhash":"c9c34f9c144e26badea821edc2ffa954",
+    "wof:geomhash":"b3df97f46ce673b509ac25a95d30b55a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -293,7 +303,7 @@
         }
     ],
     "wof:id":1108699759,
-    "wof:lastmodified":1636501044,
+    "wof:lastmodified":1694492936,
     "wof:name":"Trento",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

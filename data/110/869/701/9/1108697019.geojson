@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00176,
-    "geom:area_square_m":21495536.01373,
+    "geom:area_square_m":21495504.393752,
     "geom:bbox":"124.772377,8.900169,124.834494,8.948777",
     "geom:latitude":8.92268,
     "geom:longitude":124.800005,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.BN",
+    "statoids:name":"Binuangan",
+    "statoids:population":6765,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495407,
-    "wof:geomhash":"3f2cb7a53801806cf59b3dfb2a1d3f5a",
+    "wof:geomhash":"5458580a18de1fc4c5d6d883d45a84a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697019,
-    "wof:lastmodified":1628266631,
+    "wof:lastmodified":1694492833,
     "wof:name":"Binuangan",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

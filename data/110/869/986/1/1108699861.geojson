@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001616,
-    "geom:area_square_m":19048838.965152,
+    "geom:area_square_m":19048768.319902,
     "geom:bbox":"120.355809,17.528226,120.431919,17.573668",
     "geom:latitude":17.556201,
     "geom:longitude":120.393403,
@@ -166,16 +166,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.VG",
+    "statoids:name":"Vigan, City of",
+    "statoids:population":49747,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.VG"
+    },
     "wof:country":"PH",
     "wof:created":1474497382,
-    "wof:geomhash":"104e44f73cd5d49cc7938748cc4a4f8e",
+    "wof:geomhash":"d2f7b795be694631c6828d2f50a3307f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +195,7 @@
         }
     ],
     "wof:id":1108699861,
-    "wof:lastmodified":1626127538,
+    "wof:lastmodified":1694492574,
     "wof:name":"Vigan",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

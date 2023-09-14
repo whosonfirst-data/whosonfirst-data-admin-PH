@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002931,
-    "geom:area_square_m":35694865.560453,
+    "geom:area_square_m":35694915.422005,
     "geom:bbox":"125.217406,9.911446,125.297081,10.068171",
     "geom:latitude":9.995639,
     "geom:longitude":125.255982,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SL.SR",
+    "statoids:name":"San Ricardo",
+    "statoids:population":10078,
+    "statoids:statoid":"PH.SL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676203
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SL.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497009,
-    "wof:geomhash":"3ff66b5807c9a9bc534f69abe9674d02",
+    "wof:geomhash":"4d0eabef18a94c79452df0abe71fa394",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699313,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694492882,
     "wof:name":"San Ricardo",
     "wof:parent_id":85676203,
     "wof:placetype":"county",

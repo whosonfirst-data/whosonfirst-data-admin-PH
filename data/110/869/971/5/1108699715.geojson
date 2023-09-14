@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005801,
-    "geom:area_square_m":68953091.763723,
+    "geom:area_square_m":68953412.507936,
     "geom:bbox":"120.692142,15.948209,120.793089,16.051853",
     "geom:latitude":16.004513,
     "geom:longitude":120.74506,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.TY",
+    "statoids:name":"Tayug",
+    "statoids:population":40018,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.TY"
+    },
     "wof:country":"PH",
     "wof:created":1474497284,
-    "wof:geomhash":"df2672bb65c8513f5cd4e77055e8dd5f",
+    "wof:geomhash":"2da970e7d4b0e0eb40cdb0fef57224c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699715,
-    "wof:lastmodified":1628266725,
+    "wof:lastmodified":1694492889,
     "wof:name":"Tayug",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

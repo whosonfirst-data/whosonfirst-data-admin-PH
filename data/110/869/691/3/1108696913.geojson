@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021964,
-    "geom:area_square_m":268606497.720803,
+    "geom:area_square_m":268606226.775025,
     "geom:bbox":"126.016775,8.39677,126.361191,8.570873",
     "geom:latitude":8.505827,
     "geom:longitude":126.138503,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.BR",
+    "statoids:name":"Barobo",
+    "statoids:population":43663,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495329,
-    "wof:geomhash":"f204e1a7e4d2c2cb4248beb2a2bda66c",
+    "wof:geomhash":"5dd2ffcaf53f82589af0719a9f93c55d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696913,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Barobo",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

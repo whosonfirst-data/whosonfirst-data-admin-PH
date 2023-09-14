@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028409,
-    "geom:area_square_m":348352988.177512,
+    "geom:area_square_m":348352975.417455,
     "geom:bbox":"125.816123,7.336366,126.113631,7.476104",
     "geom:latitude":7.40232,
     "geom:longitude":125.948954,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.MC",
+    "statoids:name":"Maco",
+    "statoids:population":72235,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.MC"
+    },
     "wof:country":"PH",
     "wof:created":1474496212,
-    "wof:geomhash":"39b392dd68f3921a75915f4481f5cfc2",
+    "wof:geomhash":"8672ce79742cf6c6299d41cf0d0d61eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108698209,
-    "wof:lastmodified":1626127460,
+    "wof:lastmodified":1694492562,
     "wof:name":"Maco",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

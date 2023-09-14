@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008692,
-    "geom:area_square_m":104504317.651157,
+    "geom:area_square_m":104504151.035259,
     "geom:bbox":"121.830813,13.45205,121.963864,13.572083",
     "geom:latitude":13.497983,
     "geom:longitude":121.892733,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MQ.MG",
+    "statoids:name":"Mogpog",
+    "statoids:population":33384,
+    "statoids:statoid":"PH.MQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676149
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MQ.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496411,
-    "wof:geomhash":"3485f1a851a080f01a7590a77a63775e",
+    "wof:geomhash":"de92d50920330cde35d3ac2439a242f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698491,
-    "wof:lastmodified":1626127510,
+    "wof:lastmodified":1694492570,
     "wof:name":"Mogpog",
     "wof:parent_id":85676149,
     "wof:placetype":"county",

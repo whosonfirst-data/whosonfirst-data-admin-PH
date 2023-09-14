@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013007,
-    "geom:area_square_m":156338579.080407,
+    "geom:area_square_m":156338557.77607,
     "geom:bbox":"122.437172,13.474223,122.636223,13.699305",
     "geom:latitude":13.576733,
     "geom:longitude":122.531677,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.SN",
+    "statoids:name":"San Narciso",
+    "statoids:population":45386,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474496979,
-    "wof:geomhash":"82320936b8f5a162042edff050b193ae",
+    "wof:geomhash":"9fe9ea0aa0d4b177fd01f54b533cec06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108699277,
-    "wof:lastmodified":1627522511,
+    "wof:lastmodified":1694492715,
     "wof:name":"San Narciso",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018248,
-    "geom:area_square_m":219001254.023361,
+    "geom:area_square_m":219000889.895163,
     "geom:bbox":"122.553719,13.880793,122.831744,13.999163",
     "geom:latitude":13.939018,
     "geom:longitude":122.694607,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.DL",
+    "statoids:name":"Del Gallego",
+    "statoids:population":23064,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.DL"
+    },
     "wof:country":"PH",
     "wof:created":1474495718,
-    "wof:geomhash":"7bc6b0e97350f114fabffbd0d25263ef",
+    "wof:geomhash":"a96598892b13ce7dfc6caeffe56a49da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697469,
-    "wof:lastmodified":1628266643,
+    "wof:lastmodified":1694492841,
     "wof:name":"Del Gallego",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

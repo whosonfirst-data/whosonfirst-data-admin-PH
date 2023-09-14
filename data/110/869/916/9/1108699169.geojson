@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013726,
-    "geom:area_square_m":162583913.481084,
+    "geom:area_square_m":162583577.626816,
     "geom:bbox":"120.396863,16.603285,120.588715,16.749274",
     "geom:latitude":16.67435,
     "geom:longitude":120.484847,
@@ -109,16 +109,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.SG",
+    "statoids:name":"San Gabriel",
+    "statoids:population":16628,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474496907,
-    "wof:geomhash":"8c9980bfb302272db0a7be103a2d097a",
+    "wof:geomhash":"f6ba8bad6dffc8d79d8726c2c29526e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +138,7 @@
         }
     ],
     "wof:id":1108699169,
-    "wof:lastmodified":1636501039,
+    "wof:lastmodified":1694492935,
     "wof:name":"San Gabriel",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

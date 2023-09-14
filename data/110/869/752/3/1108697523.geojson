@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033869,
-    "geom:area_square_m":416403054.460914,
+    "geom:area_square_m":416402956.306201,
     "geom:bbox":"125.546581,5.987594,125.716248,6.30672",
     "geom:latitude":6.124818,
     "geom:longitude":125.643277,
@@ -52,10 +52,12 @@
         85676253
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DS.DM"
+    },
     "wof:country":"PH",
     "wof:created":1474495754,
-    "wof:geomhash":"27eba949799a5646b2fce36274df64f1",
+    "wof:geomhash":"dc87a9d87b1f9874618e5f462d58bd97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108697523,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492842,
     "wof:name":"Don Marcelino",
     "wof:parent_id":85676253,
     "wof:placetype":"county",

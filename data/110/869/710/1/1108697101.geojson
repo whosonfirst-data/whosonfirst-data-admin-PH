@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00844,
-    "geom:area_square_m":100907607.190622,
+    "geom:area_square_m":100907623.562801,
     "geom:bbox":"120.800104,14.720361,120.956463,14.826088",
     "geom:latitude":14.776082,
     "geom:longitude":120.875185,
@@ -151,16 +151,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.BL",
+    "statoids:name":"Bulacan",
+    "statoids:population":71751,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495461,
-    "wof:geomhash":"102c4da55f3048f74012ef6e1010d786",
+    "wof:geomhash":"bf4ba0565c90c3ad55d574cdeee6246a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +180,7 @@
         }
     ],
     "wof:id":1108697101,
-    "wof:lastmodified":1636501041,
+    "wof:lastmodified":1694492935,
     "wof:name":"Bulacan",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013257,
-    "geom:area_square_m":162150219.751185,
+    "geom:area_square_m":162150474.644212,
     "geom:bbox":"123.163034,8.334397,123.257932,8.53625",
     "geom:latitude":8.444352,
     "geom:longitude":123.208807,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.PR",
+    "statoids:name":"Pres. Manuel A. Roxas",
+    "statoids:population":37611,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.PR"
+    },
     "wof:country":"PH",
     "wof:created":1474496730,
-    "wof:geomhash":"c841b55a3c348954c234fbcc1d1bf712",
+    "wof:geomhash":"b0f9832636008b6058da3fee4a4e5065",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698955,
-    "wof:lastmodified":1628266704,
+    "wof:lastmodified":1694492878,
     "wof:name":"Pres. Manuel A. Roxas",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

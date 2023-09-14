@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013216,
-    "geom:area_square_m":158383491.916285,
+    "geom:area_square_m":158383624.450492,
     "geom:bbox":"122.712213,14.187724,122.867778,14.331223",
     "geom:latitude":14.253695,
     "geom:longitude":122.791265,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.PR",
+    "statoids:name":"Paracale",
+    "statoids:population":53243,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.PR"
+    },
     "wof:country":"PH",
     "wof:created":1474496637,
-    "wof:geomhash":"05f63e2a48b46fadbdae0d100ae6a26e",
+    "wof:geomhash":"96d9b87fea447a5f56ed0e79c4763d88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108698811,
-    "wof:lastmodified":1626127468,
+    "wof:lastmodified":1694492563,
     "wof:name":"Paracale",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

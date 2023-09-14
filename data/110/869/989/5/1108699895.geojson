@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008017,
-    "geom:area_square_m":95551020.787846,
+    "geom:area_square_m":95551075.780189,
     "geom:bbox":"120.739097,15.391777,120.852732,15.513525",
     "geom:latitude":15.446468,
     "geom:longitude":120.786552,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.ZR",
+    "statoids:name":"Zaragoza",
+    "statoids:population":44124,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.ZR"
+    },
     "wof:country":"PH",
     "wof:created":1474497404,
-    "wof:geomhash":"659f145009b1dc410df2690c9ab6898e",
+    "wof:geomhash":"df3ded52cee638e183197eac4e5c6b96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699895,
-    "wof:lastmodified":1628266749,
+    "wof:lastmodified":1694492897,
     "wof:name":"Zaragosa",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020776,
-    "geom:area_square_m":249333325.803612,
+    "geom:area_square_m":249333281.551563,
     "geom:bbox":"121.061653,13.851913,121.312157,14.028171",
     "geom:latitude":13.935189,
     "geom:longitude":121.187168,
@@ -63,6 +63,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.LP",
+    "statoids:name":"Lipa City",
+    "statoids:population":283468,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
@@ -71,6 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1706087,
+        "hasc:id":"PH.BT.LP",
         "qs_pg:id":87490
     },
     "wof:country":"PH",
@@ -78,7 +87,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"acc1d86935613aed52ca22e34a77dd23",
+    "wof:geomhash":"54258bd16fdca8c8ad769d863bbb129b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":890432817,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Lipa City",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

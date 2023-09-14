@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029717,
-    "geom:area_square_m":363754494.387937,
+    "geom:area_square_m":363754032.349368,
     "geom:bbox":"123.031345,7.984366,123.173934,8.307596",
     "geom:latitude":8.143819,
     "geom:longitude":123.112945,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.SA",
+    "statoids:name":"Siayan",
+    "statoids:population":34989,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.SA"
+    },
     "wof:country":"PH",
     "wof:created":1474497109,
-    "wof:geomhash":"a37d1acb5951a5c8c21492bb0994fb97",
+    "wof:geomhash":"8fd73ad2b64a48e793a226a84e55c950",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108699467,
-    "wof:lastmodified":1627522512,
+    "wof:lastmodified":1694492715,
     "wof:name":"Siayan",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

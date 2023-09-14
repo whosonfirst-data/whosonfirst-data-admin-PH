@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013072,
-    "geom:area_square_m":160375681.876277,
+    "geom:area_square_m":160375840.829767,
     "geom:bbox":"124.551509,7.077707,124.717495,7.257308",
     "geom:latitude":7.165967,
     "geom:longitude":124.618319,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.AE",
+    "statoids:name":"Aleosan",
+    "statoids:population":35746,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.AE"
+    },
     "wof:country":"PH",
     "wof:created":1474495133,
-    "wof:geomhash":"23b1a2bdefa22843b5bef0eecab61cf4",
+    "wof:geomhash":"a0313d9a2f79b05a5c220dacca7cadfc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696619,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694492826,
     "wof:name":"Aleosan",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

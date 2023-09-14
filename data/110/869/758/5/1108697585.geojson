@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001889,
-    "geom:area_square_m":22886067.665633,
+    "geom:area_square_m":22886163.119514,
     "geom:bbox":"123.110232,11.437375,123.166222,11.497945",
     "geom:latitude":11.465496,
     "geom:longitude":123.136425,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.ET",
+    "statoids:name":"Estancia",
+    "statoids:population":42666,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.ET"
+    },
     "wof:country":"PH",
     "wof:created":1474495796,
-    "wof:geomhash":"00b36d6a38ae8349af431a34f3932b62",
+    "wof:geomhash":"93a6c66db5bf203aeeeef4e4736f4d00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108697585,
-    "wof:lastmodified":1626127496,
+    "wof:lastmodified":1694492568,
     "wof:name":"Estancia",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

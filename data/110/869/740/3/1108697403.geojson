@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007748,
-    "geom:area_square_m":93830917.402229,
+    "geom:area_square_m":93830971.888132,
     "geom:bbox":"124.428174,11.590941,124.564583,11.698302",
     "geom:latitude":11.645945,
     "geom:longitude":124.50236,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.CL",
+    "statoids:name":"Culaba",
+    "statoids:population":12252,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495674,
-    "wof:geomhash":"482cfcf08a44c9b1b836a248ff355012",
+    "wof:geomhash":"118e764ea552ca3891e380b0fd153a49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697403,
-    "wof:lastmodified":1628266641,
+    "wof:lastmodified":1694492840,
     "wof:name":"Culaba",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

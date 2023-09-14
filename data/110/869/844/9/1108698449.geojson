@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003509,
-    "geom:area_square_m":42612960.825171,
+    "geom:area_square_m":42612917.065678,
     "geom:bbox":"124.951264,10.841674,125.017018,10.922955",
     "geom:latitude":10.880958,
     "geom:longitude":124.983887,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.MY",
+    "statoids:name":"Mayorga",
+    "statoids:population":14694,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.MY"
+    },
     "wof:country":"PH",
     "wof:created":1474496379,
-    "wof:geomhash":"153b13b8408a92519806a6b91de8f5fd",
+    "wof:geomhash":"814ae42ef3d85950ce66bfe8e39aaffe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108698449,
-    "wof:lastmodified":1626127469,
+    "wof:lastmodified":1694492563,
     "wof:name":"Mayorga",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

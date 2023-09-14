@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003915,
-    "geom:area_square_m":47923539.902844,
+    "geom:area_square_m":47923337.682211,
     "geom:bbox":"124.028182,8.081039,124.200759,8.121079",
     "geom:latitude":8.100528,
     "geom:longitude":124.123984,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.PO",
+    "statoids:name":"Poona Piagapo",
+    "statoids:population":23451,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.PO"
+    },
     "wof:country":"PH",
     "wof:created":1474496720,
-    "wof:geomhash":"44dd5c4a1e425a3ec0a56d804fb12d6b",
+    "wof:geomhash":"73208455ea025186e1372efdf5486e17",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698941,
-    "wof:lastmodified":1628266703,
+    "wof:lastmodified":1694492877,
     "wof:name":"Poona-piagapo",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

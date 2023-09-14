@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002504,
-    "geom:area_square_m":30560833.29389,
+    "geom:area_square_m":30560944.661175,
     "geom:bbox":"123.609389,9.217636,123.663489,9.304556",
     "geom:latitude":9.260686,
     "geom:longitude":123.635725,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SQ.ER",
+    "statoids:name":"Enrique Villanueva",
+    "statoids:population":5972,
+    "statoids:statoid":"PH.SQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SQ.ER"
+    },
     "wof:country":"PH",
     "wof:created":1474495787,
-    "wof:geomhash":"fa279f7ca5b0182738bf504f7cd46e42",
+    "wof:geomhash":"02661ed516e19b2efc9336f05606c8cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697573,
-    "wof:lastmodified":1626127502,
+    "wof:lastmodified":1694492569,
     "wof:name":"Enrique Villanueva",
     "wof:parent_id":85675947,
     "wof:placetype":"county",

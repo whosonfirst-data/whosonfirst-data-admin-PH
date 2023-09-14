@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008673,
-    "geom:area_square_m":105936085.454437,
+    "geom:area_square_m":105936019.132298,
     "geom:bbox":"125.167915,8.848888,125.2508,9.090435",
     "geom:latitude":8.963359,
     "geom:longitude":125.203413,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.MG",
+    "statoids:name":"Magsaysay (Linugos)",
+    "statoids:population":33047,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496240,
-    "wof:geomhash":"db454f7b7280e856b3f766033976ed2a",
+    "wof:geomhash":"c679f7ed85899bd54bc3d38c67ba55eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698251,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Magsaysay",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

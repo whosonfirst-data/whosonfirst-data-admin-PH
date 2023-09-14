@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005643,
-    "geom:area_square_m":67283821.411633,
+    "geom:area_square_m":67283833.723027,
     "geom:bbox":"120.966294,15.289995,121.055947,15.409567",
     "geom:latitude":15.355408,
     "geom:longitude":121.014672,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.PE",
+    "statoids:name":"Pe\u00f1aranda",
+    "statoids:population":27410,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.PE"
+    },
     "wof:country":"PH",
     "wof:created":1474496663,
-    "wof:geomhash":"0210426e9849f1cb215d6d86c9a333d6",
+    "wof:geomhash":"179b330a4d6d8608e65c0b469369348a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698853,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492875,
     "wof:name":"Penaranda",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

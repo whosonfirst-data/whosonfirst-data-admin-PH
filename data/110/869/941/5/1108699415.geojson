@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025584,
-    "geom:area_square_m":302966006.999511,
+    "geom:area_square_m":302966060.145689,
     "geom:bbox":"121.348118,16.572653,121.632729,16.833149",
     "geom:latitude":16.727174,
     "geom:longitude":121.511937,
@@ -529,16 +529,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.SN",
+    "statoids:name":"Santiago, City of",
+    "statoids:population":132804,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676349
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474497075,
-    "wof:geomhash":"3f4a73f3a7c85bfd4862c9b70294cbd4",
+    "wof:geomhash":"657b292560d922c50aa37503f3358753",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -548,7 +558,7 @@
         }
     ],
     "wof:id":1108699415,
-    "wof:lastmodified":1636501022,
+    "wof:lastmodified":1694492933,
     "wof:name":"Santiago",
     "wof:parent_id":85676349,
     "wof:placetype":"county",

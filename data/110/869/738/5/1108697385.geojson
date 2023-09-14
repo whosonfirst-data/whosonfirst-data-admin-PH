@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001822,
-    "geom:area_square_m":21965076.706933,
+    "geom:area_square_m":21964990.881846,
     "geom:bbox":"122.017059,12.782945,122.087891,12.840417",
     "geom:latitude":12.808181,
     "geom:longitude":122.053271,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.CR",
+    "statoids:name":"Corcuera",
+    "statoids:population":9935,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495657,
-    "wof:geomhash":"235ed865ba3bac13f841f322fe9980f6",
+    "wof:geomhash":"5bc29047b9b9d74b06a81cbea93fe491",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697385,
-    "wof:lastmodified":1626127458,
+    "wof:lastmodified":1694492561,
     "wof:name":"Corcuera",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

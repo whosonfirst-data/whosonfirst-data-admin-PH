@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052465,
-    "geom:area_square_m":639178042.039712,
+    "geom:area_square_m":639177796.954153,
     "geom:bbox":"122.72722,9.603472,122.977797,10.05829",
     "geom:latitude":9.849104,
     "geom:longitude":122.828213,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.KB",
+    "statoids:name":"Kabankalan, City of",
+    "statoids:population":167666,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.KB"
+    },
     "wof:country":"PH",
     "wof:created":1474495977,
-    "wof:geomhash":"db967539f2b95bab6064e34237767eb0",
+    "wof:geomhash":"40e209f27949c98beb64855b29ed11ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697861,
-    "wof:lastmodified":1626127527,
+    "wof:lastmodified":1694492573,
     "wof:name":"Kabankalan",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

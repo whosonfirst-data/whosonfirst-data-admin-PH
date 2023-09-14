@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006734,
-    "geom:area_square_m":79365964.94345,
+    "geom:area_square_m":79366207.290152,
     "geom:bbox":"120.34677,17.553486,120.509205,17.652525",
     "geom:latitude":17.597864,
     "geom:longitude":120.435122,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.BN",
+    "statoids:name":"Bantay",
+    "statoids:population":34323,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495315,
-    "wof:geomhash":"caa644f021fac261e45a0927811ed3bc",
+    "wof:geomhash":"21f5062904bad47632a28a5fdc5d93c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696893,
-    "wof:lastmodified":1626127464,
+    "wof:lastmodified":1694492562,
     "wof:name":"Bantay",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

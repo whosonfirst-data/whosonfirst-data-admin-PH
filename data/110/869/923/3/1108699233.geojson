@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010784,
-    "geom:area_square_m":130561236.882011,
+    "geom:area_square_m":130561228.208288,
     "geom:bbox":"125.283806,11.684853,125.470444,11.799407",
     "geom:latitude":11.732893,
     "geom:longitude":125.374169,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ES.SJ",
+    "statoids:name":"San Julian",
+    "statoids:population":13748,
+    "statoids:statoid":"PH.ES",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676191
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ES.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496950,
-    "wof:geomhash":"8cd328c3594b3cfa8a20f218256be0a6",
+    "wof:geomhash":"669b4a2554977818297d1ea323e4f316",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699233,
-    "wof:lastmodified":1628266712,
+    "wof:lastmodified":1694492882,
     "wof:name":"San Julian",
     "wof:parent_id":85676191,
     "wof:placetype":"county",

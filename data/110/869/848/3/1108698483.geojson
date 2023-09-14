@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011569,
-    "geom:area_square_m":139088086.802121,
+    "geom:area_square_m":139088341.632505,
     "geom:bbox":"123.142396,13.40945,123.262127,13.583207",
     "geom:latitude":13.514559,
     "geom:longitude":123.194921,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.MN",
+    "statoids:name":"Minalabac",
+    "statoids:population":48162,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496407,
-    "wof:geomhash":"94bf66d89b12abd148bd88e210f9497b",
+    "wof:geomhash":"83d6ac44ebc90119ac87390e39e86d5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698483,
-    "wof:lastmodified":1628266686,
+    "wof:lastmodified":1694492867,
     "wof:name":"Minalabac",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

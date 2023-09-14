@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022036,
-    "geom:area_square_m":264242188.760704,
+    "geom:area_square_m":264242156.649196,
     "geom:bbox":"120.567055,14.043883,120.84818,14.221364",
     "geom:latitude":14.123418,
     "geom:longitude":120.68059,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.NS",
+    "statoids:name":"Nasugbu",
+    "statoids:population":122483,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.NS"
+    },
     "wof:country":"PH",
     "wof:created":1474496457,
-    "wof:geomhash":"d5112d6f2b4a0c5049dbaf9dfd133567",
+    "wof:geomhash":"385a03c9a55cfc1036a0e3ab7fec8030",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698559,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Nasugbu",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

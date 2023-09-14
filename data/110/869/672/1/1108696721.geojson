@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010919,
-    "geom:area_square_m":129399035.002501,
+    "geom:area_square_m":129399071.549345,
     "geom:bbox":"120.654539,16.501384,120.780617,16.647636",
     "geom:latitude":16.588369,
     "geom:longitude":120.705673,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.AO",
+    "statoids:name":"Atok",
+    "statoids:population":19242,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.AO"
+    },
     "wof:country":"PH",
     "wof:created":1474495200,
-    "wof:geomhash":"97977ed92f92614eac9775ace122648a",
+    "wof:geomhash":"5569a81194b5ab5f0e4cbbcd1bab5011",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108696721,
-    "wof:lastmodified":1628266621,
+    "wof:lastmodified":1694492827,
     "wof:name":"Atok",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

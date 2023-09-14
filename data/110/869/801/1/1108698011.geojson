@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004418,
-    "geom:area_square_m":53751104.527491,
+    "geom:area_square_m":53751253.479779,
     "geom:bbox":"123.920364,10.253738,124.043724,10.334528",
     "geom:latitude":10.295934,
     "geom:longitude":123.972492,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.LP",
+    "statoids:name":"Lapu-Lapu City (Opon)",
+    "statoids:population":350467,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676291
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496075,
-    "wof:geomhash":"e65f6d439fa1f16b670e5ce43972510c",
+    "wof:geomhash":"de1e1413db8d85e96e7452fc5a94c84c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698011,
-    "wof:lastmodified":1628266672,
+    "wof:lastmodified":1694492859,
     "wof:name":"Lapu-lapu City",
     "wof:parent_id":85676291,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007678,
-    "geom:area_square_m":93005515.539886,
+    "geom:area_square_m":93005330.559895,
     "geom:bbox":"122.076225,11.507196,122.145692,11.681716",
     "geom:latitude":11.588568,
     "geom:longitude":122.112509,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.SE",
+    "statoids:name":"Sebaste",
+    "statoids:population":17270,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.SE"
+    },
     "wof:country":"PH",
     "wof:created":1474497102,
-    "wof:geomhash":"4a5e849320159466daba70abdffd8501",
+    "wof:geomhash":"4eb159b56ece71a64928da692f1e6538",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108699455,
-    "wof:lastmodified":1626127531,
+    "wof:lastmodified":1694492573,
     "wof:name":"Sebaste",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

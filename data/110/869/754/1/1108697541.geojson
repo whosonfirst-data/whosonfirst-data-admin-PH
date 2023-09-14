@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007295,
-    "geom:area_square_m":88599488.200337,
+    "geom:area_square_m":88599332.19896,
     "geom:bbox":"122.629403,10.789797,122.771225,10.882717",
     "geom:latitude":10.838217,
     "geom:longitude":122.69514,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.DM",
+    "statoids:name":"Dumangas",
+    "statoids:population":66108,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.DM"
+    },
     "wof:country":"PH",
     "wof:created":1474495767,
-    "wof:geomhash":"7f7ef2e8b72315db8a874cc314621ebe",
+    "wof:geomhash":"5c7d9bc1d912007da5d03e783a6fdbf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697541,
-    "wof:lastmodified":1626127453,
+    "wof:lastmodified":1694492560,
     "wof:name":"Dumangas",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015541,
-    "geom:area_square_m":186726706.804107,
+    "geom:area_square_m":186726276.62754,
     "geom:bbox":"124.021225,13.552833,124.175745,13.775611",
     "geom:latitude":13.663746,
     "geom:longitude":124.108307,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CT.SA",
+    "statoids:name":"San Andres (Calolbon)",
+    "statoids:population":35779,
+    "statoids:statoid":"PH.CT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CT.SA"
+    },
     "wof:country":"PH",
     "wof:created":1474496860,
-    "wof:geomhash":"0f68413b02ed26e4048906b1ce1d437c",
+    "wof:geomhash":"f5f94eb249961f296079e593357f5030",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699107,
-    "wof:lastmodified":1628266711,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Andres",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

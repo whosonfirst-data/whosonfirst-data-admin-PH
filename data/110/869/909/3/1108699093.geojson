@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003522,
-    "geom:area_square_m":43135337.571712,
+    "geom:area_square_m":43135155.171735,
     "geom:bbox":"123.830825,7.878309,123.918731,7.956638",
     "geom:latitude":7.91569,
     "geom:longitude":123.875848,
@@ -163,16 +163,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.SL",
+    "statoids:name":"Salvador",
+    "statoids:population":27348,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474496851,
-    "wof:geomhash":"e3b173cfd0f5c6e0d5cdbee1676ae16c",
+    "wof:geomhash":"175bed2f7cbb5a6943baba8e3873809a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +192,7 @@
         }
     ],
     "wof:id":1108699093,
-    "wof:lastmodified":1626127447,
+    "wof:lastmodified":1694492559,
     "wof:name":"Salvador",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

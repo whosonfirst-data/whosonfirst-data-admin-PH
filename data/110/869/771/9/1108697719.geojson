@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013741,
-    "geom:area_square_m":168099634.303225,
+    "geom:area_square_m":168099495.330732,
     "geom:bbox":"126.24454,8.285567,126.394554,8.521822",
     "geom:latitude":8.380136,
     "geom:longitude":126.322966,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.HN",
+    "statoids:name":"Hinatuan",
+    "statoids:population":38731,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.HN"
+    },
     "wof:country":"PH",
     "wof:created":1474495885,
-    "wof:geomhash":"5a5f963b02156e5a61716399a290a1db",
+    "wof:geomhash":"e09eed5036402e41ff57b003bc339cff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697719,
-    "wof:lastmodified":1628266655,
+    "wof:lastmodified":1694492849,
     "wof:name":"Hinatuan",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

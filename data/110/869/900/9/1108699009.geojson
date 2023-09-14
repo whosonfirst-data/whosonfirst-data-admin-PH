@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033258,
-    "geom:area_square_m":398027969.479961,
+    "geom:area_square_m":398027961.985193,
     "geom:bbox":"121.444701,14.421284,121.65182,14.733729",
     "geom:latitude":14.561799,
     "geom:longitude":121.560934,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.RA",
+    "statoids:name":"Real",
+    "statoids:population":35189,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.RA"
+    },
     "wof:country":"PH",
     "wof:created":1474496778,
-    "wof:geomhash":"cab87243ddc65fc4c39410537ff92eb2",
+    "wof:geomhash":"97f56f7064d73a22e5a99e89c09ee0c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108699009,
-    "wof:lastmodified":1626127450,
+    "wof:lastmodified":1694492560,
     "wof:name":"Real",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

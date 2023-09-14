@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016783,
-    "geom:area_square_m":204257915.594278,
+    "geom:area_square_m":204258265.957479,
     "geom:bbox":"125.471222,10.107656,125.660416,10.28123",
     "geom:latitude":10.187573,
     "geom:longitude":125.560315,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DI.LB",
+    "statoids:name":"Libjo (Albor)",
+    "statoids:population":17567,
+    "statoids:statoid":"PH.DI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DI.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496113,
-    "wof:geomhash":"14f9551548810bf42608decf88a11b47",
+    "wof:geomhash":"7b9905026d6dab43c9371de098c6205b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698067,
-    "wof:lastmodified":1628266674,
+    "wof:lastmodified":1694492860,
     "wof:name":"Libjo",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011936,
-    "geom:area_square_m":143742757.648759,
+    "geom:area_square_m":143742534.950432,
     "geom:bbox":"123.692724,13.018917,123.853346,13.245615",
     "geom:latitude":13.110556,
     "geom:longitude":123.749721,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.LZ",
+    "statoids:name":"Legazpi City",
+    "statoids:population":182201,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.LZ"
+    },
     "wof:country":"PH",
     "wof:created":1474496096,
-    "wof:geomhash":"a80f8f9a0ababfdb17f56ef050f84ccf",
+    "wof:geomhash":"1dfaa9199e35fe39a63249f77acd49b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698043,
-    "wof:lastmodified":1628266674,
+    "wof:lastmodified":1694492860,
     "wof:name":"Legazpi City",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

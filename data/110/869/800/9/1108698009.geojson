@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005085,
-    "geom:area_square_m":61432079.444396,
+    "geom:area_square_m":61432068.482617,
     "geom:bbox":"125.215464,12.257794,125.341248,12.347592",
     "geom:latitude":12.308641,
     "geom:longitude":125.280472,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.LP",
+    "statoids:name":"Lapinig",
+    "statoids:population":11744,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496074,
-    "wof:geomhash":"67528bc95e17f2a41e396e4c39f03bda",
+    "wof:geomhash":"ecfacf3e645cdb65c8f4c4e692bcb038",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698009,
-    "wof:lastmodified":1628266672,
+    "wof:lastmodified":1694492859,
     "wof:name":"Lapinig",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

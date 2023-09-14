@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055705,
-    "geom:area_square_m":682838364.102224,
+    "geom:area_square_m":682838627.722125,
     "geom:bbox":"126.012491,7.404344,126.306933,7.684199",
     "geom:latitude":7.548346,
     "geom:longitude":126.191725,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.NB",
+    "statoids:name":"New Bataan",
+    "statoids:population":47470,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.NB"
+    },
     "wof:country":"PH",
     "wof:created":1474496464,
-    "wof:geomhash":"38b215e40d03d6e542fc868ca123fe0f",
+    "wof:geomhash":"41b097a350758f822797c904ed41dd94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698571,
-    "wof:lastmodified":1628266691,
+    "wof:lastmodified":1694492870,
     "wof:name":"New Bataan",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

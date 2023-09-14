@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019172,
-    "geom:area_square_m":229104045.316438,
+    "geom:area_square_m":229104001.564757,
     "geom:bbox":"120.145255,14.743708,120.45049,14.978868",
     "geom:latitude":14.888228,
     "geom:longitude":120.278104,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.OO",
+    "statoids:name":"Olongapo City",
+    "statoids:population":221178,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676361
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.OO"
+    },
     "wof:country":"PH",
     "wof:created":1474497170,
-    "wof:geomhash":"c2aca6e9e689bd72a3fbb26484949498",
+    "wof:geomhash":"aa37e99e432d71ab2170b72a2f0e5b1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699545,
-    "wof:lastmodified":1628266719,
+    "wof:lastmodified":1694492886,
     "wof:name":"Subic",
     "wof:parent_id":85676361,
     "wof:placetype":"county",

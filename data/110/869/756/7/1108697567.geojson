@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017208,
-    "geom:area_square_m":202865342.005159,
+    "geom:area_square_m":202865380.974644,
     "geom:bbox":"121.550286,17.506264,121.785721,17.621245",
     "geom:latitude":17.561255,
     "geom:longitude":121.669445,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.ER",
+    "statoids:name":"Enrile",
+    "statoids:population":32553,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.ER"
+    },
     "wof:country":"PH",
     "wof:created":1474495784,
-    "wof:geomhash":"06f6d15f6dd215896026a6d32e2afac9",
+    "wof:geomhash":"5c67f10f336c36b1b98ea6af12198dec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697567,
-    "wof:lastmodified":1628266648,
+    "wof:lastmodified":1694492844,
     "wof:name":"Enrile",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

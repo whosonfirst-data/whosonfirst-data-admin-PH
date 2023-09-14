@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023816,
-    "geom:area_square_m":284652291.858603,
+    "geom:area_square_m":284651935.847126,
     "geom:bbox":"120.956043,14.754814,121.34327,14.9621",
     "geom:latitude":14.850514,
     "geom:longitude":121.147311,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.NR",
+    "statoids:name":"Norzagaray",
+    "statoids:population":103095,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.NR"
+    },
     "wof:country":"PH",
     "wof:created":1474496928,
-    "wof:geomhash":"ca5cac4a31f8c9809804ea3bd6a7a49f",
+    "wof:geomhash":"8ef1b6e75c12e9d7f6b306be38ea98a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699201,
-    "wof:lastmodified":1628266712,
+    "wof:lastmodified":1694492882,
     "wof:name":"San Jose Del Monte",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3266156.952775,
+    "geom:area_square_m":3266280.684759,
     "geom:bbox":"120.900856,14.82874,120.920547,14.852973",
     "geom:latitude":14.840957,
     "geom:longitude":120.90999,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.GI",
+    "statoids:name":"Guiguinto",
+    "statoids:population":90507,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495255,
-    "wof:geomhash":"cbad3504d57867705742fa1dff7704bb",
+    "wof:geomhash":"352ceaf4df195ea0e37b88302e15e00f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108696803,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balagtas",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015755,
-    "geom:area_square_m":191536367.211106,
+    "geom:area_square_m":191536186.288984,
     "geom:bbox":"124.719559,10.461335,124.945117,10.581184",
     "geom:latitude":10.519554,
     "geom:longitude":124.838956,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.IO",
+    "statoids:name":"Inopacan",
+    "statoids:population":19904,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.IO"
+    },
     "wof:country":"PH",
     "wof:created":1474495921,
-    "wof:geomhash":"3c39289e4c42b0fa0ecdb545e9196ec2",
+    "wof:geomhash":"ff2a9c22406070f95d54261314e5c6f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697773,
-    "wof:lastmodified":1628266658,
+    "wof:lastmodified":1694492850,
     "wof:name":"Inopacan",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005357,
-    "geom:area_square_m":65403061.539618,
+    "geom:area_square_m":65402698.135641,
     "geom:bbox":"123.558572,9.097917,123.656404,9.197326",
     "geom:latitude":9.141269,
     "geom:longitude":123.6007,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SQ.LZ",
+    "statoids:name":"Lazi",
+    "statoids:population":20024,
+    "statoids:statoid":"PH.SQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SQ.LZ"
+    },
     "wof:country":"PH",
     "wof:created":1474496092,
-    "wof:geomhash":"7dc57f2c59731147e14c9867ca6314cb",
+    "wof:geomhash":"c739bb5a55e82c454ac3bc91e02f3270",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698035,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Lazi",
     "wof:parent_id":85675947,
     "wof:placetype":"county",

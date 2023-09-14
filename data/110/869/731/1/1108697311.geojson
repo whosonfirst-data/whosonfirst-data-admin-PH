@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048517,
-    "geom:area_square_m":575931283.042802,
+    "geom:area_square_m":575931779.969184,
     "geom:bbox":"121.904965,16.029556,122.233749,16.399691",
     "geom:latitude":16.257565,
     "geom:longitude":122.051472,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AU.CS",
+    "statoids:name":"Casiguran",
+    "statoids:population":23865,
+    "statoids:statoid":"PH.AU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AU.CS"
+    },
     "wof:country":"PH",
     "wof:created":1474495600,
-    "wof:geomhash":"31dcaa9b9db59a3d5778f8ceeb4d9832",
+    "wof:geomhash":"ec6f304d35683ad711815037bafcc567",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697311,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Casiguran",
     "wof:parent_id":85676065,
     "wof:placetype":"county",

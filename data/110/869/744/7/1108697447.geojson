@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018074,
-    "geom:area_square_m":220977820.447857,
+    "geom:area_square_m":220977545.807857,
     "geom:bbox":"123.34815,8.426599,123.517353,8.730416",
     "geom:latitude":8.593187,
     "geom:longitude":123.443281,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.DP",
+    "statoids:name":"Dapitan City",
+    "statoids:population":77441,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.DP"
+    },
     "wof:country":"PH",
     "wof:created":1474495703,
-    "wof:geomhash":"8054c3224c3060f28a8d05b461cf8b3f",
+    "wof:geomhash":"51023978b39c24c0af3b1aca0906756d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697447,
-    "wof:lastmodified":1628266642,
+    "wof:lastmodified":1694492840,
     "wof:name":"Dapitan City",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

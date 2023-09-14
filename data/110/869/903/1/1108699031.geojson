@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007114,
-    "geom:area_square_m":85866341.665491,
+    "geom:area_square_m":85866215.970787,
     "geom:bbox":"122.242058,12.479527,122.326248,12.627889",
     "geom:latitude":12.543885,
     "geom:longitude":122.286475,
@@ -142,16 +142,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.RM",
+    "statoids:name":"Romblon",
+    "statoids:population":37995,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.RM"
+    },
     "wof:country":"PH",
     "wof:created":1474496791,
-    "wof:geomhash":"16dd365c6d50b65cc8a919962f21bb68",
+    "wof:geomhash":"1619e52e40c8beb5474799eafa4f0139",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +171,7 @@
         }
     ],
     "wof:id":1108699031,
-    "wof:lastmodified":1636501030,
+    "wof:lastmodified":1694492934,
     "wof:name":"Romblon",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

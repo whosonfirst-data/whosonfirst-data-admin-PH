@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06232,
-    "geom:area_square_m":765069447.82979,
+    "geom:area_square_m":765069703.59235,
     "geom:bbox":"126.097119,6.273722,126.358584,7.129157",
     "geom:latitude":6.865341,
     "geom:longitude":126.217748,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.MT",
+    "statoids:name":"Mati, City of",
+    "statoids:population":126143,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.MT"
+    },
     "wof:country":"PH",
     "wof:created":1474496365,
-    "wof:geomhash":"63b1fcab2c232ccb000ba29c12150ba7",
+    "wof:geomhash":"c9642e31ecb81d50ee89e8e820c95367",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108698431,
-    "wof:lastmodified":1626127468,
+    "wof:lastmodified":1694492563,
     "wof:name":"Mati",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

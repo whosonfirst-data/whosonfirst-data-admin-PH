@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008016,
-    "geom:area_square_m":95443140.421489,
+    "geom:area_square_m":95443276.195515,
     "geom:bbox":"120.481149,15.617899,120.618085,15.699981",
     "geom:latitude":15.657558,
     "geom:longitude":120.54786,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.PN",
+    "statoids:name":"Paniqui",
+    "statoids:population":87730,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496623,
-    "wof:geomhash":"57f7122a23f625f84c0055d3eadc281b",
+    "wof:geomhash":"cda8d7118d2ba301b1f38c3e141182a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698791,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Paniqui",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

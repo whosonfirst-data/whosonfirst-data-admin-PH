@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006519,
-    "geom:area_square_m":77279743.087385,
+    "geom:area_square_m":77279682.287403,
     "geom:bbox":"121.133246,16.485882,121.259704,16.580641",
     "geom:latitude":16.536799,
     "geom:longitude":121.198594,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.SL",
+    "statoids:name":"Solano",
+    "statoids:population":56134,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474497163,
-    "wof:geomhash":"3e3daa21cad15439437310b37e96ca83",
+    "wof:geomhash":"2165eed124515343355d41a9def85b45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699537,
-    "wof:lastmodified":1626127451,
+    "wof:lastmodified":1694492560,
     "wof:name":"Solano",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

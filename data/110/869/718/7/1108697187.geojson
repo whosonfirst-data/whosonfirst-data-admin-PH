@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006627,
-    "geom:area_square_m":80280558.966586,
+    "geom:area_square_m":80280745.410082,
     "geom:bbox":"124.493018,11.520859,124.617943,11.606392",
     "geom:latitude":11.560962,
     "geom:longitude":124.550122,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.CI",
+    "statoids:name":"Caibiran",
+    "statoids:population":21473,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.CI"
+    },
     "wof:country":"PH",
     "wof:created":1474495517,
-    "wof:geomhash":"a835095855a15abea2d16db69bfa4819",
+    "wof:geomhash":"56d673081d08d0082cd1a7727c657e96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697187,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Caibiran",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

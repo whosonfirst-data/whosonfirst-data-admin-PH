@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032198,
-    "geom:area_square_m":380850898.441607,
+    "geom:area_square_m":380850785.051885,
     "geom:bbox":"121.278051,16.795998,121.455493,17.089936",
     "geom:latitude":16.943538,
     "geom:longitude":121.372173,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IF.AU",
+    "statoids:name":"Aguinaldo",
+    "statoids:population":18610,
+    "statoids:statoid":"PH.IF",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IF.AU"
+    },
     "wof:country":"PH",
     "wof:created":1474495105,
-    "wof:geomhash":"8b583b3039dbde451aa8f53729833c2c",
+    "wof:geomhash":"4affbae43e43a18396b419b18d11d8bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108696575,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1694492713,
     "wof:name":"Aguinaldo",
     "wof:parent_id":85676077,
     "wof:placetype":"county",

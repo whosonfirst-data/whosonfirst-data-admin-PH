@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018252,
-    "geom:area_square_m":221746886.044664,
+    "geom:area_square_m":221746135.212559,
     "geom:bbox":"123.756823,10.641696,123.942084,10.816544",
     "geom:latitude":10.720697,
     "geom:longitude":123.861223,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.TB",
+    "statoids:name":"Tabuelan",
+    "statoids:population":22292,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497336,
-    "wof:geomhash":"93514d8bb40a50f5ab2626aedaf0226b",
+    "wof:geomhash":"26501ffa90dee3ede2408d23e9bcd445",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108699793,
-    "wof:lastmodified":1626127481,
+    "wof:lastmodified":1694492565,
     "wof:name":"Tuburan",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

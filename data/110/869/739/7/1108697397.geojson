@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006938,
-    "geom:area_square_m":84681491.318323,
+    "geom:area_square_m":84681700.258192,
     "geom:bbox":"126.099277,9.14743,126.207916,9.315389",
     "geom:latitude":9.220626,
     "geom:longitude":126.158062,
@@ -127,10 +127,12 @@
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.CS"
+    },
     "wof:country":"PH",
     "wof:created":1474495664,
-    "wof:geomhash":"b32bfa8ee3c19b6734ae42d99dc3e13e",
+    "wof:geomhash":"bd959559c007f54c958179bb7cbaa662",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +142,7 @@
         }
     ],
     "wof:id":1108697397,
-    "wof:lastmodified":1626127450,
+    "wof:lastmodified":1694492560,
     "wof:name":"Cortes",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

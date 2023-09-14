@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029102,
-    "geom:area_square_m":348135405.12381,
+    "geom:area_square_m":348135046.942964,
     "geom:bbox":"121.102023,14.559822,121.39034,14.749122",
     "geom:latitude":14.657755,
     "geom:longitude":121.246046,
@@ -130,16 +130,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RI.AT",
+    "statoids:name":"Antipolo, City of",
+    "statoids:population":677741,
+    "statoids:statoid":"PH.RI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676145
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RI.AT"
+    },
     "wof:country":"PH",
     "wof:created":1474495180,
-    "wof:geomhash":"741e361140f5d894d3e148983263c413",
+    "wof:geomhash":"9185198141264be214b32ace2c3789a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,7 +159,7 @@
         }
     ],
     "wof:id":1108696691,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Antipolo",
     "wof:parent_id":85676145,
     "wof:placetype":"county",

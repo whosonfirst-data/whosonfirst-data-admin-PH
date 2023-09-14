@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017028,
-    "geom:area_square_m":209141555.477499,
+    "geom:area_square_m":209141555.477509,
     "geom:bbox":"121.917766,6.574439,122.06213,6.749583",
     "geom:latitude":6.647481,
     "geom:longitude":121.989953,
@@ -103,19 +103,29 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BS.IA",
+    "statoids:name":"Isabela, City of",
+    "statoids:population":97857,
+    "statoids:statoid":"PH.BS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676277
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BS.IA"
+    },
     "wof:coterminous":[
         85676277
     ],
     "wof:country":"PH",
     "wof:created":1474495926,
-    "wof:geomhash":"9b4b4af704815630928192cea1540053",
+    "wof:geomhash":"f8397bfc92dba2aa50fc01de38772473",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108697781,
-    "wof:lastmodified":1636501023,
+    "wof:lastmodified":1694492933,
     "wof:name":"Isabela",
     "wof:parent_id":85676277,
     "wof:placetype":"county",

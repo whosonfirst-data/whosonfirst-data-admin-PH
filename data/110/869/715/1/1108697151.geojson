@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020463,
-    "geom:area_square_m":241484915.473846,
+    "geom:area_square_m":241484548.675388,
     "geom:bbox":"121.761628,17.306947,122.030592,17.447859",
     "geom:latitude":17.371849,
     "geom:longitude":121.917241,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.CG",
+    "statoids:name":"Cabagan",
+    "statoids:population":45732,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.CG"
+    },
     "wof:country":"PH",
     "wof:created":1474495493,
-    "wof:geomhash":"d3ad0e586985f6000312c11416b7186e",
+    "wof:geomhash":"853068b79a7286bea617bc360dadfc0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697151,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Cabagan",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

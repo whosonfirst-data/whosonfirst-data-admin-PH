@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043789,
-    "geom:area_square_m":539090245.795559,
+    "geom:area_square_m":539089332.468006,
     "geom:bbox":"118.417892,4.645417,120.31958,7.050416",
     "geom:latitude":5.323573,
     "geom:longitude":119.713316,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TT.PN",
+    "statoids:name":"Panglima Sugala (Balimbing)",
+    "statoids:population":38704,
+    "statoids:statoid":"PH.TT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TT.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496533,
-    "wof:geomhash":"15d5f03c2b4f50d940b2fdd4403276d4",
+    "wof:geomhash":"a34f20f2eb2258f53b520abb678291cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698667,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Balimbing",
     "wof:parent_id":85675929,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035047,
-    "geom:area_square_m":429354259.398331,
+    "geom:area_square_m":429354414.722214,
     "geom:bbox":"124.709573,7.535652,124.887326,7.96437",
     "geom:latitude":7.792357,
     "geom:longitude":124.813906,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.PN",
+    "statoids:name":"Pangantucan",
+    "statoids:population":48775,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496613,
-    "wof:geomhash":"339b69e7e72a0e285e3fc547a2103f3d",
+    "wof:geomhash":"dde818d3799bab338493f9c8d2cd8d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698783,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pangantocan",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

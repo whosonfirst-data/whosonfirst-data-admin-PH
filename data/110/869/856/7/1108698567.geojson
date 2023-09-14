@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037917,
-    "geom:area_square_m":456412901.928827,
+    "geom:area_square_m":456413033.11785,
     "geom:bbox":"121.041148,13.087254,121.431252,13.362793",
     "geom:latitude":13.229949,
     "geom:longitude":121.205407,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.NU",
+    "statoids:name":"Naujan",
+    "statoids:population":94497,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.NU"
+    },
     "wof:country":"PH",
     "wof:created":1474496461,
-    "wof:geomhash":"6e0855f1eb2bf4751d5e8150d715b2b7",
+    "wof:geomhash":"36f860c3e2e9e565b3863315efad122d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698567,
-    "wof:lastmodified":1628266690,
+    "wof:lastmodified":1694492869,
     "wof:name":"Naujan",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

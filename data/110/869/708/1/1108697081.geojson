@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012828,
-    "geom:area_square_m":155879390.259476,
+    "geom:area_square_m":155879642.320114,
     "geom:bbox":"122.600635,10.585458,122.725418,10.753722",
     "geom:latitude":10.672105,
     "geom:longitude":122.66868,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.GU.BE",
+    "statoids:name":"Buenavista",
+    "statoids:population":46703,
+    "statoids:statoid":"PH.GU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675999
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.GU.BE"
+    },
     "wof:country":"PH",
     "wof:created":1474495448,
-    "wof:geomhash":"a0dd18f1878d67c03da7e2263d6005f1",
+    "wof:geomhash":"82693c0237db9e140d4a002f3d311853",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697081,
-    "wof:lastmodified":1626127452,
+    "wof:lastmodified":1694492560,
     "wof:name":"Buenavista",
     "wof:parent_id":85675999,
     "wof:placetype":"county",

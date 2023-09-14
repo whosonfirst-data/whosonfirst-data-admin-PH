@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003066,
-    "geom:area_square_m":37336638.240531,
+    "geom:area_square_m":37336430.122538,
     "geom:bbox":"125.938188,9.913424,126.04773,10.003482",
     "geom:latitude":9.953892,
     "geom:longitude":126.010699,
@@ -100,10 +100,12 @@
         85676239
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SN.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474496874,
-    "wof:geomhash":"7d89f86fc1c08960375cfdad58f129d4",
+    "wof:geomhash":"3b98fd21b4ff7abfa9f2ff87a298d7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1108699121,
-    "wof:lastmodified":1626127484,
+    "wof:lastmodified":1694492566,
     "wof:name":"San Benito",
     "wof:parent_id":85676239,
     "wof:placetype":"county",

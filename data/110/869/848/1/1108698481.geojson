@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004339,
-    "geom:area_square_m":52685710.089985,
+    "geom:area_square_m":52685388.70911,
     "geom:bbox":"122.524642,10.889204,122.618878,10.972869",
     "geom:latitude":10.925908,
     "geom:longitude":122.571121,
@@ -145,16 +145,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.MN",
+    "statoids:name":"Mina",
+    "statoids:population":21785,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496406,
-    "wof:geomhash":"616ec87a94dcf28e6236399f6b6f4e54",
+    "wof:geomhash":"6e22f90a04bded43e9cfeca565c9c87b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +174,7 @@
         }
     ],
     "wof:id":1108698481,
-    "wof:lastmodified":1626127506,
+    "wof:lastmodified":1694492569,
     "wof:name":"Mina",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

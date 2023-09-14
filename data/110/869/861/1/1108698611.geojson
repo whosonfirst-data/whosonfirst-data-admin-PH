@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195676,
-    "geom:area_square_m":2400415527.298079,
+    "geom:area_square_m":2400415668.850695,
     "geom:bbox":"125.207173,5.366194,125.682114,7.596645",
     "geom:latitude":7.202798,
     "geom:longitude":125.427358,
@@ -232,10 +232,12 @@
         85676309
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DS.DV"
+    },
     "wof:country":"PH",
     "wof:created":1474496496,
-    "wof:geomhash":"6541ba277d05bdcaa957fc9a5677ad50",
+    "wof:geomhash":"21b45249631db72057053589ebf107a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -245,7 +247,7 @@
         }
     ],
     "wof:id":1108698611,
-    "wof:lastmodified":1626127470,
+    "wof:lastmodified":1694492563,
     "wof:name":"Davao City",
     "wof:parent_id":85676309,
     "wof:placetype":"county",

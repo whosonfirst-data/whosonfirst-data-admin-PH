@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049826,
-    "geom:area_square_m":598131080.381624,
+    "geom:area_square_m":598131152.836395,
     "geom:bbox":"123.226219,13.559285,123.843781,14.10875",
     "geom:latitude":13.873321,
     "geom:longitude":123.394394,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.CR",
+    "statoids:name":"Caramoan",
+    "statoids:population":44945,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474496488,
-    "wof:geomhash":"b513cc1e18c65d9e8d449b443f1a6380",
+    "wof:geomhash":"d6311a304a3133fa04505db3ecb8fcbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698601,
-    "wof:lastmodified":1626127475,
+    "wof:lastmodified":1694492564,
     "wof:name":"Caramoan",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

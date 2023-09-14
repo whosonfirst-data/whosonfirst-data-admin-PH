@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005622,
-    "geom:area_square_m":67390239.942709,
+    "geom:area_square_m":67390291.43569,
     "geom:bbox":"122.856583,14.120471,122.942085,14.26495",
     "geom:latitude":14.189405,
     "geom:longitude":122.891459,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.VN",
+    "statoids:name":"Vinzons",
+    "statoids:population":41915,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.VN"
+    },
     "wof:country":"PH",
     "wof:created":1474497397,
-    "wof:geomhash":"9d39382edc3fe794eaec10dafdf22eda",
+    "wof:geomhash":"f55e639c84d36d980e263fb13b2938d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699883,
-    "wof:lastmodified":1626127535,
+    "wof:lastmodified":1694492574,
     "wof:name":"Vinzons",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

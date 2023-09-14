@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029036,
-    "geom:area_square_m":351093606.521223,
+    "geom:area_square_m":351093255.785606,
     "geom:bbox":"124.688931,11.943449,124.980232,12.194568",
     "geom:latitude":12.071731,
     "geom:longitude":124.831073,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.GN",
+    "statoids:name":"Gandara",
+    "statoids:population":31943,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.GN"
+    },
     "wof:country":"PH",
     "wof:created":1474495811,
-    "wof:geomhash":"e6ed7bddad01ed4bea59dd8f7b3de54b",
+    "wof:geomhash":"c1c4d2d9413b359b1a42f4672770eea2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697609,
-    "wof:lastmodified":1627522507,
+    "wof:lastmodified":1694492714,
     "wof:name":"Gandara",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

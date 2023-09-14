@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010895,
-    "geom:area_square_m":132165136.898541,
+    "geom:area_square_m":132164909.654177,
     "geom:bbox":"124.466134,11.106624,124.648014,11.225855",
     "geom:latitude":11.167864,
     "geom:longitude":124.558148,
@@ -181,16 +181,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.KN",
+    "statoids:name":"Kananga",
+    "statoids:population":48027,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.KN"
+    },
     "wof:country":"PH",
     "wof:created":1474495994,
-    "wof:geomhash":"b7553999e7314d402d7001e0c4685254",
+    "wof:geomhash":"f4dfd3dc62784e807a9f29c1f6245e2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +210,7 @@
         }
     ],
     "wof:id":1108697887,
-    "wof:lastmodified":1626127525,
+    "wof:lastmodified":1694492572,
     "wof:name":"Kananga",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

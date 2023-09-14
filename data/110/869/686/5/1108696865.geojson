@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005813,
-    "geom:area_square_m":70545353.439898,
+    "geom:area_square_m":70545421.910199,
     "geom:bbox":"122.71335,10.989583,122.849329,11.088577",
     "geom:latitude":11.039697,
     "geom:longitude":122.780266,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.AN",
+    "statoids:name":"Anilao",
+    "statoids:population":27486,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.AN"
+    },
     "wof:country":"PH",
     "wof:created":1474495297,
-    "wof:geomhash":"de313f8a1225996afb82f62d23d70a2a",
+    "wof:geomhash":"1aba061e98aea57707c8ea7d6e48e3cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696865,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Banate",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

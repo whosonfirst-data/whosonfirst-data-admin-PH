@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012695,
-    "geom:area_square_m":149114767.088362,
+    "geom:area_square_m":149114984.10529,
     "geom:bbox":"120.81584,18.14611,120.981124,18.285935",
     "geom:latitude":18.211541,
     "geom:longitude":120.894931,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.CA",
+    "statoids:name":"Carasi",
+    "statoids:population":1473,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.CA"
+    },
     "wof:country":"PH",
     "wof:created":1474495580,
-    "wof:geomhash":"2e3e9018c126627b2b53e7aa6fe3a978",
+    "wof:geomhash":"0278acaefc974964268083705dbdae00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697279,
-    "wof:lastmodified":1626127537,
+    "wof:lastmodified":1694492574,
     "wof:name":"Carasi",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

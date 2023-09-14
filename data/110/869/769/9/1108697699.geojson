@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036704,
-    "geom:area_square_m":449494266.43833,
+    "geom:area_square_m":449494607.641245,
     "geom:bbox":"122.221002,7.78945,122.475036,8.076222",
     "geom:latitude":7.944085,
     "geom:longitude":122.365345,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.GT",
+    "statoids:name":"Gutalac",
+    "statoids:population":32153,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.GT"
+    },
     "wof:country":"PH",
     "wof:created":1474495872,
-    "wof:geomhash":"fde61100cd0ab167c308a6b42b06337c",
+    "wof:geomhash":"1aa51e1c8731616bca191979f9bd0da0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697699,
-    "wof:lastmodified":1626127498,
+    "wof:lastmodified":1694492568,
     "wof:name":"Gutalac",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

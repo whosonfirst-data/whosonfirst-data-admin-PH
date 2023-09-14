@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011498,
-    "geom:area_square_m":136185454.38022,
+    "geom:area_square_m":136185326.525164,
     "geom:bbox":"121.155444,16.637194,121.298879,16.763352",
     "geom:latitude":16.697074,
     "geom:longitude":121.212653,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IF.LM",
+    "statoids:name":"Lamut",
+    "statoids:population":23088,
+    "statoids:statoid":"PH.IF",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676077
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IF.LM"
+    },
     "wof:country":"PH",
     "wof:created":1474496062,
-    "wof:geomhash":"3bfb2c9374465d73e55e299abb54fcab",
+    "wof:geomhash":"704729fb6592825b9d7ae0a441c66f97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108697991,
-    "wof:lastmodified":1628266671,
+    "wof:lastmodified":1694492859,
     "wof:name":"Lamut",
     "wof:parent_id":85676077,
     "wof:placetype":"county",

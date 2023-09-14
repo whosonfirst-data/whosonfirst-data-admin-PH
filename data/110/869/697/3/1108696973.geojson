@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056137,
-    "geom:area_square_m":684612441.607877,
+    "geom:area_square_m":684612455.948242,
     "geom:bbox":"122.68077,9.337889,122.955275,9.709088",
     "geom:latitude":9.504663,
     "geom:longitude":122.812569,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.BY",
+    "statoids:name":"Bayawan, City of (Tulong)",
+    "statoids:population":114074,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.BY"
+    },
     "wof:country":"PH",
     "wof:created":1474495376,
-    "wof:geomhash":"5050ee52d258af47333dcf9beb69c92d",
+    "wof:geomhash":"e708c77942b76d58f3e75a1a6b380f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696973,
-    "wof:lastmodified":1626127516,
+    "wof:lastmodified":1694492571,
     "wof:name":"Bayawan",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

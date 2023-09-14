@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009674,
-    "geom:area_square_m":116797759.019568,
+    "geom:area_square_m":116797639.960591,
     "geom:bbox":"122.425149,12.418603,122.594358,12.507944",
     "geom:latitude":12.4645,
     "geom:longitude":122.519366,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.MG",
+    "statoids:name":"Magdiwang",
+    "statoids:population":13584,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496234,
-    "wof:geomhash":"2fb8a4e6c80173ef2ef85976276d1d6b",
+    "wof:geomhash":"b884ff326749c38d3baf3a66f9ffa5ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108698243,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Magdiwang",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

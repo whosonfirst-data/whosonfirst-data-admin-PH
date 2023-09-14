@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001258,
-    "geom:area_square_m":15176186.260334,
+    "geom:area_square_m":15176202.618233,
     "geom:bbox":"124.352028,12.638778,124.393753,12.697861",
     "geom:latitude":12.668628,
     "geom:longitude":124.374876,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.BR",
+    "statoids:name":"Biri",
+    "statoids:population":10987,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495408,
-    "wof:geomhash":"d693df3e1c99518d49f3afe0bcc5427b",
+    "wof:geomhash":"ff7809842b3f7d7cb8b7ef36f0b31248",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697021,
-    "wof:lastmodified":1626127493,
+    "wof:lastmodified":1694492567,
     "wof:name":"Biri",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

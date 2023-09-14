@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012011,
-    "geom:area_square_m":147696114.529678,
+    "geom:area_square_m":147695773.543956,
     "geom:bbox":"120.993043,6.003656,121.190445,6.095417",
     "geom:latitude":6.048776,
     "geom:longitude":121.095622,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.PK",
+    "statoids:name":"Patikul",
+    "statoids:population":42036,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.PK"
+    },
     "wof:country":"PH",
     "wof:created":1474496652,
-    "wof:geomhash":"077c8e5011c952429b0d508702021bc6",
+    "wof:geomhash":"11c9160eb70565a5a8cff8b5ff539737",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698837,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492874,
     "wof:name":"Patikul",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

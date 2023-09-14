@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021494,
-    "geom:area_square_m":258911450.065226,
+    "geom:area_square_m":258911878.952682,
     "geom:bbox":"122.925415,12.958433,123.143753,13.162084",
     "geom:latitude":13.056339,
     "geom:longitude":123.030738,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.SP",
+    "statoids:name":"San Pascual",
+    "statoids:population":44753,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.SP"
+    },
     "wof:country":"PH",
     "wof:created":1474496991,
-    "wof:geomhash":"dd48f78a4487d73a2dfa486925477c9c",
+    "wof:geomhash":"3667db7fc72391e3e44041abf6e1c43c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699295,
-    "wof:lastmodified":1626127526,
+    "wof:lastmodified":1694492573,
     "wof:name":"San Pascual",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

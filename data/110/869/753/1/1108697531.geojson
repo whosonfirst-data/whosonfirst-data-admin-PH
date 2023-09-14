@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005088,
-    "geom:area_square_m":61762307.761633,
+    "geom:area_square_m":61762263.265789,
     "geom:bbox":"124.967849,10.903974,125.03958,11.021316",
     "geom:latitude":10.959341,
     "geom:longitude":125.00646,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.DL",
+    "statoids:name":"Dulag",
+    "statoids:population":41757,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.DL"
+    },
     "wof:country":"PH",
     "wof:created":1474495760,
-    "wof:geomhash":"ae0424141862d739fc16e49b7b984d03",
+    "wof:geomhash":"5736c4b372ac36d3dd5ffbe8ab69960d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697531,
-    "wof:lastmodified":1627522507,
+    "wof:lastmodified":1694492714,
     "wof:name":"Dulag",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

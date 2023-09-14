@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002224,
-    "geom:area_square_m":26694097.758507,
+    "geom:area_square_m":26694365.299665,
     "geom:bbox":"120.911224,13.856391,120.96361,13.919714",
     "geom:latitude":13.884518,
     "geom:longitude":120.935191,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.TA",
+    "statoids:name":"Taal",
+    "statoids:population":51503,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497194,
-    "wof:geomhash":"c8dcfe88d0402fb38bcee6578337b7e4",
+    "wof:geomhash":"b119217359a2fe7b2c3f2c73185501a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108699579,
-    "wof:lastmodified":1626127493,
+    "wof:lastmodified":1694492567,
     "wof:name":"Taal",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

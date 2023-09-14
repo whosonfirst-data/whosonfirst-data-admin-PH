@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009847,
-    "geom:area_square_m":120242227.184512,
+    "geom:area_square_m":120242088.27761,
     "geom:bbox":"125.529405,9.015746,125.738711,9.075029",
     "geom:latitude":9.047053,
     "geom:longitude":125.638598,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.BT",
+    "statoids:name":"Butuan City",
+    "statoids:population":309709,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474496781,
-    "wof:geomhash":"8188163161dcec466a14cb8572296a60",
+    "wof:geomhash":"2608e3a8560832da91a49fbb7f0fad44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699015,
-    "wof:lastmodified":1628266708,
+    "wof:lastmodified":1694492880,
     "wof:name":"Remedios T. Romualdez",
     "wof:parent_id":85676213,
     "wof:placetype":"county",

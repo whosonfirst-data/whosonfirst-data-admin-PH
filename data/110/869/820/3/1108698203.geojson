@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005316,
-    "geom:area_square_m":63527154.126489,
+    "geom:area_square_m":63527270.844838,
     "geom:bbox":"120.643079,14.863224,120.771881,14.934488",
     "geom:latitude":14.902338,
     "geom:longitude":120.705971,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.MC",
+    "statoids:name":"Macabebe",
+    "statoids:population":70777,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.MC"
+    },
     "wof:country":"PH",
     "wof:created":1474496208,
-    "wof:geomhash":"53b5bab335c41bbc8ee6cc2eb4d82db8",
+    "wof:geomhash":"72af4a59f5a28fd48a6bb67c202f76d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698203,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Macabebe",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

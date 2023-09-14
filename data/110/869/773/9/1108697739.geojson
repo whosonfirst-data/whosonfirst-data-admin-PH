@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013299,
-    "geom:area_square_m":160997121.834092,
+    "geom:area_square_m":160997173.771802,
     "geom:bbox":"122.103474,11.635225,122.223738,11.830069",
     "geom:latitude":11.7443,
     "geom:longitude":122.167416,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AK.IA",
+    "statoids:name":"Ibajay",
+    "statoids:population":45279,
+    "statoids:statoid":"PH.AK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675981
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AK.IA"
+    },
     "wof:country":"PH",
     "wof:created":1474495898,
-    "wof:geomhash":"e2c0f121abcd55ab4392df2d67a1395f",
+    "wof:geomhash":"bc496a5b9393e90f1019efd8ec06b877",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697739,
-    "wof:lastmodified":1626127531,
+    "wof:lastmodified":1694492573,
     "wof:name":"Ibajay",
     "wof:parent_id":85675981,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004117,
-    "geom:area_square_m":50301394.994134,
+    "geom:area_square_m":50301520.074611,
     "geom:bbox":"124.783722,8.837838,124.855382,8.909887",
     "geom:latitude":8.871542,
     "geom:longitude":124.818088,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.SL",
+    "statoids:name":"Salay",
+    "statoids:population":27591,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474496844,
-    "wof:geomhash":"cb2e6e0a276eedcaf2d30aa7a2280274",
+    "wof:geomhash":"5be8a1d3add316dc70d1f84370583c0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699081,
-    "wof:lastmodified":1628266710,
+    "wof:lastmodified":1694492881,
     "wof:name":"Salay",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

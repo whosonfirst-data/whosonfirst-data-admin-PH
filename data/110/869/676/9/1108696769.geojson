@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009971,
-    "geom:area_square_m":121469970.604218,
+    "geom:area_square_m":121469953.829795,
     "geom:bbox":"123.363369,9.777239,123.488029,9.912623",
     "geom:latitude":9.85032,
     "geom:longitude":123.422185,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.BD",
+    "statoids:name":"Badian",
+    "statoids:population":37699,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.BD"
+    },
     "wof:country":"PH",
     "wof:created":1474495232,
-    "wof:geomhash":"788a04e96419a529bfc6a78288cb5449",
+    "wof:geomhash":"3c60f29c2f7c290b856edfadcdb6f284",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108696769,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1694492713,
     "wof:name":"Badian",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

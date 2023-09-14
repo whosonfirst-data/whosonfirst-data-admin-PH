@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004573,
-    "geom:area_square_m":54128540.910694,
+    "geom:area_square_m":54128366.243558,
     "geom:bbox":"120.32708,16.794817,120.425778,16.882055",
     "geom:latitude":16.834142,
     "geom:longitude":120.374651,
@@ -160,16 +160,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.LN",
+    "statoids:name":"Luna",
+    "statoids:population":35380,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496181,
-    "wof:geomhash":"d972d4447776d5e401e23527c3c36b81",
+    "wof:geomhash":"3ff09b61c39b758ec617252896a4396b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +189,7 @@
         }
     ],
     "wof:id":1108698161,
-    "wof:lastmodified":1626127461,
+    "wof:lastmodified":1694492562,
     "wof:name":"Luna",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

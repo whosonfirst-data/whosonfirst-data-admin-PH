@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054582,
-    "geom:area_square_m":665634163.828254,
+    "geom:area_square_m":665634036.947362,
     "geom:bbox":"118.286017,9.29466,118.611263,9.673092",
     "geom:latitude":9.510544,
     "geom:longitude":118.455182,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.AO",
+    "statoids:name":"Aborlan",
+    "statoids:population":32209,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676003
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.AO"
+    },
     "wof:country":"PH",
     "wof:created":1474495087,
-    "wof:geomhash":"582865ab1c06a1f16ab35adcb630f67c",
+    "wof:geomhash":"e071220ced2d966623ce4a7f3887c083",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696549,
-    "wof:lastmodified":1626127522,
+    "wof:lastmodified":1694492572,
     "wof:name":"Aborlan",
     "wof:parent_id":85676003,
     "wof:placetype":"county",

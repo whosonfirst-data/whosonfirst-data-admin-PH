@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089986,
-    "geom:area_square_m":1100975503.348868,
+    "geom:area_square_m":1100975657.39585,
     "geom:bbox":"125.267274,8.228456,125.909487,8.414832",
     "geom:latitude":8.322811,
     "geom:longitude":125.598415,
@@ -394,16 +394,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.LP",
+    "statoids:name":"La Paz",
+    "statoids:population":28562,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496035,
-    "wof:geomhash":"aed36d65e148b1f4c2ce89c955912217",
+    "wof:geomhash":"994e3f90b2f1785f146153adca8e4b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -413,7 +423,7 @@
         }
     ],
     "wof:id":1108697951,
-    "wof:lastmodified":1636501033,
+    "wof:lastmodified":1694492934,
     "wof:name":"La Paz",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

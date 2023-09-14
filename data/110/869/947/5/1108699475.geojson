@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00937,
-    "geom:area_square_m":114095360.383643,
+    "geom:area_square_m":114095550.081362,
     "geom:bbox":"123.505512,9.966406,123.632793,10.105915",
     "geom:latitude":10.030063,
     "geom:longitude":123.576088,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.SB",
+    "statoids:name":"Sibonga",
+    "statoids:population":43641,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474497115,
-    "wof:geomhash":"3043630979d8b85b0d06c60346ad77e0",
+    "wof:geomhash":"a17ced9bf83cdf0b33bcf162e576723a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699475,
-    "wof:lastmodified":1628266715,
+    "wof:lastmodified":1694492884,
     "wof:name":"Sibongan",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004769,
-    "geom:area_square_m":57603274.348336,
+    "geom:area_square_m":57603452.149535,
     "geom:bbox":"121.917892,12.285743,122.005706,12.398348",
     "geom:latitude":12.333653,
     "geom:longitude":121.956246,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.RO.FR",
+    "statoids:name":"Ferrol",
+    "statoids:population":6802,
+    "statoids:statoid":"PH.RO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.FR"
+    },
     "wof:country":"PH",
     "wof:created":1474495799,
-    "wof:geomhash":"f4273471efa04a4fe22a7c7471c91932",
+    "wof:geomhash":"aa445bea4597cdf91ff6defae0c099a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697591,
-    "wof:lastmodified":1626127504,
+    "wof:lastmodified":1694492569,
     "wof:name":"Ferrol",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

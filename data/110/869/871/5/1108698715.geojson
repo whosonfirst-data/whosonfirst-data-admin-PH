@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009141,
-    "geom:area_square_m":109712270.204728,
+    "geom:area_square_m":109712250.004101,
     "geom:bbox":"121.781877,13.851222,121.940653,14.000216",
     "geom:latitude":13.920695,
     "geom:longitude":121.864431,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.AD",
+    "statoids:name":"Agdangan",
+    "statoids:population":11567,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.AD"
+    },
     "wof:country":"PH",
     "wof:created":1474496565,
-    "wof:geomhash":"e7a296c1d77faca1ce9439bf5de43e6e",
+    "wof:geomhash":"d9228eacd7e4e3e3146886cf026d86ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698715,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Padre Burgos",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

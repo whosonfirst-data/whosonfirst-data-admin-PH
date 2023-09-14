@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035892,
-    "geom:area_square_m":427071613.138974,
+    "geom:area_square_m":427071485.445662,
     "geom:bbox":"121.266925,15.673214,121.522008,15.940401",
     "geom:latitude":15.784733,
     "geom:longitude":121.40728,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AU.MR",
+    "statoids:name":"Maria Aurora",
+    "statoids:population":38128,
+    "statoids:statoid":"PH.AU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AU.MR"
+    },
     "wof:country":"PH",
     "wof:created":1474496336,
-    "wof:geomhash":"83b2ee78018f59ea103e050f48a161d7",
+    "wof:geomhash":"c0470542cd6d9a2d84cdf5e0d9e62360",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108698393,
-    "wof:lastmodified":1628266683,
+    "wof:lastmodified":1694492865,
     "wof:name":"Maria Aurora",
     "wof:parent_id":85676065,
     "wof:placetype":"county",

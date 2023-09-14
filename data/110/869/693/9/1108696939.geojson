@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02145,
-    "geom:area_square_m":257664319.79952,
+    "geom:area_square_m":257664132.851563,
     "geom:bbox":"121.029771,13.619583,121.180437,13.839978",
     "geom:latitude":13.720217,
     "geom:longitude":121.103514,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.BT",
+    "statoids:name":"Batangas City",
+    "statoids:population":305607,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495348,
-    "wof:geomhash":"e52b3f27abf8c429130da7ad8b95ae59",
+    "wof:geomhash":"b40e0f52e3a927c85543f162db1cc205",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108696939,
-    "wof:lastmodified":1626127474,
+    "wof:lastmodified":1694492564,
     "wof:name":"Batangas City",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

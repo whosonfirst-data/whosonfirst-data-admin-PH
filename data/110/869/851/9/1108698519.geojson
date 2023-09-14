@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012282,
-    "geom:area_square_m":150406213.527996,
+    "geom:area_square_m":150406002.763441,
     "geom:bbox":"124.035555,7.904973,124.161281,8.042437",
     "geom:latitude":7.975961,
     "geom:longitude":124.089135,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.MN",
+    "statoids:name":"Munai",
+    "statoids:population":27600,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496431,
-    "wof:geomhash":"46f891dcc11be702b9a3340300c1b389",
+    "wof:geomhash":"e9f394ebc87bb2f663e21d5620ebc47e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698519,
-    "wof:lastmodified":1628266688,
+    "wof:lastmodified":1694492867,
     "wof:name":"Munai",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

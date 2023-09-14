@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056909,
-    "geom:area_square_m":698107821.051162,
+    "geom:area_square_m":698108043.224113,
     "geom:bbox":"125.851345,7.082116,126.324161,7.344648",
     "geom:latitude":7.221912,
     "geom:longitude":126.076492,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.PN",
+    "statoids:name":"Pantukan",
+    "statoids:population":79067,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496631,
-    "wof:geomhash":"b80ad5c1230a356b264056293d7e6c76",
+    "wof:geomhash":"f5be07b16ea98214c61582dc10a10e95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698803,
-    "wof:lastmodified":1628266699,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pantukan",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020053,
-    "geom:area_square_m":237354074.058522,
+    "geom:area_square_m":237354000.764771,
     "geom:bbox":"120.620022,16.716454,120.792102,16.909907",
     "geom:latitude":16.816025,
     "geom:longitude":120.700385,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.BK",
+    "statoids:name":"Bakun",
+    "statoids:population":13587,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.BK"
+    },
     "wof:country":"PH",
     "wof:created":1474495250,
-    "wof:geomhash":"b5eced9198ae461490aceaca03a4192e",
+    "wof:geomhash":"661454cd729f29110b98d22c21777a60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108696795,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bakun",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033184,
-    "geom:area_square_m":394903821.081182,
+    "geom:area_square_m":394903322.165291,
     "geom:bbox":"119.867058,15.680187,120.201505,15.855697",
     "geom:latitude":15.756114,
     "geom:longitude":120.035633,
@@ -199,16 +199,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.SC",
+    "statoids:name":"San Carlos City",
+    "statoids:population":175103,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474497037,
-    "wof:geomhash":"96aa60af1113ca8d1de45c8dca7a8dd4",
+    "wof:geomhash":"ecb3b61844e1a48617a1683c44ba4800",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -218,7 +228,7 @@
         }
     ],
     "wof:id":1108699357,
-    "wof:lastmodified":1636501029,
+    "wof:lastmodified":1694492934,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

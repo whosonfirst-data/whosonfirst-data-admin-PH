@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035907,
-    "geom:area_square_m":423268330.093256,
+    "geom:area_square_m":423268338.777416,
     "geom:bbox":"121.237051,17.447463,121.549396,17.687509",
     "geom:latitude":17.576023,
     "geom:longitude":121.3765,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.KA.PN",
+    "statoids:name":"Pinukpuk",
+    "statoids:population":29596,
+    "statoids:statoid":"PH.KA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.KA.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496698,
-    "wof:geomhash":"eb30f585bb73574ee7549ca5afad9afa",
+    "wof:geomhash":"3048d51f77e183e5b2ed0f719c14628e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698907,
-    "wof:lastmodified":1628266701,
+    "wof:lastmodified":1694492876,
     "wof:name":"Pinukpuk",
     "wof:parent_id":85676269,
     "wof:placetype":"county",

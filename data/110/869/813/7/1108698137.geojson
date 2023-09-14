@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007197,
-    "geom:area_square_m":86301074.477319,
+    "geom:area_square_m":86301259.53321,
     "geom:bbox":"121.514221,14.0736,121.64681,14.172848",
     "geom:latitude":14.121272,
     "geom:longitude":121.575517,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.LU",
+    "statoids:name":"Lucban",
+    "statoids:population":46698,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.LU"
+    },
     "wof:country":"PH",
     "wof:created":1474496164,
-    "wof:geomhash":"fe04fb6ca2f1e0d7af8ef81285075973",
+    "wof:geomhash":"f21921d3c04074e5fe9f55447aedd161",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108698137,
-    "wof:lastmodified":1626127512,
+    "wof:lastmodified":1694492570,
     "wof:name":"Lucban",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

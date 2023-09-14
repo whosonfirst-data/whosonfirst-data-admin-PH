@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025206,
-    "geom:area_square_m":308810688.527513,
+    "geom:area_square_m":308810304.901961,
     "geom:bbox":"122.319361,7.663689,122.640211,7.918487",
     "geom:latitude":7.781989,
     "geom:longitude":122.477716,
@@ -52,10 +52,12 @@
         85675963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.RS"
+    },
     "wof:country":"PH",
     "wof:created":1474497299,
-    "wof:geomhash":"dc1265d12eaf426eb34ddf3039c495c5",
+    "wof:geomhash":"2b5be12fd04f2857c3bf02ba67f19418",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1108699739,
-    "wof:lastmodified":1628266726,
+    "wof:lastmodified":1694492889,
     "wof:name":"Titay",
     "wof:parent_id":85675963,
     "wof:placetype":"county",

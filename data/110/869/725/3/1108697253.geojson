@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006937,
-    "geom:area_square_m":81951191.392214,
+    "geom:area_square_m":81950953.099963,
     "geom:bbox":"120.403725,17.126134,120.520147,17.23708",
     "geom:latitude":17.181937,
     "geom:longitude":120.45901,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.CN",
+    "statoids:name":"Candon, City of",
+    "statoids:population":57884,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.CN"
+    },
     "wof:country":"PH",
     "wof:created":1474495559,
-    "wof:geomhash":"d445ee428a6b357609c7e600b7e908e8",
+    "wof:geomhash":"0e371970a613c9b8353d57327ce53504",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108697253,
-    "wof:lastmodified":1626127480,
+    "wof:lastmodified":1694492565,
     "wof:name":"Candon",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

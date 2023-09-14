@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006649,
-    "geom:area_square_m":80557796.154716,
+    "geom:area_square_m":80557714.475866,
     "geom:bbox":"124.427887,11.462055,124.529916,11.571889",
     "geom:latitude":11.510686,
     "geom:longitude":124.484579,
@@ -145,16 +145,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BI.BL",
+    "statoids:name":"Biliran",
+    "statoids:population":16183,
+    "statoids:statoid":"PH.BI",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676187
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BI.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495392,
-    "wof:geomhash":"2f70d440134eb59b8ad6f7a3266b7339",
+    "wof:geomhash":"613fb59a52b6dd69b2f9fef0a9bc81f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +174,7 @@
         }
     ],
     "wof:id":1108696997,
-    "wof:lastmodified":1636501036,
+    "wof:lastmodified":1694492935,
     "wof:name":"Biliran",
     "wof:parent_id":85676187,
     "wof:placetype":"county",

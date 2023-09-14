@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007718,
-    "geom:area_square_m":90709982.276607,
+    "geom:area_square_m":90709998.073901,
     "geom:bbox":"120.61814,18.023937,120.701685,18.187289",
     "geom:latitude":18.111568,
     "geom:longitude":120.65521,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.SR",
+    "statoids:name":"Sarrat",
+    "statoids:population":24770,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497100,
-    "wof:geomhash":"2470d530d4489eee7d951205c489fcbb",
+    "wof:geomhash":"8903e3f56cd31a88d0c336cdbe6cf693",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108699453,
-    "wof:lastmodified":1626127531,
+    "wof:lastmodified":1694492573,
     "wof:name":"Sarrat",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

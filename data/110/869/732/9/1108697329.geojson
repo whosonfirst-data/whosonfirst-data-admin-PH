@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012303,
-    "geom:area_square_m":148901556.958048,
+    "geom:area_square_m":148901604.743383,
     "geom:bbox":"124.81484,11.741222,124.971347,11.914492",
     "geom:latitude":11.831495,
     "geom:longitude":124.895763,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.CT",
+    "statoids:name":"Catbalogan, City of",
+    "statoids:population":94317,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495612,
-    "wof:geomhash":"aaac867b8a4f0f9e43b68e7e46aeefdc",
+    "wof:geomhash":"25c93b1d0faee79aa21d75909e0c5e52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697329,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Catbalogan",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

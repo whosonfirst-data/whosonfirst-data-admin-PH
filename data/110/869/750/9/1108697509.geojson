@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005712,
-    "geom:area_square_m":69947137.98842,
+    "geom:area_square_m":69947058.717701,
     "geom:bbox":"124.331617,7.944316,124.482649,8.019021",
     "geom:latitude":7.977112,
     "geom:longitude":124.403729,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.BA",
+    "statoids:name":"Buadiposo-Buntong",
+    "statoids:population":15662,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.BA"
+    },
     "wof:country":"PH",
     "wof:created":1474495746,
-    "wof:geomhash":"3b5fb51b5c88e2c4aa4d6eaa03317892",
+    "wof:geomhash":"072fd54aafe4feb80ca5eeb74de5e379",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697509,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492842,
     "wof:name":"Ditsa-an Ramain",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025694,
-    "geom:area_square_m":304803759.094961,
+    "geom:area_square_m":304803871.225035,
     "geom:bbox":"120.984336,16.320485,121.287035,16.458813",
     "geom:latitude":16.386705,
     "geom:longitude":121.116033,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.BM",
+    "statoids:name":"Bambang",
+    "statoids:population":47657,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.BM"
+    },
     "wof:country":"PH",
     "wof:created":1474495295,
-    "wof:geomhash":"241bfd54c5831edda87f778575a38bfb",
+    "wof:geomhash":"fbc10243fdbc5081cbe20065c8b97356",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108696861,
-    "wof:lastmodified":1628266624,
+    "wof:lastmodified":1694492828,
     "wof:name":"Bambang",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

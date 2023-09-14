@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026985,
-    "geom:area_square_m":327501724.895821,
+    "geom:area_square_m":327501944.832442,
     "geom:bbox":"122.061857,10.895923,122.332881,11.155559",
     "geom:latitude":11.040158,
     "geom:longitude":122.189257,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.VL",
+    "statoids:name":"Valderrama",
+    "statoids:population":18442,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497363,
-    "wof:geomhash":"d8a7a588a76469d7f4bcf9b4c19d27e0",
+    "wof:geomhash":"cc6a2145f8b54751c30fc018d0061b54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699833,
-    "wof:lastmodified":1628266735,
+    "wof:lastmodified":1694492892,
     "wof:name":"Valderama",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

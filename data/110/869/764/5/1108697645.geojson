@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010564,
-    "geom:area_square_m":126862505.773227,
+    "geom:area_square_m":126862728.135548,
     "geom:bbox":"124.258514,13.732806,124.419586,13.841051",
     "geom:latitude":13.787062,
     "geom:longitude":124.349959,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CT.GG",
+    "statoids:name":"Gigmoto",
+    "statoids:population":8003,
+    "statoids:statoid":"PH.CT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CT.GG"
+    },
     "wof:country":"PH",
     "wof:created":1474495834,
-    "wof:geomhash":"d9c07eddc5b7ae5041f8c1ae36668d83",
+    "wof:geomhash":"ada5013dd35428c46c92cba95b7a1516",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697645,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1694492846,
     "wof:name":"Gigmoto",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

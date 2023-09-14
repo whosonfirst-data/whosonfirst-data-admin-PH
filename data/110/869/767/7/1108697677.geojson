@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028055,
-    "geom:area_square_m":341437948.409028,
+    "geom:area_square_m":341438052.661448,
     "geom:bbox":"123.092126,10.071855,123.326296,10.280447",
     "geom:latitude":10.18191,
     "geom:longitude":123.215715,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.GI",
+    "statoids:name":"Guihulngan, City of",
+    "statoids:population":93675,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495859,
-    "wof:geomhash":"86b5653203f23c98e1c50f1546299001",
+    "wof:geomhash":"547d0ac6a518e1bf5b564a4887b95f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697677,
-    "wof:lastmodified":1626127495,
+    "wof:lastmodified":1694492568,
     "wof:name":"Guihulngan",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

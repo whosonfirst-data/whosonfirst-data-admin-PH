@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035794,
-    "geom:area_square_m":437756282.137831,
+    "geom:area_square_m":437756616.480145,
     "geom:bbox":"125.797909,8.347936,126.056455,8.588072",
     "geom:latitude":8.479741,
     "geom:longitude":125.939257,
@@ -520,16 +520,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.SF",
+    "statoids:name":"San Francisco",
+    "statoids:population":70986,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.SF"
+    },
     "wof:country":"PH",
     "wof:created":1474496901,
-    "wof:geomhash":"628a02a1db7af1c9af46a46f2455b5f5",
+    "wof:geomhash":"2a0c39aa5fbecc67e5696a2622ab0364",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -539,7 +549,7 @@
         }
     ],
     "wof:id":1108699161,
-    "wof:lastmodified":1636501039,
+    "wof:lastmodified":1694492935,
     "wof:name":"San Francisco",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

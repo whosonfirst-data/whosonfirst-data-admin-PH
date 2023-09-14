@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014058,
-    "geom:area_square_m":167856637.898128,
+    "geom:area_square_m":167856438.446842,
     "geom:bbox":"120.871179,15.019966,121.15892,15.113298",
     "geom:latitude":15.062492,
     "geom:longitude":121.000956,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BU.SI",
+    "statoids:name":"San Ildefonso",
+    "statoids:population":95000,
+    "statoids:statoid":"PH.BU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676135
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BU.SI"
+    },
     "wof:country":"PH",
     "wof:created":1474496910,
-    "wof:geomhash":"afd28dfdca7b928efad533004a5b2acd",
+    "wof:geomhash":"5256fafd2339ea2dfbabbd35b38a82be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699175,
-    "wof:lastmodified":1628266711,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Ildefonso",
     "wof:parent_id":85676135,
     "wof:placetype":"county",

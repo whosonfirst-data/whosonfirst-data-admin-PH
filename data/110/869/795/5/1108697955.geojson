@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006295,
-    "geom:area_square_m":74650342.40765,
+    "geom:area_square_m":74650418.726779,
     "geom:bbox":"120.549087,16.427311,120.656816,16.532408",
     "geom:latitude":16.47107,
     "geom:longitude":120.595687,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.LT",
+    "statoids:name":"La Trinidad",
+    "statoids:population":107188,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.LT"
+    },
     "wof:country":"PH",
     "wof:created":1474496038,
-    "wof:geomhash":"88ec78a874c5e5530b28bed67e9694d1",
+    "wof:geomhash":"138c99d10a443ab1c501709d29924a11",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108697955,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"La Trinidad",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

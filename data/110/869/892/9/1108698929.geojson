@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015874,
-    "geom:area_square_m":191139438.462932,
+    "geom:area_square_m":191139146.67985,
     "geom:bbox":"121.337051,13.063944,121.549832,13.229584",
     "geom:latitude":13.142576,
     "geom:longitude":121.43064,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.PL",
+    "statoids:name":"Pola",
+    "statoids:population":32984,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474496713,
-    "wof:geomhash":"d689a62a7a04d00dc19fd24bdeae78de",
+    "wof:geomhash":"111e7e0fcb928133fb41e828967fd224",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698929,
-    "wof:lastmodified":1626127470,
+    "wof:lastmodified":1694492563,
     "wof:name":"Pola",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

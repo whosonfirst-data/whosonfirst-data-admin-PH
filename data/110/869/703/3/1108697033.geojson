@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007137,
-    "geom:area_square_m":86624407.957919,
+    "geom:area_square_m":86624362.910823,
     "geom:bbox":"123.94863,10.970525,124.042114,11.088931",
     "geom:latitude":11.0265,
     "geom:longitude":123.991995,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.BG",
+    "statoids:name":"Bogo, City of",
+    "statoids:population":69911,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495415,
-    "wof:geomhash":"bc26690c25981c28e72b3dd04740262a",
+    "wof:geomhash":"3bf1a9c912afdfaad8444ed4802855ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108697033,
-    "wof:lastmodified":1626127500,
+    "wof:lastmodified":1694492568,
     "wof:name":"Bogo",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

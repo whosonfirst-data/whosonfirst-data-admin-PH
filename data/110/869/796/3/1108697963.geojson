@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009166,
-    "geom:area_square_m":108956287.420216,
+    "geom:area_square_m":108956387.603271,
     "geom:bbox":"120.070939,15.925716,120.212695,16.054278",
     "geom:latitude":15.996556,
     "geom:longitude":120.140516,
@@ -151,16 +151,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.LB",
+    "statoids:name":"Labrador",
+    "statoids:population":21149,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496044,
-    "wof:geomhash":"96556d5d4e9bda7bfda492254445971c",
+    "wof:geomhash":"c30b44b98eb9002be7988eb5b9ad00b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +180,7 @@
         }
     ],
     "wof:id":1108697963,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1694492561,
     "wof:name":"Labrador",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

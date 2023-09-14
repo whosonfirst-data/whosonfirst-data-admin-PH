@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040841,
-    "geom:area_square_m":500142784.405569,
+    "geom:area_square_m":500143054.96244,
     "geom:bbox":"122.40703,7.77785,122.639626,8.108514",
     "geom:latitude":7.961614,
     "geom:longitude":122.527422,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.KL",
+    "statoids:name":"Kalawit",
+    "statoids:population":22157,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.KL"
+    },
     "wof:country":"PH",
     "wof:created":1474496041,
-    "wof:geomhash":"e5a44a13d515821640f9fdf2d40b38e1",
+    "wof:geomhash":"f95fecc87a8e2eb416cd2aa11b51285a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697959,
-    "wof:lastmodified":1626127503,
+    "wof:lastmodified":1694492569,
     "wof:name":"Labason",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

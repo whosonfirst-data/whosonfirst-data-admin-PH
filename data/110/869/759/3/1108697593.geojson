@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025565,
-    "geom:area_square_m":300423188.682371,
+    "geom:area_square_m":300423126.621871,
     "geom:bbox":"121.281632,17.99298,121.483272,18.268651",
     "geom:latitude":18.130096,
     "geom:longitude":121.404185,
@@ -238,16 +238,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AP.FO",
+    "statoids:name":"Flora",
+    "statoids:population":16743,
+    "statoids:statoid":"PH.AP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AP.FO"
+    },
     "wof:country":"PH",
     "wof:created":1474495801,
-    "wof:geomhash":"c114b1ac2c87cd55e3eef33c8de99693",
+    "wof:geomhash":"a34f8610ef11902b5a6572b9d64e10eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -257,7 +267,7 @@
         }
     ],
     "wof:id":1108697593,
-    "wof:lastmodified":1626127504,
+    "wof:lastmodified":1694492569,
     "wof:name":"Flora",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

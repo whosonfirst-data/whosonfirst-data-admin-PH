@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003088,
-    "geom:area_square_m":37637278.169242,
+    "geom:area_square_m":37637365.476992,
     "geom:bbox":"123.888091,9.660069,123.966092,9.722937",
     "geom:latitude":9.687729,
     "geom:longitude":123.931895,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.CO",
+    "statoids:name":"Corella",
+    "statoids:population":7699,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.CO"
+    },
     "wof:country":"PH",
     "wof:created":1474495660,
-    "wof:geomhash":"f293c550e84cab182626cde73dc0c144",
+    "wof:geomhash":"3098931ee38b6efe0aee7f833b302d64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697389,
-    "wof:lastmodified":1626127457,
+    "wof:lastmodified":1694492561,
     "wof:name":"Corella",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

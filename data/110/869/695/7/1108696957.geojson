@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007502,
-    "geom:area_square_m":88938538.146384,
+    "geom:area_square_m":88938367.701605,
     "geom:bbox":"120.307053,16.458241,120.400564,16.569682",
     "geom:latitude":16.508867,
     "geom:longitude":120.35293,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.BU",
+    "statoids:name":"Bauang",
+    "statoids:population":70735,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495366,
-    "wof:geomhash":"2e8a6e1bede09539b13fce2cf056b179",
+    "wof:geomhash":"3fa8dadf0d16d693d8b79610a365f88c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696957,
-    "wof:lastmodified":1626127478,
+    "wof:lastmodified":1694492565,
     "wof:name":"Bauang",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

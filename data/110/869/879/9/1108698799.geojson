@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010047,
-    "geom:area_square_m":123008940.78126,
+    "geom:area_square_m":123009255.304537,
     "geom:bbox":"124.010714,8.017601,124.253893,8.096244",
     "geom:latitude":8.062374,
     "geom:longitude":124.120134,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.PR",
+    "statoids:name":"Pantao Ragat",
+    "statoids:population":23122,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.PR"
+    },
     "wof:country":"PH",
     "wof:created":1474496628,
-    "wof:geomhash":"a02fd0c1ff6efe792d4e23e298e79354",
+    "wof:geomhash":"02b4bd6d7fe6c65264036c87f4d762ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698799,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pantaoragat",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018386,
-    "geom:area_square_m":218901250.575778,
+    "geom:area_square_m":218901210.953456,
     "geom:bbox":"120.644669,15.581181,120.843381,15.751071",
     "geom:latitude":15.664123,
     "geom:longitude":120.75306,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.GI",
+    "statoids:name":"Guimba",
+    "statoids:population":104894,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495862,
-    "wof:geomhash":"07267b77d9788f21c26d84ce3c597b87",
+    "wof:geomhash":"36a9294c3cb827adb6666d6f3528ac2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697683,
-    "wof:lastmodified":1628266654,
+    "wof:lastmodified":1694492848,
     "wof:name":"Guimba",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

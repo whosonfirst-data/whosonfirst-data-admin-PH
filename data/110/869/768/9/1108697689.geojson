@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01148,
-    "geom:area_square_m":138228360.648232,
+    "geom:area_square_m":138228336.094116,
     "geom:bbox":"123.480666,13.069123,123.679983,13.259115",
     "geom:latitude":13.160061,
     "geom:longitude":123.579433,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.GI",
+    "statoids:name":"Guinobatan",
+    "statoids:population":75967,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495866,
-    "wof:geomhash":"795a8f6fe5eba2d13e5326a94d8943d3",
+    "wof:geomhash":"31493de818cc3d67783e44e13091b25c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697689,
-    "wof:lastmodified":1626127502,
+    "wof:lastmodified":1694492569,
     "wof:name":"Guinobatan",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

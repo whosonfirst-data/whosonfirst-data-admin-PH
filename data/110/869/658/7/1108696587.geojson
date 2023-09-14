@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053713,
-    "geom:area_square_m":658508800.075372,
+    "geom:area_square_m":658508848.877326,
     "geom:bbox":"124.491231,7.31867,124.694434,7.707837",
     "geom:latitude":7.487797,
     "geom:longitude":124.578923,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.AL",
+    "statoids:name":"Alamada",
+    "statoids:population":56813,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.AL"
+    },
     "wof:country":"PH",
     "wof:created":1474495112,
-    "wof:geomhash":"ea8ed192a6eb00333aaf7912594f5647",
+    "wof:geomhash":"e34c9c137faf449a87ae93147d57a868",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696587,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694492825,
     "wof:name":"Alamada",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

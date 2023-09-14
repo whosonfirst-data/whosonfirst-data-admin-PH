@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02224,
-    "geom:area_square_m":267334805.361515,
+    "geom:area_square_m":267334573.330652,
     "geom:bbox":"122.345736,13.433425,122.512588,13.699234",
     "geom:latitude":13.561788,
     "geom:longitude":122.442034,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.ML",
+    "statoids:name":"Mulanay",
+    "statoids:population":50826,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496428,
-    "wof:geomhash":"773b4c21dfaa47c60b2e59c5fc77ab9c",
+    "wof:geomhash":"63e3230c7b804c351513fdfc9ab87ef8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698515,
-    "wof:lastmodified":1626127474,
+    "wof:lastmodified":1694492564,
     "wof:name":"Mulanay",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

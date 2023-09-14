@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009273,
-    "geom:area_square_m":112661976.064918,
+    "geom:area_square_m":112662136.869476,
     "geom:bbox":"123.332686,10.667588,123.531069,10.777428",
     "geom:latitude":10.72787,
     "geom:longitude":123.448816,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.TB",
+    "statoids:name":"Toboso",
+    "statoids:population":41658,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.TB"
+    },
     "wof:country":"PH",
     "wof:created":1474497304,
-    "wof:geomhash":"e184c8759f150da09fafab9fb5f1962e",
+    "wof:geomhash":"df9720e5094d5421c57734a991d9e163",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108699745,
-    "wof:lastmodified":1626127529,
+    "wof:lastmodified":1694492573,
     "wof:name":"Toboso",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

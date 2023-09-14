@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004728,
-    "geom:area_square_m":57280074.20645,
+    "geom:area_square_m":57280062.627784,
     "geom:bbox":"122.630386,11.487561,122.733139,11.577084",
     "geom:latitude":11.522859,
     "geom:longitude":122.679527,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.II",
+    "statoids:name":"Ivisan",
+    "statoids:population":26763,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.II"
+    },
     "wof:country":"PH",
     "wof:created":1474495936,
-    "wof:geomhash":"3480c92af774827280695a3f8c73101f",
+    "wof:geomhash":"1a8c909efe3c61339f2e69cbbff06207",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697797,
-    "wof:lastmodified":1628266659,
+    "wof:lastmodified":1694492851,
     "wof:name":"Ivisan",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

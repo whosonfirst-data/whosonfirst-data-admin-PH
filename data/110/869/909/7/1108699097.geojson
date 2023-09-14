@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005142,
-    "geom:area_square_m":63092752.415178,
+    "geom:area_square_m":63092727.334353,
     "geom:bbox":"125.669586,7.017118,125.793724,7.110594",
     "geom:latitude":7.071066,
     "geom:longitude":125.741527,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DV.IL",
+    "statoids:name":"Samal, Island Garden City of",
+    "statoids:population":95874,
+    "statoids:statoid":"PH.DV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DV.IL"
+    },
     "wof:country":"PH",
     "wof:created":1474496854,
-    "wof:geomhash":"79b9d359d3b799a66e55a10f7310d856",
+    "wof:geomhash":"652f0d92cbb35438b0d2ea2654a6d75e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699097,
-    "wof:lastmodified":1626127446,
+    "wof:lastmodified":1694492559,
     "wof:name":"Samal",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

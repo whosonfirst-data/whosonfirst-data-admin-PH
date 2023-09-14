@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014695,
-    "geom:area_square_m":175938296.350794,
+    "geom:area_square_m":175938486.179547,
     "geom:bbox":"120.387054,14.408722,120.608719,14.546849",
     "geom:latitude":14.473234,
     "geom:longitude":120.506261,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.MA",
+    "statoids:name":"Mariveles",
+    "statoids:population":112707,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.MA"
+    },
     "wof:country":"PH",
     "wof:created":1474496348,
-    "wof:geomhash":"75e371b18309deb2993f6f7dbe432286",
+    "wof:geomhash":"aa5ec0d5df374ead34cf0e5e60f3fb64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108698409,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Mariveles",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

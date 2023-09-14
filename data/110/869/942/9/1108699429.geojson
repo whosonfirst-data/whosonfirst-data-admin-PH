@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005886,
-    "geom:area_square_m":70599614.534142,
+    "geom:area_square_m":70599322.718081,
     "geom:bbox":"121.124461,13.986919,121.225505,14.145405",
     "geom:latitude":14.078248,
     "geom:longitude":121.178319,
@@ -115,16 +115,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.SM",
+    "statoids:name":"Santo Tomas",
+    "statoids:population":124740,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474497084,
-    "wof:geomhash":"f118a62f76584ef3a2e5ed1e76d37558",
+    "wof:geomhash":"9b230ea9e7dcdcfb29fc692dee660015",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +144,7 @@
         }
     ],
     "wof:id":1108699429,
-    "wof:lastmodified":1636501041,
+    "wof:lastmodified":1694492936,
     "wof:name":"Santo Tomas",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

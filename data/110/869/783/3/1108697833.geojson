@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028083,
-    "geom:area_square_m":332856196.822687,
+    "geom:area_square_m":332856342.151017,
     "geom:bbox":"121.613192,16.451182,121.944301,16.613938",
     "geom:latitude":16.554651,
     "geom:longitude":121.784371,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.JN",
+    "statoids:name":"Jones",
+    "statoids:population":44218,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.JN"
+    },
     "wof:country":"PH",
     "wof:created":1474495960,
-    "wof:geomhash":"88241133f95e60f23b9cb881c95914d8",
+    "wof:geomhash":"779f760223d513b3f3e99775bf192d33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108697833,
-    "wof:lastmodified":1626127489,
+    "wof:lastmodified":1694492567,
     "wof:name":"Jones",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

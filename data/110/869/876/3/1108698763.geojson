@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019597,
-    "geom:area_square_m":239039847.753381,
+    "geom:area_square_m":239039357.726034,
     "geom:bbox":"122.940596,9.348269,123.158437,9.507361",
     "geom:latitude":9.431068,
     "geom:longitude":123.051341,
@@ -283,16 +283,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.PM",
+    "statoids:name":"Pamplona",
+    "statoids:population":34906,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.PM"
+    },
     "wof:country":"PH",
     "wof:created":1474496599,
-    "wof:geomhash":"7e7e2e85e1174f8c4fb7bae717f00a1a",
+    "wof:geomhash":"19169a5cd3824489dfee47c033e79cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -302,7 +312,7 @@
         }
     ],
     "wof:id":1108698763,
-    "wof:lastmodified":1636501035,
+    "wof:lastmodified":1694492935,
     "wof:name":"Pamplona",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

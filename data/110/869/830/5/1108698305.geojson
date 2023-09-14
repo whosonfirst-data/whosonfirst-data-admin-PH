@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004105,
-    "geom:area_square_m":49391993.230173,
+    "geom:area_square_m":49392162.362329,
     "geom:bbox":"123.686751,13.25334,123.765322,13.341258",
     "geom:latitude":13.300191,
     "geom:longitude":123.725369,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AL.ML",
+    "statoids:name":"Malilipot",
+    "statoids:population":35567,
+    "statoids:statoid":"PH.AL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676011
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AL.ML"
+    },
     "wof:country":"PH",
     "wof:created":1474496275,
-    "wof:geomhash":"e77c1c9d5be6dcc03961a8c535ef7b2d",
+    "wof:geomhash":"0339f9e63ee40f4740f768e0035bc9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698305,
-    "wof:lastmodified":1626127520,
+    "wof:lastmodified":1694492572,
     "wof:name":"Malilipot",
     "wof:parent_id":85676011,
     "wof:placetype":"county",

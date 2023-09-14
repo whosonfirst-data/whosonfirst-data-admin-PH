@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006048,
-    "geom:area_square_m":73824301.453852,
+    "geom:area_square_m":73824127.458611,
     "geom:bbox":"124.632057,9.109555,124.729119,9.214045",
     "geom:latitude":9.165759,
     "geom:longitude":124.676334,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CM.CT",
+    "statoids:name":"Catarman",
+    "statoids:population":16388,
+    "statoids:statoid":"PH.CM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676225
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CM.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495609,
-    "wof:geomhash":"393aa500680bb6ab873a6c4f51bf68f2",
+    "wof:geomhash":"c86770b431002945486b98deef413039",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108697325,
-    "wof:lastmodified":1626127499,
+    "wof:lastmodified":1694492568,
     "wof:name":"Catarman",
     "wof:parent_id":85676225,
     "wof:placetype":"county",

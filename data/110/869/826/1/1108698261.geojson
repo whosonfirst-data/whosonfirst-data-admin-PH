@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012263,
-    "geom:area_square_m":149049854.745651,
+    "geom:area_square_m":149049924.504666,
     "geom:bbox":"124.923397,10.520379,125.036496,10.668972",
     "geom:latitude":10.589611,
     "geom:longitude":124.977273,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.MH",
+    "statoids:name":"Mahaplag",
+    "statoids:population":26599,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.MH"
+    },
     "wof:country":"PH",
     "wof:created":1474496246,
-    "wof:geomhash":"0360c1b0dfac05ac058f9bf931c48248",
+    "wof:geomhash":"5866913e06369ade7c11b21f1cda5c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698261,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Mahaplag",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

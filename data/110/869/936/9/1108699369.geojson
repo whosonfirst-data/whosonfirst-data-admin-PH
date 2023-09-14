@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012129,
-    "geom:area_square_m":148509821.709628,
+    "geom:area_square_m":148509710.731398,
     "geom:bbox":"125.981851,7.925839,126.068753,8.143969",
     "geom:latitude":8.023333,
     "geom:longitude":126.020571,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AS.SJ",
+    "statoids:name":"Santa Josefa",
+    "statoids:population":25156,
+    "statoids:statoid":"PH.AS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676217
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AS.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474497046,
-    "wof:geomhash":"d2440f5915257aa000849a87ada98ddc",
+    "wof:geomhash":"4c013fccc0938cf8146f69ee4ab8d9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108699369,
-    "wof:lastmodified":1626127447,
+    "wof:lastmodified":1694492559,
     "wof:name":"Santa Josefa",
     "wof:parent_id":85676217,
     "wof:placetype":"county",

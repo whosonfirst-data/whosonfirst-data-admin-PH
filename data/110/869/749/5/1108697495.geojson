@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007208,
-    "geom:area_square_m":88342220.986753,
+    "geom:area_square_m":88342321.395322,
     "geom:bbox":"123.311894,7.554584,123.431252,7.666849",
     "geom:latitude":7.622944,
     "geom:longitude":123.369742,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZS.DN",
+    "statoids:name":"Dinas",
+    "statoids:population":34768,
+    "statoids:statoid":"PH.ZS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675967
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZS.DN"
+    },
     "wof:country":"PH",
     "wof:created":1474495736,
-    "wof:geomhash":"9d7733bedc4d90424071c602e7ad0b37",
+    "wof:geomhash":"03d275a3f59f9c416b2f0be976186704",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697495,
-    "wof:lastmodified":1627522507,
+    "wof:lastmodified":1694492714,
     "wof:name":"Dinas",
     "wof:parent_id":85675967,
     "wof:placetype":"county",

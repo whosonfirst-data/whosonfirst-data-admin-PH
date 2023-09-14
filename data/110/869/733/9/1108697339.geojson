@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016669,
-    "geom:area_square_m":201305902.020172,
+    "geom:area_square_m":201306114.731175,
     "geom:bbox":"124.97242,12.330571,125.190635,12.44962",
     "geom:latitude":12.394827,
     "geom:longitude":125.077042,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NS.CT",
+    "statoids:name":"Catubig",
+    "statoids:population":31723,
+    "statoids:statoid":"PH.NS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676209
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NS.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495618,
-    "wof:geomhash":"74628b846fbf322cafea8b89a427ac03",
+    "wof:geomhash":"e7eaec37d3e8e39d4c096159cc218124",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697339,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Catubig",
     "wof:parent_id":85676209,
     "wof:placetype":"county",

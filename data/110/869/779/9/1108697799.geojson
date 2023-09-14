@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024731,
-    "geom:area_square_m":301729777.894574,
+    "geom:area_square_m":301729765.964289,
     "geom:bbox":"125.447891,9.299362,125.7555,9.464965",
     "geom:latitude":9.362875,
     "geom:longitude":125.590726,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.JB",
+    "statoids:name":"Jabonga",
+    "statoids:population":23833,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.JB"
+    },
     "wof:country":"PH",
     "wof:created":1474495938,
-    "wof:geomhash":"57219a30d6d0d938471d3ae1c6af979c",
+    "wof:geomhash":"36b4470f1daec28b254ee40820295ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697799,
-    "wof:lastmodified":1628266659,
+    "wof:lastmodified":1694492851,
     "wof:name":"Jabongga",
     "wof:parent_id":85676213,
     "wof:placetype":"county",

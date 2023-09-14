@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021438,
-    "geom:area_square_m":263397857.372999,
+    "geom:area_square_m":263397897.559937,
     "geom:bbox":"124.765375,6.382576,125.0077,6.53834",
     "geom:latitude":6.479451,
     "geom:longitude":124.882412,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.KR",
+    "statoids:name":"Koronadal, City of",
+    "statoids:population":158273,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.KR"
+    },
     "wof:country":"PH",
     "wof:created":1474496026,
-    "wof:geomhash":"5f00bd51bfcfe8825553fc586dd98512",
+    "wof:geomhash":"0ea0faf8beeb7de13af95e2d9f3d703f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108697937,
-    "wof:lastmodified":1626127495,
+    "wof:lastmodified":1694492568,
     "wof:name":"Koronadal",
     "wof:parent_id":85676263,
     "wof:placetype":"county",

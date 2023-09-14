@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008033,
-    "geom:area_square_m":98728100.241651,
+    "geom:area_square_m":98727869.232117,
     "geom:bbox":"120.478691,6.242055,120.605446,6.39875",
     "geom:latitude":6.309086,
     "geom:longitude":120.557331,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.PN",
+    "statoids:name":"Pangutaran",
+    "statoids:population":28461,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496617,
-    "wof:geomhash":"7a6d766c047f552259504dbd8479660e",
+    "wof:geomhash":"00e0d7f174891643da805490718faeb2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698789,
-    "wof:lastmodified":1628266698,
+    "wof:lastmodified":1694492874,
     "wof:name":"Pangutaran",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

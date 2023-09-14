@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03063,
-    "geom:area_square_m":375014130.666772,
+    "geom:area_square_m":375014151.453267,
     "geom:bbox":"122.862032,7.919534,123.049481,8.187494",
     "geom:latitude":8.055762,
     "geom:longitude":122.959313,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.BC",
+    "statoids:name":"Bacungan (Leon T. Postigo)",
+    "statoids:population":24643,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495230,
-    "wof:geomhash":"126e188aded528684e0b2f987d369df8",
+    "wof:geomhash":"8a3f8fa184441785aaec319f505c9f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696767,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bacungan",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

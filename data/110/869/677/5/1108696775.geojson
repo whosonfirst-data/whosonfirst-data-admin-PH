@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013553,
-    "geom:area_square_m":160617125.448572,
+    "geom:area_square_m":160617436.794996,
     "geom:bbox":"121.206691,16.473745,121.349687,16.669498",
     "geom:latitude":16.584872,
     "geom:longitude":121.282446,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NV.BG",
+    "statoids:name":"Bagabag",
+    "statoids:population":35462,
+    "statoids:statoid":"PH.NV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676083
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NV.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495236,
-    "wof:geomhash":"a147bf8339cbf492506a6aca49dc1268",
+    "wof:geomhash":"61b4f5e8ab8b0d682ce08b39cb35a0b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108696775,
-    "wof:lastmodified":1626127513,
+    "wof:lastmodified":1694492570,
     "wof:name":"Bagabag",
     "wof:parent_id":85676083,
     "wof:placetype":"county",

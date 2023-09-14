@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008043,
-    "geom:area_square_m":96514854.242191,
+    "geom:area_square_m":96514724.38707,
     "geom:bbox":"120.813697,13.874576,120.919356,14.027926",
     "geom:latitude":13.951544,
     "geom:longitude":120.869879,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.LM",
+    "statoids:name":"Lemery",
+    "statoids:population":81825,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.LM"
+    },
     "wof:country":"PH",
     "wof:created":1474496098,
-    "wof:geomhash":"65d0d2385e1145ca1d96d1c9b378069d",
+    "wof:geomhash":"6362f9fd437001a3e334a5211f1dfb23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108698045,
-    "wof:lastmodified":1626127471,
+    "wof:lastmodified":1694492563,
     "wof:name":"Lemery",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

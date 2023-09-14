@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022416,
-    "geom:area_square_m":275605742.772716,
+    "geom:area_square_m":275605992.593086,
     "geom:bbox":"124.3688,6.022083,124.60988,6.198738",
     "geom:latitude":6.116287,
     "geom:longitude":124.483718,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SG.MI",
+    "statoids:name":"Maitum",
+    "statoids:population":41675,
+    "statoids:statoid":"PH.SG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SG.MI"
+    },
     "wof:country":"PH",
     "wof:created":1474496256,
-    "wof:geomhash":"df374873d0abfd72139d023e431db4bf",
+    "wof:geomhash":"04cdcab2fb62ef60fbc1a5e80da769d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698277,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694492864,
     "wof:name":"Maitum",
     "wof:parent_id":85676259,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081119,
-    "geom:area_square_m":952625921.959656,
+    "geom:area_square_m":952625547.420803,
     "geom:bbox":"120.904071,17.96228,121.155882,18.536389",
     "geom:latitude":18.244341,
     "geom:longitude":121.030506,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AP.CL",
+    "statoids:name":"Calanasan (Bayag)",
+    "statoids:population":11568,
+    "statoids:statoid":"PH.AP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AP.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495526,
-    "wof:geomhash":"04ad8887bc2040d1e1066ed4d5718c7f",
+    "wof:geomhash":"665f36d6671ac64996d69f023c83c7f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697201,
-    "wof:lastmodified":1626127536,
+    "wof:lastmodified":1694492574,
     "wof:name":"Calanasan",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

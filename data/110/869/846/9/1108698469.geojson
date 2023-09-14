@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013839,
-    "geom:area_square_m":168153534.44238,
+    "geom:area_square_m":168153463.029295,
     "geom:bbox":"122.074213,10.609444,122.280934,10.761991",
     "geom:latitude":10.682823,
     "geom:longitude":122.181354,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.MG",
+    "statoids:name":"Miagao",
+    "statoids:population":64545,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496393,
-    "wof:geomhash":"add2f5f5d92c4c89d10817d507e0fc77",
+    "wof:geomhash":"3adf14391f34df74c7277cc26f9c28e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698469,
-    "wof:lastmodified":1628266685,
+    "wof:lastmodified":1694492866,
     "wof:name":"Miag-ao",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001154,
-    "geom:area_square_m":13874988.471428,
+    "geom:area_square_m":13874921.924024,
     "geom:bbox":"123.103926,13.587259,123.165049,13.622002",
     "geom:latitude":13.605704,
     "geom:longitude":123.135351,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.GI",
+    "statoids:name":"Gainza",
+    "statoids:population":10345,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495805,
-    "wof:geomhash":"7173dc115dd2483d2149145411eeeab9",
+    "wof:geomhash":"9d0324246113141780afac9298fcb69b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697599,
-    "wof:lastmodified":1628266649,
+    "wof:lastmodified":1694492844,
     "wof:name":"Gainza",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

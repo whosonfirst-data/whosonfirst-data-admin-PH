@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020436,
-    "geom:area_square_m":247139293.731271,
+    "geom:area_square_m":247139362.258759,
     "geom:bbox":"123.638748,11.920668,123.809642,12.130868",
     "geom:latitude":12.030544,
     "geom:longitude":123.738957,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MB.CW",
+    "statoids:name":"Cawayan",
+    "statoids:population":63115,
+    "statoids:statoid":"PH.MB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676029
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MB.CW"
+    },
     "wof:country":"PH",
     "wof:created":1474495630,
-    "wof:geomhash":"1e7507d44d96b9af7b588657b077850c",
+    "wof:geomhash":"eed39d98eeb7fb7a30428d37df643a25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697347,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Cawayan",
     "wof:parent_id":85676029,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030856,
-    "geom:area_square_m":375148346.567845,
+    "geom:area_square_m":375148148.581639,
     "geom:bbox":"122.82872,10.412973,123.171153,10.600626",
     "geom:latitude":10.505473,
     "geom:longitude":122.988431,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.BG",
+    "statoids:name":"Bago City",
+    "statoids:population":163045,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495244,
-    "wof:geomhash":"35a73eb64d51ec08188a63da94469b75",
+    "wof:geomhash":"840b2bdec8e8ac23cb23334adb836cca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696787,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Bago City",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

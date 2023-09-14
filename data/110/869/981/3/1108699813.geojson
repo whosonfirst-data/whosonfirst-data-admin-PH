@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019526,
-    "geom:area_square_m":239956947.444346,
+    "geom:area_square_m":239957281.716069,
     "geom:bbox":"124.855779,6.271964,125.110306,6.436812",
     "geom:latitude":6.354465,
     "geom:longitude":124.969271,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.TP",
+    "statoids:name":"Tupi",
+    "statoids:population":61843,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676263
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.TP"
+    },
     "wof:country":"PH",
     "wof:created":1474497350,
-    "wof:geomhash":"004781d0904b3726a09952def80d63ee",
+    "wof:geomhash":"55206f8b7ba6cf75e5f323b33e2e91cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108699813,
-    "wof:lastmodified":1626127537,
+    "wof:lastmodified":1694492574,
     "wof:name":"Tupi",
     "wof:parent_id":85676263,
     "wof:placetype":"county",

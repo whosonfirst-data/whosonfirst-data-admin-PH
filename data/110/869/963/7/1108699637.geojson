@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012673,
-    "geom:area_square_m":155860744.540583,
+    "geom:area_square_m":155860767.933369,
     "geom:bbox":"121.031527,5.878695,121.166222,6.01326",
     "geom:latitude":5.95693,
     "geom:longitude":121.096936,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.TL",
+    "statoids:name":"Talipao",
+    "statoids:population":75173,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497233,
-    "wof:geomhash":"40543c7d279a4fed0ce6e596b861cd3c",
+    "wof:geomhash":"95fd30ac11663922a8665245522c5d01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699637,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Talipao",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

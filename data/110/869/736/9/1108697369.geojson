@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007736,
-    "geom:area_square_m":94075477.08414,
+    "geom:area_square_m":94075377.617114,
     "geom:bbox":"123.919566,10.365514,124.019094,10.502975",
     "geom:latitude":10.44258,
     "geom:longitude":123.970823,
@@ -124,16 +124,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.CM",
+    "statoids:name":"Compostela",
+    "statoids:population":42574,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.CM"
+    },
     "wof:country":"PH",
     "wof:created":1474495646,
-    "wof:geomhash":"09ff006a481254da29d626dff138a7fb",
+    "wof:geomhash":"77cae6aeacc5fb0e28177f6b7c760f1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,7 +153,7 @@
         }
     ],
     "wof:id":1108697369,
-    "wof:lastmodified":1636501017,
+    "wof:lastmodified":1694492932,
     "wof:name":"Compostela",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

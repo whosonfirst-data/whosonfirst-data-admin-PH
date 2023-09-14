@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001311,
-    "geom:area_square_m":15737064.334423,
+    "geom:area_square_m":15736915.10297,
     "geom:bbox":"120.945372,13.850062,120.986842,13.911956",
     "geom:latitude":13.878741,
     "geom:longitude":120.969006,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.TA",
+    "statoids:name":"Taal",
+    "statoids:population":51503,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497067,
-    "wof:geomhash":"53ec8e6f44e5a4d99b325c5818de6ceb",
+    "wof:geomhash":"f0d07fcce456abefdb356886607c7558",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699401,
-    "wof:lastmodified":1626127486,
+    "wof:lastmodified":1694492566,
     "wof:name":"Santa Teresita",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

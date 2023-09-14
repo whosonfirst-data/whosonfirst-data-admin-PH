@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006097,
-    "geom:area_square_m":72801754.465869,
+    "geom:area_square_m":72801677.889303,
     "geom:bbox":"120.599882,14.997781,120.725684,15.133888",
     "geom:latitude":15.065873,
     "geom:longitude":120.659661,
@@ -160,16 +160,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.BC",
+    "statoids:name":"Bacolor",
+    "statoids:population":31508,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474496898,
-    "wof:geomhash":"fc76fcdd921ea37d97a23f812d1021af",
+    "wof:geomhash":"2e49297e1fbc2eb22f72c19904c5cf39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +189,7 @@
         }
     ],
     "wof:id":1108699157,
-    "wof:lastmodified":1636501023,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Fernando",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

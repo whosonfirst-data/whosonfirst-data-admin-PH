@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016417,
-    "geom:area_square_m":194822382.001329,
+    "geom:area_square_m":194822425.743835,
     "geom:bbox":"119.770386,16.243022,119.92878,16.396223",
     "geom:latitude":16.314924,
     "geom:longitude":119.856547,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BO",
+    "statoids:name":"Bolinao",
+    "statoids:population":74545,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BO"
+    },
     "wof:country":"PH",
     "wof:created":1474495418,
-    "wof:geomhash":"06ac1d6c65b89170ca82d3fd1f423f83",
+    "wof:geomhash":"75108c2dc38759c26dd2a8af6a476283",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108697037,
-    "wof:lastmodified":1628266632,
+    "wof:lastmodified":1694492834,
     "wof:name":"Bolinao",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

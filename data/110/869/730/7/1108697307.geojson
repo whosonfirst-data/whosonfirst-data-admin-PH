@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002452,
-    "geom:area_square_m":29382054.492489,
+    "geom:area_square_m":29381905.770419,
     "geom:bbox":"120.996536,14.268551,121.076317,14.33319",
     "geom:latitude":14.296611,
     "geom:longitude":121.03823,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.CR",
+    "statoids:name":"Carmona",
+    "statoids:population":74986,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495597,
-    "wof:geomhash":"f19cafdaa0cc9babd2a52e03637b2fc5",
+    "wof:geomhash":"c7818698d203743b77500378ade925a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697307,
-    "wof:lastmodified":1626127452,
+    "wof:lastmodified":1694492560,
     "wof:name":"Carmona",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

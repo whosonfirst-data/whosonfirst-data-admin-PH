@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0135,
-    "geom:area_square_m":160537232.534294,
+    "geom:area_square_m":160537152.034127,
     "geom:bbox":"120.234549,15.853787,120.394573,15.979241",
     "geom:latitude":15.915391,
     "geom:longitude":120.315973,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.SC",
+    "statoids:name":"San Carlos City",
+    "statoids:population":175103,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474496878,
-    "wof:geomhash":"cbb444e37078eb022fd7122e1114abf7",
+    "wof:geomhash":"2dcae2e44adda355cabb4a0c399eae8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108699125,
-    "wof:lastmodified":1628266711,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Carlos City",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

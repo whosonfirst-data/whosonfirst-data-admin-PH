@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006369,
-    "geom:area_square_m":75743639.721655,
+    "geom:area_square_m":75743738.532788,
     "geom:bbox":"120.499348,15.856807,120.635638,15.937215",
     "geom:latitude":15.90281,
     "geom:longitude":120.565482,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.VL",
+    "statoids:name":"Villasis",
+    "statoids:population":59111,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497389,
-    "wof:geomhash":"0df1e993d077ffef2da26afbcf235190",
+    "wof:geomhash":"9b375cee382aaefcdb42f90722298145",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699871,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694492892,
     "wof:name":"Villasis",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

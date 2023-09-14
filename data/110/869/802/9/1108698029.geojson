@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01967,
-    "geom:area_square_m":234364241.599421,
+    "geom:area_square_m":234364000.15256,
     "geom:bbox":"121.040754,15.422967,121.246643,15.618932",
     "geom:latitude":15.516403,
     "geom:longitude":121.160376,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.LU",
+    "statoids:name":"Laur",
+    "statoids:population":32205,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.LU"
+    },
     "wof:country":"PH",
     "wof:created":1474496087,
-    "wof:geomhash":"6b5fa05439f2cb7f9fe51870d508fe09",
+    "wof:geomhash":"1b315b27b45fd00ac28718a6466dd3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698029,
-    "wof:lastmodified":1628266673,
+    "wof:lastmodified":1694492860,
     "wof:name":"Laur",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

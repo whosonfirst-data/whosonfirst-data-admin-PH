@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001129,
-    "geom:area_square_m":13793954.045632,
+    "geom:area_square_m":13794018.812388,
     "geom:bbox":"124.770416,8.925716,124.823612,8.980416",
     "geom:latitude":8.953039,
     "geom:longitude":124.795148,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.SG",
+    "statoids:name":"Sugbongcogon",
+    "statoids:population":8745,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.SG"
+    },
     "wof:country":"PH",
     "wof:created":1474497174,
-    "wof:geomhash":"bdd3bc1a6531c14ae1f66b34cc9b26dd",
+    "wof:geomhash":"c7df3b94e09ebae5caa77899febc5a45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699549,
-    "wof:lastmodified":1628266720,
+    "wof:lastmodified":1694492886,
     "wof:name":"Sugbongcogon",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

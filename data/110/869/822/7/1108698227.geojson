@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02081,
-    "geom:area_square_m":248316015.617056,
+    "geom:area_square_m":248315970.594569,
     "geom:bbox":"120.617304,15.117479,120.844877,15.272197",
     "geom:latitude":15.196754,
     "geom:longitude":120.728574,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.AR",
+    "statoids:name":"Arayat",
+    "statoids:population":121348,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.AR"
+    },
     "wof:country":"PH",
     "wof:created":1474496224,
-    "wof:geomhash":"e63cf1ce08a4f9ba6cfdccc6d2f07849",
+    "wof:geomhash":"fece9776d660e9463f3591864e270260",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698227,
-    "wof:lastmodified":1626127513,
+    "wof:lastmodified":1694492570,
     "wof:name":"Magalang",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

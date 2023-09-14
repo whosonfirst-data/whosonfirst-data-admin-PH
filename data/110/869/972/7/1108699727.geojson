@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006095,
-    "geom:area_square_m":74049640.526798,
+    "geom:area_square_m":74049603.356133,
     "geom:bbox":"122.32469,10.667889,122.42414,10.762267",
     "geom:latitude":10.711812,
     "geom:longitude":122.377645,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.TG",
+    "statoids:name":"Tigbauan",
+    "statoids:population":58814,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474497292,
-    "wof:geomhash":"e12267980c23a39fe18885febe0d56ec",
+    "wof:geomhash":"709c282de33da919682257b7c9de4e21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699727,
-    "wof:lastmodified":1626127537,
+    "wof:lastmodified":1694492574,
     "wof:name":"Tigbauan",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

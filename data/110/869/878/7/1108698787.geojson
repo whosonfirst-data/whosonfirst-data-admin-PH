@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004038,
-    "geom:area_square_m":49238523.3104,
+    "geom:area_square_m":49238142.720872,
     "geom:bbox":"123.716225,9.547055,123.817072,9.626574",
     "geom:latitude":9.581884,
     "geom:longitude":123.774314,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.PN",
+    "statoids:name":"Panglao",
+    "statoids:population":28603,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496615,
-    "wof:geomhash":"8018eedc84f4875efb7435a5623a13fc",
+    "wof:geomhash":"91d0d81c940f6c2b67b3247cb6908a12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108698787,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Panglao",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

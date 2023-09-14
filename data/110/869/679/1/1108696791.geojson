@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006671,
-    "geom:area_square_m":79043072.197355,
+    "geom:area_square_m":79043073.700813,
     "geom:bbox":"120.426947,16.567373,120.554758,16.6545",
     "geom:latitude":16.604615,
     "geom:longitude":120.484492,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LU.BG",
+    "statoids:name":"Bagulin",
+    "statoids:population":12590,
+    "statoids:statoid":"PH.LU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676119
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LU.BG"
+    },
     "wof:country":"PH",
     "wof:created":1474495246,
-    "wof:geomhash":"120b77ec1278b02f4318e2a75398bec7",
+    "wof:geomhash":"33e3aa8668a2cd0d5d41bc4f2fda707a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696791,
-    "wof:lastmodified":1626127512,
+    "wof:lastmodified":1694492570,
     "wof:name":"Bagulin",
     "wof:parent_id":85676119,
     "wof:placetype":"county",

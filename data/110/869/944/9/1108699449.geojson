@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01638,
-    "geom:area_square_m":198616998.147945,
+    "geom:area_square_m":198616805.396735,
     "geom:bbox":"122.921534,11.201323,123.06102,11.390677",
     "geom:latitude":11.295041,
     "geom:longitude":122.995254,
@@ -118,16 +118,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.SA",
+    "statoids:name":"Sara",
+    "statoids:population":46889,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.SA"
+    },
     "wof:country":"PH",
     "wof:created":1474497097,
-    "wof:geomhash":"98e02e13131878b73a1f33e562a6c134",
+    "wof:geomhash":"ca6ee49d462d9a05687970bbafa5e0f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108699449,
-    "wof:lastmodified":1626127535,
+    "wof:lastmodified":1694492574,
     "wof:name":"Sara",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

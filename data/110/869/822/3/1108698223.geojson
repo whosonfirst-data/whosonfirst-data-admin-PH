@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058372,
-    "geom:area_square_m":692546551.485458,
+    "geom:area_square_m":692546635.666353,
     "geom:bbox":"121.514317,16.259732,122.078997,16.514705",
     "geom:latitude":16.361763,
     "geom:longitude":121.80971,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QR.MD",
+    "statoids:name":"Maddela",
+    "statoids:population":35634,
+    "statoids:statoid":"PH.QR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QR.MD"
+    },
     "wof:country":"PH",
     "wof:created":1474496221,
-    "wof:geomhash":"0b2b84f278600cb246cbbf17ed42a9dc",
+    "wof:geomhash":"c5dbb717a4528f707f5a856d6862de33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698223,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Madella",
     "wof:parent_id":85676089,
     "wof:placetype":"county",

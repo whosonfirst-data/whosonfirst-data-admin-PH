@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004856,
-    "geom:area_square_m":57724303.599451,
+    "geom:area_square_m":57724319.056494,
     "geom:bbox":"120.599351,15.947581,120.70908,16.032267",
     "geom:latitude":15.997529,
     "geom:longitude":120.657388,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.AI",
+    "statoids:name":"Asingan",
+    "statoids:population":56353,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.AI"
+    },
     "wof:country":"PH",
     "wof:created":1474495194,
-    "wof:geomhash":"a87071e9520cf0943fe45d0b4038bc28",
+    "wof:geomhash":"9dc77c07874507d28998302007f8a52e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696713,
-    "wof:lastmodified":1628266621,
+    "wof:lastmodified":1694492827,
     "wof:name":"Asingan",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

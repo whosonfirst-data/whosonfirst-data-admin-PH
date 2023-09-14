@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110985,
-    "geom:area_square_m":1311231145.405459,
+    "geom:area_square_m":1311231631.622555,
     "geom:bbox":"121.801632,17.036363,122.442886,17.357111",
     "geom:latitude":17.16342,
     "geom:longitude":122.146608,
@@ -100,16 +100,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.IA",
+    "statoids:name":"Ilagan City",
+    "statoids:population":135174,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.IA"
+    },
     "wof:country":"PH",
     "wof:created":1474495904,
-    "wof:geomhash":"824d746ab5136173393a87edaa7a1d40",
+    "wof:geomhash":"9437e52709b3a75a3c155581315eefd8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +129,7 @@
         }
     ],
     "wof:id":1108697747,
-    "wof:lastmodified":1626127533,
+    "wof:lastmodified":1694492574,
     "wof:name":"Ilagan",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

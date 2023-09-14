@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050151,
-    "geom:area_square_m":601753960.128362,
+    "geom:area_square_m":601754203.518205,
     "geom:bbox":"121.737053,13.62057,122.434241,14.881222",
     "geom:latitude":13.981459,
     "geom:longitude":122.2322,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.BR",
+    "statoids:name":"Burdeos",
+    "statoids:population":24166,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474496521,
-    "wof:geomhash":"41e3d04970ef916d027e34cf79d1dad7",
+    "wof:geomhash":"742c3c5d777cbb779efa1a007b78ebcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698653,
-    "wof:lastmodified":1626127518,
+    "wof:lastmodified":1694492571,
     "wof:name":"Burdeos",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

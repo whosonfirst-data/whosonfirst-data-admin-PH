@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001448,
-    "geom:area_square_m":17364489.91775,
+    "geom:area_square_m":17364298.805998,
     "geom:bbox":"120.871462,14.105903,120.924059,14.154482",
     "geom:latitude":14.127976,
     "geom:longitude":120.897465,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.MN",
+    "statoids:name":"Mendez (Mendez-Nu\u00f1ez)",
+    "statoids:population":28570,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496385,
-    "wof:geomhash":"1251e7767f893e0797870df3158d5683",
+    "wof:geomhash":"0eed0caa8c21a1061a68a7fd7307b5d9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698459,
-    "wof:lastmodified":1628266685,
+    "wof:lastmodified":1694492866,
     "wof:name":"Mendez-nu\u00f1ez",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

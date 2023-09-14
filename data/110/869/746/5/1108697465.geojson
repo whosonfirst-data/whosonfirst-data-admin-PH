@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003702,
-    "geom:area_square_m":45129947.886701,
+    "geom:area_square_m":45130112.580536,
     "geom:bbox":"123.786237,9.573324,123.870415,9.647889",
     "geom:latitude":9.612567,
     "geom:longitude":123.830035,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.DU",
+    "statoids:name":"Dauis",
+    "statoids:population":39448,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.DU"
+    },
     "wof:country":"PH",
     "wof:created":1474495715,
-    "wof:geomhash":"216f1b11a3019de3a3b3e5f4f361558b",
+    "wof:geomhash":"a88875d51e19ce4e8bd5cfd672101ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697465,
-    "wof:lastmodified":1628266643,
+    "wof:lastmodified":1694492841,
     "wof:name":"Dauis",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

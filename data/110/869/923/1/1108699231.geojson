@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003248,
-    "geom:area_square_m":39645892.488003,
+    "geom:area_square_m":39646002.29262,
     "geom:bbox":"123.451279,9.105194,123.564433,9.194365",
     "geom:latitude":9.1555,
     "geom:longitude":123.515653,
@@ -205,16 +205,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SQ.SJ",
+    "statoids:name":"San Juan",
+    "statoids:population":13525,
+    "statoids:statoid":"PH.SQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SQ.SJ"
+    },
     "wof:country":"PH",
     "wof:created":1474496948,
-    "wof:geomhash":"934b83a905ab3af20f2e0d815a8d995c",
+    "wof:geomhash":"39de14b38c10db898fe8950105030fb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +234,7 @@
         }
     ],
     "wof:id":1108699231,
-    "wof:lastmodified":1636501024,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Juan",
     "wof:parent_id":85675947,
     "wof:placetype":"county",

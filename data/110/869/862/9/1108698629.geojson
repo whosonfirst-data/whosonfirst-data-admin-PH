@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020038,
-    "geom:area_square_m":245460763.907252,
+    "geom:area_square_m":245460337.845837,
     "geom:bbox":"123.59412,7.696195,124.305074,8.207297",
     "geom:latitude":7.842719,
     "geom:longitude":123.845641,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.SN",
+    "statoids:name":"Sultan Naga Dimaporo (Karomatan)",
+    "statoids:population":52430,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.SN"
+    },
     "wof:country":"PH",
     "wof:created":1474496507,
-    "wof:geomhash":"4043aee52800ededc02e807a70453f0c",
+    "wof:geomhash":"94ae22e82ac237eb5f95b5f82f1ac286",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698629,
-    "wof:lastmodified":1628266663,
+    "wof:lastmodified":1694492853,
     "wof:name":"Karomatan",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

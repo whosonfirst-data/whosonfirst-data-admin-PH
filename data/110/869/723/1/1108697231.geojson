@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009672,
-    "geom:area_square_m":117203317.588874,
+    "geom:area_square_m":117203050.459972,
     "geom:bbox":"124.285385,11.404885,124.44623,11.565389",
     "geom:latitude":11.483707,
     "geom:longitude":124.360942,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.CL",
+    "statoids:name":"Calubian",
+    "statoids:population":29619,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495545,
-    "wof:geomhash":"e0abe1a3fc33c1fe6560f010790be050",
+    "wof:geomhash":"ab9494db51d12c154c8588583424d1de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697231,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Calubian",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

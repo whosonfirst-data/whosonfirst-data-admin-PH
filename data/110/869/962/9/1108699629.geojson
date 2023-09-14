@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002727,
-    "geom:area_square_m":33036717.588946,
+    "geom:area_square_m":33036638.079575,
     "geom:bbox":"124.816254,11.462916,124.873618,11.547055",
     "geom:latitude":11.505981,
     "geom:longitude":124.846872,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.TL",
+    "statoids:name":"Talalora",
+    "statoids:population":7983,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497227,
-    "wof:geomhash":"b29dbd82c9d75c733b49220e2fc72887",
+    "wof:geomhash":"4eaaa72a93ccf31efca2923670973fcf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699629,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Talalora",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

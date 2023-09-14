@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084197,
-    "geom:area_square_m":990166339.149386,
+    "geom:area_square_m":990166375.304405,
     "geom:bbox":"120.955951,17.817489,121.396736,18.22291",
     "geom:latitude":17.997985,
     "geom:longitude":121.169353,
@@ -97,16 +97,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AP.KB",
+    "statoids:name":"Kabugao",
+    "statoids:population":16170,
+    "statoids:statoid":"PH.AP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676053
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AP.KB"
+    },
     "wof:country":"PH",
     "wof:created":1474495983,
-    "wof:geomhash":"c0d10b5713f8729834d510807ea056a2",
+    "wof:geomhash":"c81350dafd7ca6501def1705bc867db9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +126,7 @@
         }
     ],
     "wof:id":1108697869,
-    "wof:lastmodified":1626127527,
+    "wof:lastmodified":1694492573,
     "wof:name":"Kabugao",
     "wof:parent_id":85676053,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013092,
-    "geom:area_square_m":159301607.02626,
+    "geom:area_square_m":159301733.48799,
     "geom:bbox":"123.649923,10.177414,123.810567,10.356427",
     "geom:latitude":10.254178,
     "geom:longitude":123.73783,
@@ -151,16 +151,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.MI",
+    "statoids:name":"Minglanilla",
+    "statoids:population":113178,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.MI"
+    },
     "wof:country":"PH",
     "wof:created":1474496443,
-    "wof:geomhash":"182c5233d5bf3ba8265f7705e04f7188",
+    "wof:geomhash":"b243e9368b04074574a4d58270e29524",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +180,7 @@
         }
     ],
     "wof:id":1108698537,
-    "wof:lastmodified":1636501038,
+    "wof:lastmodified":1694492935,
     "wof:name":"Naga",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

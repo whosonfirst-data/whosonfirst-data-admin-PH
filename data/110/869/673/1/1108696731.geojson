@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009557,
-    "geom:area_square_m":114914037.650402,
+    "geom:area_square_m":114913916.201247,
     "geom:bbox":"123.306498,13.428637,123.420975,13.542044",
     "geom:latitude":13.483884,
     "geom:longitude":123.362355,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.BA",
+    "statoids:name":"Baao",
+    "statoids:population":54971,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.BA"
+    },
     "wof:country":"PH",
     "wof:created":1474495207,
-    "wof:geomhash":"4480302e56d50880758da5eb20dcd329",
+    "wof:geomhash":"94ed3dc0a9b3b42559f64b4f70b0dcd7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696731,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1694492827,
     "wof:name":"Baao",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

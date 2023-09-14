@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005896,
-    "geom:area_square_m":71922524.426431,
+    "geom:area_square_m":71922694.044633,
     "geom:bbox":"123.111101,9.37215,123.234984,9.485902",
     "geom:latitude":9.427477,
     "geom:longitude":123.170719,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.AL",
+    "statoids:name":"Amlan (Ayuquitan)",
+    "statoids:population":22206,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.AL"
+    },
     "wof:country":"PH",
     "wof:created":1474495163,
-    "wof:geomhash":"f05ae9a1b17965b7ac6875241ccd5817",
+    "wof:geomhash":"2af70d803df7664aa9f0a4f07664bc83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696663,
-    "wof:lastmodified":1628266620,
+    "wof:lastmodified":1694492826,
     "wof:name":"Amlan (ayuguitan)",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004576,
-    "geom:area_square_m":54385201.75384,
+    "geom:area_square_m":54385287.383801,
     "geom:bbox":"120.246732,15.956377,120.319265,16.059238",
     "geom:latitude":16.010389,
     "geom:longitude":120.283143,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.BI",
+    "statoids:name":"Binmaley",
+    "statoids:population":78702,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676365
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.BI"
+    },
     "wof:country":"PH",
     "wof:created":1474495405,
-    "wof:geomhash":"bea95d697b2fba20ed9829256e4e8dba",
+    "wof:geomhash":"708c96d88356f1739c9bfd025f6c3851",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697017,
-    "wof:lastmodified":1628266631,
+    "wof:lastmodified":1694492833,
     "wof:name":"Binmaley",
     "wof:parent_id":85676365,
     "wof:placetype":"county",

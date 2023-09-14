@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040728,
-    "geom:area_square_m":497784537.882143,
+    "geom:area_square_m":497784839.016802,
     "geom:bbox":"125.231741,8.642815,125.672922,8.777197",
     "geom:latitude":8.721166,
     "geom:longitude":125.424127,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AN.LN",
+    "statoids:name":"Las Nieves",
+    "statoids:population":26856,
+    "statoids:statoid":"PH.AN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676213
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AN.LN"
+    },
     "wof:country":"PH",
     "wof:created":1474496081,
-    "wof:geomhash":"f7622fe91384fe8c00f1a93b31a3cd0d",
+    "wof:geomhash":"4493703a0ed37163c9bedc7da3cc927c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108698019,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1694492714,
     "wof:name":"Las Nieves",
     "wof:parent_id":85676213,
     "wof:placetype":"county",

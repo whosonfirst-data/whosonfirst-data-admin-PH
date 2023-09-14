@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003478,
-    "geom:area_square_m":41491348.164881,
+    "geom:area_square_m":41491389.797706,
     "geom:bbox":"120.873557,15.221539,120.94989,15.31442",
     "geom:latitude":15.269303,
     "geom:longitude":120.912159,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.SI",
+    "statoids:name":"San Isidro",
+    "statoids:population":47800,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.SI"
+    },
     "wof:country":"PH",
     "wof:created":1474496918,
-    "wof:geomhash":"dadbbfc63e01118f05bfc43c26a458b0",
+    "wof:geomhash":"f691af467fd6445b8512436ef91a5be9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108699187,
-    "wof:lastmodified":1626127528,
+    "wof:lastmodified":1694492573,
     "wof:name":"San Isidro",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

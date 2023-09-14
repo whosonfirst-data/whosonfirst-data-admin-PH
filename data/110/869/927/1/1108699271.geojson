@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008736,
-    "geom:area_square_m":105921119.786995,
+    "geom:area_square_m":105921081.585095,
     "geom:bbox":"124.779831,11.252586,124.897035,11.388534",
     "geom:latitude":11.317937,
     "geom:longitude":124.839359,
@@ -157,16 +157,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.SM",
+    "statoids:name":"San Miguel",
+    "statoids:population":17561,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474496974,
-    "wof:geomhash":"8d49116c60d838b8f7d68b39dc9222f6",
+    "wof:geomhash":"0cfba6f8614ef8c44ba54066a7ddaced",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +186,7 @@
         }
     ],
     "wof:id":1108699271,
-    "wof:lastmodified":1636501040,
+    "wof:lastmodified":1694492935,
     "wof:name":"San Miguel",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

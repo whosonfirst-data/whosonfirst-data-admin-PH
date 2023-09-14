@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005237,
-    "geom:area_square_m":63566683.929609,
+    "geom:area_square_m":63566480.281458,
     "geom:bbox":"124.921814,10.922996,124.994115,11.026188",
     "geom:latitude":10.9776,
     "geom:longitude":124.955791,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.JL",
+    "statoids:name":"Julita",
+    "statoids:population":13307,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.JL"
+    },
     "wof:country":"PH",
     "wof:created":1474495972,
-    "wof:geomhash":"b9d8317f8759f47994185f14dd3d767d",
+    "wof:geomhash":"a5713736f5f34e2e34bf84f3acbc2c75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108697853,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1694492852,
     "wof:name":"Julita",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

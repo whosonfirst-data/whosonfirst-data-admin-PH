@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036718,
-    "geom:area_square_m":440848784.425935,
+    "geom:area_square_m":440848818.66623,
     "geom:bbox":"122.176508,13.711587,122.433093,13.996495",
     "geom:latitude":13.837417,
     "geom:longitude":122.31179,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.LP",
+    "statoids:name":"Lopez",
+    "statoids:population":91074,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.LP"
+    },
     "wof:country":"PH",
     "wof:created":1474496153,
-    "wof:geomhash":"da4a5ae68a2bc212a60f2c52095564e2",
+    "wof:geomhash":"53deee83db5b8d5f99ea870672c57940",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698121,
-    "wof:lastmodified":1628266677,
+    "wof:lastmodified":1694492862,
     "wof:name":"Lopez",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

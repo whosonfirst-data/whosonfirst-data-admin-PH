@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02945,
-    "geom:area_square_m":361289312.624691,
+    "geom:area_square_m":361289176.145659,
     "geom:bbox":"126.308884,7.086964,126.592025,7.271857",
     "geom:latitude":7.200331,
     "geom:longitude":126.441049,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.MN",
+    "statoids:name":"Manay",
+    "statoids:population":40577,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496302,
-    "wof:geomhash":"abda49dd9f985a5099e10f82b5204fd3",
+    "wof:geomhash":"54308c3326c67e8c3b19d183d02fc1a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108698343,
-    "wof:lastmodified":1628266682,
+    "wof:lastmodified":1694492865,
     "wof:name":"Manay",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

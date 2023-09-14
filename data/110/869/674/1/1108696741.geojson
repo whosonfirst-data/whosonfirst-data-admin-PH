@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00345,
-    "geom:area_square_m":42053750.405541,
+    "geom:area_square_m":42053609.660871,
     "geom:bbox":"123.88755,9.607028,123.968151,9.677035",
     "geom:latitude":9.643499,
     "geom:longitude":123.926006,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.BC",
+    "statoids:name":"Baclayon",
+    "statoids:population":18630,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495214,
-    "wof:geomhash":"b22b267270fbc09a89ee02f76a25a37b",
+    "wof:geomhash":"3fcf0a21ae314df8685b74411e5b733d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696741,
-    "wof:lastmodified":1626127465,
+    "wof:lastmodified":1694492562,
     "wof:name":"Baclayon",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00542,
-    "geom:area_square_m":64755042.219019,
+    "geom:area_square_m":64754981.928719,
     "geom:bbox":"120.622657,14.90356,120.747389,15.00074",
     "geom:latitude":14.951173,
     "geom:longitude":120.689133,
@@ -58,16 +58,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.MC",
+    "statoids:name":"Macabebe",
+    "statoids:population":70777,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.MC"
+    },
     "wof:country":"PH",
     "wof:created":1474495854,
-    "wof:geomhash":"00aa7606c87548d5545630331913176a",
+    "wof:geomhash":"2d4d705a70be57f44546b57325def964",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":1108697671,
-    "wof:lastmodified":1627522507,
+    "wof:lastmodified":1694492714,
     "wof:name":"Guagua",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016434,
-    "geom:area_square_m":200612454.997808,
+    "geom:area_square_m":200612375.884108,
     "geom:bbox":"125.804914,9.095572,126.059581,9.277871",
     "geom:latitude":9.18059,
     "geom:longitude":125.944368,
@@ -196,16 +196,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.CR",
+    "statoids:name":"Carrascal",
+    "statoids:population":16529,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.CR"
+    },
     "wof:country":"PH",
     "wof:created":1474495596,
-    "wof:geomhash":"b610761d00a3e93a6b08dc1ed314bec2",
+    "wof:geomhash":"d480f91a6b3a799614eb25870ab64398",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +225,7 @@
         }
     ],
     "wof:id":1108697305,
-    "wof:lastmodified":1626127452,
+    "wof:lastmodified":1694492560,
     "wof:name":"Carmen",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

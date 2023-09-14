@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01796,
-    "geom:area_square_m":220105928.350665,
+    "geom:area_square_m":220106115.766819,
     "geom:bbox":"124.202756,7.505422,124.355505,7.786485",
     "geom:latitude":7.642185,
     "geom:longitude":124.282604,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.SD",
+    "statoids:name":"Sultan Dumalondong",
+    "statoids:population":10522,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.SD"
+    },
     "wof:country":"PH",
     "wof:created":1474495487,
-    "wof:geomhash":"c98fa946162f9ace63fffdff8558f2ce",
+    "wof:geomhash":"d3e4f59de1a8540e514b4cc781af461c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697143,
-    "wof:lastmodified":1626127482,
+    "wof:lastmodified":1694492565,
     "wof:name":"Butig",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

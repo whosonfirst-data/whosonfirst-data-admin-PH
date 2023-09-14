@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014624,
-    "geom:area_square_m":177357302.531205,
+    "geom:area_square_m":177357175.121554,
     "geom:bbox":"124.517393,11.154143,124.657336,11.346886",
     "geom:latitude":11.24936,
     "geom:longitude":124.59636,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.CP",
+    "statoids:name":"Capoocan",
+    "statoids:population":29834,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.CP"
+    },
     "wof:country":"PH",
     "wof:created":1474495571,
-    "wof:geomhash":"ffa08b6be30226493ce3ad25e153b49f",
+    "wof:geomhash":"94d993a499c3de0f2e4fe10ff326fb42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697267,
-    "wof:lastmodified":1628266636,
+    "wof:lastmodified":1694492836,
     "wof:name":"Capoocan",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

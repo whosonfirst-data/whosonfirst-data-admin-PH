@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005481,
-    "geom:area_square_m":67159364.889479,
+    "geom:area_square_m":67159516.59508,
     "geom:bbox":"124.126155,7.677549,124.193256,7.810731",
     "geom:latitude":7.741884,
     "geom:longitude":124.161558,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.BN",
+    "statoids:name":"Binidayan",
+    "statoids:population":19493,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.BN"
+    },
     "wof:country":"PH",
     "wof:created":1474495404,
-    "wof:geomhash":"4b17d216c5bb9b66113af77bd8dfa052",
+    "wof:geomhash":"69b10b0ae6a4a84737dd5035c9fcb2f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697015,
-    "wof:lastmodified":1626127450,
+    "wof:lastmodified":1694492560,
     "wof:name":"Binidayan",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

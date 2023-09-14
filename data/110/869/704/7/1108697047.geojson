@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040545,
-    "geom:area_square_m":489054978.494257,
+    "geom:area_square_m":489054991.441617,
     "geom:bbox":"121.239598,12.605389,121.556221,12.797122",
     "geom:latitude":12.714842,
     "geom:longitude":121.387194,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.BO",
+    "statoids:name":"Bongabong",
+    "statoids:population":66569,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.BO"
+    },
     "wof:country":"PH",
     "wof:created":1474495426,
-    "wof:geomhash":"83eb3e2f2626ecbb3a338fd1f951d1ac",
+    "wof:geomhash":"d317b6db575f3e89c7927abdec3054a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697047,
-    "wof:lastmodified":1628266632,
+    "wof:lastmodified":1694492834,
     "wof:name":"Bongabon",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

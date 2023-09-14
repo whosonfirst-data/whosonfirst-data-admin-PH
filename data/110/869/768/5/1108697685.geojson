@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008951,
-    "geom:area_square_m":107460068.748589,
+    "geom:area_square_m":107459964.342116,
     "geom:bbox":"122.385455,13.777839,122.522919,13.984147",
     "geom:latitude":13.852705,
     "geom:longitude":122.452759,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QZ.GI",
+    "statoids:name":"Guinayangan",
+    "statoids:population":41669,
+    "statoids:statoid":"PH.QZ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676161
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QZ.GI"
+    },
     "wof:country":"PH",
     "wof:created":1474495863,
-    "wof:geomhash":"77b482fb87f759d7c426cceda3c088a5",
+    "wof:geomhash":"f24aa4d6acb5e4e8c27151b4f213e7fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697685,
-    "wof:lastmodified":1626127502,
+    "wof:lastmodified":1694492569,
     "wof:name":"Guinayangan",
     "wof:parent_id":85676161,
     "wof:placetype":"county",

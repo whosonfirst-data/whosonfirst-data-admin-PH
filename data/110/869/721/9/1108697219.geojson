@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016759,
-    "geom:area_square_m":195555602.237895,
+    "geom:area_square_m":195555554.424737,
     "geom:bbox":"121.344559,19.245388,121.54039,19.394583",
     "geom:latitude":19.326698,
     "geom:longitude":121.456872,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.CL",
+    "statoids:name":"Calayan",
+    "statoids:population":16200,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495537,
-    "wof:geomhash":"ebe290bef521907870bc5a0dbd7f48d9",
+    "wof:geomhash":"67373c6ba5045051f41dab62cf2a7ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108697219,
-    "wof:lastmodified":1627522506,
+    "wof:lastmodified":1694492713,
     "wof:name":"Calayan",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

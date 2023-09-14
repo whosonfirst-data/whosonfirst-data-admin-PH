@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005468,
-    "geom:area_square_m":66648874.765707,
+    "geom:area_square_m":66649035.747268,
     "geom:bbox":"124.17649,9.599577,124.244192,9.716252",
     "geom:latitude":9.655411,
     "geom:longitude":124.209903,
@@ -397,16 +397,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.VL",
+    "statoids:name":"Valencia",
+    "statoids:population":27586,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497366,
-    "wof:geomhash":"9a928fc5ff53dfe39f38d16b543639c9",
+    "wof:geomhash":"4ff11246a27f370edeff8bda7776cc85",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -416,7 +426,7 @@
         }
     ],
     "wof:id":1108699837,
-    "wof:lastmodified":1626127480,
+    "wof:lastmodified":1694492565,
     "wof:name":"Valencia",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011336,
-    "geom:area_square_m":138643305.189075,
+    "geom:area_square_m":138643532.919185,
     "geom:bbox":"124.414742,8.383389,124.568957,8.582063",
     "geom:latitude":8.484161,
     "geom:longitude":124.483358,
@@ -607,16 +607,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.ES",
+    "statoids:name":"El Salvador, City of",
+    "statoids:population":44848,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.ES"
+    },
     "wof:country":"PH",
     "wof:created":1474495783,
-    "wof:geomhash":"8093c25476a6d231a955bc6875edf8a6",
+    "wof:geomhash":"a69469a62bd5efd462b48400cea52069",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -626,7 +636,7 @@
         }
     ],
     "wof:id":1108697565,
-    "wof:lastmodified":1626127497,
+    "wof:lastmodified":1694492568,
     "wof:name":"El Salvador",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003673,
-    "geom:area_square_m":44906702.545867,
+    "geom:area_square_m":44906803.306195,
     "geom:bbox":"124.359029,8.509696,124.434872,8.603595",
     "geom:latitude":8.558888,
     "geom:longitude":124.400106,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.GT",
+    "statoids:name":"Gitagum",
+    "statoids:population":16098,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.GT"
+    },
     "wof:country":"PH",
     "wof:created":1474495840,
-    "wof:geomhash":"25e1f4a869895c481f72d80cb15f4016",
+    "wof:geomhash":"4c7191809bf1716a605eeac9ce1d2bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108697653,
-    "wof:lastmodified":1626127455,
+    "wof:lastmodified":1694492561,
     "wof:name":"Gitagum",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

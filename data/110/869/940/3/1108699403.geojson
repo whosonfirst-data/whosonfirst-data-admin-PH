@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003631,
-    "geom:area_square_m":42640163.222969,
+    "geom:area_square_m":42640099.265816,
     "geom:bbox":"121.845575,18.212699,121.929404,18.274584",
     "geom:latitude":18.242333,
     "geom:longitude":121.88852,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CG.ST",
+    "statoids:name":"Santa Teresita",
+    "statoids:population":17600,
+    "statoids:statoid":"PH.CG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676047
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CG.ST"
+    },
     "wof:country":"PH",
     "wof:created":1474497068,
-    "wof:geomhash":"d786e2d3604ea6d071fdf8894c5e0831",
+    "wof:geomhash":"5564067f5184f290bf333585bb0a5cd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699403,
-    "wof:lastmodified":1626127486,
+    "wof:lastmodified":1694492566,
     "wof:name":"Santa Teresita",
     "wof:parent_id":85676047,
     "wof:placetype":"county",

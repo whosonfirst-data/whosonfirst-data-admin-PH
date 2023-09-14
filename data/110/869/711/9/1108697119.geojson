@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015887,
-    "geom:area_square_m":192862503.024286,
+    "geom:area_square_m":192862498.88982,
     "geom:bbox":"124.768253,10.888897,124.93412,11.034452",
     "geom:latitude":10.968117,
     "geom:longitude":124.851445,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.BU",
+    "statoids:name":"Burauen",
+    "statoids:population":48853,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.BU"
+    },
     "wof:country":"PH",
     "wof:created":1474495473,
-    "wof:geomhash":"98e9a312a8f7921d441b08ef575f4571",
+    "wof:geomhash":"7baa56f11f54db11b9090db86f5c1d94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697119,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694492835,
     "wof:name":"Burauen",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

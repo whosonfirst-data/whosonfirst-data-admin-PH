@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00275,
-    "geom:area_square_m":32854863.054967,
+    "geom:area_square_m":32854833.433823,
     "geom:bbox":"120.72106,14.923096,120.810064,14.980741",
     "geom:latitude":14.95635,
     "geom:longitude":120.762434,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.AP",
+    "statoids:name":"Apalit",
+    "statoids:population":101537,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.AP"
+    },
     "wof:country":"PH",
     "wof:created":1474495183,
-    "wof:geomhash":"8745f0c1a5edbb8783d848d2f2050939",
+    "wof:geomhash":"ecfd95cc7604aaeeea1de1c26c51a4a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696695,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Apalit",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027126,
-    "geom:area_square_m":333227073.385534,
+    "geom:area_square_m":333226934.903669,
     "geom:bbox":"126.068748,6.335637,126.19449,6.690002",
     "geom:latitude":6.551489,
     "geom:longitude":126.141236,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.DO.GV",
+    "statoids:name":"Governor Generoso",
+    "statoids:population":50372,
+    "statoids:statoid":"PH.DO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676255
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DO.GV"
+    },
     "wof:country":"PH",
     "wof:created":1474495851,
-    "wof:geomhash":"3c7246e365fbce0e8717b33763647933",
+    "wof:geomhash":"ee821bc1a35b1b4a90a8b433f750deee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697667,
-    "wof:lastmodified":1628266653,
+    "wof:lastmodified":1694492848,
     "wof:name":"Governor Generoso",
     "wof:parent_id":85676255,
     "wof:placetype":"county",

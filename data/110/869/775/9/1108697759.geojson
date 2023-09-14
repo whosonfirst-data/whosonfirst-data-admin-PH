@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004818,
-    "geom:area_square_m":57708356.86934,
+    "geom:area_square_m":57708126.229329,
     "geom:bbox":"120.882498,14.353974,120.979828,14.447081",
     "geom:latitude":14.397385,
     "geom:longitude":120.931508,
@@ -118,16 +118,26 @@
     "src:bowie_centroid":"mz",
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.IU",
+    "statoids:name":"Imus City",
+    "statoids:population":301624,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.IU"
+    },
     "wof:country":"PH",
     "wof:created":1474495912,
-    "wof:geomhash":"36ae805612d770f5a5bfa268ebb86f0a",
+    "wof:geomhash":"45756feddcdb02ca0e25956de7413f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +147,7 @@
         }
     ],
     "wof:id":1108697759,
-    "wof:lastmodified":1626127526,
+    "wof:lastmodified":1694492572,
     "wof:name":"Imus",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

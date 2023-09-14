@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016019,
-    "geom:area_square_m":194339501.020016,
+    "geom:area_square_m":194339386.793703,
     "geom:bbox":"124.672082,11.063593,124.833482,11.25562",
     "geom:latitude":11.158238,
     "geom:longitude":124.760344,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.JR",
+    "statoids:name":"Jaro",
+    "statoids:population":39577,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.JR"
+    },
     "wof:country":"PH",
     "wof:created":1474495946,
-    "wof:geomhash":"584fd449f0217c79f980c0c81d86702c",
+    "wof:geomhash":"a8e671d1e4557a8966ba489d6a16b0c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108697813,
-    "wof:lastmodified":1626127527,
+    "wof:lastmodified":1694492573,
     "wof:name":"Jaro",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

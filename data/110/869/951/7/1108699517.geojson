@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018886,
-    "geom:area_square_m":231512573.593181,
+    "geom:area_square_m":231512484.50505,
     "geom:bbox":"122.068726,7.46703,122.273176,7.615746",
     "geom:latitude":7.542936,
     "geom:longitude":122.173885,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.SR",
+    "statoids:name":"Sirawai",
+    "statoids:population":24583,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497147,
-    "wof:geomhash":"8cdf05bb45b0efe12209700390513f71",
+    "wof:geomhash":"b2dc96f2554ee16f3345220de17d56f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699517,
-    "wof:lastmodified":1628266716,
+    "wof:lastmodified":1694492884,
     "wof:name":"Siraway",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

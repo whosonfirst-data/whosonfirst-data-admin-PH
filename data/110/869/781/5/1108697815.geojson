@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005577,
-    "geom:area_square_m":68178479.407839,
+    "geom:area_square_m":68178408.951007,
     "geom:bbox":"124.737053,8.595927,124.819272,8.706784",
     "geom:latitude":8.651433,
     "geom:longitude":124.776233,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.JS",
+    "statoids:name":"Jasaan",
+    "statoids:population":50121,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.JS"
+    },
     "wof:country":"PH",
     "wof:created":1474495948,
-    "wof:geomhash":"288bda48ae07fa66e2625687828ab165",
+    "wof:geomhash":"d1a3434c4dfb87c83b31d61b093dfa68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697815,
-    "wof:lastmodified":1628266661,
+    "wof:lastmodified":1694492852,
     "wof:name":"Jasaan",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

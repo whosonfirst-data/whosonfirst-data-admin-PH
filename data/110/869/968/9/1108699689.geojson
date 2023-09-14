@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037443,
-    "geom:area_square_m":454083548.539879,
+    "geom:area_square_m":454083486.118569,
     "geom:bbox":"122.197619,11.154253,122.596491,11.349409",
     "geom:latitude":11.25517,
     "geom:longitude":122.432388,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CP.TP",
+    "statoids:name":"Tapaz",
+    "statoids:population":48051,
+    "statoids:statoid":"PH.CP",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675989
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CP.TP"
+    },
     "wof:country":"PH",
     "wof:created":1474497268,
-    "wof:geomhash":"c14c4154f3eab6598f6f6adbfcf07505",
+    "wof:geomhash":"dbc173dfd7a1bad61d06a5b911310484",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699689,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tapaz",
     "wof:parent_id":85675989,
     "wof:placetype":"county",

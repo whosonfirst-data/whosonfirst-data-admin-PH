@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011488,
-    "geom:area_square_m":135074001.223742,
+    "geom:area_square_m":135074197.970315,
     "geom:bbox":"120.522903,17.947827,120.630922,18.128177",
     "geom:latitude":18.038872,
     "geom:longitude":120.581787,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IN.BT",
+    "statoids:name":"Batac, City of",
+    "statoids:population":53542,
+    "statoids:statoid":"PH.IN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676057
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IN.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495342,
-    "wof:geomhash":"3a76b122d1211fadc80501ffe5fdad7f",
+    "wof:geomhash":"05e01986580edd883c83f1f5060140aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696933,
-    "wof:lastmodified":1626127474,
+    "wof:lastmodified":1694492564,
     "wof:name":"Batac",
     "wof:parent_id":85676057,
     "wof:placetype":"county",

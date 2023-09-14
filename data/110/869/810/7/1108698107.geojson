@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002205,
-    "geom:area_square_m":26876769.845341,
+    "geom:area_square_m":26876835.435093,
     "geom:bbox":"124.000128,9.589556,124.078273,9.642827",
     "geom:latitude":9.610065,
     "geom:longitude":124.038163,
@@ -52,16 +52,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.LA",
+    "statoids:name":"Loay",
+    "statoids:population":16261,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474496145,
-    "wof:geomhash":"c49156f8fce243fbb8f8e1810ef435cd",
+    "wof:geomhash":"d82134873cdbe0437c36d00d989d720b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +81,7 @@
         }
     ],
     "wof:id":1108698107,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Loay",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002197,
-    "geom:area_square_m":26901210.34036,
+    "geom:area_square_m":26901342.138974,
     "geom:bbox":"124.239525,8.057835,124.305872,8.11214",
     "geom:latitude":8.086843,
     "geom:longitude":124.271759,
@@ -106,16 +106,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.TG",
+    "statoids:name":"Tagoloan",
+    "statoids:population":11674,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.TG"
+    },
     "wof:country":"PH",
     "wof:created":1474496629,
-    "wof:geomhash":"68ba2b90aa183cb858dc8e525989d48f",
+    "wof:geomhash":"86390109234dfb8a68a28c9bdbc51651",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +135,7 @@
         }
     ],
     "wof:id":1108698801,
-    "wof:lastmodified":1626127463,
+    "wof:lastmodified":1694492562,
     "wof:name":"Pantar",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

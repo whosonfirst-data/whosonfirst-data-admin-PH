@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019198,
-    "geom:area_square_m":230533068.311322,
+    "geom:area_square_m":230533307.618283,
     "geom:bbox":"122.847054,13.675712,123.050866,13.943316",
     "geom:latitude":13.801162,
     "geom:longitude":122.961991,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.SP",
+    "statoids:name":"Sipocot",
+    "statoids:population":64042,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.SP"
+    },
     "wof:country":"PH",
     "wof:created":1474496184,
-    "wof:geomhash":"8319ed486cc54ac992c7f16e2f2c2cf0",
+    "wof:geomhash":"077a1c5fd819219cb61ac3ffc3153a47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108698167,
-    "wof:lastmodified":1626127461,
+    "wof:lastmodified":1694492562,
     "wof:name":"Lupi",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

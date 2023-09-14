@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004253,
-    "geom:area_square_m":50714306.484286,
+    "geom:area_square_m":50714417.350793,
     "geom:bbox":"120.908894,15.304358,120.993024,15.402256",
     "geom:latitude":15.358526,
     "geom:longitude":120.944592,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.SL",
+    "statoids:name":"San Leonardo",
+    "statoids:population":58120,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474496951,
-    "wof:geomhash":"e065f9ad6e9ca9ee0ff9af78dfd4e211",
+    "wof:geomhash":"81a0da46c3f92742f7578532c006d4ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699235,
-    "wof:lastmodified":1626127485,
+    "wof:lastmodified":1694492566,
     "wof:name":"San Leonardo",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

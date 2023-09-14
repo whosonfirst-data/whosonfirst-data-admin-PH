@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024856,
-    "geom:area_square_m":299134562.141996,
+    "geom:area_square_m":299134538.650071,
     "geom:bbox":"120.932489,13.140362,121.146434,13.42125",
     "geom:latitude":13.274412,
     "geom:longitude":121.047733,
@@ -67,16 +67,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MR.BC",
+    "statoids:name":"Baco",
+    "statoids:population":35060,
+    "statoids:statoid":"PH.MR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676159
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MR.BC"
+    },
     "wof:country":"PH",
     "wof:created":1474495227,
-    "wof:geomhash":"8641b10be6b40427c1d66800ca80bd7b",
+    "wof:geomhash":"c913e0aed72265e5ffc010866916f984",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +96,7 @@
         }
     ],
     "wof:id":1108696763,
-    "wof:lastmodified":1626127507,
+    "wof:lastmodified":1694492569,
     "wof:name":"Baco",
     "wof:parent_id":85676159,
     "wof:placetype":"county",

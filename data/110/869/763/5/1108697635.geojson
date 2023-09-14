@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050151,
-    "geom:area_square_m":616562072.299642,
+    "geom:area_square_m":616561963.154969,
     "geom:bbox":"125.008387,5.957498,125.282654,6.329919",
     "geom:latitude":6.141369,
     "geom:longitude":125.135524,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SC.GS",
+    "statoids:name":"General Santos City (Dadiangas)",
+    "statoids:population":538086,
+    "statoids:statoid":"PH.SC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676313
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SC.GS"
+    },
     "wof:country":"PH",
     "wof:created":1474495828,
-    "wof:geomhash":"7fc93b7f65b2130f487771f5087b7d62",
+    "wof:geomhash":"38f07a7005dfc31b18e671e2b257783e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697635,
-    "wof:lastmodified":1628266651,
+    "wof:lastmodified":1694492846,
     "wof:name":"General Santos City",
     "wof:parent_id":85676313,
     "wof:placetype":"county",

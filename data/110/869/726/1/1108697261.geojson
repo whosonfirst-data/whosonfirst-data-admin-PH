@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018401,
-    "geom:area_square_m":220504461.064724,
+    "geom:area_square_m":220504559.04895,
     "geom:bbox":"122.37066,14.209187,122.586239,14.350445",
     "geom:latitude":14.275076,
     "geom:longitude":122.495392,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.CP",
+    "statoids:name":"Capalonga",
+    "statoids:population":31299,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.CP"
+    },
     "wof:country":"PH",
     "wof:created":1474495567,
-    "wof:geomhash":"9cbdc0257211c566334232cdc852b652",
+    "wof:geomhash":"f0f7a37c72a7549aa58b63b07ab44810",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697261,
-    "wof:lastmodified":1626127528,
+    "wof:lastmodified":1694492573,
     "wof:name":"Capalonga",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

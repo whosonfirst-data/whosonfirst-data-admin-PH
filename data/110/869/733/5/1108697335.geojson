@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008153,
-    "geom:area_square_m":99070243.516161,
+    "geom:area_square_m":99070581.728946,
     "geom:bbox":"123.911462,10.610642,124.027885,10.733434",
     "geom:latitude":10.672841,
     "geom:longitude":123.9798,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.CT",
+    "statoids:name":"Catmon",
+    "statoids:population":28320,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.CT"
+    },
     "wof:country":"PH",
     "wof:created":1474495617,
-    "wof:geomhash":"9fc4c20e38e95a00249fb0a9664d8cab",
+    "wof:geomhash":"f4be498be6f91919e2631de99181f6bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697335,
-    "wof:lastmodified":1628266637,
+    "wof:lastmodified":1694492836,
     "wof:name":"Catmon",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

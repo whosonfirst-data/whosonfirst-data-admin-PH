@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008895,
-    "geom:area_square_m":105901724.924575,
+    "geom:area_square_m":105901605.502456,
     "geom:bbox":"120.931107,15.594439,121.043904,15.72251",
     "geom:latitude":15.65859,
     "geom:longitude":120.990656,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.LA",
+    "statoids:name":"Llanera",
+    "statoids:population":36200,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.LA"
+    },
     "wof:country":"PH",
     "wof:created":1474496142,
-    "wof:geomhash":"ec4dc36f8e11a3db844363146e09cc5c",
+    "wof:geomhash":"8f5e2a9df8601682beed180bdc2f6caa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108698103,
-    "wof:lastmodified":1626127464,
+    "wof:lastmodified":1694492562,
     "wof:name":"Llanera",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

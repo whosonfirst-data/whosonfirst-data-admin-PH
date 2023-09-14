@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008928,
-    "geom:area_square_m":109257291.112632,
+    "geom:area_square_m":109257018.357039,
     "geom:bbox":"123.661793,8.209088,123.862734,8.269933",
     "geom:latitude":8.240371,
     "geom:longitude":123.759367,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.TD",
+    "statoids:name":"Tudela",
+    "statoids:population":27371,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.TD"
+    },
     "wof:country":"PH",
     "wof:created":1474497338,
-    "wof:geomhash":"3e68ae095cedcfefa29bcc9d541e4e86",
+    "wof:geomhash":"2636e0eec6d482ba5869ef42e2c4958f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108699795,
-    "wof:lastmodified":1626127482,
+    "wof:lastmodified":1694492565,
     "wof:name":"Tudela",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

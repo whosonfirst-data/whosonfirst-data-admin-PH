@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013624,
-    "geom:area_square_m":160895294.012056,
+    "geom:area_square_m":160895236.917146,
     "geom:bbox":"120.999258,17.174346,121.194636,17.309143",
     "geom:latitude":17.239362,
     "geom:longitude":121.108092,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.KA.TI",
+    "statoids:name":"Tinglayan",
+    "statoids:population":12557,
+    "statoids:statoid":"PH.KA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.KA.TI"
+    },
     "wof:country":"PH",
     "wof:created":1474497295,
-    "wof:geomhash":"a9e21e8867e4be84741b746b4bfb231a",
+    "wof:geomhash":"151c221094b4947aaf1a9ebcf87f5653",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699733,
-    "wof:lastmodified":1628266725,
+    "wof:lastmodified":1694492889,
     "wof:name":"Tinglayan",
     "wof:parent_id":85676269,
     "wof:placetype":"county",

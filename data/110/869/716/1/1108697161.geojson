@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020143,
-    "geom:area_square_m":238886680.148056,
+    "geom:area_square_m":238886629.045928,
     "geom:bbox":"121.415463,16.33485,121.568944,16.561632",
     "geom:latitude":16.440141,
     "geom:longitude":121.506846,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QR.CB",
+    "statoids:name":"Cabarroguis",
+    "statoids:population":29395,
+    "statoids:statoid":"PH.QR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QR.CB"
+    },
     "wof:country":"PH",
     "wof:created":1474495499,
-    "wof:geomhash":"87c9c67b818eff80d9e16943d3212e55",
+    "wof:geomhash":"24eded0b0091ba393c6c9e1800a006bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108697161,
-    "wof:lastmodified":1626127535,
+    "wof:lastmodified":1694492574,
     "wof:name":"Cabarroguis",
     "wof:parent_id":85676089,
     "wof:placetype":"county",

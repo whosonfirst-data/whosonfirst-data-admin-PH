@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.168301,
-    "geom:area_square_m":2050114524.20469,
+    "geom:area_square_m":2050114316.66208,
     "geom:bbox":"118.403725,9.485029,119.133605,10.268649",
     "geom:latitude":9.893243,
     "geom:longitude":118.753938,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PL.PE",
+    "statoids:name":"Puerto Princesa City",
+    "statoids:population":222673,
+    "statoids:statoid":"PH.PL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676331
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PL.PE"
+    },
     "wof:country":"PH",
     "wof:created":1474496749,
-    "wof:geomhash":"0662e25db453e0476588ae226d342ae4",
+    "wof:geomhash":"bdf40e9537f19afd9c30ad3307f96459",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698977,
-    "wof:lastmodified":1628266705,
+    "wof:lastmodified":1694492878,
     "wof:name":"Puerto Princesa City",
     "wof:parent_id":85676331,
     "wof:placetype":"county",

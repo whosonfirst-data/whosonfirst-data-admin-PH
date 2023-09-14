@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01261,
-    "geom:area_square_m":151170416.204702,
+    "geom:area_square_m":151170414.637553,
     "geom:bbox":"121.015173,14.13277,121.199675,14.239254",
     "geom:latitude":14.185474,
     "geom:longitude":121.113511,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.CM",
+    "statoids:name":"Calamba, City of",
+    "statoids:population":389377,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.CM"
+    },
     "wof:country":"PH",
     "wof:created":1474495523,
-    "wof:geomhash":"c853f40c44ba71f41cdecf73fb188cfd",
+    "wof:geomhash":"0c84c7af638d4ef2393d19162bfce18d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108697197,
-    "wof:lastmodified":1628266635,
+    "wof:lastmodified":1694492835,
     "wof:name":"Calamba",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

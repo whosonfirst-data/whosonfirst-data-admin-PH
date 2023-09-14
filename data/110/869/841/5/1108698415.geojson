@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023104,
-    "geom:area_square_m":275249450.982031,
+    "geom:area_square_m":275249303.259511,
     "geom:bbox":"119.912056,15.475421,120.232056,15.597968",
     "geom:latitude":15.538182,
     "geom:longitude":120.06691,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZM.MS",
+    "statoids:name":"Masinloc",
+    "statoids:population":44342,
+    "statoids:statoid":"PH.ZM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676113
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZM.MS"
+    },
     "wof:country":"PH",
     "wof:created":1474496353,
-    "wof:geomhash":"a7b59798f23d59339f134f44d9046c9d",
+    "wof:geomhash":"acaeddf41d6489bcd3aaaf851e9fb0c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698415,
-    "wof:lastmodified":1626127505,
+    "wof:lastmodified":1694492569,
     "wof:name":"Masinloc",
     "wof:parent_id":85676113,
     "wof:placetype":"county",

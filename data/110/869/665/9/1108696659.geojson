@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003912,
-    "geom:area_square_m":46902419.719734,
+    "geom:area_square_m":46902392.451878,
     "geom:bbox":"120.887183,14.122059,120.956469,14.247089",
     "geom:latitude":14.186309,
     "geom:longitude":120.924369,
@@ -70,16 +70,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CV.AA",
+    "statoids:name":"Amadeo",
+    "statoids:population":33457,
+    "statoids:statoid":"PH.CV",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676127
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CV.AA"
+    },
     "wof:country":"PH",
     "wof:created":1474495160,
-    "wof:geomhash":"7757e22adb3278838b331e5ceeb90055",
+    "wof:geomhash":"11f077e6f5c7ec56f838604a90ff6caa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +99,7 @@
         }
     ],
     "wof:id":1108696659,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Amadeo",
     "wof:parent_id":85676127,
     "wof:placetype":"county",

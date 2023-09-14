@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00255,
-    "geom:area_square_m":31197319.779676,
+    "geom:area_square_m":31197289.003723,
     "geom:bbox":"123.759044,8.340721,123.848747,8.381507",
     "geom:latitude":8.359814,
     "geom:longitude":123.805858,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.PN",
+    "statoids:name":"Panaon",
+    "statoids:population":10176,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675971
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MD.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496603,
-    "wof:geomhash":"b869b538ccf7a6abc59c45a08fb039ad",
+    "wof:geomhash":"953b0336ae22525ff1d3b0f52030a6bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108698769,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492714,
     "wof:name":"Panaon",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

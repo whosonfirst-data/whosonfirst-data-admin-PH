@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005783,
-    "geom:area_square_m":68842523.770142,
+    "geom:area_square_m":68842308.242826,
     "geom:bbox":"120.294948,15.623339,120.411948,15.761818",
     "geom:latitude":15.691583,
     "geom:longitude":120.360875,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TR.SC",
+    "statoids:name":"San Clemente",
+    "statoids:population":12510,
+    "statoids:statoid":"PH.TR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676097
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TR.SC"
+    },
     "wof:country":"PH",
     "wof:created":1474496879,
-    "wof:geomhash":"90dde2f352ea76eb7b65b315989c278d",
+    "wof:geomhash":"978fa553de26a500a9e2945c81803674",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699127,
-    "wof:lastmodified":1628266711,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Clemente",
     "wof:parent_id":85676097,
     "wof:placetype":"county",

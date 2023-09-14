@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091733,
-    "geom:area_square_m":1082522069.273086,
+    "geom:area_square_m":1082521535.090706,
     "geom:bbox":"120.915757,17.21051,121.636498,17.562165",
     "geom:latitude":17.378596,
     "geom:longitude":121.349216,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.KA.LB",
+    "statoids:name":"Lubuagan",
+    "statoids:population":9369,
+    "statoids:statoid":"PH.KA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.KA.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474497204,
-    "wof:geomhash":"8f871feb193a3e63d76ab7974f8a9be0",
+    "wof:geomhash":"52b8cdade685730cc41c18348f94f2c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699595,
-    "wof:lastmodified":1636501027,
+    "wof:lastmodified":1694492933,
     "wof:name":"Tabuk",
     "wof:parent_id":85676269,
     "wof:placetype":"county",

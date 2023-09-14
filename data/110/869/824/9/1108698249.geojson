@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007388,
-    "geom:area_square_m":90451735.771388,
+    "geom:area_square_m":90451578.022999,
     "geom:bbox":"123.864716,7.983122,124.003728,8.083846",
     "geom:latitude":8.035234,
     "geom:longitude":123.934666,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LN.MG",
+    "statoids:name":"Magsaysay",
+    "statoids:population":16442,
+    "statoids:statoid":"PH.LN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676165
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LN.MG"
+    },
     "wof:country":"PH",
     "wof:created":1474496239,
-    "wof:geomhash":"4032e6811525cad1bf269ba362e59bdc",
+    "wof:geomhash":"52e714ab0b32609174d816c670a57a00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698249,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Magsaysay",
     "wof:parent_id":85676165,
     "wof:placetype":"county",

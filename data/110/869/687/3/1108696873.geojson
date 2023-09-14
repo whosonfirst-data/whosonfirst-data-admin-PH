@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002358,
-    "geom:area_square_m":27850139.971181,
+    "geom:area_square_m":27850183.096366,
     "geom:bbox":"120.461031,17.202893,120.547019,17.250696",
     "geom:latitude":17.227761,
     "geom:longitude":120.505543,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IS.BY",
+    "statoids:name":"Banayoyo",
+    "statoids:population":7694,
+    "statoids:statoid":"PH.IS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676061
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IS.BY"
+    },
     "wof:country":"PH",
     "wof:created":1474495302,
-    "wof:geomhash":"b1295e3ffc5cf5e2dedad6f8c6da0f51",
+    "wof:geomhash":"abf868f14a57f10d7828fc422dcf0607",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696873,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Banayoyo",
     "wof:parent_id":85676061,
     "wof:placetype":"county",

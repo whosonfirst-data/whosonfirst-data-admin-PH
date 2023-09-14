@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050645,
-    "geom:area_square_m":620348116.689145,
+    "geom:area_square_m":620348450.153115,
     "geom:bbox":"125.928506,7.722045,126.220708,8.000651",
     "geom:latitude":7.859617,
     "geom:longitude":126.060304,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CL.MK",
+    "statoids:name":"Monkayo",
+    "statoids:population":94827,
+    "statoids:statoid":"PH.CL",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676235
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CL.MK"
+    },
     "wof:country":"PH",
     "wof:created":1474496417,
-    "wof:geomhash":"40a37e6246b7031cb1a6670288b71018",
+    "wof:geomhash":"009e534321a416cea2af1c60023b0ce1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108698499,
-    "wof:lastmodified":1636501036,
+    "wof:lastmodified":1694492935,
     "wof:name":"Moncayo",
     "wof:parent_id":85676235,
     "wof:placetype":"county",

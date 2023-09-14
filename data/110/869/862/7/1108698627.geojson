@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077577,
-    "geom:area_square_m":929268703.190044,
+    "geom:area_square_m":929269295.470644,
     "geom:bbox":"121.005422,14.179012,121.478083,14.540178",
     "geom:latitude":14.363435,
     "geom:longitude":121.221546,
@@ -163,16 +163,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LG.SP",
+    "statoids:name":"San Pedro",
+    "statoids:population":294310,
+    "statoids:statoid":"PH.LG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676141
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LG.SP"
+    },
     "wof:country":"PH",
     "wof:created":1474496506,
-    "wof:geomhash":"d21bcfd4455c08404f7d03115adb9193",
+    "wof:geomhash":"f5a2e00c529f1e3ace76ff8fcb413174",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +192,7 @@
         }
     ],
     "wof:id":1108698627,
-    "wof:lastmodified":1636501037,
+    "wof:lastmodified":1694492935,
     "wof:name":"San Pedro",
     "wof:parent_id":85676141,
     "wof:placetype":"county",

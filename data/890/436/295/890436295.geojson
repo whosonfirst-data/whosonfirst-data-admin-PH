@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018047,
-    "geom:area_square_m":220744371.322163,
+    "geom:area_square_m":220744413.218157,
     "geom:bbox":"123.598923,8.363557,123.819327,8.51939",
     "geom:latitude":8.439197,
     "geom:longitude":123.724524,
@@ -324,6 +324,14 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MD.OO",
+    "statoids:name":"Oroquieta City",
+    "statoids:population":68945,
+    "statoids:statoid":"PH.MD",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wd:wordcount":814,
     "wof:belongsto":[
         102191569,
@@ -334,6 +342,7 @@
     "wof:concordances":{
         "gn:id":1697005,
         "gp:id":2346697,
+        "hasc:id":"PH.MD.OO",
         "qs_pg:id":87124,
         "wd:id":"Q1067897",
         "wk:page":"Oroquieta"
@@ -343,7 +352,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd6c197077bee8a714039248be635052",
+    "wof:geomhash":"fc2ecd98903e8aa00ee02bab2d5dd138",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -353,7 +362,7 @@
         }
     ],
     "wof:id":890436295,
-    "wof:lastmodified":1690851679,
+    "wof:lastmodified":1694492498,
     "wof:name":"Oroquieta City",
     "wof:parent_id":85675971,
     "wof:placetype":"county",

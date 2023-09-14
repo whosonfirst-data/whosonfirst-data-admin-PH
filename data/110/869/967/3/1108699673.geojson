@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000937,
-    "geom:area_square_m":11536596.037171,
+    "geom:area_square_m":11536593.946607,
     "geom:bbox":"120.319557,5.11875,120.349609,5.164583",
     "geom:latitude":5.142048,
     "geom:longitude":120.335434,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.TT.TN",
+    "statoids:name":"Tandubas",
+    "statoids:population":27748,
+    "statoids:statoid":"PH.TT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675929
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.TT.TN"
+    },
     "wof:country":"PH",
     "wof:created":1474497257,
-    "wof:geomhash":"564e18c7a25e5fff019e362000e2b8f9",
+    "wof:geomhash":"be6e7aa4a9d7d7e882a784899a1a1dab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699673,
-    "wof:lastmodified":1628266724,
+    "wof:lastmodified":1694492888,
     "wof:name":"Tandubas",
     "wof:parent_id":85675929,
     "wof:placetype":"county",

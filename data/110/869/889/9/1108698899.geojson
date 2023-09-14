@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011621,
-    "geom:area_square_m":142156167.307886,
+    "geom:area_square_m":142156338.301084,
     "geom:bbox":"123.397066,8.334545,123.519997,8.501754",
     "geom:latitude":8.409854,
     "geom:longitude":123.444302,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.PN",
+    "statoids:name":"Pi\u00f1an (New Pi\u00f1an)",
+    "statoids:population":20088,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.PN"
+    },
     "wof:country":"PH",
     "wof:created":1474496693,
-    "wof:geomhash":"5b6a4477b5d2e4550cc6140e6bc47fd0",
+    "wof:geomhash":"438588dbb5153af2eaff218c6d4c2a33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698899,
-    "wof:lastmodified":1628266700,
+    "wof:lastmodified":1694492875,
     "wof:name":"Pi\u00f1an",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

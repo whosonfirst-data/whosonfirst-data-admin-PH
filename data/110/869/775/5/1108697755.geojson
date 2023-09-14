@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01826,
-    "geom:area_square_m":219098360.042236,
+    "geom:area_square_m":219098327.290558,
     "geom:bbox":"122.80192,13.862793,123.069788,14.096573",
     "geom:latitude":13.977183,
     "geom:longitude":122.948694,
@@ -61,16 +61,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CN.SL",
+    "statoids:name":"San Lorenzo Ruiz (Imelda)",
+    "statoids:population":12592,
+    "statoids:statoid":"PH.CN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676017
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CN.SL"
+    },
     "wof:country":"PH",
     "wof:created":1474495909,
-    "wof:geomhash":"a51310e35333c72db93850c2711fa06e",
+    "wof:geomhash":"d2d616a15c3f7791a7680eec8ca43159",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +90,7 @@
         }
     ],
     "wof:id":1108697755,
-    "wof:lastmodified":1627522507,
+    "wof:lastmodified":1694492714,
     "wof:name":"Imelda",
     "wof:parent_id":85676017,
     "wof:placetype":"county",

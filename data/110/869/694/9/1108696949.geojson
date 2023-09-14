@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004286,
-    "geom:area_square_m":52138180.116669,
+    "geom:area_square_m":52137986.38118,
     "geom:bbox":"124.780241,10.306891,124.903782,10.35341",
     "geom:latitude":10.332144,
     "geom:longitude":124.840894,
@@ -73,16 +73,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LE.BT",
+    "statoids:name":"Bato",
+    "statoids:population":35610,
+    "statoids:statoid":"PH.LE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676197
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LE.BT"
+    },
     "wof:country":"PH",
     "wof:created":1474495355,
-    "wof:geomhash":"e3acf4d01e5dbebb4af207e769c51120",
+    "wof:geomhash":"f9e679029b73ff1d5950ebd222fea2df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +102,7 @@
         }
     ],
     "wof:id":1108696949,
-    "wof:lastmodified":1626127473,
+    "wof:lastmodified":1694492564,
     "wof:name":"Bato",
     "wof:parent_id":85676197,
     "wof:placetype":"county",

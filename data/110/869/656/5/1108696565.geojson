@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022665,
-    "geom:area_square_m":268804562.213159,
+    "geom:area_square_m":268804507.07726,
     "geom:bbox":"121.544757,16.346369,121.73964,16.524205",
     "geom:latitude":16.437964,
     "geom:longitude":121.628337,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.QR.AL",
+    "statoids:name":"Aglipay",
+    "statoids:population":26187,
+    "statoids:statoid":"PH.QR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676089
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.QR.AL"
+    },
     "wof:country":"PH",
     "wof:created":1474495097,
-    "wof:geomhash":"985e593a16ac2f3cd6ba40e278a9ac09",
+    "wof:geomhash":"d96ef6b1a1f31e933ac9be877d45ddf2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108696565,
-    "wof:lastmodified":1627522505,
+    "wof:lastmodified":1694492713,
     "wof:name":"Aglipay",
     "wof:parent_id":85676089,
     "wof:placetype":"county",

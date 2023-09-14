@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020191,
-    "geom:area_square_m":246985630.382146,
+    "geom:area_square_m":246985368.293617,
     "geom:bbox":"123.207859,8.334437,123.405828,8.528157",
     "geom:latitude":8.405933,
     "geom:longitude":123.300907,
@@ -115,16 +115,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.KT",
+    "statoids:name":"Katipunan",
+    "statoids:population":43339,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.KT"
+    },
     "wof:country":"PH",
     "wof:created":1474496006,
-    "wof:geomhash":"992284b70680b39efb11d6d14ed95249",
+    "wof:geomhash":"6387ceaf08c4abd59a696e5e9795ae8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +144,7 @@
         }
     ],
     "wof:id":1108697905,
-    "wof:lastmodified":1626127448,
+    "wof:lastmodified":1694492559,
     "wof:name":"Katipunan",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

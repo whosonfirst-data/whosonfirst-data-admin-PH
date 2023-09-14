@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004784,
-    "geom:area_square_m":57400975.845029,
+    "geom:area_square_m":57401180.447925,
     "geom:bbox":"120.892331,13.908068,120.958316,14.022699",
     "geom:latitude":13.970056,
     "geom:longitude":120.924904,
@@ -64,16 +64,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BT.AO",
+    "statoids:name":"Agoncillo",
+    "statoids:population":35794,
+    "statoids:statoid":"PH.BT",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BT.AO"
+    },
     "wof:country":"PH",
     "wof:created":1474495100,
-    "wof:geomhash":"fb6c8e1d561a45dbdd7d7eadae24a03b",
+    "wof:geomhash":"970f2e00e41a3743ba5f39efead20461",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +93,7 @@
         }
     ],
     "wof:id":1108696569,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Agoncillo",
     "wof:parent_id":85676131,
     "wof:placetype":"county",

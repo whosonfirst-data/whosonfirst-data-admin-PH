@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008163,
-    "geom:area_square_m":99032476.710932,
+    "geom:area_square_m":99032586.624089,
     "geom:bbox":"122.759513,11.09975,122.900844,11.213665",
     "geom:latitude":11.164076,
     "geom:longitude":122.826254,
@@ -127,16 +127,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.SR",
+    "statoids:name":"San Rafael",
+    "statoids:population":14655,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.SR"
+    },
     "wof:country":"PH",
     "wof:created":1474497004,
-    "wof:geomhash":"820093edc37761fd741b8fb9e91a07a7",
+    "wof:geomhash":"705e9a9e023a1654714cbda8deaafbd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +156,7 @@
         }
     ],
     "wof:id":1108699307,
-    "wof:lastmodified":1636501016,
+    "wof:lastmodified":1694492932,
     "wof:name":"San Rafael",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

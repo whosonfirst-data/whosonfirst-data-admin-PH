@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007391,
-    "geom:area_square_m":87953451.809821,
+    "geom:area_square_m":87953094.892688,
     "geom:bbox":"120.732269,15.703855,120.846829,15.817792",
     "geom:latitude":15.759425,
     "geom:longitude":120.79677,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NE.TL",
+    "statoids:name":"Talugtug",
+    "statoids:population":21291,
+    "statoids:statoid":"PH.NE",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676101
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NE.TL"
+    },
     "wof:country":"PH",
     "wof:created":1474497242,
-    "wof:geomhash":"5245a7068747db5d382d466bb08c3ff4",
+    "wof:geomhash":"59747686f872f8c4dfffd4f9c73442e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699651,
-    "wof:lastmodified":1628266723,
+    "wof:lastmodified":1694492888,
     "wof:name":"Talugtog",
     "wof:parent_id":85676101,
     "wof:placetype":"county",

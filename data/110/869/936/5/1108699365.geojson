@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005285,
-    "geom:area_square_m":63886424.052226,
+    "geom:area_square_m":63886161.943384,
     "geom:bbox":"121.956253,12.101222,122.067085,12.213362",
     "geom:latitude":12.16957,
     "geom:longitude":122.005564,
@@ -175,10 +175,12 @@
         85676007
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.RO.ST"
+    },
     "wof:country":"PH",
     "wof:created":1474497043,
-    "wof:geomhash":"4d43d8291b3d63f28a91a2a3e5183771",
+    "wof:geomhash":"814cd476c08b3fe16685cb97a712f1a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,7 +190,7 @@
         }
     ],
     "wof:id":1108699365,
-    "wof:lastmodified":1626127447,
+    "wof:lastmodified":1694492559,
     "wof:name":"Santa Fe",
     "wof:parent_id":85676007,
     "wof:placetype":"county",

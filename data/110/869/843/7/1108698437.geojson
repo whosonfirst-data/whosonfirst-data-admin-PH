@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031188,
-    "geom:area_square_m":376937340.263573,
+    "geom:area_square_m":376937584.278007,
     "geom:bbox":"124.839749,12.11659,125.125887,12.289167",
     "geom:latitude":12.196569,
     "geom:longitude":124.982751,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SM.MT",
+    "statoids:name":"Matuguinao",
+    "statoids:population":6746,
+    "statoids:statoid":"PH.SM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676201
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SM.MT"
+    },
     "wof:country":"PH",
     "wof:created":1474496368,
-    "wof:geomhash":"0a992b21a79801032f30311a5be204f0",
+    "wof:geomhash":"aedbf82244eaa14495db02c44e4f5e33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698437,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Matuguinao",
     "wof:parent_id":85676201,
     "wof:placetype":"county",

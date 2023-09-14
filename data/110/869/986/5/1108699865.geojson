@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005666,
-    "geom:area_square_m":68894399.324003,
+    "geom:area_square_m":68894596.571806,
     "geom:bbox":"122.792892,10.430446,122.905847,10.55125",
     "geom:latitude":10.477406,
     "geom:longitude":122.845779,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.PL",
+    "statoids:name":"Pulupandan",
+    "statoids:population":25350,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.PL"
+    },
     "wof:country":"PH",
     "wof:created":1474497385,
-    "wof:geomhash":"97eaa2835f9012dc0b3dbecc3d5f46f1",
+    "wof:geomhash":"a377c69d061a86ce6dac02bf86c93d00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108699865,
-    "wof:lastmodified":1628266742,
+    "wof:lastmodified":1694492892,
     "wof:name":"Villadolid",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

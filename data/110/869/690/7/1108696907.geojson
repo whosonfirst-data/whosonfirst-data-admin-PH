@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008622,
-    "geom:area_square_m":104953380.921476,
+    "geom:area_square_m":104953235.318202,
     "geom:bbox":"123.46793,10.048147,123.600649,10.17332",
     "geom:latitude":10.113543,
     "geom:longitude":123.533596,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CB.BR",
+    "statoids:name":"Barili",
+    "statoids:population":65524,
+    "statoids:statoid":"PH.CB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CB.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495324,
-    "wof:geomhash":"0ce6a4dbb2c340bb1ab51e589e4f5218",
+    "wof:geomhash":"4f5a98bdc359decb5631520cb9c54c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108696907,
-    "wof:lastmodified":1626127516,
+    "wof:lastmodified":1694492571,
     "wof:name":"Barili",
     "wof:parent_id":85675939,
     "wof:placetype":"county",

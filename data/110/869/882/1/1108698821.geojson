@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00407,
-    "geom:area_square_m":50054403.965884,
+    "geom:area_square_m":50054792.995993,
     "geom:bbox":"120.872917,5.890361,120.96511,5.990566",
     "geom:latitude":5.934716,
     "geom:longitude":120.913047,
@@ -55,16 +55,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SU.PR",
+    "statoids:name":"Parang",
+    "statoids:population":58028,
+    "statoids:statoid":"PH.SU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SU.PR"
+    },
     "wof:country":"PH",
     "wof:created":1474496642,
-    "wof:geomhash":"c8e1c765a3010206a2b02a7d1e04f37e",
+    "wof:geomhash":"b7e2c59841219efb3232da7039fe0aae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +84,7 @@
         }
     ],
     "wof:id":1108698821,
-    "wof:lastmodified":1627522509,
+    "wof:lastmodified":1694492715,
     "wof:name":"Parang",
     "wof:parent_id":85675975,
     "wof:placetype":"county",

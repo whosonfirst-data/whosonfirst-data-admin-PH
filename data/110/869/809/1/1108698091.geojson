@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010793,
-    "geom:area_square_m":132129240.548862,
+    "geom:area_square_m":132129167.917941,
     "geom:bbox":"122.617659,8.024493,122.737029,8.164556",
     "geom:latitude":8.083103,
     "geom:longitude":122.675141,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ZN.LI",
+    "statoids:name":"Liloy",
+    "statoids:population":39015,
+    "statoids:statoid":"PH.ZN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ZN.LI"
+    },
     "wof:country":"PH",
     "wof:created":1474496134,
-    "wof:geomhash":"c1f86a73325c4f7f2ae26b06aa6d6b4d",
+    "wof:geomhash":"1492e6c5f16ffa278e66904431adf3e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698091,
-    "wof:lastmodified":1628266675,
+    "wof:lastmodified":1694492861,
     "wof:name":"Liloy",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

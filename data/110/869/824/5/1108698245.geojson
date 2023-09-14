@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.084154,
-    "geom:area_square_m":1032200590.214049,
+    "geom:area_square_m":1032200532.95824,
     "geom:bbox":"125.072944,7.011787,125.31848,7.588033",
     "geom:latitude":7.275993,
     "geom:longitude":125.194731,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NC.AR",
+    "statoids:name":"Arakan",
+    "statoids:population":43554,
+    "statoids:statoid":"PH.NC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676179
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NC.AR"
+    },
     "wof:country":"PH",
     "wof:created":1474496236,
-    "wof:geomhash":"617e6bd80fcda92867c1029d86fa6b70",
+    "wof:geomhash":"c67a415d2134ff6d3d2a4d581b519890",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698245,
-    "wof:lastmodified":1628266680,
+    "wof:lastmodified":1694492864,
     "wof:name":"Magpet",
     "wof:parent_id":85676179,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009845,
-    "geom:area_square_m":119782463.485731,
+    "geom:area_square_m":119782381.609905,
     "geom:bbox":"123.014386,10.214623,123.197973,10.314227",
     "geom:latitude":10.273443,
     "geom:longitude":123.116497,
@@ -76,16 +76,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.ND.MI",
+    "statoids:name":"Moises Padilla (Magallon)",
+    "statoids:population":39257,
+    "statoids:statoid":"PH.ND",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675951
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.ND.MI"
+    },
     "wof:country":"PH",
     "wof:created":1474496413,
-    "wof:geomhash":"a6c62c1ca9adecd1a5074fc9145bfe63",
+    "wof:geomhash":"dc7c254ec5d7f7521fbf710b0d65803e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +105,7 @@
         }
     ],
     "wof:id":1108698493,
-    "wof:lastmodified":1626127510,
+    "wof:lastmodified":1694492570,
     "wof:name":"Moises Padilla",
     "wof:parent_id":85675951,
     "wof:placetype":"county",

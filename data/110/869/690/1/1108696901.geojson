@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010778,
-    "geom:area_square_m":130706743.779644,
+    "geom:area_square_m":130706879.975284,
     "geom:bbox":"122.031219,11.170636,122.188072,11.328204",
     "geom:latitude":11.248574,
     "geom:longitude":122.110108,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AQ.BR",
+    "statoids:name":"Barbaza",
+    "statoids:population":21775,
+    "statoids:statoid":"PH.AQ",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675985
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AQ.BR"
+    },
     "wof:country":"PH",
     "wof:created":1474495322,
-    "wof:geomhash":"2bc7b647866bf6a2fbd66ea7f158e5c3",
+    "wof:geomhash":"9dc2f5122e4c87ce5c000a00952ee287",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108696901,
-    "wof:lastmodified":1626127516,
+    "wof:lastmodified":1694492571,
     "wof:name":"Barbaza",
     "wof:parent_id":85675985,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011909,
-    "geom:area_square_m":143062016.764272,
+    "geom:area_square_m":143062423.622333,
     "geom:bbox":"123.121223,13.665174,123.373503,13.780389",
     "geom:latitude":13.712752,
     "geom:longitude":123.259264,
@@ -82,16 +82,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CS.CL",
+    "statoids:name":"Calabanga",
+    "statoids:population":78119,
+    "statoids:statoid":"PH.CS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CS.CL"
+    },
     "wof:country":"PH",
     "wof:created":1474495520,
-    "wof:geomhash":"6b31c8ed85fcfff19ec4ef8b8cdc9034",
+    "wof:geomhash":"e94507284e6aaa2531e35b17d7cec251",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":1108697191,
-    "wof:lastmodified":1626127529,
+    "wof:lastmodified":1694492573,
     "wof:name":"Calabanga",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

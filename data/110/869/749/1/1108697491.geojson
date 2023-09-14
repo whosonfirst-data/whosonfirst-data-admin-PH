@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010376,
-    "geom:area_square_m":124027189.956524,
+    "geom:area_square_m":124027393.88416,
     "geom:bbox":"120.359301,14.750675,120.479796,14.922721",
     "geom:latitude":14.831144,
     "geom:longitude":120.421119,
@@ -94,16 +94,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BA.HR",
+    "statoids:name":"Hermosa",
+    "statoids:population":56997,
+    "statoids:statoid":"PH.BA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676093
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BA.HR"
+    },
     "wof:country":"PH",
     "wof:created":1474495733,
-    "wof:geomhash":"d551029d6618cf39b3e1b59a45a1e7f0",
+    "wof:geomhash":"8fdf9f5216e189eecb5509f38c3dd4c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +123,7 @@
         }
     ],
     "wof:id":1108697491,
-    "wof:lastmodified":1626127485,
+    "wof:lastmodified":1694492566,
     "wof:name":"Dinalupihan",
     "wof:parent_id":85676093,
     "wof:placetype":"county",

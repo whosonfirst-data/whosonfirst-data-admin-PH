@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003786,
-    "geom:area_square_m":46237527.93952,
+    "geom:area_square_m":46237729.317521,
     "geom:bbox":"126.222596,8.932026,126.308723,9.012048",
     "geom:latitude":8.963896,
     "geom:longitude":126.26053,
@@ -49,16 +49,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SS.BY",
+    "statoids:name":"Bayabas",
+    "statoids:population":7779,
+    "statoids:statoid":"PH.SS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676243
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SS.BY"
+    },
     "wof:country":"PH",
     "wof:created":1474495372,
-    "wof:geomhash":"231d02d733ea787f947ced3a2dc40eab",
+    "wof:geomhash":"5c5297785b32bd03e17f403cc6704128",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +78,7 @@
         }
     ],
     "wof:id":1108696967,
-    "wof:lastmodified":1628266625,
+    "wof:lastmodified":1694492829,
     "wof:name":"Bayabas",
     "wof:parent_id":85676243,
     "wof:placetype":"county",

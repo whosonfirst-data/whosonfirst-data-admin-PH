@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009205,
-    "geom:area_square_m":111785748.447401,
+    "geom:area_square_m":111785794.932407,
     "geom:bbox":"122.258034,10.767838,122.450142,10.931143",
     "geom:latitude":10.856598,
     "geom:longitude":122.368402,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.AL",
+    "statoids:name":"Alimodian",
+    "statoids:population":37484,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.AL"
+    },
     "wof:country":"PH",
     "wof:created":1474495145,
-    "wof:geomhash":"668b90a70c000af4ed5e7320616f8539",
+    "wof:geomhash":"6529b962e3a265e88bc581d52c52c768",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108696637,
-    "wof:lastmodified":1626127516,
+    "wof:lastmodified":1694492571,
     "wof:name":"Alimodian",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

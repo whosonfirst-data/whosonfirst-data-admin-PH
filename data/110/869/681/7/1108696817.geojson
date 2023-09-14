@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003478,
-    "geom:area_square_m":42143448.85099,
+    "geom:area_square_m":42143295.502139,
     "geom:bbox":"123.039724,11.418151,123.122782,11.494716",
     "geom:latitude":11.456905,
     "geom:longitude":123.080264,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.II.BL",
+    "statoids:name":"Balasan",
+    "statoids:population":29724,
+    "statoids:statoid":"PH.II",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675993
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.II.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495265,
-    "wof:geomhash":"2f1e51fd56263bfb1cb2d0a7e8c6646f",
+    "wof:geomhash":"629a77b4e3fe75b0c1a61b009d5431d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696817,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balasan",
     "wof:parent_id":85675993,
     "wof:placetype":"county",

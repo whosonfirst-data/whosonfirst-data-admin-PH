@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017832,
-    "geom:area_square_m":218598051.199543,
+    "geom:area_square_m":218597682.1283,
     "geom:bbox":"125.542994,7.441583,125.728631,7.572504",
     "geom:latitude":7.51652,
     "geom:longitude":125.627542,
@@ -121,10 +121,12 @@
         85676231
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.DV.SM"
+    },
     "wof:country":"PH",
     "wof:created":1474497086,
-    "wof:geomhash":"fec060bb22072788862814c070ca7a0c",
+    "wof:geomhash":"290912da0f3b31fedbc4a55cb9963c37",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":1108699431,
-    "wof:lastmodified":1636501044,
+    "wof:lastmodified":1694492936,
     "wof:name":"Santo Tomas",
     "wof:parent_id":85676231,
     "wof:placetype":"county",

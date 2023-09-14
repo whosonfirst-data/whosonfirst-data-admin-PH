@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041665,
-    "geom:area_square_m":510392136.73778,
+    "geom:area_square_m":510392170.3936,
     "geom:bbox":"125.270848,7.655138,125.454272,8.000038",
     "geom:latitude":7.832959,
     "geom:longitude":125.374532,
@@ -160,16 +160,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BK.SF",
+    "statoids:name":"San Fernando",
+    "statoids:population":50207,
+    "statoids:statoid":"PH.BK",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676221
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BK.SF"
+    },
     "wof:country":"PH",
     "wof:created":1474496891,
-    "wof:geomhash":"cd04f0c48969b02079b08a6cfa386fdd",
+    "wof:geomhash":"3b0cd51c23c31324706b3bbbd684f4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +189,7 @@
         }
     ],
     "wof:id":1108699145,
-    "wof:lastmodified":1636501027,
+    "wof:lastmodified":1694492933,
     "wof:name":"San Fernando",
     "wof:parent_id":85676221,
     "wof:placetype":"county",

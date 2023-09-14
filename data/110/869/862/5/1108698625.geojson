@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020143,
-    "geom:area_square_m":238127138.442265,
+    "geom:area_square_m":238126418.047703,
     "geom:bbox":"121.471154,16.742294,121.722924,17.258851",
     "geom:latitude":17.046115,
     "geom:longitude":121.618983,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.QE",
+    "statoids:name":"Quezon",
+    "statoids:population":24522,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.QE"
+    },
     "wof:country":"PH",
     "wof:created":1474496504,
-    "wof:geomhash":"91481fcb72e208e63b5b845b7179f87c",
+    "wof:geomhash":"ef2b9abe2ba99a2351cd002b9bd6dcf9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698625,
-    "wof:lastmodified":1628266681,
+    "wof:lastmodified":1694492864,
     "wof:name":"Mallig",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

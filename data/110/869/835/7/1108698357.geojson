@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008149,
-    "geom:area_square_m":99323838.991492,
+    "geom:area_square_m":99323992.527779,
     "geom:bbox":"123.033251,9.630426,123.161224,9.757412",
     "geom:latitude":9.690599,
     "geom:longitude":123.093116,
@@ -91,16 +91,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.NR.MN",
+    "statoids:name":"Manjuyod",
+    "statoids:population":41107,
+    "statoids:statoid":"PH.NR",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675945
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.NR.MN"
+    },
     "wof:country":"PH",
     "wof:created":1474496311,
-    "wof:geomhash":"eab6d5bb2428f568b34eceab7d722fbc",
+    "wof:geomhash":"682624260bc9b3711d6d152385aeba01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":1108698357,
-    "wof:lastmodified":1626127472,
+    "wof:lastmodified":1694492564,
     "wof:name":"Manjuyod",
     "wof:parent_id":85675945,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04081,
-    "geom:area_square_m":500018284.247472,
+    "geom:area_square_m":500018338.565428,
     "geom:bbox":"124.327563,7.609045,124.610331,7.876793",
     "geom:latitude":7.748867,
     "geom:longitude":124.441478,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.LS.LB",
+    "statoids:name":"Lumba-Bayabao (Maguing)",
+    "statoids:population":32412,
+    "statoids:statoid":"PH.LS",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.LS.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496244,
-    "wof:geomhash":"cf234e2b839b1d4d8303d140dd9b65c1",
+    "wof:geomhash":"60991a69ab77e8db34e8cc55a7f144a9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698259,
-    "wof:lastmodified":1626127513,
+    "wof:lastmodified":1694492570,
     "wof:name":"Maguing",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

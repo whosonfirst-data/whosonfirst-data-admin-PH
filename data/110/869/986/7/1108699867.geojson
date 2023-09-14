@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003421,
-    "geom:area_square_m":41834019.229191,
+    "geom:area_square_m":41834186.55063,
     "geom:bbox":"124.741196,8.546261,124.839104,8.600791",
     "geom:latitude":8.573924,
     "geom:longitude":124.792052,
@@ -136,16 +136,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.VL",
+    "statoids:name":"Villanueva",
+    "statoids:population":31966,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.VL"
+    },
     "wof:country":"PH",
     "wof:created":1474497386,
-    "wof:geomhash":"fbe058e941004c3abffb645b58af1a24",
+    "wof:geomhash":"94cf5d8584b10afe4204dfd714f6f873",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +165,7 @@
         }
     ],
     "wof:id":1108699867,
-    "wof:lastmodified":1636501045,
+    "wof:lastmodified":1694492936,
     "wof:name":"Villanueva",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

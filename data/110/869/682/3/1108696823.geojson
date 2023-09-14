@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044539,
-    "geom:area_square_m":525160557.749369,
+    "geom:area_square_m":525160412.191498,
     "geom:bbox":"120.993738,17.410853,121.284681,17.674417",
     "geom:latitude":17.529948,
     "geom:longitude":121.157381,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.KA.BL",
+    "statoids:name":"Balbalan",
+    "statoids:population":12082,
+    "statoids:statoid":"PH.KA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.KA.BL"
+    },
     "wof:country":"PH",
     "wof:created":1474495270,
-    "wof:geomhash":"17f819349e69eabacce06e2a64e829e3",
+    "wof:geomhash":"7f42814dcea0c00a3a567e61b671c148",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696823,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balbalan",
     "wof:parent_id":85676269,
     "wof:placetype":"county",

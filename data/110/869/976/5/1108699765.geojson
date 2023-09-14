@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027275,
-    "geom:area_square_m":323677079.963087,
+    "geom:area_square_m":323677103.122022,
     "geom:bbox":"120.467755,16.19619,120.657073,16.445067",
     "geom:latitude":16.319099,
     "geom:longitude":120.560391,
@@ -229,16 +229,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BG.TA",
+    "statoids:name":"Tuba",
+    "statoids:population":42874,
+    "statoids:statoid":"PH.BG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676111
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BG.TA"
+    },
     "wof:country":"PH",
     "wof:created":1474497319,
-    "wof:geomhash":"b92ca74e6587bdffd2cd16025d575b79",
+    "wof:geomhash":"7fbaa3205c9c51697efd9607f127026a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -248,7 +258,7 @@
         }
     ],
     "wof:id":1108699765,
-    "wof:lastmodified":1626127489,
+    "wof:lastmodified":1694492567,
     "wof:name":"Tuba",
     "wof:parent_id":85676111,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018411,
-    "geom:area_square_m":218961896.201154,
+    "geom:area_square_m":218962363.951851,
     "geom:bbox":"120.717007,15.783968,120.915217,15.98475",
     "geom:latitude":15.889607,
     "geom:longitude":120.81692,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PN.UI",
+    "statoids:name":"Umingan",
+    "statoids:population":67534,
+    "statoids:statoid":"PH.PN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676123
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PN.UI"
+    },
     "wof:country":"PH",
     "wof:created":1474497354,
-    "wof:geomhash":"69fdae4ef92d398d3a17ecdbfab6d6c8",
+    "wof:geomhash":"45d12a6d0254aca6867f4d9041caf39f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699819,
-    "wof:lastmodified":1626127536,
+    "wof:lastmodified":1694492574,
     "wof:name":"Umingan",
     "wof:parent_id":85676123,
     "wof:placetype":"county",

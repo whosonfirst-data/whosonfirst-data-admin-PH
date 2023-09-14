@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01985,
-    "geom:area_square_m":235737898.971802,
+    "geom:area_square_m":235737960.197475,
     "geom:bbox":"121.75659,16.074949,121.970353,16.273739",
     "geom:latitude":16.169497,
     "geom:longitude":121.86705,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.AU.DI",
+    "statoids:name":"Dinalungan",
+    "statoids:population":10988,
+    "statoids:statoid":"PH.AU",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676065
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.AU.DI"
+    },
     "wof:country":"PH",
     "wof:created":1474495732,
-    "wof:geomhash":"b80890ca15a617a8485471874e39dfa2",
+    "wof:geomhash":"f68a0de71b34142b33b28110845de762",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108697489,
-    "wof:lastmodified":1628266644,
+    "wof:lastmodified":1694492841,
     "wof:name":"Dinalungan",
     "wof:parent_id":85676065,
     "wof:placetype":"county",

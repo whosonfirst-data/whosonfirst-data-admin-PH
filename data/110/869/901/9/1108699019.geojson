@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014965,
-    "geom:area_square_m":176481141.306347,
+    "geom:area_square_m":176481298.285882,
     "geom:bbox":"121.483397,17.395338,121.668659,17.573151",
     "geom:latitude":17.495292,
     "geom:longitude":121.59175,
@@ -142,16 +142,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.KA.RZ",
+    "statoids:name":"Rizal (Liwan)",
+    "statoids:population":15942,
+    "statoids:statoid":"PH.KA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676269
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.KA.RZ"
+    },
     "wof:country":"PH",
     "wof:created":1474496784,
-    "wof:geomhash":"0be806cd3a2794a6f0dca99b06973bbf",
+    "wof:geomhash":"27b52d9b2e04f6bc84093b3c0359ae5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +171,7 @@
         }
     ],
     "wof:id":1108699019,
-    "wof:lastmodified":1636501015,
+    "wof:lastmodified":1694492932,
     "wof:name":"Rizal",
     "wof:parent_id":85676269,
     "wof:placetype":"county",

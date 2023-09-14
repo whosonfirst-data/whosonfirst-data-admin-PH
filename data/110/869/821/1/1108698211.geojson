@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024059,
-    "geom:area_square_m":283930918.78388,
+    "geom:area_square_m":283930981.674835,
     "geom:bbox":"122.013898,17.306219,122.287086,17.423617",
     "geom:latitude":17.366919,
     "geom:longitude":122.134184,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.IB.MC",
+    "statoids:name":"Maconacon",
+    "statoids:population":3615,
+    "statoids:statoid":"PH.IB",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676073
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.IB.MC"
+    },
     "wof:country":"PH",
     "wof:created":1474496214,
-    "wof:geomhash":"9e9ae7c26a0fd4589b4160016ddd5f23",
+    "wof:geomhash":"c066bf82599ee83f3db9fa2bc79d4da0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108698211,
-    "wof:lastmodified":1626127465,
+    "wof:lastmodified":1694492562,
     "wof:name":"Maconacon",
     "wof:parent_id":85676073,
     "wof:placetype":"county",

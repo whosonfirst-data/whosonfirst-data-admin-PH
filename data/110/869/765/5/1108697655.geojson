@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050577,
-    "geom:area_square_m":622228297.920711,
+    "geom:area_square_m":622228218.130121,
     "geom:bbox":"125.170387,5.566222,125.466936,5.92125",
     "geom:latitude":5.771325,
     "geom:longitude":125.321662,
@@ -79,16 +79,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.SG.GA",
+    "statoids:name":"Glan",
+    "statoids:population":106518,
+    "statoids:statoid":"PH.SG",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676259
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.SG.GA"
+    },
     "wof:country":"PH",
     "wof:created":1474495842,
-    "wof:geomhash":"76cd8f3a5558da57dd0c6f5a422f85c4",
+    "wof:geomhash":"9c3b3f0059a8ca68aa21dda7a6eb46d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +108,7 @@
         }
     ],
     "wof:id":1108697655,
-    "wof:lastmodified":1627522507,
+    "wof:lastmodified":1694492714,
     "wof:name":"Glan",
     "wof:parent_id":85676259,
     "wof:placetype":"county",

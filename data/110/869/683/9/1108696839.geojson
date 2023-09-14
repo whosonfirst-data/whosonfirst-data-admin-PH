@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009539,
-    "geom:area_square_m":116246965.441993,
+    "geom:area_square_m":116247068.070218,
     "geom:bbox":"123.927979,9.702707,124.071987,9.809865",
     "geom:latitude":9.75877,
     "geom:longitude":123.996294,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.BO.BA",
+    "statoids:name":"Balilihan",
+    "statoids:population":17147,
+    "statoids:statoid":"PH.BO",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85675933
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.BO.BA"
+    },
     "wof:country":"PH",
     "wof:created":1474495280,
-    "wof:geomhash":"506b4bf94e56d5594597a439a5ab2292",
+    "wof:geomhash":"d4859f32673e04d66d599ee9863a0fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108696839,
-    "wof:lastmodified":1628266623,
+    "wof:lastmodified":1694492827,
     "wof:name":"Balilihan",
     "wof:parent_id":85675933,
     "wof:placetype":"county",

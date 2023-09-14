@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189838,
-    "geom:area_square_m":2288471438.994486,
+    "geom:area_square_m":2288471438.994008,
     "geom:bbox":"120.760391,12.631529,121.246975,13.160949",
     "geom:latitude":12.862787,
     "geom:longitude":121.03351,
@@ -88,16 +88,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MC.SB",
+    "statoids:name":"Sablayan",
+    "statoids:population":76153,
+    "statoids:statoid":"PH.MC",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676153
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MC.SB"
+    },
     "wof:country":"PH",
     "wof:created":1474496823,
-    "wof:geomhash":"f655f95d26cf5bc53cb83a4b2aea8730",
+    "wof:geomhash":"12d2ed96ed82d30230be8499012ea210",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +117,7 @@
         }
     ],
     "wof:id":1108699061,
-    "wof:lastmodified":1627522510,
+    "wof:lastmodified":1694492715,
     "wof:name":"Sablayan",
     "wof:parent_id":85676153,
     "wof:placetype":"county",

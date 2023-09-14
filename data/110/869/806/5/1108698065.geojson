@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003089,
-    "geom:area_square_m":37769065.762892,
+    "geom:area_square_m":37768844.980619,
     "geom:bbox":"124.311433,8.486177,124.410002,8.572086",
     "geom:latitude":8.532708,
     "geom:longitude":124.367928,
@@ -103,16 +103,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.MN.LB",
+    "statoids:name":"Libertad",
+    "statoids:population":11586,
+    "statoids:statoid":"PH.MN",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676249
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.MN.LB"
+    },
     "wof:country":"PH",
     "wof:created":1474496111,
-    "wof:geomhash":"97f39f03e5d21227a75a31747f561f7a",
+    "wof:geomhash":"31bfb1d29eb921e3d7d467359d4f3875",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +132,7 @@
         }
     ],
     "wof:id":1108698065,
-    "wof:lastmodified":1626127521,
+    "wof:lastmodified":1694492572,
     "wof:name":"Libertad",
     "wof:parent_id":85676249,
     "wof:placetype":"county",

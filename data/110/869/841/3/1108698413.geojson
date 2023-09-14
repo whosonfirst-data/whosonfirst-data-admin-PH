@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008862,
-    "geom:area_square_m":105923066.328314,
+    "geom:area_square_m":105922698.62699,
     "geom:bbox":"120.620412,14.768723,120.723832,14.90767",
     "geom:latitude":14.834503,
     "geom:longitude":120.664902,
@@ -46,16 +46,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.PM.MS",
+    "statoids:name":"Masantol",
+    "statoids:population":52407,
+    "statoids:statoid":"PH.PM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676107
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.PM.MS"
+    },
     "wof:country":"PH",
     "wof:created":1474496351,
-    "wof:geomhash":"3e9d3c1c6a8697a8c1410e18e45e43db",
+    "wof:geomhash":"ff472d58dc2199b0fd8e151e672cb78c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1108698413,
-    "wof:lastmodified":1628266684,
+    "wof:lastmodified":1694492865,
     "wof:name":"Masantol",
     "wof:parent_id":85676107,
     "wof:placetype":"county",

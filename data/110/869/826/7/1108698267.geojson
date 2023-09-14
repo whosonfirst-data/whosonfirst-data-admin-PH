@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002636,
-    "geom:area_square_m":32178453.378101,
+    "geom:area_square_m":32178496.667686,
     "geom:bbox":"124.727041,9.133416,124.797859,9.206401",
     "geom:latitude":9.170366,
     "geom:longitude":124.767014,
@@ -85,16 +85,26 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "statoids:country":"PH",
+    "statoids:date":"2010-05-01",
+    "statoids:hasc":"PH.CM.MH",
+    "statoids:name":"Mahinog",
+    "statoids:population":13531,
+    "statoids:statoid":"PH.CM",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632509,
         85676225
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"PH.CM.MH"
+    },
     "wof:country":"PH",
     "wof:created":1474496250,
-    "wof:geomhash":"cc66573145bee1d66c24b329c34674ee",
+    "wof:geomhash":"8aead84c4cacd26d29da447df4924107",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +114,7 @@
         }
     ],
     "wof:id":1108698267,
-    "wof:lastmodified":1626127467,
+    "wof:lastmodified":1694492563,
     "wof:name":"Mahinog",
     "wof:parent_id":85676225,
     "wof:placetype":"county",
