@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.399697,
-    "geom:area_square_m":4902725095.0428,
+    "geom:area_square_m":4902725347.141727,
     "geom:bbox":"125.938905,6.273722,126.604584,7.999508",
     "geom:latitude":7.24762,
     "geom:longitude":126.299438,
@@ -360,16 +360,18 @@
         "gn:id":1715342,
         "gp:id":2346681,
         "hasc:id":"PH.DO",
+        "iso:code":"PH-DAO",
         "iso:id":"PH-DAO",
         "qs_pg:id":239513,
         "unlc:id":"PH-DAO",
         "wd:id":"Q13806"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7e4bbc32bd71f0baddd6fa947dd3387f",
+    "wof:geomhash":"ae45c9b17ef78506fcbd424b622c4ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -393,7 +395,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851328,
+    "wof:lastmodified":1695884877,
     "wof:name":"Davao Oriental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

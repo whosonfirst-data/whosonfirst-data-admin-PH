@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005673,
-    "geom:area_square_m":67296873.228546,
+    "geom:area_square_m":67296689.772408,
     "geom:bbox":"120.563865,16.353641,120.652621,16.434565",
     "geom:latitude":16.395921,
     "geom:longitude":120.611554,
@@ -469,14 +469,16 @@
         "gn:id":1728929,
         "gp:id":-23424716,
         "hasc:id":"PH.BG",
+        "iso:code":"PH-BEN",
         "iso:id":"PH-BEN",
         "wd:id":"Q1822"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5f853c7f4172a1d8a8a07f04313444e",
+    "wof:geomhash":"c385cadd183308c968b02418f21b2e5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -500,7 +502,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851316,
+    "wof:lastmodified":1695884875,
     "wof:name":"Benguet",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

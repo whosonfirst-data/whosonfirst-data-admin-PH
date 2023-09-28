@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123717,
-    "geom:area_square_m":1485717728.604576,
+    "geom:area_square_m":1485717235.489195,
     "geom:bbox":"124.021225,13.517917,124.420418,14.104584",
     "geom:latitude":13.785053,
     "geom:longitude":124.235151,
@@ -368,16 +368,18 @@
         "gn:id":1717952,
         "gp:id":2346674,
         "hasc:id":"PH.CT",
+        "iso:code":"PH-CAT",
         "iso:id":"PH-CAT",
         "qs_pg:id":1135246,
         "unlc:id":"PH-CAT",
         "wd:id":"Q13778"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3ec94b2552ff1a924074ef3f9b13ffc9",
+    "wof:geomhash":"772507e3acc1069c723864ebfbe8e8bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -401,7 +403,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851343,
+    "wof:lastmodified":1695884878,
     "wof:name":"Catanduanes",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

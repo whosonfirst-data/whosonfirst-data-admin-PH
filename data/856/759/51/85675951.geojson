@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622247,
-    "geom:area_square_m":7570143876.041995,
+    "geom:area_square_m":7570143054.332483,
     "geom:bbox":"122.37542,9.421223,123.565414,11.004528",
     "geom:latitude":10.294553,
     "geom:longitude":122.983087,
@@ -370,6 +370,7 @@
         "gn:id":1697808,
         "gp:id":2346788,
         "hasc:id":"PH.ND",
+        "iso:code":"PH-NEC",
         "iso:id":"PH-NEC",
         "loc:id":"n84223199",
         "qs_pg:id":1171164,
@@ -377,11 +378,12 @@
         "wd:id":"Q13862",
         "wk:page":"Negros Occidental"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"677dbc43d8c1b7dfa4957793ab054f51",
+    "wof:geomhash":"70fa8bcfd2f6e2f1f66f77a6ab63073d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -405,7 +407,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851353,
+    "wof:lastmodified":1695884880,
     "wof:name":"Negros Occidental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

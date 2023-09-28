@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36891,
-    "geom:area_square_m":4477623536.311193,
+    "geom:area_square_m":4477622571.341636,
     "geom:bbox":"121.99686,10.463412,123.277946,11.60125",
     "geom:latitude":11.011714,
     "geom:longitude":122.597554,
@@ -370,16 +370,18 @@
         "gn:id":1711004,
         "gp:id":2346685,
         "hasc:id":"PH.II",
+        "iso:code":"PH-ILI",
         "iso:id":"PH-ILI",
         "qs_pg:id":1029340,
         "wd:id":"Q13825",
         "wk:page":"Iloilo"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc7e57fe6f9ce743162f8859437e2766",
+    "wof:geomhash":"7cde12c103bd7658b0046bc300c39513",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -403,7 +405,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851354,
+    "wof:lastmodified":1695884881,
     "wof:name":"Iloilo",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

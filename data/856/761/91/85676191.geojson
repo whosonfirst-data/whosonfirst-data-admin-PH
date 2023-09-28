@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.347028,
-    "geom:area_square_m":4202399638.209813,
+    "geom:area_square_m":4202399422.713322,
     "geom:bbox":"125.116907,10.686222,125.835419,12.361818",
     "geom:latitude":11.660983,
     "geom:longitude":125.377664,
@@ -373,16 +373,18 @@
         "gn:id":1713986,
         "gp:id":2346678,
         "hasc:id":"PH.ES",
+        "iso:code":"PH-EAS",
         "iso:id":"PH-EAS",
         "qs_pg:id":1159758,
         "wd:id":"Q13809",
         "wk:page":"Eastern Samar"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c7c131dceb4df5a2cadb9e63aef0225",
+    "wof:geomhash":"0c6fb184c24965c27664c5644fdec9be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -406,7 +408,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851348,
+    "wof:lastmodified":1695884879,
     "wof:name":"Eastern Samar",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

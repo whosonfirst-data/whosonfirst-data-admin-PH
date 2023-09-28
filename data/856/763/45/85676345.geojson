@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011061,
-    "geom:area_square_m":132930212.606766,
+    "geom:area_square_m":132929938.562752,
     "geom:bbox":"123.139619,13.568648,123.368306,13.663277",
     "geom:latitude":13.617849,
     "geom:longitude":123.255629,
@@ -378,15 +378,17 @@
         "gn:id":1698822,
         "gp:id":-23424720,
         "hasc:id":"PH.CS",
+        "iso:code":"PH-CAS",
         "iso:id":"PH-CAS",
         "wd:id":"Q239237"
     },
     "wof:concordances:hasc:id":"",
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84ad0c1ce57ba8a944e386530bfb5edc",
+    "wof:geomhash":"5933e40ea8c8c56ae840c75de34e5b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -410,7 +412,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851318,
+    "wof:lastmodified":1695884876,
     "wof:name":"Naga",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

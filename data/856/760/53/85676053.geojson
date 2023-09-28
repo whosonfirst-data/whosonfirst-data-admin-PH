@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.335338,
-    "geom:area_square_m":3941618905.141433,
+    "geom:area_square_m":3941617862.196897,
     "geom:bbox":"120.904071,17.628744,121.484918,18.536389",
     "geom:latitude":18.085815,
     "geom:longitude":121.193242,
@@ -347,17 +347,19 @@
         "gn:id":7115731,
         "gp:id":28350146,
         "hasc:id":"PH.AP",
+        "iso:code":"PH-APA",
         "iso:id":"PH-APA",
         "qs_pg:id":32284,
         "unlc:id":"PH-APA",
         "wd:id":"Q13728",
         "wk:page":"Apayao"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c65fd536df50d6faa39456e0b8dbf601",
+    "wof:geomhash":"ad6615fea26a373ef45914f18bd483fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -381,7 +383,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851341,
+    "wof:lastmodified":1695884878,
     "wof:name":"Apayao",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

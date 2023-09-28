@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189163,
-    "geom:area_square_m":2316470635.683214,
+    "geom:area_square_m":2316470580.849765,
     "geom:bbox":"123.59412,7.693695,124.305872,8.216747",
     "geom:latitude":7.963935,
     "geom:longitude":123.948846,
@@ -345,17 +345,19 @@
         "gn:id":1707668,
         "gp:id":2346689,
         "hasc:id":"PH.LN",
+        "iso:code":"PH-LAN",
         "iso:id":"PH-LAN",
         "qs_pg:id":223172,
         "unlc:id":"PH-LAN",
         "wd:id":"Q13841",
         "wk:page":"Lanao del Norte"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f1cb866f5d71e5519664167f84d6ea86",
+    "wof:geomhash":"c4a2aadd990dbdfb7ef0af2a49d5cbc1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -379,7 +381,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851349,
+    "wof:lastmodified":1695884879,
     "wof:name":"Lanao del Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

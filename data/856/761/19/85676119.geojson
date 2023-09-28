@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124805,
-    "geom:area_square_m":1479067676.90373,
+    "geom:area_square_m":1479067898.590815,
     "geom:bbox":"120.276276,16.196727,120.588715,16.923851",
     "geom:latitude":16.579844,
     "geom:longitude":120.426598,
@@ -351,16 +351,18 @@
         "gn:id":1707052,
         "gp:id":2346691,
         "hasc:id":"PH.LU",
+        "iso:code":"PH-LUN",
         "iso:id":"PH-LUN",
         "qs_pg:id":215763,
         "unlc:id":"PH-LUN",
         "wd:id":"Q13829"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4747e76ca57ef67287f6fd19aa550d65",
+    "wof:geomhash":"94e7361449d0fcfb91a1eadefbea8d24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -384,7 +386,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851347,
+    "wof:lastmodified":1695884879,
     "wof:name":"La Union",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

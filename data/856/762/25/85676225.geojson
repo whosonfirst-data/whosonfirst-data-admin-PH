@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020521,
-    "geom:area_square_m":250495379.521701,
+    "geom:area_square_m":250495339.169619,
     "geom:bbox":"124.632057,9.077888,124.806252,9.259583",
     "geom:latitude":9.17263,
     "geom:longitude":124.717081,
@@ -368,17 +368,19 @@
         "gn:id":1719694,
         "gp:id":2346672,
         "hasc:id":"PH.CM",
+        "iso:code":"PH-CAM",
         "iso:id":"PH-CAM",
         "qs_pg:id":1315413,
         "unlc:id":"PH-CAM",
         "wd:id":"Q13769",
         "wk:page":"Camiguin"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4db131fc31e27e56f35c5cc42a751ff0",
+    "wof:geomhash":"61384011948fd69f878ba4152bb6f64f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -402,7 +404,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851330,
+    "wof:lastmodified":1695884877,
     "wof:name":"Camiguin",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

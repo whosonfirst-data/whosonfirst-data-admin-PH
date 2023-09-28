@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009141,
-    "geom:area_square_m":108630461.742177,
+    "geom:area_square_m":108630101.797198,
     "geom:bbox":"120.261356,15.982704,120.402284,16.103854",
     "geom:latitude":16.039715,
     "geom:longitude":120.335983,
@@ -417,15 +417,17 @@
         "gn:id":1716190,
         "gp:id":-23424724,
         "hasc:id":"PH.PN",
+        "iso:code":"PH-PAN",
         "iso:id":"PH-PAN",
         "wd:id":"Q875070"
     },
     "wof:concordances:hasc:id":"",
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c69e18ea73d9adff0edcf7f7a77a1bcf",
+    "wof:geomhash":"903e2304f980bae33ce2e509355266c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -449,7 +451,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851319,
+    "wof:lastmodified":1695884876,
     "wof:name":"Dagupan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

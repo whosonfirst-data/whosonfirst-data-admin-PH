@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.41345,
-    "geom:area_square_m":5040664726.690062,
+    "geom:area_square_m":5040665236.226426,
     "geom:bbox":"122.614983,9.039583,123.333962,10.420465",
     "geom:latitude":9.602723,
     "geom:longitude":123.036784,
@@ -365,6 +365,7 @@
         "gn:id":1697806,
         "gp:id":2346700,
         "hasc:id":"PH.NR",
+        "iso:code":"PH-NER",
         "iso:id":"PH-NER",
         "loc:id":"n85332365",
         "qs_pg:id":371586,
@@ -372,11 +373,12 @@
         "wd:id":"Q13863",
         "wk:page":"Negros Oriental"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b30dda8b1f2145a1624b5403abdc2b6",
+    "wof:geomhash":"7ba722ce33714b057abe2608e6890ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -400,7 +402,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851356,
+    "wof:lastmodified":1695884880,
     "wof:name":"Negros Oriental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

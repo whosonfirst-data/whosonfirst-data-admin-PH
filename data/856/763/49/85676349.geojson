@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027883,
-    "geom:area_square_m":330177028.28908,
+    "geom:area_square_m":330177040.362518,
     "geom:bbox":"121.348118,16.614149,121.608053,16.833149",
     "geom:latitude":16.73145,
     "geom:longitude":121.492302,
@@ -675,15 +675,17 @@
         "gn:id":-99,
         "gp:id":-23424715,
         "hasc:id":"PH.IB",
+        "iso:code":"PH-ISA",
         "iso:id":"PH-ISA",
         "wd:id":"Q2887"
     },
     "wof:concordances:hasc:id":"",
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c1905fca72c0fd7fb87efb9f161b51c",
+    "wof:geomhash":"5d3d6777952dd3fab5f540f621e233cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -707,7 +709,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851320,
+    "wof:lastmodified":1695885133,
     "wof:name":"Santiago",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049525,
-    "geom:area_square_m":601995954.387081,
+    "geom:area_square_m":601996264.51457,
     "geom:bbox":"122.471191,10.40375,122.725418,10.753722",
     "geom:latitude":10.570586,
     "geom:longitude":122.61135,
@@ -363,16 +363,18 @@
         "gn:id":7602867,
         "gp:id":28350150,
         "hasc:id":"PH.GU",
+        "iso:code":"PH-GUI",
         "iso:id":"PH-GUI",
         "qs_pg:id":216060,
         "unlc:id":"PH-GUI",
         "wd:id":"Q13810"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9c01ddd4fda05ae00af730affe99efa",
+    "wof:geomhash":"7a0c617059d47b3138188b0be343366a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -396,7 +398,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851357,
+    "wof:lastmodified":1695884881,
     "wof:name":"Guimaras",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205434,
-    "geom:area_square_m":2472961739.603803,
+    "geom:area_square_m":2472962073.571431,
     "geom:bbox":"123.279556,12.988221,124.217918,13.532173",
     "geom:latitude":13.214634,
     "geom:longitude":123.616355,
@@ -353,16 +353,18 @@
         "gn:id":1731616,
         "gp:id":2346660,
         "hasc:id":"PH.AL",
+        "iso:code":"PH-ALB",
         "iso:id":"PH-ALB",
         "qs_pg:id":1135237,
         "unlc:id":"PH-ALB",
         "wd:id":"Q13726"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1820a08a0701a770768b3cbdb448efd7",
+    "wof:geomhash":"dc7e1b7547bca5fcd6967235da73f8fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -386,7 +388,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851337,
+    "wof:lastmodified":1695884877,
     "wof:name":"Albay",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

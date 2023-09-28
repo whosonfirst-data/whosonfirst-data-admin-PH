@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019988,
-    "geom:area_square_m":245491364.003737,
+    "geom:area_square_m":245491364.003672,
     "geom:bbox":"121.919811,6.579204,122.099023,6.759583",
     "geom:latitude":6.66092,
     "geom:longitude":122.00548,
@@ -453,12 +453,14 @@
         "gn:id":1710519,
         "gp:id":1199250,
         "hasc:id":"PH.BS",
+        "iso:code":"PH-BAS",
         "iso:id":"PH-BAS",
         "qs_pg:id":7196,
         "wd:id":"Q1710",
         "wk:page":"Isabela, Basilan"
     },
     "wof:concordances:hasc:id":"",
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108697781
     ],
@@ -466,7 +468,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f28faf14948a8cf56ae842481daad50",
+    "wof:geomhash":"960ef9022c8f9973fe291c4269fce79f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -490,7 +492,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851329,
+    "wof:lastmodified":1695884877,
     "wof:name":"Isabela",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

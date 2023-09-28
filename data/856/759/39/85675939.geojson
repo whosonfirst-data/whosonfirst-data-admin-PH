@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384841,
-    "geom:area_square_m":4680959298.968341,
+    "geom:area_square_m":4680957960.423414,
     "geom:bbox":"123.295441,9.414528,124.567917,11.354584",
     "geom:latitude":10.356921,
     "geom:longitude":123.744895,
@@ -421,16 +421,18 @@
         "gn:id":1717511,
         "gp:id":2346676,
         "hasc:id":"PH.CB",
+        "iso:code":"PH-CEB",
         "iso:id":"PH-CEB",
         "qs_pg:id":903646,
         "unlc:id":"PH-CEB",
         "wd:id":"Q13786"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5dcc76ed560505a77fe85c8bb501fd55",
+    "wof:geomhash":"9e4ee23cc60f50859763a0d06003089d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -454,7 +456,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851357,
+    "wof:lastmodified":1695884881,
     "wof:name":"Cebu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

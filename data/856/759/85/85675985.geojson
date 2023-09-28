@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.219893,
-    "geom:area_square_m":2668044398.400099,
+    "geom:area_square_m":2668044836.883346,
     "geom:bbox":"121.341225,10.414611,122.332881,12.122084",
     "geom:latitude":11.106025,
     "geom:longitude":122.073988,
@@ -346,17 +346,19 @@
         "gn:id":1730491,
         "gp:id":2346661,
         "hasc:id":"PH.AQ",
+        "iso:code":"PH-ANT",
         "iso:id":"PH-ANT",
         "qs_pg:id":318761,
         "unlc:id":"PH-ANT",
         "wd:id":"Q13727",
         "wk:page":"Antique (province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"436bc5ab5d0b39be8b67ab9c87a005b4",
+    "wof:geomhash":"75213ce8fb9e1b1c9ece92b4d94d5ef3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -380,7 +382,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851359,
+    "wof:lastmodified":1695884881,
     "wof:name":"Antique",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

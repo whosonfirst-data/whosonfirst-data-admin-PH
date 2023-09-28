@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026748,
-    "geom:area_square_m":326504153.792924,
+    "geom:area_square_m":326504251.299536,
     "geom:bbox":"123.451279,9.097917,123.701225,9.305388",
     "geom:latitude":9.188353,
     "geom:longitude":123.587429,
@@ -375,17 +375,19 @@
         "gn:id":1686065,
         "gp:id":2346722,
         "hasc:id":"PH.SQ",
+        "iso:code":"PH-SIG",
         "iso:id":"PH-SIG",
         "qs_pg:id":191390,
         "unlc:id":"PH-SIG",
         "wd:id":"Q13879",
         "wk:page":"Siquijor"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6897b5e971fa99b58bd75211b84424de",
+    "wof:geomhash":"ca9dd194981b339a73f1639e035e878c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -409,7 +411,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851359,
+    "wof:lastmodified":1695884881,
     "wof:name":"Siquijor",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

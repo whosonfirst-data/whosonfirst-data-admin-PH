@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048042,
-    "geom:area_square_m":586876181.775985,
+    "geom:area_square_m":586877539.737269,
     "geom:bbox":"125.440699,8.79702,125.724969,9.015996",
     "geom:latitude":8.915482,
     "geom:longitude":125.579994,
@@ -438,15 +438,17 @@
         "gn:id":1722183,
         "gp:id":-23424726,
         "hasc:id":"PH.AN",
+        "iso:code":"PH-AGN",
         "iso:id":"PH-AGN",
         "wd:id":"Q1686"
     },
     "wof:concordances:hasc:id":"",
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11306c3ea56d5948def70fa79640bb87",
+    "wof:geomhash":"94b1fcb1b7992922eda9f5ffc5e4372b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -470,7 +472,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851318,
+    "wof:lastmodified":1695884875,
     "wof:name":"Butuan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

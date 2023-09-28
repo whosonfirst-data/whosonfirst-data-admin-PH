@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.76299,
-    "geom:area_square_m":8967472734.452421,
+    "geom:area_square_m":8967473008.637119,
     "geom:bbox":"120.959081,17.506264,122.335419,19.575417",
     "geom:latitude":18.099567,
     "geom:longitude":121.757194,
@@ -358,16 +358,18 @@
         "gn:id":1721086,
         "gp:id":2346669,
         "hasc:id":"PH.CG",
+        "iso:code":"PH-CAG",
         "iso:id":"PH-CAG",
         "qs_pg:id":423990,
         "wd:id":"Q13759",
         "wk:page":"Cagayan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"768de9b895637e1d3a457395692272f6",
+    "wof:geomhash":"9d6c7cfed747b4017eed968f62e334f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -391,7 +393,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851343,
+    "wof:lastmodified":1695884878,
     "wof:name":"Cagayan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

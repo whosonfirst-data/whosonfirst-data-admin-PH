@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.667494,
-    "geom:area_square_m":8165121300.373207,
+    "geom:area_square_m":8165120935.413939,
     "geom:bbox":"125.243958,7.925839,126.371508,9.175012",
     "geom:latitude":8.397019,
     "geom:longitude":125.749968,
@@ -351,17 +351,19 @@
         "gn:id":1731818,
         "gp:id":2346658,
         "hasc:id":"PH.AS",
+        "iso:code":"PH-AGS",
         "iso:id":"PH-AGS",
         "qs_pg:id":9207,
         "unlc:id":"PH-AGS",
         "wd:id":"Q13721",
         "wk:page":"Agusan del Sur"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f30fd1b8300815d86a25ff4795010e0",
+    "wof:geomhash":"47fa02b63622bd00d764a1a924dbbafc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -385,7 +387,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851323,
+    "wof:lastmodified":1695884876,
     "wof:name":"Agusan del Sur",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

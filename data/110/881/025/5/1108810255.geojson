@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0599,
-    "geom:area_square_m":736925899.286598,
+    "geom:area_square_m":736925888.083933,
     "geom:bbox":"125.324677,5.366194,125.689583,5.994114",
     "geom:latitude":5.763728,
     "geom:longitude":125.494952,
@@ -184,12 +184,14 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"PH.DC",
+        "iso:code":"PH-DVO",
         "iso:id":"PH-DVO",
         "wd:id":"Q3656379"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:created":1486761976,
-    "wof:geomhash":"52bd828a51c4eb681ddcf50c276e4c50",
+    "wof:geomhash":"09957daca25cb0bb1b20100c4c0de671",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -213,7 +215,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851368,
+    "wof:lastmodified":1695884329,
     "wof:name":"Davao Occidental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

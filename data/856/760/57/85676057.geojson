@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294232,
-    "geom:area_square_m":3456309923.592423,
+    "geom:area_square_m":3456310359.752528,
     "geom:bbox":"120.428696,17.696402,120.981124,18.652916",
     "geom:latitude":18.194208,
     "geom:longitude":120.728009,
@@ -375,16 +375,18 @@
         "gn:id":1711034,
         "gp:id":2346683,
         "hasc:id":"PH.IN",
+        "iso:code":"PH-ILN",
         "iso:id":"PH-ILN",
         "qs_pg:id":900729,
         "unlc:id":"PH-ILN",
         "wd:id":"Q13813"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"60ce639757b0560080ea2a38832ed87b",
+    "wof:geomhash":"fa191a0542b1ca628be47af96e0bf117",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -408,7 +410,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851335,
+    "wof:lastmodified":1695884877,
     "wof:name":"Ilocos Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

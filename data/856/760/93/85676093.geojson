@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107853,
-    "geom:area_square_m":1290193479.870155,
+    "geom:area_square_m":1290193370.393054,
     "geom:bbox":"120.238747,14.408722,120.61042,14.922721",
     "geom:latitude":14.662616,
     "geom:longitude":120.44692,
@@ -352,17 +352,19 @@
         "gn:id":1726347,
         "gp:id":2346662,
         "hasc:id":"PH.BA",
+        "iso:code":"PH-BAN",
         "iso:id":"PH-BAN",
         "qs_pg:id":423989,
         "unlc:id":"PH-BAN",
         "wd:id":"Q13739",
         "wk:page":"Bataan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4bdf790dff8dc406818b0c31e517bd19",
+    "wof:geomhash":"636311225471b38d6e2b1bbb480c0ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -386,7 +388,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851336,
+    "wof:lastmodified":1695884878,
     "wof:name":"Bataan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172086,
-    "geom:area_square_m":2033860543.431418,
+    "geom:area_square_m":2033860690.526757,
     "geom:bbox":"120.76587,16.831645,121.589147,17.297125",
     "geom:latitude":17.095062,
     "geom:longitude":121.136794,
@@ -380,17 +380,19 @@
         "gn:id":1699175,
         "gp:id":2346699,
         "hasc:id":"PH.MT",
+        "iso:code":"PH-MOU",
         "iso:id":"PH-MOU",
         "qs_pg:id":1135253,
         "unlc:id":"PH-MOU",
         "wd:id":"Q13861",
         "wk:page":"Mountain Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bafb24ea827ad6cdcc0fa3cbfc0a53e0",
+    "wof:geomhash":"42463523f6eed9d85ea769435b69363d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -414,7 +416,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851342,
+    "wof:lastmodified":1695884878,
     "wof:name":"Mountain Province",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.227512,
-    "geom:area_square_m":2692401590.42404,
+    "geom:area_square_m":2692401174.997879,
     "geom:bbox":"120.848544,16.591686,121.59178,17.101693",
     "geom:latitude":16.852649,
     "geom:longitude":121.210874,
@@ -356,17 +356,19 @@
         "gn:id":1711331,
         "gp:id":2346682,
         "hasc:id":"PH.IF",
+        "iso:code":"PH-IFU",
         "iso:id":"PH-IFU",
         "qs_pg:id":1029339,
         "unlc:id":"PH-IFU",
         "wd:id":"Q13812",
         "wk:page":"Ifugao"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ec8906182d711e2280ce7b70731d2c5",
+    "wof:geomhash":"cd72d167333db2f9c7d16cc79772bf9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -390,7 +392,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851342,
+    "wof:lastmodified":1695884878,
     "wof:name":"Ifugao",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

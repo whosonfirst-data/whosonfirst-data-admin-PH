@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376403,
-    "geom:area_square_m":4613630139.637531,
+    "geom:area_square_m":4613630842.928669,
     "geom:bbox":"125.672322,7.082116,126.324161,8.001232",
     "geom:latitude":7.575784,
     "geom:longitude":126.02619,
@@ -319,16 +319,18 @@
         "gn:id":1717055,
         "gp:id":28350148,
         "hasc:id":"PH.CL",
+        "iso:code":"PH-COM",
         "iso:id":"PH-COM",
         "qs_pg:id":1063321,
         "unlc:id":"PH-COM",
         "wd:id":"Q13789"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2ba67bf7b9cb86a2316b33a61cf73091",
+    "wof:geomhash":"726c0a555ff7a6c9ec39e32d0d02e590",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -352,7 +354,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851322,
+    "wof:lastmodified":1695884876,
     "wof:name":"Compostela Valley",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

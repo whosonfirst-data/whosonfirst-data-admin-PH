@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.333427,
-    "geom:area_square_m":4028245873.756599,
+    "geom:area_square_m":4028245633.088673,
     "geom:bbox":"122.925415,11.72125,124.073753,13.162084",
     "geom:latitude":12.296943,
     "geom:longitude":123.551387,
@@ -359,16 +359,18 @@
         "gn:id":1700711,
         "gp:id":2346694,
         "hasc:id":"PH.MB",
+        "iso:code":"PH-MAS",
         "iso:id":"PH-MAS",
         "qs_pg:id":1135250,
         "unlc:id":"PH-MAS",
         "wd:id":"Q13847"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7ff00f974fb85bd7e715048cce2cd74",
+    "wof:geomhash":"6be9abce12df2bab8770b9494290bd39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -392,7 +394,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851337,
+    "wof:lastmodified":1695884363,
     "wof:name":"Masbate",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

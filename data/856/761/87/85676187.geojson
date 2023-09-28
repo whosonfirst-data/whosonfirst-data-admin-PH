@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044671,
-    "geom:area_square_m":541088088.487649,
+    "geom:area_square_m":541088204.979509,
     "geom:bbox":"124.29039,11.462055,124.617943,11.819583",
     "geom:latitude":11.598942,
     "geom:longitude":124.472735,
@@ -365,16 +365,18 @@
         "gn:id":1725260,
         "gp:id":28350147,
         "hasc:id":"PH.BI",
+        "iso:code":"PH-BIL",
         "iso:id":"PH-BIL",
         "qs_pg:id":981431,
         "unlc:id":"PH-BIL",
         "wd:id":"Q13751"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fad736edd7055498c58c6c9d8d5b58b",
+    "wof:geomhash":"e972586baabcbf67e49b5418811677e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -398,7 +400,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851347,
+    "wof:lastmodified":1695884879,
     "wof:name":"Biliran",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

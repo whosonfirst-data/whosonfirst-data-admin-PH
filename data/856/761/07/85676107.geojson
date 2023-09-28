@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.167406,
-    "geom:area_square_m":1999020564.559147,
+    "geom:area_square_m":1999020358.738811,
     "geom:bbox":"120.361749,14.768723,120.910943,15.272197",
     "geom:latitude":15.048403,
     "geom:longitude":120.634811,
@@ -362,17 +362,19 @@
         "gn:id":1695848,
         "gp:id":2346704,
         "hasc:id":"PH.PM",
+        "iso:code":"PH-PAM",
         "iso:id":"PH-PAM",
         "qs_pg:id":1075588,
         "unlc:id":"PH-PAM",
         "wd:id":"Q13870",
         "wk:page":"Pampanga"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f432a7c6444fb5cb26f7bfd1edafc040",
+    "wof:geomhash":"3382743ce18e5cdc1e5ec9a20e4eeb2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -396,7 +398,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851347,
+    "wof:lastmodified":1695884879,
     "wof:name":"Pampanga",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

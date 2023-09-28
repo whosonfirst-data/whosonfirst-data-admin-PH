@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.248675,
-    "geom:area_square_m":2956903727.76421,
+    "geom:area_square_m":2956904147.634272,
     "geom:bbox":"121.266925,15.123157,122.244252,16.521522",
     "geom:latitude":15.92144,
     "geom:longitude":121.692655,
@@ -358,17 +358,19 @@
         "gn:id":1729926,
         "gp:id":2346786,
         "hasc:id":"PH.AU",
+        "iso:code":"PH-AUR",
         "iso:id":"PH-AUR",
         "qs_pg:id":427302,
         "unlc:id":"PH-AUR",
         "wd:id":"Q13730",
         "wk:page":"Aurora (province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"759246d0c103efa53e49a8d8cdd83026",
+    "wof:geomhash":"7dbf8ee9436c68b8f4ade1e4318ba9e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -392,7 +394,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851340,
+    "wof:lastmodified":1695884878,
     "wof:name":"Aurora",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
