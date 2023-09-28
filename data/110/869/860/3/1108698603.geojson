@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001117,
-    "geom:area_square_m":13409489.009207,
+    "geom:area_square_m":13409533.434875,
     "geom:bbox":"124.306252,13.942889,124.354553,13.987861",
     "geom:latitude":13.961604,
     "geom:longitude":124.328958,
@@ -52,10 +52,13 @@
         85676025
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474496490,
-    "wof:geomhash":"a10a821c2a27c6684bae974f7b11150f",
+    "wof:geomhash":"831fe6266091a8f3f43ce8e0ed6b287c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108698603,
-    "wof:lastmodified":1628266622,
+    "wof:lastmodified":1695886252,
     "wof:name":"Bagamanoc",
     "wof:parent_id":85676025,
     "wof:placetype":"county",

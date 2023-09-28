@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003448,
-    "geom:area_square_m":42242899.769884,
+    "geom:area_square_m":42243218.36158,
     "geom:bbox":"124.01152,7.762742,124.101464,7.832108",
     "geom:latitude":7.794976,
     "geom:longitude":124.060664,
@@ -52,10 +52,13 @@
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474496739,
-    "wof:geomhash":"ba818a67821a8461502de25943a8f631",
+    "wof:geomhash":"962d0b3df42c1748ac71ced82864dbb2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108698969,
-    "wof:lastmodified":1628266705,
+    "wof:lastmodified":1695886387,
     "wof:name":"Pualas",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

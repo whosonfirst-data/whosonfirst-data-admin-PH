@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052766,
-    "geom:area_square_m":647162714.138388,
+    "geom:area_square_m":647163011.750049,
     "geom:bbox":"121.904294,7.144528,122.224803,7.494577",
     "geom:latitude":7.304042,
     "geom:longitude":122.082654,
@@ -52,10 +52,13 @@
         85675961
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474496535,
-    "wof:geomhash":"318aa34b9eb28a5a8dc1d44c422b5410",
+    "wof:geomhash":"235f7a1020f287928bf650c6b5eeb9f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108698671,
-    "wof:lastmodified":1628266715,
+    "wof:lastmodified":1695886398,
     "wof:name":"Sibuco",
     "wof:parent_id":85675961,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022047,
-    "geom:area_square_m":264524242.406801,
+    "geom:area_square_m":264524194.046653,
     "geom:bbox":"120.935801,13.876087,121.094056,14.092471",
     "geom:latitude":13.996893,
     "geom:longitude":121.010818,
@@ -70,10 +70,13 @@
         85676131
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474496476,
-    "wof:geomhash":"4f4a07cf5320cace3b1b81b24449431a",
+    "wof:geomhash":"3e11050cd464ce50967c1ef16068143a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1108698589,
-    "wof:lastmodified":1626127476,
+    "wof:lastmodified":1695886676,
     "wof:name":"Agoncillo",
     "wof:parent_id":85676131,
     "wof:placetype":"county",
