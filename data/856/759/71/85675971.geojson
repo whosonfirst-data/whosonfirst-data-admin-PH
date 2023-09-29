@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156709,
-    "geom:area_square_m":1917297830.93762,
+    "geom:area_square_m":1917297812.008339,
     "geom:bbox":"123.546431,8.017507,123.867943,8.672889",
     "geom:latitude":8.328245,
     "geom:longitude":123.687327,
@@ -359,17 +359,19 @@
         "gn:id":1699493,
         "gp:id":2346697,
         "hasc:id":"PH.MD",
+        "iso:code":"PH-MSC",
         "iso:id":"PH-MSC",
         "qs_pg:id":371616,
         "unlc:id":"PH-MSC",
         "wd:id":"Q13857",
         "wk:page":"Misamis Occidental"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7a19ed5b60dd0db769284197559a00ae",
+    "wof:geomhash":"89698bdddb941dcf93db42e6ae5df83c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -393,7 +395,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851359,
+    "wof:lastmodified":1695884881,
     "wof:name":"Misamis Occidental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

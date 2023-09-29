@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009104,
-    "geom:area_square_m":109257788.419739,
+    "geom:area_square_m":109257032.7243,
     "geom:bbox":"121.498413,13.872861,121.638671,13.996386",
     "geom:latitude":13.934808,
     "geom:longitude":121.567298,
@@ -372,15 +372,17 @@
         "gn:id":-99,
         "gp:id":-23424717,
         "hasc:id":"PH.QZ",
+        "iso:code":"PH-QUE",
         "iso:id":"PH-QUE",
         "wd:id":"Q294873"
     },
     "wof:concordances:hasc:id":"",
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d1470dafdb4566c1fc9e133e193ec89",
+    "wof:geomhash":"cc0388dda612393f9d18217ad39067bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -404,7 +406,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636500852,
+    "wof:lastmodified":1695884876,
     "wof:name":"Lucena",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

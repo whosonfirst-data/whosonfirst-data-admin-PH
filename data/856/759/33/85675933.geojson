@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.324009,
-    "geom:area_square_m":3947321059.759819,
+    "geom:area_square_m":3947320641.310699,
     "geom:bbox":"123.716225,9.547055,124.617889,10.209583",
     "geom:latitude":9.853722,
     "geom:longitude":124.197865,
@@ -399,6 +399,7 @@
         "gn:id":1724395,
         "gp:id":2346666,
         "hasc:id":"PH.BO",
+        "iso:code":"PH-BOH",
         "iso:id":"PH-BOH",
         "loc:id":"n82211832",
         "qs_pg:id":891525,
@@ -406,11 +407,12 @@
         "wd:id":"Q13752",
         "wk:page":"Bohol"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2d13d77bd3435c7fdff4558476d66ea4",
+    "wof:geomhash":"787006f974f605c516b714c0cbabfdf1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -434,7 +436,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851355,
+    "wof:lastmodified":1695884880,
     "wof:name":"Bohol",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

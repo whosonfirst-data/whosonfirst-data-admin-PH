@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.992956,
-    "geom:area_square_m":12090048295.109064,
+    "geom:area_square_m":12090048862.070242,
     "geom:bbox":"116.927086,7.803833,121.077919,12.332916",
     "geom:latitude":9.973467,
     "geom:longitude":118.715808,
@@ -400,16 +400,18 @@
         "gn:id":1696177,
         "gp:id":2346703,
         "hasc:id":"PH.PL",
+        "iso:code":"PH-PLW",
         "iso:id":"PH-PLW",
         "qs_pg:id":1135248,
         "unlc:id":"PH-PLW",
         "wd:id":"Q13869"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90e165ae2b2072425bb7b078a7cade5c",
+    "wof:geomhash":"785a344734cef58bedf789835efe0e6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -433,7 +435,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851335,
+    "wof:lastmodified":1695884877,
     "wof:name":"Palawan",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

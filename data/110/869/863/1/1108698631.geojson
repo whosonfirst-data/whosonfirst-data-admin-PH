@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029747,
-    "geom:area_square_m":364358109.871436,
+    "geom:area_square_m":364358515.85348,
     "geom:bbox":"124.107444,7.775336,124.370023,8.008873",
     "geom:latitude":7.878623,
     "geom:longitude":124.252078,
@@ -53,10 +53,13 @@
         85676169
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474496509,
-    "wof:geomhash":"61496b575e7a91d541596843f45c3535",
+    "wof:geomhash":"97a05fa0e2424dcd542976fc31a6df36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108698631,
-    "wof:lastmodified":1627522508,
+    "wof:lastmodified":1695886152,
     "wof:name":"Lanao Lake",
     "wof:parent_id":85676169,
     "wof:placetype":"county",

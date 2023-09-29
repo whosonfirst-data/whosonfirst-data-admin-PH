@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.742375,
-    "geom:area_square_m":9089423893.457043,
+    "geom:area_square_m":9089423621.486607,
     "geom:bbox":"124.565882,7.405886,125.454272,8.601384",
     "geom:latitude":8.033108,
     "geom:longitude":125.012933,
@@ -348,17 +348,19 @@
         "gn:id":1723105,
         "gp:id":2346667,
         "hasc:id":"PH.BK",
+        "iso:code":"PH-BUK",
         "iso:id":"PH-BUK",
         "qs_pg:id":891526,
         "unlc:id":"PH-BUK",
         "wd:id":"Q13753",
         "wk:page":"Bukidnon"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0daa9ac17c3bfb86c24bbfdc2ee287f6",
+    "wof:geomhash":"a79d6e8a4f2f600d24653ecb09af640b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -382,7 +384,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851324,
+    "wof:lastmodified":1695884876,
     "wof:name":"Bukidnon",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

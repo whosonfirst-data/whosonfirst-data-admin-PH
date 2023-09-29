@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223213,
-    "geom:area_square_m":2674779034.844353,
+    "geom:area_square_m":2674779298.482217,
     "geom:bbox":"121.005422,13.972504,121.598821,14.571232",
     "geom:latitude":14.280003,
     "geom:longitude":121.313689,
@@ -363,17 +363,19 @@
         "gn:id":1708026,
         "gp:id":2346688,
         "hasc:id":"PH.LG",
+        "iso:code":"PH-LAG",
         "iso:id":"PH-LAG",
         "qs_pg:id":371760,
         "unlc:id":"PH-LAG",
         "wd:id":"Q13840",
         "wk:page":"Laguna (province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c86b8bdb090fac6ee3052ba3beac8f80",
+    "wof:geomhash":"b2c93f6e37086c48301a6e038021109b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -397,7 +399,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851351,
+    "wof:lastmodified":1695884880,
     "wof:name":"Laguna",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

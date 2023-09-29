@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.490478,
-    "geom:area_square_m":5909949590.122349,
+    "geom:area_square_m":5909948742.113485,
     "geom:bbox":"120.015419,12.155361,121.246975,13.90125",
     "geom:latitude":12.971868,
     "geom:longitude":120.887437,
@@ -361,17 +361,19 @@
         "gn:id":1699586,
         "gp:id":2346695,
         "hasc:id":"PH.MC",
+        "iso:code":"PH-MDC",
         "iso:id":"PH-MDC",
         "qs_pg:id":1171111,
         "unlc:id":"PH-MDC",
         "wd:id":"Q13867",
         "wk:page":"Occidental Mindoro"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dbc2592475a8b33c34dbe4a4fe7f3aec",
+    "wof:geomhash":"ef1e64ec1e02b1c01e909be806e224ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +397,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851349,
+    "wof:lastmodified":1695884879,
     "wof:name":"Mindoro Occidental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

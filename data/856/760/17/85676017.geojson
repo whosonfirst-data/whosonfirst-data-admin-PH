@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.175878,
-    "geom:area_square_m":2108824374.608323,
+    "geom:area_square_m":2108824502.572066,
     "geom:bbox":"122.299929,13.821918,123.09539,14.497027",
     "geom:latitude":14.144375,
     "geom:longitude":122.728027,
@@ -365,16 +365,18 @@
         "gn:id":1719846,
         "gp:id":2346670,
         "hasc:id":"PH.CN",
+        "iso:code":"PH-CAN",
         "iso:id":"PH-CAN",
         "qs_pg:id":1135244,
         "unlc:id":"PH-CAN",
         "wd:id":"Q13763"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8442cd1e7a17e82be8514d52df1faf3",
+    "wof:geomhash":"ddd8ed2359c17db95f42bee9a69e3e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -398,7 +400,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851338,
+    "wof:lastmodified":1695884878,
     "wof:name":"Camarines Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

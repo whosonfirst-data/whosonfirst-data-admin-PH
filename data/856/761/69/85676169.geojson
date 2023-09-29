@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323922,
-    "geom:area_square_m":3968042501.483124,
+    "geom:area_square_m":3968042560.670961,
     "geom:bbox":"123.856884,7.430417,124.812075,8.242241",
     "geom:latitude":7.825253,
     "geom:longitude":124.345722,
@@ -360,17 +360,19 @@
         "gn:id":1707667,
         "gp:id":2346690,
         "hasc:id":"PH.LS",
+        "iso:code":"PH-LAS",
         "iso:id":"PH-LAS",
         "qs_pg:id":1013615,
         "unlc:id":"PH-LAS",
         "wd:id":"Q13843",
         "wk:page":"Lanao del Sur"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"494e35b77cfee43e86529df3da873dd2",
+    "wof:geomhash":"bad15ec1b0a4bbd76d337bc031b7b90e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -394,7 +396,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851345,
+    "wof:lastmodified":1695884879,
     "wof:name":"Lanao del Sur",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

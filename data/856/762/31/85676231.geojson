@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251956,
-    "geom:area_square_m":3088230045.84149,
+    "geom:area_square_m":3088229971.120028,
     "geom:bbox":"125.305271,6.894583,125.92785,8.000306",
     "geom:latitude":7.580763,
     "geom:longitude":125.642021,
@@ -357,16 +357,18 @@
         "gn:id":1715347,
         "gp:id":28350149,
         "hasc:id":"PH.DV",
+        "iso:code":"PH-DAV",
         "iso:id":"PH-DAV",
         "qs_pg:id":237362,
         "unlc:id":"PH-DAV",
         "wd:id":"Q13792"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"635d7c1283de62ce01a51ec0d87a469f",
+    "wof:geomhash":"3597af1f33c8f9d245a1f47a71a87798",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -390,7 +392,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851325,
+    "wof:lastmodified":1695884876,
     "wof:name":"Davao del Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

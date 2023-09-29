@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.215312,
-    "geom:area_square_m":2543080852.987297,
+    "geom:area_square_m":2543080494.599712,
     "geom:bbox":"120.335388,16.647318,120.874264,17.892081",
     "geom:latitude":17.21467,
     "geom:longitude":120.554655,
@@ -372,16 +372,18 @@
         "gn:id":1711032,
         "gp:id":2346684,
         "hasc:id":"PH.IS",
+        "iso:code":"PH-ILS",
         "iso:id":"PH-ILS",
         "qs_pg:id":900730,
         "unlc:id":"PH-ILS",
         "wd:id":"Q12741"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b5f995f12c196622d483cf6cf675bec",
+    "wof:geomhash":"8f622bbb283f4e408c40be69e5e00db2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -405,7 +407,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851335,
+    "wof:lastmodified":1695884877,
     "wof:name":"Ilocos Sur",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

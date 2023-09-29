@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.335825,
-    "geom:area_square_m":3958765414.57929,
+    "geom:area_square_m":3958765405.59516,
     "geom:bbox":"120.461332,17.145472,121.124678,17.974572",
     "geom:latitude":17.571728,
     "geom:longitude":120.805097,
@@ -343,17 +343,19 @@
         "gn:id":1732380,
         "gp:id":2346656,
         "hasc:id":"PH.AB",
+        "iso:code":"PH-ABR",
         "iso:id":"PH-ABR",
         "qs_pg:id":245933,
         "unlc:id":"PH-ABR",
         "wd:id":"Q13711",
         "wk:page":"Abra (province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"84af4b5937f51ea086323361b7bbfbce",
+    "wof:geomhash":"c1536953fa238a4696d46eadd25c2bb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -377,7 +379,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851341,
+    "wof:lastmodified":1695884878,
     "wof:name":"Abra",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

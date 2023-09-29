@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171788,
-    "geom:area_square_m":2094053287.944641,
+    "geom:area_square_m":2094053466.626152,
     "geom:bbox":"125.388725,9.321183,126.167915,10.062083",
     "geom:latitude":9.660956,
     "geom:longitude":125.730577,
@@ -333,17 +333,19 @@
         "gn:id":1685215,
         "gp:id":2346714,
         "hasc:id":"PH.ST",
+        "iso:code":"PH-SUN",
         "iso:id":"PH-SUN",
         "qs_pg:id":892465,
         "unlc:id":"PH-SUN",
         "wd:id":"Q13889",
         "wk:page":"Surigao del Norte"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5419c539b1f4c2460428c29c61670478",
+    "wof:geomhash":"51c1ecd83168a96b3d1109d8838c22f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -367,7 +369,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851327,
+    "wof:lastmodified":1695884876,
     "wof:name":"Surigao del Norte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

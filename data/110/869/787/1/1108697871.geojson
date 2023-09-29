@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016236,
-    "geom:area_square_m":199197959.510046,
+    "geom:area_square_m":199198076.38608,
     "geom:bbox":"124.315387,7.061491,124.497451,7.241634",
     "geom:latitude":7.152867,
     "geom:longitude":124.409682,
@@ -52,10 +52,13 @@
         85676173
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474495984,
-    "wof:geomhash":"b2a513745e5a97f3bf431cf80c0c3ffc",
+    "wof:geomhash":"75ec6f94fda5766eb1ae4f2bda4e54e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108697871,
-    "wof:lastmodified":1628266662,
+    "wof:lastmodified":1695886311,
     "wof:name":"Kabuntalan",
     "wof:parent_id":85676173,
     "wof:placetype":"county",

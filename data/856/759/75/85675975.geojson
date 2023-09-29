@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115111,
-    "geom:area_square_m":1415657532.259404,
+    "geom:area_square_m":1415657035.05304,
     "geom:bbox":"120.417084,5.488722,121.949554,6.441222",
     "geom:latitude":5.96228,
     "geom:longitude":121.093954,
@@ -365,17 +365,19 @@
         "gn:id":1685370,
         "gp:id":2346713,
         "hasc:id":"PH.SU",
+        "iso:code":"PH-SLU",
         "iso:id":"PH-SLU",
         "qs_pg:id":1311607,
         "unlc:id":"PH-SLU",
         "wd:id":"Q13887",
         "wk:page":"Sulu"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"18b938f41b23f36c7998587091739a1f",
+    "wof:geomhash":"7dcd80f41c52702450852d9f61221baf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -399,7 +401,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851356,
+    "wof:lastmodified":1695884881,
     "wof:name":"Sulu",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

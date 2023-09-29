@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014771,
-    "geom:area_square_m":177648049.928802,
+    "geom:area_square_m":177647907.491668,
     "geom:bbox":"123.459804,13.360312,123.590676,13.51816",
     "geom:latitude":13.433634,
     "geom:longitude":123.522784,
@@ -55,10 +55,13 @@
         85676021
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474495458,
-    "wof:geomhash":"328f6c4c1707ff3b293f6c7a2e9422aa",
+    "wof:geomhash":"8828827eb22d4eca9c13a75d8f283317",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1108697097,
-    "wof:lastmodified":1626127456,
+    "wof:lastmodified":1695886669,
     "wof:name":"Buhi",
     "wof:parent_id":85676021,
     "wof:placetype":"county",

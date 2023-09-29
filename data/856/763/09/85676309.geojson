@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.177633,
-    "geom:area_square_m":2178685302.736132,
+    "geom:area_square_m":2178685302.736579,
     "geom:bbox":"125.207173,7.01557,125.682114,7.596645",
     "geom:latitude":7.2945,
     "geom:longitude":125.430849,
@@ -192,15 +192,17 @@
         "gn:id":1715346,
         "gp:id":0,
         "hasc:id":"PH.DR",
+        "iso:code":"PH-DAS",
         "iso:id":"PH-DAS",
         "wd:id":"Q407504"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"b17efa7a1a666f1a598dd7316b91ce68",
+    "wof:geomhash":"f87ec92130f1d60242ba6990095a5910",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +226,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851318,
+    "wof:lastmodified":1695884875,
     "wof:name":"Davao",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

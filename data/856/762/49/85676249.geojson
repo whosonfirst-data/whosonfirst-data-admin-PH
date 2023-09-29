@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237531,
-    "geom:area_square_m":2903286188.531557,
+    "geom:area_square_m":2903286009.1888,
     "geom:bbox":"124.245498,8.328012,125.30082,9.092083",
     "geom:latitude":8.702782,
     "geom:longitude":124.857286,
@@ -354,17 +354,19 @@
         "gn:id":1699492,
         "gp:id":2346698,
         "hasc:id":"PH.MN",
+        "iso:code":"PH-MSR",
         "iso:id":"PH-MSR",
         "qs_pg:id":1075587,
         "unlc:id":"PH-MSR",
         "wd:id":"Q13860",
         "wk:page":"Misamis Oriental"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aaeca74b92176e0b0476b749e66acc21",
+    "wof:geomhash":"07f170dfa8ba2020336088e4a912085e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -388,7 +390,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851329,
+    "wof:lastmodified":1695884877,
     "wof:name":"Misamis Oriental",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

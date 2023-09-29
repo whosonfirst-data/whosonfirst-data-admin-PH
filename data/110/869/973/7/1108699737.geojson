@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01382,
-    "geom:area_square_m":169783059.123954,
+    "geom:area_square_m":169782694.913298,
     "geom:bbox":"122.065483,6.43409,122.205175,6.57833",
     "geom:latitude":6.510145,
     "geom:longitude":122.133608,
@@ -52,10 +52,13 @@
         85675955
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"NO DATA"
+    },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"PH",
     "wof:created":1474497298,
-    "wof:geomhash":"6c66f219cb5ab3ac71ce5979e8884517",
+    "wof:geomhash":"b8ab5ee6cce69558b104f503ea69fb97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1108699737,
-    "wof:lastmodified":1628266725,
+    "wof:lastmodified":1695886411,
     "wof:name":"Tipo-tipo",
     "wof:parent_id":85675955,
     "wof:placetype":"county",

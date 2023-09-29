@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212781,
-    "geom:area_square_m":2579453788.338967,
+    "geom:area_square_m":2579453774.805417,
     "geom:bbox":"122.180457,11.154253,123.101088,11.616222",
     "geom:latitude":11.368551,
     "geom:longitude":122.636855,
@@ -350,17 +350,19 @@
         "gn:id":1718641,
         "gp:id":2346673,
         "hasc:id":"PH.CP",
+        "iso:code":"PH-CAP",
         "iso:id":"PH-CAP",
         "qs_pg:id":221179,
         "unlc:id":"PH-CAP",
         "wd:id":"Q13772",
         "wk:page":"Capiz"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec1af407411a1264fce542b2314b17ff",
+    "wof:geomhash":"118ce9d16a3d08f5c56b1d77aa24cc3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -384,7 +386,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851355,
+    "wof:lastmodified":1695884880,
     "wof:name":"Capiz",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

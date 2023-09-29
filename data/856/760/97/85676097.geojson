@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.245125,
-    "geom:area_square_m":2921107390.195332,
+    "geom:area_square_m":2921107326.720322,
     "geom:bbox":"120.161034,15.158499,120.778684,15.866026",
     "geom:latitude":15.476016,
     "geom:longitude":120.477659,
@@ -362,17 +362,19 @@
         "gn:id":1682811,
         "gp:id":2346716,
         "hasc:id":"PH.TR",
+        "iso:code":"PH-TAR",
         "iso:id":"PH-TAR",
         "qs_pg:id":221180,
         "unlc:id":"PH-TAR",
         "wd:id":"Q13892",
         "wk:page":"Tarlac"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65c24df8eda29907eafd8a4b3191c404",
+    "wof:geomhash":"6e4d2fd0bb294a299d283e8057ff7f19",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -396,7 +398,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851341,
+    "wof:lastmodified":1695884878,
     "wof:name":"Tarlac",
     "wof:parent_id":85632509,
     "wof:placetype":"region",

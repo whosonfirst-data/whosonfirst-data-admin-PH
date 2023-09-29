@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.436007,
-    "geom:area_square_m":5292740019.404975,
+    "geom:area_square_m":5292739865.196041,
     "geom:bbox":"124.285385,10.194977,125.149163,11.565389",
     "geom:latitude":10.968921,
     "geom:longitude":124.754298,
@@ -358,17 +358,19 @@
         "gn:id":1706800,
         "gp:id":2346692,
         "hasc:id":"PH.LE",
+        "iso:code":"PH-LEY",
         "iso:id":"PH-LEY",
         "loc:id":"n90622051",
         "qs_pg:id":1029353,
         "wd:id":"Q13844",
         "wk:page":"Leyte (province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PH",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3a0f7f7b915eb43227463f0108f93bbb",
+    "wof:geomhash":"422601f4e50d078f3985fce17a2bad8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -392,7 +394,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1690851350,
+    "wof:lastmodified":1695885131,
     "wof:name":"Leyte",
     "wof:parent_id":85632509,
     "wof:placetype":"region",
