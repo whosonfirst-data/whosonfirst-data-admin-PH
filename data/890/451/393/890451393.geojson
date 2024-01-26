@@ -9,9 +9,23 @@
     "geom:bbox":"121.3767,14.0017,121.3767,14.0017",
     "geom:latitude":14.0017,
     "geom:longitude":121.3767,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45615000.0",
+    "gn:asciiname":"Dagatan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":133,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716252,
+    "gn:latitude":14.0017,
+    "gn:longitude":121.3767,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dagatan",
     "gn:population":2948,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"121.3567,13.9817,121.3967,14.0217",
     "lbl:max_zoom":15.0,
@@ -43,7 +57,12 @@
         "qs_pg:id":87936
     },
     "wof:concordances_alt":{
-        "qs_pg:id":87937
+        "gn:id":[
+            1716252
+        ],
+        "qs_pg:id":[
+            87937
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052777,
@@ -61,7 +80,7 @@
         }
     ],
     "wof:id":890451393,
-    "wof:lastmodified":1582346805,
+    "wof:lastmodified":1706240584,
     "wof:name":"Dagatan",
     "wof:parent_id":1108697519,
     "wof:placetype":"locality",
@@ -69,7 +88,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276175339
+    ],
     "wof:tags":[]
 },
   "bbox": [

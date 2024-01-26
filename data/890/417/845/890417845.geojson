@@ -9,9 +9,23 @@
     "geom:bbox":"120.8511,15.0193,120.8511,15.0193",
     "geom:latitude":15.0193,
     "geom:longitude":120.8511,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35405000.0",
+    "gn:asciiname":"Lourdes",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":15,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705503,
+    "gn:latitude":15.0193,
+    "gn:longitude":120.8511,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lourdes",
     "gn:population":2370,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.8311,14.9993,120.8711,15.0393",
     "lbl:max_zoom":15.0,
@@ -231,7 +245,12 @@
         "wk:page":"Lourdes"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032621
+        "gn:id":[
+            1705503
+        ],
+        "qs_pg:id":[
+            1032621
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051222,
@@ -249,7 +268,7 @@
         }
     ],
     "wof:id":890417845,
-    "wof:lastmodified":1582346803,
+    "wof:lastmodified":1706240580,
     "wof:name":"Lourdes",
     "wof:parent_id":1108697243,
     "wof:placetype":"locality",
@@ -257,7 +276,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343360273
+    ],
     "wof:tags":[]
 },
   "bbox": [

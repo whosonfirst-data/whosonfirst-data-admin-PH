@@ -9,9 +9,23 @@
     "geom:bbox":"123.668,8.5942,123.668,8.5942",
     "geom:latitude":8.5942,
     "geom:longitude":123.668,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"104212000.0",
+    "gn:asciiname":"Unidos",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":37,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680275,
+    "gn:latitude":8.5942,
+    "gn:longitude":123.668,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Unidos",
     "gn:population":2111,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"123.648,8.5742,123.688,8.6142",
     "lbl:max_zoom":15.0,
@@ -46,7 +60,12 @@
         "qs_pg:id":133932
     },
     "wof:concordances_alt":{
-        "qs_pg:id":133933
+        "gn:id":[
+            1680275
+        ],
+        "qs_pg:id":[
+            133933
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051992,
@@ -64,7 +83,7 @@
         }
     ],
     "wof:id":890433743,
-    "wof:lastmodified":1582346805,
+    "wof:lastmodified":1706240581,
     "wof:name":"Unidos",
     "wof:parent_id":1108698919,
     "wof:placetype":"locality",
@@ -72,7 +91,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343946373
+    ],
     "wof:tags":[]
 },
   "bbox": [

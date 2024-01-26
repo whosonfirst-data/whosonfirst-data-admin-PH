@@ -9,9 +9,23 @@
     "geom:bbox":"124.32472,7.23111,124.32472,7.23111",
     "geom:latitude":7.23111,
     "geom:longitude":124.32472,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"153812000.0",
+    "gn:asciiname":"Pigkelegan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":22,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693956,
+    "gn:latitude":7.23127,
+    "gn:longitude":124.32472,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pigkelegan",
     "gn:population":6083,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"124.30472,7.21111,124.34472,7.25111",
     "lbl:max_zoom":15.0,
@@ -19,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:und_x_variant":[
+        "Picketegon"
+    ],
     "qs:name":"Pigkelegan",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -35,6 +52,11 @@
         "gn:id":1693902,
         "qs_pg:id":86987
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1693956
+        ]
+    },
     "wof:country":"PH",
     "wof:created":1469052753,
     "wof:geomhash":"de1ab2574e5e12ebda3bc815430b7c74",
@@ -48,7 +70,7 @@
         }
     ],
     "wof:id":890450785,
-    "wof:lastmodified":1566682200,
+    "wof:lastmodified":1706240583,
     "wof:name":"Pigkelegan",
     "wof:parent_id":1108699561,
     "wof:placetype":"locality",
@@ -56,7 +78,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1192988881
+    ],
     "wof:tags":[]
 },
   "bbox": [

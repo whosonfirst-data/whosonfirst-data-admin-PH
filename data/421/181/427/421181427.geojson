@@ -9,6 +9,21 @@
     "geom:bbox":"125.2625,10.27722,125.2625,10.27722",
     "geom:latitude":10.27722,
     "geom:longitude":125.2625,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86401000.0",
+    "gn:asciiname":"Anahawan",
+    "gn:country_code":"PH",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1730915,
+    "gn:latitude":10.27722,
+    "gn:longitude":125.2625,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Anahawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"125.2425,10.25722,125.2825,10.29722",
     "lbl:max_zoom":18.0,
@@ -253,7 +268,15 @@
         "wk:page":"Anahawan, Southern Leyte"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":490924
+        "gn:id":[
+            1730915
+        ],
+        "qs_pg:id":[
+            490924
+        ],
+        "wk:page":[
+            "Anahawan%2C_Southern_Leyte"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009296,
@@ -270,13 +293,15 @@
         }
     ],
     "wof:id":421181427,
-    "wof:lastmodified":1690851484,
+    "wof:lastmodified":1706240578,
     "wof:name":"Anahawan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326815025
+    ],
     "wof:tags":[]
 },
   "bbox": [

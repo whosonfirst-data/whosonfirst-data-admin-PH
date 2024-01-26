@@ -9,9 +9,23 @@
     "geom:bbox":"121.2308,13.7686,121.2308,13.7686",
     "geom:latitude":13.7686,
     "geom:longitude":121.2308,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41032000.0",
+    "gn:asciiname":"San Isidro",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":172,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1689704,
+    "gn:latitude":13.7686,
+    "gn:longitude":121.2308,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Isidro",
     "gn:population":2980,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"121.2108,13.7486,121.2508,13.7886",
     "lbl:max_zoom":15.0,
@@ -108,7 +122,12 @@
         "wk:page":"San Isidro"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":558706
+        "gn:id":[
+            1689704
+        ],
+        "qs_pg:id":[
+            558706
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052988,
@@ -126,7 +145,7 @@
         }
     ],
     "wof:id":890455985,
-    "wof:lastmodified":1582346802,
+    "wof:lastmodified":1706240585,
     "wof:name":"San Isidro",
     "wof:parent_id":1108699707,
     "wof:placetype":"locality",
@@ -134,7 +153,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260339589
+    ],
     "wof:tags":[]
 },
   "bbox": [

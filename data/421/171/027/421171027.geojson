@@ -9,6 +9,22 @@
     "geom:bbox":"125.17556,10.26694,125.17556,10.26694",
     "geom:latitude":10.26694,
     "geom:longitude":125.17556,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"86414000.0",
+    "gn:asciiname":"San Juan",
+    "gn:cc2":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1689344,
+    "gn:latitude":10.26694,
+    "gn:longitude":125.17556,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"125.15556,10.24694,125.19556,10.28694",
     "lbl:max_zoom":18.0,
@@ -267,7 +283,15 @@
         "wk:page":"San Juan, Southern Leyte"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1205839
+        "gn:id":[
+            1689344
+        ],
+        "qs_pg:id":[
+            1205839
+        ],
+        "wk:page":[
+            "San_Juan%2C_Southern_Leyte"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459008879,
@@ -285,13 +309,15 @@
         }
     ],
     "wof:id":421171027,
-    "wof:lastmodified":1690851601,
+    "wof:lastmodified":1706240577,
     "wof:name":"San Juan",
     "wof:parent_id":1108699219,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310189873
+    ],
     "wof:tags":[]
 },
   "bbox": [

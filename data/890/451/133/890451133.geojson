@@ -9,9 +9,23 @@
     "geom:bbox":"124.98194,6.45528,124.98194,6.45528",
     "geom:latitude":6.45528,
     "geom:longitude":124.98194,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126314000.0",
+    "gn:asciiname":"Liberty",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":250,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1706660,
+    "gn:latitude":6.45521,
+    "gn:longitude":124.98217,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Liberty",
     "gn:population":2172,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"124.96194,6.43528,125.00194,6.47528",
     "lbl:max_zoom":15.0,
@@ -24,6 +38,9 @@
     ],
     "name:aka_x_preferred":[
         "Faahodie"
+    ],
+    "name:als_x_preferred":[
+        "Freiheit"
     ],
     "name:amh_x_preferred":[
         "\u12a0\u122d\u1290\u1275"
@@ -265,6 +282,9 @@
     "name:nob_x_preferred":[
         "frihet"
     ],
+    "name:nor_x_preferred":[
+        "Frihet"
+    ],
     "name:oci_x_preferred":[
         "Libertat"
     ],
@@ -424,7 +444,12 @@
         "wk:page":"Liberty"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":135074
+        "gn:id":[
+            1706660
+        ],
+        "qs_pg:id":[
+            135074
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052766,
@@ -442,7 +467,7 @@
         }
     ],
     "wof:id":890451133,
-    "wof:lastmodified":1690851810,
+    "wof:lastmodified":1706240583,
     "wof:name":"Liberty",
     "wof:parent_id":1108699657,
     "wof:placetype":"locality",
@@ -450,7 +475,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327410421
+    ],
     "wof:tags":[]
 },
   "bbox": [

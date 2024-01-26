@@ -9,9 +9,23 @@
     "geom:bbox":"123.0417,10.60516,123.0417,10.60516",
     "geom:latitude":10.60516,
     "geom:longitude":123.0417,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64520000.0",
+    "gn:asciiname":"Murcia",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":152,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1699060,
+    "gn:latitude":10.60516,
+    "gn:longitude":123.0417,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Murcia",
     "gn:population":17448,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"123.0217,10.58516,123.0617,10.62516",
     "lbl:max_zoom":15.0,
@@ -243,7 +257,15 @@
         "wk:page":"Murcia"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":134782
+        "gn:id":[
+            1699060
+        ],
+        "qs_pg:id":[
+            134782
+        ],
+        "wk:page":[
+            "Murcia%2C_Negros_Occidental"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051970,
@@ -261,7 +283,7 @@
         }
     ],
     "wof:id":890433179,
-    "wof:lastmodified":1690851861,
+    "wof:lastmodified":1706240581,
     "wof:name":"Murcia",
     "wof:parent_id":1108699649,
     "wof:placetype":"locality",
@@ -269,7 +291,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260386341
+    ],
     "wof:tags":[]
 },
   "bbox": [

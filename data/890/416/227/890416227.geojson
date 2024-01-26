@@ -9,9 +9,22 @@
     "geom:bbox":"122.13806,6.6875,122.13806,6.6875",
     "geom:latitude":6.6875,
     "geom:longitude":122.13806,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"22",
+    "gn:asciiname":"Balas",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":-9999,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728415,
+    "gn:latitude":6.6875,
+    "gn:longitude":122.13806,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Balas",
     "gn:population":2295,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.11806,6.6675,122.15806,6.7075",
     "lbl:max_zoom":15.0,
@@ -56,7 +69,12 @@
         "wk:page":"Balas"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":137342
+        "gn:id":[
+            1728415
+        ],
+        "qs_pg:id":[
+            137342
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051124,
@@ -74,7 +92,7 @@
         }
     ],
     "wof:id":890416227,
-    "wof:lastmodified":1582346804,
+    "wof:lastmodified":1706240580,
     "wof:name":"Balas",
     "wof:parent_id":1108697989,
     "wof:placetype":"locality",
@@ -82,7 +100,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243437577
+    ],
     "wof:tags":[]
 },
   "bbox": [

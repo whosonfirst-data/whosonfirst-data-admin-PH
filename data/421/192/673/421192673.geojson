@@ -9,6 +9,21 @@
     "geom:bbox":"120.77339,14.15602,120.77339,14.15602",
     "geom:latitude":14.15602,
     "geom:longitude":120.77339,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"20",
+    "gn:admin3_code":"42112000.0",
+    "gn:asciiname":"Calauan",
+    "gn:country_code":"PH",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720465,
+    "gn:latitude":14.15602,
+    "gn:longitude":120.77339,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calauan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.75339,14.13602,120.79339,14.17602",
     "lbl:max_zoom":18.0,
@@ -258,7 +273,12 @@
         "wd:id":"Q69739"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1171379
+        "gn:id":[
+            1720465
+        ],
+        "qs_pg:id":[
+            1171379
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009744,
@@ -276,13 +296,15 @@
         }
     ],
     "wof:id":421192673,
-    "wof:lastmodified":1690851380,
+    "wof:lastmodified":1706240578,
     "wof:name":"Calauan",
     "wof:parent_id":1108698231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276712171
+    ],
     "wof:tags":[]
 },
   "bbox": [

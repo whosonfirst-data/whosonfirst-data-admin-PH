@@ -9,9 +9,23 @@
     "geom:bbox":"124.91611,11.18556,124.91611,11.18556",
     "geom:latitude":11.18556,
     "geom:longitude":124.91611,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83744000.0",
+    "gn:asciiname":"Santa Fe",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":22,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1688169,
+    "gn:latitude":11.18556,
+    "gn:longitude":124.91611,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Fe",
     "gn:population":3010,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"124.89611,11.16556,124.93611,11.20556",
     "lbl:max_zoom":15.0,
@@ -256,7 +270,15 @@
         "wk:page":"Santa Fe"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1243300
+        "gn:id":[
+            1688169
+        ],
+        "qs_pg:id":[
+            1243300
+        ],
+        "wk:page":[
+            "Santa_Fe%2C_Leyte"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051226,
@@ -274,7 +296,7 @@
         }
     ],
     "wof:id":890417905,
-    "wof:lastmodified":1690851740,
+    "wof:lastmodified":1706240580,
     "wof:name":"Santa Fe",
     "wof:parent_id":1108699361,
     "wof:placetype":"locality",
@@ -282,7 +304,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327328939
+    ],
     "wof:tags":[]
 },
   "bbox": [

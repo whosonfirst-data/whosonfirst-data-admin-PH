@@ -35,6 +35,9 @@
     "name:ast_x_preferred":[
         "Buenavista"
     ],
+    "name:bcl_x_preferred":[
+        "Buenavista"
+    ],
     "name:cat_x_preferred":[
         "Buenavista"
     ],
@@ -50,16 +53,40 @@
     "name:eus_x_preferred":[
         "Buenavista"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u0648\u06cc\u0633\u062a\u0627"
+    ],
+    "name:fil_x_preferred":[
+        "Buenavista"
+    ],
+    "name:fil_x_variant":[
+        "Buenavista Norte"
+    ],
     "name:fra_x_preferred":[
         "Buenavista"
     ],
+    "name:glg_x_preferred":[
+        "Buenavista"
+    ],
     "name:ilo_x_preferred":[
+        "Buenavista"
+    ],
+    "name:ind_x_preferred":[
         "Buenavista"
     ],
     "name:ita_x_preferred":[
         "Buenavista"
     ],
     "name:nld_x_preferred":[
+        "Buenavista"
+    ],
+    "name:nor_x_preferred":[
+        "Buenavista"
+    ],
+    "name:pag_x_preferred":[
+        "Buenavista"
+    ],
+    "name:pam_x_preferred":[
         "Buenavista"
     ],
     "name:por_x_preferred":[
@@ -77,11 +104,20 @@
     "name:swe_x_preferred":[
         "Buenavista"
     ],
+    "name:tgl_x_preferred":[
+        "Buenavista"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0435\u043d\u0430\u0432\u0456\u0441\u0442\u0430"
     ],
     "name:und_x_variant":[
         "Buenavista Norte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0626\u0646\u0627\u0648\u06cc\u0633\u062a\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Buenavista"
     ],
     "name:war_x_preferred":[
         "Buenavista"
@@ -95,7 +131,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1723383
+        "gn:id":1723383,
+        "wk:page":"Buenavista%2C_Bohol"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1723381
+        ]
     },
     "wof:country":"PH",
     "wof:geomhash":"9b5e5e085457ef261741b92a60a3ce06",
@@ -109,13 +151,15 @@
         }
     ],
     "wof:id":1259379479,
-    "wof:lastmodified":1566682760,
+    "wof:lastmodified":1706240587,
     "wof:name":"Buenavista",
     "wof:parent_id":1108697079,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293769551
+    ],
     "wof:tags":[]
 },
   "bbox": [

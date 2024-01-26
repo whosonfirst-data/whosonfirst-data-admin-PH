@@ -9,9 +9,22 @@
     "geom:bbox":"123.91417,12.97722,123.91417,12.97722",
     "geom:latitude":12.97722,
     "geom:longitude":123.91417,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Rizal",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":9,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691625,
+    "gn:latitude":12.97722,
+    "gn:longitude":123.91417,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Rizal",
     "gn:population":7577,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"123.89417,12.95722,123.93417,12.99722",
     "lbl:max_zoom":15.0,
@@ -144,7 +157,12 @@
         "wk:page":"Rizal"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":134450
+        "gn:id":[
+            1691625
+        ],
+        "qs_pg:id":[
+            134450
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052750,
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":890450695,
-    "wof:lastmodified":1636501158,
+    "wof:lastmodified":1706240583,
     "wof:name":"Rizal",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -169,7 +187,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259788081
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"122.81667,11.01667,122.81667,11.01667",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Carmelo"
@@ -79,14 +81,16 @@
         }
     ],
     "wof:id":1343353541,
-    "wof:lastmodified":1636500830,
+    "wof:lastmodified":1706240582,
     "wof:name":"Carmelo",
     "wof:parent_id":1108696865,
     "wof:placetype":"locality",
     "wof:population":2678,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890438681
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

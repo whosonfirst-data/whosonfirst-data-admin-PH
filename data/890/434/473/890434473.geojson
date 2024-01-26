@@ -9,9 +9,23 @@
     "geom:bbox":"125.52111,7.16333,125.52111,7.16333",
     "geom:latitude":7.16333,
     "geom:longitude":125.52111,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"112402000.0",
+    "gn:asciiname":"Biao",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":189,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1725486,
+    "gn:latitude":7.16333,
+    "gn:longitude":125.52111,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Biao",
     "gn:population":12043,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"125.50111,7.14333,125.54111,7.18333",
     "lbl:max_zoom":15.0,
@@ -50,7 +64,12 @@
         "wk:page":"Biao"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1033014
+        "gn:id":[
+            1725486
+        ],
+        "qs_pg:id":[
+            1033014
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052026,
@@ -68,7 +87,7 @@
         }
     ],
     "wof:id":890434473,
-    "wof:lastmodified":1582346805,
+    "wof:lastmodified":1706240581,
     "wof:name":"Biao",
     "wof:parent_id":1108698611,
     "wof:placetype":"locality",
@@ -76,7 +95,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343641777
+    ],
     "wof:tags":[]
 },
   "bbox": [

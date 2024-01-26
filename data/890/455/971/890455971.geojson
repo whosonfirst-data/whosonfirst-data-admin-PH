@@ -9,9 +9,23 @@
     "geom:bbox":"120.7925,15.5232,120.7925,15.5232",
     "geom:latitude":15.5232,
     "geom:longitude":120.7925,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34914000.0",
+    "gn:asciiname":"Santa Maria",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":27,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1688031,
+    "gn:latitude":15.5232,
+    "gn:longitude":120.7925,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Santa Maria",
     "gn:population":3753,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.7725,15.5032,120.8125,15.5432",
     "lbl:max_zoom":15.0,
@@ -20,6 +34,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
+        "Santa Maria"
+    ],
+    "name:als_x_preferred":[
         "Santa Maria"
     ],
     "name:arg_x_preferred":[
@@ -193,6 +210,9 @@
     "name:nob_x_preferred":[
         "Santa Maria"
     ],
+    "name:nor_x_preferred":[
+        "Santa Maria"
+    ],
     "name:nrm_x_preferred":[
         "Santa Maria"
     ],
@@ -325,7 +345,12 @@
         "wk:page":"Santa Maria"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":558671
+        "gn:id":[
+            1688031
+        ],
+        "qs_pg:id":[
+            558671
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052987,
@@ -343,7 +368,7 @@
         }
     ],
     "wof:id":890455971,
-    "wof:lastmodified":1690851675,
+    "wof:lastmodified":1706240585,
     "wof:name":"Santa Maria",
     "wof:parent_id":1108698079,
     "wof:placetype":"locality",
@@ -351,7 +376,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310211943
+    ],
     "wof:tags":[]
 },
   "bbox": [

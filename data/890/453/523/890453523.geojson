@@ -9,9 +9,23 @@
     "geom:bbox":"122.486,10.8794,122.486,10.8794",
     "geom:latitude":10.8794,
     "geom:longitude":122.486,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63012000.0",
+    "gn:asciiname":"Cabatuan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":60,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1721720,
+    "gn:latitude":10.8794,
+    "gn:longitude":122.486,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Cabatuan",
     "gn:population":6106,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.466,10.8594,122.506,10.8994",
     "lbl:max_zoom":15.0,
@@ -253,7 +267,15 @@
         "wk:page":"Cabatuan"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032977
+        "gn:id":[
+            1721720
+        ],
+        "qs_pg:id":[
+            1032977
+        ],
+        "wk:page":[
+            "Cabatuan%2C_Iloilo"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052857,
@@ -271,7 +293,7 @@
         }
     ],
     "wof:id":890453523,
-    "wof:lastmodified":1690851724,
+    "wof:lastmodified":1706240584,
     "wof:name":"Cabatuan",
     "wof:parent_id":1108697163,
     "wof:placetype":"locality",
@@ -279,7 +301,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209311803
+    ],
     "wof:tags":[]
 },
   "bbox": [

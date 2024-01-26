@@ -11,6 +11,7 @@
     "geom:longitude":120.72494,
     "gn:admin1_code":"40",
     "gn:admin2_code":"09",
+    "gn:admin3_code":"36907000.0",
     "gn:asciiname":"Balanoy",
     "gn:country_code":"PH",
     "gn:dem":20,
@@ -44,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1728469
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1728468
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"103e06e76ff5d4ba0121bc5d911a5290",
     "wof:hierarchy":[
@@ -56,13 +62,15 @@
         }
     ],
     "wof:id":1260325345,
-    "wof:lastmodified":1566681081,
+    "wof:lastmodified":1706240587,
     "wof:name":"Balanoy",
     "wof:parent_id":1108697953,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276335469
+    ],
     "wof:tags":[]
 },
   "bbox": [

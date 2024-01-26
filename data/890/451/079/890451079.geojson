@@ -9,9 +9,23 @@
     "geom:bbox":"120.98333,15.6,120.98333,15.6",
     "geom:latitude":15.6,
     "geom:longitude":120.98333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"34915000.0",
+    "gn:asciiname":"Mabini",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":48,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1704552,
+    "gn:latitude":15.6,
+    "gn:longitude":120.98333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Mabini",
     "gn:population":7810,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.96333,15.58,121.00333,15.62",
     "lbl:max_zoom":15.0,
@@ -74,7 +88,12 @@
         "wk:page":"Mabini"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032545
+        "gn:id":[
+            1704552
+        ],
+        "qs_pg:id":[
+            1032545
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052764,
@@ -92,7 +111,7 @@
         }
     ],
     "wof:id":890451079,
-    "wof:lastmodified":1582346805,
+    "wof:lastmodified":1706240583,
     "wof:name":"Mabini",
     "wof:parent_id":1108698103,
     "wof:placetype":"locality",
@@ -100,7 +119,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276658431
+    ],
     "wof:tags":[]
 },
   "bbox": [

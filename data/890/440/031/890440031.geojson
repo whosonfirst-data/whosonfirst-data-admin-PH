@@ -9,9 +9,24 @@
     "geom:bbox":"126.15889,9.78417,126.15889,9.78417",
     "geom:latitude":9.78417,
     "geom:longitude":126.15889,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"166710000.0",
+    "gn:asciiname":"General Luna",
+    "gn:cc2":"PH",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":12,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1713046,
+    "gn:latitude":9.78417,
+    "gn:longitude":126.15889,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"General Luna",
     "gn:population":0,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"126.13889,9.76417,126.17889,9.80417",
     "lbl:max_zoom":18.0,
@@ -154,6 +169,9 @@
     "name:nob_x_preferred":[
         "General Luna"
     ],
+    "name:nor_x_preferred":[
+        "General Luna"
+    ],
     "name:orm_x_preferred":[
         "General Luna"
     ],
@@ -244,7 +262,15 @@
         "wk:page":"General Luna"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":135341
+        "gn:id":[
+            1713046
+        ],
+        "qs_pg:id":[
+            135341
+        ],
+        "wk:page":[
+            "General_Luna%2C_Surigao_del_Norte"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052260,
@@ -261,14 +287,16 @@
         }
     ],
     "wof:id":890440031,
-    "wof:lastmodified":1690851605,
+    "wof:lastmodified":1706240582,
     "wof:name":"General Luna",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309698439
+    ],
     "wof:tags":[]
 },
   "bbox": [

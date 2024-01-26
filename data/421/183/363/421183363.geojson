@@ -9,6 +9,21 @@
     "geom:bbox":"125.57722,9.46694,125.57722,9.46694",
     "geom:latitude":9.46694,
     "geom:longitude":125.57722,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"166701000.0",
+    "gn:asciiname":"Alegria",
+    "gn:country_code":"PH",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1731572,
+    "gn:latitude":9.46694,
+    "gn:longitude":125.57722,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alegria",
+    "gn:population":5891,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"125.55722,9.44694,125.59722,9.48694",
     "lbl:max_zoom":15.0,
@@ -266,7 +281,15 @@
         "wk:page":"Alegria, Surigao del Norte"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1294477
+        "gn:id":[
+            1731572
+        ],
+        "qs_pg:id":[
+            1294477
+        ],
+        "wk:page":[
+            "Alegria%2C_Surigao_del_Norte"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009367,
@@ -284,7 +307,7 @@
         }
     ],
     "wof:id":421183363,
-    "wof:lastmodified":1690851553,
+    "wof:lastmodified":1706240578,
     "wof:name":"Alegria",
     "wof:parent_id":1108697933,
     "wof:placetype":"locality",
@@ -292,7 +315,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209902349
+    ],
     "wof:tags":[]
 },
   "bbox": [

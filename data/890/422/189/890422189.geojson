@@ -9,9 +9,23 @@
     "geom:bbox":"122.9557,11.4561,122.9557,11.4561",
     "geom:latitude":11.4561,
     "geom:longitude":122.9557,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"18",
+    "gn:admin3_code":"61911000.0",
+    "gn:asciiname":"Dulangan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":14,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714258,
+    "gn:latitude":11.4561,
+    "gn:longitude":122.9557,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dulangan",
     "gn:population":5339,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.9357,11.4361,122.9757,11.4761",
     "lbl:max_zoom":15.0,
@@ -48,7 +62,12 @@
         "wk:page":"Dulangan"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032826
+        "gn:id":[
+            1714258
+        ],
+        "qs_pg:id":[
+            1032826
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051432,
@@ -66,7 +85,7 @@
         }
     ],
     "wof:id":890422189,
-    "wof:lastmodified":1582346801,
+    "wof:lastmodified":1706240580,
     "wof:name":"Dulangan",
     "wof:parent_id":1108698881,
     "wof:placetype":"locality",
@@ -74,7 +93,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259374865
+    ],
     "wof:tags":[]
 },
   "bbox": [

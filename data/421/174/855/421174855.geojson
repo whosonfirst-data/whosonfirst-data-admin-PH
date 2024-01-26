@@ -9,6 +9,21 @@
     "geom:bbox":"123.86112,9.6017,123.86112,9.6017",
     "geom:latitude":9.6017,
     "geom:longitude":123.86112,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"71219000.0",
+    "gn:asciiname":"Catarman",
+    "gn:country_code":"PH",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1717930,
+    "gn:latitude":9.60169,
+    "gn:longitude":123.86111,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Catarman",
+    "gn:population":3688,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"123.84112,9.5817,123.88112,9.6217",
     "lbl:max_zoom":15.0,
@@ -87,7 +102,12 @@
         "qs_pg:id":135455
     },
     "wof:concordances_alt":{
-        "qs_pg:id":901813
+        "gn:id":[
+            1717930
+        ],
+        "qs_pg:id":[
+            901813
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009046,
@@ -105,7 +125,7 @@
         }
     ],
     "wof:id":421174855,
-    "wof:lastmodified":1582346798,
+    "wof:lastmodified":1706240577,
     "wof:name":"Catarman",
     "wof:parent_id":1108697465,
     "wof:placetype":"locality",
@@ -113,7 +133,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243087765
+    ],
     "wof:tags":[]
 },
   "bbox": [

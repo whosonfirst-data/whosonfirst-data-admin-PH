@@ -9,6 +9,22 @@
     "geom:bbox":"122.10027,11.74479,122.10027,11.74479",
     "geom:latitude":11.74479,
     "geom:longitude":122.10027,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"06",
+    "gn:admin3_code":"60611000.0",
+    "gn:asciiname":"Pandan",
+    "gn:country_code":"PH",
+    "gn:dem":20,
+    "gn:elevation":"18.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8299649,
+    "gn:latitude":11.74479,
+    "gn:longitude":122.10027,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pandan",
+    "gn:population":34000,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.08027,11.72479,122.12027,11.76479",
     "lbl:max_zoom":14.0,
@@ -265,10 +281,16 @@
         "gn:id":1695555,
         "gp:id":1199611,
         "qs_pg:id":272607,
-        "wd:id":"Q492545"
+        "wd:id":"Q492545",
+        "wk:page":"Pandan,_Antique"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":903638
+        "gn:id":[
+            8299649
+        ],
+        "qs_pg:id":[
+            903638
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459008874,
@@ -286,7 +308,7 @@
         }
     ],
     "wof:id":421170923,
-    "wof:lastmodified":1690851546,
+    "wof:lastmodified":1706240577,
     "wof:name":"Pandan",
     "wof:parent_id":1108698775,
     "wof:placetype":"locality",
@@ -294,7 +316,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259705333
+    ],
     "wof:tags":[]
 },
   "bbox": [

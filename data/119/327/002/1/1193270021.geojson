@@ -37,6 +37,9 @@
     "name:deu_x_preferred":[
         "Tuburan"
     ],
+    "name:fil_x_preferred":[
+        "Tuburan"
+    ],
     "name:fra_x_preferred":[
         "Tuburan"
     ],
@@ -66,6 +69,11 @@
     "wof:concordances":{
         "gn:id":1681072
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1681074
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"95991b47e4ac0bb53eccdcb0ef7b119e",
     "wof:hierarchy":[
@@ -78,13 +86,15 @@
         }
     ],
     "wof:id":1193270021,
-    "wof:lastmodified":1566680935,
+    "wof:lastmodified":1706240586,
     "wof:name":"Tuburan",
     "wof:parent_id":1108699337,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293684143
+    ],
     "wof:tags":[]
 },
   "bbox": [

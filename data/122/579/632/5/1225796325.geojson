@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1705669
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1906826
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"8bd8d7f4dff4a117d0423ad5f961508f",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1225796325,
-    "wof:lastmodified":1566683349,
+    "wof:lastmodified":1706240586,
     "wof:name":"Loubac",
     "wof:parent_id":1108697557,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360036559
+    ],
     "wof:tags":[]
 },
   "bbox": [

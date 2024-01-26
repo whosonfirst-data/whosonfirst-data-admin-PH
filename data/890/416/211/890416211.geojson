@@ -9,9 +9,23 @@
     "geom:bbox":"120.5954,15.1624,120.5954,15.1624",
     "geom:latitude":15.1624,
     "geom:longitude":120.5954,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"35401000.0",
+    "gn:asciiname":"Balibago",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":96,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1728196,
+    "gn:latitude":15.1624,
+    "gn:longitude":120.5954,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balibago",
     "gn:population":5057,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.5754,15.1424,120.6154,15.1824",
     "lbl:max_zoom":15.0,
@@ -43,7 +57,12 @@
         "qs_pg:id":88410
     },
     "wof:concordances_alt":{
-        "qs_pg:id":135868
+        "gn:id":[
+            1728196
+        ],
+        "qs_pg:id":[
+            135868
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051124,
@@ -61,7 +80,7 @@
         }
     ],
     "wof:id":890416211,
-    "wof:lastmodified":1582346804,
+    "wof:lastmodified":1706240579,
     "wof:name":"Balibago",
     "wof:parent_id":1108696677,
     "wof:placetype":"locality",
@@ -69,7 +88,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310702689
+    ],
     "wof:tags":[]
 },
   "bbox": [

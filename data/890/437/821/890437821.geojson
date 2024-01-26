@@ -9,9 +9,23 @@
     "geom:bbox":"122.8911,10.3971,122.8911,10.3971",
     "geom:latitude":10.3971,
     "geom:longitude":122.8911,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"64525000.0",
+    "gn:asciiname":"Baliwagan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":9,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1727993,
+    "gn:latitude":10.3971,
+    "gn:longitude":122.8911,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Baliwagan",
     "gn:population":2883,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.8711,10.3771,122.9111,10.4171",
     "lbl:max_zoom":15.0,
@@ -46,7 +60,12 @@
         "qs_pg:id":135857
     },
     "wof:concordances_alt":{
-        "qs_pg:id":277397
+        "gn:id":[
+            1727993
+        ],
+        "qs_pg:id":[
+            277397
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052167,
@@ -64,7 +83,7 @@
         }
     ],
     "wof:id":890437821,
-    "wof:lastmodified":1582346802,
+    "wof:lastmodified":1706240582,
     "wof:name":"Baliwagan",
     "wof:parent_id":1108699135,
     "wof:placetype":"locality",
@@ -72,7 +91,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226170667
+    ],
     "wof:tags":[]
 },
   "bbox": [

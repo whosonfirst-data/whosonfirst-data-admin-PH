@@ -9,6 +9,21 @@
     "geom:bbox":"122.6917,14.2906,122.6917,14.2906",
     "geom:latitude":14.2906,
     "geom:longitude":122.6917,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51605000.0",
+    "gn:asciiname":"Jose Panganiban",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710103,
+    "gn:latitude":14.2906,
+    "gn:longitude":122.6917,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Jose Pa\u00f1ganiban",
+    "gn:population":21236,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.6717,14.2706,122.7117,14.3106",
     "lbl:max_zoom":14.0,
@@ -254,7 +269,15 @@
         "wk:page":"Jose Panganiban, Camarines Norte"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":308503
+        "gn:id":[
+            1710103
+        ],
+        "qs_pg:id":[
+            308503
+        ],
+        "wk:page":[
+            "Jose_Panganiban%2C_Camarines_Norte"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009916,
@@ -271,7 +294,7 @@
         }
     ],
     "wof:id":421197511,
-    "wof:lastmodified":1690851518,
+    "wof:lastmodified":1706240579,
     "wof:name":"Jose Panganiban",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -279,7 +302,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243268501
+    ],
     "wof:tags":[]
 },
   "bbox": [

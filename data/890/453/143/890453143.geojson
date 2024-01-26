@@ -9,9 +9,23 @@
     "geom:bbox":"120.39658,16.10734,120.39658,16.10734",
     "geom:latitude":16.10734,
     "geom:longitude":120.39658,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"15533000.0",
+    "gn:asciiname":"Longos",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":7,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1705703,
+    "gn:latitude":16.10667,
+    "gn:longitude":120.39694,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Longos",
     "gn:population":2638,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.37658,16.08734,120.41658,16.12734",
     "lbl:max_zoom":15.0,
@@ -53,6 +67,11 @@
         "qs_pg:id":1032625,
         "wk:page":"Longos"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1705703
+        ]
+    },
     "wof:country":"PH",
     "wof:created":1469052842,
     "wof:geomhash":"34ab321157239c1dff695aa9b992242f",
@@ -66,7 +85,7 @@
         }
     ],
     "wof:id":890453143,
-    "wof:lastmodified":1566682029,
+    "wof:lastmodified":1706240584,
     "wof:name":"Longos",
     "wof:parent_id":1108699141,
     "wof:placetype":"locality",
@@ -74,7 +93,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242974275
+    ],
     "wof:tags":[]
 },
   "bbox": [

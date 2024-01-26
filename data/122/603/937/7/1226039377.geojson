@@ -258,6 +258,11 @@
     "wof:concordances":{
         "gn:id":11329487
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11329486
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"d5bb39afac4d7ad1b401277c00c4a1f7",
     "wof:hierarchy":[
@@ -270,13 +275,16 @@
         }
     ],
     "wof:id":1226039377,
-    "wof:lastmodified":1566683124,
+    "wof:lastmodified":1706240586,
     "wof:name":"Burgos",
     "wof:parent_id":1108699635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326615825,
+        1242597873
+    ],
     "wof:tags":[]
 },
   "bbox": [

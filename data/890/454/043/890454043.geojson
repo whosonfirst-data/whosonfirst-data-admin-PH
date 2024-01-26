@@ -9,9 +9,23 @@
     "geom:bbox":"120.86667,14.75,120.86667,14.75",
     "geom:latitude":14.75,
     "geom:longitude":120.86667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"31405000.0",
+    "gn:asciiname":"Lambakin",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":2,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707827,
+    "gn:latitude":14.75,
+    "gn:longitude":120.86667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lambakin",
     "gn:population":9193,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.84667,14.73,120.88667,14.77",
     "lbl:max_zoom":15.0,
@@ -42,7 +56,12 @@
         "qs_pg:id":135115
     },
     "wof:concordances_alt":{
-        "qs_pg:id":277119
+        "gn:id":[
+            1707827
+        ],
+        "qs_pg:id":[
+            277119
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052883,
@@ -60,7 +79,7 @@
         }
     ],
     "wof:id":890454043,
-    "wof:lastmodified":1582346803,
+    "wof:lastmodified":1706240585,
     "wof:name":"Lambakin",
     "wof:parent_id":1108697101,
     "wof:placetype":"locality",
@@ -68,7 +87,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209616405
+    ],
     "wof:tags":[]
 },
   "bbox": [

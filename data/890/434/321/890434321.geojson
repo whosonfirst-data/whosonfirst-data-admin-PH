@@ -9,9 +9,23 @@
     "geom:bbox":"123.5035,10.1279,123.5035,10.1279",
     "geom:latitude":10.1279,
     "geom:longitude":123.5035,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72210000.0",
+    "gn:asciiname":"Japitan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":103,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1710270,
+    "gn:latitude":10.1279,
+    "gn:longitude":123.5035,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Japitan",
     "gn:population":3222,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"123.4835,10.1079,123.5235,10.1479",
     "lbl:max_zoom":15.0,
@@ -46,7 +60,12 @@
         "qs_pg:id":135239
     },
     "wof:concordances_alt":{
-        "qs_pg:id":277143
+        "gn:id":[
+            1710270
+        ],
+        "qs_pg:id":[
+            277143
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052020,
@@ -64,7 +83,7 @@
         }
     ],
     "wof:id":890434321,
-    "wof:lastmodified":1582346805,
+    "wof:lastmodified":1706240581,
     "wof:name":"Japitan",
     "wof:parent_id":1108696907,
     "wof:placetype":"locality",
@@ -72,7 +91,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343381401
+    ],
     "wof:tags":[]
 },
   "bbox": [
