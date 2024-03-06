@@ -9,9 +9,23 @@
     "geom:bbox":"123.3596,13.2966,123.3596,13.2966",
     "geom:latitude":13.2966,
     "geom:longitude":123.3596,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"05",
+    "gn:admin3_code":"50507000.0",
+    "gn:asciiname":"Buga",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":11,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723349,
+    "gn:latitude":13.2966,
+    "gn:longitude":123.3596,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Buga",
     "gn:population":3666,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"123.3396,13.2766,123.3796,13.3166",
     "lbl:max_zoom":15.0,
@@ -58,7 +72,12 @@
         "qs_pg:id":135584
     },
     "wof:concordances_alt":{
-        "qs_pg:id":135585
+        "gn:id":[
+            1723349
+        ],
+        "qs_pg:id":[
+            135585
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052786,
@@ -76,7 +95,7 @@
         }
     ],
     "wof:id":890451595,
-    "wof:lastmodified":1582346804,
+    "wof:lastmodified":1706240584,
     "wof:name":"Buga",
     "wof:parent_id":1108698073,
     "wof:placetype":"locality",
@@ -84,7 +103,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343654733
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"122.61667,10.68333,122.61667,10.68333",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Salvacion"
@@ -58,14 +60,16 @@
         }
     ],
     "wof:id":1242799311,
-    "wof:lastmodified":1566682582,
+    "wof:lastmodified":1706240584,
     "wof:name":"Salvacion",
     "wof:parent_id":1108697081,
     "wof:placetype":"locality",
     "wof:population":5565,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890454003
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

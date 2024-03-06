@@ -9,6 +9,21 @@
     "geom:bbox":"124.4,11.1364,124.4,11.1364",
     "geom:latitude":11.1364,
     "geom:longitude":124.4,
+    "gn:admin1_code":"08",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"83751000.0",
+    "gn:asciiname":"Tuburan",
+    "gn:country_code":"PH",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1681067,
+    "gn:latitude":11.1364,
+    "gn:longitude":124.4,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Tuburan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"124.38,11.1164,124.42,11.1564",
     "lbl:max_zoom":18.0,
@@ -152,6 +167,9 @@
     "name:nob_x_preferred":[
         "Tuburan"
     ],
+    "name:nor_x_preferred":[
+        "Tuburan"
+    ],
     "name:nrm_x_preferred":[
         "Tuburan"
     ],
@@ -264,7 +282,12 @@
         "wd:id":"Q453356"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1175132
+        "gn:id":[
+            1681067
+        ],
+        "qs_pg:id":[
+            1175132
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009747,
@@ -282,13 +305,15 @@
         }
     ],
     "wof:id":421192759,
-    "wof:lastmodified":1690851383,
+    "wof:lastmodified":1706240578,
     "wof:name":"Tuburan",
     "wof:parent_id":1108699863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343259413
+    ],
     "wof:tags":[]
 },
   "bbox": [

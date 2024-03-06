@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"125.17556,10.26694,125.17556,10.26694",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bcl_x_preferred":[
         "San Juan"
@@ -116,12 +118,14 @@
         }
     ],
     "wof:id":1310189873,
-    "wof:lastmodified":1636501060,
+    "wof:lastmodified":1706240577,
     "wof:name":"San Juan",
     "wof:parent_id":1108699219,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421171027
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"119.9539,16.0806,119.9539,16.0806",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:bcl_x_preferred":[
         "Tagudin"
@@ -106,14 +108,16 @@
         }
     ],
     "wof:id":1310308419,
-    "wof:lastmodified":1566681384,
+    "wof:lastmodified":1706240578,
     "wof:name":"Tagudin",
     "wof:parent_id":1108698195,
     "wof:placetype":"locality",
     "wof:population":3052,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421189321
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

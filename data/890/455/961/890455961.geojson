@@ -9,9 +9,23 @@
     "geom:bbox":"121.83644,17.08044,121.83644,17.08044",
     "geom:latitude":17.08044,
     "geom:longitude":121.83644,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"23113000.0",
+    "gn:asciiname":"Upi",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":49,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1680231,
+    "gn:latitude":17.08111,
+    "gn:longitude":121.83667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Upi",
     "gn:population":5647,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"121.81644,17.06044,121.85644,17.10044",
     "lbl:max_zoom":15.0,
@@ -46,7 +60,12 @@
         "qs_pg:id":371389
     },
     "wof:concordances_alt":{
-        "qs_pg:id":558647
+        "gn:id":[
+            1680231
+        ],
+        "qs_pg:id":[
+            558647
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052987,
@@ -64,7 +83,7 @@
         }
     ],
     "wof:id":890455961,
-    "wof:lastmodified":1582346802,
+    "wof:lastmodified":1706240585,
     "wof:name":"Upi",
     "wof:parent_id":1108697605,
     "wof:placetype":"locality",
@@ -72,7 +91,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293694679
+    ],
     "wof:tags":[]
 },
   "bbox": [

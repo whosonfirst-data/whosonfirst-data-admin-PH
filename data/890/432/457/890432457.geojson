@@ -9,9 +9,23 @@
     "geom:bbox":"121.46742,12.81052,121.46742,12.81052",
     "geom:latitude":12.81052,
     "geom:longitude":121.46742,
+    "gn:admin1_code":"41",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"175202000.0",
+    "gn:asciiname":"Salcedo",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":11,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690910,
+    "gn:latitude":12.81052,
+    "gn:longitude":121.46742,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salcedo",
     "gn:population":4618,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"121.44742,12.79052,121.48742,12.83052",
     "lbl:max_zoom":15.0,
@@ -102,7 +116,12 @@
         "wk:page":"Salcedo"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":276437
+        "gn:id":[
+            1690910
+        ],
+        "qs_pg:id":[
+            276437
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051941,
@@ -120,7 +139,7 @@
         }
     ],
     "wof:id":890432457,
-    "wof:lastmodified":1636501166,
+    "wof:lastmodified":1706240581,
     "wof:name":"Salcedo",
     "wof:parent_id":1108696889,
     "wof:placetype":"locality",
@@ -128,7 +147,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209843701
+    ],
     "wof:tags":[]
 },
   "bbox": [

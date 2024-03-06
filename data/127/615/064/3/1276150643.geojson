@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1712007
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1729275
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"7109b21a471a9aebe3830afa3e5d6318",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276150643,
-    "wof:lastmodified":1566680336,
+    "wof:lastmodified":1706240587,
     "wof:name":"Bagacay",
     "wof:parent_id":1108697025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293715417
+    ],
     "wof:tags":[]
 },
   "bbox": [

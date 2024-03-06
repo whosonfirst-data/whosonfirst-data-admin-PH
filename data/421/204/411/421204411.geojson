@@ -9,6 +9,21 @@
     "geom:bbox":"124.301,10.6348,124.301,10.6348",
     "geom:latitude":10.6348,
     "geom:longitude":124.301,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"72242000.0",
+    "gn:asciiname":"Consuelo",
+    "gn:country_code":"PH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1716909,
+    "gn:latitude":10.6348,
+    "gn:longitude":124.301,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Consuelo",
+    "gn:population":4888,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"124.281,10.6148,124.321,10.6548",
     "lbl:max_zoom":15.0,
@@ -78,7 +93,12 @@
         "qs_pg:id":87960
     },
     "wof:concordances_alt":{
-        "qs_pg:id":240610
+        "gn:id":[
+            1716909
+        ],
+        "qs_pg:id":[
+            240610
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459010185,
@@ -96,7 +116,7 @@
         }
     ],
     "wof:id":421204411,
-    "wof:lastmodified":1582346797,
+    "wof:lastmodified":1706240579,
     "wof:name":"Consuelo",
     "wof:parent_id":1108698607,
     "wof:placetype":"locality",
@@ -104,7 +124,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260100397
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,9 +9,23 @@
     "geom:bbox":"122.3803,11.5556,122.3803,11.5556",
     "geom:latitude":11.5556,
     "geom:longitude":122.3803,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"04",
+    "gn:admin3_code":"60402000.0",
+    "gn:asciiname":"Balete",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":9,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1728252,
+    "gn:latitude":11.5556,
+    "gn:longitude":122.3803,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Balete",
     "gn:population":0,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.3603,11.5356,122.4003,11.5756",
     "lbl:max_zoom":18.0,
@@ -252,7 +266,15 @@
         "wk:page":"Balete"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":135870
+        "gn:id":[
+            1728252
+        ],
+        "qs_pg:id":[
+            135870
+        ],
+        "wk:page":[
+            "Balete%2C_Aklan"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052260,
@@ -270,14 +292,16 @@
         }
     ],
     "wof:id":890440037,
-    "wof:lastmodified":1690851606,
+    "wof:lastmodified":1706240582,
     "wof:name":"Balete",
     "wof:parent_id":1108696829,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260173465
+    ],
     "wof:tags":[]
 },
   "bbox": [

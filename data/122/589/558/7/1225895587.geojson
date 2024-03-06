@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1717557
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7781412
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"a9cb6d1c01b4272bbfc311974aaaf1ea",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1225895587,
-    "wof:lastmodified":1566683155,
+    "wof:lastmodified":1706240586,
     "wof:name":"Caybunga",
     "wof:parent_id":1108697195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276497257
+    ],
     "wof:tags":[]
 },
   "bbox": [

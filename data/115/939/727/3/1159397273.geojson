@@ -9,8 +9,23 @@
     "geom:bbox":"120.984591,14.505906,121.044627,14.557705",
     "geom:latitude":14.531478,
     "geom:longitude":121.011867,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137600000",
+    "gn:admin3_code":"137605000.0",
+    "gn:asciiname":"Pasay",
+    "gn:country_code":"PH",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1694611,
+    "gn:latitude":14.53748,
+    "gn:longitude":121.00144,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Pasay",
     "gn:population":416522,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.98144,14.51748,121.02144,14.55748",
     "lbl:latitude":14.545071,
     "lbl:longitude":120.998905,
     "lbl:max_zoom":18.0,
@@ -111,6 +126,9 @@
     ],
     "name:tur_x_preferred":[
         "Pasay"
+    ],
+    "name:und_x_variant":[
+        "Pasay City"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0633\u06d2"
@@ -221,6 +239,11 @@
         "hasc:id":"PH.MM.PY",
         "wk:page":"Pasay"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1694611
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"510daec18740a907cc122e81a754342d",
     "wof:hierarchy":[
@@ -247,7 +270,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636501174,
+    "wof:lastmodified":1706240585,
     "wof:name":"Pasay",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",
@@ -255,11 +278,13 @@
         "county"
     ],
     "wof:population":416522,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85676415,
-        421169759
+        421169759,
+        1310331361
     ],
     "wof:tags":[]
 },

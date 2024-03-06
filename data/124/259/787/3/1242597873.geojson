@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"124.23255,10.14224,124.23255,10.14224",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u063a\u0634"
@@ -258,6 +260,11 @@
     "wof:concordances":{
         "gn:id":11329486
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11329485
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"e539eec1aa1767e1d48fff1e0b801410",
     "wof:hierarchy":[
@@ -270,13 +277,17 @@
         }
     ],
     "wof:id":1242597873,
-    "wof:lastmodified":1566682452,
+    "wof:lastmodified":1706240586,
     "wof:name":"Burgos",
     "wof:parent_id":1108699635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        1226039377
+    ],
+    "wof:supersedes":[
+        1326615825
+    ],
     "wof:tags":[]
 },
   "bbox": [

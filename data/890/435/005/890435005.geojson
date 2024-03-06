@@ -9,9 +9,23 @@
     "geom:bbox":"121.0897,14.6228,121.0897,14.6228",
     "geom:latitude":14.6228,
     "geom:longitude":121.0897,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137400000",
+    "gn:admin3_code":"137402000.0",
+    "gn:asciiname":"Calumpang",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":12,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1720052,
+    "gn:latitude":14.6228,
+    "gn:longitude":121.0897,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Calumpang",
     "gn:population":15589,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"121.0697,14.6028,121.1097,14.6428",
     "lbl:max_zoom":15.0,
@@ -52,7 +66,15 @@
         "wk:page":"Calumpang"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":371836
+        "gn:id":[
+            1720052
+        ],
+        "qs_pg:id":[
+            371836
+        ],
+        "wk:page":[
+            "Calumpang"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052048,
@@ -69,7 +91,7 @@
         }
     ],
     "wof:id":890435005,
-    "wof:lastmodified":1582346806,
+    "wof:lastmodified":1706240581,
     "wof:name":"Calumpang",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",
@@ -77,7 +99,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343791715
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,21 @@
     "geom:bbox":"122.23333,10.65,122.23333,10.65",
     "geom:latitude":10.65,
     "geom:longitude":122.23333,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"63030000.0",
+    "gn:asciiname":"Dingle",
+    "gn:country_code":"PH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1714734,
+    "gn:latitude":10.65,
+    "gn:longitude":122.23333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Dingle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.21333,10.63,122.25333,10.67",
     "lbl:max_zoom":18.0,
@@ -56,6 +71,12 @@
     "name:fra_x_preferred":[
         "Dingle"
     ],
+    "name:gle_x_preferred":[
+        "An Daingean"
+    ],
+    "name:glg_x_preferred":[
+        "An Daingean"
+    ],
     "name:glv_x_preferred":[
         "Yn Dein"
     ],
@@ -78,6 +99,9 @@
         "Dingle"
     ],
     "name:nob_x_preferred":[
+        "Dingle"
+    ],
+    "name:nor_x_preferred":[
         "Dingle"
     ],
     "name:pol_x_preferred":[
@@ -138,7 +162,12 @@
         "wd:id":"Q932302"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032834
+        "gn:id":[
+            1714734
+        ],
+        "qs_pg:id":[
+            1032834
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009817,
@@ -156,13 +185,15 @@
         }
     ],
     "wof:id":421194727,
-    "wof:lastmodified":1690851398,
+    "wof:lastmodified":1706240579,
     "wof:name":"Dingle",
     "wof:parent_id":1108698469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260386345
+    ],
     "wof:tags":[]
 },
   "bbox": [

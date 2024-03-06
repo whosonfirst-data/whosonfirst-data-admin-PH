@@ -9,6 +9,21 @@
     "geom:bbox":"125.05583,7.15444,125.05583,7.15444",
     "geom:latitude":7.15444,
     "geom:longitude":125.05583,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"124713000.0",
+    "gn:asciiname":"President Roxas",
+    "gn:country_code":"PH",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1692781,
+    "gn:latitude":7.15444,
+    "gn:longitude":125.05583,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"President Roxas",
+    "gn:population":10879,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"125.03583,7.13444,125.07583,7.17444",
     "lbl:max_zoom":15.0,
@@ -254,7 +269,15 @@
         "wk:page":"President Roxas, Cotabato"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":134516
+        "gn:id":[
+            1692781
+        ],
+        "qs_pg:id":[
+            134516
+        ],
+        "wk:page":[
+            "President_Roxas%2C_Cotabato"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459010158,
@@ -272,7 +295,7 @@
         }
     ],
     "wof:id":421203635,
-    "wof:lastmodified":1690851423,
+    "wof:lastmodified":1706240579,
     "wof:name":"President Roxas",
     "wof:parent_id":1108698965,
     "wof:placetype":"locality",
@@ -280,7 +303,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310085199
+    ],
     "wof:tags":[]
 },
   "bbox": [

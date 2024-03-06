@@ -9,6 +9,21 @@
     "geom:bbox":"120.41048,15.45392,120.41048,15.45392",
     "geom:latitude":15.45392,
     "geom:longitude":120.41048,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"63",
+    "gn:admin3_code":"36918000.0",
+    "gn:asciiname":"Iba",
+    "gn:country_code":"PH",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1711436,
+    "gn:latitude":15.45392,
+    "gn:longitude":120.41048,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Iba",
+    "gn:population":4574,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.39048,15.43392,120.43048,15.47392",
     "lbl:max_zoom":15.0,
@@ -285,7 +300,12 @@
         "wd:id":"Q56566"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":846206
+        "gn:id":[
+            1711436
+        ],
+        "qs_pg:id":[
+            846206
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009785,
@@ -303,7 +323,7 @@
         }
     ],
     "wof:id":421193845,
-    "wof:lastmodified":1690851400,
+    "wof:lastmodified":1706240579,
     "wof:name":"Iba",
     "wof:parent_id":1108699699,
     "wof:placetype":"locality",
@@ -311,7 +331,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310406983
+    ],
     "wof:tags":[]
 },
   "bbox": [

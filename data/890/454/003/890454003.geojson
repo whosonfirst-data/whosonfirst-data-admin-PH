@@ -9,9 +9,23 @@
     "geom:bbox":"122.61667,10.68333,122.61667,10.68333",
     "geom:latitude":10.68333,
     "geom:longitude":122.61667,
+    "gn:admin1_code":"06",
+    "gn:admin2_code":"J3",
+    "gn:admin3_code":"67901000.0",
+    "gn:asciiname":"Salvacion",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":19,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1690729,
+    "gn:latitude":10.68333,
+    "gn:longitude":122.61667,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Salvacion",
     "gn:population":5565,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.59667,10.66333,122.63667,10.70333",
     "lbl:max_zoom":15.0,
@@ -63,7 +77,12 @@
         "wk:page":"Salvaci\u00f3n"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":134411
+        "gn:id":[
+            1690729
+        ],
+        "qs_pg:id":[
+            134411
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052881,
@@ -81,7 +100,7 @@
         }
     ],
     "wof:id":890454003,
-    "wof:lastmodified":1582346803,
+    "wof:lastmodified":1706240584,
     "wof:name":"Salvacion",
     "wof:parent_id":1108697081,
     "wof:placetype":"locality",
@@ -89,7 +108,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242799311
+    ],
     "wof:tags":[]
 },
   "bbox": [

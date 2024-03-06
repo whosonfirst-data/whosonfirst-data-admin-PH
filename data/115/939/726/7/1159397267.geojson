@@ -9,8 +9,23 @@
     "geom:bbox":"120.914844,14.628011,120.976856,14.701879",
     "geom:latitude":14.66463,
     "geom:longitude":120.943389,
+    "gn:admin1_code":"NCR",
+    "gn:admin2_code":"137500000",
+    "gn:admin3_code":"137503000.0",
+    "gn:asciiname":"Navotas",
+    "gn:country_code":"PH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1697846,
+    "gn:latitude":14.66667,
+    "gn:longitude":120.95,
+    "gn:modification_date":"2017-12-15",
+    "gn:name":"Navotas",
     "gn:population":249463,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
+    "lbl:bbox":"120.93,14.64667,120.97,14.68667",
     "lbl:latitude":14.666832,
     "lbl:longitude":120.942919,
     "lbl:max_zoom":18.0,
@@ -42,6 +57,9 @@
     ],
     "name:eng_x_preferred":[
         "Navotas"
+    ],
+    "name:fil_x_preferred":[
+        "Lungsod ng Navotas"
     ],
     "name:fin_x_preferred":[
         "Navotas"
@@ -206,6 +224,14 @@
         "hasc:id":"PH.MM.NV",
         "wk:page":"Navotas"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1697846
+        ],
+        "wk:page":[
+            "Navotas"
+        ]
+    },
     "wof:country":"PH",
     "wof:geomhash":"5da9f11f4cad45f93213db36ac0c3abc",
     "wof:hierarchy":[
@@ -232,7 +258,7 @@
         "mdh",
         "tsg"
     ],
-    "wof:lastmodified":1636501173,
+    "wof:lastmodified":1706240585,
     "wof:name":"Navotas",
     "wof:parent_id":1159397243,
     "wof:placetype":"locality",
@@ -240,11 +266,13 @@
         "county"
     ],
     "wof:population":249463,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85676379,
-        421198571
+        421198571,
+        1259918161
     ],
     "wof:tags":[]
 },

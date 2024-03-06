@@ -9,6 +9,21 @@
     "geom:bbox":"122.6504,14.299,122.6504,14.299",
     "geom:latitude":14.299,
     "geom:longitude":122.6504,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"15",
+    "gn:admin3_code":"51605000.0",
+    "gn:asciiname":"Larap",
+    "gn:country_code":"PH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707233,
+    "gn:latitude":14.299,
+    "gn:longitude":122.6504,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Larap",
+    "gn:population":4329,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"122.6304,14.279,122.6704,14.319",
     "lbl:max_zoom":15.0,
@@ -56,7 +71,12 @@
         "qs_pg:id":87558
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032711
+        "gn:id":[
+            1707233
+        ],
+        "qs_pg:id":[
+            1032711
+        ]
     },
     "wof:country":"PH",
     "wof:created":1459009448,
@@ -74,7 +94,7 @@
         }
     ],
     "wof:id":421185595,
-    "wof:lastmodified":1582346799,
+    "wof:lastmodified":1706240578,
     "wof:name":"Larap",
     "wof:parent_id":1108697845,
     "wof:placetype":"locality",
@@ -82,7 +102,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259682393
+    ],
     "wof:tags":[]
 },
   "bbox": [

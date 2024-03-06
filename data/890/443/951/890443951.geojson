@@ -9,9 +9,23 @@
     "geom:bbox":"120.71111,14.06333,120.71111,14.06333",
     "geom:latitude":14.06333,
     "geom:longitude":120.71111,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"09",
+    "gn:admin3_code":"41019000.0",
+    "gn:asciiname":"Sabang",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":47,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1691350,
+    "gn:latitude":14.06333,
+    "gn:longitude":120.71111,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Sabang",
     "gn:population":2563,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"120.69111,14.04333,120.73111,14.08333",
     "lbl:max_zoom":15.0,
@@ -54,7 +68,12 @@
         "wk:page":"Sabang"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032325
+        "gn:id":[
+            1691350
+        ],
+        "qs_pg:id":[
+            1032325
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052444,
@@ -72,7 +91,7 @@
         }
     ],
     "wof:id":890443951,
-    "wof:lastmodified":1582346804,
+    "wof:lastmodified":1706240583,
     "wof:name":"Sabang",
     "wof:parent_id":1108698559,
     "wof:placetype":"locality",
@@ -80,7 +99,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310143993
+    ],
     "wof:tags":[]
 },
   "bbox": [

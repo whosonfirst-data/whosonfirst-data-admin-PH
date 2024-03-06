@@ -9,9 +9,23 @@
     "geom:bbox":"121.65595,17.9021,121.65595,17.9021",
     "geom:latitude":17.9021,
     "geom:longitude":121.65595,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"21502000.0",
+    "gn:asciiname":"Alcala",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":31,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1731597,
+    "gn:latitude":17.9021,
+    "gn:longitude":121.65595,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Alcala",
     "gn:population":4667,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"121.63595,17.8821,121.67595,17.9221",
     "lbl:max_zoom":15.0,
@@ -256,7 +270,15 @@
         "wk:page":"Alcal\u00e1"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":846319
+        "gn:id":[
+            1731597
+        ],
+        "qs_pg:id":[
+            846319
+        ],
+        "wk:page":[
+            "Alcala%2C_Cagayan"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052364,
@@ -274,7 +296,7 @@
         }
     ],
     "wof:id":890442489,
-    "wof:lastmodified":1690851806,
+    "wof:lastmodified":1706240583,
     "wof:name":"Alcala",
     "wof:parent_id":1108696603,
     "wof:placetype":"locality",
@@ -282,7 +304,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343366827
+    ],
     "wof:tags":[]
 },
   "bbox": [

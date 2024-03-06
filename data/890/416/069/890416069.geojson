@@ -9,9 +9,23 @@
     "geom:bbox":"121.42333,13.93111,121.42333,13.93111",
     "geom:latitude":13.93111,
     "geom:longitude":121.42333,
+    "gn:admin1_code":"40",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"45608000.0",
+    "gn:asciiname":"Candelaria",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":72,
     "gn:fcode":"PPLA3",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1719274,
+    "gn:latitude":13.93111,
+    "gn:longitude":121.42333,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Candelaria",
     "gn:population":60881,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"121.40333,13.91111,121.44333,13.95111",
     "lbl:max_zoom":14.0,
@@ -250,7 +264,15 @@
         "wk:page":"Candelaria"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":135485
+        "gn:id":[
+            1719274
+        ],
+        "qs_pg:id":[
+            135485
+        ],
+        "wk:page":[
+            "Candelaria%2C_Quezon"
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469051118,
@@ -268,7 +290,7 @@
         }
     ],
     "wof:id":890416069,
-    "wof:lastmodified":1690851793,
+    "wof:lastmodified":1706240579,
     "wof:name":"Candelaria",
     "wof:parent_id":1108697245,
     "wof:placetype":"locality",
@@ -276,7 +298,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360127055
+    ],
     "wof:tags":[]
 },
   "bbox": [

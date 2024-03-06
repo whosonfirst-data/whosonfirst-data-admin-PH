@@ -9,9 +9,23 @@
     "geom:bbox":"125.23472,6.11639,125.23472,6.11639",
     "geom:latitude":6.11639,
     "geom:longitude":125.23472,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"126303000.0",
+    "gn:asciiname":"Buayan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":13,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1723679,
+    "gn:latitude":6.11639,
+    "gn:longitude":125.23472,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Buayan",
     "gn:population":14607,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"125.21472,6.09639,125.25472,6.13639",
     "lbl:max_zoom":15.0,
@@ -43,10 +57,16 @@
     "wof:concordances":{
         "gn:id":1724561,
         "gp:id":91464289,
-        "qs_pg:id":135608
+        "qs_pg:id":135608,
+        "wk:page":"Buayan"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":135646
+        "gn:id":[
+            1723679
+        ],
+        "qs_pg:id":[
+            135646
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052025,
@@ -64,7 +84,7 @@
         }
     ],
     "wof:id":890434451,
-    "wof:lastmodified":1582346805,
+    "wof:lastmodified":1706240581,
     "wof:name":"Buayan",
     "wof:parent_id":1108697635,
     "wof:placetype":"locality",
@@ -72,7 +92,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310082145
+    ],
     "wof:tags":[]
 },
   "bbox": [

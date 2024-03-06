@@ -9,9 +9,23 @@
     "geom:bbox":"123.27101,12.19815,123.27101,12.19815",
     "geom:latitude":12.19815,
     "geom:longitude":123.27101,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"54110000.0",
+    "gn:asciiname":"Lantangan",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":17,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707445,
+    "gn:latitude":12.19815,
+    "gn:longitude":123.27101,
+    "gn:modification_date":"2017-12-13",
+    "gn:name":"Lantangan",
     "gn:population":2385,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"123.25101,12.17815,123.29101,12.21815",
     "lbl:max_zoom":15.0,
@@ -43,7 +57,12 @@
         "qs_pg:id":1032726
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1032727
+        "gn:id":[
+            1707445
+        ],
+        "qs_pg:id":[
+            1032727
+        ]
     },
     "wof:country":"PH",
     "wof:created":1469052202,
@@ -61,7 +80,7 @@
         }
     ],
     "wof:id":890438623,
-    "wof:lastmodified":1582346803,
+    "wof:lastmodified":1706240582,
     "wof:name":"Lantangan",
     "wof:parent_id":1108698347,
     "wof:placetype":"locality",
@@ -69,7 +88,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209312969
+    ],
     "wof:tags":[]
 },
   "bbox": [

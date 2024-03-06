@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"123.3596,13.2966,123.3596,13.2966",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Buga"
@@ -73,14 +75,16 @@
         }
     ],
     "wof:id":1343654733,
-    "wof:lastmodified":1566679327,
+    "wof:lastmodified":1706240584,
     "wof:name":"Buga",
     "wof:parent_id":1108698073,
     "wof:placetype":"locality",
     "wof:population":3666,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890451595
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

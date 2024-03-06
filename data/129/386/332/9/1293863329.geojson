@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"124.66741,6.49804,124.66741,6.49804",
@@ -29,7 +31,7 @@
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Esperanza"
@@ -136,14 +138,16 @@
         }
     ],
     "wof:id":1293863329,
-    "wof:lastmodified":1636500905,
+    "wof:lastmodified":1706240578,
     "wof:name":"Esperanza",
     "wof:parent_id":1108698675,
     "wof:placetype":"locality",
     "wof:population":2398,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-ph",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421178117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

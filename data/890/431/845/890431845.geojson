@@ -9,9 +9,23 @@
     "geom:bbox":"124.65889,6.74028,124.65889,6.74028",
     "geom:latitude":6.74028,
     "geom:longitude":124.65889,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"71",
+    "gn:admin3_code":"126511000.0",
+    "gn:asciiname":"Gansing",
     "gn:country":"PH",
+    "gn:country_code":"PH",
+    "gn:dem":39,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1713238,
+    "gn:latitude":6.74072,
+    "gn:longitude":124.66132,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Gansing",
     "gn:population":5031,
+    "gn:timezone":"Asia/Manila",
     "iso:country":"PH",
     "lbl:bbox":"124.63889,6.72028,124.67889,6.76028",
     "lbl:max_zoom":15.0,
@@ -21,6 +35,10 @@
     "mz:min_zoom":11.0,
     "name:fil_x_preferred":[
         "Gansing"
+    ],
+    "name:fil_x_variant":[
+        "Gansing",
+        "Bilumen"
     ],
     "qs:name":"Gansing",
     "qs:photos_9r":0,
@@ -39,6 +57,11 @@
         "gp:id":1195570,
         "qs_pg:id":277197
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1713238
+        ]
+    },
     "wof:country":"PH",
     "wof:created":1469051917,
     "wof:geomhash":"308ca021e71dd54851d2a94ab31f9a51",
@@ -52,7 +75,7 @@
         }
     ],
     "wof:id":890431845,
-    "wof:lastmodified":1566681989,
+    "wof:lastmodified":1706240580,
     "wof:name":"Gansing",
     "wof:parent_id":1108699597,
     "wof:placetype":"locality",
@@ -60,7 +83,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-ph",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293077605
+    ],
     "wof:tags":[]
 },
   "bbox": [
